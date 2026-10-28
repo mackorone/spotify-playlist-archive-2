@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,117 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,119 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [wrapped](https://open.spotify.com/track/4P9G6gHP2NnNXhwDA3qVuB) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [wrapped](https://open.spotify.com/album/0I8rdVH8xmtoNLSs5wfuG4) | 2:50 |
 | 2 | [It Ain't Really Christmas](https://open.spotify.com/track/0dPIPHcVQOpIITGai0NIhr) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [A Drake Milligan Christmas](https://open.spotify.com/album/5QaW8srykW5hiAiESZuWV4) | 2:46 |
 | 3 | [The Innkeeper](https://open.spotify.com/track/0zio39hVb8a2tzh3zqH2nm) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/1GHRBrwDlfDlGXBhQqlxlA) | 3:21 |
-| 4 | [All Wrapped Up In You](https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [All Wrapped Up In You](https://open.spotify.com/album/1iJ9t4DG0517RBE3LhSKN3) | 3:29 |
+| 4 | [All Wrapped Up In You \(2026 Version\)](https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [All Wrapped Up In You \(2026 Version\)](https://open.spotify.com/album/1iJ9t4DG0517RBE3LhSKN3) | 3:29 |
 | 5 | [April's Gone \(with Chris Stapleton\)](https://open.spotify.com/track/3dQGIaKFqXMaWunmfxPNjN) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [April's Gone \(with Chris Stapleton\)](https://open.spotify.com/album/1bqunVAYMifyWG4VXYRix5) | 4:32 |
 | 6 | [White Christmas](https://open.spotify.com/track/0FLyIRYB5bLP3g4Twj2OeE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [White Christmas](https://open.spotify.com/album/3lZstgDdP8HK7UhW8nbmMv) | 2:50 |
 | 7 | [Where Are You Christmas](https://open.spotify.com/track/5LOfUJq5k1xwVKKVqG8qBY) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Where Are You Christmas](https://open.spotify.com/album/7atEmbASdfjGZrkGtuoPj5) | 3:53 |

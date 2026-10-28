@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: M.G.L., Alessandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,734 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,727 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 17 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 |
 | 18 | [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 |
 | 19 | [ADIO](https://open.spotify.com/track/4u9r6XJ82THFjemVcHjGsC) | [Larya](https://open.spotify.com/artist/3rHoDvDUVaxpMBI9mnBC4P), [SEVEN](https://open.spotify.com/artist/0gY0xqBydHZ18MMEE4FJ4J), [ZEN](https://open.spotify.com/artist/2mHY7Wxj1rNc6VBTyg814F) | [ADIO](https://open.spotify.com/album/5wOgeGxYySkQQ7dDDq3eyL) | 2:55 |
-| 20 | [ultima \(noapte\)](https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ultima \(noapte\)](https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC) | 3:48 |
-| 21 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
+| 20 | [Sunt fratii tai](https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Direct din Tei](https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr) | 2:39 |
+| 21 | [ultima \(noapte\)](https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ultima \(noapte\)](https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC) | 3:48 |
 | 22 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 23 | [Reggaeton](https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA) | [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ), [Maria Brasil](https://open.spotify.com/artist/4EZparNGyFEDiWn83XaieN) | [Reggaeton](https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9) | 2:37 |
 | 24 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 30 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 |
 | 31 | [BACCARAT](https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [BACCARAT](https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2) | 2:41 |
 | 32 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
-| 33 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
-| 34 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
+| 33 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
+| 34 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 35 | [TÂRZIU](https://open.spotify.com/track/2OGs4Cs3yxfp0rqBpdgiYE) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [TÂRZIU](https://open.spotify.com/album/7f19U7dqscOlCWAr6BiA4A) | 4:18 |
 | 36 | [Kilian](https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Kilian](https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3) | 2:05 |
 | 37 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |

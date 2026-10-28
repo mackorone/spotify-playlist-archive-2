@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Ilusion Eterno ",
-  "num_followers": 12786,
+  "num_followers": 12785,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Navidad Rock",
-        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 127373,
-      "name": "Navidad Rock",
-      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 174600,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6Lmnli1aPgP4ze8SyWRzBf"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Navidad Rock",
+        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 127373,
+      "name": "Navidad Rock",
+      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "La G\u00fcera Salom\u00e9",
-        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "La G\u00fcera Salom\u00e9",
-      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "El Burrito Sabanero",
         "url": "https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 231916,
       "name": "El Burrito Sabanero",
       "url": "https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "La G\u00fcera Salom\u00e9",
+        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "La G\u00fcera Salom\u00e9",
+      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
     },
     {
       "added_at": "2025-12-19 05:00:41",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp"
-      },
-      "artists": [
-        {
-          "name": "Banda Fortuna",
-          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
-        }
-      ],
-      "duration_ms": 190146,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 197801,
       "name": "Campanas Navide\u00f1as",
       "url": "https://open.spotify.com/track/34UR0VBlJPPhTYzuGrYyXW"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp"
+      },
+      "artists": [
+        {
+          "name": "Banda Fortuna",
+          "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
+        }
+      ],
+      "duration_ms": 190146,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
     },
     {
       "added_at": "2025-12-19 05:00:41",

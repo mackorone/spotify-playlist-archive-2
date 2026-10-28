@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,562 songs - 5 day 16 hr 44 min
+2,563 songs - 5 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Already Gone](https://open.spotify.com/track/5BFY1PDKOZuu75tx5iPpee) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Already Gone](https://open.spotify.com/album/6UHRAPgRbUMxCnzskPlSus) | 3:13 | 2025-10-24 | 2026-01-17 |
 | [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-06-14 | 2024-07-13 |
 | [Already Know](https://open.spotify.com/track/5wcXX7b0aGkvrF86BuzSV2) | [ELPENTHE](https://open.spotify.com/artist/5neRLK08a8gW8GHTiev0hY), [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Already Know](https://open.spotify.com/album/1TtD0tM0553ENDdBjrvFmN) | 2:53 | 2022-04-25 | 2022-07-19 |
+| [Already Low](https://open.spotify.com/track/4ZiuC55hl9Jg4sCVhm8oFi) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Back to Pennsylvania](https://open.spotify.com/album/5knLtpvnr1rjcL7u7dbjzy) | 2:46 | 2026-10-16 |  |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 | 2025-02-19 |
 | [alright?](https://open.spotify.com/track/54wIOQkXFjt4b8ISi22R1S) | [Luke Royalty](https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR) | [my blue room](https://open.spotify.com/album/7l5jkO8Mhaglz4rz5AoRdW) | 2:29 | 2022-04-08 | 2022-04-21 |
 | [always](https://open.spotify.com/track/5VyDhDfrTZuywIydd5R7j2) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/4LTNyTHaPmgBwzR3JWKhst) | 2:52 | 2020-10-16 | 2022-04-20 |
@@ -2202,7 +2203,7 @@
 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 | 2022-10-08 | 2022-10-15 |
 | [Tainted](https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Tainted](https://open.spotify.com/album/1RLsN47hAGZn9ab3diH7MM) | 2:53 | 2026-01-23 | 2026-03-30 |
 | [Tainted Love](https://open.spotify.com/track/2nx6I5R9C8nfBofUdlXoRA) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Tainted Love](https://open.spotify.com/album/2jUIRTC8OpmKuEsgejMi2T) | 3:21 | 2022-04-01 | 2022-08-06 |
-| [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-12 |  |
+| [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 | 2025-09-12 | 2026-10-28 |
 | [Take A Picture](https://open.spotify.com/track/1OEY00cGA1a6XOs6G5abda) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Take A Picture](https://open.spotify.com/album/3p6d7vvRTf9A5pHTXuCPIp) | 4:31 | 2026-05-25 | 2026-06-06 |
 | [take it off](https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [take it off](https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4) | 3:07 | 2024-08-09 | 2024-08-24 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-05-03 | 2021-05-08 |

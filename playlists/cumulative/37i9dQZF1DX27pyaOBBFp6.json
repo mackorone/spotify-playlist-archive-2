@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 229453,
       "name": "Suzanne - Original Version",
       "url": "https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2"
@@ -1394,6 +1394,24 @@
       "duration_ms": 146093,
       "name": "Tachtig Rode Rozen",
       "url": "https://open.spotify.com/track/7loJOA8d0eXsIsKr2xXBWX"
+    },
+    {
+      "album": {
+        "name": "One Man Show 1967",
+        "url": "https://open.spotify.com/album/32UDEV8bgjXTIqJumuODJD"
+      },
+      "artists": [
+        {
+          "name": "Toon Hermans",
+          "url": "https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205856,
+      "name": "Tango bleu",
+      "url": "https://open.spotify.com/track/0eOiH3LstB5U0QfJrOkuuk"
     },
     {
       "album": {

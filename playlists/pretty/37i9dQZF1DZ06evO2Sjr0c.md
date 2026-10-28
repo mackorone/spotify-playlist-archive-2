@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,349 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,350 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 34 | [Not Fade Away / Goin' down the Road Feeling Bad \- Live at Manhattan Center, New York, NY, April 5, 1971](https://open.spotify.com/track/3JZeVTm20lmT0wTui4oWh9) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 9:12 |
 | 35 | [Easy Wind \- 2013 Remaster](https://open.spotify.com/track/4n9pxaY7bTDMnw9biuCkhu) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:59 |
 | 36 | [New Minglewood Blues \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/27nasmd5S8eIvIkAa7wnSo) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 5:34 |
-| 37 | [Keep On Growing \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 4:37 |
-| 38 | [Good Lovin' \- 2013 Remaster](https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 4:51 |
+| 37 | [Good Lovin' \- 2013 Remaster](https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 4:51 |
+| 38 | [Keep On Growing \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 4:37 |
 | 39 | [St\. Stephen \- 2013 Remaster](https://open.spotify.com/track/1Hd5JgVdf45pyZJiUyIe9w) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Aoxomoxoa \(2013 Remaster\)](https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd) | 4:27 |
 | 40 | [Mama Tried \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/6h7RCPkZvG7T4Rp02Xa0sE) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 3:11 |
-| 41 | [Big Railroad Blues \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/4SJ4n0n3Rq2lWFv3JvfYpj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 4:11 |
-| 42 | [Ship of Fools \- 2013 Remaster](https://open.spotify.com/track/5ks4ht7EDua6UsaI4Dk7Lz) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 5:28 |
+| 41 | [Ship of Fools \- 2013 Remaster](https://open.spotify.com/track/5ks4ht7EDua6UsaI4Dk7Lz) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [From the Mars Hotel](https://open.spotify.com/album/68jAZmtRB51enSAufOJBtJ) | 5:28 |
+| 42 | [Big Railroad Blues \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/4SJ4n0n3Rq2lWFv3JvfYpj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 4:11 |
 | 43 | [Throwing Stones \- 2013 Remaster](https://open.spotify.com/track/4US41qlynueHuB4czgwqi8) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [In the Dark](https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa) | 7:21 |
 | 44 | [Help on the Way / Slipknot! \- 2013 Remaster](https://open.spotify.com/track/5mWhyozge9IIMdfIboHgGI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 7:21 |
 | 45 | [Alabama Getaway \- 2013 Remaster](https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Go to Heaven](https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT) | 3:36 |

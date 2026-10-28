@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,714 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,721 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Church \- Live](https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 7:00 |
-| 2 | [All The Glory \- Live](https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [All The Glory \(Live\)](https://open.spotify.com/album/4fJIDZZF1WAYSmnY6MbgCs) | 7:31 |
+| 2 | [All The Glory](https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [All The Glory](https://open.spotify.com/album/4fJIDZZF1WAYSmnY6MbgCs) | 7:31 |
 | 3 | [Goodness of God \(Live\)](https://open.spotify.com/track/0HE3SH6fvxdRIUq54HjVq0) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Victory \(Live\)](https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz) | 4:56 |
 | 4 | [Holy Forever](https://open.spotify.com/track/7FufqShqWlNP606lT9iNr1) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 5:24 |
 | 5 | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/track/3hWMtByfAKKngn5lpx8jBJ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Raise a Hallelujah \(Studio Version\)](https://open.spotify.com/album/3oYlxPR24DAf59TdxXoJVb) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Mi Esperanza Está en Jesús \(En Vivo\)](https://open.spotify.com/track/4yE8DVGo9zXET84d8uRp4V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 4:51 |
 | 50 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
 
-Snapshot ID: `atv1AAAAAADc2Tsu5e+JzLK+z3hS8srY`
+Snapshot ID: `at1GgAAAAACs9CmC8dtLxdGs1Z89pz0H`

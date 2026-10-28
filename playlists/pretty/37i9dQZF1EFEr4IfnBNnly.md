@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 15 | [Sugar](https://open.spotify.com/track/0g0M9J3y1LIJ5iVZBu8ko6) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 4:32 |
 | 16 | [River Runs Deep](https://open.spotify.com/track/0iaiyqBHImnn3BRcmPaJMG) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [River Runs Deep](https://open.spotify.com/album/1R8orAQgeQ1srNeqiRbHgh) | 4:08 |
 | 17 | [chi girl](https://open.spotify.com/track/6tL3Sx7TzUxn8SP8G9uXvb) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 3:06 |
-| 18 | [Nowhere To Hide](https://open.spotify.com/track/7eokNjEK64bAw6Cr7OoKP5) | [Josh Daniel](https://open.spotify.com/artist/2a2d2tEf1DleP1l10YZutF) | [Nowhere To Hide](https://open.spotify.com/album/4DfQbHMk3ECvTeNIoiyTXJ) | 3:05 |
-| 19 | [Hold You Close](https://open.spotify.com/track/6XUqh81UVxLLp9AUGoUW0E) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:47 |
+| 18 | [Hold You Close](https://open.spotify.com/track/6XUqh81UVxLLp9AUGoUW0E) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:47 |
+| 19 | [Nowhere To Hide](https://open.spotify.com/track/7eokNjEK64bAw6Cr7OoKP5) | [Josh Daniel](https://open.spotify.com/artist/2a2d2tEf1DleP1l10YZutF) | [Nowhere To Hide](https://open.spotify.com/album/4DfQbHMk3ECvTeNIoiyTXJ) | 3:05 |
 | 20 | [GOOD4U](https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [OXO](https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT) | 3:48 |
 | 21 | [You Can Go](https://open.spotify.com/track/5L8VFI43vnr1n9O1t2xYOn) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [You Can Go](https://open.spotify.com/album/2GkcEIhJfO93IB4XF80jPR) | 2:22 |
 | 22 | [Plan B](https://open.spotify.com/track/47NALPlJmO9heUjMBwmGBt) | [Hollie Carmen](https://open.spotify.com/artist/3mGhGYX5tURxYEtKYauuYr) | [Plan B](https://open.spotify.com/album/6lug1N0hS94VcxQGY9ekng) | 3:40 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 51 | [High](https://open.spotify.com/track/0TLl0EKtJUIgp3H89Wc4Yl) | [PATOBO](https://open.spotify.com/artist/47Xy9sgpBgG2IbxPWSAnib), [Panna Pejtsik](https://open.spotify.com/artist/2eSkSj35EJAiaUt1Uvg4Ft) | [WEHMOTIONS](https://open.spotify.com/album/0FmfuYbQVkIYxXLccCIkXh) | 2:54 |
 | 52 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `AcgAwgAAAAA6EO5cWeVdxYAVa4/1D7Eu`
+Snapshot ID: `AcgGYgAAAACnu3fztuK8NwQirdv9LiBo`

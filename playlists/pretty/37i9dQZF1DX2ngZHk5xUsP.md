@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,993 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,995 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 28 | [Membisu](https://open.spotify.com/track/0MCcd7qtxzOXncK5eFaBeW) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:57 |
 | 29 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 |
 | 30 | [Insya Allah](https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Insya Allah](https://open.spotify.com/album/27Ul1EwxPb7vJ4DBUX8MOg) | 3:23 |
-| 31 | [pizza pepperoni](https://open.spotify.com/track/57S5BHScJunq9w9Z5Aa0Df) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [pizza pepperoni](https://open.spotify.com/album/5UfIQx3mYTyOslGlsPotyL) | 2:20 |
-| 32 | [Tennessee Whiskey](https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Tennessee Whiskey](https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7) | 4:08 |
+| 31 | [Tennessee Whiskey](https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Tennessee Whiskey](https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7) | 4:08 |
+| 32 | [pizza pepperoni](https://open.spotify.com/track/57S5BHScJunq9w9Z5Aa0Df) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [pizza pepperoni](https://open.spotify.com/album/5UfIQx3mYTyOslGlsPotyL) | 2:20 |
 | 33 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 |
 | 34 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
 | 35 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 44 | [Surfin' Java](https://open.spotify.com/track/1gZilfYqLdnpOtc33O2OyM) | [The Mentawais](https://open.spotify.com/artist/0hj0i2IkfZpSCUPPFqVMhR) | [Surfin' Java](https://open.spotify.com/album/3uT9x3fRiGdHWWsH59yOvG) | 3:25 |
 | 45 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
 | 46 | [Kanebo Kering](https://open.spotify.com/track/7KWNzwt17jrydxTkSB5VZD) | [Kuburan](https://open.spotify.com/artist/7GuqVpODs8wCyUXNDCLhkb) | [JASS FRIEND](https://open.spotify.com/album/2qZpBiwLuXXqtiBoz7Hv5i) | 2:57 |
-| 47 | [Broken Symphony](https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Divine](https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI) | 4:22 |
-| 48 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
+| 47 | [Secercah Asa](https://open.spotify.com/track/1GMJSFfscBMvvOJjimfPhH) | [Rasukma](https://open.spotify.com/artist/4Ry4dtcZAYudS7HZTtyCOE) | [Ramu Waktu](https://open.spotify.com/album/7H0neemclan1YAoMNSLxum) | 3:09 |
+| 48 | [Broken Symphony](https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Divine](https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI) | 4:22 |
 | 49 | [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 |
 | 50 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:08 |
 

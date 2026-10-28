@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 525499,
+  "num_followers": 525595,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Mi Libertador",
-        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 491232,
-      "name": "Mi Libertador",
-      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Mi Casa Y Yo / Lo Que Parte el Corazon (Doble Album)",
         "url": "https://open.spotify.com/album/1VQLKnIDbretCq2tZ7zM0D"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 241706,
       "name": "Creyendo En Ti",
       "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Mi Libertador",
+        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 491232,
+      "name": "Mi Libertador",
+      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 233437,
+      "name": "Mareas (todo a su tiempo)",
+      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "4t",
         "url": "https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 255879,
       "name": "Quien Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 233437,
-      "name": "Mareas (todo a su tiempo)",
-      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "S\u00f3lo a Ti Jes\u00fas",
-        "url": "https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc"
-      },
-      "artists": [
-        {
-          "name": "Omi Rodriguez",
-          "url": "https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR"
-        }
-      ],
-      "duration_ms": 216794,
-      "name": "S\u00f3lo a Ti Jes\u00fas",
-      "url": "https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "El Milagro",
         "url": "https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 234475,
       "name": "El Milagro",
       "url": "https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "S\u00f3lo a Ti Jes\u00fas",
+        "url": "https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc"
+      },
+      "artists": [
+        {
+          "name": "Omi Rodriguez",
+          "url": "https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR"
+        }
+      ],
+      "duration_ms": 216794,
+      "name": "S\u00f3lo a Ti Jes\u00fas",
+      "url": "https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Glorioso Rey",
         "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1487,8 +1487,8 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
       },
       "artists": [
         {
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1555,6 +1555,54 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 240483,
+      "name": "Himno De Victoria",
+      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Cuan Gran Amor",
         "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
       },
@@ -1567,22 +1615,6 @@
       "duration_ms": 248813,
       "name": "Que Se Llene Tu Casa",
       "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1607,22 +1639,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 264800,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "El Cielo Gobierna",
-        "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
-      },
-      "artists": [
-        {
-          "name": "David Scarpeta",
-          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
-        }
-      ],
-      "duration_ms": 265280,
-      "name": "El Cielo Gobierna",
-      "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1675,8 +1675,8 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+        "name": "Voy A Profetizar",
+        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
       "artists": [
         {
@@ -1684,9 +1684,25 @@
           "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 240483,
-      "name": "Himno De Victoria",
-      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
+      "duration_ms": 284238,
+      "name": "El Rey Te Mand\u00f3 Llamar",
+      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "El Cielo Gobierna",
+        "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
+      },
+      "artists": [
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        }
+      ],
+      "duration_ms": 265280,
+      "name": "El Cielo Gobierna",
+      "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1755,22 +1771,6 @@
       "duration_ms": 266947,
       "name": "Bendecir Tu Nombre",
       "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Voy A Profetizar",
-        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "El Rey Te Mand\u00f3 Llamar",
-      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
     },
     {
       "added_at": "2026-05-12 05:08:23",

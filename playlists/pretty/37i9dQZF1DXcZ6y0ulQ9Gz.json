@@ -1,6 +1,6 @@
 {
   "description": "The best indie of then and the best of now w/ Sophia Stel",
-  "num_followers": 42411,
+  "num_followers": 42414,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-10-23 04:03:07",
       "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
+    },
+    {
+      "added_at": "2026-10-23 04:03:07",
+      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 225980,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
-    },
-    {
-      "added_at": "2026-10-23 04:03:07",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 221874,
-      "name": "Perfect Places",
-      "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
     },
     {
       "added_at": "2026-10-23 04:03:07",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-10-23 04:03:07",
       "album": {
-        "name": "This Is How Tomorrow Moves",
-        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
-    },
-    {
-      "added_at": "2026-10-23 04:03:07",
-      "album": {
         "name": "White Feather Hawk Tail Deer Hunter",
         "url": "https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 234049,
       "name": "White Feather Hawk Tail Deer Hunter",
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
+    },
+    {
+      "added_at": "2026-10-23 04:03:07",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 221874,
+      "name": "Perfect Places",
+      "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
     },
     {
       "added_at": "2026-10-23 04:03:07",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-10-23 04:03:07",
       "album": {
-        "name": "the theory of you",
-        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 208510,
-      "name": "tower of memories",
-      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
-    },
-    {
-      "added_at": "2026-10-23 04:03:07",
-      "album": {
         "name": "SALES LP",
         "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 187333,
       "name": "Pope Is a Rockstar",
       "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "added_at": "2026-10-23 04:03:07",
+      "album": {
+        "name": "the theory of you",
+        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
     },
     {
       "added_at": "2026-10-23 04:03:07",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-10-23 04:03:07",
       "album": {
-        "name": "The Crux",
-        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6"
-    },
-    {
-      "added_at": "2026-10-23 04:03:07",
-      "album": {
         "name": "A Little Rhythm and a Wicked Feeling",
         "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 236363,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm"
+    },
+    {
+      "added_at": "2026-10-23 04:03:07",
+      "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6"
     },
     {
       "added_at": "2026-10-23 04:03:07",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2026-10-23 04:03:07",
       "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+      "duration_ms": 234383,
+      "name": "I Lied (with August Ponthier)",
+      "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
     },
     {
       "added_at": "2026-10-23 04:03:07",

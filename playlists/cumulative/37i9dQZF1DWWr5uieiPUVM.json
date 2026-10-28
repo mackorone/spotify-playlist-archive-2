@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "raflow caio e tz na conten\u00e7\u00e3o",
+  "description": "a session do tz e tue ",
   "name": "O Trap Mais Caro",
   "tracks": [
     {
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 194726,
       "name": "Animais Traidores 2",
       "url": "https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX"
@@ -12252,7 +12252,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 207179,
       "name": "MEU CEMIT\u00c9RIO",
       "url": "https://open.spotify.com/track/0h9GmCGvM0meVHfF0XrnHJ"
@@ -12848,6 +12848,28 @@
       "duration_ms": 196800,
       "name": "MUNDO DO WIU",
       "url": "https://open.spotify.com/track/2M5dL30uouNRi8kwhI5QRD"
+    },
+    {
+      "album": {
+        "name": "Mundo Fashion",
+        "url": "https://open.spotify.com/album/0h2u1ikVqnFckItpMMVl58"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241994,
+      "name": "Mundo Fashion",
+      "url": "https://open.spotify.com/track/52EfPNdYLQDbv2OHOuoUue"
     },
     {
       "album": {
@@ -16104,6 +16126,28 @@
       "duration_ms": 124662,
       "name": "PR\u00caMIO MULTISHOW",
       "url": "https://open.spotify.com/track/6yMwEg04MIcrJpcokK75yI"
+    },
+    {
+      "album": {
+        "name": "PR\u00d3LOGO (Levando O Sol Comigo)",
+        "url": "https://open.spotify.com/album/4By2pwKdLSDPNyoEbrAcX5"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "PR\u00d3LOGO (Levando O Sol Comigo)",
+      "url": "https://open.spotify.com/track/6gp2F6jcBdNllpl5yE7kn9"
     },
     {
       "album": {

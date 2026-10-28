@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259853,
+  "num_followers": 259852,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Trilhas",
-        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Barquinho de papel",
-      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 225920,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Trilhas",
+        "url": "https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Barquinho de papel",
+      "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -764,22 +764,6 @@
       "added_at": "2026-08-21 03:00:30",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
       "artists": [
@@ -791,6 +775,22 @@
       "duration_ms": 214586,
       "name": "Lost In Japan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -807,22 +807,6 @@
       "duration_ms": 182906,
       "name": "Nothing But a Song - Bonus Acoustic Version",
       "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Price Tag",
-        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Price Tag - Acoustic Version",
-      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Live At AllSaints Studios",
-        "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
+        "name": "Price Tag",
+        "url": "https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Thunder - Live/Acoustic",
-      "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
+      "duration_ms": 198960,
+      "name": "Price Tag - Acoustic Version",
+      "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -875,6 +859,22 @@
       "duration_ms": 156774,
       "name": "A Gente S\u00f3 Conhece Quando Termina",
       "url": "https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Live At AllSaints Studios",
+        "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Thunder - Live/Acoustic",
+      "url": "https://open.spotify.com/track/2mZrKpdrNUA4oZJWzTunqZ"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Poema",
-        "url": "https://open.spotify.com/album/1vYw1oycPT5VI2FYEw94iX"
-      },
-      "artists": [
-        {
-          "name": "Dani Flomin",
-          "url": "https://open.spotify.com/artist/4HSYM8llhUFCWgPhwUcMGJ"
-        },
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/5Ej9jsKKWRnogY4ct3ETLr"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
       },
@@ -1195,18 +1171,26 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Sozinho e Bem Acompanhado",
-        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/1vYw1oycPT5VI2FYEw94iX"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Dani Flomin",
+          "url": "https://open.spotify.com/artist/4HSYM8llhUFCWgPhwUcMGJ"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 206445,
-      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
-      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
+      "duration_ms": 228640,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/5Ej9jsKKWRnogY4ct3ETLr"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1223,6 +1207,22 @@
       "duration_ms": 149451,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Sozinho e Bem Acompanhado",
+        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 206445,
+      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
+      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
-        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 207833,
-      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Sorry Not Sorry",
         "url": "https://open.spotify.com/album/54PMEQXp5bKRAdP699bKiU"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+        "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
+        "url": "https://open.spotify.com/album/4w6pK462pLIEnI9wD3hdQT"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
         }
       ],
-      "duration_ms": 222270,
-      "name": "Attention - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+      "duration_ms": 207833,
+      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1431,6 +1415,22 @@
       "duration_ms": 210000,
       "name": "Can't Tame Her - Acoustic",
       "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "Attention - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Sentimento Raro (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7y9MF6BqOm1Ugg7dBJYRCu"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 109043,
-      "name": "Sentimento Raro (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6HLv0u75vVC7YV9gJx4RGh"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 141330,
       "name": "Bad Memories - Acoustic",
       "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Sentimento Raro (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7y9MF6BqOm1Ugg7dBJYRCu"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 109043,
+      "name": "Sentimento Raro (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6HLv0u75vVC7YV9gJx4RGh"
     },
     {
       "added_at": "2026-08-21 03:00:30",

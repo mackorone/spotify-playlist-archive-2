@@ -960,7 +960,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 204023,
       "name": "Arde Outra Vez",
       "url": "https://open.spotify.com/track/6qWzAG4F9VkgXRFGGF9Ak7"
@@ -7704,6 +7704,24 @@
       "duration_ms": 219759,
       "name": "Os Dois Lados",
       "url": "https://open.spotify.com/track/4ss3aaCFZ8s5diIC0IoqTI"
+    },
+    {
+      "album": {
+        "name": "Intimidade - Vol. 02",
+        "url": "https://open.spotify.com/album/7cIcQEmIcslu1waNnVYZYp"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201730,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/7MGVbozNqR2v7chUxF5xsi"
     },
     {
       "album": {

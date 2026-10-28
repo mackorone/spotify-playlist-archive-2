@@ -1,13 +1,77 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: gleame. Artwork by Paola Saliby",
-  "num_followers": 244991,
+  "num_followers": 245020,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIZyKhSMBDexeObEiu+TJ7GNdDAw",
+  "snapshot_id": "AAAAAFmArH/T8sJuOtoqEwIME3nkNSUQ",
   "tracks": [
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Liquor Logic",
+        "url": "https://open.spotify.com/album/2RCqpCNO9FKTxfAeHEaWJq"
+      },
+      "artists": [
+        {
+          "name": "Kaibrienne",
+          "url": "https://open.spotify.com/artist/2Y5kIVRp9IrPYNOc5PePo9"
+        }
+      ],
+      "duration_ms": 205683,
+      "name": "Liquor Logic",
+      "url": "https://open.spotify.com/track/7BOwcZmv8gfksKA8auIquC"
+    },
+    {
+      "added_at": "2026-10-28 04:00:07",
+      "album": {
+        "name": "What Would I Do?",
+        "url": "https://open.spotify.com/album/5pQDZXu1UoG0052v3mOabg"
+      },
+      "artists": [
+        {
+          "name": "Tyler Miller",
+          "url": "https://open.spotify.com/artist/7tD6cGrcNPMfUl71KlFdBI"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "What Would I Do?",
+      "url": "https://open.spotify.com/track/09p59Cy2C4faahmKQGpnMU"
+    },
+    {
+      "added_at": "2026-10-28 04:00:07",
+      "album": {
+        "name": "Mess Like Mine",
+        "url": "https://open.spotify.com/album/4kpljS5dfnZdR5BMyhiBsX"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 148228,
+      "name": "Mess Like Mine",
+      "url": "https://open.spotify.com/track/05iS20Z4HCIEJvjdz6ocIz"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo"
+      },
+      "artists": [
+        {
+          "name": "Mel Raeburn",
+          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
+    },
     {
       "added_at": "2026-10-21 04:00:15",
       "album": {
@@ -25,20 +89,20 @@
       "url": "https://open.spotify.com/track/4hu0tmoOOb9SkbgNfvh7Jq"
     },
     {
-      "added_at": "2026-10-21 04:00:15",
+      "added_at": "2026-10-28 04:00:07",
       "album": {
-        "name": "Liquor Logic",
-        "url": "https://open.spotify.com/album/2RCqpCNO9FKTxfAeHEaWJq"
+        "name": "Autumn Tomorrow",
+        "url": "https://open.spotify.com/album/689d8Qb3iqBHlhma9WK5kA"
       },
       "artists": [
         {
-          "name": "Kaibrienne",
-          "url": "https://open.spotify.com/artist/2Y5kIVRp9IrPYNOc5PePo9"
+          "name": "Allie Kenny",
+          "url": "https://open.spotify.com/artist/3xufARdBAhVHNiu62S0Yfo"
         }
       ],
-      "duration_ms": 205683,
-      "name": "Liquor Logic",
-      "url": "https://open.spotify.com/track/7BOwcZmv8gfksKA8auIquC"
+      "duration_ms": 167004,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/0VyUIla7ub1oVdq0Yqg1iG"
     },
     {
       "added_at": "2026-10-21 04:00:15",
@@ -57,20 +121,36 @@
       "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
     },
     {
-      "added_at": "2026-10-21 04:00:15",
+      "added_at": "2026-09-23 04:00:18",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo"
+        "name": "animal",
+        "url": "https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1"
       },
       "artists": [
         {
-          "name": "Mel Raeburn",
-          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
         }
       ],
-      "duration_ms": 202750,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
+      "duration_ms": 180471,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
+    },
+    {
+      "added_at": "2026-10-28 04:00:07",
+      "album": {
+        "name": "Make It Stop",
+        "url": "https://open.spotify.com/album/4gMTqvBjxgv2TTuaT6L6vY"
+      },
+      "artists": [
+        {
+          "name": "Ariana Menassa",
+          "url": "https://open.spotify.com/artist/6zlie8T6lzmwqfpyccpfeN"
+        }
+      ],
+      "duration_ms": 171811,
+      "name": "Make It Stop",
+      "url": "https://open.spotify.com/track/0KTsFUssEgghi94WOKC0Vq"
     },
     {
       "added_at": "2026-10-21 04:00:15",
@@ -617,22 +697,6 @@
       "url": "https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq"
     },
     {
-      "added_at": "2026-09-23 04:00:18",
-      "album": {
-        "name": "animal",
-        "url": "https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1"
-      },
-      "artists": [
-        {
-          "name": "Josie Oliver",
-          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
-        }
-      ],
-      "duration_ms": 180471,
-      "name": "animal",
-      "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
-    },
-    {
       "added_at": "2026-09-25 04:03:25",
       "album": {
         "name": "Lemonade",
@@ -809,38 +873,6 @@
       "url": "https://open.spotify.com/track/4nOqX7kVZIh2dKi5YGNMiC"
     },
     {
-      "added_at": "2026-09-09 04:00:32",
-      "album": {
-        "name": "shortman syndrome",
-        "url": "https://open.spotify.com/album/0upkP5O2rhQjBnmn5lPpYN"
-      },
-      "artists": [
-        {
-          "name": "fliss",
-          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "shortman syndrome",
-      "url": "https://open.spotify.com/track/6RjxywsCw5dR6EPT458NED"
-    },
-    {
-      "added_at": "2026-09-09 04:00:32",
-      "album": {
-        "name": "florence!",
-        "url": "https://open.spotify.com/album/5Zi7euiLw3Crixy2VTX8jl"
-      },
-      "artists": [
-        {
-          "name": "Venus Anon",
-          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "florence!",
-      "url": "https://open.spotify.com/track/7jFWU55jgxeRBTsBwJ6ceR"
-    },
-    {
       "added_at": "2026-08-26 04:00:39",
       "album": {
         "name": "Love, At The End Of The World",
@@ -855,22 +887,6 @@
       "duration_ms": 180768,
       "name": "Love, At The End Of The World",
       "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
-    },
-    {
-      "added_at": "2026-09-02 04:00:29",
-      "album": {
-        "name": "Confessions Of A People Pleaser",
-        "url": "https://open.spotify.com/album/31pRdcwhgldaFjuTmaAqtS"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "PTSD",
-      "url": "https://open.spotify.com/track/4l2yt3rEAQ6K61UjL0EwLP"
     },
     {
       "added_at": "2026-09-02 04:00:29",
@@ -1097,22 +1113,6 @@
       "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
     },
     {
-      "added_at": "2026-07-29 15:13:04",
-      "album": {
-        "name": "Before The Magic Shattered",
-        "url": "https://open.spotify.com/album/29otka7XAGxlcvkSBL52Ts"
-      },
-      "artists": [
-        {
-          "name": "Sophie Saint",
-          "url": "https://open.spotify.com/artist/5CRJ8xa1BJNgONmWsL8tva"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Before The Magic Shattered",
-      "url": "https://open.spotify.com/track/2cpuXUKtONY2WoxjuxgbF8"
-    },
-    {
       "added_at": "2026-07-15 04:00:28",
       "album": {
         "name": "London Tonight",
@@ -1127,22 +1127,6 @@
       "duration_ms": 205669,
       "name": "London Tonight",
       "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
-        "name": "Shit Kicker",
-        "url": "https://open.spotify.com/album/2b2kasSXoYzTXYp9NuiDdE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Frost",
-          "url": "https://open.spotify.com/artist/68rOPXerz0MYCpK05DYWjo"
-        }
-      ],
-      "duration_ms": 151415,
-      "name": "Shit Kicker",
-      "url": "https://open.spotify.com/track/1fz5t0Oge6VBwnzCo7fAlk"
     },
     {
       "added_at": "2026-07-08 04:00:12",

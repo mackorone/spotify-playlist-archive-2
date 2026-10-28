@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Sycco
 
-796 songs - 1 day 20 hr 32 min
+797 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [AAAH!](https://open.spotify.com/track/59Fsi1QsrBreviqFlZfeqf) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [AAAH!](https://open.spotify.com/album/6WHzAGpArp1FC3GkJTJINx) | 2:51 | 2026-07-23 | 2026-07-31 |
 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-03-19 |  |
 | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Puretone](https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8) | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/album/659fi13MrTySSxJqmatMMu) | 3:09 | 2026-03-05 |  |
-| [Adeline](https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Carparks](https://open.spotify.com/album/41exX5asmlevP9n8OsoviK) | 3:00 | 2026-10-01 |  |
+| [Adeline](https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Carparks](https://open.spotify.com/album/41exX5asmlevP9n8OsoviK) | 3:00 | 2026-10-01 | 2026-10-28 |
 | [Adore Me](https://open.spotify.com/track/3i3BPNx2LZtNK7thr7nYPk) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Adore Me](https://open.spotify.com/album/7MU0A0HftyZLKZlExr8iAX) | 2:50 | 2025-07-10 | 2026-01-15 |
 | [Aerodynamic](https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7) | 4:46 | 2025-06-12 | 2025-08-13 |
 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 | 2025-06-26 | 2025-09-24 |
@@ -278,7 +278,7 @@
 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 | 2024-05-31 | 2024-07-14 |
 | [Good Girl](https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk) | [Jerome Farah](https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw) | [Good Girl](https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd) | 3:52 | 2024-08-30 | 2025-02-07 |
 | [Good Morning Angels](https://open.spotify.com/track/7nYtsGxrvBZSkqopZWCcbk) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Good Morning Angels](https://open.spotify.com/album/5dAEOyJCKVoMXfjPCRq7xy) | 2:23 | 2026-04-02 | 2026-06-10 |
-| [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-24 | 2026-10-27 |
+| [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 | 2025-07-24 |  |
 | [Got Them](https://open.spotify.com/track/3GLV0BMXvc9S1yQsnnplm0) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Got Them](https://open.spotify.com/album/4lflircZajubqPESbeqEvJ) | 3:28 | 2025-06-12 | 2025-06-20 |
 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-05-15 | 2025-07-13 |
 | [Growing Pains](https://open.spotify.com/track/3D87GX5fjm6vhs3Mi6NUV4) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Growing Pains](https://open.spotify.com/album/3oLeu179N3E3sdbFUDvbP2) | 2:13 | 2026-02-05 | 2026-02-13 |
@@ -466,7 +466,7 @@
 | [Movies](https://open.spotify.com/track/7vr7D1ISmDeTh4Zc1sZXDJ) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [soft pop](https://open.spotify.com/album/6sWOHghBqLrokOitAiYpcW) | 2:58 | 2026-07-23 | 2026-08-23 |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2024-05-31 | 2024-11-02 |
 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 | 2025-12-04 | 2026-03-30 |
-| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-31 |  |
+| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-31 | 2026-10-28 |
 | [Music Sounds Better With Me](https://open.spotify.com/track/0eRtOlUsMueyPH3jIjkZrX) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN) | [it's Franky baby! \(Deluxe\)](https://open.spotify.com/album/6YJv1Ppcj1xKkkWPg1xmEq) | 2:41 | 2025-05-29 | 2025-06-06 |
 | [Must Be](https://open.spotify.com/track/4jYwgNne9MLJjkoQ3KTyX9) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/6AFChJzqPoA4WOpZVqtZTW) | 2:55 | 2026-03-26 | 2026-04-03 |
 | [My Baby's Place](https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [My Baby's Place](https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig) | 3:55 | 2026-03-19 | 2026-06-21 |
@@ -621,6 +621,7 @@
 | [Sneakers](https://open.spotify.com/track/6vLRu22jXN9E6xFWEoYCcJ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Sneakers](https://open.spotify.com/album/7eYtfshBnYVsoDe6KcbQwX) | 3:37 | 2025-09-01 | 2025-09-05 |
 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 | 2026-01-15 | 2026-01-23 |
 | [So Be It](https://open.spotify.com/track/0Zs4BQFfWTJJKGvdbmRjNp) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Sweet Bitter Sweet](https://open.spotify.com/album/40a4TGC70aFQivvn8P945r) | 4:11 | 2025-05-08 | 2025-05-16 |
+| [SO COOL](https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [GODBREATH](https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt) | 2:22 | 2026-10-22 |  |
 | [So Excited](https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [So Excited](https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8) | 4:00 | 2025-03-04 | 2025-05-16 |
 | [So What](https://open.spotify.com/track/26DbLYaLlZVliIiqYdk1yk) | [Polly](https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq) | [So What](https://open.spotify.com/album/1L0CpVgqgpn47oTnOimLOB) | 3:40 | 2025-02-20 | 2025-03-05 |
 | [Some Kinda Heaven](https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Some Kinda Heaven](https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU) | 3:24 | 2026-03-12 | 2026-08-07 |

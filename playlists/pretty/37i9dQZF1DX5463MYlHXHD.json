@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 600515,
+  "num_followers": 600598,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,26 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 163259,
+      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -91,26 +111,6 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 163259,
-      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Como te voy a olvidar",
-      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "No Lo Compren",
         "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Como te voy a olvidar",
+      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Los Maleantes",
         "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 164780,
       "name": "Sentado en la Esquina",
       "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -863,38 +863,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "De Culo",
-        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 275356,
-      "name": "El reloj cu cu",
-      "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Amor De Chat (Remix)",
         "url": "https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 185142,
       "name": "Amor De Chat - Remix",
       "url": "https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "De Culo",
+        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 275356,
+      "name": "El reloj cu cu",
+      "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Con S\u00edndrome de Abstinencia",
-        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Berretines de Verduga",
-      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 197093,
       "name": "Estoy de Nuevo",
       "url": "https://open.spotify.com/track/3GcdJ5OfdILjl9qBuOMapT"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Con S\u00edndrome de Abstinencia",
+        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
+      },
+      "artists": [
+        {
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Berretines de Verduga",
+      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "El Autentico Creador De La Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 266475,
+      "name": "Padre Ejemplar",
+      "url": "https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "El Autentico Creador De La Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 266475,
-      "name": "Padre Ejemplar",
-      "url": "https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
-      },
-      "artists": [
-        {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+      },
+      "artists": [
+        {
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Ricky Paum Paum",
-      "url": "https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Ricky Paum Paum",
+      "url": "https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
         "name": "\u00danico en Su Especie",
         "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 225280,
       "name": "A Chillar a Otra Parte",
       "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Libre y Soltero",
+        "url": "https://open.spotify.com/album/6QEEpXCjvRcufUT14J4pXe"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM"
+        },
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 215525,
+      "name": "Libre y Soltero",
+      "url": "https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1591,26 +1611,6 @@
       "duration_ms": 214020,
       "name": "Corte Caco - Remix",
       "url": "https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
-        "name": "Libre y Soltero",
-        "url": "https://open.spotify.com/album/6QEEpXCjvRcufUT14J4pXe"
-      },
-      "artists": [
-        {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM"
-        },
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 215525,
-      "name": "Libre y Soltero",
-      "url": "https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Entre el Cielo y el Infierno",
-        "url": "https://open.spotify.com/album/250mLLNWXNkT4LrFR2Sfb6"
+        "name": "La danza del tabl\u00f3n",
+        "url": "https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv"
       },
       "artists": [
         {
-          "name": "El Judas",
-          "url": "https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf"
+          "name": "Guach\u00edn",
+          "url": "https://open.spotify.com/artist/79yjQ1ZSsudCW4bfGRcoGM"
         }
       ],
-      "duration_ms": 188758,
-      "name": "Coraz\u00f3n Part\u00edo",
-      "url": "https://open.spotify.com/track/1qf4VMmKaRIEcCoMpOEGQE"
+      "duration_ms": 256866,
+      "name": "La danza del tabl\u00f3n",
+      "url": "https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La danza del tabl\u00f3n",
-        "url": "https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv"
+        "name": "Entre el Cielo y el Infierno",
+        "url": "https://open.spotify.com/album/250mLLNWXNkT4LrFR2Sfb6"
       },
       "artists": [
         {
-          "name": "Guach\u00edn",
-          "url": "https://open.spotify.com/artist/79yjQ1ZSsudCW4bfGRcoGM"
+          "name": "El Judas",
+          "url": "https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf"
         }
       ],
-      "duration_ms": 256866,
-      "name": "La danza del tabl\u00f3n",
-      "url": "https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL"
+      "duration_ms": 188758,
+      "name": "Coraz\u00f3n Part\u00edo",
+      "url": "https://open.spotify.com/track/1qf4VMmKaRIEcCoMpOEGQE"
     },
     {
       "added_at": "2026-06-23 12:55:07",

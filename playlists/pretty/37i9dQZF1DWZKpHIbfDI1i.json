@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua ",
-  "num_followers": 877802,
+  "num_followers": 877805,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -379,6 +379,26 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "Recuerdos en Com\u00fan",
+        "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 214700,
+      "name": "Recuerdos en Com\u00fan",
+      "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -407,26 +427,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Recuerdos en Com\u00fan",
-        "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 214700,
-      "name": "Recuerdos en Com\u00fan",
-      "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Afr1n",
         "url": "https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E"
       },
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Malas Ma\u00f1as",
-        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Malas Ma\u00f1as",
-      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Amor De Antes",
         "url": "https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 182240,
       "name": "Amor De Antes",
       "url": "https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Jungla De Metal",
-        "url": "https://open.spotify.com/album/2KmWai1pEjoKYU07BqEkwX"
+        "name": "STAR (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 246150,
-      "name": "Jungla De Metal",
-      "url": "https://open.spotify.com/track/107uZT9KTYNltb5iT0BcFG"
+      "duration_ms": 177942,
+      "name": "\u00daLTIMAMENTE",
+      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "STAR (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 177942,
-      "name": "\u00daLTIMAMENTE",
-      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Dr. Doctor",
         "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 158769,
       "name": "Dr. Doctor",
       "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Jungla De Metal",
+        "url": "https://open.spotify.com/album/2KmWai1pEjoKYU07BqEkwX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 246150,
+      "name": "Jungla De Metal",
+      "url": "https://open.spotify.com/track/107uZT9KTYNltb5iT0BcFG"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
+        "name": "Bonito Bonito",
+        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Bonito Bonito",
+      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
         "name": "Chaparrita (Remix)",
         "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Querido\u2026",
-        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Arr\u00f3pame",
-      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Me Est\u00e1 Doliendo",
         "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Bonito Bonito",
-        "url": "https://open.spotify.com/album/3QRCaSPrZXRbmXxclmFizx"
+        "name": "Querido\u2026",
+        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Bonito Bonito",
-      "url": "https://open.spotify.com/track/1COG3DCdxuoP3QeXoyzszu"
+      "duration_ms": 226800,
+      "name": "Arr\u00f3pame",
+      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
     },
     {
       "added_at": "2026-10-23 06:00:45",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-10-23 06:00:45",
       "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
-    },
-    {
-      "added_at": "2026-10-23 06:00:45",
-      "album": {
         "name": "Agu\u00e1ntame",
         "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 128409,
       "name": "Agu\u00e1ntame",
       "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
+    },
+    {
+      "added_at": "2026-10-23 06:00:45",
+      "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
     },
     {
       "added_at": "2026-10-23 06:00:45",

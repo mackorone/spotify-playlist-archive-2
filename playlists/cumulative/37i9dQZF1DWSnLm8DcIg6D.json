@@ -1457,7 +1457,7 @@
     },
     {
       "album": {
-        "name": "Circus",
+        "name": "CIRCUS",
         "url": "https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i"
       },
       "artists": [
@@ -1474,7 +1474,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171428,
-      "name": "Circus",
+      "name": "CIRCUS",
       "url": "https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50"
     },
     {
@@ -2806,6 +2806,28 @@
       "duration_ms": 246573,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+    },
+    {
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2026-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/6vVfNqiMSku4FrqsqhurBK"
     },
     {
       "album": {
@@ -6632,7 +6654,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 156946,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"

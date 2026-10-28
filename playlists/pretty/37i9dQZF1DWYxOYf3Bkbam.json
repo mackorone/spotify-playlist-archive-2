@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 67179,
+  "num_followers": 67185,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "Pastor Luna - Chamemecero de Ley",
-        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
-      },
-      "artists": [
-        {
-          "name": "Pastor Luna",
-          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Meta lonja y chamam\u00e9",
-      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Lo Que Hay X Aqui, Forfun (Cover)",
         "url": "https://open.spotify.com/album/06Mr9pxqI0EZH6lql9iJtF"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 212307,
       "name": "Lo Que Hay X Aqui, Forfun - Cover",
       "url": "https://open.spotify.com/track/2R2r03aPpOj42NuRqmPeGL"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "Pastor Luna - Chamemecero de Ley",
+        "url": "https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C"
+      },
+      "artists": [
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Meta lonja y chamam\u00e9",
+      "url": "https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Virgencita de Itat\u00ed",
-      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 199346,
       "name": "Lluvia Correntina",
       "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-09-03 15:43:24",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        },
-        {
-          "name": "Domingo Rodriguez",
-          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Ah Mi Corrientes Por\u00e1",
-      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
-    },
-    {
-      "added_at": "2026-09-03 15:43:24",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2026-09-03 15:43:24",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "Domingo Rodriguez",
+          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Ah Mi Corrientes Por\u00e1",
+      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1408,13 +1408,13 @@
       },
       "artists": [
         {
-          "name": "Mario Romero canta Espindola Escobar",
-          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
         }
       ],
-      "duration_ms": 160893,
-      "name": "Felicidades madrecita",
-      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
+      "duration_ms": 139586,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
     },
     {
       "added_at": "2026-09-03 15:43:24",
@@ -1424,13 +1424,13 @@
       },
       "artists": [
         {
-          "name": "Toto Maidana",
-          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+          "name": "Mario Romero canta Espindola Escobar",
+          "url": "https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n"
         }
       ],
-      "duration_ms": 139586,
-      "name": "Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
+      "duration_ms": 160893,
+      "name": "Felicidades madrecita",
+      "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
     },
     {
       "added_at": "2026-09-03 15:43:24",

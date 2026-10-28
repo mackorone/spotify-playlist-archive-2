@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1479966,
+  "num_followers": 1480200,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -1819,46 +1819,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "PICARD\u00cdA",
-      "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "Pa las girlas (con DJ Urba) [Remix]",
         "url": "https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9"
       },
@@ -1891,6 +1851,26 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "PICARD\u00cdA",
+      "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
         "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 173760,
       "name": "FERXXO 30",
       "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        }
-      ],
-      "duration_ms": 172997,
-      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
-    },
-    {
-      "added_at": "2026-09-25 06:00:23",
-      "album": {
         "name": "Guay",
         "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 210788,
       "name": "Guay",
       "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
+    },
+    {
+      "added_at": "2026-09-25 06:00:23",
+      "album": {
+        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 172997,
+      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
     },
     {
       "added_at": "2026-09-25 06:00:23",
@@ -2167,22 +2167,22 @@
     {
       "added_at": "2026-09-25 06:00:23",
       "album": {
-        "name": "En To Lao",
-        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
+        "name": "Dile A \u00c9L (Remix)",
+        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
       },
       "artists": [
         {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 195033,
-      "name": "En To Lao",
-      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
+      "duration_ms": 220189,
+      "name": "Dile A \u00c9L - Remix",
+      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
     }
   ],
   "unique_name": "La Casa del Perreo",

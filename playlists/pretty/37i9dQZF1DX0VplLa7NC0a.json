@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 43161,
+  "num_followers": 43166,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,30 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 975493,
+      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
+      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 272176,
       "name": "Stabat Mater: VIII. Inflammatus (Aria and Chorus)",
       "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 975493,
-      "name": "Giovanna d'Arco - Cantata a voce sola con piano",
-      "url": "https://open.spotify.com/track/0su1j6PMTNcPfo7ftQQWru"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -991,6 +991,30 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: Overtures; Introduction, Theme and Variations for Clarinet and Orchestra",
+        "url": "https://open.spotify.com/album/4eicyHPyG6XCQyHCtTUjWE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Charles Neidich",
+          "url": "https://open.spotify.com/artist/3lDahJNf7d4adku8fQj7pj"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "Introduction, Theme & Variations for Clarinet and Orchestra in E-Flat Major: Introduction. Andante sostenuto",
+      "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -1015,30 +1039,6 @@
       "duration_ms": 283493,
       "name": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
       "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini: Overtures; Introduction, Theme and Variations for Clarinet and Orchestra",
-        "url": "https://open.spotify.com/album/4eicyHPyG6XCQyHCtTUjWE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Charles Neidich",
-          "url": "https://open.spotify.com/artist/3lDahJNf7d4adku8fQj7pj"
-        },
-        {
-          "name": "Orpheus Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "Introduction, Theme & Variations for Clarinet and Orchestra in E-Flat Major: Introduction. Andante sostenuto",
-      "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -1191,6 +1191,34 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: The Barber of Seville",
+        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 349706,
+      "name": "Rossini: Il barbiere di Siviglia, Act 2: Cavatina. \"Una voce poco f\u00e0\" (Rosina)",
+      "url": "https://open.spotify.com/track/0UjKBsUrFqiKrMPddGh1vb"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: La Cenerentola",
         "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
       },
@@ -1219,34 +1247,6 @@
       "duration_ms": 98906,
       "name": "La Cenerentola / Act 1: \"No, no, no non v'\u00e8\"",
       "url": "https://open.spotify.com/track/3tyVaUyQJeukAdBgHs9dXB"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini: The Barber of Seville",
-        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Beverly Sills",
-          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 349706,
-      "name": "Rossini: Il barbiere di Siviglia, Act 2: Cavatina. \"Una voce poco f\u00e0\" (Rosina)",
-      "url": "https://open.spotify.com/track/0UjKBsUrFqiKrMPddGh1vb"
     },
     {
       "added_at": "2025-12-15 11:47:15",

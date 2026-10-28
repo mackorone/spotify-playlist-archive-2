@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Khal!l
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,813 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,790 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 76 | [Freestyle Battle Weapon](https://open.spotify.com/track/6TWjfMTvvSfGNqoG1WQKq9) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [AK Cuts: Vol\. 4](https://open.spotify.com/album/3iGpFsNKO0I5WWlwHFaqui) | 2:29 |
 | 77 | [Caught In A Jam](https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Caught In A Jam](https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X) | 4:13 |
 | 78 | [Preacherman](https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Preacherman](https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn) | 2:12 |
-| 79 | [My World](https://open.spotify.com/track/7i89LR6mmiB2hPLbw9U0il) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9) | 3:30 |
+| 79 | [My World](https://open.spotify.com/track/7i89LR6mmiB2hPLbw9U0il) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9) | 3:30 |
 | 80 | [Froggy](https://open.spotify.com/track/6WFGOqd36ZxYdkPRrbmouz) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Froggy](https://open.spotify.com/album/52vlHvDqL7bptUKo3QA47t) | 3:37 |
 | 81 | [Lichen Trip](https://open.spotify.com/track/3nyh5bHX5ZaOI0IOi9hAtF) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Lichen Trip](https://open.spotify.com/album/74CztA2W1X7ioPPobdxPBd) | 2:50 |
 | 82 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7a8ZndeHGrkS7xIM8060Xw">Babyfxce E</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,698,621 likes - 109 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,698,312 likes - 109 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

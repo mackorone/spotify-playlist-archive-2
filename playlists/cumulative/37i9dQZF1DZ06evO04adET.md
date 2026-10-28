@@ -4,7 +4,7 @@
 
 > This is Natanael Cano\. The essential tracks, all in one playlist.
 
-123 songs - 6 hr 23 min
+124 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Como Es](https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:20 | 2025-07-04 | 2026-08-04 |
 | [Como Es \- Remix](https://open.spotify.com/track/3uZe6zsDlFNxaKiqn1kHJi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Como Es \(Remix\)](https://open.spotify.com/album/0tbKQ1OplPgmakKPSzFrZz) | 3:39 | 2025-07-27 | 2025-08-24 |
 | [Como Es Arriba Es Abajo](https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Como Es Arriba Es Abajo](https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb) | 2:45 | 2023-08-08 | 2023-11-11 |
-| [Como Es Arriba Es Abajo](https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:45 | 2023-11-10 |  |
+| [Como Es Arriba Es Abajo](https://open.spotify.com/track/3KTExsIhHiqNHW9XBbTTZd) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:45 | 2023-11-10 | 2026-10-28 |
 | [Compa Bladi](https://open.spotify.com/track/6OXDTduxjhhvcuqhapshMR) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 2:57 | 2023-08-08 | 2025-09-12 |
 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1) | 3:12 | 2023-08-08 | 2023-12-14 |
 | [CR7](https://open.spotify.com/track/2aeeDXCFgsCdyehJ1n1zWs) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 2:18 | 2026-08-31 | 2026-09-19 |
@@ -85,6 +85,7 @@
 | [Mi Bello Angel](https://open.spotify.com/track/1oWkcc7hQdVYPQMyQ6AFov) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:08 | 2023-08-08 | 2023-09-10 |
 | [Mi Bello Angel](https://open.spotify.com/track/4t46soaqA758rbukTO5pp1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:10 | 2023-09-09 |  |
 | [Mi Bello Ángel](https://open.spotify.com/track/26HLrRjZ4we5h4wp8KOnEt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:08 | 2024-01-20 | 2024-03-14 |
+| [Mira Como Vengo](https://open.spotify.com/track/69Jv5kHVN8bskDdOO2xdIW) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [No Hay Ángeles Aquí](https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i) | 4:26 | 2026-10-28 |  |
 | [Morritas](https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Morritas](https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7) | 3:36 | 2023-08-08 |  |
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2023-08-08 | 2026-10-25 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/73jUrU4QX6Xt2xQgyqttb4) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Endiamantado / Entre las de 20](https://open.spotify.com/album/7kzmadmAbWRPtLbpQveynY) | 2:35 | 2024-04-06 | 2024-04-08 |

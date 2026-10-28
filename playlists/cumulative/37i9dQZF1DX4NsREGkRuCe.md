@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,299 songs - 2 day 15 hr 13 min
+1,300 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [Happiness](https://open.spotify.com/track/0ASno3zrAbwRe4cVfH1c7K) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [DJ YK](https://open.spotify.com/artist/2VLe3q3Vp7R9aQQGip5oMe) | [Built Different](https://open.spotify.com/album/0eZrosDFkbClhRzEnoJD63) | 2:41 | 2026-06-25 | 2026-07-17 |
 | [Happy Day](https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Happy Day](https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz) | 2:45 | 2025-07-04 | 2025-09-17 |
 | [Happy People](https://open.spotify.com/track/1qKJYnVtLg7pwT5JtOcB11) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Happy People](https://open.spotify.com/album/70TPFsb10L2Tya74jZdsl3) | 2:51 | 2024-10-04 | 2024-10-19 |
-| [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 | 2026-08-14 |  |
+| [Happy Song](https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Happy Song](https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO) | 2:09 | 2026-08-14 | 2026-10-28 |
 | [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2024-02-02 | 2024-02-09 |
 | [HAUSAPIANO](https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [HAUSAPIANO](https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5) | 1:43 | 2024-10-07 | 2024-11-03 |
 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-04-19 | 2024-05-10 |
@@ -1185,6 +1185,7 @@
 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 | 2023-12-15 | 2024-06-28 |
 | [TOO HOT](https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [TOO HOT](https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V) | 2:24 | 2026-04-17 | 2026-05-26 |
 | [TOP MAMA](https://open.spotify.com/track/5PRGmpPJzsrOXijZdXalVK) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [TOP MAMA](https://open.spotify.com/album/4F5E31UIFV8bhpC6cLNvUl) | 3:28 | 2022-10-13 | 2022-10-18 |
+| [Top Swag](https://open.spotify.com/track/7Dj8uoNSgsnJiNvCfN2jdy) | [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [DaveTheOracle](https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z) | [Top Swag](https://open.spotify.com/album/7kmtp8xQRcKiHEdNWelgCW) | 3:17 | 2026-10-23 |  |
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-12 |  |
 | [Toro](https://open.spotify.com/track/0UofiI0YMe4wz9H1dr5KkL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:15 | 2025-03-31 | 2025-05-04 |
 | [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 | 2025-03-14 | 2025-03-29 |

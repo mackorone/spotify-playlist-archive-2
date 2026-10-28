@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-246 songs - 21 hr 47 min
+247 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Hoke Majboor](https://open.spotify.com/track/0AT0gJ1ItX40XbIChd106B) | [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf), [Akshay Raheja](https://open.spotify.com/artist/7kF45gEqMa6LuPf1fA7hsr), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Bhuvan Bam](https://open.spotify.com/artist/5lfGXaGmQck7m2077vsKpy) | [Taaza Khabar \(Season 2\)](https://open.spotify.com/album/1Tr46FL0dcPJAROmjY1PKm) | 4:17 | 2024-09-29 |  |
 | [Hoshwalon Ko Khabar Kya](https://open.spotify.com/track/5NbR7c5zrOZN3Dje3JVJEN) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Sarfarosh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55kjppMnPs20DEKXN7jaSF) | 5:07 | 2022-07-26 | 2023-05-16 |
 | [Hoshwalon Ko Khabar Kya \(From "Sarfarosh"\)](https://open.spotify.com/track/03BvoVjiTrsFdBtOIzDsfy) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Romantic Evening with Jagjit Singh](https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa) | 5:07 | 2021-12-01 | 2022-07-29 |
-| [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 | 2023-04-16 |  |
+| [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 | 2023-04-16 | 2026-10-28 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/1ftMjWQH3eIxJkN3KjLKjD) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Best of Ghulam Ali: His 50 Greatest Ghazal Hits](https://open.spotify.com/album/5vsRAeRm6meFIQi2LWgVGz) | 7:18 | 2021-12-01 | 2025-01-01 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 | 2022-11-09 | 2022-11-13 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 | 2024-04-19 |
@@ -147,6 +147,7 @@
 | [Khushboo](https://open.spotify.com/track/2yTSnWOv0fLaXjH0BLtdQz) | [Amrita Cheterjee](https://open.spotify.com/artist/1h7mW0hmhzANusaBDgqWWf) | [Khushboo](https://open.spotify.com/album/0XkXzOghdGb03O5F8KQz3j) | 4:38 | 2026-01-22 | 2026-04-21 |
 | [Khwaab Mein Jab Aane Lagega](https://open.spotify.com/track/3YLFOCgkfIJSsM4vlpPAZX) | [Divakar Meena](https://open.spotify.com/artist/46N4VfX6tBuBtdXBgbgGv2) | [Khwaab Mein Jab Aane Lagega](https://open.spotify.com/album/6KT8tn9RDDYKMaXaIQ6SVl) | 3:40 | 2026-05-16 | 2026-06-16 |
 | [Koi Umeed](https://open.spotify.com/track/1rWlMfkwDrDbUbtJrvyJYW) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Koi Umeed](https://open.spotify.com/album/5YQT8LdcOc0smqplylj0jD) | 5:28 | 2023-06-30 |  |
+| [Koi Yaad Koi Baat](https://open.spotify.com/track/3M2rwp7OkZU9nhbnmhMy3V) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Ajay Singha](https://open.spotify.com/artist/6tDbydAljjt6gbWl7F9yFc), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Koi Yaad Koi Baat](https://open.spotify.com/album/5mCkN9GNZCQ6X1iSpfDJO8) | 4:44 | 2026-10-21 |  |
 | [Koi Yeh Kaise Bataye](https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 3:17 | 2021-12-01 | 2023-05-16 |
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/4BO6XJ59xrkHMoqjHqedvs) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:23 | 2023-09-14 | 2024-04-19 |
 | [Kuch Aise Aakar Gira Hai](https://open.spotify.com/track/7b4T76KOVCaEG2HJNdm9fW) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.1](https://open.spotify.com/album/5EaGDGV9pZhrduNvpxLUoy) | 0:23 | 2024-04-18 | 2025-01-01 |

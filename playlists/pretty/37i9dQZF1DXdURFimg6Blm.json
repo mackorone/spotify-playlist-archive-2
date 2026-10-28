@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1487426,
+  "num_followers": 1487463,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "I\u2019m your girl right?",
-        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 169059,
-      "name": "I\u2019m your girl right?",
-      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
         "name": "DANGER DANGER (feat. Skepta)",
         "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 158769,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1187,6 +1187,26 @@
       "duration_ms": 219785,
       "name": "Echo",
       "url": "https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
+        "name": "Let Me Cook",
+        "url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 128222,
+      "name": "Let Me Cook",
+      "url": "https://open.spotify.com/track/44gCnLcXS9c2eVxGg8PkTv"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1279,26 +1299,6 @@
       "duration_ms": 192000,
       "name": "Eyes Cut Deeper (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
-        "name": "Let Me Cook",
-        "url": "https://open.spotify.com/album/7cbYNkG0QibGE476eVjOUe"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 128222,
-      "name": "Let Me Cook",
-      "url": "https://open.spotify.com/track/44gCnLcXS9c2eVxGg8PkTv"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "To The Front",
-        "url": "https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr"
+        "name": "ADRENALINE",
+        "url": "https://open.spotify.com/album/1axe3FXvHt20fPHTZK20zH"
       },
       "artists": [
         {
@@ -1416,13 +1416,17 @@
           "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Arti Prjct",
+          "url": "https://open.spotify.com/artist/1CuqcCv1IrGicv4KIJHE7q"
         }
       ],
-      "duration_ms": 138161,
-      "name": "To The Front",
-      "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
+      "duration_ms": 168574,
+      "name": "ADRENALINE",
+      "url": "https://open.spotify.com/track/47S6IrIjawDVtTTRQ7v5D5"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1443,6 +1447,30 @@
       "duration_ms": 184850,
       "name": "I Rhyme Quick",
       "url": "https://open.spotify.com/track/6w9IOQBGiQOjv1J1YWhM3i"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
+        "name": "Weekend Warriors",
+        "url": "https://open.spotify.com/album/2ucdscWTmU5sKCnPdDRhvE"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        },
+        {
+          "name": "ICARUZ",
+          "url": "https://open.spotify.com/artist/4wjJNn8praUyGWRsp8LJqe"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Weekend Warriors",
+      "url": "https://open.spotify.com/track/2NjrYeiraBAwe6MSH4x6na"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1471,26 +1499,6 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Noche Without You",
-      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
       },
@@ -1511,8 +1519,8 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "ADRENALINE",
-        "url": "https://open.spotify.com/album/1axe3FXvHt20fPHTZK20zH"
+        "name": "To The Front",
+        "url": "https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr"
       },
       "artists": [
         {
@@ -1520,17 +1528,33 @@
           "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Arti Prjct",
-          "url": "https://open.spotify.com/artist/1CuqcCv1IrGicv4KIJHE7q"
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
         }
       ],
-      "duration_ms": 168574,
-      "name": "ADRENALINE",
-      "url": "https://open.spotify.com/track/47S6IrIjawDVtTTRQ7v5D5"
+      "duration_ms": 138161,
+      "name": "To The Front",
+      "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1571,30 +1595,6 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "Weekend Warriors",
-        "url": "https://open.spotify.com/album/2ucdscWTmU5sKCnPdDRhvE"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
-        },
-        {
-          "name": "ICARUZ",
-          "url": "https://open.spotify.com/artist/4wjJNn8praUyGWRsp8LJqe"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Weekend Warriors",
-      "url": "https://open.spotify.com/track/2NjrYeiraBAwe6MSH4x6na"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
         "name": "Leaving (feat. Tristan Henry)",
         "url": "https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC"
       },
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/2G5BCVsZJjwGIp8OXBa2w0"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 206218,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4i9ay73aSChB8q4KeGDBIl"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
     },
     {
       "added_at": "2026-10-23 04:00:52",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2026-10-23 04:00:52",
       "album": {
-        "name": "Shake That",
-        "url": "https://open.spotify.com/album/6tsuhDq4LBgQqrzAhrSQv3"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Shake That",
-      "url": "https://open.spotify.com/track/2b1IJlThmesGpdTLvIAxon"
-    },
-    {
-      "added_at": "2026-10-23 04:00:52",
-      "album": {
         "name": "Turn Up The Dose",
         "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "added_at": "2026-10-23 04:00:52",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/6tsuhDq4LBgQqrzAhrSQv3"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/2b1IJlThmesGpdTLvIAxon"
     },
     {
       "added_at": "2026-10-23 04:00:52",

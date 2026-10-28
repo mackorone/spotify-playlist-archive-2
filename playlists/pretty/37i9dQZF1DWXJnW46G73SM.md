@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: عمر
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,314 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,335 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 13 | [MB2OLSH KHALES ANA](https://open.spotify.com/track/5Jeh16byZJy789deUgWdAy) | [BO5A The Investment](https://open.spotify.com/artist/1e6aRgj776jbM38Wl0CtX6), [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX), [El Ameer](https://open.spotify.com/artist/6PMDaq9FhsP82GK9FujCYh) | [MB2OLSH KHALES ANA](https://open.spotify.com/album/2iXZTGXhCaPpdzRgMbhmQn) | 2:11 |
 | 14 | [3ayzani A2ool Eh?](https://open.spotify.com/track/1CBu8gIelrPj4qVcL6xQc9) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [3ayzani A2ool Eh?](https://open.spotify.com/album/5O49QJ9WOK8RHnw3Xu6MCb) | 2:00 |
 | 15 | [El Dawama](https://open.spotify.com/track/5fXxXg3F3eloH7b77vNsQe) | [Khateeb](https://open.spotify.com/artist/1m6jdeBwe3zUQKl5hof9ib), [Karamell](https://open.spotify.com/artist/0xlWY59sefpnkKzzbQhEx4) | [El Dawama](https://open.spotify.com/album/3y4Jcgj6BPw3Bbubl44CSJ) | 3:37 |
-| 16 | [W Ashan Tetsalla](https://open.spotify.com/track/4HrHg9xqXjgrW7t2pPR5yr) | [Dalia Omar](https://open.spotify.com/artist/4BTYqwzIds7SK6mRNnH8HW) | [W Ashan Tetsalla](https://open.spotify.com/album/3sxRjoLE5kanGEOLINzUaO) | 2:18 |
+| 16 | [W Ashan Tetsalla](https://open.spotify.com/track/4HrHg9xqXjgrW7t2pPR5yr) | [Dalia Omar](https://open.spotify.com/artist/4BTYqwzIds7SK6mRNnH8HW), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [W Ashan Tetsalla](https://open.spotify.com/album/3sxRjoLE5kanGEOLINzUaO) | 2:18 |
 | 17 | [Mshkltek](https://open.spotify.com/track/1m44hI351WftUpVmiHMWVA) | [Hussein Yasser](https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Fuego Loco](https://open.spotify.com/album/7k7vwK5TtVeHMHxRacfjGn) | 3:07 |
 | 18 | [Mesh Hases](https://open.spotify.com/track/0Ky27CnezvUg5apZ2DMVC6) | [TOTTI](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [Abdullah Aley](https://open.spotify.com/artist/3HQOgLwtrDCeY7OAnfsI2Y) | [Mesh Hases](https://open.spotify.com/album/0wKt90RR3VAgNh9DyDcs1R) | 4:12 |
 | 19 | [ALABA](https://open.spotify.com/track/5HeNGCqeSSrgoWcMNZ9lAu) | [Khaled Ali](https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1), [TAG](https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [CHALET 5](https://open.spotify.com/album/6FV7ydzlayTOfpg0PcnEus) | 3:04 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 716620,
+  "num_followers": 716652,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABi9FUP5QwZhIsAM9SDsXV3",
+  "snapshot_id": "at1GgAAAAAA/ufpf2ke0i1qn/aZYKIn6",
   "tracks": [
     {
       "added_at": null,
@@ -378,15 +378,11 @@
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         }
       ],
-      "duration_ms": 245264,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
+      "duration_ms": 188359,
+      "name": "Good For The Soul",
+      "url": "https://open.spotify.com/track/03D2TnaZuwlddRTh7P6Mq5"
     },
     {
       "added_at": null,
@@ -446,11 +442,15 @@
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         }
       ],
-      "duration_ms": 188359,
-      "name": "Good For The Soul",
-      "url": "https://open.spotify.com/track/03D2TnaZuwlddRTh7P6Mq5"
+      "duration_ms": 245264,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
     },
     {
       "added_at": null,

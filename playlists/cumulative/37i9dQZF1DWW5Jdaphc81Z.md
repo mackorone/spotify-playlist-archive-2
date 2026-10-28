@@ -4,7 +4,7 @@
 
 > mykonos season is here.
 
-121 songs - 6 hr 51 min
+122 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Kharek \| Red Bull Mazzika Salonat](https://open.spotify.com/track/49YFU1FCtqbEEHczr3hpGd) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Kharek \| Red Bull Mazzika Salonat](https://open.spotify.com/album/0yFDvPICjNUuWdtJMzkZ9e) | 2:39 | 2026-08-02 | 2026-08-11 |
 | [Khetha](https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Khetha](https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z) | 7:39 | 2026-08-10 |  |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2026-08-10 |  |
+| [Kumbaya](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Kumbaya](https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO) | 3:02 | 2026-08-27 |  |
 | [Last Dance](https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Last Dance](https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A) | 4:33 | 2026-08-02 |  |
 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 | 2026-08-02 |  |
 | [Late at Night](https://open.spotify.com/track/0I5kavrL6aUxqMVYdtrReQ) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [HUMAN404](https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Late at Night](https://open.spotify.com/album/1h2GZPLWCaqfvwSYQz6QoE) | 3:25 | 2026-08-02 |  |
@@ -120,7 +121,7 @@
 | [Vertigo](https://open.spotify.com/track/0HB4odbGJbgR0ffA4rJoxS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo) | 4:16 | 2026-08-02 |  |
 | [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2026-08-02 |  |
 | [WAIT](https://open.spotify.com/track/168hqyHROCB8lISUF270KI) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [WAIT](https://open.spotify.com/album/74L5f2CPiWlbqnGzWteTNY) | 2:48 | 2026-08-02 | 2026-08-11 |
-| [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2026-08-27 |  |
+| [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2026-08-27 | 2026-10-28 |
 | [Wana](https://open.spotify.com/track/4V8gWHn9fu1NXXZKcQ0gnp) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Wana](https://open.spotify.com/album/1eGaxjPeAZ9aJRJ3BhABPa) | 3:59 | 2026-08-02 |  |
 | [What I Want Is You](https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [What I Want Is You](https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O) | 2:22 | 2026-08-02 |  |
 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 | 2026-08-02 |  |

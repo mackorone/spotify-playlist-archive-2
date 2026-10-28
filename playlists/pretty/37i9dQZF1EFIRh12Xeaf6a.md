@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 290 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,435 likes - 290 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 135 | [What A Sweet Thing That Was](https://open.spotify.com/track/69M1hKSe3E5uowQNwpwkHb) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Sing To Trumpets And Strings](https://open.spotify.com/album/0x4CVUhtrgHKqiLbti43Ar) | 2:28 |
 | 136 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
 | 137 | [Show Me Girl \- Mono](https://open.spotify.com/track/3l7lTXsHVVhw14Zn0GBoLK) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Introducing Herman's Hermits \(Mono\)](https://open.spotify.com/album/2KmrA2hT9cwplRr8H8yC9o) | 2:38 |
-| 138 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
-| 139 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 138 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
+| 139 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
 | 140 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
 | 141 | [Fantasy Beginning](https://open.spotify.com/track/3yuC4fwlRLXTvFYIbhHmcV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 1:02 |
 | 142 | [Weekdays](https://open.spotify.com/track/188S3CUlO4CMprDBzzXVPx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/04C5gSGZHzAlVsngSkqFtZ) | 2:44 |
@@ -268,8 +268,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 258 | [Not Just Tomorrow, but Always \- Remastered](https://open.spotify.com/track/4OXWh4lXEJD5seWSraGcIa) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3), [Bertell Dache](https://open.spotify.com/artist/7sB4wR6iuxLodTRyIo7xeD) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/29vKALglR7SVF9gVuF4ktW) | 2:51 |
 | 259 | [Who Needs It](https://open.spotify.com/track/1UVjTwSQGEYFza3hUIMLnF) | [Peggy Lipton](https://open.spotify.com/artist/5DEuMoHxgFu68qF7qkk8D4) | [Peggy Lipton \(Expanded Edition\)](https://open.spotify.com/album/6xhCppDY9jYAUAKKw6aTFn) | 3:45 |
 | 260 | [Echoes](https://open.spotify.com/track/5OQApX0SS8PnzG6YVwPn3I) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Bless Me Jah](https://open.spotify.com/album/1EasUoBIouYGdn0w4xTRwh) | 4:01 |
-| 261 | [What About Me](https://open.spotify.com/track/4O4QKS1mPwH4LTob5tDq5X) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:08 |
-| 262 | [The Sheik](https://open.spotify.com/track/5XD5DLVYFUvELmJuh7Fwwl) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Les idoles américaines du rhythm and blues : The Clovers, Vol\. 1](https://open.spotify.com/album/29RWikz0slFF5Izww4G6rb) | 2:25 |
+| 261 | [The Sheik](https://open.spotify.com/track/5XD5DLVYFUvELmJuh7Fwwl) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Les idoles américaines du rhythm and blues : The Clovers, Vol\. 1](https://open.spotify.com/album/29RWikz0slFF5Izww4G6rb) | 2:25 |
+| 262 | [What About Me](https://open.spotify.com/track/4O4QKS1mPwH4LTob5tDq5X) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:08 |
 | 263 | [If She Were My Girl](https://open.spotify.com/track/4ZQyzfQ8lmicx974FvzR7l) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Night Has A Thousand Eyes](https://open.spotify.com/album/7wdmlx3Et202n4sUU6UFnF) | 2:11 |
 | 264 | [Help Me \(Find the Way Back to Your Heart](https://open.spotify.com/track/06bZN8p1dBhpoQZLL5BmAD) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Andy Williams \- The Ultimate Hits Collection](https://open.spotify.com/album/5qeqn1KSQ8oEKsaEv99w3Z) | 2:16 |
 | 265 | [Dreamin' About You](https://open.spotify.com/track/0cbJpZkWLOL0etGXm6xoE8) | [Annette And The Vonnair Sisters](https://open.spotify.com/artist/4MW9tyMCzCz8y8cLj0jCN2) | [The Singles & Albums Collection 1958\-62](https://open.spotify.com/album/0oVIj5WJyWMIJH03EUwYI6) | 2:04 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 289 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 290 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcgAwgAAAABNXdp7Dw1BUjSM6PPkTsw3`
+Snapshot ID: `AcgGYgAAAACujL3sq8GbVn3ZrH0YjmSo`

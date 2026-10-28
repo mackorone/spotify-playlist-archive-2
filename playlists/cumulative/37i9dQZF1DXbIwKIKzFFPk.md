@@ -4,7 +4,7 @@
 
 > Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-125 songs - 7 hr 34 min
+126 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cometh the hour \- avant garde 2023](https://open.spotify.com/track/2qECI47hHx61BnnEF7E2Xc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 4:05 | 2024-12-12 |  |
 | [cops'n robbers](https://open.spotify.com/track/19pJcdQA78S75KCadE990y) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 1:20 | 2022-10-06 | 2022-12-14 |
 | [creeping shadows](https://open.spotify.com/track/5r7DkkPIs7qXFbtoUEfjcn) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:21 | 2022-10-06 |  |
+| [CRITICAL](https://open.spotify.com/track/0CKcJOLrniJTk5sX1I59zN) | [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [CRITICAL](https://open.spotify.com/album/6xNxUAwNrLBNtpkW3NrFlZ) | 1:53 | 2026-10-27 |  |
 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 | 2022-10-06 |  |
 | [diago 45 degrees tango](https://open.spotify.com/track/3l9FlLDSjF5MvIeszmuLnh) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 1:46 | 2022-10-06 | 2022-12-14 |
 | [echoes](https://open.spotify.com/track/2eRzjgRa9dGkFyYmqTyTgl) | [Universe](https://open.spotify.com/artist/28MPfGglMQ0nWMjkhXZYQf) | [echoes](https://open.spotify.com/album/4SsZYhWBSudsmIRrO95n8a) | 4:42 | 2022-10-06 |  |

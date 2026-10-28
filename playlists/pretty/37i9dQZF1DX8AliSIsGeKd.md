@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Sylvie Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,819 likes - 90 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,879 likes - 90 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 33 | [Black Rain](https://open.spotify.com/track/4DYiz9WgegFO1ZfEYAmX8j) | [Ed Ed](https://open.spotify.com/artist/3GWjKbXZUq8r7fzVpRcb1i) | [Black Rain](https://open.spotify.com/album/69ndLWjGXq8IYboL3JNmXO) | 6:29 |
 | 34 | [Dance with the Devil](https://open.spotify.com/track/4ZoVKIR9aB2CjDJ5nVuOJJ) | [Kon Faber](https://open.spotify.com/artist/63RvOgWyeaaDm7oDtUq17q) | [Dance with the Devil](https://open.spotify.com/album/35ITWvrMGEe6SlzB3uVU0A) | 5:39 |
 | 35 | [Alegria](https://open.spotify.com/track/2EnO0NlL6nSADDWMqM7jm0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Alegria](https://open.spotify.com/album/7xswPBPImAZQ4wue1SFhTw) | 5:26 |
-| 36 | [Another Ride](https://open.spotify.com/track/1ucRKzYq5pS55pcFMGgoM0) | [D3FAI](https://open.spotify.com/artist/23UzQGZ9FtrZWaKyOIcLOO), [Basilone](https://open.spotify.com/artist/42Mf03HdLLAAwJOmliD4cg) | [Another Ride](https://open.spotify.com/album/2h29fxJPnKRAdcp9ll8M4P) | 3:41 |
+| 36 | [Another Ride](https://open.spotify.com/track/1ucRKzYq5pS55pcFMGgoM0) | [D3FAI](https://open.spotify.com/artist/23UzQGZ9FtrZWaKyOIcLOO), [Basilone](https://open.spotify.com/artist/5RSUii1uyZPOOb5ElyKzOJ) | [Another Ride](https://open.spotify.com/album/2h29fxJPnKRAdcp9ll8M4P) | 3:41 |
 | 37 | [Shook](https://open.spotify.com/track/1h9K8SvLsLbHANw2Hi8Gjf) | [Moto Moto](https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt), [The Wilds](https://open.spotify.com/artist/7yrR3vzpYp6Ms9n6tfLwGo) | [Shook](https://open.spotify.com/album/02LTiLVMpmolLTlW61DCs8) | 3:58 |
 | 38 | [Hidden In Dark](https://open.spotify.com/track/5looEF1wbXnivs1doK0INi) | [Johannes Volk](https://open.spotify.com/artist/45wStP7gf18gnZKA80iMkd) | [Shining Force](https://open.spotify.com/album/6BVipFQ1jHmyYgMOQKne80) | 5:44 |
 | 39 | [Macro Economics](https://open.spotify.com/track/7r1k8FtRoEFI6YQPYdimMJ) | [James Bangura](https://open.spotify.com/artist/7939stjhhD9rNBMg0HvQ4o) | [The Angst](https://open.spotify.com/album/6da389RBGu7XVlcXuRAr3X) | 5:46 |

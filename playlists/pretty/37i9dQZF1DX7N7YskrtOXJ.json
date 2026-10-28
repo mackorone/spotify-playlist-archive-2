@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 129627,
+  "num_followers": 129642,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "El Amor de Mi Vida",
         "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 184586,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
-      },
-      "artists": [
-        {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
-        }
-      ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 224560,
       "name": "Chiquilla Bonita",
       "url": "https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+      },
+      "artists": [
+        {
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Moral Distra\u00edda",
-        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 190600,
       "name": "Ritmo Loco",
       "url": "https://open.spotify.com/track/2j8FwsqiF5QkfxjOszg9G0"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Moral Distra\u00edda",
+        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Pregonero",
-        "url": "https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd"
-      },
-      "artists": [
-        {
-          "name": "Banda Conmoci\u00f3n",
-          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Flor de Cumbi\u00f3n",
-      "url": "https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Nectar Internacional",
         "url": "https://open.spotify.com/album/5zKXDh6rHtZWHcQyyOgxE4"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 226602,
       "name": "Tu Vives Equivocada",
       "url": "https://open.spotify.com/track/4NecYY3NKC7FdPXSgJcJ80"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Pregonero",
+        "url": "https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd"
+      },
+      "artists": [
+        {
+          "name": "Banda Conmoci\u00f3n",
+          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Flor de Cumbi\u00f3n",
+      "url": "https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "El Divorcio",
-        "url": "https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 241583,
-      "name": "El Divorcio",
-      "url": "https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "No Te Creas Tan Importante",
         "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 226882,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "El Divorcio",
+        "url": "https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 241583,
+      "name": "El Divorcio",
+      "url": "https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Con Paso Firme",
+        "url": "https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ"
+      },
+      "artists": [
+        {
+          "name": "Los Kachorros",
+          "url": "https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad"
+        }
+      ],
+      "duration_ms": 234761,
+      "name": "Hermano Mio",
+      "url": "https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "\u00bfC\u00f3mo Te Explico?",
         "url": "https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 189231,
       "name": "\u00bfC\u00f3mo Te Explico?",
       "url": "https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Con Paso Firme",
-        "url": "https://open.spotify.com/album/3UHCJyfAEAXcc7CrR2OWvZ"
-      },
-      "artists": [
-        {
-          "name": "Los Kachorros",
-          "url": "https://open.spotify.com/artist/7hFe2cAs691Jb0Pxvb2yad"
-        }
-      ],
-      "duration_ms": 234761,
-      "name": "Hermano Mio",
-      "url": "https://open.spotify.com/track/5bVUbOMOQfG9uXnN7c9AKk"
     },
     {
       "added_at": "2026-09-04 18:44:34",

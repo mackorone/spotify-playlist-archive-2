@@ -1,6 +1,6 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2195951,
+  "num_followers": 2195967,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-05-18 19:27:55",
       "album": {
-        "name": "Cry Like a Rainstorm Howl Like the Wind",
-        "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Don't Know Much (with Aaron Neville)",
-      "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2025-05-18 19:27:55",
-      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2025-05-18 19:27:55",
+      "album": {
+        "name": "Cry Like a Rainstorm Howl Like the Wind",
+        "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Don't Know Much (with Aaron Neville)",
+      "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
     },
     {
       "added_at": "2025-05-18 19:27:55",

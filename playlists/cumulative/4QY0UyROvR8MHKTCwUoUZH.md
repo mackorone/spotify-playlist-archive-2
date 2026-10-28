@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-330 songs - 18 hr 34 min
+331 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-18 |  |
 | [Lasso The Moon](https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:42 | 2026-10-16 |  |
 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 | 2026-08-07 |  |
+| [Leave The Door Open](https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:02 | 2026-10-27 |  |
 | [less](https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:13 | 2026-08-25 |  |
 | [Let You In](https://open.spotify.com/track/2OqGfyw3dx6GikP01EwLYf) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Let You In](https://open.spotify.com/album/4mo9EM8C3Q2UXjvIexBSwY) | 3:58 | 2026-01-09 |  |
 | [Lies \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2T8ZVV7QlRrsCtXUiAoBuK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:40 | 2026-10-16 |  |

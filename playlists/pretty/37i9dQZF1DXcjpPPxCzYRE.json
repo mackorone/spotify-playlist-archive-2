@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 447498,
+  "num_followers": 447538,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 358625,
+      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
+      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "Tanto para dar",
         "url": "https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp"
       },
@@ -783,18 +799,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Camila / Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
-        "url": "https://open.spotify.com/album/28bcIOav5nLxZln1mZxPTG"
+        "name": "T'estimo tant",
+        "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        },
+        {
+          "name": "Alba Armengou",
+          "url": "https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul"
         }
       ],
-      "duration_ms": 358625,
-      "name": "Qu\u00e9 Hay M\u00e1s Grande Que Este Amor",
-      "url": "https://open.spotify.com/track/2PTJGyZ11tvpfDUUp2enxD"
+      "duration_ms": 183231,
+      "name": "T'estimo tant",
+      "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -819,22 +839,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "T'estimo tant",
-        "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
       },
       "artists": [
         {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
-        },
-        {
-          "name": "Alba Armengou",
-          "url": "https://open.spotify.com/artist/1v836FgFa0wmJBMO5FGJul"
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
         }
       ],
-      "duration_ms": 183231,
-      "name": "T'estimo tant",
-      "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -871,54 +887,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
-      },
-      "artists": [
-        {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
-        }
-      ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Islands in the Fog (with Gizmo Varillas)",
         "url": "https://open.spotify.com/album/1LOI0LDHrsOZ5daYAETPZl"
       },
@@ -939,22 +907,34 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Leaveyourlove (with MARO)",
-        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+      },
+      "artists": [
         {
           "name": "MARO",
           "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 214446,
-      "name": "Leaveyourlove (with MARO)",
-      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -971,6 +951,26 @@
       "duration_ms": 246240,
       "name": "Miffed It",
       "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Mandela Place",
-        "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 213563,
-      "name": "Mandela Place",
-      "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 232040,
       "name": "Boredom",
       "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Mandela Place",
+        "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 213563,
+      "name": "Mandela Place",
+      "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 123375,
-      "name": "Camila",
-      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "El silencio de las 4",
         "url": "https://open.spotify.com/album/2zgi1EjerU31CEvrbqwbk1"
       },
@@ -1319,22 +1319,6 @@
       "duration_ms": 173684,
       "name": "El silencio de las 4",
       "url": "https://open.spotify.com/track/5NZYEqdjELe1GuPT2IlSgT"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1367,6 +1351,22 @@
       "duration_ms": 224132,
       "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
       "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+        "name": "surub\u00ed",
+        "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
       },
       "artists": [
         {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+          "name": "Daniel Boudzali",
+          "url": "https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+      "duration_ms": 161680,
+      "name": "surub\u00ed",
+      "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "surub\u00ed",
-        "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
       },
       "artists": [
         {
-          "name": "Daniel Boudzali",
-          "url": "https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq"
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
         }
       ],
-      "duration_ms": 161680,
-      "name": "surub\u00ed",
-      "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
+        "name": "Kevin",
+        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
+      },
+      "artists": [
+        {
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+        }
+      ],
+      "duration_ms": 203003,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
         "name": "esa cara",
         "url": "https://open.spotify.com/album/5mj39NSYk6TGy5VzA2x9kX"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 151821,
       "name": "esa cara",
       "url": "https://open.spotify.com/track/4aN7X1buWStoLqvJrZgIWC"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
-        "name": "Kevin",
-        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
-      },
-      "artists": [
-        {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
-        }
-      ],
-      "duration_ms": 203003,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "AQU\u00cd CERCA DE TI",
-        "url": "https://open.spotify.com/album/5ERYMpmkwjnd4nH4cshaap"
-      },
-      "artists": [
-        {
-          "name": "PALOMA PALOMA",
-          "url": "https://open.spotify.com/artist/1dvIew9yk9v7pTp1OeFTpm"
-        }
-      ],
-      "duration_ms": 270421,
-      "name": "AQU\u00cd CERCA DE TI",
-      "url": "https://open.spotify.com/track/49XlozRIyT0oWxIzRrI0aD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:52",
-      "album": {
         "name": "San Antonio",
         "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2026-10-15 22:01:52",
       "album": {
-        "name": "Algo F\u00edsico",
-        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+        "name": "AQU\u00cd CERCA DE TI",
+        "url": "https://open.spotify.com/album/5ERYMpmkwjnd4nH4cshaap"
       },
       "artists": [
         {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+          "name": "PALOMA PALOMA",
+          "url": "https://open.spotify.com/artist/1dvIew9yk9v7pTp1OeFTpm"
         }
       ],
-      "duration_ms": 167386,
-      "name": "Algo F\u00edsico",
-      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+      "duration_ms": 270421,
+      "name": "AQU\u00cd CERCA DE TI",
+      "url": "https://open.spotify.com/track/49XlozRIyT0oWxIzRrI0aD"
     },
     {
       "added_at": "2026-10-15 22:01:52",
@@ -2027,6 +2011,22 @@
       "duration_ms": 475250,
       "name": "Gymnopedie N. 1",
       "url": "https://open.spotify.com/track/3ciSwoLfrJMGJbwCCEGfHs"
+    },
+    {
+      "added_at": "2026-10-15 22:01:52",
+      "album": {
+        "name": "Algo F\u00edsico",
+        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Algo F\u00edsico",
+      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
     },
     {
       "added_at": "2026-10-15 22:01:52",

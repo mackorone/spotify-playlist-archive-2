@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f Lo nuevo y lo mejor de la salsa.",
-  "num_followers": 1851044,
+  "num_followers": 1850931,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "TROPiKETE",
-        "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 210398,
-      "name": "TROPiKETE",
-      "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 286453,
       "name": "Maria Teresa y Danilo",
       "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "TROPiKETE",
+        "url": "https://open.spotify.com/album/1ylfWRXWvOFUmM8lhxHqWN"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 210398,
+      "name": "TROPiKETE",
+      "url": "https://open.spotify.com/track/78gBVTGuM56flamuc3Y14F"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "El Swing 2.0 (feat. Luis Vazquez)",
         "url": "https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 213084,
       "name": "El Swing 2.0 (feat. Luis Vazquez)",
       "url": "https://open.spotify.com/track/5U9lUIHIzSmXz7ScRQGWdx"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 262641,
-      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Salsa de Amor Vol. 3",
         "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 296133,
       "name": "P\u00e1ginas De Amor",
       "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": "2026-10-02 04:02:46",

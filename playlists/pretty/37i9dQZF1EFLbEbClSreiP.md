@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 31 | [Misremember You](https://open.spotify.com/track/6zjGVzE6SNgWGy0VXILipM) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/6wj6EqEV4sywgzZ4O7NeST) | 3:51 |
 | 32 | [Thought About You](https://open.spotify.com/track/4W4HQx02gdgehsMKFzbD0b) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Can't Stay Here](https://open.spotify.com/album/2KRZZq6fs8YrVK0cTmoZEz) | 3:24 |
 | 33 | [siren calling](https://open.spotify.com/track/0VWfoM5mnhtLMFoKofXjxF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 2:42 |
-| 34 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
-| 35 | [Peace & Patience](https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Peace & Patience](https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd) | 3:29 |
+| 34 | [Peace & Patience](https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Peace & Patience](https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd) | 3:29 |
+| 35 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
 | 36 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
 | 37 | [Cooler](https://open.spotify.com/track/5qgCGL1lwqx0aAkAVq0pFa) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:30 |
 | 38 | [1+1](https://open.spotify.com/track/7wLTVMt6OJcJ8Iolz8aIof) | [Just Jayne](https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE) | [1+1](https://open.spotify.com/album/3EJ4fhSJyGNCBCxjqYcA9w) | 2:35 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 42 | [together](https://open.spotify.com/track/2WxusqCab3SktOzhF9zokI) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [together](https://open.spotify.com/album/1bj28j1ekZiErCx33YIoMn) | 2:12 |
 | 43 | [Fantasy](https://open.spotify.com/track/0oehQ2YpDyRZA2x332jGrx) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Peace & Patience](https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd) | 3:18 |
 
-Snapshot ID: `AcgAuAAAAAChudFehYaGMA9XDIA19TC+`
+Snapshot ID: `AcgGWAAAAAByTl1agG4Up9uM6IHECQcA`

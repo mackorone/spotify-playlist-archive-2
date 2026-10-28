@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Dream Boat",
+  "description": "The best new music by independent artists and labels. Cover: Dillon Jo",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -5504,7 +5504,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 148474,
       "name": "back to that",
       "url": "https://open.spotify.com/track/0L8BBM0QZ9TuvC0Vq1Mmhw"
@@ -12820,7 +12820,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 164731,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/1i3oLspf1O5Okf5F5nF6At"
@@ -21548,6 +21548,24 @@
       "duration_ms": 188913,
       "name": "Drug Store",
       "url": "https://open.spotify.com/track/4p9Crg5bBCfCTJFHKTRlRT"
+    },
+    {
+      "album": {
+        "name": "white noise",
+        "url": "https://open.spotify.com/album/5NL3dqH85zCm6UMAjUbVP4"
+      },
+      "artists": [
+        {
+          "name": "neish",
+          "url": "https://open.spotify.com/artist/4OhS3bWx7rkNbSe5VWnlNa"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229421,
+      "name": "drunk",
+      "url": "https://open.spotify.com/track/1iQroiQUMtZP77Kh2aENCZ"
     },
     {
       "album": {
@@ -31626,7 +31644,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 187000,
       "name": "HABIT",
       "url": "https://open.spotify.com/track/4jmSlQSgcmT5uByjwz2wWI"
@@ -32542,7 +32560,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 203149,
       "name": "Headlight Gold",
       "url": "https://open.spotify.com/track/0WmYlsHLHptu6YGJljXOTt"
@@ -43245,6 +43263,24 @@
     },
     {
       "album": {
+        "name": "Let Me Be Wrong",
+        "url": "https://open.spotify.com/album/2HLSaNWrcYUuOqttW5mzez"
+      },
+      "artists": [
+        {
+          "name": "Elena Jones",
+          "url": "https://open.spotify.com/artist/1jWlVjoOjNRL6vj7sTrP5P"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Let Me Be Wrong",
+      "url": "https://open.spotify.com/track/4KCRjpndd8WUnKwDIvj5W0"
+    },
+    {
+      "album": {
         "name": "let me go",
         "url": "https://open.spotify.com/album/7GhFAjyKQWrZTyXwrMlqZz"
       },
@@ -47034,6 +47070,24 @@
       "duration_ms": 203948,
       "name": "Madeline",
       "url": "https://open.spotify.com/track/0HGRz93IV4v8sfkmoQLSsB"
+    },
+    {
+      "album": {
+        "name": "MADONNA",
+        "url": "https://open.spotify.com/album/5PbX3UJA4vLUOJmhMyh2vU"
+      },
+      "artists": [
+        {
+          "name": "Okay The Duo",
+          "url": "https://open.spotify.com/artist/5FEFKsIbmI3PmesbWD2EeO"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "MADONNA",
+      "url": "https://open.spotify.com/track/0m8OFLtT3Lqys7EsyKQkrd"
     },
     {
       "album": {
@@ -55632,7 +55686,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 102000,
       "name": "One More Drink",
       "url": "https://open.spotify.com/track/0N0o2E1UguFlpfnFCM2cDh"
@@ -81001,6 +81055,24 @@
     },
     {
       "album": {
+        "name": "Virtual Lover",
+        "url": "https://open.spotify.com/album/14WobYbgG7aNhM09C7np58"
+      },
+      "artists": [
+        {
+          "name": "xiao xiao",
+          "url": "https://open.spotify.com/artist/4oiBay4ATBcD4ujBsLobCK"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Virtual Lover",
+      "url": "https://open.spotify.com/track/2PpCKWp67hO4NKvQr10Q8o"
+    },
+    {
+      "album": {
         "name": "Vis-\u00e0-Vis",
         "url": "https://open.spotify.com/album/56p6uoZr1oIzytju4mCDIH"
       },
@@ -84668,6 +84740,24 @@
       "duration_ms": 263728,
       "name": "Winding Road",
       "url": "https://open.spotify.com/track/2Jm592cCH5PW29fPrWWpTI"
+    },
+    {
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/2CsoqrF3WY5KO6WgyiAcXm"
+      },
+      "artists": [
+        {
+          "name": "Dillon Jo",
+          "url": "https://open.spotify.com/artist/5oFVHwRLoW3v9VIoA7O6uQ"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Windmill",
+      "url": "https://open.spotify.com/track/45Cwr92B6qUPVBH5cF8WxV"
     },
     {
       "album": {

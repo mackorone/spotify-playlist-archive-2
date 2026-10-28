@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
 
-1,702 songs - 3 day 18 hr 2 min
+1,703 songs - 3 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,6 +795,7 @@
 | [indifferent](https://open.spotify.com/track/1KCZhsIYdcAAigzWZ78fzx) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ) | [indifferent](https://open.spotify.com/album/2tivnGG3rBrzMRH15rlDQh) | 2:54 | 2025-11-07 | 2026-01-31 |
 | [Inferno \- from "Heated Rivalry"](https://open.spotify.com/track/1n8afwzrk9KEdORiC5EBYV) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 4:26 | 2026-01-16 | 2026-03-28 |
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-03 | 2024-05-11 |
+| [Insomnia](https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Insomnia](https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1) | 3:14 | 2026-10-27 |  |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-21 | 2024-08-03 |
 | [Invincible Shield](https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 6:21 | 2024-03-08 | 2024-03-16 |
 | [Iris](https://open.spotify.com/track/4T0NKEfBxsVsSjoMg5FsNV) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Iris](https://open.spotify.com/album/6kwvbPkXCbL0ywkLUlooKo) | 3:13 | 2024-06-07 | 2024-07-20 |

@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 458353,
+  "num_followers": 458385,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Girls Ain't Nothing But Trouble - 1988 Extended Remix",
-      "url": "https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "All World",
         "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 279960,
       "name": "I'm Bad",
       "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Girls Ain't Nothing But Trouble - 1988 Extended Remix",
+      "url": "https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "That's the Joint",
+        "url": "https://open.spotify.com/album/275LyQkw1Be2dDfYo64bOX"
+      },
+      "artists": [
+        {
+          "name": "Funky 4 + 1",
+          "url": "https://open.spotify.com/artist/6Jpc1m4U7kxHlzn8hkB85C"
+        }
+      ],
+      "duration_ms": 562226,
+      "name": "That's the Joint",
+      "url": "https://open.spotify.com/track/4E3ODD0mMJZ7iCddYGNZnS"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "The Message (Expanded Edition)",
         "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 430013,
       "name": "The Message - Extended Version",
       "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "The Best Of N.W.A: The Strength Of Street Knowledge",
-        "url": "https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Boyz-N-The-Hood",
-      "url": "https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

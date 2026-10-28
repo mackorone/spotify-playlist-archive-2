@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,620 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,574 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 85 | [Un Rayo de Luz](https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Rayo de Luz](https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr) | 3:42 |
 | 86 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 |
 | 87 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
-| 88 | [Idiota](https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Idiota](https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9) | 3:28 |
-| 89 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
+| 88 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
+| 89 | [Idiota](https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Idiota](https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9) | 3:28 |
 | 90 | [OTRA COSA MARIPOSA](https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [OTRA COSA MARIPOSA](https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki) | 2:43 |
 | 91 | [Ganas](https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Ganas](https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2) | 2:46 |
 | 92 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |

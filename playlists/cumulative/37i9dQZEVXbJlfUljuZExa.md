@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,574 songs - 3 day 19 hr 11 min
+1,575 songs - 3 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-03 | 2024-05-03 |
 | [Dendang Perantau](https://open.spotify.com/track/7x02IiQ09olGTjxnzRQVDH) | [Tan Sri P\. Ramlee](https://open.spotify.com/artist/7vgBEzAtjH9f1IbbqeRnwi) | [Siri Kenangan Abadi Volume 1: Getaran Jiwa](https://open.spotify.com/album/23poyGUthJKVsSSySPy3Hi) | 2:40 | 2021-05-07 | 2021-05-16 |
 | [Dendang Perantau](https://open.spotify.com/track/4S5D7LtgiHLhoQSe4kMMIh) | [Tan Sri P\. Ramlee](https://open.spotify.com/artist/7vgBEzAtjH9f1IbbqeRnwi) | [Siri Kenangan Abadi Volume 2 : Getaran Jiwa](https://open.spotify.com/album/6cNspl6i2FowdZTx3cDncC) | 2:43 | 2022-04-29 | 2025-04-03 |
+| [DESERVE](https://open.spotify.com/track/3lNWn4ZOgHSZUWcWbIl6KQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DESERVE](https://open.spotify.com/album/5N8EIJo0rBiTiDgGH49Cri) | 3:09 | 2026-10-27 |  |
 | [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-28 | 2023-01-30 |
 | [Di Balik Pertanda](https://open.spotify.com/track/3uLb3akDowAYWp5QbbKN0w) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [OFF GUARD](https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s) | 3:36 | 2024-10-26 | 2024-11-03 |
 | [Di Balik Pertanda](https://open.spotify.com/track/5uytzO0N2bCsueGE7cuyuM) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Di Balik Pertanda](https://open.spotify.com/album/76H7wY4u8vwdDjJFYhDqbj) | 3:36 | 2024-10-01 | 2024-10-27 |
@@ -356,7 +357,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-17 | 2025-03-09 |
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-08 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-03 | 2024-11-08 |
-| [Dinda](https://open.spotify.com/track/0YxZwR2nJViImRcbNpDQDj) | [MASDO](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/3UR1sVs8XaD9mfeFZLGfTj) | 3:31 | 2026-10-04 |  |
+| [Dinda](https://open.spotify.com/track/0YxZwR2nJViImRcbNpDQDj) | [MASDO](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/3UR1sVs8XaD9mfeFZLGfTj) | 3:31 | 2026-10-04 | 2026-10-28 |
 | [Dirimu Yang Dulu](https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:00 | 2026-01-26 | 2026-03-15 |
 | [Dirty Work](https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-07-01 | 2025-07-03 |
 | [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2025-07-08 | 2025-07-21 |
@@ -691,7 +692,7 @@
 | [Jangan Jangan](https://open.spotify.com/track/3OqnKFIlA0dngc4stmjlcr) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [Legasi](https://open.spotify.com/album/5DsOPl7OWi5i5U0gVAlwFa) | 3:41 | 2026-10-03 | 2026-10-23 |
 | [Jangan Paksa Rindu](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 | 2026-04-04 |  |
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2021-12-19 | 2022-02-24 |
-| [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2026-08-22 | 2026-10-27 |
+| [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 | 2026-08-22 |  |
 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 | 2021-05-23 | 2021-06-02 |
 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-16 | 2022-05-11 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-25 | 2025-12-28 |
@@ -924,7 +925,7 @@
 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 | 2021-08-01 | 2021-08-02 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-08-01 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-19 | 2021-12-12 |
-| [Negoro Angin](https://open.spotify.com/track/0RMd2sfxpmlZ9cP8XqP4LM) | [Muslih Fvnky](https://open.spotify.com/artist/0IMAJ9BK0WcEm3CYyBSBW8) | [Negoro Angin](https://open.spotify.com/album/1bogPbnsyAUjFKuaUgIhPM) | 5:52 | 2026-10-22 |  |
+| [Negoro Angin](https://open.spotify.com/track/0RMd2sfxpmlZ9cP8XqP4LM) | [Muslih Fvnky](https://open.spotify.com/artist/0IMAJ9BK0WcEm3CYyBSBW8) | [Negoro Angin](https://open.spotify.com/album/1bogPbnsyAUjFKuaUgIhPM) | 5:52 | 2026-10-22 | 2026-10-28 |
 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-17 |  |
 | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 | 2024-09-07 | 2024-09-15 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 | 2024-06-22 |

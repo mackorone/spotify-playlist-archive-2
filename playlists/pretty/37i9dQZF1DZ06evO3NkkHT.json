@@ -1,6 +1,6 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 89882,
+  "num_followers": 89922,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Rap Niggas",
+      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 167114,
       "name": "Picc ah Side",
       "url": "https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Rap Niggas",
-      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
     },
     {
       "added_at": null,

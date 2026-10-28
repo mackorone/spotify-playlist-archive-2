@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,946 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,948 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 49 | [No Good Truckin' Man](https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Makin' A Mile](https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v) | 2:31 |
 | 50 | [Old Time Country Halls](https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 2:54 |
 
-Snapshot ID: `atv1AAAAAADmNz1zjznXVTZx6cvnkop5`
+Snapshot ID: `at1GgAAAAAABXcxZOc51zsnUftXx813m`

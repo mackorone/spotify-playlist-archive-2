@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 837428,
+  "num_followers": 837490,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-18 14:47:59",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2026-09-18 14:47:59",
-      "album": {
         "name": "Seminole Wind",
         "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 173866,
       "name": "Straight Tequila Night",
       "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+    },
+    {
+      "added_at": "2026-09-18 14:47:59",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2026-09-18 14:47:59",

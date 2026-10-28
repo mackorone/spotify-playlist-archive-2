@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,861 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,857 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 42 | [Lourga](https://open.spotify.com/track/5unbdTVuyBjvXe3OUHZTNV) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Zykrayati](https://open.spotify.com/album/1QGk8YXeOBGIZ8mEQCnsle) | 18:42 |
 | 43 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 |
 | 44 | [Nugriz](https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
-| 45 | [Endless Dance](https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY) | [Ahmed Nazmi](https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221) | [Shams](https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW) | 4:26 |
-| 46 | [The Second Baghdad](https://open.spotify.com/track/1tB5BADAeX0tHHs68FB3zB) | [Rahim AlHaj](https://open.spotify.com/artist/6G0kPwGN96TTnSjeiqM3Ys) | [Journey](https://open.spotify.com/album/22gdJxzx5QY9hooxO9rWbC) | 4:42 |
+| 45 | [The Second Baghdad](https://open.spotify.com/track/1tB5BADAeX0tHHs68FB3zB) | [Rahim AlHaj](https://open.spotify.com/artist/6G0kPwGN96TTnSjeiqM3Ys) | [Journey](https://open.spotify.com/album/22gdJxzx5QY9hooxO9rWbC) | 4:42 |
+| 46 | [Endless Dance](https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY) | [Ahmed Nazmi](https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221) | [Shams](https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW) | 4:26 |
 | 47 | [Hayati \- Ma vie / My Life](https://open.spotify.com/track/60635lzVqtNc2lgjLbqH2z) | [Kamilya Jubran](https://open.spotify.com/artist/0ZV2R4aq7rkX0pWXLGa42d), [Sarah Murcia](https://open.spotify.com/artist/1ExeCHfthEFbhdaZb401mF) | [Nhaoul'](https://open.spotify.com/album/1ilshQ4SuHvYDETtL8rHB2) | 9:35 |
 | 48 | [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 |
 | 49 | [D'un crépuscule, l'autre](https://open.spotify.com/track/4g429S9DBkgold5zSRTJQa) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA) | [Contes d'un misérable luth](https://open.spotify.com/album/11bEbaZkzjPf9l1phqxhbn) | 6:49 |

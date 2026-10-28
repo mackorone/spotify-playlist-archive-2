@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,293 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,295 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 49 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 |
 | 50 | [Dirty Girl](https://open.spotify.com/track/5idXmIFpLBV6A3fFSKkSvy) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/63DaQllnJKqmCIwHveb4A7) | 3:29 |
 
-Snapshot ID: `atv1AAAAAABuoyhBsEEbNlAw51IP+OCZ`
+Snapshot ID: `at1GgAAAAACqaZkBOFTYdUWTrmQ8PRuZ`

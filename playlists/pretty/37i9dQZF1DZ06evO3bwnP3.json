@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAAJhqP2fsCFVAHUwR2kvX5E",
+  "snapshot_id": "at1GgAAAAADs9tvks8eFBNKEjTOhrYEl",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 123903,
-      "name": "Equal Exchange",
-      "url": "https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q"
+      "duration_ms": 131743,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/31svskbKJJBnUFVl6DUCuE"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 266500,
+      "name": "Imgs /r",
+      "url": "https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fireflight",
         "url": "https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grafts (Expanded Reissue)",
-        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 1210286,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/04ulTcYnjXajnw2T3KO6D1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Where You Came",
         "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
       },
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 134715,
-      "name": "Offload Flip",
-      "url": "https://open.spotify.com/track/1BUyg7OdWyF1dnTqpUjcz8"
+      "duration_ms": 123903,
+      "name": "Equal Exchange",
+      "url": "https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+        "name": "Grafts (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 266500,
-      "name": "Imgs /r",
-      "url": "https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE"
+      "duration_ms": 1210286,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/04ulTcYnjXajnw2T3KO6D1"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 131743,
-      "name": "Habitat",
-      "url": "https://open.spotify.com/track/31svskbKJJBnUFVl6DUCuE"
+      "duration_ms": 134715,
+      "name": "Offload Flip",
+      "url": "https://open.spotify.com/track/1BUyg7OdWyF1dnTqpUjcz8"
     },
     {
       "added_at": null,
@@ -396,29 +396,25 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 349832,
-      "name": "The Placid Illusion",
-      "url": "https://open.spotify.com/track/3mHjUdY3pIhmq4st2iOUtY"
+      "duration_ms": 211022,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/2EFrVQIBtydHgQd8S6Ftrz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+        "name": "Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)",
+        "url": "https://open.spotify.com/album/0IPRLbTk25WC4mUneVUgRN"
       },
       "artists": [
         {
           "name": "Kara-Lis Coverdale",
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 268181,
-      "name": "Territory of Subtle Entries",
-      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
+      "duration_ms": 148204,
+      "name": "Kvinne med gresskar",
+      "url": "https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh"
     },
     {
       "added_at": null,
@@ -455,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
+        }
+      ],
+      "duration_ms": 268181,
+      "name": "Territory of Subtle Entries",
+      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inscriptions, Vol. 3",
         "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 248000,
       "name": "Buried Trig",
       "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jordsvingninger (A Smalltown Supersound compilation of exclusive tracks)",
-        "url": "https://open.spotify.com/album/0IPRLbTk25WC4mUneVUgRN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 148204,
-      "name": "Kvinne med gresskar",
-      "url": "https://open.spotify.com/track/193aqF62XnBBlBEvdT73Eh"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Subfall (to)",
-      "url": "https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI"
+      "duration_ms": 494634,
+      "name": "Disney",
+      "url": "https://open.spotify.com/track/5MkuEX1acmkliCnJggxXgo"
     },
     {
       "added_at": null,
@@ -652,49 +652,49 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 426041,
-      "name": "Informant",
-      "url": "https://open.spotify.com/track/5DlXehvZA7eKs50M8UEcgc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
-        }
-      ],
-      "duration_ms": 494634,
-      "name": "Disney",
-      "url": "https://open.spotify.com/track/5MkuEX1acmkliCnJggxXgo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
-        }
-      ],
       "duration_ms": 179500,
       "name": "Borrowed Memory (from)",
       "url": "https://open.spotify.com/track/1PyACtmfSCqwDeMl9a4P4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Subfall (to)",
+      "url": "https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
+        }
+      ],
+      "duration_ms": 426041,
+      "name": "Informant",
+      "url": "https://open.spotify.com/track/5DlXehvZA7eKs50M8UEcgc"
     }
   ],
   "unique_name": "This Is Kara-Lis Coverdale",

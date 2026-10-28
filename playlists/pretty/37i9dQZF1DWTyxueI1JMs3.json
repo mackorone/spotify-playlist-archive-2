@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40882,
+  "num_followers": 40880,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e3\u30f3[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
+          "url": "https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI"
+        },
+        {
+          "name": "\u30e6\u30f3[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
+          "url": "https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "\u30ed\u30fc\u30c9\u30c8\u30a5\u9945\u982d\u30de\u30b9\u30bf\u30fc!",
+      "url": "https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
         "name": "A3! First SPRING EP",
         "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 258733,
       "name": "Spring has come!",
       "url": "https://open.spotify.com/track/2RRBQEw3laesyrXApTgWnV"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
-      },
-      "artists": [
-        {
-          "name": "\u30c1\u30e3\u30f3[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
-          "url": "https://open.spotify.com/artist/1TwbHnNyY1dN0MwhR4p4iI"
-        },
-        {
-          "name": "\u30e6\u30f3[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
-          "url": "https://open.spotify.com/artist/6ulsvir1xX45J9uIHuvvZG"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "\u30ed\u30fc\u30c9\u30c8\u30a5\u9945\u982d\u30de\u30b9\u30bf\u30fc!",
-      "url": "https://open.spotify.com/track/7IZHRR4odvRYzeAW6MX0oH"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! SUNNY WINTER EP",
-        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
-      },
-      "artists": [
-        {
-          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
-          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30af\u3068\u767d\u6708",
-      "url": "https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
         "name": "A3! VIVID WINTER EP",
         "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
+        "name": "A3! SUNNY WINTER EP",
+        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
+      },
+      "artists": [
+        {
+          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30af\u3068\u767d\u6708",
+      "url": "https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
         "name": "A3! VIVID AUTUMN EP",
         "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 232280,
       "name": "RESPAWN",
       "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
-        "name": "A3! VIVID SPRING EP",
-        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
-      },
-      "artists": [
-        {
-          "name": "\u30e9\u30f3\u30b9\u30ed\u30c3\u30c8[\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)]",
-          "url": "https://open.spotify.com/artist/0geAtmre359jUVwss0ULdT"
-        },
-        {
-          "name": "\u30ac\u30a6\u30a7\u30a4\u30f3[\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)]",
-          "url": "https://open.spotify.com/artist/0ZfTMW0bcID5P59q9uGXvX"
-        }
-      ],
-      "duration_ms": 345386,
-      "name": "The Pride Of The Knights",
-      "url": "https://open.spotify.com/track/6sOEAU7CXh3UkTrh8T6xx4"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -1067,6 +1047,26 @@
       "duration_ms": 249666,
       "name": "Shake the Shape",
       "url": "https://open.spotify.com/track/50fZIBCc63mXIdW9gBYrn9"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
+        "name": "A3! VIVID SPRING EP",
+        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30f3\u30b9\u30ed\u30c3\u30c8[\u8305\u30f6\u5d0e\u81f3(CV:\u6d45\u6cbc\u664b\u592a\u90ce)]",
+          "url": "https://open.spotify.com/artist/0geAtmre359jUVwss0ULdT"
+        },
+        {
+          "name": "\u30ac\u30a6\u30a7\u30a4\u30f3[\u536f\u6728\u5343\u666f(CV:\u7fbd\u591a\u91ce\u6e09)]",
+          "url": "https://open.spotify.com/artist/0ZfTMW0bcID5P59q9uGXvX"
+        }
+      ],
+      "duration_ms": 345386,
+      "name": "The Pride Of The Knights",
+      "url": "https://open.spotify.com/track/6sOEAU7CXh3UkTrh8T6xx4"
     }
   ],
   "unique_name": "A3!",

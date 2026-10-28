@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 49 | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \- Acústico](https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Casluh](https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI) | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \[Acústico\]](https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA) | 8:17 |
 | 50 | [Tipo Trem Bala](https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Tipo Trem Bala](https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc) | 3:01 |
 
-Snapshot ID: `atv1AAAAAAADmmjrZiWfwn6hDlM+GMnR`
+Snapshot ID: `at1GgAAAAABH9rUsU+rsLu1oSHggFbYe`

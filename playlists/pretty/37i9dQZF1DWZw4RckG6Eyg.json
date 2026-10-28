@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 47519,
+  "num_followers": 47533,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Everyone Loves You",
+        "url": "https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu"
+      },
+      "artists": [
+        {
+          "name": "Glasshouse Red Spider Mite",
+          "url": "https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli"
+        }
+      ],
+      "duration_ms": 394538,
+      "name": "Everyone Loves You",
+      "url": "https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Dealerz",
         "url": "https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Everyone Loves You",
-        "url": "https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu"
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
       },
       "artists": [
         {
-          "name": "Glasshouse Red Spider Mite",
-          "url": "https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli"
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
         }
       ],
-      "duration_ms": 394538,
-      "name": "Everyone Loves You",
-      "url": "https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3"
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
-      },
-      "artists": [
-        {
-          "name": "Local the Neighbour",
-          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Unarchiver",
         "url": "https://open.spotify.com/album/5B27SeekEZmvH9qP7YE5w7"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 295026,
       "name": "Unarchiver",
       "url": "https://open.spotify.com/track/1vow5hm6PQGE4K4UTRY8jX"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
+      },
+      "artists": [
+        {
+          "name": "Local the Neighbour",
+          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6"
-      },
-      "artists": [
-        {
-          "name": "TTSSFU",
-          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
-        }
-      ],
-      "duration_ms": 221355,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Death of a Daisy & Birth of an Oyster",
         "url": "https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3"
       },
@@ -1415,6 +1399,38 @@
       "duration_ms": 394906,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/4eq7tRIuWqgMBI2I3juWZc"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "duration_ms": 221355,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "LEECHES",
+        "url": "https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT"
+      },
+      "artists": [
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "LEECHES",
+      "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "LEECHES",
-        "url": "https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT"
-      },
-      "artists": [
-        {
-          "name": "Ledbyher",
-          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "LEECHES",
-      "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Lack of G-LIP",
         "url": "https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Patience, Moonbeam",
-        "url": "https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Junior",
-      "url": "https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 197113,
       "name": "Door",
       "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Patience, Moonbeam",
+        "url": "https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Junior",
+      "url": "https://open.spotify.com/track/1JDEDO4rqR7QBlN01gwxUR"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7"
-      },
-      "artists": [
-        {
-          "name": "The Man The Myth The Meatslab",
-          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
-        }
-      ],
-      "duration_ms": 196216,
-      "name": "Infinite",
-      "url": "https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Change My Mind / Dare To Fall In Love",
         "url": "https://open.spotify.com/album/7bb6XYtPuE2YE86EwswEOS"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 137664,
       "name": "Dare To Fall In Love",
       "url": "https://open.spotify.com/track/6wK00cLmk8GOgJOgMusTeu"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7"
+      },
+      "artists": [
+        {
+          "name": "The Man The Myth The Meatslab",
+          "url": "https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x"
+        }
+      ],
+      "duration_ms": 196216,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL"
     },
     {
       "added_at": "2025-12-03 12:16:12",

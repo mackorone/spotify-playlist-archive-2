@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-200 songs - 12 hr 52 min
+201 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [quiver with a scream](https://open.spotify.com/track/2SxsblFeKWRPVWjy51Gmdb) | [Fatbird Finch](https://open.spotify.com/artist/7yZ5D7yiDIZdp49aGOcere) | [trilogy III](https://open.spotify.com/album/3HaR4aWTZ7rkqi2Fu4xT0Z) | 3:38 | 2026-08-27 |  |
 | [Red Suitcase \- Single Version](https://open.spotify.com/track/5tgpVpdkGL7IgayCLRTTra) | [Amos Ender](https://open.spotify.com/artist/2Nt0gG43vrYBQiPAZMUUuw) | [Into The World Of Man](https://open.spotify.com/album/1yj0CWxvKoB4c02hrtIb3Y) | 3:37 | 2026-01-19 | 2026-02-07 |
 | [Relations](https://open.spotify.com/track/3z4yeBOZWcnC8xn95osAPC) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Relations](https://open.spotify.com/album/6UkWcFTCAGuD1EbbaQhNBM) | 5:16 | 2025-11-24 | 2026-02-07 |
+| [Resolve](https://open.spotify.com/track/3uK6X1waX0jS0Wgrjny4xo) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [Mantra & Resolve](https://open.spotify.com/album/6z3pthbC7S0VIjMB39LTPp) | 5:04 | 2026-10-27 |  |
 | [Run](https://open.spotify.com/track/2c2Quhm8fF8MlFmiRFJ8I9) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:35 | 2026-07-22 |  |
 | [Same Same](https://open.spotify.com/track/2zzepEPukOeBPCTkxIC7Kk) | [Shugi](https://open.spotify.com/artist/3tkEaWGZQKxZpIQTXJwjXl) | [Same Same](https://open.spotify.com/album/40liCRJq38XDNqZbkpbiWA) | 4:38 | 2026-09-13 |  |
 | [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 | 2026-01-19 | 2026-02-07 |

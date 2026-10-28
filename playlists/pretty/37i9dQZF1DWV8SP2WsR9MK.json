@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 134167,
+  "num_followers": 134208,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,42 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "All Across The City",
+      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 484493,
+      "name": "Joshua Fit De Battle Of Jericho",
+      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
       },
@@ -795,38 +831,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 484493,
-      "name": "Joshua Fit De Battle Of Jericho",
-      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "All Across The City",
-      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
+      "duration_ms": 354293,
+      "name": "Minor Blues",
+      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -847,22 +863,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "The Next Step",
-        "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 354293,
-      "name": "Minor Blues",
-      "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "We'll Be Together Again",
-        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 224613,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "We'll Be Together Again",
+        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
+      },
+      "artists": [
+        {
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
     },
     {
       "added_at": "2025-09-10 12:20:14",

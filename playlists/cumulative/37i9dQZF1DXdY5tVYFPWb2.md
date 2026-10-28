@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-987 songs - 2 day 16 hr 56 min
+988 songs - 2 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,7 +834,7 @@
 | [不思議な関係](https://open.spotify.com/track/00Nj6hCC9wNg86MO0sIGJf) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [不思議な関係](https://open.spotify.com/album/1W2FaF800M2nRqZlPFMhG9) | 4:32 | 2022-10-04 | 2022-12-17 |
 | [中央フリーウェイ](https://open.spotify.com/track/4tnDfVx1Y3dPQwfn4rkTTV) | [Airi](https://open.spotify.com/artist/5YN0XBqDwo3W5EnFvrc0iJ), [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [中央フリーウェイ / Music Book](https://open.spotify.com/album/3PXOyHebIyJXKfIk7YoL5P) | 4:06 | 2024-08-14 | 2025-03-26 |
 | [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 | 2023-12-19 |  |
-| [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳！〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 | 2022-10-04 |  |
+| [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳！〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 | 2022-10-04 | 2026-10-28 |
 | [丸ノ内サディスティック](https://open.spotify.com/track/06PEfLlv6z45MkCKemgyXM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [丸ノ内サディスティック](https://open.spotify.com/album/0SVLXumBBt6UUTALwxn67y) | 4:09 | 2023-11-10 | 2024-04-19 |
 | [乙女の剣](https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [乙女の剣](https://open.spotify.com/album/54rGAYE7lUEKMIDE2zdLt1) | 3:36 | 2026-10-20 |  |
 | [低気圧ボーイ](https://open.spotify.com/track/4vZMcTObOGq67qN6aiDgim) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [低気圧ボーイ](https://open.spotify.com/album/12wpyZQ1Y3JKoQPhUrECsW) | 4:33 | 2022-06-21 | 2022-07-13 |
@@ -879,6 +879,7 @@
 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 | 2023-01-17 | 2023-11-11 |
 | [微炭酸](https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [微炭酸](https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA) | 3:00 | 2025-08-05 |  |
 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 | 2022-05-28 |  |
+| [恋すれど Good\-Bye はいつも背中合わせ](https://open.spotify.com/track/0pjTzQGmK0sfBDEqUaei1Q) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [玉井詩織](https://open.spotify.com/artist/7ELE35x6MVJjMCyo4WgS39) | [恋すれど Good\-Bye はいつも背中合わせ](https://open.spotify.com/album/13WhgswpgOgl8xSQA6PpDR) | 3:43 | 2026-10-20 |  |
 | [恋のこと](https://open.spotify.com/track/1HcKX6tLNunyOcs7RoCzHt) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA), [JUNES K](https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl) | [恋のこと](https://open.spotify.com/album/3MkNefoGCMk027iQWztGK4) | 3:42 | 2024-06-04 | 2024-07-13 |
 | [恋の後味](https://open.spotify.com/track/5Ps6N8EagDyCIASsX4E8nW) | [Yufu Terashima](https://open.spotify.com/artist/1EprrjlHDT5PD1w2NrHDPJ) | [恋の後味](https://open.spotify.com/album/0n04mNWmzUUWZnfGNyC3oB) | 4:56 | 2022-12-13 | 2023-01-11 |
 | [恋はこれから](https://open.spotify.com/track/7glZoiCUXZ1u0U9YE6mq8X) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [恋はこれから / 君の笑顔につられて](https://open.spotify.com/album/56ec6JAurtoQiL7kz1pgv1) | 4:19 | 2023-03-28 | 2023-06-25 |

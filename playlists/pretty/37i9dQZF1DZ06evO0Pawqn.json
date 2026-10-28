@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAC/DcH5XNYtJP7MKPhMvHIU",
+  "snapshot_id": "at1GgAAAAAB4tJlZ9cZQmZto7eGveQnx",
   "tracks": [
     {
       "added_at": null,
@@ -139,38 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Arrepientete",
-      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 157884,
-      "name": "De la Tierra al Cielo",
-      "url": "https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comiendote a Besos",
         "url": "https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c"
       },
@@ -191,6 +159,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 157884,
+      "name": "De la Tierra al Cielo",
+      "url": "https://open.spotify.com/track/1z45rHA0VeDLRrvxtG5ORF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Arrepientete",
+      "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Quisiera Amarte Menos",
-      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
+      "duration_ms": 203728,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
     },
     {
       "added_at": null,
@@ -264,29 +264,25 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 203728,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
+      "duration_ms": 216973,
+      "name": "Quisiera Amarte Menos",
+      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Se Supone",
-        "url": "https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj"
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 165887,
-      "name": "Se Supone",
-      "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
+      "duration_ms": 210546,
+      "name": "Nosotros Tambien Podemos",
+      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
     },
     {
       "added_at": null,
@@ -307,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+        "name": "Se Supone",
+        "url": "https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Nosotros Tambien Podemos",
-      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
+      "duration_ms": 165887,
+      "name": "Se Supone",
+      "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Mi Pueblo",
+        "url": "https://open.spotify.com/album/0Kq5vvguGWYRyftSzsr7eI"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 232150,
+      "name": "Me Ha Llegado el Amor",
+      "url": "https://open.spotify.com/track/31j4yUg8cOyaoSeM104lRf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 161026,
       "name": "Cajita De Cart\u00f3n",
       "url": "https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Mi Pueblo",
-        "url": "https://open.spotify.com/album/0Kq5vvguGWYRyftSzsr7eI"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 232150,
-      "name": "Me Ha Llegado el Amor",
-      "url": "https://open.spotify.com/track/31j4yUg8cOyaoSeM104lRf"
     },
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/26SuK8JzjDQO7oGQQauiuj"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
       },
       "artists": [
-        {
-          "name": "Los Dinamicos Del Norte",
-          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
-        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 217336,
-      "name": "Vuela Paloma",
-      "url": "https://open.spotify.com/track/56JWh6yS9DbgHQH6wwtI3y"
+      "duration_ms": 189546,
+      "name": "De Cantina En Cantina",
+      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns"
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/26SuK8JzjDQO7oGQQauiuj"
       },
       "artists": [
+        {
+          "name": "Los Dinamicos Del Norte",
+          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
+        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 189546,
-      "name": "De Cantina En Cantina",
-      "url": "https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG"
+      "duration_ms": 217336,
+      "name": "Vuela Paloma",
+      "url": "https://open.spotify.com/track/56JWh6yS9DbgHQH6wwtI3y"
     },
     {
       "added_at": null,

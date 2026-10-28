@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Cesare Cremonini, Chris Nolan, Dominik Fike, LISA, 3D e nayt, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,016 likes - 92 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,984 likes - 92 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Halle
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,568 likes - 187 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,582 likes - 187 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,322 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,325 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 21 | [Just the Bro \(feat\. Tyga & Ty Dolla $ign\)](https://open.spotify.com/track/0Q54gKsmxMlXzY23r1qbAj) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:24 |
 | 22 | [Bitches N Marijuana \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:14 |
 | 23 | [Kream \(feat\. Tyga\)](https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Survive The Summer](https://open.spotify.com/album/4jzYKkhMfaEFxDRevZqDdK) | 2:46 |
-| 24 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
-| 25 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
+| 24 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
+| 25 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
 | 26 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
 | 27 | [Lift Me Up](https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lift Me Up](https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW) | 2:48 |
 | 28 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [February Love \(feat\. Chris Brown\)](https://open.spotify.com/track/6pAaeIH6FuqdiweIogafXT) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:37 |
 | 50 | [Still Got It](https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 3:44 |
 
-Snapshot ID: `atv1AAAAAADhJXfV6+90qGnd/vriWHYS`
+Snapshot ID: `at1GgAAAAABJ5tayHFXbjiqjSy5YL78f`

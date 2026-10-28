@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,376 likes - 81 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,387 likes - 81 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 76 | [Electric Counterpoint \- Fast](https://open.spotify.com/track/2vvfErqamth02Skdq2TTKX) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 6:45 |
 | 77 | [Mamadou](https://open.spotify.com/track/4U9jbqzSu3aUMXQMUZUIQb) | [Susso](https://open.spotify.com/artist/6eSUQltc7DkN4OiPgOl4VP) | [Keira](https://open.spotify.com/album/4RYg4wd3xq5aHVImUfpbw4) | 2:43 |
 | 78 | [>;0 \(feat\. Vegyn\)](https://open.spotify.com/track/64tgANMtVxmUzIYfuZSZrx) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [A Museum Of Contradiction](https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd) | 2:07 |
-| 79 | [My World](https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9) | 3:30 |
+| 79 | [My World](https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9) | 3:30 |
 | 80 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 |
 | 81 | [COMBAT](https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [COMBAT](https://open.spotify.com/album/42jsGc1o1OVyaLqg0eIr0o) | 4:16 |
 

@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-464 songs - 1 day 0 hr 51 min
+465 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [hugo](https://open.spotify.com/track/21ahPavCJkiyxrfUCSaNIs) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [hugo](https://open.spotify.com/album/4PFNrjsLy1tu0E2m3RJc4w) | 2:23 | 2023-03-03 | 2023-11-11 |
 | [Human](https://open.spotify.com/track/62dY12zDrJYqkOpLU53aQK) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Genesis](https://open.spotify.com/album/0pGgNxR0YecEYnygce6C8e) | 2:10 | 2023-08-09 | 2024-12-19 |
 | [Hummingbird](https://open.spotify.com/track/7CtqDteKSr3C4k3hkBu8iT) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Hummingbird](https://open.spotify.com/album/0HIRByaoQlaNIi0reVDTWj) | 2:48 | 2024-09-23 | 2025-02-13 |
+| [Hymn to Orion](https://open.spotify.com/track/1t83lquye5yfN4IJU8IN0a) | [Christos Anagnostou Daly](https://open.spotify.com/artist/5huLw96Tfgkm4QQDWtTkod) | [Solace and the Wave](https://open.spotify.com/album/2YoU6JxXNWU9McsduPuWQD) | 1:31 | 2026-10-27 |  |
 | [i.Forest \- Solo Piano Version](https://open.spotify.com/track/0TVxlyAqHSJxezR9kHPXfl) | [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [i.Forest \(Solo Piano Version\)](https://open.spotify.com/album/6sZ7k1rg6mxDd64wy2PVIH) | 3:10 | 2023-01-27 | 2023-11-11 |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-08-21 | 2024-12-19 |
 | [II\. Adagio](https://open.spotify.com/track/4qB5gk3HHbCgn7BQ5LIefQ) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Piano Sonata No\. 12 in F Major, K\. 332/II\. Adagio](https://open.spotify.com/album/0S6bDqnOXVIzrMMbGaZrn2) | 4:42 | 2022-09-09 | 2024-09-28 |

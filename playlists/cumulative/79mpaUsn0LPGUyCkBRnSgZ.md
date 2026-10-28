@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,260 songs - 3 day 9 hr 32 min
+1,262 songs - 3 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Blue](https://open.spotify.com/track/6lp6YWBzpPj1oaGZiTD5x2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Miles](https://open.spotify.com/album/7J3XAN9vV4smAoiz1TQwHB) | 2:18 | 2022-01-13 |  |
 | [Blue Hum](https://open.spotify.com/track/3JhF07uRMLR09xc1g20EfA) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 1:52 | 2024-05-28 |  |
 | [Blue Suede Shoes](https://open.spotify.com/track/47gmoUrZV3w20JAnQOZMcO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Presley](https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin) | 2:02 | 2024-01-08 |  |
+| [Bluebirds](https://open.spotify.com/track/1HaGgJJTNySCxWwFvroTBK) | [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Friends of Mine](https://open.spotify.com/album/4NnQLq3RTSlvlquWAvXBN5) | 2:08 | 2026-10-28 |  |
 | [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 | 2023-04-30 | 2023-12-14 |
 | [Body of Work](https://open.spotify.com/track/2ZaM1JRPn73pqq5cqOz7WZ) | [Cave Story](https://open.spotify.com/artist/1VJmUKy8XJ1gecAv2KRUDx) | [West](https://open.spotify.com/album/0Up7fNL6ZFNMx3sGdYNTOS) | 4:02 | 2024-01-18 |  |
 | [Bonito Intro](https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 0:50 | 2023-05-18 | 2023-06-15 |
@@ -834,6 +835,7 @@
 | [Politik](https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:18 | 2024-01-08 |  |
 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2024-02-14 |  |
 | [Ponta de Areia](https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Native Dancer](https://open.spotify.com/album/0Gsue0re8X1U9rqHe4urBx) | 5:15 | 2024-01-09 | 2024-07-09 |
+| [Pool Party](https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 4:15 | 2026-10-28 |  |
 | [Poor You](https://open.spotify.com/track/0622aJvNezLY5HG5MEnXoF) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [Hi How Are You](https://open.spotify.com/album/2wZcpjsg8eNUVqY324mFu5) | 2:03 | 2025-03-25 | 2025-03-30 |
 | [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/0bklLrIusZYrRVRj7rOYUv) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 3:50 | 2026-06-22 |  |
 | [Porcelain \- 2014 Remastered Version](https://open.spotify.com/track/2VEQWr71HLgsSZWR8VdUDN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play \(2014 Remastered Version\)](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD) | 4:02 | 2024-02-26 | 2024-03-02 |

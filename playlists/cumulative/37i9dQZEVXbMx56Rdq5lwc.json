@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 197640,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq"
@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -12834,7 +12834,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -19020,7 +19020,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 305800,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5XhMgAWzou6EjDmQtoyoZE"
@@ -25454,7 +25454,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -26728,6 +26728,24 @@
       "duration_ms": 188750,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/0ZauMtvCt9ZKlKe9pLHjle"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/6OciU5g0hekPBP9MqbCKFs"
     },
     {
       "album": {
@@ -28214,7 +28232,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 212386,
       "name": "Mira\u017eas",
       "url": "https://open.spotify.com/track/6jLmAjY0hfGF98mqfu4ugw"
@@ -36646,7 +36664,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -37928,7 +37946,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 169600,
       "name": "Ruden\u012f Snaig\u0117s",
       "url": "https://open.spotify.com/track/6Td1SOr7BEqZ7Uv5aTWuE8"
@@ -39948,6 +39966,24 @@
       "duration_ms": 167246,
       "name": "Shot Glass of Tears",
       "url": "https://open.spotify.com/track/7AbqgE05nFl9qY4FRUiq2p"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
     },
     {
       "album": {
@@ -42960,7 +42996,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -42978,7 +43014,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -47796,7 +47832,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 162320,
       "name": "Vaikyst\u0117s Stogas",
       "url": "https://open.spotify.com/track/1PGihkGGcCzhRcPJNPRmdY"
@@ -49398,7 +49434,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

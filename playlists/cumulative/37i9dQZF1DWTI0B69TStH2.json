@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0mU3KNJmSgtwHH6D6UHs2V\">Kacper Garncarz</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:4Sr4lK1noNj4styLslt07Z\">Sophia Hajduk</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -5012,7 +5012,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 205538,
       "name": "BEZ \u017bEBRA STWORZONA",
       "url": "https://open.spotify.com/track/4B9zIjHVaRgAUQslgo2w9a"
@@ -7518,6 +7518,24 @@
       "duration_ms": 163298,
       "name": "Bywa r\u00f3\u017cnie",
       "url": "https://open.spotify.com/track/1awEZX1rSUJ7SQzUmzTApz"
+    },
+    {
+      "album": {
+        "name": "By\u0107 czy mie\u0107",
+        "url": "https://open.spotify.com/album/1R8OjaGO12YZgF6Tx6247R"
+      },
+      "artists": [
+        {
+          "name": "Pe\u0142nia",
+          "url": "https://open.spotify.com/artist/39XQyulUHjrvqGQ1bo5rtF"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185412,
+      "name": "By\u0107 czy mie\u0107",
+      "url": "https://open.spotify.com/track/5oltBp2qOAlDoIy7SH7cBt"
     },
     {
       "album": {
@@ -33498,7 +33516,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 196615,
       "name": "LUSTRO",
       "url": "https://open.spotify.com/track/3YQrVJrZ3d2XsmCXn6qWTk"
@@ -45872,7 +45890,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 143414,
       "name": "o ksi\u0119\u017cycu",
       "url": "https://open.spotify.com/track/79L2plP4MRzcInx74KvKC3"
@@ -59478,7 +59496,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 200690,
       "name": "Sentymental",
       "url": "https://open.spotify.com/track/5PZXKZWNWUGCVDpiPYmtBc"
@@ -62985,6 +63003,24 @@
     },
     {
       "album": {
+        "name": "Stop Looking At Me",
+        "url": "https://open.spotify.com/album/6kLjpSeyXDygGitR6itq1u"
+      },
+      "artists": [
+        {
+          "name": "Hidel Eye",
+          "url": "https://open.spotify.com/artist/3p7SOpsF37g2ry8QOdf45R"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300016,
+      "name": "Stop Looking At Me",
+      "url": "https://open.spotify.com/track/6SDLiYr3G2611eGiDAd0ti"
+    },
+    {
+      "album": {
         "name": "stop!",
         "url": "https://open.spotify.com/album/2w7ILGy3LWulXnjUEVaCOF"
       },
@@ -65628,6 +65664,24 @@
       "duration_ms": 152454,
       "name": "Tak Jak Ty",
       "url": "https://open.spotify.com/track/47g6sx1OslLYP3jvWdMsqf"
+    },
+    {
+      "album": {
+        "name": "mg\u0142a",
+        "url": "https://open.spotify.com/album/2UyOqw4BbW2F9NXSMEb8lt"
+      },
+      "artists": [
+        {
+          "name": "Sophia Hajduk",
+          "url": "https://open.spotify.com/artist/4Sr4lK1noNj4styLslt07Z"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229384,
+      "name": "tak jak ty",
+      "url": "https://open.spotify.com/track/18FBxUYEj4JL1S24ljkw8K"
     },
     {
       "album": {
@@ -78220,6 +78274,24 @@
       "duration_ms": 183050,
       "name": "X",
       "url": "https://open.spotify.com/track/2lzmqBpRPoCbneYQ8LFm78"
+    },
+    {
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/6SO8kJ9W0cSImkqMbTZMBC"
+      },
+      "artists": [
+        {
+          "name": "Igi Albera",
+          "url": "https://open.spotify.com/artist/0xHi49JZcJ67pvyDTflMLe"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/4xzt807pi6G0yPkvcDRsuX"
     },
     {
       "album": {

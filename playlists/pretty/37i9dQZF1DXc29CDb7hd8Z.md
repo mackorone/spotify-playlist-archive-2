@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,847 likes - 140 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,846 likes - 140 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 67 | [Spring Will Come](https://open.spotify.com/track/5OWWOpOw5e3YI3R8p61jNr) | [Agnes Fredenberg](https://open.spotify.com/artist/3M6T3Yxm4EK30GuKfyxH20) | [Spring Will Come](https://open.spotify.com/album/3pAfu7iDTIebfj5GoXUgFD) | 1:59 |
 | 68 | [Song About Em](https://open.spotify.com/track/0R6AWWoopJSiqJhiNrc6tW) | [Emmy Lindström](https://open.spotify.com/artist/4jwMbbTuYcjf1cb5Xu7EsP), [Emil Jonason](https://open.spotify.com/artist/25FmHBljT69Gva5matNADN), [Stefan Solyom](https://open.spotify.com/artist/2VDbJWofYewiV8YlzoWj64), [Helsingborg Symphony Orchestra](https://open.spotify.com/artist/0K2m2TlgHkcp32NAZV6Omw) | [Song About Em](https://open.spotify.com/album/1bXXnpLSHj8gv66lKVqRk8) | 5:00 |
 | 69 | [Silent Approval](https://open.spotify.com/track/4BUU0yXftcKjQfkP06eyzm) | [Dan Ravens](https://open.spotify.com/artist/1n5z2lxsHLnu27duLMmWWU) | [Silent Approval](https://open.spotify.com/album/0uBlSmESPpqV5s6obPS54t) | 3:05 |
-| 70 | [What Arms Are These for You! \(Vanessa Wagner Version\)](https://open.spotify.com/track/2IhE2YFbnCQDtVhjkb5wjQ) | [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [EP01](https://open.spotify.com/album/3kInmt0CjnAnIxHsVRgAmM) | 2:54 |
+| 70 | [What Arms Are These for You! \- Vanessa Wagner Version](https://open.spotify.com/track/2IhE2YFbnCQDtVhjkb5wjQ) | [David Moore](https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [EP01](https://open.spotify.com/album/3kInmt0CjnAnIxHsVRgAmM) | 2:54 |
 | 71 | [Love](https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv) | 2:06 |
 | 72 | [Marte, Op\. 1: No\. 2](https://open.spotify.com/track/2nNptvTv6tX7oEB9CKlHJS) | [Böjo](https://open.spotify.com/artist/3QqnbjYN3VAqJ5xjnteu9e) | [Marte, Op\. 1: No\. 2](https://open.spotify.com/album/0i6s0J6DjjU3y1xyENxlSq) | 2:48 |
 | 73 | [Edge of Silence](https://open.spotify.com/track/5NKHMesxXyIjWIlz4nFZzX) | [Kindred Spirits](https://open.spotify.com/artist/3YiWl1txVrptyUxCuvppxn) | [Edge of Silence](https://open.spotify.com/album/5uhTvKe8eVW7o9XGLeZVEJ) | 3:32 |

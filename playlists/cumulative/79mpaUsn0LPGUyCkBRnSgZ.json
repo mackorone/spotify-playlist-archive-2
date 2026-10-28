@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Friends of Mine",
+        "url": "https://open.spotify.com/album/4NnQLq3RTSlvlquWAvXBN5"
+      },
+      "artists": [
+        {
+          "name": "Adam Green",
+          "url": "https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128453,
+      "name": "Bluebirds",
+      "url": "https://open.spotify.com/track/1HaGgJJTNySCxWwFvroTBK"
+    },
+    {
+      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },
@@ -15426,6 +15444,24 @@
       "duration_ms": 315706,
       "name": "Ponta de Areia",
       "url": "https://open.spotify.com/track/2SU21YLdwyTnqJpS7Jc3lD"
+    },
+    {
+      "album": {
+        "name": "Don't Let The Kids Win",
+        "url": "https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255692,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/7oLqKKca5rHLXCZjO0Os6A"
     },
     {
       "album": {

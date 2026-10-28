@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2026! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,916 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,915 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 53 | [N'Essa Rua](https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [N'Essa Rua](https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT) | 2:45 |
 | 54 | [Rosa](https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Rosa](https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx) | 2:59 |
 | 55 | [Não Presto](https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino Da Mamã \(Deluxe Edition\)](https://open.spotify.com/album/3LZsPR3MOg0h3B4927BAXO) | 3:18 |
-| 56 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
-| 57 | [SOZINHO](https://open.spotify.com/track/4WqePRcR6a4MzUpg9k4vph) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SOZINHO](https://open.spotify.com/album/54lkuV8McOqnmPbUZR7MYF) | 3:13 |
+| 56 | [SOZINHO](https://open.spotify.com/track/4WqePRcR6a4MzUpg9k4vph) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SOZINHO](https://open.spotify.com/album/54lkuV8McOqnmPbUZR7MYF) | 3:13 |
+| 57 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 58 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
 | 59 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
 

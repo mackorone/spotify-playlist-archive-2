@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae & Anderson .Paak
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,076 likes - 105 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,073 likes - 105 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

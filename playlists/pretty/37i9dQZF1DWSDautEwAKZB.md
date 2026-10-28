@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,352 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,353 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 35 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 36 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 |
 | 37 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 |
-| 38 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
-| 39 | [Vivir Mi Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:57 |
+| 38 | [Vivir Mi Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:57 |
+| 39 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 |
 | 40 | [Un Vuelo A La \(feat\. Jessie Reyez\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek) | 3:24 |
 | 41 | [La tua canzone \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:36 |
 | 42 | [NO CHÃO NOVINHA \(feat\. Anitta\) \- Spotify Singles](https://open.spotify.com/track/4qqKYtFZmduS5mP6w3vRCV) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Dj Méury](https://open.spotify.com/artist/4AhxVlaJkbsO22ShxpH9l6), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [NO CHÃO NOVINHA \(feat\. Anitta\) \- Spotify Singles](https://open.spotify.com/album/1eINGKV81kCl8F4sfhSEbO) | 2:01 |

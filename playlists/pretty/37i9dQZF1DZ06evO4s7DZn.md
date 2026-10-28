@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,150 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,151 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 49 | [Para Ellas](https://open.spotify.com/track/10qwmqGBPHTpm91Avg9cc2) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/66LlA9AN6tO3EdzncOu0a4) | 3:13 |
 | 50 | [12 Rosas \- En Vivo](https://open.spotify.com/track/6OAliOdZELuivKrVkoHqvb) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 3:12 |
 
-Snapshot ID: `atv1AAAAAADra/DfPnalAKt3ZTvfmDGI`
+Snapshot ID: `at1GgAAAAABVgSFgpMkvy8m4gBOviNMr`

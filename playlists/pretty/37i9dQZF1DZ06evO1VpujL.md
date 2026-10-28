@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,133 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,139 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VpujL.md) - [plain]
 | 46 | [Last Chance](https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:59 |
 | 47 | [Rude Boy For Life](https://open.spotify.com/track/0nouCKV8zqMBVYc2cKEYJl) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 4:10 |
 | 48 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 |
-| 49 | [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 |
-| 50 | [Sound the Siren](https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:20 |
+| 49 | [Sound the Siren](https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 3:20 |
+| 50 | [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 |
 
-Snapshot ID: `atv1AAAAAADA1eTFZ8p5e65QR7tXf6YX`
+Snapshot ID: `at1GgAAAAABWoqx57aC1CKOc+qf7lCRt`

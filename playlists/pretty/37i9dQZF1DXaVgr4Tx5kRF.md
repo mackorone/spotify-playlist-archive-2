@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,387 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,377 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 50 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 |
 | 51 | [Rock ‘n’ Roll Star \- Remastered](https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 5:22 |
 | 52 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
-| 53 | [Good Enough](https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Ace A's + Killer B's](https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf) | 3:59 |
-| 54 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |
-| 55 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
+| 53 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
+| 54 | [Good Enough](https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Ace A's + Killer B's](https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf) | 3:59 |
+| 55 | [Laid](https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [James: The Best Of](https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb) | 2:36 |
 | 56 | [Girl From Mars](https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [The Best Of Ash \(Remastered Version\)](https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib) | 3:33 |
 | 57 | [One To Another](https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/5Z1qbz6SLdQnWiVMEJ5MNK) | 4:29 |
 | 58 | [Rocks](https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze), [George Drakoulias](https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG), [David Bianco](https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6) | [Give Out But Don't Give Up](https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ) | 3:35 |

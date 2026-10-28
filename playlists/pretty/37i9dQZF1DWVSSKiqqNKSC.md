@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,577 likes - 48 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,597 likes - 48 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 20 | [Después de todo](https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Chapeando](https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78) | 6:08 |
 | 21 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
 | 22 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
-| 23 | [Tus Luces Sobre Mi](https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Bueno](https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg) | 4:08 |
-| 24 | [La Gozadera](https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ) | [Yoruba Andabo](https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m) | [El Espíritu de la Rumba](https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc) | 6:47 |
+| 23 | [La Gozadera](https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ) | [Yoruba Andabo](https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m) | [El Espíritu de la Rumba](https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc) | 6:47 |
+| 24 | [Tus Luces Sobre Mi](https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Bueno](https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg) | 4:08 |
 | 25 | [Abreme la puerta](https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo) | [Calle Real](https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU) | [Me Lo Gané](https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb) | 6:34 |
 | 26 | [Al Paso](https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 5:13 |
 | 27 | [Esto te pone la cabeza mala](https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Te pone la cabeza mala](https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v) | 4:08 |

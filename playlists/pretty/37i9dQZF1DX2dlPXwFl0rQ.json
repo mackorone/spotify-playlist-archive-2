@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Mariana Soane y Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 12149,
+  "num_followers": 12168,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,18 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "somos peligro",
-        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
       },
       "artists": [
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 179569,
-      "name": "somos peligro",
-      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
+      "duration_ms": 166121,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -875,22 +871,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 166121,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Gente Gacha",
         "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 175285,
       "name": "Gente Gacha",
       "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "somos peligro",
+        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 179569,
+      "name": "somos peligro",
+      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Una Palomita - En Vivo",
-      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "No M\u00e1s Canciones De Amor",
         "url": "https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 151909,
       "name": "No M\u00e1s Canciones De Amor",
       "url": "https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Corridos Pa Mi Ap\u00e1, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Una Palomita - En Vivo",
+      "url": "https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV"
     },
     {
       "added_at": "2026-10-16 18:41:53",

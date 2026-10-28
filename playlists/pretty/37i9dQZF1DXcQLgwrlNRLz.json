@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Tiakola",
-  "num_followers": 19798,
+  "num_followers": 19824,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Agent Secret",
-        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
+        "name": "Lib\u00e9rer Pij",
+        "url": "https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "JP N'DA",
+          "url": "https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d"
         }
       ],
-      "duration_ms": 164737,
-      "name": "Agent secret",
-      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+      "duration_ms": 134265,
+      "name": "Lib\u00e9rer Pij",
+      "url": "https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
+        "name": "Agent Secret",
+        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 164737,
+      "name": "Agent secret",
+      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+    },
+    {
+      "added_at": "2026-10-23 00:01:08",
+      "album": {
         "name": "AFRO-N-TCHAM 1",
         "url": "https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 186206,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt"
-    },
-    {
-      "added_at": "2026-10-23 00:01:08",
-      "album": {
-        "name": "Lib\u00e9rer Pij",
-        "url": "https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5"
-      },
-      "artists": [
-        {
-          "name": "JP N'DA",
-          "url": "https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d"
-        }
-      ],
-      "duration_ms": 134265,
-      "name": "Lib\u00e9rer Pij",
-      "url": "https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD"
     },
     {
       "added_at": "2026-10-23 00:01:08",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-10-23 00:01:08",
       "album": {
-        "name": "Kulule",
-        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+        "name": "So Badd",
+        "url": "https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Agatchu",
+          "url": "https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65"
         }
       ],
-      "duration_ms": 157281,
-      "name": "Kulule",
-      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
+      "duration_ms": 149714,
+      "name": "So Badd",
+      "url": "https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO"
     }
   ],
   "unique_name": "Francophone.wav",

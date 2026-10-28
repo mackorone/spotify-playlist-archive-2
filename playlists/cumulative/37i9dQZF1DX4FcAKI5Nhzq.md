@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover:BABYMONSTER\)
 
-1,822 songs - 4 day 1 hr 6 min
+1,823 songs - 4 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [FREESTYLE](https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Growing Pain pt.1 : FREE](https://open.spotify.com/album/5Nfxo1U4jKI13JB4nPimOJ) | 2:20 | 2025-08-14 | 2025-10-01 |
 | [FREEZE](https://open.spotify.com/track/3eCsrRgvTNzCSrGUESA5OX) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Kick Out, Flip Now!](https://open.spotify.com/album/4BonBofCFd9r6PRTSA0blD) | 2:36 | 2025-05-26 | 2025-07-16 |
 | [Freeze Tag](https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [UP2U](https://open.spotify.com/album/5javnnBjbP0ObEZafZtc7k) | 3:02 | 2022-11-24 | 2023-01-18 |
+| [French Kissing](https://open.spotify.com/track/3d23jzQ4KGiEBmZ7aw8Q8M) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 02: Attraction](https://open.spotify.com/album/4sZ7n2Ym0dtwhjIXHgWaoo) | 3:10 | 2026-10-20 |  |
 | [FREQUENCY \- Korean Version](https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [FREQUENCY \- The 6th Mini Album](https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K) | 2:40 | 2024-11-25 | 2025-03-13 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-20 | 2023-08-04 |
 | [From \(2018\)](https://open.spotify.com/track/2Vz3vio26NGctvwnRgURsy) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [From \(2018\)](https://open.spotify.com/album/6QkDwRFFoZ3LMFdTvdyfTQ) | 3:03 | 2025-10-24 | 2025-12-06 |

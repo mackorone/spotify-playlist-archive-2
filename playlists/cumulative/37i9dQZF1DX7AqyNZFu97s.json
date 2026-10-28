@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Clara Mann",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Zeddy East",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -6890,7 +6890,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 260218,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/6BiDwipav1E90jIcmpKTU9"
@@ -12552,6 +12552,24 @@
       "duration_ms": 184736,
       "name": "Cool",
       "url": "https://open.spotify.com/track/61c8JdniIlDW7tJZGoZoMe"
+    },
+    {
+      "album": {
+        "name": "Cool On You",
+        "url": "https://open.spotify.com/album/7ravH6PuMD7kFjS1AS6QRC"
+      },
+      "artists": [
+        {
+          "name": "Josephine Genais",
+          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235659,
+      "name": "Cool On You",
+      "url": "https://open.spotify.com/track/2whnzJ9ltpgvitX57bLTqz"
     },
     {
       "album": {
@@ -18734,7 +18752,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 195534,
       "name": "Everything You Need",
       "url": "https://open.spotify.com/track/1TQGYyFOJIU8K8Ihos5e1G"
@@ -25742,7 +25760,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 149333,
       "name": "He Said She Said",
       "url": "https://open.spotify.com/track/4nHiea0Guj78Bjeu1NojAT"
@@ -34271,6 +34289,24 @@
     },
     {
       "album": {
+        "name": "Kinda Like That",
+        "url": "https://open.spotify.com/album/18gbqRJp8J7EPO0wdfiNLB"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Kinda Like That",
+      "url": "https://open.spotify.com/track/5yJdhGkgX2NBL9ExGLoErW"
+    },
+    {
+      "album": {
         "name": "SINS OF THE FATHER",
         "url": "https://open.spotify.com/album/0gR3CHYatSBjgeRFBb9GNr"
       },
@@ -34940,6 +34976,24 @@
       "duration_ms": 186034,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/2HwbhTmYp3oTpCBwIbWcgK"
+    },
+    {
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/7gZjxGBppJ3zKzvIGr0Odo"
+      },
+      "artists": [
+        {
+          "name": "Shireen Valentina",
+          "url": "https://open.spotify.com/artist/413HJCrRfrlWsS1QjOVkMQ"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/5MJoXRKLMfqlZAVnAEuhjJ"
     },
     {
       "album": {
@@ -45504,7 +45558,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 191320,
       "name": "Open Cards",
       "url": "https://open.spotify.com/track/6chrX8lc4DXuIc7BRbrVQY"
@@ -51720,7 +51774,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 173750,
       "name": "Rust Bucket",
       "url": "https://open.spotify.com/track/2y9kyRabTtxKaovNP7vz7g"
@@ -55968,7 +56022,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 182000,
       "name": "Sounds Like An Ending",
       "url": "https://open.spotify.com/track/1SXoMnQgRKFxN52Oj29BUA"
@@ -59435,6 +59489,24 @@
     },
     {
       "album": {
+        "name": "Tell It Me Straight",
+        "url": "https://open.spotify.com/album/3QnHN82D5eZz77Lt2QWMSm"
+      },
+      "artists": [
+        {
+          "name": "XL Poncho",
+          "url": "https://open.spotify.com/artist/2Jsgu3UPSWXzicWCwwZLWy"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196777,
+      "name": "Tell It Me Straight",
+      "url": "https://open.spotify.com/track/2PkNbKqot8WMuqDwEssK6p"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1mmIRYrtppZCal4pQ24Gky"
       },
@@ -62500,6 +62572,24 @@
       "duration_ms": 205384,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/13iM1LkhwvW4htDrWcPEFd"
+    },
+    {
+      "album": {
+        "name": "Towards the Sun",
+        "url": "https://open.spotify.com/album/39oLbJLfkvif5ztHmPtlvM"
+      },
+      "artists": [
+        {
+          "name": "Orchard",
+          "url": "https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Towards the Sun",
+      "url": "https://open.spotify.com/track/1neD7vJSE4eQf46g7QhtK9"
     },
     {
       "album": {

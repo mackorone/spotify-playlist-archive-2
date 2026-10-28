@@ -4,7 +4,7 @@
 
 > Zwolnij tempo i daj się otulić jesiennym brzmieniom\. 🍂🎃☕
 
-1,150 songs - 2 day 16 hr 29 min
+1,151 songs - 2 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-13 | 2026-04-27 |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-28 | 2024-07-12 |
 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-09 | 2026-03-14 |
+| [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 | 2026-10-23 |  |
 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-06-28 | 2024-09-13 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-28 | 2025-06-01 |
 | [glitter in the night](https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [glitter in the night](https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6) | 2:39 | 2026-06-12 | 2026-07-18 |
@@ -337,7 +338,7 @@
 | [Haj](https://open.spotify.com/track/7Bz45WFQCVlSs72wP9HpRz) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Haj](https://open.spotify.com/album/4rsF9yduhombRynfWOpOFV) | 3:30 | 2026-03-13 | 2026-03-28 |
 | [Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 3:16 | 2025-09-15 | 2025-12-06 |
 | [halo](https://open.spotify.com/track/4Uo6yqnZASIngGDjONda74) | [barekprzestań](https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI) | [halo](https://open.spotify.com/album/2nWczIlFcj8omcIQMKtLoe) | 5:37 | 2026-04-17 | 2026-04-25 |
-| [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 | 2026-06-09 |  |
+| [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 | 2026-06-09 | 2026-10-28 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-28 | 2024-09-13 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 | 2025-06-01 |
 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 | 2026-02-20 | 2026-03-14 |

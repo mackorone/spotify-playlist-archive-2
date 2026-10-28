@@ -1,6 +1,6 @@
 {
   "description": "Crowd-pleasing favorites for an easy, carefree day. ",
-  "num_followers": 471721,
+  "num_followers": 471712,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Bigger Than Both Of Us",
-        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Buffalo Springfield",
         "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 153693,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Bigger Than Both Of Us",
+        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 258317,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Fire And Water",
         "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 330643,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 258317,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 166458,
-      "name": "Something Serious",
-      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Small Change",
         "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 165020,
       "name": "Small Change",
       "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 166458,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "The La's (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
-      },
-      "artists": [
-        {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Verities & Balderdash",
         "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 222951,
       "name": "Cat's in the Cradle",
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "The La's (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "In The Pocket",
-        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 293226,
-      "name": "Lady (You Bring Me Up)",
-      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Something / Anything?",
         "url": "https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 182800,
       "name": "I Saw the Light",
       "url": "https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "In The Pocket",
+        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 293226,
+      "name": "Lady (You Bring Me Up)",
+      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
     },
     {
       "added_at": "2026-06-30 13:32:35",

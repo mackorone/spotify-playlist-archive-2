@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,942 songs - 11 day 4 hr 24 min
+4,944 songs - 11 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1807,7 +1807,7 @@
 | [God Gave Us More](https://open.spotify.com/track/6KB88MYBB1CGut4RYHRPQs) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [Astral Dope](https://open.spotify.com/album/2RLsU51oCAs5nw9phvOumZ) | 4:35 | 2026-06-22 |  |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2025-04-09 |  |
 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 | 2025-11-05 |  |
-| [God's Englishman](https://open.spotify.com/track/1w7zrLqJafMrDIcRRQ8cJt) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [God's Englishman](https://open.spotify.com/album/2Grhxbd8aiYs1T2Lj7HIoe) | 3:41 | 2026-06-30 |  |
+| [God's Englishman](https://open.spotify.com/track/1w7zrLqJafMrDIcRRQ8cJt) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [God's Englishman](https://open.spotify.com/album/2Grhxbd8aiYs1T2Lj7HIoe) | 3:27 | 2026-06-30 |  |
 | [going green](https://open.spotify.com/track/7dIclKcu97o52xHMXbioQk) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [going green](https://open.spotify.com/album/1N0ZHCWAJEHqVxVWUPq1Op) | 2:00 | 2025-07-28 |  |
 | [going red](https://open.spotify.com/track/3gdw3DAUSGF4Ge2ReCWxjE) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [going red](https://open.spotify.com/album/0nqJ1lB6XJo48s2c3cMn77) | 2:12 | 2025-05-16 |  |
 | [Going Viral \(another\)](https://open.spotify.com/track/2A59rniJY14wfB5Jm4g4jh) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Going Viral](https://open.spotify.com/album/4uuXqB7tKIKvr5pJ9dsLrV) | 2:34 | 2025-05-27 |  |
@@ -4249,6 +4249,7 @@
 | [The Futurists](https://open.spotify.com/track/7yBwBDKpP4pZtXhceHoM8j) | [Popgang](https://open.spotify.com/artist/69jNhtjLutxw7rGbsiqcGS) | [The Futurists](https://open.spotify.com/album/3B3Bmi61QL0jPz7sWh7c25) | 4:09 | 2025-09-24 |  |
 | [The Garden](https://open.spotify.com/track/2qxHPdPGlS57jEEaOZEe82) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [The Garden](https://open.spotify.com/album/7fkzC9YeVBhfFBPyeqm9wY) | 3:11 | 2021-03-15 |  |
 | [The Garden](https://open.spotify.com/track/4WjDvfgvB7M6K7sH9K5gN6) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [The Garden](https://open.spotify.com/album/50oev5lys8ubDpTo5oCxJ7) | 2:10 | 2026-05-31 |  |
+| [The Garden \(Acoustic\)](https://open.spotify.com/track/5mfhbzVu9X6bRpldnGbmoj) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [The Garden \(Acoustic\)](https://open.spotify.com/album/5VT4Vw4PHu3Pv9GtpZfdZI) | 2:28 | 2026-10-27 |  |
 | [The Ghost Pirate](https://open.spotify.com/track/0Pb35kHuAwFQTH054uY2cJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Ghost Pirate](https://open.spotify.com/album/6uxrv6u2UsLyvbNMFlzCaU) | 3:11 | 2025-12-10 |  |
 | [The Gift of Toil](https://open.spotify.com/track/4sds2eqG0qtfR78ESwp0bb) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:41 | 2026-09-06 |  |
 | [The Gift of Toil \(fomo mode\)](https://open.spotify.com/track/25RVfjlJNnANpwDlyuZZHT) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:04 | 2026-09-06 |  |
@@ -4716,6 +4717,7 @@
 | [Ways Beyond This Day](https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [Voices From The Box](https://open.spotify.com/album/3v2a3hnkQRAV6JRZzzDZNs) | 3:38 | 2026-08-31 |  |
 | [We all live in a Fantasy](https://open.spotify.com/track/1utF6RyVi98fnKc0Du68uH) | [Archi Deep](https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl) | [We all live in a Fantasy](https://open.spotify.com/album/5bT2StBoZlkx0WlM4d4KI3) | 2:07 | 2026-04-03 |  |
 | [We Are All Bots](https://open.spotify.com/track/2WnmaedNKGBT8X0Noz7kqM) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q) | [We Are All Bots](https://open.spotify.com/album/4D82Mt4DCc6c70ByNtD1cK) | 3:41 | 2025-06-18 |  |
+| [We Are One](https://open.spotify.com/track/5EJArM3d1zEcaRulcMKBhm) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [We Are One](https://open.spotify.com/album/6ugBw0ebik6icjDzr9nCzm) | 6:05 | 2026-10-27 |  |
 | [We are the same](https://open.spotify.com/track/5BrzYifDpXu4Ak8wg2J539) | [Mastamam](https://open.spotify.com/artist/1Cf7FkzNyZWcSSwzBi0Z1Y) | [We are the same](https://open.spotify.com/album/1GbUFD1zUFmfNdCv0ea2Nc) | 4:33 | 2025-08-29 |  |
 | [We bless God](https://open.spotify.com/track/2yedhXFLcvQTqR3ZwmymCk) | [Bootstrap](https://open.spotify.com/artist/7Ls2DZp2MNL0rycLaYR8od), [G'Will](https://open.spotify.com/artist/29s0FY1wqC1AowagbdPR9x) | [We bless God](https://open.spotify.com/album/2u0gHttpMFeITCWUK1g5sc) | 3:46 | 2025-07-02 |  |
 | [We burn down the stage](https://open.spotify.com/track/4r6E7PRjolgedYuSbSRm03) | [Noxenz](https://open.spotify.com/artist/4ZpVewvK47te3Umb2GTjHK) | [We burn down the stage](https://open.spotify.com/album/1bMiyAu9sr6f1MlJGGMizg) | 3:36 | 2026-02-13 |  |

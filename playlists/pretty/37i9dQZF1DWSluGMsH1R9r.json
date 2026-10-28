@@ -1,6 +1,6 @@
 {
   "description": "Calm piano music for enhanced concentration.",
-  "num_followers": 1448988,
+  "num_followers": 1448949,
   "original_name": "Perfect Concentration",
   "owner": {
     "name": "Spotify",
@@ -603,38 +603,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Inside A Dream",
-        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
-      },
-      "artists": [
-        {
-          "name": "Thiago Izan",
-          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Inside A Dream",
-      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
-        "name": "Silent Waltz",
-        "url": "https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg"
-      },
-      "artists": [
-        {
-          "name": "Alix Claude",
-          "url": "https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD"
-        }
-      ],
-      "duration_ms": 162968,
-      "name": "Silent Waltz",
-      "url": "https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Home Beyond The Stars",
         "url": "https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1"
       },
@@ -663,6 +631,38 @@
       "duration_ms": 144434,
       "name": "Br\u00fblante",
       "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Silent Waltz",
+        "url": "https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg"
+      },
+      "artists": [
+        {
+          "name": "Alix Claude",
+          "url": "https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD"
+        }
+      ],
+      "duration_ms": 162968,
+      "name": "Silent Waltz",
+      "url": "https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Inside A Dream",
+        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
+      },
+      "artists": [
+        {
+          "name": "Thiago Izan",
+          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Inside A Dream",
+      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Tales of This",
-        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
-      },
-      "artists": [
-        {
-          "name": "Andrea Azzola",
-          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
-        }
-      ],
-      "duration_ms": 136867,
-      "name": "Tales of This",
-      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Fleur De Vie",
         "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 176717,
       "name": "Fleur De Vie",
       "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Flower Wings",
-        "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Mignard",
-          "url": "https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Flower Wings",
-      "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Quiet Steps",
         "url": "https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 166535,
       "name": "Quiet Steps",
       "url": "https://open.spotify.com/track/7hYeMmEdabacQXrhNvnJJK"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Flower Wings",
+        "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Mignard",
+          "url": "https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Flower Wings",
+      "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Murano",
-        "url": "https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte"
-      },
-      "artists": [
-        {
-          "name": "Afon A\u00e9ron",
-          "url": "https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Murano",
-      "url": "https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Fireside",
         "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 144291,
       "name": "Fireside",
       "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Murano",
+        "url": "https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte"
+      },
+      "artists": [
+        {
+          "name": "Afon A\u00e9ron",
+          "url": "https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Murano",
+      "url": "https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Making peace",
-        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
-      },
-      "artists": [
-        {
-          "name": "Christian Janssen",
-          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
-        }
-      ],
-      "duration_ms": 143034,
-      "name": "Making peace",
-      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Only Illusions",
         "url": "https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Making peace",
+        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "duration_ms": 143034,
+      "name": "Making peace",
+      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Quiet Suns",
-        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
-      },
-      "artists": [
-        {
-          "name": "Skaresn\u00f8",
-          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
-        }
-      ],
-      "duration_ms": 131374,
-      "name": "Quiet Suns",
-      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Tranquil Landscape",
         "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 187200,
       "name": "Tranquil Landscape",
       "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Quiet Suns",
+        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "duration_ms": 131374,
+      "name": "Quiet Suns",
+      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Landet",
-        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 126760,
-      "name": "Landet",
-      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Desde el alma",
         "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 129375,
       "name": "Desde el alma",
       "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Landet",
+        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "duration_ms": 126760,
+      "name": "Landet",
+      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
+        "name": "transition",
+        "url": "https://open.spotify.com/album/6UfEKOtts2xmAXoMg9TxNI"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "duration_ms": 155874,
+      "name": "transition",
+      "url": "https://open.spotify.com/track/0xzLNybwXCrgQ6GjbIKlm7"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/6Ac6qjg6v8d9uwPhZiurha"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 126529,
       "name": "Healing",
       "url": "https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
-        "name": "transition",
-        "url": "https://open.spotify.com/album/6UfEKOtts2xmAXoMg9TxNI"
-      },
-      "artists": [
-        {
-          "name": "Elois Jacq",
-          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
-        }
-      ],
-      "duration_ms": 155874,
-      "name": "transition",
-      "url": "https://open.spotify.com/track/0xzLNybwXCrgQ6GjbIKlm7"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Tonbridge Tea",
-        "url": "https://open.spotify.com/album/57hSOx0IzlYsBMYcjweycj"
-      },
-      "artists": [
-        {
-          "name": "JS Casa",
-          "url": "https://open.spotify.com/artist/6Y8NoOdl0Z6s2nu8EuNKhQ"
-        }
-      ],
-      "duration_ms": 155225,
-      "name": "Tonbridge Tea",
-      "url": "https://open.spotify.com/track/3mVo8Nrpb9jaymezfBSdnw"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "What We Were",
         "url": "https://open.spotify.com/album/1hsVKcq4USb0S5xgqscn1u"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 175000,
       "name": "What We Were",
       "url": "https://open.spotify.com/track/2UoHf8TmIoTM5VX7fWI3Ti"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Tonbridge Tea",
+        "url": "https://open.spotify.com/album/57hSOx0IzlYsBMYcjweycj"
+      },
+      "artists": [
+        {
+          "name": "JS Casa",
+          "url": "https://open.spotify.com/artist/6Y8NoOdl0Z6s2nu8EuNKhQ"
+        }
+      ],
+      "duration_ms": 155225,
+      "name": "Tonbridge Tea",
+      "url": "https://open.spotify.com/track/3mVo8Nrpb9jaymezfBSdnw"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "Meaningful Trinkets",
-        "url": "https://open.spotify.com/album/1gurhpfziOL4AxjPXntcHd"
-      },
-      "artists": [
-        {
-          "name": "Stanley Lloyd",
-          "url": "https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY"
-        }
-      ],
-      "duration_ms": 155102,
-      "name": "Meaningful Trinkets",
-      "url": "https://open.spotify.com/track/43t63X7ByiXyf5omlolOoT"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "Ochre",
         "url": "https://open.spotify.com/album/4vawgQ8IYqsZmoXWitakxq"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 114861,
       "name": "Ochre",
       "url": "https://open.spotify.com/track/1ok2qdsya4XD3WVu788K8F"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "Meaningful Trinkets",
+        "url": "https://open.spotify.com/album/1gurhpfziOL4AxjPXntcHd"
+      },
+      "artists": [
+        {
+          "name": "Stanley Lloyd",
+          "url": "https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY"
+        }
+      ],
+      "duration_ms": 155102,
+      "name": "Meaningful Trinkets",
+      "url": "https://open.spotify.com/track/43t63X7ByiXyf5omlolOoT"
     },
     {
       "added_at": "2026-10-23 04:02:04",
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2026-10-23 04:02:04",
       "album": {
-        "name": "In Passing",
-        "url": "https://open.spotify.com/album/0qjys17O7yhsYvSEnu1FWF"
-      },
-      "artists": [
-        {
-          "name": "Wisteria Forte",
-          "url": "https://open.spotify.com/artist/4nmmbn9wBP9XK9QPjTZUvW"
-        }
-      ],
-      "duration_ms": 131069,
-      "name": "In Passing",
-      "url": "https://open.spotify.com/track/7LDM3Cc7OXWjeG9TgflyGn"
-    },
-    {
-      "added_at": "2026-10-23 04:02:04",
-      "album": {
         "name": "On the Way Home",
         "url": "https://open.spotify.com/album/4XpOiBznGCj2cdLJVeKQoE"
       },
@@ -2679,6 +2663,22 @@
       "duration_ms": 133076,
       "name": "On the Way Home",
       "url": "https://open.spotify.com/track/0W9pZAgt10zEfXTdvmkas1"
+    },
+    {
+      "added_at": "2026-10-23 04:02:04",
+      "album": {
+        "name": "In Passing",
+        "url": "https://open.spotify.com/album/0qjys17O7yhsYvSEnu1FWF"
+      },
+      "artists": [
+        {
+          "name": "Wisteria Forte",
+          "url": "https://open.spotify.com/artist/4nmmbn9wBP9XK9QPjTZUvW"
+        }
+      ],
+      "duration_ms": 131069,
+      "name": "In Passing",
+      "url": "https://open.spotify.com/track/7LDM3Cc7OXWjeG9TgflyGn"
     },
     {
       "added_at": "2026-10-23 04:02:04",

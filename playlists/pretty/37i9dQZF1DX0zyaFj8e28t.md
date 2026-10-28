@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,546 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,585 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 9 | [Je te donne](https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 4:25 |
 | 10 | [L'envie](https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 3:50 |
 | 11 | [Capitaine abandonné](https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn) | [Gold](https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5) | [Incontournable Gold](https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR) | 3:55 |
-| 12 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
-| 13 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 |
+| 12 | [Cendrillon \- Remasterisé en 2015](https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 3:58 |
+| 13 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
 | 14 | [Confidence pour confidence \- Version originale 1981](https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3) | [Jean Schultheis](https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W) | [Abracadabra](https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD) | 4:46 |
 | 15 | [Les démons de minuit](https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM) | [Images](https://open.spotify.com/artist/6BGRCwCR7pQWXqWNhBE2vf) | [Les démons de minuit](https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO) | 3:51 |
 | 16 | [Femme libérée](https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj) | [Cookie Dingler](https://open.spotify.com/artist/7dwEj40A9FcUsnSTgBVOPG) | [Femme Libérée](https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi) | 3:41 |

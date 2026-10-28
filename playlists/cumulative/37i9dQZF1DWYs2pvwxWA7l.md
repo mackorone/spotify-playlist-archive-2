@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover: Chella
 
-872 songs - 1 day 20 hr 0 min
+873 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [lonely \(feat\. L.A.X\)](https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [lonely \(feat\. L.A.X\)](https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR) | 2:44 | 2026-09-25 | 2026-10-24 |
 | [Long Distance](https://open.spotify.com/track/3oi16KBVwrFiFCKo8T39Zb) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Spirit Animal](https://open.spotify.com/album/76xSxFUwJrxoezhhqkeicV) | 3:08 | 2021-09-23 | 2022-02-18 |
 | [Longo Longo](https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Longo Longo](https://open.spotify.com/album/2nCEA6ak90czRS3KLWEZcm) | 3:26 | 2026-05-22 | 2026-05-29 |
-| [Lord Knows](https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:37 | 2026-08-28 |  |
+| [Lord Knows](https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Where Do We Go From Here](https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD) | 2:37 | 2026-08-28 | 2026-10-28 |
 | [Lose Control \(feat\. Blxckie\)](https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Love.\. For Free](https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE) | 2:58 | 2023-10-20 | 2024-02-09 |
 | [Lose Ya](https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:00 | 2023-05-19 | 2023-06-10 |
 | [Louis Vitty](https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Louis Vitty](https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O) | 3:38 | 2023-09-14 | 2024-02-28 |
@@ -653,6 +653,7 @@
 | [Police](https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Police](https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6) | 2:46 | 2025-04-11 | 2025-09-27 |
 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-20 | 2026-05-19 |
 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 | 2025-11-14 | 2025-11-28 |
+| [POSITION](https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [POSITION](https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu) | 2:51 | 2026-10-23 |  |
 | [Pounds & Dollars](https://open.spotify.com/track/43o9i6vgfaTD5LDKlcIpav) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 3:24 | 2022-12-02 | 2023-02-04 |
 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 | 2023-05-11 | 2024-04-20 |
 | [PrAy](https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 3:37 | 2024-12-13 | 2025-04-07 |

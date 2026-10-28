@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "CRITICAL",
+        "url": "https://open.spotify.com/album/6xNxUAwNrLBNtpkW3NrFlZ"
+      },
+      "artists": [
+        {
+          "name": "suisoh",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113867,
+      "name": "CRITICAL",
+      "url": "https://open.spotify.com/track/0CKcJOLrniJTk5sX1I59zN"
+    },
+    {
+      "album": {
         "name": "D-tecnoLife",
         "url": "https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,433 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,430 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 49 | [A Luz do Mundo](https://open.spotify.com/track/0qIc1DAVcC8YPJhfguKY27) | [Turma do Barulho](https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/4h9RQxqOLnWCPNuz6ELGmw) | [Turma do Barulho, Vol\. 11](https://open.spotify.com/album/60HQYmzN0FIDT7y3NV9SEE) | 2:56 |
 | 50 | [Vida](https://open.spotify.com/track/7dEw5NtUdpG0NZuTiG3Fsi) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:56 |
 
-Snapshot ID: `atv1AAAAAADlKb6aXF5cFZoL4HQeNTFS`
+Snapshot ID: `at1GgAAAAABKd97jy11oEgcJpypvaByK`

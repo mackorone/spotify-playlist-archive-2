@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 225804,
+  "num_followers": 225819,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAADjXNN3qxhlr3qtkMO4K0Ik",
+  "snapshot_id": "at1GgAAAAADLQKbAP+3sWZYWschq+YKL",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
+      "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -343,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
-      "url": "https://open.spotify.com/track/4zxd4tiXPlWMqoJltbVTbE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Train",
         "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane Plays the Blues",
-        "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 319679,
-      "name": "Mr. Syms",
-      "url": "https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -439,6 +423,58 @@
       "duration_ms": 566133,
       "name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coltrane Plays the Blues",
+        "url": "https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 319679,
+      "name": "Mr. Syms",
+      "url": "https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Village Blues",
+      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 320773,
+      "name": "They Say It's Wonderful",
+      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
     },
     {
       "added_at": null,
@@ -471,42 +507,6 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 320773,
-      "name": "They Say It's Wonderful",
-      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coltrane Jazz",
-        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Village Blues",
-      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
-        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "Giant Steps - 2020 Remaster",
-      "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 259866,
       "name": "Autumn Serenade",
       "url": "https://open.spotify.com/track/3lrcl8bNSUkHMjHEtP5yC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
+        "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "Giant Steps - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
       "duration_ms": 904493,
       "name": "How Deep Is The Ocean?",
       "url": "https://open.spotify.com/track/1xhjDUztnjD42UfY72Atg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soultrane",
-        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Theme For Ernie",
-      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
       "duration_ms": 329613,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soultrane",
+        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Theme For Ernie",
+      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
       "added_at": null,
@@ -815,6 +815,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/1Nupy0wf53QLwfYYfHOjXe"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 255399,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/7wCrY3jUJGrP6lwoF7PBd1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 190573,
+      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
+      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 262946,
+      "name": "Stevie",
+      "url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -851,62 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 262946,
-      "name": "Stevie",
-      "url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
-      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Impressions",
-        "url": "https://open.spotify.com/album/1Nupy0wf53QLwfYYfHOjXe"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 255399,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/7wCrY3jUJGrP6lwoF7PBd1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stardust [Rudy Van Gelder edition]",
         "url": "https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 461626,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/6ZJdpaqHQGvJj6NQ3GuITN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Take The Coltrane",
-      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
       "added_at": null,
@@ -959,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
       "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
         {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 462866,
-      "name": "A Love Supreme, Pt. I \u2013 Acknowledgement",
-      "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
       "added_at": null,
@@ -1007,22 +991,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
       "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
         {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 267133,
-      "name": "Big Nick",
-      "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
+      "duration_ms": 462866,
+      "name": "A Love Supreme, Pt. I \u2013 Acknowledgement",
+      "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
     },
     {
       "added_at": null,
@@ -1043,6 +1023,26 @@
       "duration_ms": 410773,
       "name": "Speak Low - Remastered 1998",
       "url": "https://open.spotify.com/track/48maZW59yoavD1b4gbSGro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Big Nick",
+      "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
     },
     {
       "added_at": null,

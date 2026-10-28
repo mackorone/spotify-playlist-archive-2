@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 144666,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
@@ -8362,7 +8362,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 154176,
       "name": "De\u00e1k Ferenc",
       "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
@@ -23464,7 +23464,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 189726,
       "name": "nem hiszek",
       "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
@@ -23618,7 +23618,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 180821,
       "name": "NEVELETLEN",
       "url": "https://open.spotify.com/track/5eVC7fBiMjXbz2kwQTAPVO"
@@ -31640,7 +31640,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 162333,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
@@ -32066,6 +32066,32 @@
       "duration_ms": 135052,
       "name": "Szabot\u00e1zs",
       "url": "https://open.spotify.com/track/6FEOBxU5S269ahQfY9xLvZ"
+    },
+    {
+      "album": {
+        "name": "SZALAD EL",
+        "url": "https://open.spotify.com/album/6F9SPJeViUnEicebxhbK2G"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Beatrick",
+          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
+        },
+        {
+          "name": "millair",
+          "url": "https://open.spotify.com/artist/1lHJW23ltScRJsdJmadkLC"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146363,
+      "name": "SZALAD EL",
+      "url": "https://open.spotify.com/track/59h5Gdsenx9M4VQEHc43xs"
     },
     {
       "album": {
@@ -32940,7 +32966,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -33088,7 +33114,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 141789,
       "name": "TAKE YOUR TIME",
       "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"

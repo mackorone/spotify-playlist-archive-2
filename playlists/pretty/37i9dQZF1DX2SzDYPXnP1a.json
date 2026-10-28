@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 121292,
+  "num_followers": 121327,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "It Ain't My Fault",
+      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
+    },
+    {
+      "added_at": "2026-08-28 04:01:54",
+      "album": {
         "name": "All My Exes",
         "url": "https://open.spotify.com/album/6zGfim0ztjuT7qnXXXEDcW"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 216800,
-      "name": "It Ain't My Fault",
-      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
       "added_at": "2026-08-28 04:01:54",
@@ -459,22 +475,6 @@
       "duration_ms": 160520,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP"
-    },
-    {
-      "added_at": "2026-08-28 04:01:54",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
       "added_at": "2026-08-28 04:01:54",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-08-28 04:01:54",
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2026-08-28 04:01:54",
+      "album": {
         "name": "Rocky Mountain Low (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 168333,
       "name": "Rocky Mountain Low - feat. Koe Wetzel",
       "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
-    },
-    {
-      "added_at": "2026-08-28 04:01:54",
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2026-08-28 04:01:54",

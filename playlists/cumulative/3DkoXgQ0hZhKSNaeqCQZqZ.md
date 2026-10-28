@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-617 songs - 1 day 8 hr 46 min
+620 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Don't Play](https://open.spotify.com/track/2F99j2WpQ5GRWoTAQZ0rPQ) | [Marti](https://open.spotify.com/artist/4jmSBoKdI4v6xgF9B88u9Q), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Don't Play](https://open.spotify.com/album/6ev9CsA87Vs4hht6DQkWnc) | 2:54 | 2025-01-27 | 2026-03-01 |
 | [DONTTOUCHANYTHING](https://open.spotify.com/track/3mHR0X6FG3Y7uofHs1QRjT) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 4:16 | 2025-11-11 | 2025-11-18 |
 | [DOUBL3 TAK3 \- R3MIX](https://open.spotify.com/track/5OCeL0gRKf54buDtZHFkq6) | [DAMAG3](https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn), [Lex Bratcher](https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [DOUBL3 TAK3 \(R3MIX\)](https://open.spotify.com/album/1YsqdmOXAqFh8Nhf7dzMgK) | 2:53 | 2026-01-17 |  |
+| [Down Bad](https://open.spotify.com/track/1s0ffiqNxK5PKtC6vIb7qg) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO), [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4), [Alex Gråey](https://open.spotify.com/artist/1scIRMk5TreLGq7y3DAlWr) | [Down Bad](https://open.spotify.com/album/4B21b4n1Mfsk4YX6121H0V) | 2:38 | 2026-10-28 |  |
 | [Down Down Down](https://open.spotify.com/track/6u9Nn6X2eqhrtyzoG296kc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [Down Down Down](https://open.spotify.com/album/0GJGtyGJLXSdUqDJf4mQed) | 3:37 | 2026-07-13 |  |
 | [Dr1p](https://open.spotify.com/track/1yPooLQa9YF3ZLQckOWRcQ) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Holoplankton](https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp) | 3:49 | 2023-06-14 |  |
 | [Drained](https://open.spotify.com/track/3ISjtbkPZgp4kQaGuNcQwR) | [ABSRDST](https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM) | [Drained](https://open.spotify.com/album/3FDlszVMTptRq3PXkGbw4p) | 4:02 | 2024-11-18 |  |
@@ -310,6 +311,7 @@
 | [LIFE](https://open.spotify.com/track/23Hhl3U1b2FxRMc2zo6IR8) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU), [Filterocity](https://open.spotify.com/artist/3raEjNj1yydwtfhnkJ9PkJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [EQUINOX](https://open.spotify.com/album/2HcUhzatJKAn13ejeI1idU) | 3:37 | 2024-02-09 | 2026-03-01 |
 | [Life at the Cemetery](https://open.spotify.com/track/6ObwlDeZ55HUfptbjflreb) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Life at the Cemetery](https://open.spotify.com/album/4qPJRC5h3rEzkyHp117Ljh) | 2:45 | 2026-10-17 |  |
 | [Light Shines on You](https://open.spotify.com/track/4fCfWY8suCaLrTq7rhZpbj) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [Light Shines on You](https://open.spotify.com/album/7mPSyGNxdwWrIcQxEysaDx) | 2:01 | 2026-07-31 |  |
+| [Like a dragon](https://open.spotify.com/track/2IgnGh8YwowpBncf9h3JLt) | [francium](https://open.spotify.com/artist/75mDfzs1ZGeTyh6OPYLlly) | [Airplane music](https://open.spotify.com/album/3SpLlV3gjkHzcg9fTyRlkd) | 2:44 | 2026-10-27 |  |
 | [LIKE ME](https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [LIKE ME](https://open.spotify.com/album/2jUiht1H8BaASTN3NzxObc) | 2:23 | 2025-09-15 |  |
 | [Like That](https://open.spotify.com/track/7DyStmOv5VbnGK7JGOVtlY) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [Pink Girl](https://open.spotify.com/album/4o1A532b9cZXas6wgjYnHS) | 2:46 | 2026-08-27 |  |
 | [likeadrug](https://open.spotify.com/track/1fAVjBTYJqIt3EyYGsVH3h) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:37 | 2025-02-03 |  |
@@ -404,6 +406,7 @@
 | [Opposites Attack!](https://open.spotify.com/track/2rVbRRo9BKBk5Ogfiusrht) | [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Falsework](https://open.spotify.com/album/6mRZBa04P3wKGQeIEgv9Vb) | 2:20 | 2023-11-08 | 2026-03-01 |
 | [Our Season](https://open.spotify.com/track/1rtE1vGmkuURY2yHjMSjAV) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 4:21 | 2026-07-17 |  |
 | [Ouroboros](https://open.spotify.com/track/5N1tco0mZrM6TzGueiudJw) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Skunk Surfeit](https://open.spotify.com/artist/71v8c8wbnG3fkjVx34cL81) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 4:51 | 2024-02-09 |  |
+| [out of luv](https://open.spotify.com/track/3NP3mCoQWnZGUWtPUfCg6y) | [alexx](https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI) | [out of luv](https://open.spotify.com/album/3UfyiOqsYM9jdIq92nTiBE) | 2:27 | 2026-10-27 |  |
 | [out of service](https://open.spotify.com/track/1mbB7e3oG3j5CjQL3HmsP8) | [mochji](https://open.spotify.com/artist/693tqzQdVpEOHELN58WkQz) | [out of service](https://open.spotify.com/album/6JBd5dLCcNRHnM68KLcqeu) | 2:48 | 2024-06-04 |  |
 | [Outside](https://open.spotify.com/track/0NZYY7pVDk67cx23sqLgjh) | [scuttlefuzz](https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu) | [Ghosts](https://open.spotify.com/album/2RpPntOn2UMMuMeJDJESpt) | 1:56 | 2024-10-21 |  |
 | [Overrun](https://open.spotify.com/track/5jz7DLjpIj5hiWp95Fevtx) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Homeward](https://open.spotify.com/album/7y0hjifREHYoUMzesV6dMb) | 5:04 | 2024-02-09 | 2026-03-01 |

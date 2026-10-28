@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1011636,
+  "num_followers": 1011631,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Glimmer of God",
         "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 192840,
       "name": "Bubba",
       "url": "https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Bewilderment",
-        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Okonski",
-          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "By The Lake",
-      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Go Go Chaos",
         "url": "https://open.spotify.com/album/0oAyuLmkpzcLXKTAK2Ne7Y"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 396157,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Bewilderment",
+        "url": "https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Okonski",
+          "url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "By The Lake",
+      "url": "https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "I Know A Garden",
+        "url": "https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "Hymn for a Dragonfly",
+      "url": "https://open.spotify.com/track/2jkzij7wooU3mU0EO1XFkY"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Bikini",
         "url": "https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "I Know A Garden",
-        "url": "https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb"
-      },
-      "artists": [
-        {
-          "name": "Edwin Raphael",
-          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Hymn for a Dragonfly",
-      "url": "https://open.spotify.com/track/2jkzij7wooU3mU0EO1XFkY"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Best Comedown Ever",
-        "url": "https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv"
-      },
-      "artists": [
-        {
-          "name": "Swimm",
-          "url": "https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX"
-        }
-      ],
-      "duration_ms": 217483,
-      "name": "No Ties",
-      "url": "https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+        "name": "Best Comedown Ever",
+        "url": "https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv"
       },
       "artists": [
         {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+          "name": "Swimm",
+          "url": "https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX"
         }
       ],
-      "duration_ms": 197511,
-      "name": "I'll Never Leave",
-      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
+      "duration_ms": 217483,
+      "name": "No Ties",
+      "url": "https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1315,6 +1299,22 @@
       "duration_ms": 322586,
       "name": "Dot",
       "url": "https://open.spotify.com/track/4zgwH2Bcs2dweaZ71hNotH"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "I'll Never Leave",
+      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 295331,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Haunted Disc",
         "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 173052,
       "name": "What\u2019s In The Tea?",
       "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Some Place Else",
-        "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 295331,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Dance on the Rain",
-        "url": "https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ"
-      },
-      "artists": [
-        {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
-        }
-      ],
-      "duration_ms": 219472,
-      "name": "Dance on the Rain",
-      "url": "https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "PHANTOM OF THE AFTERS",
         "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 182259,
       "name": "WOOF",
       "url": "https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Dance on the Rain",
+        "url": "https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "duration_ms": 219472,
+      "name": "Dance on the Rain",
+      "url": "https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Air Con Eden",
+        "url": "https://open.spotify.com/album/486QPfqtxMumr35F75fkHU"
+      },
+      "artists": [
+        {
+          "name": "Jerkcurb",
+          "url": "https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA"
+        }
+      ],
+      "duration_ms": 342483,
+      "name": "Shadowshow",
+      "url": "https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "We're Here, My Dear",
         "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Air Con Eden",
-        "url": "https://open.spotify.com/album/486QPfqtxMumr35F75fkHU"
-      },
-      "artists": [
-        {
-          "name": "Jerkcurb",
-          "url": "https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA"
-        }
-      ],
-      "duration_ms": 342483,
-      "name": "Shadowshow",
-      "url": "https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Prince",
         "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 221692,
       "name": "Don Lemon",
       "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Holy Waters",
+        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1607,34 +1623,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Twilight Zone",
-        "url": "https://open.spotify.com/album/0GjQV3glseW1A5baoTqQWH"
+        "name": "Hundred Fifty Roses",
+        "url": "https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR"
       },
       "artists": [
         {
-          "name": "Reggie Pearl",
-          "url": "https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe"
-        }
-      ],
-      "duration_ms": 142174,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/6lpUGFAILreoiA83KUpt7T"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Holy Waters",
-        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
-      },
-      "artists": [
+          "name": "Du\u00f1e",
+          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+        },
         {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
         }
       ],
-      "duration_ms": 183426,
-      "name": "Dream Of You",
-      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
+      "duration_ms": 96525,
+      "name": "Flowers & Honey Interlude",
+      "url": "https://open.spotify.com/track/6DsvXic2O817vrPB0btljC"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1659,22 +1663,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Hundred Fifty Roses",
-        "url": "https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR"
+        "name": "Twilight Zone",
+        "url": "https://open.spotify.com/album/0GjQV3glseW1A5baoTqQWH"
       },
       "artists": [
         {
-          "name": "Du\u00f1e",
-          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+          "name": "Reggie Pearl",
+          "url": "https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe"
         }
       ],
-      "duration_ms": 96525,
-      "name": "Flowers & Honey Interlude",
-      "url": "https://open.spotify.com/track/6DsvXic2O817vrPB0btljC"
+      "duration_ms": 142174,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/6lpUGFAILreoiA83KUpt7T"
     },
     {
       "added_at": "2026-03-23 14:42:41",

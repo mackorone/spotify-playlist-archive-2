@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,143 likes - 49 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,153 likes - 49 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 18 | [Judgement Day](https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:52 |
 | 19 | [House of the Rising Sun](https://open.spotify.com/track/1brgfYNrMJXpT70Mfzky6l) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy) | 4:07 |
 | 20 | [De Oppresso Liber](https://open.spotify.com/track/57Q1xt7MDEGuN5My2ATEB2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 4:00 |
-| 21 | [Brighter Side of Grey](https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:29 |
+| 21 | [Living The Dream](https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:34 |
 | 22 | [Under and Over It](https://open.spotify.com/track/7bseyVqpUniHqm4kkOzsvu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV) | 3:38 |
 | 23 | [Sham Pain](https://open.spotify.com/track/03hjAxvnwSf5iZsu6SOZA6) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None](https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr) | 3:29 |
 | 24 | [Unscathed](https://open.spotify.com/track/1GzTfKNEPBDk8yBqh9I0Vr) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:56 |
-| 25 | [Living The Dream](https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:34 |
+| 25 | [Brighter Side of Grey](https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:29 |
 | 26 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
 | 27 | [Coming Down](https://open.spotify.com/track/6AEnqV1hHhG5ckUMysMftn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV) | 4:01 |
 | 28 | [Inside Out](https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:46 |

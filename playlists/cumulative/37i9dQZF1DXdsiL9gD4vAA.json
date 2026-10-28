@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 233076,
       "name": "Hum Bhi Tum Bhi",
       "url": "https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ"
@@ -2788,6 +2788,32 @@
       "duration_ms": 328909,
       "name": "Koi Umeed",
       "url": "https://open.spotify.com/track/1rWlMfkwDrDbUbtJrvyJYW"
+    },
+    {
+      "album": {
+        "name": "Koi Yaad Koi Baat",
+        "url": "https://open.spotify.com/album/5mCkN9GNZCQ6X1iSpfDJO8"
+      },
+      "artists": [
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Ajay Singha",
+          "url": "https://open.spotify.com/artist/6tDbydAljjt6gbWl7F9yFc"
+        },
+        {
+          "name": "Shellee",
+          "url": "https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284999,
+      "name": "Koi Yaad Koi Baat",
+      "url": "https://open.spotify.com/track/3M2rwp7OkZU9nhbnmhMy3V"
     },
     {
       "album": {

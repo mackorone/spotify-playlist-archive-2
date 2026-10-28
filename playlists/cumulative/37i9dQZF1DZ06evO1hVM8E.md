@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-162 songs - 8 hr 20 min
+163 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [El Balido de Mi Ganado](https://open.spotify.com/track/5wEH0WguIFC6gbBcLzhHLE) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:08 | 2022-06-01 | 2022-10-13 |
 | [El Camaleón](https://open.spotify.com/track/4dmVjDzryo2ybwFZhUb1bS) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Camaleón](https://open.spotify.com/album/3Z6UXc4IMKuTBfJeBjWoM2) | 2:50 | 2022-11-25 | 2022-12-31 |
 | [El Cantador](https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:07 | 2023-02-26 | 2026-08-26 |
-| [El Cantador](https://open.spotify.com/track/5GJ8IqHNg5KDQqHgXSItSf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Grandes Corridos](https://open.spotify.com/album/4wO8ywh39VnRkyDCRPL8E4) | 3:07 | 2026-10-15 |  |
+| [El Cantador](https://open.spotify.com/track/5GJ8IqHNg5KDQqHgXSItSf) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Grandes Corridos](https://open.spotify.com/album/4wO8ywh39VnRkyDCRPL8E4) | 3:07 | 2026-10-15 | 2026-10-28 |
 | [El Corrido del Sinaloense](https://open.spotify.com/track/00Mq1N2k27InpqmS4RYpAt) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos Prohibidos](https://open.spotify.com/album/43CoM6wSuOhcM53wTGpu8Q) | 3:11 | 2024-07-16 | 2025-09-03 |
 | [El Destino](https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 4:38 | 2022-06-01 |  |
 | [El Gato Negro](https://open.spotify.com/track/7qQNloY3tLiCjjuXOMhA9O) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:30 | 2022-07-13 | 2022-08-05 |
@@ -80,6 +80,7 @@
 | [La Chica Fresa](https://open.spotify.com/track/4CLffwkFj6NNeB3i9sEBrT) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Para Estar a Mano](https://open.spotify.com/album/1LLGxwtJvzHAGslbUrVPn8) | 2:31 | 2022-07-16 | 2022-10-12 |
 | [La Cosecha](https://open.spotify.com/track/5I4Leo72ZaUpOInFHzQBFM) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Vida Prestada](https://open.spotify.com/album/1fKskDRp3qeKDhD73tAtEO) | 3:07 | 2022-07-19 | 2025-08-22 |
 | [La Feria de San Marcos](https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 2:46 | 2022-06-20 |  |
+| [La Ley de la Vida](https://open.spotify.com/track/0JUHwWaS0g71evaUEqh1N3) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Quiero Olvidarme de Ti](https://open.spotify.com/album/14vpegeyezQfj7yIc6KJoc) | 3:00 | 2026-10-28 |  |
 | [La Original](https://open.spotify.com/track/3bb3PqcfIPpLgAJ62rL2eB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Arriba Sinaloa: Las Mejores Voces De Banda Sinaloense](https://open.spotify.com/album/0KWZFuJ6Ye5QP1eHveu60F) | 3:46 | 2022-06-01 |  |
 | [La Original](https://open.spotify.com/track/4aMwPxHdxu5m6mOOk7hiYG) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [La Original y Sus Boleros de Amor](https://open.spotify.com/album/3D60bbumCHqEnxi7yqaSkl) | 3:48 | 2024-08-08 | 2024-08-09 |
 | [La Raza Más Chida](https://open.spotify.com/track/1DwXFADeKSTu1TwZnQfTSB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [La Raza Más Chida](https://open.spotify.com/album/7iGKBUFdyI3A2XxYjuAa6H) | 3:28 | 2025-07-19 | 2025-08-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,401 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,402 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 30 | [Intertwined](https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [It's Always At Night](https://open.spotify.com/album/2oMIMZ0nmzotALQfXll9bA) | 3:54 |
 | 31 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
 | 32 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
-| 33 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
-| 34 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
+| 33 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
+| 34 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 35 | [don't let me go](https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [don't let me go](https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh) | 2:35 |
 | 36 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 |
 | 37 | [The Suburbs](https://open.spotify.com/track/122tNxkiJyPrwFQxpFjfsj) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb) | 3:08 |
 | 38 | [808 HYMN](https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [808 HYMN](https://open.spotify.com/album/6Br8z93mJODxZskiJ3GHZD) | 4:13 |
-| 39 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
-| 40 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
-| 41 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |
-| 42 | [Stomach Butterflies](https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Stomach Butterflies](https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv) | 2:51 |
+| 39 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
+| 40 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
+| 41 | [Stomach Butterflies](https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Stomach Butterflies](https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv) | 2:51 |
+| 42 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 |
 | 43 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 |
 | 44 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 |
 | 45 | [But, I loved](https://open.spotify.com/track/0luLCDgB1Z6ItnWREs0cWF) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 3:37 |

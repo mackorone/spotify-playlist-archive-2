@@ -28766,7 +28766,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 198913,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/6ptX8KKlqzDObIcDecysVD"
@@ -34216,7 +34216,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 150477,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/5E09PPWstm85om4BoBrz1a"
@@ -34889,6 +34889,28 @@
     },
     {
       "album": {
+        "name": "War Bait",
+        "url": "https://open.spotify.com/album/5UP9HIUsqYSioWotGaVYTk"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        },
+        {
+          "name": "Slay Squad",
+          "url": "https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "War Bait",
+      "url": "https://open.spotify.com/track/1JmJd0PiRNmJdGJZVABRNX"
+    },
+    {
+      "album": {
         "name": "War Pigs",
         "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
       },
@@ -35436,6 +35458,32 @@
       "duration_ms": 290301,
       "name": "What Would You Do? [Feat. Gavin Rossdale]",
       "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
+    },
+    {
+      "album": {
+        "name": "\u00edcon",
+        "url": "https://open.spotify.com/album/3tYN6EBYu2xqri13V72neO"
+      },
+      "artists": [
+        {
+          "name": "VRSTY",
+          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
+        },
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        },
+        {
+          "name": "Cartographer",
+          "url": "https://open.spotify.com/artist/0jLAacmfinLMHPZMov0gke"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158935,
+      "name": "what's the point",
+      "url": "https://open.spotify.com/track/1ZHhKFsn99oGBWTEAe0DLf"
     },
     {
       "album": {

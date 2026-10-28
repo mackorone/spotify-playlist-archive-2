@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Niis
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,390 likes - 175 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,416 likes - 175 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

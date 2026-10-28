@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111893,
+  "num_followers": 111906,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -527,30 +527,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+      "duration_ms": 170497,
+      "name": "Ik Kan Je Niet Laten",
+      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -587,18 +575,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
         }
       ],
-      "duration_ms": 170497,
-      "name": "Ik Kan Je Niet Laten",
-      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Juppige Geintjes",
-        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
-      },
-      "artists": [
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 177623,
-      "name": "Tis Oke Mop",
-      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Cocaina (Remix)",
         "url": "https://open.spotify.com/album/2Fsjpq6WBpu8J8kzLtVGIS"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 219750,
       "name": "Cocaina - Remix",
       "url": "https://open.spotify.com/track/6OpKBghxyHSJ9lqqJ4EkJu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Juppige Geintjes",
+        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 177623,
+      "name": "Tis Oke Mop",
+      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Gimma",
+        "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 148428,
+      "name": "Waarom Zoeken Naar Liefde",
+      "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 225175,
       "name": "wine slow - remix",
       "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Gimma",
-        "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        }
-      ],
-      "duration_ms": 148428,
-      "name": "Waarom Zoeken Naar Liefde",
-      "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "501",
-        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
-      },
-      "artists": [
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 127592,
-      "name": "501",
-      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Paper Zien (Remix)",
         "url": "https://open.spotify.com/album/6a8CFoI8oEjQB78dDryCF3"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 248823,
       "name": "Paper Zien - Remix",
       "url": "https://open.spotify.com/track/1YnCInissFkmQTfZv3k2mT"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "501",
+        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 127592,
+      "name": "501",
+      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
     },
     {
       "added_at": "2024-07-19 06:38:33",

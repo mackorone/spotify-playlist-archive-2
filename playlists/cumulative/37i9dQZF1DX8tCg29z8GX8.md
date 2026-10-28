@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-869 songs - 1 day 20 hr 19 min
+870 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [JEEZU \(feat\. Adekunle Gold\)](https://open.spotify.com/track/3MlgALPoRA3SidqSRtQ6z9) | [Jeymes Samuel](https://open.spotify.com/artist/5LCKmOTlZQaULxnQ1xIkD8), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [THE BOOK OF CLARENCE \(The Motion Picture Soundtrack\)](https://open.spotify.com/album/5LTfMQMnfrNd2Zj1HLZUmN) | 4:28 | 2024-01-12 | 2024-03-22 |
 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 | 2023-04-14 | 2023-05-12 |
 | [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 | 2024-09-30 | 2025-03-20 |
-| [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 | 2024-08-30 |  |
+| [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 | 2024-08-30 | 2026-10-28 |
 | [JJC](https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [JJC](https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN) | 4:57 | 2022-12-08 | 2023-01-28 |
 | [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2025-01-14 | 2025-04-01 |
 | [Julie](https://open.spotify.com/track/0lacaYvboBoDcvGKJDIbVv) | [RiGiid](https://open.spotify.com/artist/4gnQowtoLDJEw56pczHRmL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Julie](https://open.spotify.com/album/1pSQQf3TV3hMI5GPfi4tdQ) | 3:28 | 2026-05-15 | 2026-05-19 |
@@ -835,6 +835,7 @@
 | [Who Say](https://open.spotify.com/track/6AKrORRZr4zljkdZiZx8gn) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [The Teacher](https://open.spotify.com/album/1dknPUgY31fr6w71ZFSWiY) | 3:12 | 2023-09-09 | 2023-09-15 |
 | [WIFI](https://open.spotify.com/track/3XoIFPE1GeKdGR7eG3r9zu) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [WIFI](https://open.spotify.com/album/0RdZhYpdfeLAPUBimtVjBr) | 2:20 | 2024-06-28 | 2024-07-12 |
 | [WINE AND BLUES](https://open.spotify.com/track/29kG9fZa56h0jL9qXqTePM) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 3:15 | 2025-03-14 | 2025-05-29 |
+| [Wings](https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Wings](https://open.spotify.com/album/0BGYDElNNZBTxdp2FZflOF) | 2:40 | 2026-10-23 |  |
 | [Wins & Losses](https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Wins & Losses](https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk) | 2:59 | 2026-02-13 | 2026-05-25 |
 | [Wish I Had a Girlfriend](https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Wish I Had a Girlfriend](https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw) | 2:48 | 2026-04-20 |  |
 | [Wombom](https://open.spotify.com/track/3ITbQtBxqUfMnDKUPxtNTo) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Kwesi Amewuga](https://open.spotify.com/artist/3M6wBIiRHibBnlC0MVZDeC), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Wombom](https://open.spotify.com/album/5WQmQP2tj5xH2mvoB1dXme) | 4:44 | 2024-04-05 | 2024-04-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,528 likes - 373 songs - 22 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,529 likes - 373 songs - 22 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 110 | [I Look in People's Windows](https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 2:11 |
 | 111 | [Hard Feelings/Loveless](https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 6:07 |
 | 112 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 |
-| 113 | [Sober](https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:17 |
-| 114 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 |
+| 113 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 |
+| 114 | [Sober](https://open.spotify.com/track/7eElVgPcxDqmgGrSwVFI74) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:17 |
 | 115 | [Don’t Worry I’ll Make You Worry](https://open.spotify.com/track/21IVPfi81m6ywNgOvqTj1i) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:42 |
 | 116 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 |
 | 117 | [Tulsa Jesus Freak](https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 3:35 |
@@ -256,10 +256,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 246 | [Alma Mater](https://open.spotify.com/track/4Mt3MomCzipQ7ExvtkDtsf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:30 |
 | 247 | [Classic](https://open.spotify.com/track/4Lme7Xwvc2y0cnP6sCb4HB) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 |
 | 248 | [Come Back](https://open.spotify.com/track/1hBHA40Ou5cmb8nBArrxbb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:05 |
-| 249 | [Take Your Time \(Coming Home\)](https://open.spotify.com/track/1mrP8aTl5Q0gStjzfdwQLG) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 7:51 |
-| 250 | [Self Respect](https://open.spotify.com/track/2fx9HMH9RpJT5ryBO8Xgbd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 4:14 |
-| 251 | [Benson Hedges](https://open.spotify.com/track/6SfBZ3WhNKnw75TcbX8kID) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:00 |
-| 252 | [FF](https://open.spotify.com/track/7iONtdTeZ0o84uP1vjH3dy) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 4:22 |
+| 249 | [FF](https://open.spotify.com/track/7iONtdTeZ0o84uP1vjH3dy) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 4:22 |
+| 250 | [Take Your Time \(Coming Home\)](https://open.spotify.com/track/1mrP8aTl5Q0gStjzfdwQLG) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 7:51 |
+| 251 | [Self Respect](https://open.spotify.com/track/2fx9HMH9RpJT5ryBO8Xgbd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 4:14 |
+| 252 | [Benson Hedges](https://open.spotify.com/track/6SfBZ3WhNKnw75TcbX8kID) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:00 |
 | 253 | [Blessin' Me](https://open.spotify.com/track/0encug7QQRGW2FBLmg5Wu7) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 3:05 |
 | 254 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 |
 | 255 | [My Best Friend's Weddings](https://open.spotify.com/track/6LxBEoDS5uUGZ6aAovHuvc) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:18 |
@@ -293,9 +293,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 283 | [i'm not joking](https://open.spotify.com/track/27EmYOo6XBUzeY5VF2882W) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:54 |
 | 284 | [...At The Holiday Party](https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
 | 285 | [Cowboy](https://open.spotify.com/track/5jbQPSbdqspmRXJUPAII3K) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 3:24 |
-| 286 | [Strange Behavior](https://open.spotify.com/track/6beGj0daOi7LDVSRm4bPFW) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:05 |
-| 287 | [Troye Meets World](https://open.spotify.com/track/6wgGILLz74AGB85iQLw1PE) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 2:43 |
-| 288 | [I Do This For You](https://open.spotify.com/track/7LIqrRSXHMzlzT9NyuYsX3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 3:34 |
+| 286 | [Troye Meets World](https://open.spotify.com/track/6wgGILLz74AGB85iQLw1PE) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 2:43 |
+| 287 | [I Do This For You](https://open.spotify.com/track/7LIqrRSXHMzlzT9NyuYsX3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/4HLo8X3jcJpPXQpHpkvJak) | 3:34 |
+| 288 | [Strange Behavior](https://open.spotify.com/track/6beGj0daOi7LDVSRm4bPFW) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:05 |
 | 289 | [Woke Up Today](https://open.spotify.com/track/0faJMJ6jQAIEB0dx7IWJnN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 2:31 |
 | 290 | [The Laughing Man](https://open.spotify.com/track/2eOVDsD7xN6EsPpsELY8XE) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:25 |
 | 291 | [What'd I Do With All This Faith?](https://open.spotify.com/track/3fSH0czOBg0XYjkviSL6ey) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Take the Sadness Out of Saturday Night](https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE) | 3:18 |
@@ -321,8 +321,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 311 | [she's from before](https://open.spotify.com/track/1xJvMmZTmnng3TLIPwL39l) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 2:57 |
 | 312 | [holy smoke](https://open.spotify.com/track/0Y3vRFuqDElI2SUwzseAFi) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih) | 4:37 |
 | 313 | [I Am In Your Hands](https://open.spotify.com/track/1SwbbcMivCTQjBez30SK58) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 3:48 |
-| 314 | [grand bouquet](https://open.spotify.com/track/4EZWPztt75Fj4w0fPZ13aj) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih) | 3:46 |
-| 315 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 |
+| 314 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 |
+| 315 | [grand bouquet](https://open.spotify.com/track/4EZWPztt75Fj4w0fPZ13aj) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5KE34iOewqgS2DNW3fHyih) | 3:46 |
 | 316 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 |
 | 317 | [Cool \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/2NV8520xo3iYrpD8wv4Sxy) | [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Cool \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0CnL6CPos3VkeqKRaR9Uwp) | 2:54 |
 | 318 | [The Big Bad Turnpike Ghost](https://open.spotify.com/track/0F1Eb25noVD3ShQRvaKkui) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 2:33 |
@@ -382,4 +382,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 372 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 373 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AcgAuAAAAACs6utsYTfbuE7bW2ySMMNv`
+Snapshot ID: `AcgGWAAAAAAOgI4ZfBLcNe1fhRvzDKpV`

@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Babehoven",
-  "num_followers": 1329035,
+  "num_followers": 1328981,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Monoflora",
+        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Michigan Cherry",
+      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Monoflora",
-        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Michigan Cherry",
-      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with August Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC"
-      },
-      "artists": [
-        {
-          "name": "Angela Autumn",
-          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
-        }
-      ],
-      "duration_ms": 233522,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/7EBQhd1vZz6O5RiuK0abZ9"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Dearly Missed",
         "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 360720,
       "name": "Dearly Missed",
       "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 233522,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/7EBQhd1vZz6O5RiuK0abZ9"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Cinder Block",
-        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 222310,
-      "name": "Cinder Block",
-      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "Cinder Block",
+        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 222310,
+      "name": "Cinder Block",
+      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "My Light, My Destroyer",
-        "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/0Bq9VjpPqkP3Mbq4Ui2mbo"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "My Light, My Destroyer",
+        "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/0Bq9VjpPqkP3Mbq4Ui2mbo"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 245776,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Overtime (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 173610,
       "name": "Overtime (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 245776,
-      "name": "Dusty",
-      "url": "https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Miss Michigan",
+        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "Cold Hands",
+      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Against The Dying Of The Light",
         "url": "https://open.spotify.com/album/6tfCh6LUufsg9neWwD6E5X"
       },
@@ -1963,6 +1983,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Cruel Joke",
+        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Wolf In Sheep\u2019s Clothes",
+      "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "You'd Kill Me If You Could",
         "url": "https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI"
       },
@@ -1979,42 +2015,6 @@
       "duration_ms": 207000,
       "name": "You'd Kill Me If You Could",
       "url": "https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
-      },
-      "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "Cold Hands",
-      "url": "https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Cruel Joke",
-        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
-      },
-      "artists": [
-        {
-          "name": "Ken Pomeroy",
-          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wolf In Sheep\u2019s Clothes",
-      "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 285320,
+      "name": "Dizzy Spin",
+      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Feel (with Kyson)",
         "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 285320,
-      "name": "Dizzy Spin",
-      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
@@ -2167,6 +2167,26 @@
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
+        "name": "in filth your mystery is kingdom / far smile peasant in yellow music",
+        "url": "https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO"
+      },
+      "artists": [
+        {
+          "name": "Dagmar Zuniga",
+          "url": "https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q"
+        },
+        {
+          "name": "Austyn Wohlers",
+          "url": "https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB"
+        }
+      ],
+      "duration_ms": 216931,
+      "name": "Even God Gets Stuck In Devotion",
+      "url": "https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2199,26 +2219,6 @@
       "duration_ms": 173177,
       "name": "Bovine Excision",
       "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "in filth your mystery is kingdom / far smile peasant in yellow music",
-        "url": "https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO"
-      },
-      "artists": [
-        {
-          "name": "Dagmar Zuniga",
-          "url": "https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q"
-        },
-        {
-          "name": "Austyn Wohlers",
-          "url": "https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB"
-        }
-      ],
-      "duration_ms": 216931,
-      "name": "Even God Gets Stuck In Devotion",
-      "url": "https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Fish Eyes EP",
+        "url": "https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 194808,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Leap Year",
         "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
       },
@@ -2359,18 +2375,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Fish Eyes EP",
-        "url": "https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt"
       },
       "artists": [
         {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 194808,
-      "name": "Drinking Song",
-      "url": "https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD"
+      "duration_ms": 211061,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2395,22 +2415,18 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt"
+        "name": "Slow Running",
+        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
       },
       "artists": [
         {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
-        },
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 211061,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
+      "duration_ms": 262205,
+      "name": "Slow Running",
+      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2427,22 +2443,6 @@
       "duration_ms": 165925,
       "name": "Swing",
       "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Slow Running",
-        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262205,
-      "name": "Slow Running",
-      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
     },
     {
       "added_at": "2026-09-18 04:02:25",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2026-09-18 04:02:25",
       "album": {
+        "name": "Angel in Plainclothes",
+        "url": "https://open.spotify.com/album/3RSIafhkmhAvdFJ1z9ldqv"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 249339,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/2S1U1fB9XXTwxUa1a181yW"
+    },
+    {
+      "added_at": "2026-09-18 04:02:25",
+      "album": {
         "name": "Bus Back To Richmond / More Than Friends",
         "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
       },
@@ -2507,22 +2523,6 @@
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26"
-    },
-    {
-      "added_at": "2026-09-18 04:02:25",
-      "album": {
-        "name": "Angel in Plainclothes",
-        "url": "https://open.spotify.com/album/3RSIafhkmhAvdFJ1z9ldqv"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 249339,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/2S1U1fB9XXTwxUa1a181yW"
     },
     {
       "added_at": "2026-09-18 04:02:25",

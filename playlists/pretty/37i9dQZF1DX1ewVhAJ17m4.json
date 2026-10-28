@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Like Roses",
-  "num_followers": 604577,
+  "num_followers": 604588,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Panic Attack",
+        "url": "https://open.spotify.com/album/6sAFuESQLtvrhSdBSsIuz7"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 159727,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/6MiF7VuncGIcEoVzzBeWIT"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/0rcadyPvkCU8RqcfjHiTuh"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Panic Attack",
-        "url": "https://open.spotify.com/album/6sAFuESQLtvrhSdBSsIuz7"
+        "name": "Under Construction Forever",
+        "url": "https://open.spotify.com/album/2njmow8kVfBytRC2cUAAkv"
       },
       "artists": [
         {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+          "name": "wakelee",
+          "url": "https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6"
         }
       ],
-      "duration_ms": 159727,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/6MiF7VuncGIcEoVzzBeWIT"
+      "duration_ms": 119600,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/78ueIcsp0xxMpPHP1d9pQH"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -655,22 +671,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Under Construction Forever",
-        "url": "https://open.spotify.com/album/2njmow8kVfBytRC2cUAAkv"
-      },
-      "artists": [
-        {
-          "name": "wakelee",
-          "url": "https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6"
-        }
-      ],
-      "duration_ms": 119600,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/78ueIcsp0xxMpPHP1d9pQH"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2plIofGd5etSiMkERrAeeI"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 208168,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6fku7eIHq1S1grAnwTw3SB"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Back To One",
+        "url": "https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Back To One",
+      "url": "https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -767,22 +783,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Burn Me Out",
-        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 191010,
-      "name": "Burn Me Out",
-      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "You Should See Me Now",
         "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 224004,
       "name": "You Should See Me Now",
       "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Burn Me Out",
+        "url": "https://open.spotify.com/album/7EZOcXMLWBZCdaoU24ug6K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 191010,
+      "name": "Burn Me Out",
+      "url": "https://open.spotify.com/track/3EwvHthDfMBoH1mvCDyvR2"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Back To One",
-        "url": "https://open.spotify.com/album/3d1knPLZ1zPXBDEs0wVjsp"
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/0LxegpHfZguBMHYKM5oVFK"
       },
       "artists": [
         {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+          "name": "Fluorescents",
+          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Back To One",
-      "url": "https://open.spotify.com/track/55pa7RQg77zdFNo4aI5RHY"
+      "duration_ms": 190000,
+      "name": "Deadbeat",
+      "url": "https://open.spotify.com/track/0HekjtwjtV06N95r56zLmA"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -859,22 +875,6 @@
       "duration_ms": 193714,
       "name": "Vodka Soda",
       "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/0LxegpHfZguBMHYKM5oVFK"
-      },
-      "artists": [
-        {
-          "name": "Fluorescents",
-          "url": "https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Deadbeat",
-      "url": "https://open.spotify.com/track/0HekjtwjtV06N95r56zLmA"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Moments Before The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Phoenix Down",
-      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Stare at the Sun",
         "url": "https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy"
       },
@@ -927,6 +911,38 @@
       "duration_ms": 172941,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "FLY AWAY",
+        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "FLY AWAY",
+      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Moments Before The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/2TBomMshXvL6lQZpt2CG3r"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Phoenix Down",
+      "url": "https://open.spotify.com/track/2KTXPQ7PG1Z4yrjAmmsjdl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -979,18 +995,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "FLY AWAY",
-        "url": "https://open.spotify.com/album/47UQcEUfbgTrZXatGpX0M8"
+        "name": "FAKE FEELINGS",
+        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
       },
       "artists": [
         {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+          "name": "all in ur head",
+          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
         }
       ],
-      "duration_ms": 201081,
-      "name": "FLY AWAY",
-      "url": "https://open.spotify.com/track/31pAxckhmtdWhVH2375XMM"
+      "duration_ms": 185741,
+      "name": "FAKE FEELINGS",
+      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1007,22 +1023,6 @@
       "duration_ms": 173783,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "FAKE FEELINGS",
-        "url": "https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF"
-      },
-      "artists": [
-        {
-          "name": "all in ur head",
-          "url": "https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "FAKE FEELINGS",
-      "url": "https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Listen Up!",
-        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "A Love Song",
-      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Still There\u2019s a Glow",
         "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 168365,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204821,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 209625,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Like Me Less",
-        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
-      },
-      "artists": [
-        {
-          "name": "Harrison Gordon",
-          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
-        }
-      ],
-      "duration_ms": 172351,
-      "name": "Like Me Less",
-      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "I Feel Like Shit And It's All Your Fault",
         "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 213364,
       "name": "Do You Remember?",
       "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Like Me Less",
+        "url": "https://open.spotify.com/album/3ivR8YYLpN1VGt03HT83gc"
+      },
+      "artists": [
+        {
+          "name": "Harrison Gordon",
+          "url": "https://open.spotify.com/artist/0DpBrLHJdZh2iAId301CwV"
+        }
+      ],
+      "duration_ms": 172351,
+      "name": "Like Me Less",
+      "url": "https://open.spotify.com/track/5j1H4DZ2ZhOszFka5pzkZl"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "Extremely Fragile Human Being",
+        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "duration_ms": 190673,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "me against me",
         "url": "https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Extremely Fragile Human Being",
-        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
       },
       "artists": [
         {
-          "name": "Good Hangs",
-          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
         }
       ],
-      "duration_ms": 190673,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1647,22 +1663,6 @@
       "duration_ms": 186124,
       "name": "Resuscitate",
       "url": "https://open.spotify.com/track/72IQ4ulGN7L9e2WA92SXdK"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/6kBAu1edenkAwpaZL4iKCP"
+      },
+      "artists": [
+        {
+          "name": "Amber Pacific",
+          "url": "https://open.spotify.com/artist/4GHa4pyuelazwyhdLo5AwL"
+        }
+      ],
+      "duration_ms": 217536,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/1pJYGgke026xAayyy2hUO3"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
         "name": "Not The Doctor ('Mile End Kicks' - Music Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 222550,
       "name": "Not The Doctor - 'Mile End Kicks' - Music Inspired by the Motion Picture",
       "url": "https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/6kBAu1edenkAwpaZL4iKCP"
-      },
-      "artists": [
-        {
-          "name": "Amber Pacific",
-          "url": "https://open.spotify.com/artist/4GHa4pyuelazwyhdLo5AwL"
-        }
-      ],
-      "duration_ms": 217536,
-      "name": "Sink or Swim",
-      "url": "https://open.spotify.com/track/1pJYGgke026xAayyy2hUO3"
     },
     {
       "added_at": "2026-10-23 04:01:58",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-10-23 04:01:58",
       "album": {
-        "name": "Sense of Humor",
-        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 195865,
-      "name": "Sense of Humor",
-      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
-    },
-    {
-      "added_at": "2026-10-23 04:01:58",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 197627,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
+    },
+    {
+      "added_at": "2026-10-23 04:01:58",
+      "album": {
+        "name": "Sense of Humor",
+        "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 195865,
+      "name": "Sense of Humor",
+      "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
     },
     {
       "added_at": "2026-10-23 04:01:58",

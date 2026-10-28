@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 275880,
+  "num_followers": 275914,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Qui\u00e9reme Menos",
-        "url": "https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Qui\u00e9reme Menos",
-      "url": "https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "La Luz De Mis Ojos",
         "url": "https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 229613,
       "name": "La Luz De Mis Ojos",
       "url": "https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Qui\u00e9reme Menos",
+        "url": "https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Qui\u00e9reme Menos",
+      "url": "https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/3ADP6XJ2xLhB5gVrrEsr8T"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 301917,
+      "name": "Siento Que Te Quiero",
+      "url": "https://open.spotify.com/track/3MNc65D2Eh3dxu61nFSZJT"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachatas Pal Pueblo: Mas Pueblo Que Nunca",
-        "url": "https://open.spotify.com/album/2OQYFVC8gKoCApueLNdIUi"
+        "name": "Medicina de Amor",
+        "url": "https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 221480,
-      "name": "El Profesor",
-      "url": "https://open.spotify.com/track/0WQKhw1aMGfqdNbTj2RhZx"
+      "duration_ms": 365253,
+      "name": "Medicina de Amor",
+      "url": "https://open.spotify.com/track/2nTgr8A2F6dpxsuGsf6KSk"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1591,6 +1607,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Bachatas Pal Pueblo: Mas Pueblo Que Nunca",
+        "url": "https://open.spotify.com/album/2OQYFVC8gKoCApueLNdIUi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "El Profesor",
+      "url": "https://open.spotify.com/track/0WQKhw1aMGfqdNbTj2RhZx"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Pa' Que Te Duela",
         "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
@@ -1607,22 +1639,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Medicina de Amor",
-        "url": "https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 365253,
-      "name": "Medicina de Amor",
-      "url": "https://open.spotify.com/track/2nTgr8A2F6dpxsuGsf6KSk"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Los 12 Exitos De Kiko Rodriguez",
         "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
       },
@@ -1635,6 +1651,22 @@
       "duration_ms": 252557,
       "name": "Hoy Te Vi Pasar",
       "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 283413,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1671,38 +1703,6 @@
       "duration_ms": 251250,
       "name": "Besito en la Boca",
       "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/3ADP6XJ2xLhB5gVrrEsr8T"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 301917,
-      "name": "Siento Que Te Quiero",
-      "url": "https://open.spotify.com/track/3MNc65D2Eh3dxu61nFSZJT"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 283413,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
     },
     {
       "added_at": "2024-08-23 04:59:00",

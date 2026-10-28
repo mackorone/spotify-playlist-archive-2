@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 |
 | 2 | [Happiness](https://open.spotify.com/track/6xKZuua5wKzQBWMLD40NpK) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/05Zdabhi19HHmjdD40uJBP) | 4:03 |
-| 3 | [Room for 2](https://open.spotify.com/track/1N6bSRD489MSNVsRYEQtji) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:28 |
+| 3 | [Room for 2](https://open.spotify.com/track/2BWRo9XgasysPaEf82pRKt) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/3SXqs6UQiQyIOnk1TeodLo) | 3:28 |
 | 4 | [Flight 22](https://open.spotify.com/track/3iv26BUAWSn83q8rhGKPE8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:36 |
 | 5 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
 | 6 | [Swagger Jagger](https://open.spotify.com/track/5ojIBrEAUKWkI5BSoWGGFu) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/0z5qKyh9ys3kk9oLEzgG5l) | 3:12 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 67 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
 | 68 | [The Wah Wah Song](https://open.spotify.com/track/0yuoixvhaxZBwQ5ksuOOGA) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Night Work](https://open.spotify.com/album/1KtK7yRDwIkJBZrkeIHUdo) | 2:39 |
 | 69 | [SAVE ME](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 |
-| 70 | [Remedy](https://open.spotify.com/track/6jFNglCTEcr05w28KLSy9F) | [All About She](https://open.spotify.com/artist/4v31ZbEICHeUehSZdcc4ga) | [Go Slow](https://open.spotify.com/album/2eNHUSSHfqSwPNny1YFmoT) | 3:17 |
-| 71 | [Gentleman](https://open.spotify.com/track/5kVe3Rs768OQcOU0z11wyc) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 3:35 |
+| 70 | [Gentleman](https://open.spotify.com/track/5kVe3Rs768OQcOU0z11wyc) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 3:35 |
+| 71 | [Remedy](https://open.spotify.com/track/6jFNglCTEcr05w28KLSy9F) | [All About She](https://open.spotify.com/artist/4v31ZbEICHeUehSZdcc4ga) | [Go Slow](https://open.spotify.com/album/2eNHUSSHfqSwPNny1YFmoT) | 3:17 |
 | 72 | [Stick Shift \- Radio Edit](https://open.spotify.com/track/7tUNmJGpLbAlH3Mm6jtgp8) | [Antoine Clamaran](https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF), [Soraya](https://open.spotify.com/artist/28dUwtiFMRTAVNym83n1rU) | [Stick Shift](https://open.spotify.com/album/5KhDRsp04yfZxwmXvFihG4) | 3:34 |
 | 73 | [Disrespect](https://open.spotify.com/track/3o4F3z6qFvfhCt3TmOkNF0) | [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [From The Roots Up \(Deluxe Edition\)](https://open.spotify.com/album/0uvCiMlB7yjUiSQknJwtuh) | 3:38 |
 | 74 | [Copy Cat](https://open.spotify.com/track/6tpB37tRaxknycR6H8eZSF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm \(Vol\. 7\)](https://open.spotify.com/album/39p56lfVsxR1pnTK8BVLjS) | 3:50 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 103 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 104 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcgAwgAAAACZm+DB30vLvUT4nHLW1PgU`
+Snapshot ID: `AcgGYgAAAAC7nS2WfkiRJ53vERTEH5T9`

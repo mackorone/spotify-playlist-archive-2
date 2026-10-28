@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Kidchen",
-  "num_followers": 91769,
+  "num_followers": 91767,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
         "name": "Campesino",
         "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2026-10-16 05:01:29",
       "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
         "name": "LVRBOY",
         "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
       },
@@ -651,6 +651,30 @@
       "duration_ms": 249917,
       "name": "LVRBOY",
       "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
+    },
+    {
+      "added_at": "2026-10-16 05:01:29",
+      "album": {
+        "name": "Pnmt Corrosion",
+        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
+      },
+      "artists": [
+        {
+          "name": "Pornomotora",
+          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
+        },
+        {
+          "name": "Dilson Diaz",
+          "url": "https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r"
+        },
+        {
+          "name": "Nicolai Fella",
+          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Nadie Es Inocente (feat. Dilson Diaz & Nicolai Fella)",
+      "url": "https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf"
     },
     {
       "added_at": "2026-10-16 05:01:29",
@@ -683,30 +707,6 @@
       "duration_ms": 250371,
       "name": "Mi Mal Y Mi Bien",
       "url": "https://open.spotify.com/track/52OUKtvQoMi6Ih8W7oF4rc"
-    },
-    {
-      "added_at": "2026-10-16 05:01:29",
-      "album": {
-        "name": "Pnmt Corrosion",
-        "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
-      },
-      "artists": [
-        {
-          "name": "Pornomotora",
-          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
-        },
-        {
-          "name": "Dilson Diaz",
-          "url": "https://open.spotify.com/artist/72UArPUG7xctUaf3iXf59r"
-        },
-        {
-          "name": "Nicolai Fella",
-          "url": "https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Nadie Es Inocente (feat. Dilson Diaz & Nicolai Fella)",
-      "url": "https://open.spotify.com/track/4jnp4SOpXZP0Oy0YIBKxcf"
     },
     {
       "added_at": "2026-10-16 05:01:29",

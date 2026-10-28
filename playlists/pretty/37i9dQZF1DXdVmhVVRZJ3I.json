@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 360030,
+  "num_followers": 360096,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Do You EP",
-        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 221769,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "Do You EP",
+        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 221769,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Malabaris",
-        "url": "https://open.spotify.com/album/6W2NbGfbvj5YlYqhaUWvAc"
+        "name": "Kikada",
+        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Mila Journ\u00e9e",
-          "url": "https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB"
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         }
       ],
-      "duration_ms": 186614,
-      "name": "Malabaris",
-      "url": "https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT"
+      "duration_ms": 183473,
+      "name": "Kikada",
+      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Kikada",
-        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
+        "name": "Malabaris",
+        "url": "https://open.spotify.com/album/6W2NbGfbvj5YlYqhaUWvAc"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Mila Journ\u00e9e",
+          "url": "https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB"
         }
       ],
-      "duration_ms": 183473,
-      "name": "Kikada",
-      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
+      "duration_ms": 186614,
+      "name": "Malabaris",
+      "url": "https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,514 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,528 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 49 | [OUTTA TOWN \(feat\. BossMan Dlow\)](https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:13 |
 | 50 | [Batman \(with Lil Wayne feat\. Moneybagg Yo\) \- Remix](https://open.spotify.com/track/0elEjBWGVXPnMcDkHuUQlW) | [LPB Poody](https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'm The One](https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25) | 3:35 |
 
-Snapshot ID: `atv1AAAAAADqIXGI4kJNysipb/L6Nri/`
+Snapshot ID: `at1GgAAAAAA9GFpOqpSqTf0PSaLJ7XAi`

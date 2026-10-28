@@ -500,7 +500,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 125538,
       "name": "22 \u00e9 Bolsonaro",
       "url": "https://open.spotify.com/track/1bzLQUNrrVlwrX3yUMxmlF"
@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 160690,
       "name": "Agora \u00c9 Fl\u00e1vio Bolsonaro",
       "url": "https://open.spotify.com/track/45gL2lj92cWViBW346BQkD"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 747625,
       "name": "AH, JESUS / CORA\u00c7\u00c3O IGUAL AO TEU",
       "url": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH"
@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 419520,
       "name": "Anjos (Pra quem tem f\u00e9)",
       "url": "https://open.spotify.com/track/1UvWx2hgpxlF7HPbwLSmIY"
@@ -4154,7 +4154,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 69920,
       "name": "At\u00e9 Bras\u00edlia Por Voc\u00eas",
       "url": "https://open.spotify.com/track/2REJMGC914FBEE5X4zWNdH"
@@ -5430,7 +5430,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -11542,7 +11542,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 158589,
       "name": "Displicente - Ao Vivo",
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
@@ -16842,7 +16842,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 103384,
       "name": "FUNK NIKOLAS FERREIRA",
       "url": "https://open.spotify.com/track/061apSY4OqIgQ6RjSf5b0k"
@@ -19360,7 +19360,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 251840,
       "name": "Irm\u00e3o da Lua, Amigo das Estrelas",
       "url": "https://open.spotify.com/track/1PW3LjmxJqVoQ9nmdbxF9f"
@@ -34172,7 +34172,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 155307,
       "name": "Ritmo Era Uma Vez",
       "url": "https://open.spotify.com/track/3GZfGZMwHkXFGTvRjCSXNb"
@@ -36546,7 +36546,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 431219,
       "name": "SET BOCA 09 (feat. Mc Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat)",
       "url": "https://open.spotify.com/track/7By1xSEpnisnvOK6CvrEk1"
@@ -37376,7 +37376,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 147096,
       "name": "Solinho do Fora PT",
       "url": "https://open.spotify.com/track/2mjRMHZNfFgTwLhqvTCRYO"
@@ -38884,6 +38884,24 @@
       "duration_ms": 266256,
       "name": "Tarde Demais / M\u00e1gica / Oh! Chuva - Ao Vivo",
       "url": "https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC"
+    },
+    {
+      "album": {
+        "name": "Tariflavio Bolsomaster",
+        "url": "https://open.spotify.com/album/2gwoIn34RW01UtAsm9alIF"
+      },
+      "artists": [
+        {
+          "name": "Marcelo",
+          "url": "https://open.spotify.com/artist/5XlUFY3XkcO55rSVy9c36X"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109488,
+      "name": "Tariflavio Bolsomaster",
+      "url": "https://open.spotify.com/track/5d7Jdg51RE1orXrK8mdD5i"
     },
     {
       "album": {
@@ -41154,7 +41172,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 122770,
       "name": "Tropa do Capit\u00e3o (Vers\u00e3o Oficial)",
       "url": "https://open.spotify.com/track/4iGHiiQJjsHiqukcD9rsQL"
@@ -41988,6 +42006,28 @@
       "duration_ms": 164466,
       "name": "Uma e Quinze da Manh\u00e3",
       "url": "https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG"
+    },
+    {
+      "album": {
+        "name": "Uma Nova Hist\u00f3ria, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4GjJYTaVUCeVjALIYwZwxn"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137041,
+      "name": "Uma Galera Chora - Ao Vivo",
+      "url": "https://open.spotify.com/track/0bvdqwiezOc6XAJIcyDurq"
     },
     {
       "album": {
@@ -43210,6 +43250,24 @@
       "duration_ms": 123711,
       "name": "Vento Forte",
       "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
+    },
+    {
+      "album": {
+        "name": "P\u00e1ssaro Sonhador",
+        "url": "https://open.spotify.com/album/2B035BDG35gdZktEWYcj4c"
+      },
+      "artists": [
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Vermelho",
+      "url": "https://open.spotify.com/track/1vESo1aF09DXmwwyHJVhne"
     },
     {
       "album": {

@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "album": {
         "name": "AL MIO PAESE",
         "url": "https://open.spotify.com/album/2puopS5aH6YlpFJYqx6jGK"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 197591,
       "name": "AL MIO PAESE",
       "url": "https://open.spotify.com/track/0C2IeaV0r1F8IYWe4JjM2u"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 177348,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
@@ -3003,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "Giornate perse",
+        "url": "https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219078,
+      "name": "Giornate perse",
+      "url": "https://open.spotify.com/track/76qMY6xy2mqMAAk0ycce3N"
+    },
+    {
+      "album": {
         "name": "La Cura, in nome di Miria",
         "url": "https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s"
       },
@@ -4124,6 +4160,24 @@
       "duration_ms": 206002,
       "name": "Lentamente",
       "url": "https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5"
+    },
+    {
+      "album": {
+        "name": "LENTIGGINI",
+        "url": "https://open.spotify.com/album/6aeOCggQb28q7vHm6hp0Ug"
+      },
+      "artists": [
+        {
+          "name": "SETTEMBRE",
+          "url": "https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179669,
+      "name": "LENTIGGINI",
+      "url": "https://open.spotify.com/track/1YXR6Fvqz6rRnZYStqVHNJ"
     },
     {
       "album": {
@@ -5410,7 +5464,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -5760,6 +5814,28 @@
       "duration_ms": 183333,
       "name": "Poesie Clandestine",
       "url": "https://open.spotify.com/track/730yruXTNk2KvXdbCNzXpR"
+    },
+    {
+      "album": {
+        "name": "NAKAMURA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mDzfXMbzkTaXBfAviurbl"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Pookie (feat. Capo Plaza) - Remix",
+      "url": "https://open.spotify.com/track/6h5nbfvIJHRNH3oGrNWJwn"
     },
     {
       "album": {
@@ -7476,7 +7552,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 286528,
       "name": "Una bara per due",
       "url": "https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW"

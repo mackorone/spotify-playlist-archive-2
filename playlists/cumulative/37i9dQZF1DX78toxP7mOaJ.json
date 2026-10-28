@@ -538,7 +538,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 228000,
       "name": "480p",
       "url": "https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ"
@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 263160,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/2XrIGDr941m9w6WCUUz6oy"
@@ -2462,6 +2462,24 @@
       "duration_ms": 182500,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/3A5aS28dQBFswox9AefLSX"
+    },
+    {
+      "album": {
+        "name": "Man or Myth / Aquarium",
+        "url": "https://open.spotify.com/album/3fefETJLswgcB4prPInzEW"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158894,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/5GmgeEqXJHpxE5QwHHLqCl"
     },
     {
       "album": {
@@ -12243,6 +12261,24 @@
     },
     {
       "album": {
+        "name": "DSD",
+        "url": "https://open.spotify.com/album/4CoDtnicWVA8FbbEhkc1OF"
+      },
+      "artists": [
+        {
+          "name": "Porcelain",
+          "url": "https://open.spotify.com/artist/4PUPdR1u1N18esUCWLGYxW"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "DSD",
+      "url": "https://open.spotify.com/track/5Cxc5v4G9FzuVrvA3qYlsw"
+    },
+    {
+      "album": {
         "name": "Dull Customer",
         "url": "https://open.spotify.com/album/4hVZeVO1WzHGagpsdQ2i3B"
       },
@@ -16567,6 +16603,24 @@
     },
     {
       "album": {
+        "name": "Gotta Run",
+        "url": "https://open.spotify.com/album/5XENy5Tn7T3ZO5WAOkHEj3"
+      },
+      "artists": [
+        {
+          "name": "SMILE",
+          "url": "https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207755,
+      "name": "Gotta Run",
+      "url": "https://open.spotify.com/track/7sqXiIwXi9rXOo0RFQBV5i"
+    },
+    {
+      "album": {
         "name": "Veil",
         "url": "https://open.spotify.com/album/2Z5puHgDOcrZhYlM7Nqb9X"
       },
@@ -17280,7 +17334,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 263560,
       "name": "Hatching",
       "url": "https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky"
@@ -26730,7 +26784,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 178045,
       "name": "My Rage",
       "url": "https://open.spotify.com/track/4eYMrUfD9DevQwdjFNm4YL"
@@ -27732,7 +27786,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 113066,
       "name": "No Threat",
       "url": "https://open.spotify.com/track/78isYn5iZ8kndTjX7X8Bmz"
@@ -28132,7 +28186,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 177532,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/0TD9zLvWImAZMbMaP132IW"
@@ -36546,7 +36600,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 187949,
       "name": "Stain",
       "url": "https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6"
@@ -37781,6 +37835,24 @@
     },
     {
       "album": {
+        "name": "Sweet Pill",
+        "url": "https://open.spotify.com/album/69inrUm1B0zI7nsE8VFfEB"
+      },
+      "artists": [
+        {
+          "name": "SPARE KID",
+          "url": "https://open.spotify.com/artist/4NvDNAvys1tHXGCtU2Cr20"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167388,
+      "name": "Sweet Pill",
+      "url": "https://open.spotify.com/track/2i1SlzXQKHm5HSJvo4RmSF"
+    },
+    {
+      "album": {
         "name": "Sweet Spot",
         "url": "https://open.spotify.com/album/6viagaceTb3j1WujffjlAa"
       },
@@ -38645,6 +38717,24 @@
     },
     {
       "album": {
+        "name": "Tell The Leaves Not To Turn",
+        "url": "https://open.spotify.com/album/10IpzfeJGY09tplI7vXUqW"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271590,
+      "name": "Tell The Leaves Not To Turn",
+      "url": "https://open.spotify.com/track/6hn3YfzZe35Y0MoAxJMNL9"
+    },
+    {
+      "album": {
         "name": "Let's Live a Life Better Than This",
         "url": "https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe"
       },
@@ -38934,6 +39024,24 @@
       "duration_ms": 166528,
       "name": "The Big E",
       "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
+    },
+    {
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/0MIQ0WgRxO5XC2Wx6mjgnj"
+      },
+      "artists": [
+        {
+          "name": "Prize Horse",
+          "url": "https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268667,
+      "name": "The Big Picture",
+      "url": "https://open.spotify.com/track/6RukTjbUEYVLlUt62JS0MG"
     },
     {
       "album": {
@@ -40216,6 +40324,24 @@
       "duration_ms": 249586,
       "name": "Three",
       "url": "https://open.spotify.com/track/0OA0NZPEUq8NTBXAU4FRw4"
+    },
+    {
+      "album": {
+        "name": "Pixel Perfect",
+        "url": "https://open.spotify.com/album/089LYSozybVqm2y4xM1K6s"
+      },
+      "artists": [
+        {
+          "name": "screenager",
+          "url": "https://open.spotify.com/artist/3vQXYDaFWwgeB8T0TukoRP"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Three of Me",
+      "url": "https://open.spotify.com/track/1YqDC0S98cM9YmoRwVPF2w"
     },
     {
       "album": {
@@ -44870,6 +44996,24 @@
     {
       "album": {
         "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+        "url": "https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+      "url": "https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD"
+    },
+    {
+      "album": {
+        "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
         "url": "https://open.spotify.com/album/20a26ZApAzEfDfmIOCCsa6"
       },
       "artists": [
@@ -44880,7 +45024,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 186803,
       "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
       "url": "https://open.spotify.com/track/22wCJHuwjBIBgUBF5sFDCH"

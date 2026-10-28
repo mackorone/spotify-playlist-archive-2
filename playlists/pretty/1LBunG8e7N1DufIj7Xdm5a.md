@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,999 songs - 11 day 7 hr 25 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,001 songs - 11 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4538,7 +4538,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4528 | [Mirrors](https://open.spotify.com/track/7v5DOwsOWG6cf8hk9Mw8KH) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Mirrors](https://open.spotify.com/album/3Oq2PLLDnEFGIwzkMW43w2) | 4:47 |
 | 4529 | [Dil Banjara](https://open.spotify.com/track/13b7r0ioPRxL8D1QCdfo0C) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Banjara](https://open.spotify.com/album/1wiGzAI2FYVNW07Ur8DU9b) | 3:26 |
 | 4530 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 |
-| 4531 | [God's Englishman](https://open.spotify.com/track/1w7zrLqJafMrDIcRRQ8cJt) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [God's Englishman](https://open.spotify.com/album/2Grhxbd8aiYs1T2Lj7HIoe) | 3:41 |
+| 4531 | [God's Englishman](https://open.spotify.com/track/1w7zrLqJafMrDIcRRQ8cJt) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [God's Englishman](https://open.spotify.com/album/2Grhxbd8aiYs1T2Lj7HIoe) | 3:27 |
 | 4532 | [Coming Alive](https://open.spotify.com/track/1BlAD4WwEs6zNx2fkhp2O6) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Coming Alive](https://open.spotify.com/album/3m87sHp8KkCCRJSXJIcLAe) | 3:13 |
 | 4533 | [KosmoX](https://open.spotify.com/track/2aAvcHW1JVydWSFmhjjyK7) | [Baïki](https://open.spotify.com/artist/6DlGStNJwKhJuqs0TXiDHB) | [KosmoX](https://open.spotify.com/album/4B6Ni6w8HDcSY1PGuxSQXw) | 3:29 |
 | 4534 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 |
@@ -5007,5 +5007,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4997 | [Sunset In My Mind](https://open.spotify.com/track/7H7DIasXCn4KnZSXFUdTms) | [Jeffro Bean](https://open.spotify.com/artist/3m7gofjm9zfgc8U0dBa1Ok), [Dave Shaver](https://open.spotify.com/artist/087jzzfUlxQXAXRAgbr3c4) | [Sunset In My Mind](https://open.spotify.com/album/7roKCps2zTXEyDGOICUW4a) | 4:25 |
 | 4998 | [Sigma Fortress 1 Mega Man X \- Vocal Version](https://open.spotify.com/track/6QYFN2WW5u5MDsJJ727l5Y) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Sigma Fortress 1 Mega Man X \(Vocal Version\)](https://open.spotify.com/album/5Ln0V5gIBNp71ROTXhuEXG) | 4:10 |
 | 4999 | [Única](https://open.spotify.com/track/3QkToPJWfDhqbnNwlvVgo9) | [Billie Biga](https://open.spotify.com/artist/0C1QgILnumDpTCcwKJ0xS2) | [...O De Ángel?](https://open.spotify.com/album/2yqc6lH2F5Wq9gBDd0WnYj) | 3:52 |
+| 5000 | [We Are One](https://open.spotify.com/track/5EJArM3d1zEcaRulcMKBhm) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [We Are One](https://open.spotify.com/album/6ugBw0ebik6icjDzr9nCzm) | 6:05 |
+| 5001 | [The Garden \(Acoustic\)](https://open.spotify.com/track/5mfhbzVu9X6bRpldnGbmoj) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [The Garden \(Acoustic\)](https://open.spotify.com/album/5VT4Vw4PHu3Pv9GtpZfdZI) | 2:28 |
 
-Snapshot ID: `AAAKz4e7WR2SB7yOA3P7+x7lZI9foIUD`
+Snapshot ID: `AAAK0f6M6qKN6fGXy2IpnxeZ2WzKma++`

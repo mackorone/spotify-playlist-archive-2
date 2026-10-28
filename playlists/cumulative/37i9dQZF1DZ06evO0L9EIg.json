@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Verity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291100,
+      "name": "Ending Credits - Verity",
+      "url": "https://open.spotify.com/track/7gzy3e63rp8oYxDv9q57wZ"
+    },
+    {
+      "album": {
         "name": "Pressure (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 82786,
       "name": "People Like Me",
       "url": "https://open.spotify.com/track/7zJ24Cx5eXuVgwcka3eXQC"
@@ -856,6 +874,24 @@
       "duration_ms": 44710,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/1UWqnymbM1e8dBPMFkJfM8"
+    },
+    {
+      "album": {
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90426,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2N4K2S8fIRE6dljPK43cCc"
     },
     {
       "album": {

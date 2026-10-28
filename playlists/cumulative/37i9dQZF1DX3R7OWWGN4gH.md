@@ -4,7 +4,7 @@
 
 > entering my reputation era
 
-324 songs - 17 hr 45 min
+325 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 | 2022-01-27 | 2025-06-30 |
 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 | 2022-01-27 | 2022-02-19 |
 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 | 2022-01-27 |  |
-| [Bite Back](https://open.spotify.com/track/6ybNNGb5PdHL31Fg0KNjrB) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Bite Back](https://open.spotify.com/album/3iglOihc41S44Q82EXv5d8) | 3:09 | 2026-06-21 |  |
+| [Bite Back](https://open.spotify.com/track/6ybNNGb5PdHL31Fg0KNjrB) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Bite Back](https://open.spotify.com/album/3iglOihc41S44Q82EXv5d8) | 3:09 | 2026-06-21 | 2026-10-28 |
 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 | 2024-01-05 | 2024-02-23 |
 | [Black Sheep](https://open.spotify.com/track/72hSmnleYTiiOo23q8ZJIS) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Black Sheep](https://open.spotify.com/album/69BagWbfHgbO9uxjfVYcux) | 4:57 | 2022-01-27 |  |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-11 | 2022-11-14 |
@@ -309,6 +309,7 @@
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-21 |  |
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2022-08-14 | 2023-11-16 |
 | [VILLAIN](https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb) | 3:19 | 2022-01-27 | 2025-10-19 |
+| [Villains Aren't Born \(They're Made\)](https://open.spotify.com/track/1vhcao02NoMFt9NjMMZhut) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [Villains Aren't Born \(They're Made\)](https://open.spotify.com/album/3U6vePfFaF7pUm75tDJ4IS) | 3:14 | 2026-10-27 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2024-02-19 |  |
 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-03-22 | 2024-01-11 |
 | [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-03-11 | 2023-06-13 |

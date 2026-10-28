@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-916 songs - 1 day 21 hr 34 min
+918 songs - 1 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-04-28 |
 | [HYPNOTIZED!](https://open.spotify.com/track/7MMxOrBVWEwOOwCfoNbISt) | [noaa!](https://open.spotify.com/artist/2wsxJN6r2WeTwSpDqeH4ag) | [HYPNOTIZED!](https://open.spotify.com/album/6oPFiptQy6LxKWj8JTC3MI) | 2:22 | 2025-12-19 |  |
 | [I Can Feel](https://open.spotify.com/track/1rGIVlrTnTImDk9wRV0x9x) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Can Feel](https://open.spotify.com/album/2R2FlnXX3CxcK6fb2waAdn) | 2:28 | 2024-12-12 |  |
+| [i can hear you](https://open.spotify.com/track/27FHQw5a7N5pcG4Q85yOxo) | [LLow](https://open.spotify.com/artist/4zwj4Z93k8LjJMwaCw5EDh) | [i can hear you](https://open.spotify.com/album/4LmK2GVqKRicEv7qaDnmki) | 2:26 | 2026-10-27 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/3rkViZW8u35YjiKR3NV3Pb) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [I Don't Wanna Know](https://open.spotify.com/album/0mUbrbUetoIgyeW43jpihp) | 2:45 | 2023-06-27 | 2023-08-10 |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-04-28 |
 | [I Like It With You](https://open.spotify.com/track/5P8vqkiF7Wek3iPOVJmqr0) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [I Like It With You](https://open.spotify.com/album/6Zgev7ySrbUwKAqL10ofNV) | 2:55 | 2024-01-12 | 2024-07-19 |
@@ -628,6 +629,7 @@
 | [Paper Walls](https://open.spotify.com/track/55RkSrohK0n8gI4DEwZbRV) | [Elliot Kings](https://open.spotify.com/artist/79ouDRepsDjwqL2ykIpoTm), [Riggs](https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj), [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Paper Walls](https://open.spotify.com/album/5CCgQ6komBkLrELk7xknR9) | 2:46 | 2023-04-11 | 2023-08-10 |
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 | 2023-08-10 |
 | [paradise](https://open.spotify.com/track/3Am5nkSILnXq8LXq8dUQG6) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ), [Ntsika](https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN) | [paradise](https://open.spotify.com/album/6I0s3voMRDUIpVHjGAP6dU) | 2:31 | 2023-07-27 | 2023-08-10 |
+| [Paranormal](https://open.spotify.com/track/1rVTqykzrgXV6xCY1slhTL) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Paranormal](https://open.spotify.com/album/14C33CaR2qT3MQdNNrbDB9) | 2:40 | 2026-10-27 |  |
 | [Party](https://open.spotify.com/track/4FULPITIQbUrszR2lZsoZZ) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Party](https://open.spotify.com/album/3y4HtUHYYXZ4wdI2OHxABQ) | 3:12 | 2022-12-21 | 2023-04-28 |
 | [Party Pioneers](https://open.spotify.com/track/0Eo0MIkZfcAXH5CxdQRu0T) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Party Pioneers](https://open.spotify.com/album/0D5WmshtT8GzuX5CKhs4RV) | 2:40 | 2024-09-13 |  |
 | [passport](https://open.spotify.com/track/1EmzxMOpIjCbEqd0hhTAba) | [Sean Pitaro](https://open.spotify.com/artist/70Jj7g4luHdokdNJXizH0W) | [passport](https://open.spotify.com/album/1LkDpUI9rPfVsiDxbiGKMC) | 3:23 | 2026-01-27 |  |

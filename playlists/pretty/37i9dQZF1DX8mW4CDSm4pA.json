@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 6487,
+  "num_followers": 6489,
   "original_name": "Dominique Fishback's Taste",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 299093,
-      "name": "Ye Yo - Live",
-      "url": "https://open.spotify.com/track/7DChMyOPgTlDTZKe5oYXn9"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "NINA REVISITED: A Tribute to Nina Simone",
         "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 399531,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 299093,
+      "name": "Ye Yo - Live",
+      "url": "https://open.spotify.com/track/7DChMyOPgTlDTZKe5oYXn9"
     },
     {
       "added_at": "2023-06-01 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 22241,
+  "num_followers": 22245,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -557,26 +557,6 @@
       "url": "https://open.spotify.com/track/4aBITS0tTpnPkCjH5dVgPI"
     },
     {
-      "added_at": "2026-07-17 00:01:08",
-      "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
-      },
-      "artists": [
-        {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
-        },
-        {
-          "name": "Ugoaelo",
-          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
-        }
-      ],
-      "duration_ms": 173153,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
-    },
-    {
       "added_at": "2026-05-08 00:01:38",
       "album": {
         "name": "Count",
@@ -595,6 +575,26 @@
       "duration_ms": 264000,
       "name": "Count",
       "url": "https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC"
+    },
+    {
+      "added_at": "2026-07-17 00:01:08",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        },
+        {
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+        }
+      ],
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
     },
     {
       "added_at": "2025-03-14 00:01:27",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
     },
     {
-      "added_at": "2026-04-03 00:01:46",
-      "album": {
-        "name": "Yeshua!",
-        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 220766,
-      "name": "Yeshua!",
-      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
-    },
-    {
       "added_at": "2026-05-22 00:01:37",
       "album": {
         "name": "ABBA FATHER (raw)",
@@ -1019,6 +1003,22 @@
       "duration_ms": 227000,
       "name": "Oruko",
       "url": "https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf"
+    },
+    {
+      "added_at": "2026-04-03 00:01:46",
+      "album": {
+        "name": "Yeshua!",
+        "url": "https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 220766,
+      "name": "Yeshua!",
+      "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1077,6 +1077,42 @@
       "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
+      "added_at": "2026-10-16 00:01:42",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
+      },
+      "artists": [
+        {
+          "name": "Eno Michael",
+          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 291235,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
+    },
+    {
+      "added_at": "2026-08-14 00:01:28",
+      "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 442538,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
+    },
+    {
       "added_at": "2026-10-02 00:01:17",
       "album": {
         "name": "When I Walk (Psalm 23) [World Version]",
@@ -1097,22 +1133,6 @@
       "url": "https://open.spotify.com/track/5qN1eGLDxoLPxp2TQGDGmA"
     },
     {
-      "added_at": "2026-08-14 00:01:28",
-      "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 442538,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
-    },
-    {
       "added_at": "2026-07-24 00:01:56",
       "album": {
         "name": "What A Life",
@@ -1129,24 +1149,24 @@
       "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
-      "added_at": "2026-10-16 00:01:42",
+      "added_at": "2026-03-27 00:01:13",
       "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF"
+        "name": "Yeshua (The Summary Of My Life)",
+        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
       },
       "artists": [
         {
-          "name": "Eno Michael",
-          "url": "https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         },
         {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
         }
       ],
-      "duration_ms": 291235,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33"
+      "duration_ms": 204036,
+      "name": "Impossibility Shatterer",
+      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
     },
     {
       "added_at": "2025-12-05 00:01:10",
@@ -1189,6 +1209,22 @@
       "url": "https://open.spotify.com/track/5lDKruQKhkjGja9ih7APbM"
     },
     {
+      "added_at": "2026-06-26 00:01:41",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
+    },
+    {
       "added_at": "2026-10-09 00:01:36",
       "album": {
         "name": "Soji",
@@ -1209,58 +1245,6 @@
       "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
     },
     {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Breakthrough",
-      "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
-    },
-    {
-      "added_at": "2026-03-27 00:01:13",
-      "album": {
-        "name": "Yeshua (The Summary Of My Life)",
-        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 204036,
-      "name": "Impossibility Shatterer",
-      "url": "https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P"
-    },
-    {
-      "added_at": "2026-08-28 00:01:38",
-      "album": {
-        "name": "how can it be?",
-        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "how can it be?",
-      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
-    },
-    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Ifunanya",
@@ -1279,6 +1263,22 @@
       "duration_ms": 314013,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
+    },
+    {
+      "added_at": "2026-08-28 00:01:38",
+      "album": {
+        "name": "how can it be?",
+        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "how can it be?",
+      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
       "added_at": "2026-07-17 00:01:08",
@@ -1437,6 +1437,22 @@
       "url": "https://open.spotify.com/track/7AAVNwpxVjSysgKs0St8bX"
     },
     {
+      "added_at": "2026-07-10 00:01:15",
+      "album": {
+        "name": "K'OSENI",
+        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
+      },
+      "artists": [
+        {
+          "name": "Teninlanimi",
+          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "K'OSENI",
+      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
+    },
+    {
       "added_at": "2025-11-07 00:01:42",
       "album": {
         "name": "Tomorrow",
@@ -1455,22 +1471,6 @@
       "duration_ms": 193422,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay"
-    },
-    {
-      "added_at": "2026-07-10 00:01:15",
-      "album": {
-        "name": "K'OSENI",
-        "url": "https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq"
-      },
-      "artists": [
-        {
-          "name": "Teninlanimi",
-          "url": "https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "K'OSENI",
-      "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
       "added_at": "2026-06-26 00:01:41",

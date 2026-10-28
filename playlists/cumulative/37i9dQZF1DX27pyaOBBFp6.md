@@ -4,7 +4,7 @@
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-93 songs - 4 hr 41 min
+94 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,9 +81,10 @@
 | [Soerabaja](https://open.spotify.com/track/6WgIBSj3JIImcRurWWt63T) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:28 | 2024-07-19 |  |
 | [Spel Kaarten](https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 4:23 | 2024-07-19 |  |
 | [Spiegelbeeld](https://open.spotify.com/track/0dQB5T7YTLhS0jI41u92hP) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 2:27 | 2024-07-19 |  |
-| [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 | 2024-07-19 |  |
+| [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 | 2024-07-19 | 2026-10-28 |
 | [Swiebertje](https://open.spotify.com/track/6ffETXUkqnGug5hev2G765) | [Joop Doderer](https://open.spotify.com/artist/0mhSQKh1eYKzS0c92nyAYW), [De Damrakkertjes](https://open.spotify.com/artist/46LhiP5SPeewnIAcb4pTkg) | [Televisie\-Vriendjes](https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV) | 2:39 | 2024-07-19 |  |
 | [Tachtig Rode Rozen](https://open.spotify.com/track/7loJOA8d0eXsIsKr2xXBWX) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi) | [Hollands Glorie](https://open.spotify.com/album/3XDzNzyKKI4VnFt1HmU81F) | 2:26 | 2024-07-19 |  |
+| [Tango bleu](https://open.spotify.com/track/0eOiH3LstB5U0QfJrOkuuk) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1967](https://open.spotify.com/album/32UDEV8bgjXTIqJumuODJD) | 3:25 | 2024-07-19 |  |
 | [Tearoom\-Tango](https://open.spotify.com/track/3vJRgNNPQlhFzD4PWhIY45) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:15 | 2024-07-19 |  |
 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 | 2024-07-19 |  |
 | [Testament](https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Voor De Overlevenden](https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y) | 3:15 | 2024-07-19 |  |

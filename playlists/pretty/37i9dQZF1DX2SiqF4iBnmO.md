@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,237 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,275 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 44 | [Remote Control](https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr) | [Sweet And Short](https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf) | 5:03 |
 | 45 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 |
 | 46 | [How Much Can You Take?](https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT) | [M.C\. A.D.E.](https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT) | [How Much Can You Take](https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu) | 3:22 |
-| 47 | [Don't Stop the Rock](https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q) | [Freestyle](https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg) | [Don't Stop the Rock](https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z) | 5:28 |
-| 48 | [Sanctified Lady](https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Dream Of A Lifetime](https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf) | 5:25 |
+| 47 | [Sanctified Lady](https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Dream Of A Lifetime](https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf) | 5:25 |
+| 48 | [Don't Stop the Rock](https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q) | [Freestyle](https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg) | [Don't Stop the Rock](https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z) | 5:28 |
 | 49 | [Boyz\-N\-The\-Hood \- Remastered 2002](https://open.spotify.com/track/3MOaCYx0basuKRolaLeYlM) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Eternal E: Gangsta Memorial Edition](https://open.spotify.com/album/6IoHB4CnCpbZBowrf1qySr) | 6:18 |
 | 50 | [Rock the Box](https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Rock the Box](https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem) | 5:00 |
 

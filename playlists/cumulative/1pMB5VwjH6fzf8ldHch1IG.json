@@ -15183,6 +15183,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW"
+    },
+    {
+      "album": {
         "name": "Into Gold",
         "url": "https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW"
       },

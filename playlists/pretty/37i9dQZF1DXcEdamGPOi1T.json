@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20869,
+  "num_followers": 20867,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
         }
       ],
-      "duration_ms": 145520,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -543,22 +547,34 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
+      "duration_ms": 145520,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -579,22 +595,6 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "WOR$T GIRL IN AMERICA",
-        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 287055,
-      "name": "DANCE...",
-      "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "Milano",
         "url": "https://open.spotify.com/album/6bBAtP09YBrPUH05JPNFYC"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 156234,
       "name": "Milano",
       "url": "https://open.spotify.com/track/6WT1AWBgI6DYbmkiWjfO8Q"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Paysage",
-        "url": "https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ"
-      },
-      "artists": [
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Paysage",
-      "url": "https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 176026,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Paysage",
+        "url": "https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Paysage",
+      "url": "https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Last Girls At The Party",
-        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "Last Girls At The Party",
-      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Paradigmes",
         "url": "https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 233706,
       "name": "Nouvelle-Orl\u00e9ans",
       "url": "https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Last Girls At The Party",
+        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "Last Girls At The Party",
+      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "BOBO (feat. Maud Elka)",
         "url": "https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 168311,
       "name": "BOBO (feat. Maud Elka)",
       "url": "https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2026-08-28 04:03:37",

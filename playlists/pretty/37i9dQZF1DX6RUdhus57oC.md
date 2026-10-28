@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,104 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,111 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 45 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 |
 | 46 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
 | 47 | [I'll Meet You On The Clouds \- World Sleep Day Mix](https://open.spotify.com/track/2BeCRQKSIv9ilQrbl9GiMk) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [I’ll Meet You On The Clouds \(World Sleep Day Mix\)](https://open.spotify.com/album/5RxljAzNOU50KsHOpVmC93) | 3:12 |
-| 48 | [L'hiver](https://open.spotify.com/track/7aK6ta2RLhGEvgWpseGXMY) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [L'hiver](https://open.spotify.com/album/0tFUWmFQoy6ATytDer3V66) | 1:41 |
-| 49 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
+| 48 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 |
+| 49 | [L'hiver](https://open.spotify.com/track/7aK6ta2RLhGEvgWpseGXMY) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [L'hiver](https://open.spotify.com/album/0tFUWmFQoy6ATytDer3V66) | 1:41 |
 | 50 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
 | 51 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
 | 52 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 83 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 |
 | 84 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
 | 85 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 |
-| 86 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
-| 87 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 |
-| 88 | [Warm](https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Warm](https://open.spotify.com/album/2FcAyZf7Ack86ExG4yMh23) | 3:32 |
-| 89 | [Your Breathing Sounds Like a Wave](https://open.spotify.com/track/2KmoTSrMgQDI8UIffLTmvj) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Your Breathing Sounds Like a Wave](https://open.spotify.com/album/64Vv3PkNZ8GHwwJ4sEVcAO) | 3:00 |
+| 86 | [Your Breathing Sounds Like a Wave](https://open.spotify.com/track/2KmoTSrMgQDI8UIffLTmvj) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Your Breathing Sounds Like a Wave](https://open.spotify.com/album/64Vv3PkNZ8GHwwJ4sEVcAO) | 3:00 |
+| 87 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
+| 88 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 |
+| 89 | [Warm](https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Warm](https://open.spotify.com/album/2FcAyZf7Ack86ExG4yMh23) | 3:32 |
 | 90 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 |
 | 91 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 |
 | 92 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 |

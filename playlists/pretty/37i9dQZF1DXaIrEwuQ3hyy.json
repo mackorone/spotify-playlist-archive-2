@@ -1,6 +1,6 @@
 {
   "description": "lass mal den herbst romantisieren",
-  "num_followers": 1107619,
+  "num_followers": 1107790,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Take Me There",
         "url": "https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 202626,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "M\u00e4rchenwald",
-        "url": "https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "M\u00e4rchenwald",
-      "url": "https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Felice County Fair (A Celebration of The Felice Brothers)",
         "url": "https://open.spotify.com/album/3KzKglgUmogktIg1YLo82f"
       },
@@ -887,18 +867,22 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "light up",
-        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
+        "name": "M\u00e4rchenwald",
+        "url": "https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz"
       },
       "artists": [
         {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
         }
       ],
-      "duration_ms": 215930,
-      "name": "light up",
-      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
+      "duration_ms": 183012,
+      "name": "M\u00e4rchenwald",
+      "url": "https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -919,22 +903,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 189519,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "light up",
+        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "light up",
+      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 189519,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Prolog I",
         "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 258505,
       "name": "All Again",
       "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "yeux",
-        "url": "https://open.spotify.com/album/1ja7qbLp6qqJ9bLV53y1Xu"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "yeux",
-      "url": "https://open.spotify.com/track/56NELDrF23ZQnKzMxgxj6j"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "yeux",
+        "url": "https://open.spotify.com/album/1ja7qbLp6qqJ9bLV53y1Xu"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "yeux",
+      "url": "https://open.spotify.com/track/56NELDrF23ZQnKzMxgxj6j"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "I Was Stone",
-        "url": "https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 226147,
-      "name": "I Was Stone",
-      "url": "https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "Am Ende des Tages",
         "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 195000,
       "name": "Bisschen wach",
       "url": "https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "I Was Stone",
+        "url": "https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 226147,
+      "name": "I Was Stone",
+      "url": "https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "everything in between",
-        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 213450,
-      "name": "seven days a week",
-      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "Irish Eyes",
+        "url": "https://open.spotify.com/album/6wNwp3iSMstG1TjpTQLbAq"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "duration_ms": 153798,
+      "name": "Irish Eyes - Cover",
+      "url": "https://open.spotify.com/track/7f22CM18praOPpgvbiMAgY"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Irish Eyes",
-        "url": "https://open.spotify.com/album/6wNwp3iSMstG1TjpTQLbAq"
+        "name": "everything in between",
+        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
       },
       "artists": [
         {
-          "name": "Isabel Dumaa",
-          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 153798,
-      "name": "Irish Eyes - Cover",
-      "url": "https://open.spotify.com/track/7f22CM18praOPpgvbiMAgY"
+      "duration_ms": 213450,
+      "name": "seven days a week",
+      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1503,22 +1503,6 @@
       "duration_ms": 161787,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 267100,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
-        "name": "little birds",
-        "url": "https://open.spotify.com/album/0JnjycdHRdRMif2s6S8Tt5"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        },
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "little birds",
-      "url": "https://open.spotify.com/track/0cDj3T0iQskHL7NEHM4JAK"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1615,22 +1595,6 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "WORRY.",
-        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 243282,
-      "name": "WORRY.",
-      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
-    },
-    {
-      "added_at": "2026-10-22 22:00:20",
-      "album": {
         "name": "mein n\u00e4chstes leben",
         "url": "https://open.spotify.com/album/038Xy3LCSMYbCQcITgjSaa"
       },
@@ -1643,6 +1607,42 @@
       "duration_ms": 182874,
       "name": "mein n\u00e4chstes leben",
       "url": "https://open.spotify.com/track/6atEiNS1RXIIEfWYntlE7T"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "little birds",
+        "url": "https://open.spotify.com/album/0JnjycdHRdRMif2s6S8Tt5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "little birds",
+      "url": "https://open.spotify.com/track/0cDj3T0iQskHL7NEHM4JAK"
+    },
+    {
+      "added_at": "2026-10-22 22:00:20",
+      "album": {
+        "name": "WORRY.",
+        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 243282,
+      "name": "WORRY.",
+      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
     },
     {
       "added_at": "2026-10-22 22:00:20",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-10-22 22:00:20",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "Jacob Leo",
+          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
         }
       ],
-      "duration_ms": 285240,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
+      "duration_ms": 156500,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
     }
   ],
   "unique_name": "Herbst Chillout",

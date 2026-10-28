@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,573 likes - 48 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,586 likes - 48 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 42 | [Esto Avanza](https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:23 |
 | 43 | [NO TE ENAMORES DE NADIE](https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 3:09 |
 | 44 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 |
-| 45 | [NOCHE NEGRA](https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:53 |
+| 45 | [Niña Fresa](https://open.spotify.com/track/0DyL06mzg7WZrklk9z4WtH) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Niña Fresa](https://open.spotify.com/album/39Se4E53Lw1bQBFc2EW6e9) | 2:30 |
 | 46 | [48 Horas](https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:21 |
 | 47 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
-| 48 | [Niña Fresa](https://open.spotify.com/track/0DyL06mzg7WZrklk9z4WtH) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Niña Fresa](https://open.spotify.com/album/39Se4E53Lw1bQBFc2EW6e9) | 2:30 |
+| 48 | [NOCHE NEGRA](https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:53 |
 
-Snapshot ID: `atv1AAAAAACYedjDiBzVP/Ym8U3AP+JQ`
+Snapshot ID: `at1GgAAAAADKSzDk58CxBGhBNo2R/rLX`

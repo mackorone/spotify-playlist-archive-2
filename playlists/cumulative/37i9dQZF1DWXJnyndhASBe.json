@@ -20521,6 +20521,24 @@
     },
     {
       "album": {
+        "name": "Powiedz To",
+        "url": "https://open.spotify.com/album/101DVZzw8zmWQnPyUsDv39"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92273,
+      "name": "Powiedz To",
+      "url": "https://open.spotify.com/track/5yiFrvo6ivcgyVamCQ6nmy"
+    },
+    {
+      "album": {
         "name": "Powiedz ziomalom, \u017ce id\u0119",
         "url": "https://open.spotify.com/album/7r6k9q8fSwg0G3XUVQZmiE"
       },
@@ -21664,7 +21682,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 214000,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/3Elnl9QQlyYCUsw7ECQnKs"

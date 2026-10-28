@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Jada Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,256 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,340 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 49 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
 | 50 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 51 | [Gal Yuh Body Hot](https://open.spotify.com/track/2jPlPtYwsBM3RUZDI530E8) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Gal Yuh Body Hot](https://open.spotify.com/album/5P7oFZBpqVZf2sZPyKYksL) | 3:46 |
-| 52 | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo) | [Krishane](https://open.spotify.com/artist/1HUUKt5Ms3fG0VO6JJGicO), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK) | 3:20 |
-| 53 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
+| 52 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
+| 53 | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo) | [Krishane](https://open.spotify.com/artist/1HUUKt5Ms3fG0VO6JJGicO), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK) | 3:20 |
 | 54 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 |
 | 55 | [Gangster Love](https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Gangster Love](https://open.spotify.com/album/1uUWqM3BSmNSUoM6FZtAcN) | 2:11 |
 | 56 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |

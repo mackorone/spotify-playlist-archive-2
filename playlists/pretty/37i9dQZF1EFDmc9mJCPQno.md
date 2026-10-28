@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 54 | [California Sober](https://open.spotify.com/track/2s3sP2qBIm1w9e4wce7BE8) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:05 |
 | 55 | [PODIUM](https://open.spotify.com/track/12aAlKHVh1qtNhQX9LXgsO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/4U51tzPNoD4y6BrOuLKsd8) | 3:01 |
 | 56 | [Eve, Psyche & the Bluebeard’s wife \- Rina Sawayama Remix](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 |
-| 57 | [Let It Ring](https://open.spotify.com/track/39RQAEuPs04z9wCFnMBuA7) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Let It Ring](https://open.spotify.com/album/3euSNVHfekPRn3aeG2r1Up) | 2:48 |
-| 58 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
+| 57 | [Hope Is a Scary Thing](https://open.spotify.com/track/2Pn8rE4he6Knz53X3RS896) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 2:48 |
+| 58 | [Let It Ring](https://open.spotify.com/track/39RQAEuPs04z9wCFnMBuA7) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Let It Ring](https://open.spotify.com/album/3euSNVHfekPRn3aeG2r1Up) | 2:48 |
 | 59 | [Salvation](https://open.spotify.com/track/38bCx6AbjjduaSVlgIwKZP) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:20 |
 | 60 | [Fireworks](https://open.spotify.com/track/1UQDjhNSUJq1Qt02fdXzN3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:00 |
 | 61 | [Dreams](https://open.spotify.com/track/6qV4tSoKUstKvDUunRP8rJ) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/6TrJSxKjdKynXNEwt42PbF) | 3:14 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 135 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 136 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcgAuAAAAADDH7M/O29qz6xY/YM9/KMR`
+Snapshot ID: `AcgGWAAAAAC5GY51FdbkAn1axRcMrdgv`

@@ -4,7 +4,7 @@
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-89 songs - 4 hr 32 min
+90 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [JURU](https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [JURU](https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE) | 3:08 | 2026-09-25 |  |
 | [Kaay Waay](https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b) | [VJ](https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao) | [DM](https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe) | 3:03 | 2026-06-26 |  |
 | [Katana \(feat\. Jungeli\)](https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Emma'a](https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w) | 2:04 | 2026-06-26 |  |
-| [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 | 2026-06-26 |  |
+| [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 | 2026-06-26 | 2026-10-28 |
 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 | 2026-06-26 |  |
 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 | 2026-06-26 |  |
 | [Libérer Pij](https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD) | [JP N'DA](https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d) | [Libérer Pij](https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5) | 2:14 | 2026-10-23 |  |
@@ -83,6 +83,7 @@
 | [SAGACITÉ](https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [CONCRÉTISATION : L'ASCENSION](https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG) | 2:57 | 2026-06-26 | 2026-08-31 |
 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 | 2026-06-26 |  |
 | [SL](https://open.spotify.com/track/7rKlN5VfDQ54sM4mHPTg6P) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 7:28 | 2026-06-26 |  |
+| [So Badd](https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [So Badd](https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6) | 2:29 | 2026-10-23 |  |
 | [SO MAWA \(feat\. Mauvais djo\)](https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [JEUNE&INNOCENT](https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki) | 3:25 | 2026-06-26 |  |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2026-06-26 |  |
 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 | 2026-06-26 |  |

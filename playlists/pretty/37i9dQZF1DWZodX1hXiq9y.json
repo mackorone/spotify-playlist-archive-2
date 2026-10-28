@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 141578,
+  "num_followers": 141606,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Saxophone Colossus",
-        "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 406266,
-      "name": "St. Thomas",
-      "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Blues Walk",
         "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 403200,
       "name": "Blues Walk",
       "url": "https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Saxophone Colossus",
+        "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 406266,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 327773,
       "name": "You'd Be So Nice to Come Home To",
       "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 435440,
+      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 302666,
       "name": "Rosita",
       "url": "https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 435440,
-      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "The Shape Of Jazz To Come",
+        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 544826,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "The Shape Of Jazz To Come",
-        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 544826,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+        "name": "New Time, New 'Tet",
+        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 495373,
-      "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
+      "duration_ms": 453133,
+      "name": "From Dream to Dream",
+      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "New Time, New 'Tet",
-        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 453133,
-      "name": "From Dream to Dream",
-      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
+      "duration_ms": 495373,
+      "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 417306,
-      "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 184280,
       "name": "A Flower Is A Lovesome Thing",
       "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 417306,
+      "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Opus De Funk",
-      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 454720,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Opus De Funk",
+      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 376400,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
-        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 336680,
       "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
+        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 286266,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Complete Prestige Recordings",
-        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 641733,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Complete Prestige Recordings",
+        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 641733,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Escaping Shadows",
+        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
+      },
+      "artists": [
+        {
+          "name": "Benny Reid",
+          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "New Days",
+      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "The Sirens",
         "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 187893,
       "name": "Blues In Pig Alley",
       "url": "https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Escaping Shadows",
-        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
-      },
-      "artists": [
-        {
-          "name": "Benny Reid",
-          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "New Days",
-      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-07-17 12:24:10",

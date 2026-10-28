@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,251 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,254 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 49 | [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 |
 | 50 | [Only God Knows Why](https://open.spotify.com/track/4oKdGZ4lgKm4euJghFrdzr) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Million Reasons](https://open.spotify.com/album/1bfjEyZsT3daZv9quo6XMo) | 3:44 |
 
-Snapshot ID: `atv1AAAAAAAviLia2yCWMA66OlvDHAdo`
+Snapshot ID: `at1GgAAAAACZcxAidBKKZGbgpw/Eh4x0`

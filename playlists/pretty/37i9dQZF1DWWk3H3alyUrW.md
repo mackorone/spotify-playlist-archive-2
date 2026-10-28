@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,499 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,498 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 45 | [Sazkar Peşrev](https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 5:34 |
 | 46 | [Şarkılar Söylüyorsan \(Nihavent Şarkı\)](https://open.spotify.com/track/4BEPW6QrhMA7FyKcMzuaW8) | [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 6:09 |
 | 47 | [Rast Ud Taksimi\-Başak Harmancı](https://open.spotify.com/track/2wVSkZnzZEfZhAtrx7STu2) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Ona Selam](https://open.spotify.com/album/6nSKMtfL7HZ1IVtDxHL5sM) | 1:30 |
-| 48 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
+| 48 | [Hüzzam Saz Semai](https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am) | [Ahmet Özhan](https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78) | [Ahmet Özhan](https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX) | 1:24 |
 | 49 | [Serenat \(Hicaz Medhal\)](https://open.spotify.com/track/4IkhBy75cKywj3mXbH9uig) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ), [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 3:41 |
-| 50 | [Hüzzam Saz Semai](https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am) | [Ahmet Özhan](https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78) | [Ahmet Özhan](https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX) | 1:24 |
+| 50 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
 
 Snapshot ID: `AAAAANhgajhrYhY6gUm4+xnXxH2He60C`

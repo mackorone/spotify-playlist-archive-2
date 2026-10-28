@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Mack Geiger, Dominic Fike, The Temper Trap, Kacey Musgraves + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,863 likes - 94 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,853 likes - 94 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 31 | [Back to Sydney](https://open.spotify.com/track/2rCTy5D432JQtZvkZVgkoL) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Back to Sydney](https://open.spotify.com/album/3MSliN07uvDugkD3hpxLfy) | 3:11 |
 | 32 | [The Calm](https://open.spotify.com/track/2rlSN15GgsHZ1oT5EdQSfk) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [The Calm](https://open.spotify.com/album/0hIUOteR2XPKT11weRpjh3) | 2:35 |
 | 33 | [Back To The Start](https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Levi Did It](https://open.spotify.com/album/0MyBDaWaPoZDIPPCjeL0au) | 3:12 |
-| 34 | [Circus](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Circus](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 |
+| 34 | [CIRCUS](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [CIRCUS](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 |
 | 35 | [Frog Technique](https://open.spotify.com/track/1AvaZrD67C2LSvQyvlb5en) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Frogs In A Pond](https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E) | 4:03 |
 | 36 | [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 |
 | 37 | [Afternote](https://open.spotify.com/track/6EUnIEBpHKi1wgSS2TITL6) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Afternote](https://open.spotify.com/album/0KkaorCY8g9n9upFwfZfdM) | 3:42 |

@@ -4,7 +4,7 @@
 
 > Switzerland's biggest hits right now\. Cover: ADÉLA
 
-436 songs - 21 hr 39 min
+437 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Maladie](https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM) | 3:12 | 2026-06-02 |  |
 | [Malli](https://open.spotify.com/track/1NYjQep1ow4ME8DFvQKxxB) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY) | [Malli](https://open.spotify.com/album/6WTnoVjvXZJfYsHbE6pb3v) | 2:46 | 2024-10-16 | 2025-02-05 |
 | [Malli](https://open.spotify.com/track/4jOcL6LbpfMF68rEVFZtPI) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Yll Limani](https://open.spotify.com/artist/2qI59HaiEtvev8vnUkmRpT) | [Vera Me Ty](https://open.spotify.com/album/1JqKwnQ0qVLumzlu45JmtB) | 3:27 | 2024-07-19 | 2025-05-16 |
+| [Mama \- Remix](https://open.spotify.com/track/69PI6qcKE6c90NCjPHHQnp) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Mama \(Remix\)](https://open.spotify.com/album/0oMeZ74j10HLRINkIijBmT) | 2:00 | 2026-10-27 |  |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-27 | 2026-06-03 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-13 | 2025-09-04 |
 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 | 2024-09-03 | 2024-10-23 |
@@ -280,7 +281,7 @@
 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-10-08 | 2026-08-26 |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-07 | 2025-10-29 |
 | [Obsesion](https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Obsesion](https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk) | 2:55 | 2024-11-19 | 2025-01-29 |
-| [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 | 2026-08-18 |  |
+| [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 | 2026-08-18 | 2026-10-28 |
 | [On Top](https://open.spotify.com/track/2ijjoGtVFIGmRytmkvufSp) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [On Top](https://open.spotify.com/album/2bmznCkXEHTuKyrwPbgs3i) | 2:46 | 2026-10-20 |  |
 | [ON/OFF](https://open.spotify.com/track/7rSYTSeitpCYIE5r22JJ5G) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW), [XEN](https://open.spotify.com/artist/1Yso012dk6JFCIGwvCxTBS) | [ON/OFF](https://open.spotify.com/album/1QvS3LmutrvORdWe19FWvY) | 2:18 | 2024-07-02 | 2024-08-08 |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-07-02 | 2024-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Leela Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,968 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,960 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Unholy Sigh](https://open.spotify.com/track/0hPnLSvCt3FWuniVuS1X6H) | [Nelleke](https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu) | [Unholy Sigh](https://open.spotify.com/album/1PecMc39JTlIBH5wdeb7PK) | 3:47 |
 | 100 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
 
-Snapshot ID: `AAAAADKgYEn46TE8bJbmL6eQ9TlNsX4c`
+Snapshot ID: `AAAAADJ/Jq9s13j3YIeR/aB573ySLaHJ`

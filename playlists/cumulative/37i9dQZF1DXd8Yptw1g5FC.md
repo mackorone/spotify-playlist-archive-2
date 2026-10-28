@@ -4,7 +4,7 @@
 
 > Model ve haftanın en iyi çıkışları!
 
-10,591 songs - 22 day 14 hr 58 min
+10,592 songs - 22 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6997,6 +6997,7 @@
 | [Overload \- Radio Mix](https://open.spotify.com/track/2bnUgz0R5HOI2cdJSqqiSH) | [David Vendetta](https://open.spotify.com/artist/19fQVYcuFrOOZKJAvfdI3A), [Eray Turkay](https://open.spotify.com/artist/72mabqaLD6qHEHVUj1S6Pq), [SVRRVF](https://open.spotify.com/artist/6FTUd91A9KsuFxNBbMmw09) | [Overload](https://open.spotify.com/album/7dxJ4LfoCIn0eY9iMwltpY) | 3:11 | 2026-10-22 |  |
 | [Overthink](https://open.spotify.com/track/0JuRcGO6mi97bGNbsGfXZ8) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC), [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT) | [Overthink](https://open.spotify.com/album/5NdPZ3nXaH17l96iJrVIaH) | 2:50 | 2025-04-10 | 2025-04-18 |
 | [OVERTHINK](https://open.spotify.com/track/1XuXvzasOeH3rqUHZO6Wkh) | [Ohash](https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42), [STVR](https://open.spotify.com/artist/0p8AsjpUmhwyKXYhSZuJNi), [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy) | [OVERTHINK](https://open.spotify.com/album/23tklyMUF8hJhrUkapIHVY) | 3:25 | 2026-05-07 | 2026-05-15 |
+| [Overthinker](https://open.spotify.com/track/18SLQPyPKYybUsR77ChEMS) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Overthinker](https://open.spotify.com/album/0WZ9DvpqOta5FaU6PVbqhK) | 3:40 | 2026-10-22 |  |
 | [Oy Dedim](https://open.spotify.com/track/5oS6MhVXXQ0bdoumQJw2US) | [Onur Atmaca](https://open.spotify.com/artist/2wlyVkL3KJmboFNEsUP5dB) | [Oy Dedim](https://open.spotify.com/album/0yrlNleOICb3BNDQRut8eB) | 3:29 | 2026-02-05 | 2026-02-13 |
 | [OY OY](https://open.spotify.com/track/7tZAq68kP65z1DFuJtP0Bw) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [OY OY](https://open.spotify.com/album/55EV4DdvpQJbPq35MHxhlS) | 2:19 | 2025-07-10 | 2025-07-18 |
 | [Oy Oy](https://open.spotify.com/track/3jicf6NaCagTlC9MW4ScPd) | [Yasemin Bahloul](https://open.spotify.com/artist/2mz9baBuJ1mILERJJihYJ5) | [Oy Oy](https://open.spotify.com/album/11K0zR4NJMn0wVcpVEeJTr) | 3:39 | 2025-08-14 | 2025-08-22 |

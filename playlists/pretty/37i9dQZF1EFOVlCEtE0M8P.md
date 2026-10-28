@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382 likes - 298 songs - 17 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381 likes - 298 songs - 17 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 185 | [Love In Real Life](https://open.spotify.com/track/0aBiz5baCyZbJApDikehjL) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:03 |
 | 186 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
 | 187 | [Ferrari](https://open.spotify.com/track/4ReNjPY2hVS5AutX2wJeDw) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Clare Dunn](https://open.spotify.com/album/4Xwds3CwPNqNxV7GT877Se) | 3:34 |
-| 188 | [Pressure](https://open.spotify.com/track/7i7cqLZ2CAZxW47WhfIov8) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Pressure](https://open.spotify.com/album/5OMQvLlSiHTCnTuXBPKvmA) | 3:42 |
-| 189 | [Seethe](https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 3:17 |
+| 188 | [Seethe](https://open.spotify.com/track/0ZEUKsXOlocU6IPJmx7exQ) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 3:17 |
+| 189 | [Pressure](https://open.spotify.com/track/7i7cqLZ2CAZxW47WhfIov8) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Pressure](https://open.spotify.com/album/5OMQvLlSiHTCnTuXBPKvmA) | 3:42 |
 | 190 | [The Dark](https://open.spotify.com/track/6fUmxLYcazzZjb7PeltdTg) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 3:33 |
 | 191 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 |
 | 192 | [Do You Want Me To](https://open.spotify.com/track/6ygZkBHLbm0MkgDSgFED2i) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:07 |
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 217 | [Waiting For You](https://open.spotify.com/track/6gsF4DOkIBLhvrfRYL1M5G) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:29 |
 | 218 | [Save Me](https://open.spotify.com/track/2MqSIyClHdLr3qCpttt5Re) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs) | 3:43 |
 | 219 | [Silhouette](https://open.spotify.com/track/4wcorOXxuMhJsOk91rhyRn) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:55 |
-| 220 | [Landline](https://open.spotify.com/track/3jkx6LYIMgfWJKqIBK9KCV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:04 |
-| 221 | [Swallower](https://open.spotify.com/track/3NqnKChCusKRMEGPtWa393) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:04 |
+| 220 | [Swallower](https://open.spotify.com/track/3NqnKChCusKRMEGPtWa393) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:04 |
+| 221 | [Landline](https://open.spotify.com/track/3jkx6LYIMgfWJKqIBK9KCV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:04 |
 | 222 | [Good Times to Come](https://open.spotify.com/track/6Ax3UATQ5dvCE0OMeY8f3c) | [DanDlion](https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76) | [FRUITION](https://open.spotify.com/album/1mfewN8zutQBuDzvHfB70U) | 3:04 |
 | 223 | [Driving Away](https://open.spotify.com/track/1sl02mQRbjTPxU1gOey8LI) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Sunsun](https://open.spotify.com/artist/6aRbmjSshc0rcjwhfB3d7Y) | [Feels Like Fire](https://open.spotify.com/album/5OnJTiY8pk32BiiSamBujM) | 4:17 |
 | 224 | [Real Thing](https://open.spotify.com/track/1r4YhgOx3OYHsjRF8NgF5e) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [REAL THING](https://open.spotify.com/album/2uigbDgEe5WhlYbPID5Aqe) | 3:40 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 241 | [Part of Me](https://open.spotify.com/track/5MeJdfZ0TTyTHR9TkKawTU) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:41 |
 | 242 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 |
 | 243 | [Romantic](https://open.spotify.com/track/3sr4RsgNNoNMTx6L7J4qNo) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [That Really Long Night](https://open.spotify.com/album/472PYfaPfE7wVMajuRX4V1) | 4:04 |
-| 244 | [Jesus Christ & Country Clubs](https://open.spotify.com/track/4shsbeIvqN4fvfyFQPHexh) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [The Eldest Daughter](https://open.spotify.com/album/3mhNjUSEUenXUme3MEc4Bo) | 3:06 |
-| 245 | [Dancer in the Sky](https://open.spotify.com/track/7taNEMT7XqxYEOMxkwv5bc) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:31 |
+| 244 | [Dancer in the Sky](https://open.spotify.com/track/7taNEMT7XqxYEOMxkwv5bc) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 4:31 |
+| 245 | [Jesus Christ & Country Clubs](https://open.spotify.com/track/4shsbeIvqN4fvfyFQPHexh) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [The Eldest Daughter](https://open.spotify.com/album/3mhNjUSEUenXUme3MEc4Bo) | 3:06 |
 | 246 | [Changes](https://open.spotify.com/track/6fJejvq4yOgPKhGmlfjE9T) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Eureka \(Deluxe\)](https://open.spotify.com/album/546Xvhb9UlOFACTErVGvu1) | 3:21 |
 | 247 | [Maps](https://open.spotify.com/track/0C0LsasNp4jpPtyBM9Hjd5) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water \(Deluxe\)](https://open.spotify.com/album/3YVFjLQyt1RBXxl3pifOVw) | 3:06 |
 | 248 | [Higher](https://open.spotify.com/track/7D0I8fOtcm8AWaemRWLre4) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:23 |
@@ -283,8 +283,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 273 | [On The Wire](https://open.spotify.com/track/5dTHpZa8UDFruq9ThtYPEV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:37 |
 | 274 | [Joyriding](https://open.spotify.com/track/4byVQOoxzEKhIU9d10aWvm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:05 |
 | 275 | [P.O.Y.F](https://open.spotify.com/track/4cQRnjPfvjMdykfI6adfma) | [Carlito Olivero](https://open.spotify.com/artist/6Nm6C6IBVGA2LahxuWn60h) | [D.D.B.R.W.S.](https://open.spotify.com/album/0Lv1HSVEt2X5iIgCmNkpJl) | 2:49 |
-| 276 | [Wish You Well](https://open.spotify.com/track/1ftis05ic7yvD9X49F6rqh) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants to Talk About Love?](https://open.spotify.com/album/5jqRoaJWRJjiYTHWhBA6jE) | 2:22 |
-| 277 | [Thread of You](https://open.spotify.com/track/3lfRBQW5NEZfTJIeewYTqh) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Peace in My Mind](https://open.spotify.com/album/5AGj9M1yvhFjWyitIeXxY4) | 3:38 |
+| 276 | [Thread of You](https://open.spotify.com/track/3lfRBQW5NEZfTJIeewYTqh) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Peace in My Mind](https://open.spotify.com/album/5AGj9M1yvhFjWyitIeXxY4) | 3:38 |
+| 277 | [Wish You Well](https://open.spotify.com/track/1ftis05ic7yvD9X49F6rqh) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants to Talk About Love?](https://open.spotify.com/album/5jqRoaJWRJjiYTHWhBA6jE) | 2:22 |
 | 278 | [Treasure Island](https://open.spotify.com/track/6pqY7OV5MzmyCrZSaf4uRS) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:38 |
 | 279 | [Man On A Road](https://open.spotify.com/track/5RfxBQl0U4h6Hm2HqO367a) | [George Cosby](https://open.spotify.com/artist/7oyk8Ug4Su6UeST5j4g5aG) | [Man On A Road](https://open.spotify.com/album/1RXgxDpl07zH1TNQRak1LW) | 3:18 |
 | 280 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 |
@@ -307,4 +307,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 297 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 298 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `AcgAuAAAAABPn4Zz7Pi9DWGMBHTMRvAf`
+Snapshot ID: `AcgGWAAAAADzaP3eBj09vgSgVX2GMCUH`

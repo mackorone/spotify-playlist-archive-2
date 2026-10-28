@@ -4,7 +4,7 @@
 
 > the soundtrack to your girl dinner\. Cover: Tinashe
 
-361 songs - 18 hr 13 min
+362 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Cherry N Coke](https://open.spotify.com/track/0tH5DJPLuieL0wuRXDiKVN) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Cherry N Coke](https://open.spotify.com/album/6pw98Qb8EIAt9kArp3Hq7n) | 2:09 | 2025-06-18 | 2025-08-13 |
 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 | 2023-08-09 | 2023-08-11 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2023-03-30 |  |
-| [Circus](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Circus](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 | 2026-10-22 |  |
+| [CIRCUS](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [CIRCUS](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 | 2026-10-22 |  |
 | [Clean and Fresh](https://open.spotify.com/track/04wIkN7gBpAIRGTX2NbOJ2) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Clean and Fresh](https://open.spotify.com/album/7rP3vxSybZALfrJ4DZMmS1) | 2:18 | 2026-02-27 | 2026-03-21 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-03-30 |  |
 | [Cool](https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:09 | 2025-12-22 | 2026-02-23 |
@@ -150,6 +150,7 @@
 | [GIRLS](https://open.spotify.com/track/4hHPnwQYR0kuJzNHRkDvbC) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [GIRLS](https://open.spotify.com/album/6YMlyjamsjGdfFsHuc64de) | 3:00 | 2026-03-20 | 2026-06-12 |
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2023-08-15 | 2025-01-20 |
 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 | 2023-10-26 | 2024-01-26 |
+| [Glamorous](https://open.spotify.com/track/6vVfNqiMSku4FrqsqhurBK) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg) | 4:06 | 2026-02-22 |  |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-21 |  |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2025-12-22 | 2026-02-23 |
 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 | 2023-03-30 | 2024-07-29 |
@@ -344,7 +345,7 @@
 | [TUGGAWAR](https://open.spotify.com/track/0PhQbXPnS4kOtPnORZuLge) | [Jamaica Moana](https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh) | [TUGGAWAR](https://open.spotify.com/album/5n3l9WY7ZKKuBSLjCackpm) | 2:49 | 2025-06-18 | 2025-08-13 |
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2023-03-30 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2023-03-30 |  |
-| [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 | 2026-02-22 |  |
+| [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 | 2026-02-22 | 2026-10-28 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2023-03-30 |  |
 | [Victoria's Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:55 | 2023-03-30 | 2024-07-07 |
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2025-10-28 |  |

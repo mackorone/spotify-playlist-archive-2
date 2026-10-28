@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 605459,
+  "num_followers": 605490,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "All Gone",
-        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Jacob",
-          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "All Gone",
-      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 267107,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
+        "name": "All Gone",
+        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Mystical Experience",
-        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Flegma",
-          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
-        }
-      ],
-      "duration_ms": 550985,
-      "name": "Mystical Experience",
-      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
         "name": "Shingara",
         "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 317746,
       "name": "Shingara",
       "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+        }
+      ],
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Dusk Till Dawn",
         "url": "https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r"
       },
@@ -1163,22 +1183,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Carmen",
-        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
       },
       "artists": [
         {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
         },
         {
-          "name": "Invisible Reality",
-          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+          "name": "Deep Kontakt",
+          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
         }
       ],
-      "duration_ms": 243428,
-      "name": "Carmen",
-      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+      "duration_ms": 273375,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1215,46 +1235,6 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
-        }
-      ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "Nova Sinfonia",
-        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
-      },
-      "artists": [
-        {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
-        },
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        }
-      ],
-      "duration_ms": 268591,
-      "name": "Nova Sinfonia",
-      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 286956,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
+        "name": "Nova Sinfonia",
+        "url": "https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ"
+      },
+      "artists": [
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 268591,
+      "name": "Nova Sinfonia",
+      "url": "https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "The Oasis (Zyrus 7 Remix)",
+        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Zyrus 7",
+          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
+        }
+      ],
+      "duration_ms": 209673,
+      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
+      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Antiwar (Noface Remix)",
         "url": "https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 496551,
       "name": "Antiwar - NoFace Remix",
       "url": "https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "The Oasis (Zyrus 7 Remix)",
-        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
-      },
-      "artists": [
-        {
-          "name": "Talla 2XLC",
-          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
-        },
-        {
-          "name": "Zyrus 7",
-          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
-        }
-      ],
-      "duration_ms": 209673,
-      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
-      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
       },
       "artists": [
         {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1487,22 +1503,6 @@
       "duration_ms": 355862,
       "name": "Key To Happiness",
       "url": "https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma"
+        "name": "Hollows",
+        "url": "https://open.spotify.com/album/095GfLmokf7gyy4Rc3JYBo"
       },
       "artists": [
         {
-          "name": "Phazed",
-          "url": "https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb"
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Who Knows?",
+          "url": "https://open.spotify.com/artist/6tvW6l27AmnK12EfQbT3D4"
         }
       ],
-      "duration_ms": 303820,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX"
+      "duration_ms": 282125,
+      "name": "Hollows",
+      "url": "https://open.spotify.com/track/3f2WFDZHrY19p2uIa0K056"
     }
   ],
   "unique_name": "Psytrance Supernova",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,348 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,367 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 4 | [Nós Combina](https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [CONFIA](https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3) | 3:24 |
 | 5 | [Poesia Acústica \#9 Melhor Forma](https://open.spotify.com/track/0Qm3FcWgkif9MeY6lgcX11) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica](https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z) | 10:11 |
 | 6 | [Libertários Não Morrem](https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [IbraBeats](https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:10 |
-| 7 | [TUDO DE NOVO](https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [CAOS DLX](https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM) | 3:45 |
-| 8 | [Da Onde Eu Venho](https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:17 |
+| 7 | [Da Onde Eu Venho](https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:17 |
+| 8 | [TUDO DE NOVO](https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [CAOS DLX](https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM) | 3:45 |
 | 9 | [Invicto](https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:16 |
 | 10 | [Melhor Agora](https://open.spotify.com/track/4HD67byP5AqlOGuoMyUgyA) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [LODONI](https://open.spotify.com/artist/3S2rkkMBRzNz7urXkLjb6n) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:01 |
 | 11 | [Amor Livre \- Ao Vivo](https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
 | 50 | [Não Sou Daqui](https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:48 |
 
-Snapshot ID: `atv1AAAAAAAsECnkQ3SWukvrepoD7T7m`
+Snapshot ID: `at1GgAAAAADkNhBEsC+X4piAoC0347yl`

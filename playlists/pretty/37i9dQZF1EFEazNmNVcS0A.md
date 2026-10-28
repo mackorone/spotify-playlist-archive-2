@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 171 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,684 likes - 171 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 94 | [Holding On](https://open.spotify.com/track/6Nhn9VcdNtKBPvtSa2LXcg) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Holding On](https://open.spotify.com/album/71cwuXguuLIwMhJZ1LGPBR) | 4:59 |
 | 95 | [Changes](https://open.spotify.com/track/6znZ9AWrZfbOWZTBC13s2h) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:23 |
 | 96 | [No Mercy](https://open.spotify.com/track/2TX5QUdpnFqEERuC9fCeZJ) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [All We Know of Heaven, All We Need of Hell](https://open.spotify.com/album/3PW52o1Ck2K1CKB6zOcd6W) | 3:59 |
-| 97 | [While You're Young](https://open.spotify.com/track/1O1OPyEfDvMZPoJ2EslO8e) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:30 |
-| 98 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 |
+| 97 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 |
+| 98 | [While You're Young](https://open.spotify.com/track/1O1OPyEfDvMZPoJ2EslO8e) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:30 |
 | 99 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 |
 | 100 | [Cruel](https://open.spotify.com/track/69Q9unT80s08dUolhcgr4T) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [All I Need \(Deluxe Version\)](https://open.spotify.com/album/6fpZzsdzd04nqiDPWnF2iw) | 3:46 |
 | 101 | [Mirage \(Don’t Stop\)](https://open.spotify.com/track/5CZ53WFltsPPyLmx34QJwh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:47 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 170 | [Hold On](https://open.spotify.com/track/1Jfl0IXNH6aJgNWSpBNqN2) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:15 |
 | 171 | [Numb](https://open.spotify.com/track/4mlcYfLYLVVIqp9pKL0pcS) | [Kimberly Anne](https://open.spotify.com/artist/7uX9gyS2bhEYXaOjqKnAWq) | [From the Trauma Care Unit](https://open.spotify.com/album/4aDPxEMbiEuwxmzR2s1FKv) | 3:23 |
 
-Snapshot ID: `AcgAkAAAAAAkmDkog9H7aPYy8JF+V42O`
+Snapshot ID: `AcgGMAAAAAAGT2pe+TFY6Z9O4FGA+5JS`

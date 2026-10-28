@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,785 songs - 6 day 18 hr 23 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,789 songs - 6 day 18 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1719,18 +1719,18 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1709 | [RWD](https://open.spotify.com/track/1qQGJVggMqG58YYsiGkxth) | [Kier](https://open.spotify.com/artist/0tcPqqUBSuCA9VENxwwyEl), [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [Skibovicz](https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [GAMMA](https://open.spotify.com/album/2UdAQuQVSJvv8LX5IRb4A2) | 2:17 |
 | 1710 | [Higher \- Extended Mix](https://open.spotify.com/track/6WluYdZW0k2SIou9PQpiyA) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [fabric presents Floorplan \(Mixed\)](https://open.spotify.com/album/4IJvxq326rM5jBpivm59QX) | 4:25 |
 | 1711 | [HEAL+](https://open.spotify.com/track/1WuHnhDk7Ebo0JMK2UFzIZ) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [HEAL+](https://open.spotify.com/album/5wyyvHCnBZ2qj0wIxbMKoa) | 2:26 |
-| 1712 | [FIRST](https://open.spotify.com/track/553SWInFyd53tSE1pG7bgG) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:49 |
-| 1713 | [55](https://open.spotify.com/track/2bENfywXfGpfBV0xwkmq15) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:47 |
-| 1714 | [Cave Spring Hollow](https://open.spotify.com/track/2pGmkawHD3JM9DzYZnVLO7) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 |
-| 1715 | [IN GOD WE TRUST](https://open.spotify.com/track/0fOafjKzaAIRZjOK5iH3DH) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:54 |
-| 1716 | [Tomorrow](https://open.spotify.com/track/4gIx5xurI60c22H8BAd22T) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:39 |
-| 1717 | [Never Let It Loose](https://open.spotify.com/track/6rBb0xui7iO1KctH7iX4Rm) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:57 |
-| 1718 | [Boots on Fire](https://open.spotify.com/track/77ZkVjR2D9MSyfEwSlpuM7) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:02 |
-| 1719 | [SweetWater 420](https://open.spotify.com/track/30i6fYmlGeo0LSlzh8e8qq) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:08 |
-| 1720 | [I'M GONNA STAND ALL NIGHT](https://open.spotify.com/track/1DBWcyVPh2F95UNxsKLSIv) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:39 |
-| 1721 | [LOSING MY MIND \(Beyond the whole world\)](https://open.spotify.com/track/6bx8Yqi1zFoRWVh4Kn2cRD) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:03 |
-| 1722 | [TASUNKA SPIRIT](https://open.spotify.com/track/3uDZHwO6IfdjHe5o3BxSVq) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:12 |
-| 1723 | [Country Christmas Line Dance \(Jingle Bells\)](https://open.spotify.com/track/3dLbmwtsvZWabodAty7T6F) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 |
+| 1712 | [FIRST](https://open.spotify.com/track/553SWInFyd53tSE1pG7bgG) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:49 |
+| 1713 | [55](https://open.spotify.com/track/2bENfywXfGpfBV0xwkmq15) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:47 |
+| 1714 | [Cave Spring Hollow](https://open.spotify.com/track/2pGmkawHD3JM9DzYZnVLO7) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 |
+| 1715 | [IN GOD WE TRUST](https://open.spotify.com/track/0fOafjKzaAIRZjOK5iH3DH) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:54 |
+| 1716 | [Tomorrow](https://open.spotify.com/track/4gIx5xurI60c22H8BAd22T) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:39 |
+| 1717 | [Never Let It Loose](https://open.spotify.com/track/6rBb0xui7iO1KctH7iX4Rm) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:57 |
+| 1718 | [Boots on Fire](https://open.spotify.com/track/77ZkVjR2D9MSyfEwSlpuM7) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:02 |
+| 1719 | [SweetWater 420](https://open.spotify.com/track/30i6fYmlGeo0LSlzh8e8qq) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:08 |
+| 1720 | [I'M GONNA STAND ALL NIGHT](https://open.spotify.com/track/1DBWcyVPh2F95UNxsKLSIv) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:39 |
+| 1721 | [LOSING MY MIND \(Beyond the whole world\)](https://open.spotify.com/track/6bx8Yqi1zFoRWVh4Kn2cRD) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:03 |
+| 1722 | [TASUNKA SPIRIT](https://open.spotify.com/track/3uDZHwO6IfdjHe5o3BxSVq) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:12 |
+| 1723 | [Country Christmas Line Dance \(Jingle Bells\)](https://open.spotify.com/track/3dLbmwtsvZWabodAty7T6F) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST ALBUM](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 |
 | 1724 | [Dear Summer](https://open.spotify.com/track/4GK6QSZ7hxOw13sNjEuc04) | [Urban Grizzly](https://open.spotify.com/artist/7KHXAGYNMTcZkyvMrQwCOj) | [Dear Summer](https://open.spotify.com/album/5dWifVlsFXOqeB0E5438BY) | 4:12 |
 | 1725 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 |
 | 1726 | [Baila Mi Navidad](https://open.spotify.com/track/3Xdx0W8H8nTBetAFR5Ia7J) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Mi Navidad](https://open.spotify.com/album/7ykfc5zIGkaCsdF6rXk2Nj) | 3:30 |
@@ -2793,5 +2793,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2783 | [No Way Back](https://open.spotify.com/track/2NpztJ7N8D9Zi62bnd5QHZ) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 6:59 |
 | 2784 | [The Last Spark](https://open.spotify.com/track/5QCLcyF4VDCj0O2JzMK1Ji) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Pada Akhirnya](https://open.spotify.com/album/4K6BgEtFRGjqQqultRC6Qb) | 2:54 |
 | 2785 | [Limitless](https://open.spotify.com/track/3d6SDGekSWy5FpiQx70d1C) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 3:42 |
+| 2786 | [Golden Carnival Parade](https://open.spotify.com/track/4l7BNmF6YbM8R0B3RROX3C) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/5V5cUUspJURphxsqS39T0d) | 3:26 |
+| 2787 | [Coniglietto DJ](https://open.spotify.com/track/4dQYRG8erieHTwuoQo9zPY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/5V5cUUspJURphxsqS39T0d) | 2:40 |
+| 2788 | [Moonlight of Muirin](https://open.spotify.com/track/2sW1Zd3hL0U9CsNF426sFs) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/5V5cUUspJURphxsqS39T0d) | 3:13 |
+| 2789 | [Queen of Abilene](https://open.spotify.com/track/4XO5yxH5KOYQGoJ5EqIacJ) | [Strawberry Nixon](https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar) | [Queen of Abilene](https://open.spotify.com/album/0hPsdkC6WO5pzRjWQUgX5Q) | 4:39 |
 
-Snapshot ID: `AAAL5hzju0bQ37D34umzmGz/5XrPlcOU`
+Snapshot ID: `AAAL6jieESkXiY5GnJwmclvyTsbr7WeW`

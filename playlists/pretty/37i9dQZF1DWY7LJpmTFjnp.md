@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano,  Kevis, Maykyy y Valy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,503 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,338 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 91 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 |
 | 92 | [El Recuento de los Daños](https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [!!Puro Macanazo!!](https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ) | 4:31 |
 | 93 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 |
-| 94 | [Arriba La L](https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT) | 3:43 |
-| 95 | [Perro de Pavlov](https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Perro de Pavlov](https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4) | 3:17 |
+| 94 | [Perro de Pavlov](https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Perro de Pavlov](https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4) | 3:17 |
+| 95 | [Arriba La L](https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT) | 3:43 |
 | 96 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
 | 97 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 98 | [Cae La Lluvia](https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY) | [Luis Díazz](https://open.spotify.com/artist/1YrcerJAHip85arXssuLvm), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [Cae La Lluvia](https://open.spotify.com/album/4lEd8H0uq6YaJDgIiG8Uu3) | 2:59 |

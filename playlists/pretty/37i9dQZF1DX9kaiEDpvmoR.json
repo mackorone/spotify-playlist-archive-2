@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93773,
+  "num_followers": 93771,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -631,34 +631,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Mirakel",
-        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
+        "name": "Bar N\u00eemes - Primi",
+        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
       },
       "artists": [
         {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
         }
       ],
-      "duration_ms": 278240,
-      "name": "Mirakel",
-      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "En s\u00e5ng till modet",
-        "url": "https://open.spotify.com/album/0phUs84n1MODY1e3lxUNJg"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 295784,
-      "name": "En s\u00e5ng till modet",
-      "url": "https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc"
+      "duration_ms": 152564,
+      "name": "En sida kvar",
+      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -679,6 +663,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "En s\u00e5ng till modet",
+        "url": "https://open.spotify.com/album/0phUs84n1MODY1e3lxUNJg"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 295784,
+      "name": "En s\u00e5ng till modet",
+      "url": "https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "MITT HJ\u00c4RTA EN REBELL",
         "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Bar N\u00eemes - Primi",
-        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
+        "name": "Mirakel",
+        "url": "https://open.spotify.com/album/3vYNeWBvpRGwyTDdBjVy4I"
       },
       "artists": [
         {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
         }
       ],
-      "duration_ms": 152564,
-      "name": "En sida kvar",
-      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
+      "duration_ms": 278240,
+      "name": "Mirakel",
+      "url": "https://open.spotify.com/track/4KtrEuk2Trxdyn2NmgTMTN"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "H\u00e4lsningar",
-        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "H\u00e4lsningar",
-      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
         "name": "Inte h\u00e4r",
         "url": "https://open.spotify.com/album/0isP096o3kwMSqzyL0dOjN"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 167586,
       "name": "Inte h\u00e4r",
       "url": "https://open.spotify.com/track/1073oo70if3Yfs18iB1Zzz"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "H\u00e4lsningar",
+        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "H\u00e4lsningar",
+      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -963,38 +963,6 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Sciura",
-        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
-      },
-      "artists": [
-        {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
-        }
-      ],
-      "duration_ms": 166733,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
         "name": "F\u00f6rbannad",
         "url": "https://open.spotify.com/album/56JsPGMWUICFmcAgtUTQAF"
       },
@@ -1011,6 +979,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Sciura",
+        "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 171706,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "You Got The Look",
         "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 181693,
       "name": "You Got The Look",
       "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW"
+      },
+      "artists": [
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "duration_ms": 166733,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Tale of four broken men",
+        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
+      },
+      "artists": [
+        {
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Tale of four broken men",
+      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "Himmel helvete",
         "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 269250,
       "name": "Musiken som h\u00f6rs fr\u00e5n Rival",
       "url": "https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Tale of four broken men",
-        "url": "https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL"
-      },
-      "artists": [
-        {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Tale of four broken men",
-      "url": "https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1171,6 +1171,22 @@
       "duration_ms": 205896,
       "name": "Can't Frame the Moonlight",
       "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Noll personlig utveckling",
+        "url": "https://open.spotify.com/album/27s0zZKUi93wyJaGvx6h2J"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "duration_ms": 205673,
+      "name": "Kolm\u00e5rden",
+      "url": "https://open.spotify.com/track/6cnnQYWX1oe4pGabrvqxVg"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Tillbaka",
-        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "Tillbaka",
-      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3oEPgnaHXwi02DjenAQRyT"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Kom hem till mej",
-        "url": "https://open.spotify.com/album/2WhuwEfXgDqfhtGZyyA6pj"
+        "name": "Tillbaka",
+        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
       },
       "artists": [
         {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Kom hem till mej",
-      "url": "https://open.spotify.com/track/7AStGTdtHTUx2iiA6jIGU2"
+      "duration_ms": 211233,
+      "name": "Tillbaka",
+      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "One on One",
-        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+        "name": "Kom hem till mej",
+        "url": "https://open.spotify.com/album/2WhuwEfXgDqfhtGZyyA6pj"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
         }
       ],
-      "duration_ms": 221623,
-      "name": "One on One",
-      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+      "duration_ms": 205080,
+      "name": "Kom hem till mej",
+      "url": "https://open.spotify.com/track/7AStGTdtHTUx2iiA6jIGU2"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Noll personlig utveckling",
-        "url": "https://open.spotify.com/album/27s0zZKUi93wyJaGvx6h2J"
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
       },
       "artists": [
         {
-          "name": "Jonas Lundqvist",
-          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 205673,
-      "name": "Kolm\u00e5rden",
-      "url": "https://open.spotify.com/track/6cnnQYWX1oe4pGabrvqxVg"
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
+        "name": "Prinsessa",
+        "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
+      },
+      "artists": [
+        {
+          "name": "Naomi Wiehe",
+          "url": "https://open.spotify.com/artist/1ynawIBfmB26A6kkqkBxQ2"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Prinsessa",
+      "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 208173,
       "name": "By and By",
       "url": "https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl"
-    },
-    {
-      "added_at": "2026-10-22 22:01:40",
-      "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-10-22 22:01:40",
@@ -1439,34 +1439,34 @@
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Prinsessa",
-        "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
       },
       "artists": [
         {
-          "name": "Naomi Wiehe",
-          "url": "https://open.spotify.com/artist/1ynawIBfmB26A6kkqkBxQ2"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Prinsessa",
-      "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "LYS",
-        "url": "https://open.spotify.com/album/624OBpuQPED3Y7nPwEPAuz"
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
       "artists": [
         {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
         }
       ],
-      "duration_ms": 182602,
-      "name": "LYS",
-      "url": "https://open.spotify.com/track/1nno9CRqizBhln1kEsDFPi"
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     }
   ],
   "unique_name": "Aktuellt",

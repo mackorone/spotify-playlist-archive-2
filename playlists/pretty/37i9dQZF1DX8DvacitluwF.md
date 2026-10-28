@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Mikhalé Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,313 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,322 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 21 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
 | 22 | [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 |
 | 23 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
-| 24 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
-| 25 | [have to.](https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:27 |
+| 24 | [have to.](https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:27 |
+| 25 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
 | 26 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 27 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 28 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 46 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 | 47 | [Jealous](https://open.spotify.com/track/0QBghBie9QpjQMm6F5EMbS) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Peace To Make](https://open.spotify.com/album/3RBRCj9pFM1Ercrwqv47uj) | 3:09 |
 | 48 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
-| 49 | [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 |
-| 50 | [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 |
+| 49 | [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 |
+| 50 | [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 |
 
 Snapshot ID: `AAAAAKgkKQUTJX/VnPj8M2Rpd9gSDuLf`

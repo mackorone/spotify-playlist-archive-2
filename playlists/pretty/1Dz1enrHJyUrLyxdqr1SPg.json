@@ -6,7 +6,7 @@
     "name": "enilsounds",
     "url": "https://open.spotify.com/user/enilsounds"
   },
-  "snapshot_id": "AABkFI+Qrp4Q3MVcd8+6ZuWI7tQgAdu3",
+  "snapshot_id": "AABkGRXrFXWxBrYYFMT6E6XNYhzhmh85",
   "tracks": [
     {
       "added_at": "2025-10-31 11:22:09",
@@ -23,6 +23,22 @@
       "duration_ms": 90167,
       "name": "TRICK and TREAT",
       "url": "https://open.spotify.com/track/71wsNbnZ7S3NiOStYg8DVY"
+    },
+    {
+      "added_at": "2026-10-27 13:01:50",
+      "album": {
+        "name": "ROCKEFELLER",
+        "url": "https://open.spotify.com/album/6tBxhMxItNwI71lzlhPK7u"
+      },
+      "artists": [
+        {
+          "name": "TRILLING",
+          "url": "https://open.spotify.com/artist/4Bq9IvcWC2V7LNKXihcUI6"
+        }
+      ],
+      "duration_ms": 167374,
+      "name": "ROCKEFELLER",
+      "url": "https://open.spotify.com/track/16zpaklmrzP6PS67MJUG45"
     },
     {
       "added_at": "2026-08-21 19:06:38",
@@ -1743,6 +1759,38 @@
       "duration_ms": 265600,
       "name": "TU MAGIA",
       "url": "https://open.spotify.com/track/0d5tKmy9AJ9Zf1ne4RC9Km"
+    },
+    {
+      "added_at": "2026-10-27 18:44:16",
+      "album": {
+        "name": "Pick You Up",
+        "url": "https://open.spotify.com/album/2jR3pofg0GEeOnfWWXNeVd"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 229976,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/1FhBbgnhr2pxRWlTXpl4MU"
+    },
+    {
+      "added_at": "2026-10-27 18:54:53",
+      "album": {
+        "name": "Pick You Up",
+        "url": "https://open.spotify.com/album/2jR3pofg0GEeOnfWWXNeVd"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Flat Earth",
+      "url": "https://open.spotify.com/track/2Z9M10CeLA59VfPoFtFkWK"
     }
   ],
   "unique_name": "MY FAVOURITE NEW ONES ",

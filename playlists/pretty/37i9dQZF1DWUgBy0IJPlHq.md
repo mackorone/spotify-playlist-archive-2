@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: verygently
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,690 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,725 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

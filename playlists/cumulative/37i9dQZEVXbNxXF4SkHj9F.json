@@ -18327,6 +18327,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194533,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW"
+    },
+    {
+      "album": {
         "name": "D-DAY",
         "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
       },
@@ -39064,7 +39082,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 216280,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
@@ -39924,7 +39942,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 196020,
       "name": "We Are",
       "url": "https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d"
@@ -42268,6 +42286,24 @@
       "duration_ms": 264853,
       "name": "Yours - Instrumental",
       "url": "https://open.spotify.com/track/1oyVMDi8RlgPsRyZXPNNKk"
+    },
+    {
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
     },
     {
       "album": {

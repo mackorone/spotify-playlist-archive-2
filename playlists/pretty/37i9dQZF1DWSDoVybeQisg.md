@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,024 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,088 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 18 | [In\-A\-Gadda\-Da\-Vida \- Single Version](https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b) | [Iron Butterfly](https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS) | [Light and Heavy/The Best of...](https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X) | 2:53 |
 | 19 | [I Am The Walrus \- Remastered 2009](https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered 2009\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 4:35 |
 | 20 | [My Back Pages](https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Younger Than Yesterday](https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1) | 3:08 |
-| 21 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
+| 21 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
 | 22 | [Manic Depression](https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:42 |
-| 23 | [Time Has Come Today \- Single Version](https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [Time Has Come: The Best Of The Chambers Brothers](https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu) | 4:50 |
-| 24 | [A Minha Menina](https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | ["Os Mutantes"](https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og) | 4:44 |
+| 23 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
+| 24 | [Time Has Come Today \- Single Version](https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [Time Has Come: The Best Of The Chambers Brothers](https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu) | 4:50 |
 | 25 | [The Four Horsemen](https://open.spotify.com/track/5FgQkEcqMXCqFdcsEx143b) | [Aphrodite's Child](https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8) | [6 6 6](https://open.spotify.com/album/2lWDphDAlgk8PNdODreJwv) | 5:53 |
 | 26 | [The End](https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 6:30 |
 | 27 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 5:12 |

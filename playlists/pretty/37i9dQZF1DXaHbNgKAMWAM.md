@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,257 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,260 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 22 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 |
 | 23 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 |
 | 24 | [Heart Flutter](https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Queen of Tears \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf) | 3:40 |
-| 25 | [What are we](https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Love Next Door, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S) | 3:37 |
-| 26 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
+| 25 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
+| 26 | [What are we](https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Love Next Door, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S) | 3:37 |
 | 27 | [Once a Day](https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Once a Day](https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi) | 3:32 |
 | 28 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
 | 29 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNGHANBIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 43 | [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 |
 | 44 | [Can i love u?](https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Law and The City, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3kCelYZb943ElkmLIctqol) | 3:26 |
 | 45 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 |
-| 46 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 |
-| 47 | [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 |
-| 48 | [Do my best](https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:15 |
+| 46 | [Do my best](https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:15 |
+| 47 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 |
+| 48 | [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 |
 | 49 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 50 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
 | 51 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 53 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 54 | [Could it be like this](https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [Could it be like this](https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme) | 3:41 |
 | 55 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 |
-| 56 | [My Everything](https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [My Everything](https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg) | 3:54 |
-| 57 | [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 |
-| 58 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
+| 56 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
+| 57 | [My Everything](https://open.spotify.com/track/30OyUSm3KRcjZQ3Nb1kbXR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [My Everything](https://open.spotify.com/album/06A6Z2M5V6JFVAXEAg4LAg) | 3:54 |
+| 58 | [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 |
 | 59 | [LIKE A DREAM](https://open.spotify.com/track/6oFKhdrV0J4uuwMQYe7SO6) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [PSST!](https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj) | 4:16 |
-| 60 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
+| 60 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
 
 Snapshot ID: `AAAAAICexdILhVnp3wZ77QF0wzmb3WHF`

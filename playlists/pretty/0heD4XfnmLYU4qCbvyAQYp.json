@@ -1,13 +1,29 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4763,
+  "num_followers": 4764,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAPTU98LcIdiFnAvIqCrDwGILQ7T5X/",
+  "snapshot_id": "AAAPTn7SpWSuNl6dmIPWUOQYOvY3TE4O",
   "tracks": [
+    {
+      "added_at": "2026-10-27 07:51:02",
+      "album": {
+        "name": "Mantra & Resolve",
+        "url": "https://open.spotify.com/album/6z3pthbC7S0VIjMB39LTPp"
+      },
+      "artists": [
+        {
+          "name": "momo.wav",
+          "url": "https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA"
+        }
+      ],
+      "duration_ms": 304186,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/3uK6X1waX0jS0Wgrjny4xo"
+    },
     {
       "added_at": "2026-10-03 18:54:49",
       "album": {

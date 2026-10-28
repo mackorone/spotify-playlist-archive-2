@@ -4,7 +4,7 @@
 
 > Feels like falling in love in the 50s
 
-125 songs - 6 hr 25 min
+126 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:05 | 2022-05-03 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 | 2024-02-13 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Essential Fred Astaire](https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP) | 3:18 | 2022-05-03 | 2023-09-14 |
-| [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 | 2025-08-22 |  |
+| [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 | 2025-08-22 | 2026-10-28 |
 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 | 2022-05-03 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 | 2024-07-09 |  |
 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 | 2022-05-03 |  |
@@ -35,7 +35,7 @@
 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 | 2023-01-26 |  |
 | [Everybody Loves Somebody](https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:47 | 2022-05-03 |  |
 | [Forever \- Single Version](https://open.spotify.com/track/5rWyKJMaTXL0TArnJ8IGts) | [The Little Dippers](https://open.spotify.com/artist/0cT2S58Ulp0BGro6KXAm56) | [Forever](https://open.spotify.com/album/7zV5IIfdqRHHRAUNkQ3aLX) | 2:23 | 2022-05-03 |  |
-| [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 | 2024-07-09 |  |
+| [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 | 2024-07-09 | 2026-10-28 |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 | 2022-05-03 | 2023-02-02 |
 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 | 2023-09-13 | 2024-02-14 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:21 | 2022-05-03 |  |
@@ -100,6 +100,7 @@
 | [Sometime Remind Me To Tell You](https://open.spotify.com/track/1uzcRavSRDODbcFLlRmbbU) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Just You, Just Me…](https://open.spotify.com/album/33TQZwhMEVj5ahoiFUOg0b) | 2:41 | 2022-05-03 | 2022-07-28 |
 | [Stormy Weather](https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:07 | 2022-09-30 |  |
 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 | 2022-05-03 |  |
+| [Sunburn](https://open.spotify.com/track/6N5JMJqgtF8mM5EC1mfxV0) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:30 | 2026-10-28 |  |
 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 | 2022-05-03 | 2024-05-22 |
 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 | 2024-01-22 |  |
 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2022-05-03 |  |

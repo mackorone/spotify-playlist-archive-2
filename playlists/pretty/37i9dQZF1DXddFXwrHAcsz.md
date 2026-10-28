@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,127 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,133 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 6 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
 | 7 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
 | 8 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 |
-| 9 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 |
-| 10 | [Comment ça va](https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK) | [The Shorts](https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf) | [Comment Ça Va](https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09) | 3:29 |
+| 9 | [Comment ça va](https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK) | [The Shorts](https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf) | [Comment Ça Va](https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09) | 3:29 |
+| 10 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 |
 | 11 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 |
 | 12 | [Is Dit Alles](https://open.spotify.com/track/4iUH4ksweue6iGqQUgSzhx) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doris Day en Andere Stukken](https://open.spotify.com/album/74D7apTRKmj8K2gIq4B5gK) | 5:23 |
 | 13 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 37 | [Een Tip Van De Sluier](https://open.spotify.com/track/2akTFtrsRuzFtdpDt4ItJz) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Collected \(1964 \- 2016\)](https://open.spotify.com/album/5bPH5FC8gRqCsVSgoUm5lD) | 4:55 |
 | 38 | [Geef Mij Je Angst](https://open.spotify.com/track/77Z1rV0BsUjd3hWNrO80B6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 4:20 |
 | 39 | [Bloedend Hart](https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:46 |
-| 40 | [Foto Van Vroeger](https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Het Beste Van Rob de Nijs](https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa) | 4:39 |
-| 41 | [Als Je Wint](https://open.spotify.com/track/2MISpsFh9ThVYR8rYyLcAm) | [Henny Vrienten](https://open.spotify.com/artist/3W6yvJOtMHLNQViXsXAqcH), [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [Nederpop Hits uit de 80's \- deel 2](https://open.spotify.com/album/17mzba0JG0RAEw821PUTtT) | 3:39 |
-| 42 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
+| 40 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
+| 41 | [Foto Van Vroeger](https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Het Beste Van Rob de Nijs](https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa) | 4:39 |
+| 42 | [Als Je Wint](https://open.spotify.com/track/2MISpsFh9ThVYR8rYyLcAm) | [Henny Vrienten](https://open.spotify.com/artist/3W6yvJOtMHLNQViXsXAqcH), [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [Nederpop Hits uit de 80's \- deel 2](https://open.spotify.com/album/17mzba0JG0RAEw821PUTtT) | 3:39 |
 | 43 | [Zeg Maar Niets Meer](https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 2:47 |
 | 44 | [Dansen Op De Vulkaan](https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 4:28 |
 | 45 | [Klap Maar In Je Handen](https://open.spotify.com/track/6qjS0AfAhbVpW122MWHvaR) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 5:09 |

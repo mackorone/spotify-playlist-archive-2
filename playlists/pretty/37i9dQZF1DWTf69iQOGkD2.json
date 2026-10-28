@@ -1,12 +1,12 @@
 {
   "description": "Sinta o flow do rap em estilo ac\u00fastico ou rom\u00e2ntico. Foto:  Hungria",
-  "num_followers": 662265,
+  "num_followers": 662380,
   "original_name": "Rap Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD5ODCBoe0LEcsGPl9x87yPOYOy1",
+  "snapshot_id": "AAAAAI05pcde+WQuGjDC5b4T2RZi3Jny",
   "tracks": [
     {
       "added_at": "2026-10-09 03:01:22",
@@ -151,6 +151,26 @@
       "duration_ms": 196308,
       "name": "A Lua e o Sol (RastaBeats Session)",
       "url": "https://open.spotify.com/track/55XyOaUc4ClPBr9bHP25Vl"
+    },
+    {
+      "added_at": "2026-10-27 12:54:35",
+      "album": {
+        "name": "N\u00e3o Sei Dizer (RastaBeats Session)",
+        "url": "https://open.spotify.com/album/6LEgnT8nGoKbPOkgMN9LOU"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "N\u00e3o Sei Dizer (RastaBeats Session)",
+      "url": "https://open.spotify.com/track/4DYOTGi79P5gAyKFBChAOX"
     },
     {
       "added_at": "2026-10-09 03:01:22",
@@ -511,42 +531,6 @@
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
-    },
-    {
-      "added_at": "2026-10-09 03:01:22",
-      "album": {
-        "name": "Poesia de Boteco",
-        "url": "https://open.spotify.com/album/7q3BhTN6UByX8G2WUdwyQs"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        }
-      ],
-      "duration_ms": 312207,
-      "name": "Poesia de Boteco",
-      "url": "https://open.spotify.com/track/4nbj4K2f4dkzwN54jWW2KA"
     },
     {
       "added_at": "2026-10-09 03:01:22",

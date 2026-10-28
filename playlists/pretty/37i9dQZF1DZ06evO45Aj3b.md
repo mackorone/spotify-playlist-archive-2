@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,124 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,163 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45Aj3b.md) - [plain]
 | 49 | [Stop Selling Her Drugs \(feat\. Dominic Fike\)](https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 2:53 |
 | 50 | [Hit Me Up](https://open.spotify.com/track/2effyyZIgucTZ3T3DP6PSy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Hit Me Up](https://open.spotify.com/album/5J0ZlXnvWNc57mBGESS2AO) | 2:40 |
 
-Snapshot ID: `atv1AAAAAAAWvTF4EGsKwP4+hd5TylII`
+Snapshot ID: `at1GgAAAAADXseGQ4PcX17cyWwjTVFK0`

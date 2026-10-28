@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Freya Skye
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,329 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,337 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 17 | [It's Christmas Time Again](https://open.spotify.com/track/6P5zJ67QpuAIBmTuzJHT4C) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [It's Christmas Time Again](https://open.spotify.com/album/2Ygs6TBLmVIvA1b5MnIUPN) | 3:00 |
 | 18 | [Santa Baby \(The Murder Ballad\)](https://open.spotify.com/track/5cUIwG0vJobvs4QQRbJJvF) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Santa Baby \(The Murder Ballad\)](https://open.spotify.com/album/6x0WmSenrSAsstgSNsEGpI) | 3:10 |
 | 19 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/7MSEwf5TB0y8szLTIvIl1A) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/07QQWjR9R8P7nhIlLGsTpY) | 2:59 |
-| 20 | [All Wrapped Up In You](https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [All Wrapped Up In You](https://open.spotify.com/album/1iJ9t4DG0517RBE3LhSKN3) | 3:29 |
+| 20 | [All Wrapped Up In You \(2026 Version\)](https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [All Wrapped Up In You \(2026 Version\)](https://open.spotify.com/album/1iJ9t4DG0517RBE3LhSKN3) | 3:29 |
 | 21 | [It Ain't Really Christmas](https://open.spotify.com/track/0dPIPHcVQOpIITGai0NIhr) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [A Drake Milligan Christmas](https://open.spotify.com/album/5QaW8srykW5hiAiESZuWV4) | 2:46 |
 | 22 | [That's What I Want For Christmas](https://open.spotify.com/track/7pLkojFFUYX5FTHSVKJs40) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [That's What I Want For Christmas](https://open.spotify.com/album/1NB19t02vxFRzmiCBEcWFS) | 3:57 |
 | 23 | [Welcome To Our World](https://open.spotify.com/track/442GhpfCdKEgI16DqFqJtx) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Welcome To Our World](https://open.spotify.com/album/2PTBYehAW7YSFoX0aquY0h) | 2:52 |

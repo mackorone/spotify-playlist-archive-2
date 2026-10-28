@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 477439,
+  "num_followers": 477438,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
-      },
-      "artists": [
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "LARISSA",
         "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 125304,
       "name": "LARISSA",
       "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
+      },
+      "artists": [
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Sapequinha",
-        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 134106,
-      "name": "Sapequinha",
-      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "ATEN\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
       },
@@ -1087,22 +1067,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Talarica",
-        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
+        "name": "Sapequinha",
+        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
       },
       "artists": [
         {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
         },
         {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Talarica",
-      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
+      "duration_ms": 134106,
+      "name": "Sapequinha",
+      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1139,6 +1119,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Talarica",
+        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Talarica",
+      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Tudo Ok",
         "url": "https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
         "url": "https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 184607,
       "name": "Din Din Din (Participa\u00e7\u00e3o especial de MC Pupio e MC Doguinha)",
       "url": "https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Solta a batida",
-        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Solta a batida",
-      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Solo Seduzente",
         "url": "https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 125990,
       "name": "Solo Seduzente",
       "url": "https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Solta a batida",
+        "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Solta a batida",
+      "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Aquecimento Solta o Ponto (Brega Funk)",
+        "url": "https://open.spotify.com/album/7vHUPX3oH9ndrD1hJusPw8"
+      },
+      "artists": [
+        {
+          "name": "Dj Cabide",
+          "url": "https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu"
+        }
+      ],
+      "duration_ms": 123928,
+      "name": "Aquecimento Solta o Ponto (Brega Funk)",
+      "url": "https://open.spotify.com/track/3LrEJsgBhQ8uRpAzbxDyOw"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "N\u00e3o encosta",
         "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 144039,
       "name": "N\u00e3o encosta",
       "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Aquecimento Solta o Ponto (Brega Funk)",
-        "url": "https://open.spotify.com/album/7vHUPX3oH9ndrD1hJusPw8"
-      },
-      "artists": [
-        {
-          "name": "Dj Cabide",
-          "url": "https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu"
-        }
-      ],
-      "duration_ms": 123928,
-      "name": "Aquecimento Solta o Ponto (Brega Funk)",
-      "url": "https://open.spotify.com/track/3LrEJsgBhQ8uRpAzbxDyOw"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cara Bacana",
-        "url": "https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Cara Bacana",
-      "url": "https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Bumbum Granada",
         "url": "https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 187924,
       "name": "Bumbum Granada",
       "url": "https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Cara Bacana",
+        "url": "https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Cara Bacana",
+      "url": "https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
-        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
-      },
-      "artists": [
-        {
-          "name": "MC Bruna Alves",
-          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
-        },
-        {
-          "name": "Dj Digo Beat",
-          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
-      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Espirra o Lan\u00e7a",
         "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
+        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
+      },
+      "artists": [
+        {
+          "name": "MC Bruna Alves",
+          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
+        },
+        {
+          "name": "Dj Digo Beat",
+          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
+      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
     },
     {
       "added_at": "2023-06-26 14:06:50",

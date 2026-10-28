@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,527 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,544 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 32 | [FAMA](https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:05 |
 | 33 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 |
 | 34 | [Loira Gelada](https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 3:12 |
-| 35 | [BATE VOLTA](https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BATE VOLTA](https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6) | 2:29 |
-| 36 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
-| 37 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
+| 35 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
+| 36 | [BATE VOLTA](https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BATE VOLTA](https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6) | 2:29 |
+| 37 | [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 |
 | 38 | [Santa Maculada](https://open.spotify.com/track/67Nv43gpsFhtu0zHeWros3) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 2:14 |
 | 39 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 |
 | 40 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
-| 41 | [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 |
+| 41 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
 | 42 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 |
 | 43 | [ZZIRIT \(Feat\. Luísa Sonza\)](https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chain Reaction](https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW) | 2:21 |
 | 44 | [Consolação](https://open.spotify.com/track/3aQlzls4W5SlVuEBsLUCZg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t) | 2:51 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 47 | [Posição de Ataque](https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Posição de Ataque](https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs) | 2:29 |
 | 48 | [escapismo](https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [escapismo](https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ) | 3:00 |
 
-Snapshot ID: `atv1AAAAAABguexxGn8vc+Cp8pNkD00p`
+Snapshot ID: `at1GgAAAAAB/5Hn+GsgZ1XTq5ihBIXO7`

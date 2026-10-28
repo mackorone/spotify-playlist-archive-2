@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 823533,
+  "num_followers": 823597,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-09 04:01:39",
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
+      },
+      "artists": [
+        {
+          "name": "The Huntress and Holder of Hands",
+          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
+        }
+      ],
+      "duration_ms": 331908,
+      "name": "Shake off Your Flesh",
+      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
+    },
+    {
+      "added_at": "2026-10-09 04:01:39",
+      "album": {
         "name": "Reckoning",
         "url": "https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2026-10-09 04:01:39",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
-      },
-      "artists": [
-        {
-          "name": "The Huntress and Holder of Hands",
-          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
-        }
-      ],
-      "duration_ms": 331908,
-      "name": "Shake off Your Flesh",
-      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2026-10-09 04:01:39",
-      "album": {
         "name": "Country Is Dead",
         "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 222680,
       "name": "Alone And Forsaken",
       "url": "https://open.spotify.com/track/4Vj4lQaRXrSzyLvXTl0vV8"
-    },
-    {
-      "added_at": "2026-10-09 04:01:39",
-      "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-10-09 04:01:39",
@@ -1011,6 +995,22 @@
       "duration_ms": 203757,
       "name": "Six Shades of Grey",
       "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
+    },
+    {
+      "added_at": "2026-10-09 04:01:39",
+      "album": {
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-10-09 04:01:39",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-10-09 04:01:39",
       "album": {
-        "name": "Alcohol and Adderall",
-        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 212997,
-      "name": "Alcohol and Adderall",
-      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
-    },
-    {
-      "added_at": "2026-10-09 04:01:39",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2026-10-09 04:01:39",
+      "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
     },
     {
       "added_at": "2026-10-09 04:01:39",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-10-09 04:01:39",
       "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
+    },
+    {
+      "added_at": "2026-10-09 04:01:39",
+      "album": {
         "name": "Little Dove",
         "url": "https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 228176,
       "name": "Little Dove",
       "url": "https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL"
-    },
-    {
-      "added_at": "2026-10-09 04:01:39",
-      "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2026-10-09 04:01:39",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-10-09 04:01:39",
       "album": {
-        "name": "Election Day",
-        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Election Day",
-      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
-    },
-    {
-      "added_at": "2026-10-09 04:01:39",
-      "album": {
         "name": "Small Town Murder Songs - Original Soundtrack",
         "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 192586,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
+    },
+    {
+      "added_at": "2026-10-09 04:01:39",
+      "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
     },
     {
       "added_at": "2026-10-09 04:01:39",

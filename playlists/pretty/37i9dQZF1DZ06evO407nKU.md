@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,730 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,744 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 43 | [Quisiera](https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Quisiera](https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ) | 2:09 |
 | 44 | [No Llores Mis Recuerdos](https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [No Llores Mas Mis Recuerdos](https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0) | 4:42 |
 | 45 | [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 |
-| 46 | [Siempre A Tu Lado \(En Vivo\)](https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dariel Party, Vol 1.](https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ) | 3:12 |
-| 47 | [Desaires](https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0) | 2:41 |
+| 46 | [Desaires](https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0) | 2:41 |
+| 47 | [Siempre A Tu Lado \(En Vivo\)](https://open.spotify.com/track/2uSVCaGxiQzjL9jeFulzi6) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dariel Party, Vol 1.](https://open.spotify.com/album/7JAN9DcCWJ1JEOmRi34YPQ) | 3:12 |
 | 48 | [No Te Vayas \(En Vivo\)](https://open.spotify.com/track/0jsofQtfJhAcaOJ8lvLThX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s) | [Perdidos Con Kaña](https://open.spotify.com/album/6S17Mdk7DhKgwqsTIuWXhg) | 3:07 |
 | 49 | [Mi Ranchito \- En Vivo](https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mi Ranchito](https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z) | 2:54 |
 | 50 | [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 |

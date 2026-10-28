@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, JUST LIZZY, Forwardman and more",
+  "description": "With NUDNIK, JUST LIZZY, Rue Oberkampf and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 190236,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 180618,
       "name": "After me",
       "url": "https://open.spotify.com/track/1bNrXATqj2VezekYuWtQWH"
@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "ANA \u0623\u0646\u0627",
+        "url": "https://open.spotify.com/album/3Z73xyqhKaAP0qwMXwhN1R"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saboun\u00e9",
+          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Ana (\u0623\u0646\u0627)",
+      "url": "https://open.spotify.com/track/0oVIRwG5uawkCAanwRVyCa"
+    },
+    {
+      "album": {
         "name": "Murmurs Under Memphis",
         "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 262000,
       "name": "Ancestral Cry",
       "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 240431,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/2MYdE4abRFwX5ga74BklCT"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 219024,
       "name": "Broken Picasso (A Very British Protest)",
       "url": "https://open.spotify.com/track/1Rm4dNrtCihWV9WBuQ62Ww"
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 265072,
       "name": "C.L.C",
       "url": "https://open.spotify.com/track/79nGNGEJExUcBT80MajWOT"
@@ -6186,7 +6204,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 248151,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/35RXFqaEm1jkQwoZ5wXFb9"
@@ -6262,6 +6280,24 @@
       "duration_ms": 184320,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/41LoiUC9BIusEAlctY9Dx7"
+    },
+    {
+      "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/5uOA6ELV2MeeIljGUCgDAP"
+      },
+      "artists": [
+        {
+          "name": "Aurat",
+          "url": "https://open.spotify.com/artist/4ZiXmGjXlAVQNvqXq5VXx0"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167008,
+      "name": "dreadful game",
+      "url": "https://open.spotify.com/track/0tsH0PDMF8Xq3XBIKjAZvr"
     },
     {
       "album": {
@@ -6950,7 +6986,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "Energy Redirected",
       "url": "https://open.spotify.com/track/5fW5oX67ZcclTeIkPix0CK"
@@ -7568,7 +7604,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -7622,7 +7658,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 205008,
       "name": "Fascinating Me",
       "url": "https://open.spotify.com/track/2sAz58nXQoQTSwsxCdHVWg"
@@ -8362,7 +8398,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -8536,7 +8572,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 216506,
       "name": "Gazing Back",
       "url": "https://open.spotify.com/track/0wLwXaiQfTdsbToiIU3kso"
@@ -10628,7 +10664,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 189558,
       "name": "IDK",
       "url": "https://open.spotify.com/track/4lubGCqIHdtilZXttvFBuL"
@@ -11036,7 +11072,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 249716,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0HuanearWSgH1HshtDDHZY"
@@ -12498,6 +12534,24 @@
       "duration_ms": 120000,
       "name": "Least",
       "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
+    },
+    {
+      "album": {
+        "name": "ANA \u0623\u0646\u0627",
+        "url": "https://open.spotify.com/album/3Z73xyqhKaAP0qwMXwhN1R"
+      },
+      "artists": [
+        {
+          "name": "Nicole Saboun\u00e9",
+          "url": "https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301093,
+      "name": "Leave it All Behind (\u0623\u062a\u0631\u0643 \u0643\u0644 \u0634\u064a\u0621 \u062e\u0644\u0641\u0643)",
+      "url": "https://open.spotify.com/track/6LWwJQZbcf7U1y7r94D1nA"
     },
     {
       "album": {
@@ -14562,7 +14616,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 277408,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/7M3sWPlXhf3w2hWtLeFSom"
@@ -17952,7 +18006,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -18049,6 +18103,28 @@
     },
     {
       "album": {
+        "name": "ICONMIXED",
+        "url": "https://open.spotify.com/album/3yw6DiPuU6BM7Hae82nEOa"
+      },
+      "artists": [
+        {
+          "name": "Emmon",
+          "url": "https://open.spotify.com/artist/3WvUXfAhZSBw2ELfRGhnnP"
+        },
+        {
+          "name": "Rhys Fulber",
+          "url": "https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342283,
+      "name": "Shades of Blue - (Rhys Fulber Remix)",
+      "url": "https://open.spotify.com/track/021Kc5Yv4U2b8BrhaWficT"
+    },
+    {
+      "album": {
         "name": "Murmurs Under Memphis",
         "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
       },
@@ -18064,10 +18140,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1yDtngy0nJMQ7oBEPloWjY"
+    },
+    {
+      "album": {
+        "name": "you can have it, i don\u2019t want it no more",
+        "url": "https://open.spotify.com/album/6Yxblo6AxNfg35koGtUaAX"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243565,
+      "name": "shadow boxing",
+      "url": "https://open.spotify.com/track/5sM2p9eZCSkiu2hFLLZH5W"
     },
     {
       "album": {
@@ -18302,7 +18396,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 197824,
       "name": "Sharehouse Blues",
       "url": "https://open.spotify.com/track/4AG2vjhfDzudK7KKQNLgyM"
@@ -19352,7 +19446,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 162063,
       "name": "Sou1/Spiri7",
       "url": "https://open.spotify.com/track/1QIG4U1pHWp4DU9bNFNoF8"
@@ -20744,7 +20838,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 271590,
       "name": "Tell The Leaves Not To Turn",
       "url": "https://open.spotify.com/track/6hn3YfzZe35Y0MoAxJMNL9"
@@ -22512,7 +22606,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -22934,7 +23028,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -23370,7 +23464,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 237888,
       "name": "Undead",
       "url": "https://open.spotify.com/track/5KA1lM5sdwMzuKn386tb1Q"
@@ -24610,7 +24704,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 347000,
       "name": "What Do You See?",
       "url": "https://open.spotify.com/track/15oetushp1flIyQ6ctHzVE"
@@ -24918,7 +25012,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -25239,6 +25333,24 @@
     },
     {
       "album": {
+        "name": "Winter Winds",
+        "url": "https://open.spotify.com/album/6iGSH4d4YqsoQXumnVsaYO"
+      },
+      "artists": [
+        {
+          "name": "Screaming Yoga Club",
+          "url": "https://open.spotify.com/artist/4ZpLYV4ancslPdD39uslZc"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/5FZ0LutacM98LqyELsMgRq"
+    },
+    {
+      "album": {
         "name": "Wire Drums",
         "url": "https://open.spotify.com/album/0xbFOd1TtAr50OpQJSnV2X"
       },
@@ -25250,7 +25362,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"

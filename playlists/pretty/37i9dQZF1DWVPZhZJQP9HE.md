@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,878 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,921 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

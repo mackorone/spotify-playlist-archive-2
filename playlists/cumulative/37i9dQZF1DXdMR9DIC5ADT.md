@@ -4,7 +4,7 @@
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: keshi
 
-890 songs - 2 day 1 hr 28 min
+891 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-28 | 2024-07-27 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2023-03-15 |  |
 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-10 | 2024-11-15 |
-| [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 | 2026-10-22 |  |
+| [i think he's got a girl](https://open.spotify.com/track/5KJwFcJc0m1u4F8mVkwT5Y) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [i think he's got a girl](https://open.spotify.com/album/0S3Afd9nLzxbruNzzGPbJ0) | 3:34 | 2026-10-22 | 2026-10-28 |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-21 | 2025-10-03 |
 | [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 | 2025-03-06 | 2025-03-22 |
 | [I'm Not People](https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [again sometime?](https://open.spotify.com/album/473k5PVlVC3sMsiGoFwf5o) | 3:45 | 2024-08-29 | 2024-09-13 |
@@ -760,6 +760,7 @@
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-12 | 2024-11-07 |
 | [Tallinn](https://open.spotify.com/track/3jXXnHujoTjC4lnr3jUY1w) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Tallinn](https://open.spotify.com/album/58BG7qaTJWEaNvnoCDCwgp) | 2:42 | 2025-02-27 | 2025-03-07 |
 | [Tandem Bike](https://open.spotify.com/track/6NUrORpYDdSFLYk96VrQlr) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Too Close For Running](https://open.spotify.com/album/5rkPZZREcGzY34cLajIzcg) | 2:52 | 2026-09-17 |  |
+| [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 | 2026-10-22 |  |
 | [tears](https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [tears](https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P) | 2:07 | 2024-06-13 | 2024-09-06 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 |  |
 | [TENNESSEE](https://open.spotify.com/track/19uJXEzXyp37uw6tOmKMMA) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Trevor Spitta](https://open.spotify.com/artist/6uCXq7IoXFqGSB3L5zX5oV), [Zachary Moon](https://open.spotify.com/artist/26rBtms72mHDWwdA6OmWIJ) | [COYOTE](https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu) | 2:33 | 2024-09-26 | 2024-10-11 |

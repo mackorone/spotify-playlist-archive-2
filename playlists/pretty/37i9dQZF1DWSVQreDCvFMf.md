@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: GEHLEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,511 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,560 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 55 | [Nahuhulog Nanaman Sa'yo](https://open.spotify.com/track/2NVJNM6UtvVhsz335h4Rk3) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nahuhulog Nanaman Sa'yo](https://open.spotify.com/album/7s3Gy06Iv0kmrtVBnO9t0n) | 3:18 |
 | 56 | [10yrs](https://open.spotify.com/track/7smsa7cVPwPteHJJ2Rgpbo) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL) | [10yrs](https://open.spotify.com/album/58HEOt2iZV3ITEt0ZM1VjT) | 4:02 |
 | 57 | [Nasa Ulap](https://open.spotify.com/track/2QL0YcVoACpQrfVeMSfDfR) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Nasa Ulap](https://open.spotify.com/album/4UcDLHwuR5hEKlpTx1SEA5) | 3:18 |
-| 58 | [Lubayan](https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r), [Enrique Hidalgo](https://open.spotify.com/artist/5y38JK4NgfflFTtIEUvc9f) | [Lubayan](https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH) | 2:55 |
+| 58 | [Lubayan](https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r), [Enrique Hidalgo](https://open.spotify.com/artist/1Ml5mXmoyL1dLoeSICEseI) | [Lubayan](https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH) | 2:55 |
 | 59 | [Realidad](https://open.spotify.com/track/2Q3TmKXe3bAw1uF5GlSv6u) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Realidad](https://open.spotify.com/album/3UCxh0e8g1aEXjW1wEBWGg) | 3:05 |
 | 60 | [Abot Langit](https://open.spotify.com/track/7hgEWxSiTgod64zHBdaJGd) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY), [dana paulene](https://open.spotify.com/artist/7cYNDABWPazJakksQnbZFA) | [Abot Langit](https://open.spotify.com/album/1suU5Eqx34iDlXhIBR1fIV) | 4:05 |
 | 61 | [ikaw](https://open.spotify.com/track/58b443Cif2xysQK1WoH2RE) | [3AM](https://open.spotify.com/artist/1h5eRSFTxtcqvv04uKU2kz) | [ikaw](https://open.spotify.com/album/7i9liawBNYlGcRh1B1Ywsd) | 2:28 |

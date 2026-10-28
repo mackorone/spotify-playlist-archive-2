@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Shamis
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,537 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,529 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Insane](https://open.spotify.com/track/0Vzs2KjrNBx7xzAGZPvk5g) | [Julia Rebière](https://open.spotify.com/artist/3yiyvhlHgefS4Flk1FUAGK) | [Insane](https://open.spotify.com/album/60sT1U2Szh3fSlVTFrGWuS) | 3:25 |
 | 80 | [BEAUTIFUL DAY](https://open.spotify.com/track/3BytHPrP6HolL4qFikBs0y) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [BEAUTIFUL DAY](https://open.spotify.com/album/2CRjF7mOcgW1WRPMNMXAye) | 2:00 |
 
-Snapshot ID: `AAAAADy4D58wY95dWuFdP3bk0YUCxqpb`
+Snapshot ID: `AAAAAGL0maUXYIqYdbDEL53HGa8Jh5mT`

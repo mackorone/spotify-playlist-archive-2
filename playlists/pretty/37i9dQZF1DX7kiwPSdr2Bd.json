@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Fabiana Sinfr\u00f4nio",
-  "num_followers": 370917,
+  "num_followers": 370931,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Maravilhado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454587,
-      "name": "Maravilhado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Imperfeito (Ao Vivo)",
         "url": "https://open.spotify.com/album/2JZNenqOJINmbMbw8msRY9"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 331786,
       "name": "Imperfeito - Ao Vivo",
       "url": "https://open.spotify.com/track/3sqLvSiwdtqXoYtQg2gXTB"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Maravilhado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454587,
+      "name": "Maravilhado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Santo pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 327756,
-      "name": "Santo pra Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Me Atraiu (Reimagined)",
-        "url": "https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR"
+        "name": "Santo pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
         }
       ],
-      "duration_ms": 264220,
-      "name": "Me Atraiu (Reimagined)",
-      "url": "https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6"
+      "duration_ms": 327756,
+      "name": "Santo pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -847,6 +831,22 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Me Atraiu (Reimagined)",
+        "url": "https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 264220,
+      "name": "Me Atraiu (Reimagined)",
+      "url": "https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Eu Tenho Pai",
         "url": "https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw"
       },
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 352037,
-      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 312497,
       "name": "Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 352037,
+      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Deus Prover\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        }
-      ],
-      "duration_ms": 332677,
-      "name": "Deus Prover\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
@@ -995,22 +979,18 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Eu Tenho uma Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4aqGlblyh993tK9y4juEa9"
+        "name": "Deus Prover\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6"
       },
       "artists": [
         {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         }
       ],
-      "duration_ms": 271903,
-      "name": "Eu Tenho uma Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2M9yqk3MLhe1oYnWhxkOwY"
+      "duration_ms": 332677,
+      "name": "Deus Prover\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1027,6 +1007,26 @@
       "duration_ms": 304280,
       "name": "O Tanque de Betesda (Ao Vivo)",
       "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Eu Tenho uma Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4aqGlblyh993tK9y4juEa9"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 271903,
+      "name": "Eu Tenho uma Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2M9yqk3MLhe1oYnWhxkOwY"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "N\u00e3o Paraliso",
-        "url": "https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Reis",
-          "url": "https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "N\u00e3o Paraliso",
-      "url": "https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Levarei a Minha Cruz (Ao Vivo)",
         "url": "https://open.spotify.com/album/5PFQ5bt8Gd5nuFnaW9NQRk"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 215294,
       "name": "Levarei a Minha Cruz - Ao Vivo",
       "url": "https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "N\u00e3o Paraliso",
+        "url": "https://open.spotify.com/album/48nUvEJhwxiy2tX52svFVk"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Reis",
+          "url": "https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "N\u00e3o Paraliso",
+      "url": "https://open.spotify.com/track/1hYfvLp7R7kiNWxkvpHMVb"
     },
     {
       "added_at": "2026-08-07 14:18:25",

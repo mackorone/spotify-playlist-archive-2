@@ -211,42 +211,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Calm Current",
-        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
-      },
-      "artists": [
-        {
-          "name": "Watasino",
-          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
-        },
-        {
-          "name": "Lonely Girl",
-          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Calm Current",
-      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 159009,
-      "name": "Stray Cat",
-      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ"
       },
@@ -267,18 +231,38 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Maru",
-        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
         }
       ],
-      "duration_ms": 167978,
-      "name": "Maru",
-      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
+      "duration_ms": 159009,
+      "name": "Stray Cat",
+      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
+      },
+      "artists": [
+        {
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+        },
+        {
+          "name": "Lonely Girl",
+          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -295,6 +279,22 @@
       "duration_ms": 183157,
       "name": "Somnolent Nova",
       "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Maru",
+        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 167978,
+      "name": "Maru",
+      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "So Long So Blue",
-        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Goodbye Blurry Days",
-      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Yura Yura",
         "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 138426,
       "name": "Yura Yura",
       "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "So Long So Blue",
+        "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Goodbye Blurry Days",
+      "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "UP AND DOWN Original Soundtrack",
-        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
-      },
-      "artists": [
-        {
-          "name": "Marihiko Hara",
-          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
-        }
-      ],
-      "duration_ms": 189696,
-      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "rias",
         "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 283170,
       "name": "rias",
       "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "UP AND DOWN Original Soundtrack",
+        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        }
+      ],
+      "duration_ms": 189696,
+      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -779,22 +779,22 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Resting Place",
-        "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
       },
       "artists": [
         {
-          "name": "E J R M",
-          "url": "https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ"
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
         },
         {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
         }
       ],
-      "duration_ms": 189723,
-      "name": "Resting Place",
-      "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -815,22 +815,22 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+        "name": "Resting Place",
+        "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
       },
       "artists": [
         {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+          "name": "E J R M",
+          "url": "https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ"
         },
         {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+      "duration_ms": 189723,
+      "name": "Resting Place",
+      "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -959,58 +959,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "Abbot Kinney",
-        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Thank You (feat. Jozzy)",
-      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -1031,6 +979,58 @@
       "duration_ms": 154482,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Abbot Kinney",
+        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Thank You (feat. Jozzy)",
+      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT"
-    },
-    {
-      "added_at": "2026-10-19 02:40:42",
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2026-10-19 02:40:42",
       "album": {
-        "name": "Continue",
-        "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy"
       },
       "artists": [
         {
-          "name": "One-half",
-          "url": "https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO"
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
         }
       ],
-      "duration_ms": 232066,
-      "name": "Continue",
-      "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
+      "duration_ms": 247000,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT"
     },
     {
       "added_at": "2026-10-19 02:40:42",
@@ -1459,6 +1443,22 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2026-10-19 02:40:42",
+      "album": {
+        "name": "Continue",
+        "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
+      },
+      "artists": [
+        {
+          "name": "One-half",
+          "url": "https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Continue",
+      "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
     },
     {
       "added_at": "2026-10-19 02:40:42",

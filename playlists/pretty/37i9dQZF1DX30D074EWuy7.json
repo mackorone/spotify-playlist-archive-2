@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35224,
+  "num_followers": 35225,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Libidine (Orginal Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml"
+        "name": "Petali",
+        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
       },
       "artists": [
         {
-          "name": "Nora Orlandi",
-          "url": "https://open.spotify.com/artist/3p6nLdwfXNkENb2NplCvyv"
-        },
-        {
-          "name": "Stelvio Cipriani",
-          "url": "https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ"
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
         }
       ],
-      "duration_ms": 263520,
-      "name": "Libidine 8",
-      "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
+      "duration_ms": 217872,
+      "name": "Lei balla sola",
+      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -475,18 +471,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Petali",
-        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
+        "name": "Libidine (Orginal Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml"
       },
       "artists": [
         {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+          "name": "Nora Orlandi",
+          "url": "https://open.spotify.com/artist/3p6nLdwfXNkENb2NplCvyv"
+        },
+        {
+          "name": "Stelvio Cipriani",
+          "url": "https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ"
         }
       ],
-      "duration_ms": 217872,
-      "name": "Lei balla sola",
-      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
+      "duration_ms": 263520,
+      "name": "Libidine 8",
+      "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Carioca",
         "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
       },
       "artists": [
         {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
         }
       ],
-      "duration_ms": 244632,
-      "name": "Zenzero e cannella",
-      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -639,6 +623,22 @@
       "duration_ms": 388854,
       "name": "Estate",
       "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Zenzero e cannella",
+      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "L'indispensabile",
+        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
+      },
+      "artists": [
+        {
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
+        }
+      ],
+      "duration_ms": 407760,
+      "name": "Ultimo amore",
+      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Oltreoceano",
         "url": "https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 199639,
       "name": "Fine Di Un'Era",
       "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "L'indispensabile",
-        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
-      },
-      "artists": [
-        {
-          "name": "Vinicio Capossela",
-          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
-        }
-      ],
-      "duration_ms": 407760,
-      "name": "Ultimo amore",
-      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Funambola",
+        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
+      },
+      "artists": [
+        {
+          "name": "Patrizia Laquidara",
+          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Ziza",
+      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Funambola",
-        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
-      },
-      "artists": [
-        {
-          "name": "Patrizia Laquidara",
-          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Ziza",
-      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "Baccanalia",
         "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 283675,
       "name": "Lupercalia",
       "url": "https://open.spotify.com/track/2M54kioZePt2NA1LDqYIHM"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vacation and Probation",
-        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "Vacation and Probation",
-      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 151000,
       "name": "notte brava",
       "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 171786,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/0DBV5Pe201bmncX6xwsTkc"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
+        "name": "Amore a prima vista",
+        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Papik",
+          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "Amore a prima vista - Bossa & Jazz Version",
+      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
         "name": "MADRE",
         "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
       },
@@ -1555,22 +1575,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Amore a prima vista",
-        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
       "artists": [
         {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
         }
       ],
-      "duration_ms": 164246,
-      "name": "Amore a prima vista - Bossa & Jazz Version",
-      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1591,22 +1607,6 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     }
   ],
   "unique_name": "Jazz Italia",

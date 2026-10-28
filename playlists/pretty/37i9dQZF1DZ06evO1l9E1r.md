@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,537 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,539 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [The Bone Temple](https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [28 Years Later: The Bone Temple \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy) | 6:23 |
 | 50 | [Ravine](https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mary Magdalene \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0) | 2:01 |
 
-Snapshot ID: `atv1AAAAAACzb33JVplrU31Um6ULR77E`
+Snapshot ID: `at1GgAAAAACGv7yDp+D7kYcofEjm6rCs`

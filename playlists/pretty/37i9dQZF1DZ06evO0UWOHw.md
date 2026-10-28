@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,685 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,703 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 7 | [WHO THIS \(feat\. BNXN\)](https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:26 |
 | 8 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/3RMr94P81nO3GtW9MfqNp5) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:45 |
 | 9 | [Stubborn](https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:56 |
-| 10 | [Hello](https://open.spotify.com/track/2EgT3GT6MzX2NfK2TJNbPK) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:50 |
-| 11 | [STARLIFE \(feat\. Blaqbonez & YKB\)](https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:44 |
+| 10 | [STARLIFE \(feat\. Blaqbonez & YKB\)](https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:44 |
+| 11 | [Hello](https://open.spotify.com/track/2EgT3GT6MzX2NfK2TJNbPK) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:50 |
 | 12 | [Kolomental](https://open.spotify.com/track/6ve01VVzDgMKldixX6iX0i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Kolomental](https://open.spotify.com/album/7JgsLKSkDvEaErldrIW37f) | 3:17 |
 | 13 | [Everything](https://open.spotify.com/track/1hbnlGCWNVbRUmN5qBTnTN) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:46 |
 | 14 | [TYPO](https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 1:42 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 20 | [Rosemary](https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Utopia](https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut) | 3:08 |
 | 21 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 |
 | 22 | [PINO \(feat\. Babyboy AV\)](https://open.spotify.com/track/4a1mfq20AKj6XNEh1SXhbJ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:32 |
-| 23 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 |
-| 24 | [Holy Father](https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 3:04 |
+| 23 | [Holy Father](https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 3:04 |
+| 24 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 |
 | 25 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 26 | [Pier 46](https://open.spotify.com/track/6EUg3wVnfrqwDzOqLFWovl) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:38 |
 | 27 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Amen](https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:54 |
 | 50 | [Chop & Slide](https://open.spotify.com/track/3WsH5oWObB3Lo1Q0cQjSwq) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:48 |
 
-Snapshot ID: `atv1AAAAAACElZdnfQ9QQqnSGEZkLmSj`
+Snapshot ID: `at1GgAAAAACy6XI26p1zNjRr0Q+kQSkQ`

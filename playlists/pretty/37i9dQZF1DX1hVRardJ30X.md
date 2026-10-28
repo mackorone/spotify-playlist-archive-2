@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Victor Mendivi, Myke Towers, Xavi,Rubí and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,662 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,711 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 24 | [Otra Vez](https://open.spotify.com/track/5FQ4SrsvTToga95IFyZf0q) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [LAYAN](https://open.spotify.com/artist/4LiAzozVB7WdJgquSwEH9a) | [Otra Vez](https://open.spotify.com/album/452e6diVPDNtxXIYpCVeZr) | 4:18 |
 | 25 | [Aunque Digan](https://open.spotify.com/track/6eFAHAO2SCdssipP2xrMYC) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [GTA \(Gotay The Autentiko\), Vol\. 2](https://open.spotify.com/album/0Y8PV5mFjtHxj3APbYNMMS) | 2:21 |
 | 26 | [TA TE TI](https://open.spotify.com/track/4QHSNccFDmGBseFy2mFeDw) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [TA TE TI](https://open.spotify.com/album/4TFCAMAtiNAFdynRGvl9v8) | 2:24 |
-| 27 | [Carnaval](https://open.spotify.com/track/4GtV7LofvLjXPv73vu6pOH) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [soy un fatalista](https://open.spotify.com/album/5Ggkzq2WtTf1EV1yFWTWmd) | 2:01 |
+| 27 | [Carnaval](https://open.spotify.com/track/4GtV7LofvLjXPv73vu6pOH) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [Soy un fatalista](https://open.spotify.com/album/5Ggkzq2WtTf1EV1yFWTWmd) | 2:01 |
 | 28 | [Etudiate](https://open.spotify.com/track/1WyVTrC8RW6L1zqf5UqNje) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Etudiate](https://open.spotify.com/album/4ie0hUZZhL07Tk9xRGIu1m) | 1:59 |
 | 29 | [Tu Ciudad](https://open.spotify.com/track/0LRvL0qZMagXy0DtqWfpHn) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Tu Ciudad](https://open.spotify.com/album/7BmdmacYex0v02aT8Ohzqt) | 3:37 |
 | 30 | [FOTITOS POLARIZADAS](https://open.spotify.com/track/3P2tkO3FizR7pZa5KWTedf) | [Luno](https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [FOTITOS POLARIZADAS](https://open.spotify.com/album/3P6qlAgw1D7RliVQq8YkIN) | 2:58 |

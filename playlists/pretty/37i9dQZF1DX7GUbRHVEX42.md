@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Kelissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,593 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,537 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 48 | [Step by Step](https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Step by Step](https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe) | 3:45 |
 | 49 | [Summertime](https://open.spotify.com/track/0qVi78o4X4gi3jHpDaLhED) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Summertime](https://open.spotify.com/album/5H8lZKP8gKPxdLVYDCXZmO) | 3:08 |
 | 50 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
-| 51 | [Pilates](https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Pilates](https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs) | 2:25 |
-| 52 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
+| 51 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
+| 52 | [Light My Way](https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [The Autos](https://open.spotify.com/artist/0UJa2HnlrNe3QueQ7MWTR0) | [Light My Way](https://open.spotify.com/album/4ebYOwCdrhNktMPMv8zrcZ) | 3:19 |
 | 53 | [GOOD TIMES](https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [GOOD TIMES](https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7) | 2:55 |
-| 54 | [Light My Way](https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [The Autos](https://open.spotify.com/artist/0UJa2HnlrNe3QueQ7MWTR0) | [Light My Way](https://open.spotify.com/album/4ebYOwCdrhNktMPMv8zrcZ) | 3:19 |
+| 54 | [Pilates](https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Pilates](https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs) | 2:25 |
 | 55 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
 | 56 | [Road Runner](https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux) | [Yeza](https://open.spotify.com/artist/36jYC060pMMY4uSbkj50cu), [Rorystonelove](https://open.spotify.com/artist/31hI4ZIjeMbbfxXgSsaRJC) | [Road Runner](https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY) | 2:58 |
 | 57 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |

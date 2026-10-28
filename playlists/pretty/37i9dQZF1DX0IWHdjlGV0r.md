@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover:  Shiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,524 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,540 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 39 | [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 |
 | 40 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
 | 41 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
-| 42 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
+| 42 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
 | 43 | [MONDAY \(feat\. Shiva & Michelangelo\)](https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 |
-| 44 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
+| 44 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
 | 45 | [Donna](https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 2:59 |
 | 46 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 |
 | 47 | [Ti Amo](https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 4:25 |

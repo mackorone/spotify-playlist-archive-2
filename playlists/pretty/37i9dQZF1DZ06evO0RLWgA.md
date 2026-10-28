@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,885 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,890 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Cuttin' Out \- feat\. Canned Heat](https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:37 |
 | 50 | [I'm Bad Like Jesse James \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 5:31 |
 
-Snapshot ID: `atv1AAAAAAD95eYMFi+GZiPXRDaJFwS/`
+Snapshot ID: `at1GgAAAAADJ8/rppnKpc6QwBBI5VkC+`

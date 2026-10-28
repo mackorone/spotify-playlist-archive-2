@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1540708,
+  "num_followers": 1540495,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "Malas Ma\u00f1as",
-        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Malas Ma\u00f1as",
-      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Amor De Antes",
         "url": "https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 182240,
       "name": "Amor De Antes",
       "url": "https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "perd\u00f3n",
+        "url": "https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 163567,
+      "name": "perd\u00f3n",
+      "url": "https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "Te Caigo",
         "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "perd\u00f3n",
-        "url": "https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 163567,
-      "name": "perd\u00f3n",
-      "url": "https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw"
     },
     {
       "added_at": "2026-10-21 21:02:34",

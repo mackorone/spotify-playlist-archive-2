@@ -1,6 +1,6 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 381403,
+  "num_followers": 381413,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+        "name": "G\u00e1rgolas Forever",
+        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 176538,
-      "name": "North Carolina",
-      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
+      "duration_ms": 206706,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
     },
     {
       "added_at": null,
@@ -767,42 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Not Disturb",
-        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Traviesa (feat. Eladio Carrion)",
-      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00e1rgolas Forever",
-        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
-      },
-      "artists": [
-        {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
+      "duration_ms": 176538,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
       "duration_ms": 415973,
       "name": "Falsas Promesas - Remix",
       "url": "https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Traviesa (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/7E6bhcHhU5LwXjiAITtBkZ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1572032,
+  "num_followers": 1572226,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObsR3kDk51XFi8iPUYY690QFhIg",
+  "snapshot_id": "AAAAAJgXaNycEEk/1WAEvsNxEFT4HAyu",
   "tracks": [
     {
       "added_at": "2026-10-19 13:35:15",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/2ibu5krUd9w1z4ln2eUof7"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/570np7INhblFuffFDsgPzi"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 169500,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Keep on Moving",
-        "url": "https://open.spotify.com/album/2ibu5krUd9w1z4ln2eUof7"
-      },
-      "artists": [
-        {
-          "name": "Jordiz",
-          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Keep on Moving",
-      "url": "https://open.spotify.com/track/570np7INhblFuffFDsgPzi"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Discorecord (Galactixx Remix)",
-        "url": "https://open.spotify.com/album/6zMvYeBxaGnry4GQAaI7fd"
-      },
-      "artists": [
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
-        },
-        {
-          "name": "Galactixx",
-          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
-        }
-      ],
-      "duration_ms": 156687,
-      "name": "Discorecord - Galactixx Remix",
-      "url": "https://open.spotify.com/track/3GTv9eSn7MKs9dKxtFpXYk"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "Darkest Hour (The Clock)",
         "url": "https://open.spotify.com/album/4eI1N5KbjJ5j4Mfa8yZPhM"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 241600,
       "name": "Darkest Hour (The Clock)",
       "url": "https://open.spotify.com/track/5DWoPJxISs9VMRCJBzujB6"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "Discorecord (Galactixx Remix)",
+        "url": "https://open.spotify.com/album/6zMvYeBxaGnry4GQAaI7fd"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "duration_ms": 156687,
+      "name": "Discorecord - Galactixx Remix",
+      "url": "https://open.spotify.com/track/3GTv9eSn7MKs9dKxtFpXYk"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Awake Me (Official Intents Festival 2026 Anthem)",
+        "url": "https://open.spotify.com/album/45WGbyf9GBYyfe2PBq4FPx"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        },
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Awake Me - Official Intents Festival 2026 Anthem",
+      "url": "https://open.spotify.com/track/75IVG3ixjUW2SiFxuOrFWi"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "Be Somebody",
         "url": "https://open.spotify.com/album/0mRAOZAX50yiKFMXA1LNnP"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 207750,
       "name": "It Will Be OK",
       "url": "https://open.spotify.com/track/6CtHeORCTBgceaxVrWKgm0"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Awake Me (Official Intents Festival 2026 Anthem)",
-        "url": "https://open.spotify.com/album/45WGbyf9GBYyfe2PBq4FPx"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        },
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Awake Me - Official Intents Festival 2026 Anthem",
-      "url": "https://open.spotify.com/track/75IVG3ixjUW2SiFxuOrFWi"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Freestyler",
-        "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
-      },
-      "artists": [
-        {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        }
-      ],
-      "duration_ms": 198009,
-      "name": "Freestyler",
-      "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "Coco Jamboo",
         "url": "https://open.spotify.com/album/1NdZ3G4G0d2eR8g3M0TWyr"
       },
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Freestyler",
+        "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "duration_ms": 198009,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/52r9CUPMQVzJTl6MyKlrf0"
       },
@@ -1427,30 +1427,6 @@
       "duration_ms": 182852,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/3Wb5vyruAzmiQ62nRIqCJ4"
-      },
-      "artists": [
-        {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "CATALYST",
-          "url": "https://open.spotify.com/artist/27D1XEtLUVpo52WMshLMpX"
-        }
-      ],
-      "duration_ms": 164129,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/6AYH1SJfRCKCj0zEXuHwzZ"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1487,6 +1463,30 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/3Wb5vyruAzmiQ62nRIqCJ4"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "CATALYST",
+          "url": "https://open.spotify.com/artist/27D1XEtLUVpo52WMshLMpX"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/6AYH1SJfRCKCj0zEXuHwzZ"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/0YjzlHiQcyr1XKDE9UAmoi"
       },
@@ -1503,6 +1503,26 @@
       "duration_ms": 217161,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/4Klqg0c57uvGY24rlrEDi3"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "FTS (Sub Zero Project Rework)",
+        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "duration_ms": 203862,
+      "name": "FTS - Sub Zero Project Rework",
+      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1527,26 +1547,6 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "FTS (Sub Zero Project Rework)",
-        "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
-        }
-      ],
-      "duration_ms": 203862,
-      "name": "FTS - Sub Zero Project Rework",
-      "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "FEELIN' HIGH",
         "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 186750,
       "name": "FEELIN' HIGH",
       "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 134918,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "FCK DOOM ZAAG!",
         "url": "https://open.spotify.com/album/1JbKCFroR9YzE0jJLHwN06"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 117750,
       "name": "FCK DOOM ZAAG!",
       "url": "https://open.spotify.com/track/32agjb8yo2D8muo8v1rZvH"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "All Good Things (Come To An End)",
-        "url": "https://open.spotify.com/album/16WYdUkvGzVQpbH4RdcSVe"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 134918,
-      "name": "All Good Things (Come To An End)",
-      "url": "https://open.spotify.com/track/2rYwSBIrv1HB29MJPoVhHX"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Life Beyond (Official REBiRTH Festival 2026 Euphoric OST)",
+        "url": "https://open.spotify.com/album/1Vqmo2asu6xtQARtSbAb5W"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 193889,
+      "name": "Life Beyond - Official REBiRTH Festival 2026 Euphoric OST",
+      "url": "https://open.spotify.com/track/7fT2ofZja11JZtq9GUQtAu"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "The Tunnel",
         "url": "https://open.spotify.com/album/3jmkZoQR95gXny1yMmXXiV"
       },
@@ -2111,18 +2127,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Life Beyond (Official REBiRTH Festival 2026 Euphoric OST)",
-        "url": "https://open.spotify.com/album/1Vqmo2asu6xtQARtSbAb5W"
+        "name": "What's A Girl To Do (D-Sturb Remix)",
+        "url": "https://open.spotify.com/album/063SgdTBY7dISc60RthdwY"
       },
       "artists": [
         {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
         }
       ],
-      "duration_ms": 193889,
-      "name": "Life Beyond - Official REBiRTH Festival 2026 Euphoric OST",
-      "url": "https://open.spotify.com/track/7fT2ofZja11JZtq9GUQtAu"
+      "duration_ms": 147096,
+      "name": "What's A Girl To Do (D-Sturb Remix)",
+      "url": "https://open.spotify.com/track/1rGAcKaILp1yS5vPJGirjI"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2151,26 +2171,6 @@
       "duration_ms": 161634,
       "name": "PULL THE TRIGGER",
       "url": "https://open.spotify.com/track/0X27H1lv1ams6VqJEip8LW"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "What's A Girl To Do (D-Sturb Remix)",
-        "url": "https://open.spotify.com/album/063SgdTBY7dISc60RthdwY"
-      },
-      "artists": [
-        {
-          "name": "Luvstruck",
-          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
-        },
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "What's A Girl To Do (D-Sturb Remix)",
-      "url": "https://open.spotify.com/track/1rGAcKaILp1yS5vPJGirjI"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 181787,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
         "name": "Cambodia",
         "url": "https://open.spotify.com/album/4HtUIpG6VJUovQ7Ki6rtIU"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 158940,
       "name": "Cambodia",
       "url": "https://open.spotify.com/track/43yq4RWhzp5nIxDUWlU3mD"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2331,6 +2331,26 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "Rachel's Song",
+        "url": "https://open.spotify.com/album/5rt6PRpDeYAEs9gaKxFCa9"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "CODA",
+          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
       },
@@ -2371,26 +2391,6 @@
       "duration_ms": 176000,
       "name": "It Must Have Been Love (feat. Charla K)",
       "url": "https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "Rachel's Song",
-        "url": "https://open.spotify.com/album/5rt6PRpDeYAEs9gaKxFCa9"
-      },
-      "artists": [
-        {
-          "name": "Ecstatic",
-          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
-        },
-        {
-          "name": "CODA",
-          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
     },
     {
       "added_at": "2026-10-19 13:35:15",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2026-10-19 13:35:15",
       "album": {
+        "name": "HOOYAH",
+        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "HOOYAH",
+      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+    },
+    {
+      "added_at": "2026-10-19 13:35:15",
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
       },
@@ -2623,22 +2639,6 @@
       "duration_ms": 314348,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
-    },
-    {
-      "added_at": "2026-10-19 13:35:15",
-      "album": {
-        "name": "HOOYAH",
-        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 104400,
-      "name": "HOOYAH",
-      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
     },
     {
       "added_at": "2026-10-19 13:35:15",

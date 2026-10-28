@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Chocolate y pan de muerto listo para estos días de frio! Neton Vega y Fuerza Regida en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,572 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,648 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Anna Lille
 
-736 songs - 1 day 14 hr 17 min
+737 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 | 2025-03-08 |
 | [Hånd i hånd](https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Hånd i hånd](https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY) | 4:18 | 2026-02-05 | 2026-05-08 |
 | [Håper at du ser meg nå](https://open.spotify.com/track/55n0sonmGqFrksxie8TK7m) | [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Håper at du ser meg nå](https://open.spotify.com/album/4VA4b3S1pYiTYuspfLYV1M) | 4:30 | 2026-09-17 | 2026-09-25 |
-| [Håpløs](https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Håpløs](https://open.spotify.com/album/5qampg6B8BB77GrP433F6O) | 3:01 | 2026-04-30 |  |
+| [Håpløs](https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Håpløs](https://open.spotify.com/album/5qampg6B8BB77GrP433F6O) | 3:01 | 2026-04-30 | 2026-10-28 |
 | [HÆ?](https://open.spotify.com/track/2q5ndRxFsCsDMUY0MjbXAZ) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [HÆ?](https://open.spotify.com/album/1Sbtt9rQIOdwNT2RxvstDp) | 2:32 | 2025-10-16 | 2026-01-21 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-22 | 2025-11-28 |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-06-27 | 2025-03-28 |
@@ -717,6 +717,7 @@
 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-07-09 |  |
 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 | 2024-10-10 | 2024-11-02 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-27 | 2024-11-02 |
+| [Weekend In Texas](https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weekend In Texas](https://open.spotify.com/album/5vZb4srhLbumEbI13z33Qf) | 2:53 | 2026-10-23 |  |
 | [Weight of light](https://open.spotify.com/track/1dgBTuMRptCw691pKbNNKp) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Weight of light](https://open.spotify.com/album/0OG6EaHBRdtM0GKueulBiK) | 3:16 | 2026-02-26 | 2026-03-27 |
 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 | 2025-07-03 | 2025-08-22 |
 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 | 2025-07-10 | 2025-08-12 |

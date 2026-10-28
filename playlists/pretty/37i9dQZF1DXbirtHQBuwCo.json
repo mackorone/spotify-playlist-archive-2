@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: LNGSHOT)",
-  "num_followers": 1096294,
+  "num_followers": 1096263,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
         "name": "Lullaby Remix",
         "url": "https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 217000,
       "name": "Lullaby Remix",
       "url": "https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
+        "name": "TATA",
+        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINAMI",
+          "url": "https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "TATA",
+      "url": "https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
         "name": "Forever Only - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
       },
@@ -1015,22 +1035,6 @@
       "duration_ms": 196120,
       "name": "Forever Only",
       "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
-        "name": "Essence of Reverie",
-        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1051,22 +1055,38 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "TATA",
-        "url": "https://open.spotify.com/album/16mb3LzNV9LPFcYq7a04fU"
+        "name": "Essence of Reverie",
+        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "MINAMI",
-          "url": "https://open.spotify.com/artist/7MIEKQeYEJfwu5ByI5AVKF"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 163933,
-      "name": "TATA",
-      "url": "https://open.spotify.com/track/1difmbWM3MPS6GpydyChS1"
+      "duration_ms": 186386,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
+        "name": "Chi-Ka",
+        "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 203953,
+      "name": "Chi-Ka",
+      "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1103,42 +1123,6 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Pineapple Slice",
-      "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
-        "name": "Chi-Ka",
-        "url": "https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb"
-      },
-      "artists": [
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 203953,
-      "name": "Chi-Ka",
-      "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 179146,
       "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Pineapple Slice",
+      "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     },
     {
       "added_at": "2026-10-21 12:47:24",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-10-21 12:47:24",
       "album": {
-        "name": "Adore You",
-        "url": "https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3"
-      },
-      "artists": [
-        {
-          "name": "Riaan",
-          "url": "https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim"
-        }
-      ],
-      "duration_ms": 151746,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2"
-    },
-    {
-      "added_at": "2026-10-21 12:47:24",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3xA110ttA5PDmnDIBoyb7b"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 199986,
       "name": "UFO",
       "url": "https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k"
+    },
+    {
+      "added_at": "2026-10-21 12:47:24",
+      "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3"
+      },
+      "artists": [
+        {
+          "name": "Riaan",
+          "url": "https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim"
+        }
+      ],
+      "duration_ms": 151746,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2"
     },
     {
       "added_at": "2026-10-21 12:47:24",

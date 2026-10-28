@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 295866,
       "name": "Breath of Heaven (Mary's Song)",
       "url": "https://open.spotify.com/track/3nt6KSOlcetP5Asp9mAL2I"
@@ -1868,12 +1868,12 @@
           "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         },
         {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
-        },
-        {
           "name": "Tryhard Society",
           "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+        },
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
         }
       ],
       "date_added": "2022-12-11",
@@ -4808,7 +4808,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 163784,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/38feLkq7LkTyKHskOkBamL"

@@ -8606,7 +8606,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -15656,7 +15656,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 232411,
       "name": "Khalik Ma'aya",
       "url": "https://open.spotify.com/track/6YYjo0Q9iYlG3KrUOPr1kt"
@@ -18350,7 +18350,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 190432,
       "name": "Ma Sar",
       "url": "https://open.spotify.com/track/64v6LW97P5Y4beQXBrUxwG"
@@ -18694,6 +18694,24 @@
       "duration_ms": 162772,
       "name": "Manike Mage Hithe",
       "url": "https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E"
+    },
+    {
+      "album": {
+        "name": "Mannek Meshta2a",
+        "url": "https://open.spotify.com/album/61fBNOCEymIZdXnLuuLe4s"
+      },
+      "artists": [
+        {
+          "name": "Mouslem Adam",
+          "url": "https://open.spotify.com/artist/2IAjWDADGiuAu16iZbXuHk"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179178,
+      "name": "Mannek Meshta2a",
+      "url": "https://open.spotify.com/track/03IMg1qC7iJPjDmSoZ7paf"
     },
     {
       "album": {
@@ -20824,7 +20842,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 216806,
       "name": "Nano",
       "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
@@ -22392,7 +22410,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 213146,
       "name": "One Day (feat. Helena) - Radio Edit",
       "url": "https://open.spotify.com/track/0jkjiF0f9c7EpJRUJ47bvi"
@@ -23646,6 +23664,24 @@
       "duration_ms": 129384,
       "name": "Polozhenie - Zedline Remix",
       "url": "https://open.spotify.com/track/0B85QRzKh91WOWYDpc1ABP"
+    },
+    {
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143875,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/1mre3HoVD50XwY02NvxKZZ"
     },
     {
       "album": {
@@ -31880,7 +31916,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 184354,
       "name": "Wala Ash Wala Kan",
       "url": "https://open.spotify.com/track/0Bcrb7ZOOxkVgcZEtPWxXy"
@@ -36390,7 +36426,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 232411,
       "name": "\u062e\u0644\u064a\u0643 \u0645\u0639\u0627\u064a\u0627",
       "url": "https://open.spotify.com/track/4xjuBQBnXifS3554AAVtop"
@@ -38510,7 +38546,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 291657,
       "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
       "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"

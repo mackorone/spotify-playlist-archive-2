@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 170458,
+  "num_followers": 170473,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAASI5OfaUYxTkA3lGcwZlcp",
+  "snapshot_id": "at1GgAAAAADIU3PMKlS1xb2NXLYrIUYx",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solos, Sessions & Encores",
-        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        },
-        {
-          "name": "Dick Dale",
-          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 490006,
       "name": "Born Under A Bad Sign - Remastered 2024",
       "url": "https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solos, Sessions & Encores",
+        "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        },
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
     },
     {
       "added_at": null,

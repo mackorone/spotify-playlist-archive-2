@@ -10444,7 +10444,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 129391,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
@@ -24680,6 +24680,32 @@
       "duration_ms": 208141,
       "name": "TOP MAMA",
       "url": "https://open.spotify.com/track/5PRGmpPJzsrOXijZdXalVK"
+    },
+    {
+      "album": {
+        "name": "Top Swag",
+        "url": "https://open.spotify.com/album/7kmtp8xQRcKiHEdNWelgCW"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197777,
+      "name": "Top Swag",
+      "url": "https://open.spotify.com/track/7Dj8uoNSgsnJiNvCfN2jdy"
     },
     {
       "album": {

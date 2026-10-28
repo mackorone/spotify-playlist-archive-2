@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23548,
+  "num_followers": 23549,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,30 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "Rolls Royce",
+        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
+      },
+      "artists": [
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Rolls Royce",
+      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "OUTRA VIBE",
         "url": "https://open.spotify.com/album/0xUiOrMowCKvztafjQSvqe"
       },
@@ -775,26 +799,18 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
-        "name": "Rolls Royce",
-        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
       },
       "artists": [
         {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "TR3VAS",
-          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Rolls Royce",
-      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -811,22 +827,6 @@
       "duration_ms": 144940,
       "name": "Fatal",
       "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
     },
     {
       "added_at": "2026-10-19 15:51:33",

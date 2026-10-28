@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,729 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,722 likes - 63 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 58 | [AVANTAGE](https://open.spotify.com/track/2px5Fplo9yVFFBqlFKWn74) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [AVANTAGE](https://open.spotify.com/album/5cwuxnk3TewfALIK5rLUWK) | 3:31 |
 | 59 | [CRETA](https://open.spotify.com/track/5nj63xdbymspnKmHC5isVZ) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [CRETA](https://open.spotify.com/album/4T9u56ShMRuyIAfeX5j7OJ) | 2:15 |
 | 60 | [3 FORES](https://open.spotify.com/track/07BGGf3ZRVI7deiQMv3kW2) | [Donn](https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [LEVEL I](https://open.spotify.com/album/4jQSuLcUZeJO6EDrl6ILHV) | 2:24 |
+| 61 | [ALL EYES ON ME](https://open.spotify.com/track/4B9ea9mEIpJFGu9EM9OT6r) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [ALL EYES ON ME](https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC) | 2:21 |
+| 62 | [APROVEITAR](https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [APROVEITAR](https://open.spotify.com/album/0tyHixYvJo5yJehmmrXLRn) | 2:36 |
+| 63 | [OSAMA](https://open.spotify.com/track/639SRnDIZghe7ayN40SFt3) | [DON LEON](https://open.spotify.com/artist/2LQRI30FJnLa5j9wApZ4JY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [OSAMA](https://open.spotify.com/album/7Cd5zTN0Lgw6KoMd2BV13U) | 2:28 |
 
-Snapshot ID: `AAAAAPgrGw+AUJAvgQXQPcq47uV7NmQa`
+Snapshot ID: `AAAAAFV6lSR/+1yywNPdftfIdZbi08V+`

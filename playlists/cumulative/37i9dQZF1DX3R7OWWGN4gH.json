@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 189337,
       "name": "Bite Back",
       "url": "https://open.spotify.com/track/6ybNNGb5PdHL31Fg0KNjrB"
@@ -5648,6 +5648,24 @@
       "duration_ms": 199125,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
+    },
+    {
+      "album": {
+        "name": "Villains Aren't Born (They're Made)",
+        "url": "https://open.spotify.com/album/3U6vePfFaF7pUm75tDJ4IS"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194603,
+      "name": "Villains Aren't Born (They're Made)",
+      "url": "https://open.spotify.com/track/1vhcao02NoMFt9NjMMZhut"
     },
     {
       "album": {

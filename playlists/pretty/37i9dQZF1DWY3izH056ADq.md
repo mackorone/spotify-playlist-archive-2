@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,996 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,994 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 33 | [Endless Dream](https://open.spotify.com/track/0nd2vulAlXnULt6RLfpImm) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:48 |
 | 34 | [Halloween](https://open.spotify.com/track/4xoOTv2ksKmwWh7TttWtQy) | [team Autumn](https://open.spotify.com/artist/1qZuBsvj2WNcQOWEgwQFVL) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:34 |
 | 35 | [Back In The Day](https://open.spotify.com/track/7oYDm9ZIqVBVeWUYP7xeGu) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live \-Battle of Unity\- 武雷管 "ZERO"](https://open.spotify.com/album/7cGu9zlFI8dQ3fx9x6LvRv) | 3:39 |
-| 36 | [ウェカピポ](https://open.spotify.com/track/1LbU7xrc2n2YBR8NUyqN4B) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 4:14 |
-| 37 | [EGOlution](https://open.spotify.com/track/4sCjnIyFZ9EOSnRUlzmrE2) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live 3rd album "ANTHEM"](https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD) | 3:22 |
+| 36 | [EGOlution](https://open.spotify.com/track/4sCjnIyFZ9EOSnRUlzmrE2) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live 3rd album "ANTHEM"](https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD) | 3:22 |
+| 37 | [ウェカピポ](https://open.spotify.com/track/1LbU7xrc2n2YBR8NUyqN4B) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 4:14 |
 | 38 | [ビーチサイドZOO](https://open.spotify.com/track/19qYkTWLZEV8VCZEL5EVGK) | [team Summer](https://open.spotify.com/artist/0n0NYX7hN26kMCBFjaqI7l) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 4:10 |
 | 39 | [Nobody But Me](https://open.spotify.com/track/1z66lEenIxfivIqx3jwVXP) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:45 |
 | 40 | [かつて天才だった俺たちへ](https://open.spotify.com/track/3eSN3QAJsLqWzvWA61j4Wk) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:30 |

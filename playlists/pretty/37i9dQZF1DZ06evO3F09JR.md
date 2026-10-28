@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,637 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,636 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 49 | [III](https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [NATI INFINITI](https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE) | 6:09 |
 | 50 | [Stills](https://open.spotify.com/track/5rz9ksywcg1lSiPjGNUxle) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 2:50 |
 
-Snapshot ID: `atv1AAAAAABDC/4GJQM9NFqav5+COWTD`
+Snapshot ID: `at1GgAAAAABUqjyxCFh0wbQar4A8uInu`

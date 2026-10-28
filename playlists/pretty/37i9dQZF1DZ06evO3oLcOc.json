@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229322,
+  "num_followers": 229325,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAADhJXfV6+90qGnd/vriWHYS",
+  "snapshot_id": "at1GgAAAAABJ5tayHFXbjiqjSy5YL78f",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CiCi",
-        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 143037,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 188964,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 143037,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
     },
     {
       "added_at": null,

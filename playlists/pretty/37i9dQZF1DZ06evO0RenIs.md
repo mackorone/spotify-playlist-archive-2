@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,959 likes - 49 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,962 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 12 | [Chloroform](https://open.spotify.com/track/0LucKGxWYkj2d0SHdx2WBh) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 4:04 |
 | 13 | [Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:44 |
 | 14 | [J\-Boy](https://open.spotify.com/track/57tOzus76E38NNNkNp1lnq) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:07 |
-| 15 | [UFO](https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx) | [UFOs](https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [UFO](https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C) | 4:33 |
-| 16 | [Artefact](https://open.spotify.com/track/5DAkzBJ48N7z6lwY4eZ0PP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:24 |
+| 15 | [Artefact](https://open.spotify.com/track/5DAkzBJ48N7z6lwY4eZ0PP) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:24 |
+| 16 | [UFO](https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx) | [UFOs](https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [UFO](https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C) | 4:33 |
 | 17 | [Girlfriend](https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:24 |
 | 18 | [Consolation Prizes](https://open.spotify.com/track/5yakRZmZ20eaZ1J4nDgQhN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
 | 19 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |

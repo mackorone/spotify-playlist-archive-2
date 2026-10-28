@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 
 > This is The Strokes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,611 likes - 45 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,742 likes - 45 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,18 +40,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 30 | [Soma](https://open.spotify.com/track/7G8hUONVhvJnkD3Ak8mNF1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 2:33 |
 | 31 | [Juicebox](https://open.spotify.com/track/3jjQHULAVn71k40mKwGMiV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:14 |
 | 32 | [Chances](https://open.spotify.com/track/718purgMpFb2Axhuz0Hbq1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:36 |
-| 33 | [Under Control](https://open.spotify.com/track/3kKb3U3a8jmUJQB9ypE1Jl) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:07 |
+| 33 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 |
 | 34 | [The Modern Age](https://open.spotify.com/track/1EsgUWQsxGBwnu3NATDjiU) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:28 |
 | 35 | [Ize of the World](https://open.spotify.com/track/1TbK5nWKIxZYIRVurMvkuR) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:25 |
-| 36 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 |
-| 37 | [I Can't Win](https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:42 |
+| 36 | [Under Control](https://open.spotify.com/track/3kKb3U3a8jmUJQB9ypE1Jl) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:07 |
+| 37 | [Taken for a Fool](https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:23 |
 | 38 | [I'll Try Anything Once \("You Only Live Once" demo\) \- Heart In a Cage B\-Side](https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:14 |
 | 39 | [Razorblade](https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:28 |
-| 40 | [Taken for a Fool](https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:23 |
+| 40 | [I Can't Win](https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:42 |
 | 41 | [80's Comedown Machine](https://open.spotify.com/track/2lffRiAET2Xt6BNb4EmkS2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:58 |
 | 42 | [Modern Girls & Old Fashion Men \- Reptilia B\-Side](https://open.spotify.com/track/5hNW46qZA7BcZ2qf6lbhNm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [The Singles \- Volume 01](https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ) | 3:38 |
-| 43 | [On the Other Side](https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:36 |
-| 44 | [Gratisfaction](https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 2:59 |
+| 43 | [Gratisfaction](https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 2:59 |
+| 44 | [On the Other Side](https://open.spotify.com/track/6oqJLFTbJ6PkgPfU0Mtjix) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:36 |
 | 45 | [Tap Out](https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:42 |
 
 Snapshot ID: `at1GgAAAAADzjfrTY54RJ4VsCOo9hzLo`

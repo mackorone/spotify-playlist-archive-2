@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,668 likes - 75 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,774 likes - 75 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 51 | [Take A Chance \- Original Mix](https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz) | [Mr\. Flagio](https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq) | [Take A Chance](https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m) | 7:52 |
 | 52 | [Boys \(Summertime Love\)](https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Golden Dance Hits](https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E) | 3:51 |
 | 53 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
-| 54 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
+| 54 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
 | 55 | [Reset](https://open.spotify.com/track/69XBLvNPFQZPEFtQvmhDes) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 5:52 |
-| 56 | [Volpi Polari](https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Volpe](https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ) | 7:47 |
+| 56 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
 | 57 | [Insieme](https://open.spotify.com/track/4DSjwylMkecSMTG4Xxa0Bj) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Insieme](https://open.spotify.com/album/2UyUMOvrS4GzC8Zrc7UYLm) | 3:05 |
 | 58 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 |
 | 59 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |

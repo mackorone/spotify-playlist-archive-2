@@ -4,7 +4,7 @@
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 28 min
+76 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Sister Honey](https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 3:50 | 2025-03-08 |  |
 | [Sleeping Angel \(From Fast Times at Ridgemont High\) \- 2016 Remaster](https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 4:40 | 2025-03-08 |  |
 | [Sometimes It's a Bitch](https://open.spotify.com/track/0BMD6HPm0gS1pSTi5ZpHrR) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:38 | 2025-03-08 | 2026-08-28 |
+| [Sometimes It's a Bitch \- 2023 Remaster](https://open.spotify.com/track/2Lku9yG1y6MXpNEvECrc1P) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Complete Studio Albums & Rarities](https://open.spotify.com/album/2g3QzVCFx0kEmYICkjHj2N) | 4:38 | 2026-10-28 |  |
 | [Sorcerer](https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:54 | 2025-03-08 |  |
 | [Stand Back](https://open.spotify.com/track/6sleEAnBH0sZMe0pOQNidG) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:57 | 2025-03-08 |  |
 | [Stephanie](https://open.spotify.com/track/1iAJwQdCZBswDjjcCd06LG) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:13 | 2025-09-21 |  |
@@ -77,7 +78,7 @@
 | [The Lighthouse](https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lighthouse](https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6) | 4:51 | 2025-03-08 | 2026-01-23 |
 | [Trouble in Shangri\-La](https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:49 | 2025-03-08 |  |
 | [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/1KpaeuKdvzMVuNnko3Pahu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:01 | 2026-08-30 | 2026-09-02 |
-| [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/5XRE1d7LrJJ3yA5AbpRogE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 5:01 | 2026-09-02 |  |
+| [What Has Rock And Roll Ever Done For You](https://open.spotify.com/track/5XRE1d7LrJJ3yA5AbpRogE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 5:01 | 2026-09-02 | 2026-10-28 |
 | [Whenever I Call You "Friend" \(feat\. Stevie Nicks\)](https://open.spotify.com/track/5NCY3uTCovd93aqwbodUhm) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Nightwatch](https://open.spotify.com/album/2IIoRTMSjA1fTv11MdpGMj) | 3:57 | 2025-03-08 |  |
 | [Whole Lotta Trouble](https://open.spotify.com/track/5wRASV5n4VbpmZ6aIm5t3S) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 4:31 | 2025-03-08 | 2026-08-26 |
 | [Wild Heart \- 2016 Remaster](https://open.spotify.com/track/0gzI0zfUaoXFVNTUNQE9ad) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 6:09 | 2026-07-15 |  |

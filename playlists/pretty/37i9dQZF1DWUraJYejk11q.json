@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 469850,
+  "num_followers": 469838,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Purple Horizon",
-      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "CHROMA 003",
         "url": "https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 236628,
       "name": "CHROMA 003 Bi83",
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Purple Horizon",
+      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Forest Theory",
         "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 231648,
       "name": "Universal Sound",
       "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2026-05-01 00:15:05",

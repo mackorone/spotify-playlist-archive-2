@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445 likes - 169 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 446 likes - 169 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,11 +171,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 161 | [Power](https://open.spotify.com/track/2VbOKBfUboYGlbSJquVBGe) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 4:03 |
 | 162 | [MAKE IT KNOWN](https://open.spotify.com/track/5qfVTbcSnH2pd0DRCWHBcU) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:22 |
 | 163 | [Save Your Soul](https://open.spotify.com/track/7E3fkUiPNGnSGi91ViISV7) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 2:45 |
-| 164 | [Dreams](https://open.spotify.com/track/6wjQqganLZrqmBgqfiH9BX) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 2:19 |
-| 165 | [Keep Counting](https://open.spotify.com/track/60uDyT4PCPfI8nP7SnYPyv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 2:38 |
-| 166 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 |
+| 164 | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/760I6OX8k9KkzleuigUcc2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Sick \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2l7dOY9oiOln2Ln4osavpP) | 3:07 |
+| 165 | [Dreams](https://open.spotify.com/track/6wjQqganLZrqmBgqfiH9BX) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [It's Not Me, It's You](https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM) | 2:19 |
+| 166 | [Keep Counting](https://open.spotify.com/track/60uDyT4PCPfI8nP7SnYPyv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [Dogma](https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC) | 2:38 |
 | 167 | [Y U Lying](https://open.spotify.com/track/2EsJunQJAPYsems22NWwAV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:17 |
 | 168 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 169 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcgAwgAAAAAXDYWvt91BOll0+2Klgank`
+Snapshot ID: `AcgGYgAAAADnw1iOSV+eiQoFqx665GXv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: 2shots
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,975 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,948 likes - 52 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 48 | [POIOS NA SOU TO PEI](https://open.spotify.com/track/1fVMxUXpzDQCBxmdn0GClq) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:55 |
 | 49 | [AGAINST ALL](https://open.spotify.com/track/3klqwu80XOZBszq7TS214C) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [LOSHA](https://open.spotify.com/artist/5kZFsM5GvvDM9J8soKtyqB) | [WHY ALWAYS ME?](https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca) | 2:52 |
 | 50 | [MASERATI](https://open.spotify.com/track/4bnfWdcWyp5CEVnCg4jVxQ) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [2shots](https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [MASERATI](https://open.spotify.com/album/3dAo7vfqWZB4F8apmxL2Jd) | 3:31 |
+| 51 | [ALL EYES ON ME](https://open.spotify.com/track/4B9ea9mEIpJFGu9EM9OT6r) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [ALL EYES ON ME](https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC) | 2:21 |
+| 52 | [APROVEITAR](https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [APROVEITAR](https://open.spotify.com/album/0tyHixYvJo5yJehmmrXLRn) | 2:36 |
 
-Snapshot ID: `AAAAAKVUQeLiMnPcTB+Cv4A4iKgt90cu`
+Snapshot ID: `AAAAAAthILSgpzN7zoCNi98TyNZIy8jc`

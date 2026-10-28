@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Chappell Roan &amp; Olivia Rodrigo
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 74,699 likes - 100 songs - 5 hr 29 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 74,685 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 2 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
 | 3 | [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 |
 | 4 | [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 |
-| 5 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
-| 6 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
-| 7 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
-| 8 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
-| 9 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
-| 10 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
-| 11 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
-| 12 | [are we on a break](https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 3:13 |
-| 13 | [Don't You Forget About Me?](https://open.spotify.com/track/4auleugEuixANOIzt8cutq) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Don't You Forget About Me?](https://open.spotify.com/album/4EKMQd8Cl6jFAoSIPXZZhJ) | 3:18 |
-| 14 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
-| 15 | [Hallucinating](https://open.spotify.com/track/3stwOzw3rk7g8Et43UvIVw) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hallucinating](https://open.spotify.com/album/3VQpTlLYpOhFbtbPSQQuBS) | 2:36 |
+| 5 | [Hallucinating](https://open.spotify.com/track/3stwOzw3rk7g8Et43UvIVw) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hallucinating](https://open.spotify.com/album/3VQpTlLYpOhFbtbPSQQuBS) | 2:36 |
+| 6 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
+| 7 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 |
+| 8 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
+| 9 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
+| 10 | [Too Cute To Be Lonely](https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Too Cute To Be Lonely](https://open.spotify.com/album/7wlMyVNmOTncgwr0SCifSY) | 3:16 |
+| 11 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
+| 12 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
+| 13 | [are we on a break](https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 3:13 |
+| 14 | [Don't You Forget About Me?](https://open.spotify.com/track/4auleugEuixANOIzt8cutq) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Don't You Forget About Me?](https://open.spotify.com/album/4EKMQd8Cl6jFAoSIPXZZhJ) | 3:18 |
+| 15 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
 | 16 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 17 | [Hootie Frutti](https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:20 |
 | 18 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 99 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 | 100 | [Close To You](https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:45 |
 
-Snapshot ID: `AAA+POfwHBVuwdOFm+W62Mgf2jfyPSeE`
+Snapshot ID: `AAA+P0g+3f9PT+Dh9YhLBZc2WMgW8dAw`

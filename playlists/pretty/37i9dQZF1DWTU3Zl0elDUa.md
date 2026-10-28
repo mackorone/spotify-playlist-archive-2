@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,704 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,920 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 34 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
 | 35 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 36 | [Rhythm Is a Mystery](https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR) | [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Universal](https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg) | 5:54 |
-| 37 | [Not Forgotten \- Hard Hands Remix](https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L), [Paul Daley](https://open.spotify.com/artist/0jcwuMu6k2SHsTGVdkqYdG) | [A Final Hit \- The Best Of Leftfield](https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6) | 7:37 |
-| 38 | [Nothing Better \- Tmvs Club Mix](https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2) | [Colourblind](https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC), [Dina Roache](https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO) | [Underground Gems, Vol\. 2](https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa) | 6:35 |
+| 37 | [Nothing Better \- Tmvs Club Mix](https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2) | [Colourblind](https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC), [Dina Roache](https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO) | [Underground Gems, Vol\. 2](https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa) | 6:35 |
+| 38 | [Not Forgotten \- Hard Hands Remix](https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L), [Paul Daley](https://open.spotify.com/artist/0jcwuMu6k2SHsTGVdkqYdG) | [A Final Hit \- The Best Of Leftfield](https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6) | 7:37 |
 | 39 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
 | 40 | [Rich in Paradise \(Going Back to My Roots\) \- Vocal Remix](https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Rich in Paradise \(Going Back to My Roots\)](https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8) | 5:51 |
 | 41 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 49 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
 | 50 | [Anthem \- The Mafia Mix](https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y) | [NJOI](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs), [Mafia Productions](https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO) | [Anthem \(The Mafia Mix\)](https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq) | 4:49 |
 | 51 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
-| 52 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/2VHfPcIjhqDGtynhFU3eSH) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
-| 53 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 |
+| 52 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 |
+| 53 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/2VHfPcIjhqDGtynhFU3eSH) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
 | 54 | [Weekend](https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Greatest Hits](https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW) | 5:42 |
 | 55 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
 | 56 | [Love Come Down \- Club Vocal Mix](https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 8:36 |

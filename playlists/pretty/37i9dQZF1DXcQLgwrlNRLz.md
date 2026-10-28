@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,798 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,824 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 69 | [Ololo](https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3) | [Heaven Sam](https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Afro Live](https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx) | [Ololo](https://open.spotify.com/album/37MGKojMxN5l8hiJSIc5JR) | 2:54 |
 | 70 | [No love](https://open.spotify.com/track/0LnXA52XqGjaITaGmIXJJp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [No love](https://open.spotify.com/album/0n5zArvAPe7ZljF5p440pQ) | 3:22 |
 | 71 | [Oulala](https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6) | [Oulala](https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ) | 2:25 |
-| 72 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 |
+| 72 | [Libérer Pij](https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD) | [JP N'DA](https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d) | [Libérer Pij](https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5) | 2:14 |
 | 73 | [Yebisa Bango](https://open.spotify.com/track/3jXala0eZHs3iNJ44on0VO) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Yebisa Bango / Bijou](https://open.spotify.com/album/1BBJSoccbyNXRurEYzZxn6) | 2:29 |
-| 74 | [MILLIONS](https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [AFRO\-N\-TCHAM 1](https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG) | 3:06 |
-| 75 | [Libérer Pij](https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD) | [JP N'DA](https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d) | [Libérer Pij](https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5) | 2:14 |
+| 74 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 |
+| 75 | [MILLIONS](https://open.spotify.com/track/5jVNRVe4s6fyemCq82Bspt) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [AFRO\-N\-TCHAM 1](https://open.spotify.com/album/2plqEQ8EuoEMhTxMhUwfgG) | 3:06 |
 | 76 | [Bilingual Baddie\(BB\)](https://open.spotify.com/track/5OhIiYqDiGngTojSmC11ZP) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Bilingual Baddie\(BB\)](https://open.spotify.com/album/5w9mCgHkFdDDrHVzTmuToU) | 1:58 |
 | 77 | [Ma nana](https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj) | [Dk2fois](https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ) | [Ma nana](https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba) | 3:17 |
 | 78 | [BOUCHEKARAILLE](https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [BOUCHEKARAILLE](https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY) | 3:06 |
 | 79 | [Garde Ta Position](https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Garde Ta Position](https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8) | 2:13 |
-| 80 | [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 |
+| 80 | [So Badd](https://open.spotify.com/track/6CSCKFY8fK9qzt37EuCbbO) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [So Badd](https://open.spotify.com/album/0K1pkeLRiTQF7FfaDvo9q6) | 2:29 |
 
 Snapshot ID: `AAAAAKMLz69EmSJVZ2kDY5Ih+hNO6zfp`

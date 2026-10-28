@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like sad hour, with Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,389,624 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389,606 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 44 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |
 | 45 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
 | 46 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
-| 47 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
-| 48 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 |
+| 47 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 |
+| 48 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
 | 49 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 |
 | 50 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 | 51 | [Loud](https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 81 | [Older](https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loser](https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP) | 3:04 |
 | 82 | [you're still everything](https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:29 |
 | 83 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 |
-| 84 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
-| 85 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 |
+| 84 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 |
+| 85 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 | 86 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 |
 | 87 | [Don't You Forget About Me?](https://open.spotify.com/track/4auleugEuixANOIzt8cutq) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Don't You Forget About Me?](https://open.spotify.com/album/4EKMQd8Cl6jFAoSIPXZZhJ) | 3:18 |
 | 88 | [Unlike You](https://open.spotify.com/track/6e9Cu6KNAimXTlhuDNAWc7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Still Somewhere Here](https://open.spotify.com/album/1109HrTid5HIXWEFPHKpAh) | 3:54 |
@@ -118,14 +118,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 108 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 |
 | 109 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
 | 110 | [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 |
-| 111 | [Placeholder](https://open.spotify.com/track/0W4eLntQDmc8yDJ7roRdK8) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [Placeholder](https://open.spotify.com/album/4HPi2f6Tf6Jhq7j9IrIaWC) | 2:47 |
-| 112 | [FRANKENSTEIN](https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FRANKENSTEIN](https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN) | 3:07 |
+| 111 | [FRANKENSTEIN](https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FRANKENSTEIN](https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN) | 3:07 |
+| 112 | [Placeholder](https://open.spotify.com/track/0W4eLntQDmc8yDJ7roRdK8) | [Sarah Lola](https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe) | [Placeholder](https://open.spotify.com/album/4HPi2f6Tf6Jhq7j9IrIaWC) | 2:47 |
 | 113 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 |
 | 114 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
 | 115 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
 | 116 | [Sorta, kinda](https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Isn't That Sweet?](https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw) | 3:56 |
-| 117 | [Miss Us](https://open.spotify.com/track/28SR8JQIpAsletgV04f6Sc) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Miss Us](https://open.spotify.com/album/63vG8L5oT4GogDnlMqXbQv) | 2:37 |
-| 118 | [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 |
+| 117 | [Never Know Love](https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Never Know Love](https://open.spotify.com/album/2AZdDD0w09CGHCDKP2Tqnf) | 3:09 |
+| 118 | [Miss Us](https://open.spotify.com/track/28SR8JQIpAsletgV04f6Sc) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Miss Us](https://open.spotify.com/album/63vG8L5oT4GogDnlMqXbQv) | 2:37 |
 | 119 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 |
 | 120 | [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 |
 | 121 | [misunderstood](https://open.spotify.com/track/6nozkBOPjHXGo04zIcksB0) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [LOVER GIRL](https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V) | 3:48 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 146 | [all my favourite people are sad](https://open.spotify.com/track/6jkmc5eOlVQdhL7xISd2UO) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [how the f\*\*\* does everybody else manage?](https://open.spotify.com/album/6lQ0sIJfrdVDquznL7CfKV) | 3:11 |
 | 147 | [Postcard](https://open.spotify.com/track/68XQbCzPXP3hsrKO1Bqg66) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Postcard](https://open.spotify.com/album/1di98tXf4JYIiuOW5BQUDM) | 2:59 |
 | 148 | [Meet Me At The Cafe](https://open.spotify.com/track/0I4BZ46wgUqbazXhHATA1V) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Meet Me At The Cafe](https://open.spotify.com/album/0GBVskaDi7VBjU5h2OQ8BN) | 3:03 |
-| 149 | [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 |
-| 150 | [Don’t Stop Trying To Love Me](https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Reverie](https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T) | 4:10 |
+| 149 | [Don’t Stop Trying To Love Me](https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Reverie](https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T) | 4:10 |
+| 150 | [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 |
 
 Snapshot ID: `AAAAAIZIjWz24046rLFCPJlgUD+4Yp7r`

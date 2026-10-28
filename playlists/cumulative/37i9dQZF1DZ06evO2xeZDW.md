@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 16 min
+73 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Ned Man Walking \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 1:09 | 2026-08-05 | 2026-09-23 |
 | [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 | 2026-07-08 |  |
 | [Off to Work](https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 1:59 | 2026-07-08 |  |
+| [Paradise Found](https://open.spotify.com/track/6hMj9dshEOFa1pvGWlhv6J) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 1:03 | 2026-10-28 |  |
 | [Peter Parker Picked a Perilously Precarious Profession \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 1:31 | 2026-08-03 |  |
 | [Pregnancy Testing 1, 2, 3](https://open.spotify.com/track/0Og2yLid9BMCcNy7P9Q2gj) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 1:58 | 2026-07-08 |  |
 | [Quick as a Flashback \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/2FDBvZ3iMT8SMIfQIuBxVW) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 3:17 | 2026-08-04 |  |
@@ -74,7 +75,7 @@
 | [Theme \(from "Spider Man"\) \[Original Television Series\]](https://open.spotify.com/track/1tzj2vY4twkNmZ5K3DUOPp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Homecoming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Aao9FYpxQXuNrAPjJnud1) | 0:39 | 2026-07-08 |  |
 | [Turbo Transmission \- From "Cars 2"/Score](https://open.spotify.com/track/2XWfTQt91OXHKBotO9aBAl) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 0:52 | 2026-07-15 | 2026-07-18 |
 | [Up With End Credits](https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 7:38 | 2026-07-08 |  |
-| [Up With Titles](https://open.spotify.com/track/6sIZFWgScdBoCzEuo3H4pE) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:52 | 2026-07-17 |  |
+| [Up With Titles](https://open.spotify.com/track/6sIZFWgScdBoCzEuo3H4pE) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:52 | 2026-07-17 | 2026-10-28 |
 | [We're In the Club Now](https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:43 | 2026-07-08 | 2026-07-17 |
 | [Web Letter Days \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/5ycRUrUsAEtWQfSW6e7kj9) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 2:39 | 2026-08-03 |  |
 | [Welcome to Jurassic World](https://open.spotify.com/track/3aDH2C8MwdlxlFSI0B7f0F) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Jurassic World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh) | 2:08 | 2026-07-08 |  |

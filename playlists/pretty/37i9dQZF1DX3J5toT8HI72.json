@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 826687,
+  "num_followers": 826643,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
+        "name": "A Banda Mais Bonita da Cidade",
+        "url": "https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
         "name": "Varrendo a Lua (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
-        "name": "A Banda Mais Bonita da Cidade",
-        "url": "https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "Estou Apaixonado",
         "url": "https://open.spotify.com/album/1omVEDNXH6BLMs0FEQtuMz"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 226380,
       "name": "Estou Apaixonado",
       "url": "https://open.spotify.com/track/27k1Gc3HwIqj5U12Vot8JX"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
+        "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
+        "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
+      "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
-        "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
-        "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
-      "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
     },
     {
       "added_at": "2026-10-15 19:31:25",

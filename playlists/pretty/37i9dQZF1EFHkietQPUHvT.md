@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 91 | [Taxi](https://open.spotify.com/track/2jkMuY6mQLuPXZwfh58LIk) | [Eiza Murphy](https://open.spotify.com/artist/0A7bgQaXKKxFsvurGyFMn9) | [Taxi](https://open.spotify.com/album/6zipOgixmS3YXGHbNDIioT) | 3:01 |
 | 92 | [Slow Motion](https://open.spotify.com/track/0BFlm17OcFErnis6lOAqGu) | [Emilia Tarrant](https://open.spotify.com/artist/1vf6uDbPOzuzMZAzunyGg0) | [Slow Motion](https://open.spotify.com/album/3C1eTUna7iyd8fYVonF2pR) | 3:01 |
 | 93 | [Coffee](https://open.spotify.com/track/13d5kDTQqKGkx5n4uGWumz) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Coffee](https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t) | 2:55 |
-| 94 | [Out Of Breath](https://open.spotify.com/track/4aDuOZZdhG37hESGW0iGyY) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/0Rb8zkBHjxHqteutd6mFOd) | 3:12 |
-| 95 | [easy](https://open.spotify.com/track/07FbWGD3iIIkYBVeUVSEvv) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [the responsibility of being in love](https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL) | 3:15 |
+| 94 | [easy](https://open.spotify.com/track/07FbWGD3iIIkYBVeUVSEvv) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [the responsibility of being in love](https://open.spotify.com/album/4onjOx54uXaWgjpbi4PyYL) | 3:15 |
+| 95 | [Out Of Breath](https://open.spotify.com/track/4aDuOZZdhG37hESGW0iGyY) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Out Of Breath](https://open.spotify.com/album/0Rb8zkBHjxHqteutd6mFOd) | 3:12 |
 | 96 | [Hiding on the Highway](https://open.spotify.com/track/2gkAI6XS9SZyznLE3AdHz6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Outlaw in Love](https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby) | 3:25 |
 | 97 | [Fairytales Are Nightmares](https://open.spotify.com/track/4osk5RIQHGsm4aMkvfsy9l) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/59j6XNKxuJUs7Lpw8eCEad) | 2:31 |
 | 98 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AcgAuAAAAADfYskXF/SX/KAeTmq5xrpX`
+Snapshot ID: `AcgGWAAAAACkYpvSI6zBBiUYoBiH9YLm`

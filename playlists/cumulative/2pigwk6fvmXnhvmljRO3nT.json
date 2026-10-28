@@ -6722,7 +6722,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 202804,
       "name": "Ain't No Time",
       "url": "https://open.spotify.com/track/7givkGZW1cwM8MJYzMd2Na"
@@ -43839,6 +43839,28 @@
     },
     {
       "album": {
+        "name": "Find Someone Like You",
+        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
+      },
+      "artists": [
+        {
+          "name": "Jonas Wall",
+          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
+        },
+        {
+          "name": "Umbaji",
+          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249230,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
+    },
+    {
+      "album": {
         "name": "Future & Juice WRLD Present... WRLD ON DRUGS",
         "url": "https://open.spotify.com/album/6P9PZjWXoCRF5b66BafPKY"
       },
@@ -48048,6 +48070,28 @@
       "duration_ms": 251219,
       "name": "Fucking Your Girl",
       "url": "https://open.spotify.com/track/6fDKQUI7RW0GJTsKTaTqAI"
+    },
+    {
+      "album": {
+        "name": "Organ Works: Bach",
+        "url": "https://open.spotify.com/album/1iMJVgR7M57RP1aK1WZIaS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Virgil Fox",
+          "url": "https://open.spotify.com/artist/3akjbB0gWBVeUSoEzYNJ2O"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Fugue in G Minor, BWV 578 \"Little\"",
+      "url": "https://open.spotify.com/track/1kJmgDNxLOKC6Kq6uRFyOT"
     },
     {
       "album": {
@@ -58202,6 +58246,24 @@
       "duration_ms": 285600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6dIzXA6IMEGYCW4Rgsj2Pg"
+    },
+    {
+      "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304653,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
     },
     {
       "album": {
@@ -120606,6 +120668,28 @@
       "duration_ms": 164218,
       "name": "Solar Eclipse",
       "url": "https://open.spotify.com/track/6flvaLEFm5pjNJba856OT7"
+    },
+    {
+      "album": {
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Music Cristiana para toda la familia!",
-  "num_followers": 2329,
+  "num_followers": 2332,
   "original_name": "Ni\u00f1os Cristianos",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Jes\u00fas Te Llama",
-        "url": "https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N"
+        "name": "Que Se Llene Tu Casa",
+        "url": "https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm"
       },
       "artists": [
         {
-          "name": "Peque\u00f1os H\u00e9roes",
-          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+          "name": "Juana",
+          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
         }
       ],
-      "duration_ms": 203451,
-      "name": "Jes\u00fas Te Llama",
-      "url": "https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS"
+      "duration_ms": 195984,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -255,22 +259,18 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Que Se Llene Tu Casa",
-        "url": "https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm"
+        "name": "Jes\u00fas Te Llama",
+        "url": "https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N"
       },
       "artists": [
         {
-          "name": "Juana",
-          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
-        },
-        {
-          "name": "Canticuentos",
-          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
         }
       ],
-      "duration_ms": 195984,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb"
+      "duration_ms": 203451,
+      "name": "Jes\u00fas Te Llama",
+      "url": "https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS"
     },
     {
       "added_at": "2026-08-01 02:41:17",

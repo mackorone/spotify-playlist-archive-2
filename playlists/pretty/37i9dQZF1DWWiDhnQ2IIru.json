@@ -1,6 +1,6 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
-  "num_followers": 3421221,
+  "num_followers": 3421363,
   "original_name": "70s Road Trip",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-02-10 18:00:33",
       "album": {
+        "name": "The Smoker You Drink, The Player You Get",
+        "url": "https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 315400,
+      "name": "Rocky Mountain Way",
+      "url": "https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 213000,
       "name": "The Rubberband Man",
       "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "The Smoker You Drink, The Player You Get",
-        "url": "https://open.spotify.com/album/6Sdkho6t0ure9XTzZXM2CK"
-      },
-      "artists": [
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        }
-      ],
-      "duration_ms": 315400,
-      "name": "Rocky Mountain Way",
-      "url": "https://open.spotify.com/track/2XHjFJVXYlEzoDvN82h8s5"
     },
     {
       "added_at": "2021-02-10 18:00:33",
@@ -909,38 +909,6 @@
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "What Were Once Vices Are Now Habits",
-        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Black Water",
-      "url": "https://open.spotify.com/track/4p8QcNkaq2FQj8uGJ7HEDK"
-    },
-    {
-      "added_at": "2021-02-10 18:00:33",
-      "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Takin' Care Of Business",
-      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Flashback",
@@ -971,6 +939,38 @@
       "duration_ms": 363286,
       "name": "New York State of Mind",
       "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
+    },
+    {
+      "added_at": "2021-02-10 18:00:33",
+      "album": {
+        "name": "What Were Once Vices Are Now Habits",
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Black Water",
+      "url": "https://open.spotify.com/track/4p8QcNkaq2FQj8uGJ7HEDK"
     },
     {
       "added_at": "2021-02-10 18:00:33",

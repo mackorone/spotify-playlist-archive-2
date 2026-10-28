@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Mika Yusay\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,073 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,102 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Totoo](https://open.spotify.com/track/02Y0vx7WDJ2mqHfKHQGyGA) | [Jose Miguel](https://open.spotify.com/artist/745dl1DyHr2dvwhFGmJ1nf) | [Totoo](https://open.spotify.com/album/6nSZmRhGv8g8rGWgaW0iwm) | 3:39 |
 | 2 | [stars](https://open.spotify.com/track/64IKco60dPTNZvd4dnwW1s) | [el.](https://open.spotify.com/artist/4O1t3O2gxUIDfKDkfzgTQA) | [stars](https://open.spotify.com/album/1f9VaccaZEoS0mQCzqvzmi) | 4:00 |
 | 3 | [Got Me Down Bad](https://open.spotify.com/track/3bbweTdiTx65Uu5k4kxFss) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx) | [In Phases](https://open.spotify.com/album/6amb9LnEG8nB5JGxWl8F5P) | 3:04 |
-| 4 | [Lubayan](https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r), [Enrique Hidalgo](https://open.spotify.com/artist/5y38JK4NgfflFTtIEUvc9f) | [Lubayan](https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH) | 2:55 |
+| 4 | [Lubayan](https://open.spotify.com/track/3WVEy2IJKDvKVqZ604VwGE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r), [Enrique Hidalgo](https://open.spotify.com/artist/1Ml5mXmoyL1dLoeSICEseI) | [Lubayan](https://open.spotify.com/album/00fzwjzPNJLAtOaiCnmEvH) | 2:55 |
 | 5 | [Paano Ba?](https://open.spotify.com/track/0fMnCh7MOclcX3r2OeUPtD) | [The Sun](https://open.spotify.com/artist/7yTITctgiG4v8zy91s3fRZ) | [Paano Ba?](https://open.spotify.com/album/4MHu576vgfiM0A379s4yFL) | 3:13 |
 | 6 | [Die with You](https://open.spotify.com/track/4kVD5XwZ9TNP0igyepqPyH) | [Eli Elijah](https://open.spotify.com/artist/2TPQLTVapuGIMQGjDDqhsi) | [Die with You](https://open.spotify.com/album/4ccTSQqx1yDC1r0FxpLqhF) | 3:58 |
 | 7 | [DI TO HIMALA](https://open.spotify.com/track/37ZH6VsIUmwRNX7kj6yDZU) | [Hijo](https://open.spotify.com/artist/5FKfbso0qRACpiLxHQ0Ad6), [riv](https://open.spotify.com/artist/3wn0W7LBB2D2t8ZKScTeJ6) | [DORK](https://open.spotify.com/album/4MAscIFcOOTKOJxg9GayR6) | 2:20 |

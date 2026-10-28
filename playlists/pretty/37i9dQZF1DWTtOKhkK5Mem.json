@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 829203,
+  "num_followers": 829260,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Paid Vacation",
+        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Now And Forever",
+      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "If We Fall in Love Tonight",
         "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 281200,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Paid Vacation",
-        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Now And Forever",
-      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Truly",
-      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Gold Experience",
         "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 265320,
       "name": "The Most Beautiful Girl In the World",
       "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+        "name": "Michael Learns To Rock (1991)",
+        "url": "https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
         }
       ],
-      "duration_ms": 251106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
+      "duration_ms": 273600,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Michael Learns To Rock (1991)",
-        "url": "https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
       "artists": [
         {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 273600,
-      "name": "The Actor",
-      "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
+      "duration_ms": 251106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2159,18 +2159,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Take Me Home: Yearbook Edition",
-        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
+        "name": "...Hits",
+        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 219640,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
+      "duration_ms": 204600,
+      "name": "Against All Odds (Take A Look At Me Now)",
+      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Take Me Home: Yearbook Edition",
+        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
         "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 335946,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "...Hits",
-        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Against All Odds (Take A Look At Me Now)",
-      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lifehouse (International Version)",
         "url": "https://open.spotify.com/album/4mmUYaBXYsLKsuCoAE9UvX"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/4T2SmVJPtDdugk5j5xV1d5"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
       },
@@ -2379,22 +2395,6 @@
       "duration_ms": 290960,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3"
     },
     {
       "added_at": "2022-08-26 12:00:00",

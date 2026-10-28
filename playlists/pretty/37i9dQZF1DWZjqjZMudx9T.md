@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la Calle a la Cima con Dei V y Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,824,640 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,824,109 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 7 | [SE PUSO FEO](https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X), [Baby Ranks](https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 3:28 |
 | 8 | [HAXTA EL DIA FINAL](https://open.spotify.com/track/0P9yIskm1XlR0cKMLKLZT2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 4:02 |
 | 9 | [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Suzuki \(from GTAVI: The Album\)](https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp) | 1:51 |
-| 10 | [Bluyineo](https://open.spotify.com/track/7p0qu5dJwr1wXo77JPHSY6) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [soy un fatalista](https://open.spotify.com/album/5Ggkzq2WtTf1EV1yFWTWmd) | 3:03 |
+| 10 | [Bluyineo](https://open.spotify.com/track/7p0qu5dJwr1wXo77JPHSY6) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Soy un fatalista](https://open.spotify.com/album/5Ggkzq2WtTf1EV1yFWTWmd) | 3:03 |
 | 11 | [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 |
 | 12 | [BOTZ](https://open.spotify.com/track/4tpT01PRHuLZI1tAvrJfRf) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BOTZ](https://open.spotify.com/album/5n3zMrSedSoon33igy3KB2) | 2:58 |
 | 13 | [Alístate](https://open.spotify.com/track/4w45zKG2Sz0riESx5Yuatb) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Hay Ángeles Aquí](https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i) | 3:21 |

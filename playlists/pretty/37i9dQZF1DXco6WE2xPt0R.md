@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,216 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,213 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 19 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 20 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 |
 | 21 | [YES](https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [YES](https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr) | 3:43 |
-| 22 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 |
-| 23 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
+| 22 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
+| 23 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 |
 | 24 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 25 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 |
 | 26 | [Maybe Again](https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 3:29 |

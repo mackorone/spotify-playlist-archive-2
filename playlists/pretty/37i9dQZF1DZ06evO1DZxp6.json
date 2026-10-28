@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 245306,
+  "num_followers": 245309,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAADBXzrEQt0qwOlv7oHNNSz8",
+  "snapshot_id": "at1GgAAAAAB2L3Vzj1xZXt6+FxdN3uZ5",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 220253,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Tu Calor",
+      "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: ابو الهوا
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,841 likes - 54 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,209 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 38 | [وننسى اللي كان](https://open.spotify.com/track/5ew2q5hC3OwnEWVB15uB9w) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [وننسى اللي كان](https://open.spotify.com/album/3tgmfcErtbKUtCtKH99pnJ) | 3:15 |
 | 39 | [هنا مصر هفضل كل مرة اجيلك](https://open.spotify.com/track/6u5F7iulJgzOswzPix4riq) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Banque Misr](https://open.spotify.com/artist/52ZYmo8Rhz3Xgxr7RUJ3ql) | [هنا مصر هفضل كل مرة اجيلك](https://open.spotify.com/album/02rhbXRVnloQdLz6EycG9u) | 2:38 |
 | 40 | [سوا سوا](https://open.spotify.com/track/2TKRLhUZxSQgIuDVrtfx9a) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [سوا سوا](https://open.spotify.com/album/6oiGOkXR7n2Je2ta8COYIr) | 2:57 |
-| 41 | [Kan 3ala 3eny \(Red Bull Mazzika Salonat\)](https://open.spotify.com/track/48tGSTYyKXZiHgwPDObPe1) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Kan 3ala 3eny \(Red Bull Mazzika Salonat\)](https://open.spotify.com/album/7HLh6PGIFjgHlLxNCKEK6l) | 2:07 |
+| 41 | [Kan 3ala 3eny \- Red Bull Mazzika Salonat](https://open.spotify.com/track/48tGSTYyKXZiHgwPDObPe1) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Kan 3ala 3eny \(Red Bull Mazzika Salonat\)](https://open.spotify.com/album/7HLh6PGIFjgHlLxNCKEK6l) | 2:07 |
 | 42 | [معايا](https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [معايا](https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli) | 3:12 |
 | 43 | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Moataz Mady](https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam) | 3:35 |
 | 44 | [LAW NASYANY](https://open.spotify.com/track/2yGYedTBTlRtXzmlrXL4wi) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [LAW NASYANY](https://open.spotify.com/album/0PgOjyhg5YNV5yq4q7PRVK) | 3:05 |

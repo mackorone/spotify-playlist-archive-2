@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: LAILA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,516 likes - 273 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,527 likes - 273 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 9 | [the 5 stages of heartbreak](https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [the 5 stages of heartbreak](https://open.spotify.com/album/6ZWJDaWxNzh7bxrPEWrH9K) | 3:01 |
 | 10 | [REFUND](https://open.spotify.com/track/5wR16dwaFLd3Oi6RDA87CP) | [Terrell Grice](https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [THE PHENOMENON](https://open.spotify.com/album/5SgA10pJ2eWb47Q4eu0SNH) | 3:26 |
 | 11 | [Savior](https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Savior](https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW) | 2:41 |
-| 12 | [Circus](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Circus](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 |
+| 12 | [CIRCUS](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [CIRCUS](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 |
 | 13 | [Superposition](https://open.spotify.com/track/5vR7uJE1YTA9p3n6xBE1p1) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Superposition](https://open.spotify.com/album/7cefdWw7RyJXmKZEX0PduI) | 3:35 |
 | 14 | [Reality Show \- Bonus Track](https://open.spotify.com/track/5umw9VsZu5K6AWPXoS0BWK) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Therapy Wasn't Enough: Off The Record](https://open.spotify.com/album/3JnwiLvVIdbUoYdKYXmo3X) | 2:10 |
 | 15 | [She Decides \(feat\. Jeremih\)](https://open.spotify.com/track/1PsFgpJ0dtbhl7H2Gsmw8e) | [Tallia Storm](https://open.spotify.com/artist/21Dbw8JMFzg88oB2lkkLlh), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [She Decides \(feat\. Jeremih\)](https://open.spotify.com/album/2wWH2IzZkfofhy7W19ByTg) | 2:32 |

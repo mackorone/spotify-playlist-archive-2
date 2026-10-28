@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,920 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,921 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [I Made It \(feat\. Tye Tribbett\)](https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 5:40 |
 | 50 | [I Give You Glory](https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3) | 8:25 |
 
-Snapshot ID: `atv1AAAAAABw4SkYMhUD1HMM1WM7d6/0`
+Snapshot ID: `at1GgAAAAACNTRCE93Dr6sMfYwI2XKFP`

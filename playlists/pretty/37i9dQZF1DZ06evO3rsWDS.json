@@ -1,6 +1,6 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 6123,
+  "num_followers": 6127,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DIAMANTES VVS1",
+        "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Que Siga Pasando",
+      "url": "https://open.spotify.com/track/3G4gd35sNx1o4LHV9gZIlu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Misi\u00f3n Cumplida",
         "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 209096,
       "name": "Pedacito de M\u00ed",
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DIAMANTES VVS1",
-        "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Que Siga Pasando",
-      "url": "https://open.spotify.com/track/3G4gd35sNx1o4LHV9gZIlu"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Janney",
+        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 159179,
+      "name": "FE",
+      "url": "https://open.spotify.com/track/2TzRAFNTrXLBz2rDied8c7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 182986,
       "name": "Ticket De Salida",
       "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Janney",
-        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 159179,
-      "name": "FE",
-      "url": "https://open.spotify.com/track/2TzRAFNTrXLBz2rDied8c7"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "De Contrabando",
-      "url": "https://open.spotify.com/track/0JjrgdBvSj3FpAVxBYQkf2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 189586,
       "name": "Brindaremos Por \u00c9l",
       "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/0JjrgdBvSj3FpAVxBYQkf2"
     },
     {
       "added_at": null,

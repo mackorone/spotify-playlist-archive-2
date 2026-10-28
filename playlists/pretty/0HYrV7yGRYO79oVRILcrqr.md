@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,929 likes - 179 songs - 11 hr 21 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,933 likes - 183 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 89 | [Mania](https://open.spotify.com/track/3Dv0QbRMjgZB7Rh9xmmv7F) | [GLIZZYMO GLEN](https://open.spotify.com/artist/1FZPYphRrS6eeXveD2pzGQ) | [Mania](https://open.spotify.com/album/1QZm3P0Hfr5rtx7bYA6JYs) | 2:09 |
 | 90 | [Kerosene](https://open.spotify.com/track/7ijOYsq4rgwvYU40Z5LOob) | [The Hidden Jester](https://open.spotify.com/artist/4inPHWpBxcVwikYzuhQRrc) | [Kerosene](https://open.spotify.com/album/7m1cxnPysotdPVpBn3mRVJ) | 4:30 |
 | 91 | [Hit On Me](https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Hit On Me](https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas) | 3:27 |
-| 92 | [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 |
+| 92 | [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 |
 | 93 | [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 |
 | 94 | [Recomeçar](https://open.spotify.com/track/1mF1agdfi1QMRxBjQn5xbM) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Recomeçar](https://open.spotify.com/album/6l2uBj66bAHppxXgObKV87) | 3:18 |
 | 95 | [Whatever You Want Is What It Means](https://open.spotify.com/track/5SEznBfFMlSXb8NRhJtFnP) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [Whatever You Want Is What It Means](https://open.spotify.com/album/0qOB4U2o7Zw3qMnLQ9I2sr) | 2:58 |
@@ -187,5 +187,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 177 | [Miedo](https://open.spotify.com/track/4yzqWVHQIiwdHruw2ZCZm7) | [Alejandro Palma](https://open.spotify.com/artist/3tcRwr3qKkvcHambpIo4rU) | [Miedo](https://open.spotify.com/album/4Yn6Yko2J8v9JlVOWoEX7E) | 4:31 |
 | 178 | [Troubled Lovers](https://open.spotify.com/track/0HjRA1qtAxd2TBbSY5gSFa) | [LilYūgen](https://open.spotify.com/artist/0rIFFUGNSGAfQulpcZ97Zv) | [Troubled Lovers](https://open.spotify.com/album/7gbZbtBtccoguWh8CVE7sL) | 2:19 |
 | 179 | [Hold Me Close](https://open.spotify.com/track/2C9APnMqeVPtMAzugwg54h) | [Mitchell Young](https://open.spotify.com/artist/6RY3dxOO5v52Hj1eLdlCyM) | [Hold Me Close](https://open.spotify.com/album/25OFRtP1Pg8rB1UsStSnb1) | 2:38 |
+| 180 | [Sea of Mold](https://open.spotify.com/track/3FaWJ3JBF4Go9kQML4yXyY) | [Celestial Sailors](https://open.spotify.com/artist/0vS2ihBCFobhbvtx5eLaT2) | [Sea of Mold](https://open.spotify.com/album/1h4R728cMe0VkP9EdFlxy9) | 5:26 |
+| 181 | [Lazy Days](https://open.spotify.com/track/4sGmBEwT2CWB2h8BvQvmfw) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [Lazy Days](https://open.spotify.com/album/0GI1FjoK3nO7BeagNEJG9I) | 3:04 |
+| 182 | [Shake Your Azz](https://open.spotify.com/track/10FkiRzgg9nHEpTlP6L7eC) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [Can't Touch the Ground](https://open.spotify.com/album/4V794UIh2kDa6zswsOQeEs) | 4:12 |
+| 183 | [BIG BAD KARMA](https://open.spotify.com/track/1tsUSGvb6Ke0UtUHed1r7K) | [ENGINES OF AGGRESSION](https://open.spotify.com/artist/3og8ID2UsKexUDeG3PVisc) | [Inhuman Nature](https://open.spotify.com/album/0dHm8MWZqeNVEFaULzQozs) | 3:37 |
 
-Snapshot ID: `AAAM4Mb47Tp9fQ+dQTITUG+0WXyYZVaN`
+Snapshot ID: `AAAM5AqV5mSFP7321XUYQ6Bk6+YvYXk2`

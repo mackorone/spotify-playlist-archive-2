@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85016,
+  "num_followers": 85015,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 217307,
-      "name": "Wanna Be Loved",
-      "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 236230,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Popular",
         "url": "https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/1L8ObNUDCh7k6GwDIbfx9Q"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 236230,
-      "name": "feelslikeimfallinginlove",
-      "url": "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 251155,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/3ibXZkzvCPZ6lWbfubSolQ"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 251155,
-      "name": "That's My King",
-      "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
     },
     {
       "added_at": "2024-11-25 16:13:36",

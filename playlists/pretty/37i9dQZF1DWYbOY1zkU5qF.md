@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,231 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,298 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 12 | [SUBEME LA RADIO](https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [SUBEME LA RADIO](https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo) | 3:29 |
 | 13 | [Nada \- Acústico](https://open.spotify.com/track/6aX5P3g49IxqH6zzfDKHx1) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Nada \(Acústico\)](https://open.spotify.com/album/0UZYifjkDxYPTKAZ2nOEht) | 3:03 |
 | 14 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
-| 15 | [Lobo Hombre En París](https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e) | [Fran](https://open.spotify.com/artist/2x4BKdc1ILXpNV1xg60gSV) | [Lobo Hombre En París](https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5) | 3:05 |
-| 16 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 |
+| 15 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 |
+| 16 | [Lobo Hombre En París](https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e) | [Fran](https://open.spotify.com/artist/2x4BKdc1ILXpNV1xg60gSV) | [Lobo Hombre En París](https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5) | 3:05 |
 | 17 | [Cien Años](https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Cien Años](https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru) | 3:25 |
 | 18 | [Que No Quede Huella](https://open.spotify.com/track/4ixhvZuDzaohfHppwOAYiL) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Que No Quede Huella](https://open.spotify.com/album/0PFjnChN1bPeIiOABMezNb) | 2:51 |
 | 19 | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs) | 4:51 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 38 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
 | 39 | [Échame La Culpa](https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts) | [Cris Moné](https://open.spotify.com/artist/5Exvb6CXfgIb7sYwvzO7pS), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Échame La Culpa](https://open.spotify.com/album/5zmiQwf0xQI91Yhh65riGr) | 3:00 |
 | 40 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
-| 41 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
-| 42 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
+| 41 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
+| 42 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
 | 43 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 44 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
 | 45 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 57 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
 | 58 | [Un año](https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Un año](https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe) | 2:29 |
 | 59 | [Dime Que No](https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Dime Que No](https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn) | 4:51 |
-| 60 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
-| 61 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
+| 60 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
+| 61 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
 | 62 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
-| 63 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
-| 64 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
+| 63 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
+| 64 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
 | 65 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
 | 66 | [Con El Tiempo \- Acústica](https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Con El Tiempo \(Acústica\)](https://open.spotify.com/album/2jH6zcdv1e8vLkye1MuFDb) | 2:52 |
 | 67 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |

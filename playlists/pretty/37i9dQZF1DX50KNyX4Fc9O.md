@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Jude York
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,001 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,993 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 27 | [Pretty girls](https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [I think I spoke too soon](https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL) | 3:35 |
 | 28 | [NOT A BOY!](https://open.spotify.com/track/3kr3SNhArA0eQdpfZuEmkt) | [Matilda Pearl](https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw) | [NOT A BOY!](https://open.spotify.com/album/772hSCny4fdS0zpquCRuGL) | 3:17 |
 | 29 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
-| 30 | [What's In My Bag?](https://open.spotify.com/track/0T5XGpG16Qh2jaw62czaVl) | [Sharny](https://open.spotify.com/artist/7mVN8whS1b2pF7UDDiYAv8) | [What's In My Bag](https://open.spotify.com/album/7cxmACydsIFrPj9Zk1nQIe) | 3:08 |
+| 30 | [What's In My Bag?](https://open.spotify.com/track/0T5XGpG16Qh2jaw62czaVl) | [Sharny](https://open.spotify.com/artist/7mVN8whS1b2pF7UDDiYAv8) | [What's In My Bag?](https://open.spotify.com/album/7cxmACydsIFrPj9Zk1nQIe) | 3:08 |
 | 31 | [Z\-List Girl \- Perfectworld Version](https://open.spotify.com/track/50QMaE7Q4AyadQkN8C5bYD) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR), [Perfectworld](https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T) | [Z\-List Girl \(Perfectworld Version\)](https://open.spotify.com/album/5SwM46mpmbxyWiWSJI4GCy) | 3:10 |
 | 32 | [I WANNA FEEL](https://open.spotify.com/track/6mgnsqeFFa86RvqHgH9xk4) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [I WANNA FEEL](https://open.spotify.com/album/5iIZveL7TRieoMHMnya6wt) | 2:47 |
 | 33 | [Skipping Stones](https://open.spotify.com/track/2nbfoPpoQLOmF18UDNx5Qa) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Skipping Stones](https://open.spotify.com/album/1E0vRxU3zUTt82FJ7iTOpR) | 3:17 |

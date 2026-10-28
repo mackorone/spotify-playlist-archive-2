@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,007 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,009 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [El Arte del Rap](https://open.spotify.com/track/6k3aZ0NBKXUKU1tqeEHODT) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc), [Juaninacka](https://open.spotify.com/artist/6a7aRbyLNHHiwqgLh87Mpy), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [BALANCE](https://open.spotify.com/album/3fQYE3NVCFXUkiVYHpvEBx) | 5:14 |
 | 50 | [Hijos de los Días](https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:03 |
 
-Snapshot ID: `atv1AAAAAAAEZ9m4PjSkFtwsX+8QHSCl`
+Snapshot ID: `at1GgAAAAABiYSk4zRSfOkC5V+rzmA97`

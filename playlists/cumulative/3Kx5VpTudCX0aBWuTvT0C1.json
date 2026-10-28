@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "caf\u00e9 de los viernes (el tiempo)",
+        "url": "https://open.spotify.com/album/4rS1YJ7P7UWECrxDo7CtkY"
+      },
+      "artists": [
+        {
+          "name": "MAZU",
+          "url": "https://open.spotify.com/artist/2breQ5ihxCV86kdRRWHWBf"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145448,
+      "name": "caf\u00e9 de los viernes (el tiempo)",
+      "url": "https://open.spotify.com/track/5g86G6yvzEcDQRwvRUI5k9"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj"
       },
@@ -1543,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "I See Scared",
+        "url": "https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3"
+      },
+      "artists": [
+        {
+          "name": "Carl Schonbeck",
+          "url": "https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233290,
+      "name": "I See Scared",
+      "url": "https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ"
+    },
+    {
+      "album": {
         "name": "I'll Try To Be Me",
         "url": "https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW"
       },
@@ -2034,6 +2070,28 @@
       "duration_ms": 237226,
       "name": "Month of Sundays",
       "url": "https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr"
+    },
+    {
+      "album": {
+        "name": "My Bow",
+        "url": "https://open.spotify.com/album/15ha5azvbwWyriffkF1D2F"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        },
+        {
+          "name": "Jezabel Martinez",
+          "url": "https://open.spotify.com/artist/2ip1Pd2RxWbJLFwHgjrc1c"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "My Bow",
+      "url": "https://open.spotify.com/track/7vfsMALBTyHIt0IJLK8SN4"
     },
     {
       "album": {
@@ -2803,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/0k2s755S8RZgHl2Ou0WmDd"
+      },
+      "artists": [
+        {
+          "name": "Paris Heart",
+          "url": "https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154378,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/2kg23zzELIPwjvoHdrs6f1"
+    },
+    {
+      "album": {
         "name": "Stolen Youth",
         "url": "https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee"
       },
@@ -2898,6 +2974,24 @@
       "duration_ms": 206561,
       "name": "Sword And Shield",
       "url": "https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196474,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,680 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,726 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 6 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 |
 | 7 | [Man of The Year](https://open.spotify.com/track/0xRF2p0f5FOOF6tiCG9L6x) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:24 |
 | 8 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 4:08 |
-| 9 | [GOD](https://open.spotify.com/track/6R1vROJsZ6VrmckyCf41cE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:53 |
+| 9 | [GTA](https://open.spotify.com/track/188ZcI2wLxV91ppTH0dkNk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:35 |
 | 10 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 11 | [Cana](https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:20 |
 | 12 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
-| 13 | [GTA](https://open.spotify.com/track/188ZcI2wLxV91ppTH0dkNk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:35 |
+| 13 | [GOD](https://open.spotify.com/track/6R1vROJsZ6VrmckyCf41cE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:53 |
 | 14 | [Hushpuppi](https://open.spotify.com/track/0e0kV3cnEHS721PoDYxQyk) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:42 |
 | 15 | [Today](https://open.spotify.com/track/1dpSGMq9TjMxwv6aDFC5Sg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:37 |
 | 16 | [Dejavu](https://open.spotify.com/track/14uK4220kmfZKrKSeFTTlF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj) | 2:40 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 35 | [God Sent](https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NSNV](https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk) | 3:32 |
 | 36 | [Migos](https://open.spotify.com/track/75Z6UVdO4anTZIGf3DrvYn) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8) | 2:21 |
 | 37 | [Emo \- Remix](https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:36 |
-| 38 | [Shazam](https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:43 |
+| 38 | [UNIVERSE](https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:22 |
 | 39 | [NSNV](https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NSNV](https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk) | 2:44 |
-| 40 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
-| 41 | [UNIVERSE](https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:22 |
+| 40 | [Shazam](https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:43 |
+| 41 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
 | 42 | [HAPPY SONG](https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 1:59 |
 | 43 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 |
-| 44 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:59 |
-| 45 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
+| 44 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
+| 45 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:59 |
 | 46 | [Catalyst](https://open.spotify.com/track/3C6Sym0P7JxgNOegloBFcp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NSNV](https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk) | 2:00 |
 | 47 | [Bullion Van](https://open.spotify.com/track/01Nc64zcDcXR0VFgrEldlH) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:35 |
 | 48 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
 | 49 | [Goated](https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Goated](https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4) | 2:18 |
 | 50 | [Billion Dollar](https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:24 |
 
-Snapshot ID: `atv1AAAAAABfW+Fwm+FbxjaVe50LNjww`
+Snapshot ID: `at1GgAAAAADFNNzEgbA2Cvx6VEjVn/Hw`

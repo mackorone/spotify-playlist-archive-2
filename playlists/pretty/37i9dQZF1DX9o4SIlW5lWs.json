@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 287747,
+  "num_followers": 287798,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
         "name": "Porque A\u00fan Te Amo - Versi\u00f3n Cumbia",
         "url": "https://open.spotify.com/album/0wVVJ3OawXMrXiKJq0vDos"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 146718,
       "name": "Porque A\u00fan Te Amo - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/2euFc4LCzhuCzDqtnuFndy"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
-        "name": "Me Encanta",
-        "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "Me Encanta",
-      "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "El Comboloco",
-        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
-      },
-      "artists": [
-        {
-          "name": "El Combo Loco",
-          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Ser\u00e1 Porque Te Amo",
-      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 205611,
       "name": "Boleto al Amor",
       "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "El Comboloco",
+        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
+      },
+      "artists": [
+        {
+          "name": "El Combo Loco",
+          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Ser\u00e1 Porque Te Amo",
+      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -863,6 +863,34 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
+        "name": "Promet\u00ed",
+        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Promet\u00ed",
+      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -875,22 +903,6 @@
       "duration_ms": 229093,
       "name": "Pega la Vuelta",
       "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -919,30 +931,18 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "Promet\u00ed",
-        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
       "artists": [
         {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "ZHAE",
-          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 156325,
-      "name": "Promet\u00ed",
-      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
         "name": "El amor de mi vida",
         "url": "https://open.spotify.com/album/37TWuqqDxiDoIQyjHxBz7a"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 209279,
       "name": "El amor de mi vida",
       "url": "https://open.spotify.com/track/3WQbdREgIVXwUWWcnXvQJe"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
         "name": "Pero No Puedo Vol.2",
         "url": "https://open.spotify.com/album/3ne9oJyuZbSjtlACDhzc7L"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 186352,
       "name": "Pero No Puedo Vol.2",
       "url": "https://open.spotify.com/track/3fVHtUpYml04WJeF5ybxXc"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2026-09-25 15:00:19",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-09-25 15:00:19",
       "album": {
+        "name": "Decepci\u00f3n",
+        "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 146878,
+      "name": "Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
+    },
+    {
+      "added_at": "2026-09-25 15:00:19",
+      "album": {
         "name": "Si Te Agarran Las Ganas",
         "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 205176,
       "name": "20 Labios",
       "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
-    },
-    {
-      "added_at": "2026-09-25 15:00:19",
-      "album": {
-        "name": "Decepci\u00f3n",
-        "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 146878,
-      "name": "Decepci\u00f3n",
-      "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
     },
     {
       "added_at": "2026-09-25 15:00:19",

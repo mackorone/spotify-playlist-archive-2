@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 151327,
+  "num_followers": 151347,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -979,30 +979,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 131479,
-      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
-      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
         "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 157733,
       "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
       "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
         }
       ],
-      "duration_ms": 274866,
-      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
-      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
-      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
+      "duration_ms": 274866,
+      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
+      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
     },
     {
       "added_at": "2025-12-23 12:24:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 
 > This is Pauline Oliveros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001 likes - 50 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000 likes - 50 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 | 49 | [Outer](https://open.spotify.com/track/1SMwp2Am6NOQJRDWzu6nw6) | [Doug Van Nort](https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv), [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Francisco López](https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes), [Jonas Braasch](https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq) | [Quartet for the End of Space](https://open.spotify.com/album/4DSd4Pw1IvrFzUw7FxUrts) | 8:11 |
 | 50 | ["This Great Fool's Stage"](https://open.spotify.com/track/35vSyCMgNa0UOeO2LwNFMf) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [Crone Music](https://open.spotify.com/album/1DSIxEqxTuHZcMmDtHc7s7) | 5:12 |
 
-Snapshot ID: `atv1AAAAAAAfP8C+isWa66lpGVRXT5Ky`
+Snapshot ID: `at1GgAAAAAAqkO52pViX1WdS1VX5KLE9`

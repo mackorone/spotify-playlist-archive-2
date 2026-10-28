@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Jeshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,536 likes - 45 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,532 likes - 45 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

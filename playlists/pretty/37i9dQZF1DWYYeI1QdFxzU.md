@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,014 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,991 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 29 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 30 | [Screen](https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Screen](https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu) | 4:06 |
 | 31 | [Feel So Alive](https://open.spotify.com/track/6T72wSyvuUJgCc8EH5wRfw) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Feel So Alive](https://open.spotify.com/album/3FU3PiQqpMQzsTgEwsoqtK) | 2:15 |
-| 32 | [Think Tomorrow](https://open.spotify.com/track/6mw92ldgNYOy1EupraEGI5) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Think Tomorrow](https://open.spotify.com/album/0Y4RcSfy7TOVDyuQFvU2dk) | 4:40 |
+| 32 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
 | 34 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 |
-| 35 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 |
+| 35 | [Think Tomorrow](https://open.spotify.com/track/6mw92ldgNYOy1EupraEGI5) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Think Tomorrow](https://open.spotify.com/album/0Y4RcSfy7TOVDyuQFvU2dk) | 4:40 |
 | 36 | [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 |
 | 37 | [Shame](https://open.spotify.com/track/1Ctb0GZJFcbwGXbv6ePfs0) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Shame](https://open.spotify.com/album/5SUIciAcALfKhj6ip5Kg73) | 4:37 |
 | 38 | [This Feeling](https://open.spotify.com/track/6iK0ChTEvfDY9qH9dotiuX) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [This Feeling](https://open.spotify.com/album/5LxqYEPtM9ceTn1FIbWiW5) | 4:41 |

@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  Mrs\. GREEN APPLE
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  Vaundy
 
-1,885 songs - 4 day 20 hr 37 min
+1,886 songs - 4 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,7 +833,7 @@
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-10 | 2024-04-12 |
 | [Small White](https://open.spotify.com/track/5gtz1vlmjbtUePIh3oXhWo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Small White](https://open.spotify.com/album/7vFfieIpd90YZe7FKUXpAy) | 4:44 | 2022-11-13 | 2023-02-06 |
 | [Small World](https://open.spotify.com/track/0wRayZpIP9rv3gGz3jQPlp) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Small World](https://open.spotify.com/album/1pPlX9beCj4fdbNYeqD7kH) | 4:42 | 2022-03-06 | 2022-03-21 |
-| [Smile](https://open.spotify.com/track/4Es0XlLKmqC8R25CEgF9pZ) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [Smile](https://open.spotify.com/album/1pMA5CkOIm2zKA3AQCFWdY) | 4:05 | 2026-10-06 |  |
+| [Smile](https://open.spotify.com/track/4Es0XlLKmqC8R25CEgF9pZ) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [Smile](https://open.spotify.com/album/1pMA5CkOIm2zKA3AQCFWdY) | 4:05 | 2026-10-06 | 2026-10-28 |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-04-23 | 2023-05-23 |
 | [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-09-03 | 2023-09-11 |
 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 | 2023-11-19 | 2023-12-11 |
@@ -1315,6 +1315,7 @@
 | [テレパス](https://open.spotify.com/track/7C37yaKPoOJHUvlNYv991q) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [テレパス](https://open.spotify.com/album/2UGjDQb2VvvfasGe7n1hxN) | 4:53 | 2023-01-15 | 2023-02-13 |
 | [デッドエンド](https://open.spotify.com/track/505amJN26gbUe9tb9FtZL5) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Nautilus](https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b) | 4:40 | 2024-03-19 | 2024-05-15 |
 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 | 2022-10-23 | 2023-01-09 |
+| [トムとジェリーとヘイターと私](https://open.spotify.com/track/5h4LjodwIRu35AU0aDMoOj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [トムとジェリーとヘイターと私](https://open.spotify.com/album/5jGFlFGPRbQYzKUM5ux9v3) | 2:29 | 2026-10-27 |  |
 | [ドキドキする](https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ドキドキする](https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1) | 3:01 | 2023-11-05 | 2023-12-11 |
 | [ドンセイグッバイ](https://open.spotify.com/track/60k1ZuVrHdHdJcpxhKpQvr) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a), [大比良瑞希](https://open.spotify.com/artist/1dDD5r3Io6ZynPnoirE04W) | [Long Voyage](https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi) | 6:21 | 2022-09-18 | 2022-10-31 |
 | [ドーパミン](https://open.spotify.com/track/59kIuAVlIgcR6NSctQxylR) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [ドーパミン](https://open.spotify.com/album/1MajKmFhb2J5ARpwVatU6V) | 2:53 | 2021-12-26 | 2022-01-17 |

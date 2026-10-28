@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,081 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,088 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Viper's Dream](https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Maurice Meunier](https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru), [Eddie Bernard](https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww), [Eugène Vées](https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX), [Emmanuel Soudieux](https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh), [Jacques Martinon](https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7) | [Electric Django: Radio Recordings 1947](https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY) | 3:01 |
 | 50 | [Just One Of Those Things](https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stephane Grappelli](https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z) | [Limitless Jazz, Vol\. 31](https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur) | 2:54 |
 
-Snapshot ID: `atv1AAAAAABXibUTnkef3PUhbfVxjJ3w`
+Snapshot ID: `at1GgAAAAADweY0J6H3O2eOLRHZKT0s0`

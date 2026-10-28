@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,354 likes - 45 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,355 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 33 | [Stop Breaking Down](https://open.spotify.com/track/2zUo58hpXMdR1GUcGYyfmP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:20 |
 | 34 | [Little Cream Soda](https://open.spotify.com/track/6c8EgiX8YLkb3dmQHCEbfN) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 3:45 |
 | 35 | [Truth Doesn't Make a Noise](https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 3:14 |
-| 36 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
+| 36 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
 | 37 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
 | 38 | [Hand Springs](https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hand Springs](https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa) | 2:56 |
 | 39 | [Lafayette Blues](https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Lafayette Blues](https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA) | 2:15 |
-| 40 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
+| 40 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
 | 41 | [When I Hear My Name](https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 1:54 |
 | 42 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
 | 43 | [City Lights \- Previously Unreleased](https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [City Lights \(Previously Unreleased\)](https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF) | 4:50 |

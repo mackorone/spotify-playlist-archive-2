@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277663,
+  "num_followers": 277667,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 215901,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "El Amor de Mi Vida",
         "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 184586,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 215901,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "Formas De Amor",
-        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Klaz Y Keroz",
-          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Suave Y Tierno",
-      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 210932,
       "name": "24/7",
       "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
+        "name": "Formas De Amor",
+        "url": "https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Klaz Y Keroz",
+          "url": "https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Suave Y Tierno",
+      "url": "https://open.spotify.com/track/1boomhGAEyfVaMiODGyate"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
         "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 194638,
       "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
       "url": "https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "CONTACTO CERO",
-        "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
-      },
-      "artists": [
-        {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 123136,
-      "name": "CONTACTO CERO",
-      "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
         "name": "La Enamorada De Un Amigo M\u00edo",
         "url": "https://open.spotify.com/album/2NbgJPRulDRsZTmuHQVsrj"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 187477,
       "name": "La Enamorada De Un Amigo M\u00edo",
       "url": "https://open.spotify.com/track/674pIduUnCYIJ3WwXeeXus"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
+        "name": "CONTACTO CERO",
+        "url": "https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 123136,
+      "name": "CONTACTO CERO",
+      "url": "https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv"
     },
     {
       "added_at": "2026-09-14 07:02:39",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
+        "name": "Balada Pop",
+        "url": "https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 142081,
+      "name": "Balada Pop",
+      "url": "https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
         "name": "La Receta, Jambao, G Sony | Sin Miedo al \u00c9xito #2",
         "url": "https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P"
       },
@@ -1795,42 +1811,6 @@
     {
       "added_at": "2026-09-14 07:02:39",
       "album": {
-        "name": "Balada Pop",
-        "url": "https://open.spotify.com/album/3PZmctrjLYvAjQEDhDlxtz"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 142081,
-      "name": "Balada Pop",
-      "url": "https://open.spotify.com/track/7ivqF3wpJIW2kxkS5utDSH"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
-        "name": "Enamorada",
-        "url": "https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 195851,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
-    },
-    {
-      "added_at": "2026-09-14 07:02:39",
-      "album": {
         "name": "Si Alguien Me Ve",
         "url": "https://open.spotify.com/album/68AC8yFLwnmI6xDYV4rqtF"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 176289,
       "name": "Si Alguien Me Ve",
       "url": "https://open.spotify.com/track/7CAJ3m7qP122kvN1bkyTPm"
+    },
+    {
+      "added_at": "2026-09-14 07:02:39",
+      "album": {
+        "name": "Enamorada",
+        "url": "https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 195851,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
     },
     {
       "added_at": "2026-09-14 07:02:39",

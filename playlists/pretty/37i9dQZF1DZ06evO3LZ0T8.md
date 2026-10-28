@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,946 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,945 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LZ0T8.md) - [plain]
 | 49 | [Ride Or Die](https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride Or Die](https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo) | 3:08 |
 | 50 | [U Know It](https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:39 |
 
-Snapshot ID: `atv1AAAAAABao7f7ZcQFcHK9Iyny13gc`
+Snapshot ID: `at1GgAAAAAA00JDKtLKUuIfzXAay7fdX`

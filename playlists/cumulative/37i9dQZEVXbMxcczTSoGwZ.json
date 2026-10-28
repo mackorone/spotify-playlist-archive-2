@@ -8321,6 +8321,24 @@
     },
     {
       "album": {
+        "name": "Vois kelle vaan tapahtuu",
+        "url": "https://open.spotify.com/album/6c9vGT17RYPJkpB6bRMhY2"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Da Vinci",
+      "url": "https://open.spotify.com/track/6C4PcSWun3Wp5WPSHfGNt6"
+    },
+    {
+      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -11054,7 +11072,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 179487,
       "name": "EI V\u00c4LII",
       "url": "https://open.spotify.com/track/2cfEKyniE8r223DjBP27vR"
@@ -22102,7 +22120,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 216773,
       "name": "Join Me - Razorblade Mix",
       "url": "https://open.spotify.com/track/0d510tdfPL5wEdjUDe9CjH"
@@ -22120,7 +22138,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 216744,
       "name": "Join Me In Death",
       "url": "https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS"
@@ -23742,7 +23760,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 147706,
       "name": "J\u00e4\u00e4prinsessa",
       "url": "https://open.spotify.com/track/4nDyacdMsQcB08fi4R57xW"
@@ -27840,7 +27858,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 114937,
       "name": "Kui paljon",
       "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"

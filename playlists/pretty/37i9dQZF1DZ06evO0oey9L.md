@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,794 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,813 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 5 | [Con Finta De Cholo](https://open.spotify.com/track/5QAY068s3fGLRQm8Re0nKy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 3:28 |
 | 6 | [El Del Jolly Rancher](https://open.spotify.com/track/6x8tNMBrOiFAvA2WoqYKgU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 4:01 |
 | 7 | [Los de La Casa](https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2](https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg) | 4:01 |
-| 8 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 |
+| 8 | [Va Por Todos](https://open.spotify.com/track/4u0L6n0eSV5gTBvAYglqTB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:58 |
 | 9 | [Tinta y Plomo](https://open.spotify.com/track/1CJoATnCszv00FT1CEnLPx) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 3:13 |
 | 10 | [Yo Quiero Fumar](https://open.spotify.com/track/54R1JRL65L0LarHmgdMqay) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:50 |
-| 11 | [Va Por Todos](https://open.spotify.com/track/4u0L6n0eSV5gTBvAYglqTB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:58 |
+| 11 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 |
 | 12 | [Ya La Conecte](https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 2:46 |
 | 13 | [El Chuko](https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:52 |
 | 14 | [Lo Que Me Distingue](https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:16 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 41 | [LENTES LV](https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [LENTES LV](https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh) | 2:35 |
 | 42 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 |
 | 43 | [Los 3 De Siempre](https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Los 3 De Siempre](https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE) | 2:55 |
-| 44 | [Mi Buena Suerte](https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Mi Buena Suerte](https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH) | 2:25 |
-| 45 | [Sky Blue](https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sky Blue](https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB) | 2:42 |
+| 44 | [Sky Blue](https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sky Blue](https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB) | 2:42 |
+| 45 | [Mi Buena Suerte](https://open.spotify.com/track/0rMRfyKsyCaAFalnORmxQu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Mi Buena Suerte](https://open.spotify.com/album/0pjmst5C79OuNfHXy5rhtH) | 2:25 |
 | 46 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
 | 47 | [El Guero](https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Guero](https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq) | 2:04 |
 | 48 | [La Gwag](https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Gwag](https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z) | 2:26 |
 | 49 | [Niñas De Revista](https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Niñas De Revista](https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak) | 2:27 |
 | 50 | [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 |
 
-Snapshot ID: `atv1AAAAAACSNI1BtMo3Xwrh9sF6w2pd`
+Snapshot ID: `at1GgAAAAACzJws3Kwj9uKrLUBiyO2ZE`

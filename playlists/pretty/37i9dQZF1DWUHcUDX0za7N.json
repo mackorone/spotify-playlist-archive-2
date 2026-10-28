@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
-  "num_followers": 86939,
+  "num_followers": 86958,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "Ore Agbako",
+        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
+      },
+      "artists": [
+        {
+          "name": "Double Gee2x",
+          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Ore Agbako",
+      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -463,18 +479,38 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Ore Agbako",
-        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
       },
       "artists": [
         {
-          "name": "Double Gee2x",
-          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Ore Agbako",
-      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "BB Lifestyle",
+        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "BB Lifestyle",
+      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -499,26 +535,6 @@
       "duration_ms": 152635,
       "name": "Lalakula",
       "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "BB Lifestyle",
-        "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "BB Lifestyle",
-      "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -559,22 +575,6 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "CA$H OUT",
-      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -644,7 +644,7 @@
           "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         }
       ],
-      "duration_ms": 187530,
+      "duration_ms": 167527,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
     },
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Promise Land",
-        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
-      },
-      "artists": [
-        {
-          "name": "Evado",
-          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "Big Drop (feat. Zaylevelten)",
         "url": "https://open.spotify.com/album/02G39lYZMBp1WZLzoPZpVz"
       },
@@ -743,22 +727,18 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
+        "name": "Promise Land",
+        "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
       },
       "artists": [
         {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
         }
       ],
-      "duration_ms": 144065,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+      "duration_ms": 211862,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -787,22 +767,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
       },
       "artists": [
         {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
         },
         {
           "name": "Zaylevelten",
           "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
         }
       ],
-      "duration_ms": 147118,
-      "name": "Chose Me",
-      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
+      "duration_ms": 144065,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -823,22 +803,22 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Life is Slo II",
-        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
       "artists": [
         {
-          "name": "EF Moon",
-          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         },
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Life is Slo II",
-      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
+      "duration_ms": 147118,
+      "name": "Chose Me",
+      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -863,6 +843,26 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "Life is Slo II",
+        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Life is Slo II",
+      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "2:02PM IN LONDON (FREESTYLE)",
         "url": "https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Ijoba",
-        "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Ijoba",
-      "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -915,6 +895,26 @@
       "duration_ms": 147692,
       "name": "Wuse Tu",
       "url": "https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "Ijoba",
+        "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Ijoba",
+      "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1051,42 +1051,6 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "I Knoww II",
-        "url": "https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7"
-      },
-      "artists": [
-        {
-          "name": "EF Moon",
-          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "I Knoww II",
-      "url": "https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -1107,6 +1071,42 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4qp6UT9ZozI9JAtI5sAC13"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "I Knoww II",
+        "url": "https://open.spotify.com/album/28pWV27QnlP2Mwe1nhEiN7"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "I Knoww II",
+      "url": "https://open.spotify.com/track/0DlXEJiBF5RsnbiYqKndsV"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 137892,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1155,6 +1139,26 @@
       "duration_ms": 194594,
       "name": "Asawana",
       "url": "https://open.spotify.com/track/1sAFvsYedobf0z7hCF6pwE"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
+        "name": "Gaou la (feat. 6uff)",
+        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Gaou la (feat. 6uff)",
+      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1195,22 +1199,18 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
-        "name": "Gaou la (feat. 6uff)",
-        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
       },
       "artists": [
         {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 147169,
-      "name": "Gaou la (feat. 6uff)",
-      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-10-23 00:01:38",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-10-23 00:01:38",
       "album": {
+        "name": "PITY THIS BOY",
+        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2026-10-23 00:01:38",
+      "album": {
         "name": "THE RETURN (Eze Ony\u1ecbk\u1ecd)",
         "url": "https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:38",
-      "album": {
-        "name": "PITY THIS BOY",
-        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
     },
     {
       "added_at": "2026-10-23 00:01:38",

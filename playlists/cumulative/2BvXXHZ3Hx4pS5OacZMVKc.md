@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-491 songs - 1 day 1 hr 14 min
+493 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-08-11 |
 | [HYDRA](https://open.spotify.com/track/74c4euNPZscdPRHlg3Pkav) | [Cyazon](https://open.spotify.com/artist/7yiGQoPOHVrr5LGKf5VwP8) | [HYDRA](https://open.spotify.com/album/4pt1TlcZuY7g9V7NfBkYzX) | 2:33 | 2026-05-08 |  |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-08-11 |
+| [i can hear you](https://open.spotify.com/track/27FHQw5a7N5pcG4Q85yOxo) | [LLow](https://open.spotify.com/artist/4zwj4Z93k8LjJMwaCw5EDh) | [i can hear you](https://open.spotify.com/album/4LmK2GVqKRicEv7qaDnmki) | 2:26 | 2026-10-27 |  |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-08-11 |
 | [I Need An Angel](https://open.spotify.com/track/7ccJWOfAs6R4XlaVzOUv5o) | [HESTER](https://open.spotify.com/artist/1jCLTlhIUyR4NVuBjLBxAG) | [I Need An Angel](https://open.spotify.com/album/6uS4F7HdLV0nGf91se9kdt) | 3:49 | 2026-10-16 |  |
 | [I Still Hear Your Voice](https://open.spotify.com/track/7e1BhpbWuryOe0PAGpghQp) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [johnny joined](https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt) | [I Still Hear Your Voice](https://open.spotify.com/album/7K4Qfj3RU88KHufjZj6JyO) | 2:18 | 2026-05-08 |  |
@@ -315,6 +316,7 @@
 | [Overdrive](https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Ellerslie](https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE) | [Overdrive](https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A) | 3:13 | 2023-04-06 | 2024-11-20 |
 | [Overheat](https://open.spotify.com/track/7MZSg7TAsqSD2UugRRqdX9) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Karl Killing](https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:07 | 2025-07-25 |  |
 | [Paralyzed](https://open.spotify.com/track/14png6AXFQpm57JhqgmjWy) | [DM Galaxy](https://open.spotify.com/artist/3uKSQRJFp1pnRWT95Yso12), [Tyler Fiore](https://open.spotify.com/artist/2qz8iDFpz4HGq8WfzjCaEz) | [Paralyzed](https://open.spotify.com/album/6bNnV2W3BH5FqJrPQ2CsK2) | 3:49 | 2023-08-10 |  |
+| [Paranormal](https://open.spotify.com/track/1rVTqykzrgXV6xCY1slhTL) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Paranormal](https://open.spotify.com/album/14C33CaR2qT3MQdNNrbDB9) | 2:40 | 2026-10-27 |  |
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 | 2023-08-11 |
 | [Phenomenon](https://open.spotify.com/track/68atSZYNfc9ar2xugNxZlO) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Faceless](https://open.spotify.com/album/4sZni6V6NvVYhfUFGqKuR3) | 2:56 | 2022-02-03 | 2022-09-15 |
 | [Phoenix](https://open.spotify.com/track/7CkTv4SjCYliV3ZgkZn6om) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/album/3keEnBYmFB6WP89CN1gGnI) | 3:58 | 2022-02-03 | 2022-09-15 |

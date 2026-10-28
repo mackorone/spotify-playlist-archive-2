@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 
 > This is Papa Roach\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,429 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,447 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QLsVW.md) - [plain]
 | 49 | [Time And Time Again](https://open.spotify.com/track/2OAOAtuDWWfzhbgdkZ24sw) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [lovehatetragedy](https://open.spotify.com/album/2bsemtYlVfVAQODavrDkS4) | 2:58 |
 | 50 | [Dying To Believe](https://open.spotify.com/track/1ZjwhGQSDINyRhYHjK1JQq) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:01 |
 
-Snapshot ID: `atv1AAAAAAAtOFlXA9ze1MaiE/y2bQ31`
+Snapshot ID: `at1GgAAAAAD9Qg0fKyDW0Zeitpzwh7i/`

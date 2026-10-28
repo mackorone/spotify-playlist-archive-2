@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280044,
+  "num_followers": 280043,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAAW1ZIJ32ORIp4ZWfeaYz3k",
+  "snapshot_id": "at1GgAAAAADixqS/fB3iD5P+7/K4ISsD",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 119371,
-      "name": "FRIENDS WITH...",
-      "url": "https://open.spotify.com/track/1tiFkvnbKIqabnR9aHqm6E"
+      "duration_ms": 166250,
+      "name": "BETTER THAN A FEELING",
+      "url": "https://open.spotify.com/track/6hz2mZ57s2E6PkpucAYrGT"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 166250,
-      "name": "BETTER THAN A FEELING",
-      "url": "https://open.spotify.com/track/6hz2mZ57s2E6PkpucAYrGT"
+      "duration_ms": 119371,
+      "name": "FRIENDS WITH...",
+      "url": "https://open.spotify.com/track/1tiFkvnbKIqabnR9aHqm6E"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prazer, Mam\u00e3e Noel",
         "url": "https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB"
       },
@@ -579,26 +595,6 @@
       "duration_ms": 172896,
       "name": "A Ceia",
       "url": "https://open.spotify.com/track/3fk20rAk1r0sD4KDh3Ws07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vira Lata",
-        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 130978,
-      "name": "Vira Lata",
-      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+        "name": "Vira Lata",
+        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
       },
       "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+      "duration_ms": 130978,
+      "name": "Vira Lata",
+      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "added_at": null,

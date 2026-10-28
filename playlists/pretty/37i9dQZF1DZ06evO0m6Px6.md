@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519 likes - 44 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 520 likes - 44 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 43 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 |
 | 44 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
 
-Snapshot ID: `atv1AAAAAADQ5/ViSn65/sPF3Nu6JEM0`
+Snapshot ID: `at1GgAAAAADoPoXf0TJqcI8YwLLaQwIs`

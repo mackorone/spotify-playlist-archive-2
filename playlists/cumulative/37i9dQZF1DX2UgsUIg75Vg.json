@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 230342,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2ydPu2s5hpNdI9qtkITZqo"
@@ -10480,7 +10480,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 141591,
       "name": "FEELS",
       "url": "https://open.spotify.com/track/4lpZwmuqK3WfRQr6askJbx"
@@ -12667,6 +12667,28 @@
     },
     {
       "album": {
+        "name": "THE PHENOMENON",
+        "url": "https://open.spotify.com/album/5SgA10pJ2eWb47Q4eu0SNH"
+      },
+      "artists": [
+        {
+          "name": "Terrell Grice",
+          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243141,
+      "name": "GODSPEED!",
+      "url": "https://open.spotify.com/track/13cdpEgEmq6mFazocM0oTX"
+    },
+    {
+      "album": {
         "name": "gold fronts (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
       },
@@ -14732,7 +14754,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 156000,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 Las Pastillas del Abuelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,792 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,821 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 31 | [Plano secuencia](https://open.spotify.com/track/3KioYhBHA5H3dJ4RdNB8pu) | [Franco Dezzutto](https://open.spotify.com/artist/4ovRgH4yFRov6dA0RY1tUD) | [Carrusel](https://open.spotify.com/album/3A3Wt0bPuW1rChrQyXaRXD) | 2:58 |
 | 32 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
 | 33 | [Cada Cosa En Su Lugar](https://open.spotify.com/track/7nU3xdFO1HpbPM3HPF3g0r) | [Organdí](https://open.spotify.com/artist/3nBgmrYZxh2hIzCyDZWTyF) | [Cada Cosa En Su Lugar](https://open.spotify.com/album/4IvPO4eY4fXBu1gzcVnUI2) | 3:29 |
-| 34 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
+| 34 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
 | 35 | [GUAU](https://open.spotify.com/track/0CaWOjAFf0phIuaonhudgf) | [Die Espi](https://open.spotify.com/artist/4iJI979as3eQq17RUFXWyc) | [86](https://open.spotify.com/album/0HdzgVkrr1kvlbJcuiyTAR) | 4:52 |
-| 36 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
+| 36 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 37 | [Caleidoscopio Infinito](https://open.spotify.com/track/3xztJDLInxQDPw7T0xrP00) | [Ale Mauro](https://open.spotify.com/artist/0hUVOFaLIKpAav1nMQOLhD) | [Tantas Realidades](https://open.spotify.com/album/7gwhQhsJH8A0Z8rWmz0pNf) | 3:22 |
 | 38 | [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 |
 | 39 | [Las Ruinas de tu Imperio ·III· La Emperatriz Invertida](https://open.spotify.com/track/4Yi6Je53CHUvOCeixjxKc8) | [Cony Langone](https://open.spotify.com/artist/1Mn6Bw0MZ9oSUU8C03sRHN) | [La Caída del Imperio](https://open.spotify.com/album/4dikHSF1BM381eFMhsko2b) | 3:54 |

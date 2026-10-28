@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,429 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,430 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 23 | [Civil War](https://open.spotify.com/track/7aaZoyuVxcKZSWIY1PeuBv) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Civil War](https://open.spotify.com/album/2dE9FvXmxlQmp1fyHXpVkA) | 7:11 |
 | 24 | [Land of Confusion](https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 4:47 |
 | 25 | [Wicked Game](https://open.spotify.com/track/5XenUjG7cRnTkUe8AVuuMX) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 3:53 |
-| 26 | [The Fate of Ophelia](https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Fate of Ophelia](https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF) | 3:37 |
-| 27 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 |
+| 26 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 |
+| 27 | [The Fate of Ophelia](https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Fate of Ophelia](https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF) | 3:37 |
 | 28 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
 | 29 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 |
 | 30 | [Awaken](https://open.spotify.com/track/5HZS0Vq4lzPyXR3s1qfjvg) | [Youth Never Dies](https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r), [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Awaken](https://open.spotify.com/album/6zgPifPQ5uMdWS09mGHwjd) | 4:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,332 likes - 104 songs - 6 hr 16 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,331 likes - 109 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,10 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 102 | [Who whatever](https://open.spotify.com/track/4cA8Ezw2mxVgYI4hi0ml0G) | [maryann connolly](https://open.spotify.com/artist/1Kfx404oSvrK7zHM8m68Tq) | [Who whatever](https://open.spotify.com/album/0PdZuDVoUbsZ6Z126mvdnp) | 3:09 |
 | 103 | [Analog Soul](https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Analog Soul](https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK) | 3:13 |
 | 104 | [Mask](https://open.spotify.com/track/0T0W7REraxmyOy98PjPOXv) | [Gemma Schito](https://open.spotify.com/artist/5azfm1NUGsCpZS6PeVhISA) | [Mask](https://open.spotify.com/album/3cXQCj7PZk1eb4YZkkIVFR) | 3:00 |
+| 105 | [Stereo](https://open.spotify.com/track/2kg23zzELIPwjvoHdrs6f1) | [Paris Heart](https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA) | [Stereo](https://open.spotify.com/album/0k2s755S8RZgHl2Ou0WmDd) | 2:34 |
+| 106 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
+| 107 | [café de los viernes \(el tiempo\)](https://open.spotify.com/track/5g86G6yvzEcDQRwvRUI5k9) | [MAZU](https://open.spotify.com/artist/2breQ5ihxCV86kdRRWHWBf) | [café de los viernes \(el tiempo\)](https://open.spotify.com/album/4rS1YJ7P7UWECrxDo7CtkY) | 2:25 |
+| 108 | [My Bow](https://open.spotify.com/track/7vfsMALBTyHIt0IJLK8SN4) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa), [Jezabel Martinez](https://open.spotify.com/artist/2ip1Pd2RxWbJLFwHgjrc1c) | [My Bow](https://open.spotify.com/album/15ha5azvbwWyriffkF1D2F) | 3:49 |
+| 109 | [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 |
 
-Snapshot ID: `AAAC3GSDTbv1COlPSqAwPplqvOHUO9jf`
+Snapshot ID: `AAAC4XHs3HjcPTpNZc44PRRzRNRPut/O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Khal!l
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,467 likes - 200 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,471 likes - 200 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 5 | [Dangerous](https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [MACHIKO](https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc) | 3:42 |
 | 6 | [What Lovers Do](https://open.spotify.com/track/4ON7li6HIFhaTXn7hIq0g7) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [MyGuyMars](https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6) | [What Lovers Do](https://open.spotify.com/album/3XzX42Fmb4K4HdJ58LKCUu) | 2:32 |
 | 7 | [HOUSTON \(feat\. TEEZO TOUCHDOWN\)](https://open.spotify.com/track/1gdWMROp3Jb8mK71KqWdYK) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [HYDRAULIC: FUELED UP](https://open.spotify.com/album/4ivGfQt3Iy0ufQrehkvyzu) | 3:28 |
-| 8 | [Circus](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Circus](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 |
+| 8 | [CIRCUS](https://open.spotify.com/track/0b8gXZTlGSAGnHlaeFCq50) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [CIRCUS](https://open.spotify.com/album/0xeQ7D1HthCyHrNPUpiq4i) | 2:51 |
 | 9 | [RUNWAY KILLER](https://open.spotify.com/track/4J3KSbDGoSj1iWq5aWBY88) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz) | [THE 11TH HOUR](https://open.spotify.com/album/2yfx7jI0ibYIHXbvSPSsjB) | 3:38 |
 | 10 | [Sunset](https://open.spotify.com/track/0oPBh5q8QufzdxoYQ3Zn7C) | [Devin Donnell](https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [Sunset](https://open.spotify.com/album/3BWt0ekoMAC8kNDItB6gKh) | 2:41 |
 | 11 | [WONDERMAN](https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [WONDERMAN](https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9) | 4:04 |

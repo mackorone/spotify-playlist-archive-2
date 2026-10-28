@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 765811,
+  "num_followers": 765888,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAC9WBkCNwYO6v+5l1uErN8v",
+  "snapshot_id": "at1GgAAAAAC7kAyBaB1cnlg71oOQ63Jw",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 239906,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/4UPcXTh26ilb7owtuyHqNI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "The Best Damn Thing",
-      "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California Gold",
         "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 210026,
       "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "The Best Damn Thing",
+      "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
     },
     {
       "added_at": null,

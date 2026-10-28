@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-208 songs - 12 hr 8 min
+213 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Broken Soul](https://open.spotify.com/track/3uF5OHTajylu7acBQfqGCj) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 3:11 | 2025-11-18 |  |
 | [by the look in my eyes \(rock your body\)](https://open.spotify.com/track/1P07WlENk05jGivgkHqa2p) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:53 | 2025-10-31 | 2025-12-09 |
 | [By Your Bed](https://open.spotify.com/track/4GquSoDNuCpvpGrjpBFCSs) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [No Sweets for E.](https://open.spotify.com/album/6nLsrLoaBkpTo4ClRFq6iO) | 4:00 | 2025-11-09 |  |
+| [café de los viernes \(el tiempo\)](https://open.spotify.com/track/5g86G6yvzEcDQRwvRUI5k9) | [MAZU](https://open.spotify.com/artist/2breQ5ihxCV86kdRRWHWBf) | [café de los viernes \(el tiempo\)](https://open.spotify.com/album/4rS1YJ7P7UWECrxDo7CtkY) | 2:25 | 2026-10-27 |  |
 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 | 2026-06-29 |  |
 | [Charlottetown](https://open.spotify.com/track/3SCi5byZCBZ69icO68dWna) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 2:55 | 2025-11-25 | 2026-06-14 |
 | [Cherish the Day](https://open.spotify.com/track/63xUpIAXVJVwp9dnvL1Z4j) | [Fret Salad](https://open.spotify.com/artist/62loXA4WFS6NRXk6LwU0F7) | [Cherish the Day](https://open.spotify.com/album/4zukdejN15gPm86yt7PTCg) | 4:27 | 2026-09-22 |  |
@@ -93,6 +94,7 @@
 | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 | 2026-06-03 |  |
 | [House of Affection](https://open.spotify.com/track/0sHhdvNQBMxDNfC9ZzPWEi) | [Talles Cattarin](https://open.spotify.com/artist/77SAbQybNSZmuluK93v8AO) | [House of Affection](https://open.spotify.com/album/4t1EDjbrbUiGlyVgRZAtDs) | 3:25 | 2025-11-06 | 2025-12-09 |
 | [human race](https://open.spotify.com/track/422XpEXSWpB7AHTePwthGV) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [human race](https://open.spotify.com/album/6VEEMhejJyv8naAjOSfY0j) | 3:36 | 2025-11-11 | 2026-03-15 |
+| [I See Scared](https://open.spotify.com/track/4mx6MPSWrSJT6QD9IqS0BJ) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [I See Scared](https://open.spotify.com/album/6QIiAKhYUUATIqKNQt0zV3) | 3:53 | 2026-10-27 |  |
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-15 |  |
 | [I\-95](https://open.spotify.com/track/4Sh3dTSxURmD84A9tavTWc) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:53 | 2026-06-21 |  |
 | [If I Die](https://open.spotify.com/track/6p1154wPVVepKN9XxLRVJQ) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:42 | 2026-05-31 |  |
@@ -120,6 +122,7 @@
 | [Mil historias](https://open.spotify.com/track/4zrvkZ2lWDtkE2eptSMTNa) | [Carmen Medina](https://open.spotify.com/artist/6ZLUv9UIr1MenBK4LPGIee) | [Mil historias](https://open.spotify.com/album/77n6l3YxN57Dj9LfNuxfAU) | 2:55 | 2025-10-27 | 2025-12-09 |
 | [Monday](https://open.spotify.com/track/5ziIMaFf792wZZq6KEy9JL) | [Jonathan Vautour](https://open.spotify.com/artist/6Xj8ajA4mlXygB3zzzUhyJ) | [Monday](https://open.spotify.com/album/6SOqP4LGqlTb6wrmQf3b1r) | 4:35 | 2026-04-27 |  |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-04 | 2025-12-09 |
+| [My Bow](https://open.spotify.com/track/7vfsMALBTyHIt0IJLK8SN4) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa), [Jezabel Martinez](https://open.spotify.com/artist/2ip1Pd2RxWbJLFwHgjrc1c) | [My Bow](https://open.spotify.com/album/15ha5azvbwWyriffkF1D2F) | 3:49 | 2026-10-27 |  |
 | [My Friend](https://open.spotify.com/track/60tEe3FD5InMNCDJBSOAZi) | [postcard](https://open.spotify.com/artist/3SW3Kv43pKoTu9HwN4rhSj) | [Postcard](https://open.spotify.com/album/4XcJSh9lkIQkexyxQQLoqf) | 3:25 | 2025-10-29 | 2025-12-09 |
 | [Máquina do Tempo](https://open.spotify.com/track/2fsNfAmCoUBt07rzR2S2Wc) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [Máquina do Tempo](https://open.spotify.com/album/3AYQcmPWOwxGe7eGbLyadE) | 3:32 | 2026-06-15 |  |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-11-03 | 2025-12-09 |
@@ -161,11 +164,13 @@
 | [Spotkamy Się](https://open.spotify.com/track/0o8WYe52SJCuH6AJXfaqfl) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [Spotkamy Się](https://open.spotify.com/album/4XLheMiPz8YUwEL9Q1TXnG) | 6:34 | 2026-03-06 |  |
 | [Stand Up & Be Counted](https://open.spotify.com/track/1PQ0PlBi5kLbr5KwWgSQTL) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Stand Up & Be Counted](https://open.spotify.com/album/1Yq6WXlcFcTgksdh0UP9Ig) | 4:42 | 2026-06-16 |  |
 | [Starfalls](https://open.spotify.com/track/6ZovhFOyc06N6HIYXm0HiG) | [the sets](https://open.spotify.com/artist/3HmGzhNX02d5uG5ZSwI2my) | [Starfalls](https://open.spotify.com/album/0i15SKz5PoOeRv7NsgadK6) | 3:14 | 2026-07-04 |  |
+| [Stereo](https://open.spotify.com/track/2kg23zzELIPwjvoHdrs6f1) | [Paris Heart](https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA) | [Stereo](https://open.spotify.com/album/0k2s755S8RZgHl2Ou0WmDd) | 2:34 | 2026-10-27 |  |
 | [Stolen Youth](https://open.spotify.com/track/5L1ZtnPyztBReHpcSDhynz) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Stolen Youth](https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee) | 3:36 | 2026-07-04 |  |
 | [Stop Bugging Me](https://open.spotify.com/track/6vB5GtdaVnKxI9oKLSJp1I) | [A&A Music](https://open.spotify.com/artist/44JpteVluI2YY0TpZw3E2a) | [Stop Bugging Me](https://open.spotify.com/album/1cvkR5d7O9u6exG68IQjwi) | 2:54 | 2026-06-13 |  |
 | [Stuck](https://open.spotify.com/track/4oCcsKI1Ju2gBR3HrSMqIR) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:01 | 2025-11-11 | 2026-03-15 |
 | [Summer Day](https://open.spotify.com/track/4OimWd0lRxKaH4MQ3MKupL) | [Elephant Ears](https://open.spotify.com/artist/3JRhJwWeTZXJhIQMTxiYyn), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u), [Rowan Hart](https://open.spotify.com/artist/73Ciwf8umkqK3w1TaDnNaU) | [Summer Day](https://open.spotify.com/album/0fnzIsdIhhd0q1myqvLnZT) | 2:50 | 2026-08-27 |  |
 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 | 2025-11-11 | 2026-03-15 |
+| [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 | 2026-10-27 |  |
 | [Tarde o Temprano](https://open.spotify.com/track/20f6iJWqxbEQ2PIOZJN06G) | [Leyna y Estos Otros](https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu) | [Tarde o Temprano](https://open.spotify.com/album/7xoyty3TN8GxyoWwqVJGyI) | 3:20 | 2025-11-06 | 2025-12-09 |
 | [Tell Me the Truth](https://open.spotify.com/track/1JomByRV3tjxdJMc9eyG8P) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [To the Ends of the Earth](https://open.spotify.com/album/0EJr6qOrJteFJ8L0skZ7KC) | 2:53 | 2025-11-26 | 2026-06-14 |
 | [Telling You Anyway](https://open.spotify.com/track/2cDFCk9YtyWsND1DGyDR5p) | [Dute](https://open.spotify.com/artist/4JVDpPwTXaLhNcXMXz6NJV), [Lukky Sparxx](https://open.spotify.com/artist/7FFdx96MiyEDRkKZz62MCN) | [Telling You Anyway](https://open.spotify.com/album/2iRo68n92672jnE7VIZZJJ) | 2:58 | 2025-11-10 | 2026-03-15 |

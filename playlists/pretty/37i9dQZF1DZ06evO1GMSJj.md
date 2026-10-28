@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,800 likes - 36 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,805 likes - 36 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,22 +27,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 17 | [Acts Of Magic](https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 1:18 |
 | 18 | [Bocuma](https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:35 |
 | 19 | [A Moment Of Clarity](https://open.spotify.com/track/1MMsn8AfguMOJMvSDxy6wo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:51 |
-| 20 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 |
+| 20 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 |
 | 21 | [Father And Son](https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 3:24 |
 | 22 | [Turquoise Hexagon Sun](https://open.spotify.com/track/7F3MjS1b1xHeaeXyBTvCE0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:07 |
 | 23 | [Satellite Anthem Icarus](https://open.spotify.com/track/4b3i2rXFZx9JqQQq9KuVAj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 6:04 |
-| 24 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 |
+| 24 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 |
 | 25 | [Energy Warning](https://open.spotify.com/track/1xR9H230902WMiJwH0d8X9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 0:35 |
-| 26 | [Sundown](https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:16 |
+| 26 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:07 |
 | 27 | [Under The Coke Sign](https://open.spotify.com/track/67CP6JsS9XiK67JrhLg2ch) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 1:31 |
-| 28 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:07 |
+| 28 | [Sundown](https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:16 |
 | 29 | [Ready Lets Go](https://open.spotify.com/track/6vM82JxGkOuGPuxg4GShI9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 0:59 |
-| 30 | [Nothing Is Real](https://open.spotify.com/track/1rmXfdk4DFRuw6LLKoUTb0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:52 |
+| 30 | [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:13 |
 | 31 | [Left Side Drive](https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 5:20 |
-| 32 | [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:13 |
+| 32 | [Nothing Is Real](https://open.spotify.com/track/1rmXfdk4DFRuw6LLKoUTb0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:52 |
 | 33 | [Dandelion](https://open.spotify.com/track/4dB0PiQ8tgluiJbX1m1yYj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:15 |
 | 34 | [Cold Earth](https://open.spotify.com/track/3D37FsVAqvQFAddR3JcJ3e) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:42 |
 | 35 | [White Cyclosa](https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:13 |
 | 36 | [Transmisiones Ferox](https://open.spotify.com/track/4CjUEILQ2oxJKFGDbavYBU) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:18 |
 
-Snapshot ID: `atv1AAAAAAC50IX9eEMeuJP/G0FAY1P8`
+Snapshot ID: `at1GgAAAAABdNaKOqfuYw+SfE1lPoKEz`

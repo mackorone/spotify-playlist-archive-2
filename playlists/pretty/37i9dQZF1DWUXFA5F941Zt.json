@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Halloween with the the best in old fashioned spooky Jazz and Blues from the 1920s-1950s.",
-  "num_followers": 15541,
+  "num_followers": 16224,
   "original_name": "Vintage Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbp0Z5Iee935zW3UyvzIqmlafvs",
+  "snapshot_id": "AAAAAKS+C+YY9l+NT1bTiPPi6i8ZDnTu",
   "tracks": [
     {
       "added_at": "2026-09-10 16:26:38",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-09-10 16:26:38",
       "album": {
-        "name": "Their Complete Recordings Together",
-        "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "The Yodeling Ghost - Single Version",
-      "url": "https://open.spotify.com/track/1ySENjQx6uTjMD6RILynJj"
-    },
-    {
-      "added_at": "2026-09-10 16:26:38",
-      "album": {
         "name": "Jeepers Creepers (Original Motion Picture Score) [Digitally Remastered]",
         "url": "https://open.spotify.com/album/5pKo9SD58QGZLnbucpw0t4"
       },
@@ -483,6 +463,26 @@
     {
       "added_at": "2026-09-10 16:26:38",
       "album": {
+        "name": "Their Complete Recordings Together",
+        "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "The Yodeling Ghost - Single Version",
+      "url": "https://open.spotify.com/track/1ySENjQx6uTjMD6RILynJj"
+    },
+    {
+      "added_at": "2026-09-10 16:26:38",
+      "album": {
         "name": "Monster Party: Halloween Rock & Roll Oldies, Vol. 2",
         "url": "https://open.spotify.com/album/12UBIpTnpP68ylTfrEu9Y0"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 181293,
       "name": "Celery Stalks At Midnight",
       "url": "https://open.spotify.com/track/4hA2CU7frSwDz1qB2CvyqL"
-    },
-    {
-      "added_at": "2026-09-10 16:26:38",
-      "album": {
-        "name": "Bing Sings The Great American Songbook",
-        "url": "https://open.spotify.com/album/7IrkAFCe4m2GPuReYtQU4e"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 139053,
-      "name": "That Old Black Magic",
-      "url": "https://open.spotify.com/track/6u2RHNHVmDlYpt3Jl9UoOZ"
     },
     {
       "added_at": "2026-09-10 16:26:38",
@@ -755,6 +739,22 @@
       "duration_ms": 209853,
       "name": "Love in the Cemetery",
       "url": "https://open.spotify.com/track/35lw3Neh7Tdb6cOM8bxbHa"
+    },
+    {
+      "added_at": "2026-09-10 16:26:38",
+      "album": {
+        "name": "Bing Sings The Great American Songbook",
+        "url": "https://open.spotify.com/album/7IrkAFCe4m2GPuReYtQU4e"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 139053,
+      "name": "That Old Black Magic",
+      "url": "https://open.spotify.com/track/6u2RHNHVmDlYpt3Jl9UoOZ"
     },
     {
       "added_at": "2026-09-10 16:26:38",

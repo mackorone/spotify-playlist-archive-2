@@ -187,22 +187,6 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Me Holdin' On",
-        "url": "https://open.spotify.com/album/0CfmoFfZjzHz9ISbvDJ54n"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Me Holdin' On",
-      "url": "https://open.spotify.com/track/4B6n9OdoJKMQ2jpO05nVCn"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
         "name": "MAJOR MOVES",
         "url": "https://open.spotify.com/album/5VpP34dGYRcweG6mRKDgPh"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 120424,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/7imD4nYsSPelqLBInETZHN"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Me Holdin' On",
+        "url": "https://open.spotify.com/album/0CfmoFfZjzHz9ISbvDJ54n"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 207997,
+      "name": "Me Holdin' On",
+      "url": "https://open.spotify.com/track/4B6n9OdoJKMQ2jpO05nVCn"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/6nEP9ggydguOQnbMU8zsCI"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 230491,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/3zONpRVIOwk8iyzB90R2Lq"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
         "name": "QR\u00d6MELIFE",
         "url": "https://open.spotify.com/album/4EdNIdfSX1vvy8KqSf1aCk"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 227787,
       "name": "Baby Breath (feat. Pharrell Williams, Tyler, The Creator & A$AP Rocky",
       "url": "https://open.spotify.com/track/61HMDdpW0nGvX7IZtBetaz"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/6nEP9ggydguOQnbMU8zsCI"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 230491,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/3zONpRVIOwk8iyzB90R2Lq"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 131920,
+      "name": "Vida (feat. Erick the Architect)",
+      "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
         "name": "Palace for the People",
         "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 387400,
       "name": "Blues to You",
       "url": "https://open.spotify.com/track/0p7oqSNpmZ9GSJGSJ9f4UY"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "No Bad Memories",
-        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 131920,
-      "name": "Vida (feat. Erick the Architect)",
-      "url": "https://open.spotify.com/track/7n2ILXgKyD8U04CucA54Pm"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -431,6 +431,26 @@
       "duration_ms": 375285,
       "name": "L\u00e6knisgaldr",
       "url": "https://open.spotify.com/track/1YVEvH42tBvNZHnheYvTny"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Verve Remixed // Nina Simone",
+        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 242029,
+      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
+      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -487,26 +507,6 @@
       "duration_ms": 155153,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/5UWypDFke2swJxdSJ6mdkq"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Verve Remixed // Nina Simone",
-        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 242029,
-      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
-      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
     },
     {
       "added_at": "2026-10-23 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Shakira\n",
-  "num_followers": 461333,
+  "num_followers": 461441,
   "original_name": "Hinos Pop",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
-        "name": "Pocketful Of Sunshine",
-        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Pocketful of Sunshine",
-      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 215672,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 216773,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 215672,
-      "name": "Dark Horse",
-      "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 194087,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
-        "name": "Memoirs of an imperfect Angel (International Version)",
-        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/5EGPf0nqO7vEIwsOX6Er98"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
         "name": "Made In The A.M. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 192112,
       "name": "Drag Me Down",
       "url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
+        "name": "Memoirs of an imperfect Angel (International Version)",
+        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/5EGPf0nqO7vEIwsOX6Er98"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
-        "name": "E=MC2 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Touch My Body",
-      "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
+        "name": "E=MC2 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-05-01 20:16:57",
       "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
-    },
-    {
-      "added_at": "2025-05-01 20:16:57",
-      "album": {
         "name": "Love. Angel. Music. Baby.",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 221226,
       "name": "What You Waiting For?",
       "url": "https://open.spotify.com/track/0ny5zITdmyNwyTPVzRGscU"
+    },
+    {
+      "added_at": "2025-05-01 20:16:57",
+      "album": {
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
     },
     {
       "added_at": "2025-05-01 20:16:57",
@@ -1730,11 +1730,15 @@
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+      "duration_ms": 298853,
+      "name": "Dirrty (feat. Redman)",
+      "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
     },
     {
       "added_at": "2025-05-01 20:16:57",

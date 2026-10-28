@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: kaogaii(\uac00\uc624\uac00\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221387,
+  "num_followers": 221383,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -799,30 +799,6 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "2AM (Feat. CAMO)",
-      "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 166026,
       "name": "Breezy~ (feat. BIG Naughty & Kid Milli)",
       "url": "https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "2AM (Feat. CAMO)",
+      "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
     },
     {
       "added_at": "2026-10-23 05:24:01",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
-        "name": "Push (Feat. REI (IVE))",
-        "url": "https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav"
-      },
-      "artists": [
-        {
-          "name": "JOOHONEY",
-          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
-        },
-        {
-          "name": "REI (IVE)",
-          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Push (Feat. REI (IVE))",
-      "url": "https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 186000,
       "name": "PLAYER (feat. Crush)",
       "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
+        "name": "Push (Feat. REI (IVE))",
+        "url": "https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "REI (IVE)",
+          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Push (Feat. REI (IVE))",
+      "url": "https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP"
     },
     {
       "added_at": "2026-10-23 05:24:01",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
-        "name": "BABY CACTUS",
-        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "BUCKET LIST (feat. Crush)",
-      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
         "name": "Just Like This",
         "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 199733,
       "name": "Just Like This (Feat. george)",
       "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
+        "name": "BABY CACTUS",
+        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "BUCKET LIST (feat. Crush)",
+      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
     },
     {
       "added_at": "2026-10-23 05:24:01",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
+        "name": "SAKOPAK: Birth Mother OST",
+        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
         "name": "LOVESICK",
         "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
-        "name": "SAKOPAK: Birth Mother OST",
-        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
         "name": "everybody dies",
         "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
       },
@@ -1891,22 +1891,6 @@
       "duration_ms": 152079,
       "name": "everybody dies",
       "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
-        "name": "Time To Glo 3",
-        "url": "https://open.spotify.com/album/5z9qOSPPc4JDOpB4D2cV4d"
-      },
-      "artists": [
-        {
-          "name": "northfacegawd",
-          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
-        }
-      ],
-      "duration_ms": 107000,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/5jUDMWpR68CevilmC8Dpec"
     },
     {
       "added_at": "2026-10-23 05:24:01",
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
+        "name": "Time To Glo 3",
+        "url": "https://open.spotify.com/album/5z9qOSPPc4JDOpB4D2cV4d"
+      },
+      "artists": [
+        {
+          "name": "northfacegawd",
+          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
+        }
+      ],
+      "duration_ms": 107000,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/5jUDMWpR68CevilmC8Dpec"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
         "name": "SOUL BABY",
         "url": "https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr"
       },
@@ -1947,22 +1947,6 @@
       "duration_ms": 151500,
       "name": "On the Weekend",
       "url": "https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
-        "name": "MAZE",
-        "url": "https://open.spotify.com/album/3yI9KqJ9rfDWCQWS0atdxx"
-      },
-      "artists": [
-        {
-          "name": "Anandelight",
-          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
-        }
-      ],
-      "duration_ms": 163079,
-      "name": "GO WITH THE FLOW",
-      "url": "https://open.spotify.com/track/4MJJYVj1YY6RPx37TR92yZ"
     },
     {
       "added_at": "2026-10-23 05:24:01",
@@ -2003,6 +1987,22 @@
       "duration_ms": 171961,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
+        "name": "MAZE",
+        "url": "https://open.spotify.com/album/3yI9KqJ9rfDWCQWS0atdxx"
+      },
+      "artists": [
+        {
+          "name": "Anandelight",
+          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
+        }
+      ],
+      "duration_ms": 163079,
+      "name": "GO WITH THE FLOW",
+      "url": "https://open.spotify.com/track/4MJJYVj1YY6RPx37TR92yZ"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

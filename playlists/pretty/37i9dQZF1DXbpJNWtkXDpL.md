@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de Pepe Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,957 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,956 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 39 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 40 | [AYER \- Plugg conciencia](https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Young Dune](https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz) | [AYER \(Plugg conciencia\)](https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR) | 3:13 |
 | 41 | [t a l v e z : /](https://open.spotify.com/track/2RbECLIYUcdKUYi8FK1NaO) | [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd), [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [t a l v e z : /](https://open.spotify.com/album/32af1nLMntBhNyM2oH6iYs) | 3:18 |
-| 42 | [W](https://open.spotify.com/track/2RrwbtXSEGBB97YtkKNJN9) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [W](https://open.spotify.com/album/1k4LIFLuSsXyS4VjsS3O0t) | 3:18 |
-| 43 | [14 plegarias /x\\](https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [⚘incendié el jardín/// lo siento⚘](https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP) | 3:52 |
+| 42 | [14 plegarias /x\\](https://open.spotify.com/track/7refz4ih2vIt2O09qHowPP) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [⚘incendié el jardín/// lo siento⚘](https://open.spotify.com/album/2JVmpU2d4eN05qVws1XRoP) | 3:52 |
+| 43 | [W](https://open.spotify.com/track/2RrwbtXSEGBB97YtkKNJN9) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [W](https://open.spotify.com/album/1k4LIFLuSsXyS4VjsS3O0t) | 3:18 |
 | 44 | [la estrella que quería brillar](https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 2:58 |
 | 45 | [250cc](https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Olisso](https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h) | [250cc](https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB) | 2:25 |
 | 46 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |

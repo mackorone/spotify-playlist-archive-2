@@ -454,7 +454,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 180684,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/06rpq1YGWFvUxIevdldh96"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 199690,
       "name": "gossip",
       "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
@@ -8636,7 +8636,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
@@ -11588,6 +11588,24 @@
       "duration_ms": 251066,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/0Zs4BQFfWTJJKGvdbmRjNp"
+    },
+    {
+      "album": {
+        "name": "GODBREATH",
+        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142187,
+      "name": "SO COOL",
+      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
     },
     {
       "album": {

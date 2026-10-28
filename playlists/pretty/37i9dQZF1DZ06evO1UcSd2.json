@@ -1,6 +1,6 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 90037,
+  "num_followers": 90048,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 250368,
+      "name": "Otro Perdedor",
+      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 1)",
         "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
@@ -459,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+        "name": "Sin Perder El Estilo",
+        "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 250368,
-      "name": "Otro Perdedor",
-      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
+      "duration_ms": 226154,
+      "name": "Contra Mis Principios",
+      "url": "https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL"
     },
     {
       "added_at": null,
@@ -499,18 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Perder El Estilo",
-        "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
+        "name": "Seguimos Adelante",
+        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Oscar Cortez",
+          "url": "https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp"
         }
       ],
-      "duration_ms": 226154,
-      "name": "Contra Mis Principios",
-      "url": "https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL"
+      "duration_ms": 195242,
+      "name": "Hierba de Receta",
+      "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
     },
     {
       "added_at": null,
@@ -543,30 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Adelante",
-        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Oscar Cortez",
-          "url": "https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp"
-        }
-      ],
-      "duration_ms": 195242,
-      "name": "Hierba de Receta",
-      "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinicio",
         "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 179008,
-      "name": "Canto Pa' Desahogarme",
-      "url": "https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af"
+      "duration_ms": 123946,
+      "name": "No Me ha Caido El 20",
+      "url": "https://open.spotify.com/track/2hWTOJItl7HHzid8525UP9"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy De Agiabampo",
-        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Soy De Agiabampo",
-      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eso Es La Riqueza",
         "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 174693,
       "name": "Eso Es La Riqueza",
       "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy De Agiabampo",
+        "url": "https://open.spotify.com/album/5kht3kei1benxfOUNZWycV"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Soy De Agiabampo",
+      "url": "https://open.spotify.com/track/59bzZkW360aBq06xJ5LQYZ"
     },
     {
       "added_at": null,

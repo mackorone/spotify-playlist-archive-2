@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
-  "num_followers": 368379,
+  "num_followers": 368371,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Despecho a 2 Voces",
-        "url": "https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        },
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Infidelidad",
-      "url": "https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
         "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
@@ -183,18 +163,22 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Sabor A Ti",
-        "url": "https://open.spotify.com/album/0vlDCouQwOpSd2p299lUJ9"
+        "name": "Despecho a 2 Voces",
+        "url": "https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 159923,
-      "name": "Sabor A Ti",
-      "url": "https://open.spotify.com/track/5HQjTtE2s7SxaMI87WoPxH"
+      "duration_ms": 153103,
+      "name": "Infidelidad",
+      "url": "https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -211,6 +195,22 @@
       "duration_ms": 188800,
       "name": "Una Derrota As\u00ed",
       "url": "https://open.spotify.com/track/11TFR26C3CFhkWmRhvH8je"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Sabor A Ti",
+        "url": "https://open.spotify.com/album/0vlDCouQwOpSd2p299lUJ9"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 159923,
+      "name": "Sabor A Ti",
+      "url": "https://open.spotify.com/track/5HQjTtE2s7SxaMI87WoPxH"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Disculpe Usted",
-        "url": "https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 185798,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Por Debajo De La Mesa",
         "url": "https://open.spotify.com/album/5hGNkM9FmYIDSGvQElWcpR"
       },
@@ -295,18 +279,18 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Serpiente De Cascabel",
-        "url": "https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG"
+        "name": "Disculpe Usted",
+        "url": "https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 189871,
-      "name": "Serpiente De Cascabel",
-      "url": "https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga"
+      "duration_ms": 185798,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -327,6 +311,22 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
+        "name": "Serpiente De Cascabel",
+        "url": "https://open.spotify.com/album/72yA07337N8qSkSdpLgTAG"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "Serpiente De Cascabel",
+      "url": "https://open.spotify.com/track/76zdoeqk70bWpUuaxtjEga"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
         "name": "Ya No Le Mientas",
         "url": "https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf"
       },
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Segunda Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 209942,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Se Me Olvid\u00f3 Otra Vez",
         "url": "https://open.spotify.com/album/6zxsZbK1XJBFpDx4QtJ2gt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 176741,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/7vZFlThbbfmOqSPkgzGGC4"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Segunda Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 209942,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 210471,
-      "name": "Vives En M\u00ed",
-      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "D\u00f3nde y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 163058,
       "name": "D\u00f3nde y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 210471,
+      "name": "Vives En M\u00ed",
+      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
@@ -595,18 +579,34 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Cielito Lindo (Live)",
-        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+        "name": "Voz De Mi Sangre",
+        "url": "https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 206043,
-      "name": "Cielito Lindo - Live",
-      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
+      "duration_ms": 212615,
+      "name": "Me Declaro Culpable",
+      "url": "https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Voz De Mi Sangre",
-        "url": "https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa"
+        "name": "Cielito Lindo (Live)",
+        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 212615,
-      "name": "Me Declaro Culpable",
-      "url": "https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G"
+      "duration_ms": 206043,
+      "name": "Cielito Lindo - Live",
+      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x"
+        "name": "Pagar\u00e9 Condena",
+        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
       },
       "artists": [
         {
-          "name": "Valerio Mela \u201cEl Charro De Florencia\u201d",
-          "url": "https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ"
+          "name": "Juan Pablo Tostado",
+          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
         }
       ],
-      "duration_ms": 164457,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx"
+      "duration_ms": 164960,
+      "name": "Pagar\u00e9 Condena",
+      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Pagar\u00e9 Condena",
-        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x"
       },
       "artists": [
         {
-          "name": "Juan Pablo Tostado",
-          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
+          "name": "Valerio Mela \u201cEl Charro De Florencia\u201d",
+          "url": "https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ"
         }
       ],
-      "duration_ms": 164960,
-      "name": "Pagar\u00e9 Condena",
-      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
+      "duration_ms": 164457,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx"
     },
     {
       "added_at": "2026-10-23 06:00:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,215 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,216 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [Maior Amor](https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 5 \- Quebrando as Maldições](https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR) | 3:20 |
 | 50 | [Totalmente aos Teus Pés](https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 7 \- Filho do Homem](https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit) | 3:21 |
 
-Snapshot ID: `atv1AAAAAADKfWhV3BFpZbgZp3aNV4gb`
+Snapshot ID: `at1GgAAAAAAOElEtCtBroXatMBDj1OsD`

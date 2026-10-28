@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 79096,
+  "num_followers": 79093,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
@@ -739,18 +739,34 @@
     {
       "added_at": "2026-09-29 17:21:48",
       "album": {
-        "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077\uff11 (Cover)",
-        "url": "https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293"
+        "name": "\u3048\u304c\u304a\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3063\uff01 (\u30d1\u30e9\u30ec\u30ebver.)",
+        "url": "https://open.spotify.com/album/4VQ5iNgOsj6JguyK8XDDNb"
       },
       "artists": [
         {
-          "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077",
-          "url": "https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5"
+          "name": "\u512a\u96c5\u306a\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0\u3092\u266a",
+          "url": "https://open.spotify.com/artist/3alSKGtEGIuCng0r1UNoDf"
+        },
+        {
+          "name": "\u767d\u9dfa\u5343\u8056(CV:\u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/1jv55vLFewxt2UQiQYc2IY"
+        },
+        {
+          "name": "\u6e4a \u53cb\u5e0c\u90a3(CV:\u76f8\u7fbd\u3042\u3044\u306a)",
+          "url": "https://open.spotify.com/artist/5tb5Ya8txUfxvU3USDffwT"
+        },
+        {
+          "name": "\u677e\u539f\u82b1\u97f3(CV:\u8c4a\u7530\u840c\u7d75)",
+          "url": "https://open.spotify.com/artist/67oUulZoqpQ8GtSoCoumNg"
+        },
+        {
+          "name": "\u9577\u5d0e\u305d\u3088(CV:\u5c0f\u65e5\u5411\u7f8e\u9999)",
+          "url": "https://open.spotify.com/artist/0ideeN34584s8oFN36bsjF"
         }
       ],
-      "duration_ms": 277735,
-      "name": "\u71b1\u98a8\u6d77\u9678\u30d6\u30b7\u30ed\u30fc\u30c9\u301c\u71b1\u304d\u5486\u54ee\u301c - Cover",
-      "url": "https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8"
+      "duration_ms": 230366,
+      "name": "\u3048\u304c\u304a\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3063\uff01 - \u30d1\u30e9\u30ec\u30ebver.",
+      "url": "https://open.spotify.com/track/4rdmyKUmOxgTmVPnqkKqoW"
     },
     {
       "added_at": "2026-09-29 17:21:48",
@@ -787,34 +803,18 @@
     {
       "added_at": "2026-09-29 17:21:48",
       "album": {
-        "name": "\u3048\u304c\u304a\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3063\uff01 (\u30d1\u30e9\u30ec\u30ebver.)",
-        "url": "https://open.spotify.com/album/4VQ5iNgOsj6JguyK8XDDNb"
+        "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077\uff11 (Cover)",
+        "url": "https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293"
       },
       "artists": [
         {
-          "name": "\u512a\u96c5\u306a\u30c6\u30a3\u30fc\u30bf\u30a4\u30e0\u3092\u266a",
-          "url": "https://open.spotify.com/artist/3alSKGtEGIuCng0r1UNoDf"
-        },
-        {
-          "name": "\u767d\u9dfa\u5343\u8056(CV:\u4e0a\u5742\u3059\u307f\u308c)",
-          "url": "https://open.spotify.com/artist/1jv55vLFewxt2UQiQYc2IY"
-        },
-        {
-          "name": "\u6e4a \u53cb\u5e0c\u90a3(CV:\u76f8\u7fbd\u3042\u3044\u306a)",
-          "url": "https://open.spotify.com/artist/5tb5Ya8txUfxvU3USDffwT"
-        },
-        {
-          "name": "\u677e\u539f\u82b1\u97f3(CV:\u8c4a\u7530\u840c\u7d75)",
-          "url": "https://open.spotify.com/artist/67oUulZoqpQ8GtSoCoumNg"
-        },
-        {
-          "name": "\u9577\u5d0e\u305d\u3088(CV:\u5c0f\u65e5\u5411\u7f8e\u9999)",
-          "url": "https://open.spotify.com/artist/0ideeN34584s8oFN36bsjF"
+          "name": "\u5922\u5e7b\u6226\u968a\u3080\u30fc\u305f\u3044\u3077",
+          "url": "https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5"
         }
       ],
-      "duration_ms": 230366,
-      "name": "\u3048\u304c\u304a\u306e\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3063\uff01 - \u30d1\u30e9\u30ec\u30ebver.",
-      "url": "https://open.spotify.com/track/4rdmyKUmOxgTmVPnqkKqoW"
+      "duration_ms": 277735,
+      "name": "\u71b1\u98a8\u6d77\u9678\u30d6\u30b7\u30ed\u30fc\u30c9\u301c\u71b1\u304d\u5486\u54ee\u301c - Cover",
+      "url": "https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8"
     },
     {
       "added_at": "2026-09-29 17:21:48",

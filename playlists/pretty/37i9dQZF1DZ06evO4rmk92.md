@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,127 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,131 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [Aquellos Ojos Verdes](https://open.spotify.com/track/1Lf7vlpJi4QoVSGhNpdZrZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos \(Expanded Edition\)](https://open.spotify.com/album/2iAQVxwMt60xXVe7VDrofV) | 2:13 |
 | 50 | [Answer Me, My Love](https://open.spotify.com/track/4lIkNu9pVDSGBqaJ1OKeed) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Let's Face The Music \(Expanded Edition\)](https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0) | 2:55 |
 
-Snapshot ID: `atv1AAAAAABexeyINATWoiqefWtiWgDj`
+Snapshot ID: `at1GgAAAAAAkM0UthffJ1IoFQdobDcw8`

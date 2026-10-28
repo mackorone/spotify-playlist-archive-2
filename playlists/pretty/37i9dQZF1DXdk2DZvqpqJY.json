@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 127695,
+  "num_followers": 127717,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Mystic Moonlight Groove",
-        "url": "https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S"
-      },
-      "artists": [
-        {
-          "name": "Greydon Park Band",
-          "url": "https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S"
-        }
-      ],
-      "duration_ms": 211079,
-      "name": "Mystic Moonlight Groove",
-      "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Tales of the Urban Night",
         "url": "https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 235679,
       "name": "Tales of the Urban Night",
       "url": "https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Mystic Moonlight Groove",
+        "url": "https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S"
+      },
+      "artists": [
+        {
+          "name": "Greydon Park Band",
+          "url": "https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S"
+        }
+      ],
+      "duration_ms": 211079,
+      "name": "Mystic Moonlight Groove",
+      "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Graceful Rhapsody",
-        "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
-      },
-      "artists": [
-        {
-          "name": "Velvet Groove",
-          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
-        }
-      ],
-      "duration_ms": 162708,
-      "name": "Graceful Rhapsody",
-      "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "In Time For Love",
         "url": "https://open.spotify.com/album/2N4IFLd3aGG0VjMAYR3hWW"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 207265,
       "name": "In Time For Love",
       "url": "https://open.spotify.com/track/6Rh4ikhD7sfXfE7utTsKbs"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Graceful Rhapsody",
+        "url": "https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "duration_ms": 162708,
+      "name": "Graceful Rhapsody",
+      "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
+        "name": "Autumn serenade",
+        "url": "https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "duration_ms": 195874,
+      "name": "Autumn serenade",
+      "url": "https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
         "name": "Something About Her Smile",
         "url": "https://open.spotify.com/album/2NzsBCHEWjKiUQbUjDfpNl"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 199809,
       "name": "Hidden Harmonies",
       "url": "https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
-        "name": "Autumn serenade",
-        "url": "https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2"
-      },
-      "artists": [
-        {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
-        }
-      ],
-      "duration_ms": 195874,
-      "name": "Autumn serenade",
-      "url": "https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 291319,
-      "name": "Beautiful Sunrise",
-      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Midnight Mood",
         "url": "https://open.spotify.com/album/00JwIcg9QId8yv41j8hsiF"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 178511,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 291319,
+      "name": "Beautiful Sunrise",
+      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Love To Be Happy",
-        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
-      },
-      "artists": [
-        {
-          "name": "Magpie Jazz Trio",
-          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Love To Be Happy",
-      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Holding Onto Dawn",
         "url": "https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 194812,
       "name": "Holding Onto Dawn",
       "url": "https://open.spotify.com/track/27yLQgeE70oyihRLEorqRy"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Love To Be Happy",
+        "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
+      },
+      "artists": [
+        {
+          "name": "Magpie Jazz Trio",
+          "url": "https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Love To Be Happy",
+      "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "My Midnight Velvet",
-        "url": "https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 218336,
-      "name": "My Midnight Velvet",
-      "url": "https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Clowns And Crowns",
         "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 241516,
       "name": "Clowns And Crowns",
       "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "My Midnight Velvet",
+        "url": "https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 218336,
+      "name": "My Midnight Velvet",
+      "url": "https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Forgetful",
-        "url": "https://open.spotify.com/album/5TWNQuius9yqF8qamYmojN"
-      },
-      "artists": [
-        {
-          "name": "Old Town Trio",
-          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
-        }
-      ],
-      "duration_ms": 246250,
-      "name": "Forgetful",
-      "url": "https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Maze of Tranquility",
         "url": "https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 262707,
       "name": "Maze of Tranquility",
       "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Forgetful",
+        "url": "https://open.spotify.com/album/5TWNQuius9yqF8qamYmojN"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "duration_ms": 246250,
+      "name": "Forgetful",
+      "url": "https://open.spotify.com/track/6zWt69VWeGEtq5hmXjxH4y"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Storvindeln",
-        "url": "https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 216670,
-      "name": "Storvindeln",
-      "url": "https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 236937,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Storvindeln",
+        "url": "https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 216670,
+      "name": "Storvindeln",
+      "url": "https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Notes and Nights",
-        "url": "https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4"
-      },
-      "artists": [
-        {
-          "name": "Tate Jackson Trio",
-          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
-        }
-      ],
-      "duration_ms": 184470,
-      "name": "Notes and Nights",
-      "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Blue Midnight",
         "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 189134,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Notes and Nights",
+        "url": "https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "duration_ms": 184470,
+      "name": "Notes and Nights",
+      "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
     },
     {
       "added_at": "2026-10-23 08:04:32",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2026-10-23 08:04:32",
       "album": {
-        "name": "Glencoe Sketches",
-        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
-      },
-      "artists": [
-        {
-          "name": "Saphena Trio",
-          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
-        }
-      ],
-      "duration_ms": 261316,
-      "name": "Glencoe Sketches",
-      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
-    },
-    {
-      "added_at": "2026-10-23 08:04:32",
-      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 242167,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f"
+    },
+    {
+      "added_at": "2026-10-23 08:04:32",
+      "album": {
+        "name": "Glencoe Sketches",
+        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "duration_ms": 261316,
+      "name": "Glencoe Sketches",
+      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
     },
     {
       "added_at": "2026-10-23 08:04:32",

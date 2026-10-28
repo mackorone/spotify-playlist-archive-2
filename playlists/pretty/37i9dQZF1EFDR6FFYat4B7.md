@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591 likes - 167 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 167 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 71 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 72 | [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 |
 | 73 | [Infinity](https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1 to Infinity](https://open.spotify.com/album/6kRdK7cPgLqNfSoI7AMlyj) | 3:59 |
-| 74 | [Pieces of Us \(feat\. King Princess\)](https://open.spotify.com/track/0fQf209axFXyMsV5pAhfzf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:26 |
-| 75 | [Glitter & Honey](https://open.spotify.com/track/0iIo4xkWQFl5e1RHNOSOsh) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/5hPUHlf9lwHK4PZ1Fp0QoV) | 3:07 |
+| 74 | [Glitter & Honey](https://open.spotify.com/track/0iIo4xkWQFl5e1RHNOSOsh) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/5hPUHlf9lwHK4PZ1Fp0QoV) | 3:07 |
+| 75 | [Pieces of Us \(feat\. King Princess\)](https://open.spotify.com/track/0fQf209axFXyMsV5pAhfzf) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:26 |
 | 76 | [Man On The Moon](https://open.spotify.com/track/5dtec26a6yPRNJhCXeNHCW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:46 |
 | 77 | [New Look](https://open.spotify.com/track/1In3jkWHnGCwK3LzhBGEv8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 2:34 |
 | 78 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 118 | [Emotional](https://open.spotify.com/track/2pNQc7ivtCoOwEGJ04AwzW) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Emotional](https://open.spotify.com/album/2BtLQEQdQZr0pIrNJ50puP) | 3:51 |
 | 119 | [2 AM \(feat\. Lykke Li\)](https://open.spotify.com/track/5PfxsAZ3KT29lZQ1lO5KRm) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:18 |
 | 120 | [No California](https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:35 |
-| 121 | [Love Came Down](https://open.spotify.com/track/1B2amGFcCiluKPYy97epQ2) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:37 |
-| 122 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 121 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 122 | [Love Came Down](https://open.spotify.com/track/1B2amGFcCiluKPYy97epQ2) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 2:37 |
 | 123 | [Late Night Prelude](https://open.spotify.com/track/0mGXLwtTjzuTcARIr1pPQg) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 1:29 |
 | 124 | [Cherry On Top](https://open.spotify.com/track/4SzzmN0KAH1qHbwQs4ssU7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:14 |
 | 125 | [Masochist](https://open.spotify.com/track/26lqwcYiFPNmEKTBtR04NF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 3:30 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 166 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 | 167 | [Listen](https://open.spotify.com/track/06IkwCCdPyhRKlpr3GOdYu) | [Androppolis](https://open.spotify.com/artist/4qwtoERXntUZinWjz3Xk5p) | [Exhibit A](https://open.spotify.com/album/51ZXr1PSFscY478GVD7Qux) | 2:00 |
 
-Snapshot ID: `AcgAkAAAAAB83v7kg3qW2EEDsRskyL7U`
+Snapshot ID: `AcgGMAAAAAC8BB/Yy/qB6Br6kFFtNzYh`

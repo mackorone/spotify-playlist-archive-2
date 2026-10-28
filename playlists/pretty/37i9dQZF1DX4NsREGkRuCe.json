@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 148705,
+  "num_followers": 148746,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "GTA",
-        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 155441,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "Online",
         "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 206224,
-      "name": "Already Falling",
-      "url": "https://open.spotify.com/track/3ozNRKWMwoVDoFSsamwJ5e"
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -415,6 +399,26 @@
       "duration_ms": 169299,
       "name": "Tumo Weto",
       "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 145492,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -439,6 +443,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 206224,
+      "name": "Already Falling",
+      "url": "https://open.spotify.com/track/3ozNRKWMwoVDoFSsamwJ5e"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Back 2 U",
         "url": "https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 162296,
       "name": "Back 2 U",
       "url": "https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 145492,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -535,6 +535,30 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+      "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Anybody",
         "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
       },
@@ -567,30 +591,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
-        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "JAZZWRLD",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "GL_Ceejay",
-          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
-        }
-      ],
-      "duration_ms": 233976,
-      "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
-      "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
       },
@@ -611,26 +611,26 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-        "url": "https://open.spotify.com/album/2zZJ84kY618UvAtkDX6w8X"
+        "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
+        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
         }
       ],
-      "duration_ms": 159272,
-      "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-      "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
+      "duration_ms": 233976,
+      "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
+      "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -711,6 +711,30 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "One Condition",
+        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 234977,
+      "name": "One Condition",
+      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Tornado",
         "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 184607,
       "name": "Sunita",
       "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "One Condition",
-        "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 234977,
-      "name": "One Condition",
-      "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Starrgirl",
         "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 168331,
       "name": "Ms. Paper (feat. Theodora)",
       "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 116410,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+      },
+      "artists": [
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -963,26 +979,6 @@
       "duration_ms": 139424,
       "name": "Lakute",
       "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Chokehold",
-        "url": "https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76"
-      },
-      "artists": [
-        {
-          "name": "Rhythm Vault",
-          "url": "https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Chokehold",
-      "url": "https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Loketo",
-        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76"
       },
       "artists": [
         {
-          "name": "MIK",
-          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+          "name": "Rhythm Vault",
+          "url": "https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 187943,
-      "name": "Loketo",
-      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
+      "duration_ms": 154800,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
       },
       "artists": [
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -1207,6 +1207,42 @@
       "duration_ms": 153103,
       "name": "Water",
       "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
+      },
+      "artists": [
+        {
+          "name": "Oberz",
+          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -1231,22 +1267,18 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
+        "name": "Goyard",
+        "url": "https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS"
       },
       "artists": [
         {
-          "name": "Oberz",
-          "url": "https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
+      "duration_ms": 120000,
+      "name": "Goyard",
+      "url": "https://open.spotify.com/track/2Ts1hFAQq5k7sJFPiqt9Ff"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -1275,18 +1307,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+        "name": "Shenk Me",
+        "url": "https://open.spotify.com/album/5yNwyn1a11z9XW46Nlm1kI"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 156610,
-      "name": "CA$H OUT",
-      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+      "duration_ms": 199285,
+      "name": "Shenk Me",
+      "url": "https://open.spotify.com/track/0Zuc6Ez9Y9qVt5Sp6AfoUK"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -1391,42 +1427,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Goyard",
-        "url": "https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Goyard",
-      "url": "https://open.spotify.com/track/2Ts1hFAQq5k7sJFPiqt9Ff"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Shenk Me",
-        "url": "https://open.spotify.com/album/5yNwyn1a11z9XW46Nlm1kI"
-      },
-      "artists": [
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Shenk Me",
-      "url": "https://open.spotify.com/track/0Zuc6Ez9Y9qVt5Sp6AfoUK"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg"
       },
@@ -1483,18 +1483,26 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+        "name": "Top Swag",
+        "url": "https://open.spotify.com/album/7kmtp8xQRcKiHEdNWelgCW"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
         }
       ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+      "duration_ms": 197777,
+      "name": "Top Swag",
+      "url": "https://open.spotify.com/track/7Dj8uoNSgsnJiNvCfN2jdy"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

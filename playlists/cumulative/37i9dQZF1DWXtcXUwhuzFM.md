@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Pihlaja, Dw, Bee..\. ja moni muu  🎶
 
-13,253 songs - 29 day 5 hr 16 min
+13,254 songs - 29 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8361,6 +8361,7 @@
 | [Overdrive](https://open.spotify.com/track/32b81nMpV15pUrknaKjzPl) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Overdrive](https://open.spotify.com/album/1Cco6Y9V8nfarVPMRUalX2) | 3:38 | 2024-07-11 | 2024-07-19 |
 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-18 | 2024-07-27 |
 | [Overseas](https://open.spotify.com/track/1j7292VlyJYBUQ1TOejJMf) | [Sakarias](https://open.spotify.com/artist/5FLzUdUE1kNwU4bF2T0Nut) | [Overseas](https://open.spotify.com/album/62iSB6xRj1r5cE4KUlnLDc) | 2:15 | 2024-06-27 | 2024-07-05 |
+| [Overthinker](https://open.spotify.com/track/18SLQPyPKYybUsR77ChEMS) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Overthinker](https://open.spotify.com/album/0WZ9DvpqOta5FaU6PVbqhK) | 3:40 | 2026-10-22 |  |
 | [Overthinking](https://open.spotify.com/track/7pj587ZZ0hZ66DbhG3M2fR) | [Thnked](https://open.spotify.com/artist/2D2p1P0jMo3OhCcx0PoNNJ) | [Overthinking](https://open.spotify.com/album/0xzACPEPw2KilD5IAC9Exf) | 3:00 | 2025-03-27 | 2025-04-04 |
 | [Ovet Kii](https://open.spotify.com/track/3p940qiYfthAcypKO97TQ5) | [Tommi Kaukua](https://open.spotify.com/artist/2Y7DEtAr7AxVw3kZfFm7rh) | [Ovet Kii](https://open.spotify.com/album/65KLSGOI0lG6Zr6EJToPFZ) | 2:28 | 2024-05-23 | 2024-06-01 |
 | [Ovuloin](https://open.spotify.com/track/0h8VxtgFnAM1VgG2Uok0mh) | [Matriarkaatti](https://open.spotify.com/artist/6WGnaLXutmyrZp58x1fPCJ), [Adikia](https://open.spotify.com/artist/7K6DxJUiPwbMtWkantnPRz), [Mon\-Sala](https://open.spotify.com/artist/563RJHQJRgjoBBSehPAY5Q) | [Ovuloin](https://open.spotify.com/album/6dWRfVcxuDIpNyiVy9bFfs) | 2:25 | 2025-10-02 | 2025-10-10 |

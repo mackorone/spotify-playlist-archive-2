@@ -513,6 +513,28 @@
     },
     {
       "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379533,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
+    },
+    {
+      "album": {
         "name": "Songs from Another Love",
         "url": "https://open.spotify.com/album/51ZlqbsTCEQfpvtrcRIxXB"
       },

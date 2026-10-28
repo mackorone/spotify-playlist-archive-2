@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,602 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,601 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 18 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
 | 19 | [Aprendi a Viver Só](https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:18 |
 | 20 | [Compartilhando o céu](https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 2:59 |
-| 21 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
-| 22 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
+| 21 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
+| 22 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
 | 23 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 24 | [Apaixonado](https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR) | [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj) | [Apaixonado](https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq) | 4:39 |
 | 25 | [me chama de sua](https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [BRUNÊ](https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf), [DeVito Cxrleone](https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k) | [Love Songs, Vol\. I](https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON) | 2:19 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 42 | [Tudo o Que Sou](https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [LAR](https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ) | 2:52 |
 | 43 | [\(Des\)conectar](https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31) | [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [\(Des\)conectar](https://open.spotify.com/album/57phCII157BEvM0camoMvd) | 3:20 |
 | 44 | [Você Merece](https://open.spotify.com/track/4wypZLE0UkTScBWmjhnNBm) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:04 |
-| 45 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
-| 46 | [Dias Calmos](https://open.spotify.com/track/7xLwWDt22A5fsFDAPBKBIt) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Dias Calmos](https://open.spotify.com/album/5PPpz2nNIQbFj6AjoNHQDe) | 2:16 |
+| 45 | [Dias Calmos](https://open.spotify.com/track/7xLwWDt22A5fsFDAPBKBIt) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Dias Calmos](https://open.spotify.com/album/5PPpz2nNIQbFj6AjoNHQDe) | 2:16 |
+| 46 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
 | 47 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
 | 48 | [98'](https://open.spotify.com/track/4ra4BrE9mPhMKwBkM2otjR) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo](https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G) | 3:26 |
 | 49 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 
 > This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,117 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,169 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 49 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 |
 | 50 | [La Curiosidad \(feat\. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi\) \- Blue Grand Prix Remix](https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [La Curiosidad \(Blue Grand Prix Remix\) \[feat\. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi\]](https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm) | 6:22 |
 
-Snapshot ID: `atv1AAAAAAAAGDSlJBbi/mqitqb6fMZr`
+Snapshot ID: `at1GgAAAAAAXlBVGhRoGk7/Cygp0ev2t`

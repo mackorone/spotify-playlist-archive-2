@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 32467,
+  "num_followers": 32471,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABBslS4gxWOsarJVuAs4UmX",
+  "snapshot_id": "at1GgAAAAAA7vOz/6fGqEH2P1MVsJ5SH",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "Roll Me Up",
+      "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -587,34 +615,6 @@
       "duration_ms": 296586,
       "name": "Me and Bobby McGee - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/0Hb9GMc1lWt8FTnBCzELtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 206796,
-      "name": "Roll Me Up",
-      "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 227878,
       "name": "Deportee (Plane Wreck at Los Gatos)",
       "url": "https://open.spotify.com/track/0SjDshX9dKeY73Pf512FMU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 174560,
       "name": "Lost Inside of You",
       "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,

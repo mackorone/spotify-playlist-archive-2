@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 31 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 30 | [Only You Say It](https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Only You Say It](https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O) | 3:20 |
 | 31 | [Eventide](https://open.spotify.com/track/5mmlzxAJaVTlE0qwMzlRd0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:17 |
 
-Snapshot ID: `atv1AAAAAAC12gJQhTS80RAv3eStcy1W`
+Snapshot ID: `at1GgAAAAABWfzqa0+f7t1knaucZ+l0D`

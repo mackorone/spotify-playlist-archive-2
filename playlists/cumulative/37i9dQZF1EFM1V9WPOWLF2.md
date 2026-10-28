@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 6 hr 5 min
+128 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Crezco](https://open.spotify.com/track/78Q755u7op1rvSrjbRmSd2) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [SÉ TÚ MISMO](https://open.spotify.com/album/1cG6HAhEp3inaCk3c4gKT3) | 1:36 | 2024-04-05 |  |
 | [Crisis](https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Nada Personal](https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN) | 3:21 | 2025-08-21 |  |
 | [cántaro](https://open.spotify.com/track/2wKGVXNoGfBoZM9LfVldSY) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 3:20 | 2026-07-16 |  |
+| [Cómo Dónde y Cuándo](https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:59 | 2026-10-27 |  |
 | [Dale Duro](https://open.spotify.com/track/2i2LSBD8eAINyo9G9nZEfa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 3:05 | 2025-01-09 |  |
 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 | 2024-04-05 |  |
 | [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 | 2026-08-19 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Olamide",
-  "num_followers": 239894,
+  "num_followers": 239988,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
         "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
         "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 233976,
       "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
       "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "IMALI",
-        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "JAZZWRLD",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "Thukuthela",
-          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
-        }
-      ],
-      "duration_ms": 283127,
-      "name": "IMALI",
-      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -1143,6 +1119,30 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
+        "name": "IMALI",
+        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "duration_ms": 283127,
+      "name": "IMALI",
+      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
         "name": "BB Lifestyle",
         "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 188571,
       "name": "BB Lifestyle",
       "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
         }
       ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
       "artists": [
         {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "Agaba Romantic",
         "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 128316,
       "name": "100 Meters",
       "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
-    },
-    {
-      "added_at": "2026-10-23 00:01:30",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
       },
@@ -1503,22 +1483,22 @@
     {
       "added_at": "2026-10-23 00:01:30",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 218947,
-      "name": "Despacito (feat. FOLA)",
-      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
     },
     {
       "added_at": "2026-10-23 00:01:30",
@@ -1535,6 +1515,26 @@
       "duration_ms": 139285,
       "name": "LAPOPIANO",
       "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-10-23 00:01:30",
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
     },
     {
       "added_at": "2026-10-23 00:01:30",

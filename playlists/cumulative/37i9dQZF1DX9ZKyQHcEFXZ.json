@@ -10942,7 +10942,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
@@ -12542,6 +12542,44 @@
       "duration_ms": 208894,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/7it0u6IGJQLRX9Q9q7vgOj"
+    },
+    {
+      "album": {
+        "name": "Vaquero (Remix)",
+        "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Andres Castillo",
+          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
+        },
+        {
+          "name": "La Dinastia",
+          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
+        },
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Vaquero - Remix",
+      "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
     },
     {
       "album": {

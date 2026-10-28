@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 343035,
+  "num_followers": 343019,
   "original_name": "Party 2026",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
+      },
+      "artists": [
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
-      },
-      "artists": [
-        {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "L'Amour Toujours",
-      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -899,6 +899,30 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
         "name": "Forever (feat. Malou & Yuna)",
         "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
-      },
-      "artists": [
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -991,30 +991,6 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
-        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -1035,6 +1011,30 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 144562,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
-        "name": "Makeba (Ian Asher Remix)",
-        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Makeba - Ian Asher Remix",
-      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
         "name": "Memories (feat. Kid Cudi) [2021 Remix]",
         "url": "https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "Makeba (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Makeba - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
+        "name": "Get Busy (Odd Mob Club Mix)",
+        "url": "https://open.spotify.com/album/7BPFEggYyxdKc33fjXFCxy"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 165909,
+      "name": "Get Busy - Odd Mob Club Mix",
+      "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
         "name": "ITALODISCO",
         "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
-        "name": "Get Busy (Odd Mob Club Mix)",
-        "url": "https://open.spotify.com/album/7BPFEggYyxdKc33fjXFCxy"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Get Busy - Odd Mob Club Mix",
-      "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
     },
     {
       "added_at": "2026-07-30 22:02:54",

@@ -1,6 +1,6 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 117520,
+  "num_followers": 117528,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 230903,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
+      "duration_ms": 222010,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 230903,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ReAniMate 3.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 208240,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 222010,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 3.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 249986,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 254887,
       "name": "Out In the Rain",
       "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate 3.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 249986,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK"
     }
   ],
   "unique_name": "This Is Halestorm",

@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 432668,
+  "num_followers": 432774,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -907,18 +907,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+        "name": "Volpe",
+        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
       },
       "artists": [
         {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
         }
       ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
+      "duration_ms": 467869,
+      "name": "Volpi Polari",
+      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -947,22 +951,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Volpe",
-        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
       },
       "artists": [
         {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        },
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
         }
       ],
-      "duration_ms": 467869,
-      "name": "Volpi Polari",
-      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
     },
     {
       "added_at": "2026-07-30 22:02:37",

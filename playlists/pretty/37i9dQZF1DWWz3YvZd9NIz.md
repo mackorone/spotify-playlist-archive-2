@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,195 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,212 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 55 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
 | 56 | [Wake Me Up \- Hardstyle Mix](https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433) | [LORD HADES](https://open.spotify.com/artist/6uZI9bgqhHMDX1p4JPjQIo), [Hardstyle Covers](https://open.spotify.com/artist/5gAL0J3DdeKhYaN1jjGxRb) | [Wake Me Up](https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij) | 2:59 |
 | 57 | [LOVE DON'T LET ME GO](https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [LOVE DON'T LET ME GO](https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4) | 3:04 |
-| 58 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 |
-| 59 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |
+| 58 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |
+| 59 | [Daddy DJ](https://open.spotify.com/track/2Rq69o9Sim7evcQ382ylPR) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Karlie Chui](https://open.spotify.com/artist/3DRMPNs23drO22bqK9ceWA) | [Daddy DJ](https://open.spotify.com/album/6Fp2vEjNNadaQMw0JgbFCZ) | 3:42 |
 | 60 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
 | 61 | [Lambada \(Your Love\)](https://open.spotify.com/track/2oefmctoiEMHs6Cf6PmoHj) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Lambada \(Your Love\)](https://open.spotify.com/album/0WgTsrXmzSihOCRoRS5Bn6) | 4:26 |
 | 62 | [Boom Boom Boom](https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Boom Boom Boom](https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G) | 3:01 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 67 | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Charla K](https://open.spotify.com/artist/1nKYzgyVrpiCrKdlUiNR8E) | [It Must Have Been Love \(feat\. Charla K\)](https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy) | 2:56 |
 | 68 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 | 69 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |
-| 70 | [Frozen](https://open.spotify.com/track/3n78tY1R80tFQ0mRj5gr9f) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Frozen](https://open.spotify.com/album/2JNI0cZgoAf7XqDvxsQFY6) | 3:05 |
+| 70 | [Somebody That I Used To Know](https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Somebody That I Used To Know](https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy) | 4:02 |
 
 Snapshot ID: `AAAAAO/gXeb1+fTdJKRa5juDrZEMrJd2`

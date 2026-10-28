@@ -2326,10 +2326,6 @@
           "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
         },
         {
-          "name": "Kn\u00e6k Cancer",
-          "url": "https://open.spotify.com/artist/4bO1uIIfKmbgPBqMfvYBMr"
-        },
-        {
           "name": "Lea Romea",
           "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
         },
@@ -7094,7 +7090,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 137601,
       "name": "Byen Lidt",
       "url": "https://open.spotify.com/track/6jfQGAr8HVMjoT232tkwMI"
@@ -27962,7 +27958,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 157097,
       "name": "Kogeplade",
       "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"

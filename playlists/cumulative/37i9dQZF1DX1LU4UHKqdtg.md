@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: LISA
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: IVE
 
-1,852 songs - 4 day 1 hr 13 min
+1,853 songs - 4 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,7 +745,7 @@
 | [I GOT YOU \(feat\. Lauv\)](https://open.spotify.com/track/14FpkTBexkWIoquqluEymo) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/3TACk4OfT9qMdrmqGa23pl) | 3:04 | 2024-04-18 | 2024-05-11 |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-06 | 2024-04-19 |
 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 | 2024-02-08 | 2024-04-19 |
-| [I Got Your Back](https://open.spotify.com/track/7rDleP2IpI5dpyzEcXcAUr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [I Got Your Back](https://open.spotify.com/album/6vw2GCTaDdPhzCvgMRcIjW) | 2:22 | 2026-07-26 |  |
+| [I Got Your Back](https://open.spotify.com/track/7rDleP2IpI5dpyzEcXcAUr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [I Got Your Back](https://open.spotify.com/album/6vw2GCTaDdPhzCvgMRcIjW) | 2:22 | 2026-07-26 | 2026-10-28 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-02-29 | 2024-04-24 |
 | [I Like The Way](https://open.spotify.com/track/1K68S3pjjU9C4zbmxmY2yj) | [KIM WOOJIN](https://open.spotify.com/artist/2jAhpp38AMZvTHud2OJbvM) | [I LIKE THE WAY](https://open.spotify.com/album/2z5FcX4RUgBLTocUB9pPgC) | 2:52 | 2024-04-26 | 2024-05-24 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-10-18 | 2022-11-11 |
@@ -1783,6 +1783,7 @@
 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 | 2024-04-26 | 2024-07-03 |
 | [Yours](https://open.spotify.com/track/5NLIIwf9UPaT04xU9aaZyr) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [智異山 オリジナル・サウンドトラック Part.4](https://open.spotify.com/album/0qK9PxAMNAwc4fPqsCyxwj) | 4:24 | 2021-12-23 | 2022-03-22 |
 | [Youth](https://open.spotify.com/track/3KOM7GQcX4KytvirhfdlCW) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [YOUTH](https://open.spotify.com/album/6OBmLdVdHzryb6MBtGAtG8) | 2:42 | 2022-10-25 | 2023-01-10 |
+| [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 | 2026-10-27 |  |
 | [YoYo \- Japanese Version](https://open.spotify.com/track/6fJJO72ssk4vPYfd3HgNUm) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [YoYo \- Japanese Version](https://open.spotify.com/album/3WBQEcnXgPO4umufifObm2) | 3:29 | 2024-08-15 | 2024-09-25 |
 | [Yum](https://open.spotify.com/track/6KsXEZEbBcH16U31sIyofB) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Yum](https://open.spotify.com/album/7JWr8SHqwgzuDuIlg3VtV8) | 2:29 | 2025-04-08 | 2025-04-30 |
 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-14 | 2022-04-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,062 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,953 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 23 | [Sem Jeito Ao Vivo \- Acústico / Ao Vivo](https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:13 |
 | 24 | [Tudo Que Importa \(Acoustic\)](https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Zeeba \- Reset](https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0) | 3:34 |
 | 25 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
-| 26 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
+| 26 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 27 | [Coisa Linda \- Ao Vivo](https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Acústico MTV Tiago Iorc \(Ao Vivo\)](https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV) | 3:12 |
-| 28 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
+| 28 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
 | 29 | [Quase Sem Querer \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:14 |
 | 30 | [Só Posso Dizer \(São Paulo\)](https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Só Posso Dizer](https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw) | 3:18 |
 | 31 | [Perdoa](https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Perdoa](https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6) | 3:42 |

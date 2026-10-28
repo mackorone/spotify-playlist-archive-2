@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Colin Léo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,991 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,994 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from LISA, Dominic Fike, keshi, Jess Lee, Bella Astillah,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,276 likes - 116 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,262 likes - 116 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 7 hr 19 min
+127 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Red Planet \(feat\. T\-Boz\)](https://open.spotify.com/track/4HvzvX45XPWlMJ5k7c2oOh) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [T\-Boz](https://open.spotify.com/artist/5z67HRLMUYoZhaZPWUoV94) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:53 | 2024-02-27 |  |
 | [Reflections](https://open.spotify.com/track/1PXwnQuyIq5KipnXdh5BCf) | [Zank](https://open.spotify.com/artist/6xI9Q6HuhHUxiYhcRdeHKN) | [Reflections](https://open.spotify.com/album/6PVTGF1RVKqt3tFzm9B35D) | 3:12 | 2025-09-17 |  |
 | [Remedy](https://open.spotify.com/track/6jFNglCTEcr05w28KLSy9F) | [All About She](https://open.spotify.com/artist/4v31ZbEICHeUehSZdcc4ga) | [Go Slow](https://open.spotify.com/album/2eNHUSSHfqSwPNny1YFmoT) | 3:17 | 2024-02-27 |  |
-| [Room for 2](https://open.spotify.com/track/1N6bSRD489MSNVsRYEQtji) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:28 | 2024-02-27 |  |
+| [Room for 2](https://open.spotify.com/track/1N6bSRD489MSNVsRYEQtji) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:28 | 2024-02-27 | 2026-10-28 |
+| [Room for 2](https://open.spotify.com/track/2BWRo9XgasysPaEf82pRKt) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/3SXqs6UQiQyIOnk1TeodLo) | 3:28 | 2026-10-27 |  |
 | [Rotation](https://open.spotify.com/track/41YNd4HrITJqpothWWXcxf) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Rotation](https://open.spotify.com/album/3uZFlPT1l4mhe4BlC2wN3h) | 2:36 | 2025-01-09 | 2025-04-12 |
 | [Sad Song](https://open.spotify.com/track/2WA4Xoft0dkYhwbluS9dXu) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:26 | 2024-02-27 |  |
 | [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 | 2024-02-27 |  |

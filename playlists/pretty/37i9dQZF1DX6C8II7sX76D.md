@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,672 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,676 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 29 | [Lights](https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Carlyn](https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87) | [Lights](https://open.spotify.com/album/58US0k9s4PeMLsiSEnghgG) | 2:29 |
 | 30 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 |
 | 31 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
-| 32 | [Believe \(Shooting Stars\)](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Believe \(Shooting Stars\)](https://open.spotify.com/album/79WFgZm35smuyjipo6fouj) | 2:34 |
+| 32 | [Believe \(Shooting Stars\)](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Believe \(Shooting Stars\)](https://open.spotify.com/album/79WFgZm35smuyjipo6fouj) | 2:34 |
 | 33 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 |
 | 34 | [Crave You](https://open.spotify.com/track/06Gw4zi1Gqg11XgRchemgJ) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down to Earth](https://open.spotify.com/album/6IFS5Kqh3GkDuApNUTNh3h) | 3:54 |
 | 35 | [Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/5C6pN8pgjLsyIIaziZmpBN) | 1:58 |

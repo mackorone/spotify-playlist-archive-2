@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAAAw5igEDv6qe9ItcHdtkamW",
+  "snapshot_id": "at1GgAAAAAABl/XjrGbnW46e52U9luBc",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 257068,
-      "name": "Welela",
-      "url": "https://open.spotify.com/track/0HE2ZkTS8s2T8bDKyQncNT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makeba Sings!",
         "url": "https://open.spotify.com/album/3UD7L3SM81SqSjmIEgHffs"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 152449,
       "name": "Chove-Chuva",
       "url": "https://open.spotify.com/track/7Bn5A1f0JiT92Fs2IhaMRL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 257068,
+      "name": "Welela",
+      "url": "https://open.spotify.com/track/0HE2ZkTS8s2T8bDKyQncNT"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "A Luta Continua",
-      "url": "https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zazzaraz\u00e0z - Uno Spettacolo D'arte Varia (Deluxe)",
         "url": "https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 273653,
       "name": "Don't Break My Heart",
       "url": "https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "A Luta Continua",
+      "url": "https://open.spotify.com/track/3mH0Lmh3xjk16INiPISHq7"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarafina! The Sound Of Freedom",
-        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        },
-        {
-          "name": "Leleti Khumalo",
-          "url": "https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT"
-        }
-      ],
-      "duration_ms": 264613,
-      "name": "Thank You Mama",
-      "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Graceland Live - Remastered (Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87)",
         "url": "https://open.spotify.com/album/66nQdyL3P4u1yfsDu5Y4AT"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 240053,
       "name": "Under African Skies - Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87",
       "url": "https://open.spotify.com/track/0dz7AgLTb30euAIqMQmSKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarafina! The Sound Of Freedom",
+        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        },
+        {
+          "name": "Leleti Khumalo",
+          "url": "https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT"
+        }
+      ],
+      "duration_ms": 264613,
+      "name": "Thank You Mama",
+      "url": "https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miriam Makeba",
-        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 167502,
-      "name": "Suliram",
-      "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
+      "duration_ms": 153653,
+      "name": "The Lion Sleeps Tonight (Mbube)",
+      "url": "https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound of South Africa",
-        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "The Lion Sleeps Tonight (Mbube)",
-      "url": "https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Me a Song",
         "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 167502,
+      "name": "Suliram",
+      "url": "https://open.spotify.com/track/3hMPRSk1vOYvMhTcCIqXMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welela",
         "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 248640,
       "name": "Djiu de Galinha",
       "url": "https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Mama Ndiyalila",
+      "url": "https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Promise",
-        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "Mama Ndiyalila",
-      "url": "https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Click Song",
         "url": "https://open.spotify.com/album/6PPLax0vsbSi76NKm8SCeB"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forbidden Games",
-        "url": "https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Forbidden Games",
-      "url": "https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195866,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forbidden Games",
+        "url": "https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Forbidden Games",
+      "url": "https://open.spotify.com/track/6zOvv7Y1bNWJixUEG3YTUS"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
       "duration_ms": 255760,
       "name": "Pata-Pata (feat. Miriam Makeba)",
       "url": "https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Ndiarabi",
+      "url": "https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
       "duration_ms": 129933,
       "name": "Umqokozo",
       "url": "https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Me a Song",
-        "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Ndiarabi",
-      "url": "https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U"
     },
     {
       "added_at": null,

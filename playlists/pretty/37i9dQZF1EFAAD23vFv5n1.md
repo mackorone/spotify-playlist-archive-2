@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 198 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079 likes - 198 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 67 | [ok :/](https://open.spotify.com/track/6GGHi4QowIR06QB9SHpPrO) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/2ky10sJO69l13mgOMxXH9T) | 2:52 |
 | 68 | [Direzione](https://open.spotify.com/track/11t5LWMbPP6uNxxw5mFzfh) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:53 |
 | 69 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 |
-| 70 | [Tonight gospel \(feat\. Mecna\)](https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:42 |
-| 71 | [ko cuore](https://open.spotify.com/track/6SuOMLn460vOrcIe01RMBC) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:01 |
+| 70 | [ko cuore](https://open.spotify.com/track/6SuOMLn460vOrcIe01RMBC) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:01 |
+| 71 | [Tonight gospel \(feat\. Mecna\)](https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:42 |
 | 72 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 |
 | 73 | [okokokokok](https://open.spotify.com/track/412emqIxbdsuhhCfWLUa5z) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokokokok](https://open.spotify.com/album/6uZMQ2kXK7vAu6znAMybMb) | 2:53 |
 | 74 | [parquet](https://open.spotify.com/track/5SCqOU0YAOMn3MiopPrddY) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:31 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 | 198 | [Victoria's Secret](https://open.spotify.com/track/0qlfvwLYOxLs0pPktzqSmV) | [John's Saxophone](https://open.spotify.com/artist/5017jdzBcgvmdHLGkWwRZY) | [My Favorite Songs, International Hits 2025](https://open.spotify.com/album/6j1ufpqyRZqJp84UMigIXc) | 3:20 |
 
-Snapshot ID: `AcgAhgAAAAD8pb+W+UAraSXpkaU191sZ`
+Snapshot ID: `AcgGYgAAAACJEqCUvRHWG+2lTGvs3UDx`

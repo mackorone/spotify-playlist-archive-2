@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Aldous Harding",
-  "num_followers": 335964,
+  "num_followers": 335984,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Mercy Now",
         "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 157346,
       "name": "Hey, Who Really Cares",
       "url": "https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Kate & Anna McGarrigle",
-        "url": "https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J"
-      },
-      "artists": [
-        {
-          "name": "Kate & Anna McGarrigle",
-          "url": "https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Heart Like a Wheel",
-      "url": "https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Bloodless",
         "url": "https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 154478,
       "name": "Fair Game",
       "url": "https://open.spotify.com/track/5IOnNlFKHfiWgzu9Yu4FKc"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Kate & Anna McGarrigle",
+        "url": "https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J"
+      },
+      "artists": [
+        {
+          "name": "Kate & Anna McGarrigle",
+          "url": "https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Heart Like a Wheel",
+      "url": "https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Odetta Sings Dylan",
         "url": "https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 341293,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/0YYXg3u5ELZb2SjcD2YTFF"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Black Irish",
         "url": "https://open.spotify.com/album/5Tk9aO6Qu39iHU57nldhtl"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 241203,
       "name": "Banshee Moan",
       "url": "https://open.spotify.com/track/5HjMZLtFasGq1zqeP4kWMU"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "On the Line",
+        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 313405,
+      "name": "Heads Gonna Roll",
+      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "On the Line",
-        "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 313405,
-      "name": "Heads Gonna Roll",
-      "url": "https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "The Very Best Of Judy Collins",
-        "url": "https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR"
-      },
-      "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Turn, Turn, Turn! / To Everything There Is a Season",
-      "url": "https://open.spotify.com/track/7bwHniUnXqVp59mCbrNnJc"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
       },
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
+        "name": "The Very Best Of Judy Collins",
+        "url": "https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Turn, Turn, Turn! / To Everything There Is a Season",
+      "url": "https://open.spotify.com/track/7bwHniUnXqVp59mCbrNnJc"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1879,22 +1879,6 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
-        "name": "Birdseye",
-        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -1927,6 +1911,22 @@
       "duration_ms": 204000,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Birdseye",
+        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
       "added_at": "2026-05-15 04:01:12",
@@ -2267,38 +2267,6 @@
     {
       "added_at": "2026-05-15 04:01:12",
       "album": {
-        "name": "Royal Traveller",
-        "url": "https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ"
-      },
-      "artists": [
-        {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
-        },
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        },
-        {
-          "name": "Becky Buller",
-          "url": "https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 236614,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q"
-    },
-    {
-      "added_at": "2026-05-15 04:01:12",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -2327,6 +2295,38 @@
       "duration_ms": 194533,
       "name": "Letting Me Down",
       "url": "https://open.spotify.com/track/0CFJazMm76jtItqdPYQ53O"
+    },
+    {
+      "added_at": "2026-05-15 04:01:12",
+      "album": {
+        "name": "Royal Traveller",
+        "url": "https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        },
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Becky Buller",
+          "url": "https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 236614,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/0j1lzFyh427bXhDHLeth6q"
     },
     {
       "added_at": "2026-05-15 04:01:12",

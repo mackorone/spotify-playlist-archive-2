@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: 6uff
 
-845 songs - 1 day 15 hr 26 min
+845 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 | 2024-04-05 | 2024-11-22 |
 | [Excellent](https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Excellent](https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ) | 3:07 | 2026-08-14 | 2026-10-09 |
 | [EXTRACURRICULAR ACTIVITIES](https://open.spotify.com/track/0fbRxfy1QPpAMz8DLDgiLV) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Thrill Max](https://open.spotify.com/artist/4aAwLZhHII5PgS4YhjrsRv), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Marv OTM](https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq) | [EXTRACURRICULAR ACTIVITIES](https://open.spotify.com/album/2CvlJE9N3tzI2cbZxMNe5B) | 2:53 | 2025-01-31 | 2025-05-09 |
-| [Eyes On Me](https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 3:07 | 2026-10-02 |  |
+| [Eyes On Me](https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary \(Disk 2\)](https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz) | 2:47 | 2026-10-02 |  |
 | [Fake Love](https://open.spotify.com/track/4B0tAnf7rBUdb2lvCKJpoU) | [JoulesDaKid](https://open.spotify.com/artist/5NjVO0pGKBzb10hwlfFBWV), [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT) | [Fake Love](https://open.spotify.com/album/01KJ2GfbTmEQlZtbv8a7y2) | 3:40 | 2025-03-28 | 2025-05-17 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-28 | 2022-11-11 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 | 2022-10-28 | 2024-04-10 |

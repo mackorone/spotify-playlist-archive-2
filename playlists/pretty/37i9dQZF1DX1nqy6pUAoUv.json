@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170391,
+  "num_followers": 170382,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 174640,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 278355,
-      "name": "The Morning Song",
-      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
+      "duration_ms": 219053,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -851,6 +835,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 278355,
+      "name": "The Morning Song",
+      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "You, Yeah, You",
         "url": "https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 119615,
       "name": "Sammi's Song",
       "url": "https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Rosey",
+        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
+      },
+      "artists": [
+        {
+          "name": "Bermuda Triangle",
+          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
+        }
+      ],
+      "duration_ms": 225999,
+      "name": "Rosey",
+      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -883,22 +899,6 @@
       "duration_ms": 223880,
       "name": "Call Me A Fool [Feat. Carla Thomas]",
       "url": "https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Rosey",
-        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
-      },
-      "artists": [
-        {
-          "name": "Bermuda Triangle",
-          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
-        }
-      ],
-      "duration_ms": 225999,
-      "name": "Rosey",
-      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Before I Go",
         "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 295533,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "In the Kingdom of Dreams",
-        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
-      },
-      "artists": [
-        {
-          "name": "Ian Felice",
-          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "In the Kingdom of Dreams",
-      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Songs Of",
         "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 235506,
       "name": "Unmistakable Love",
       "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "In the Kingdom of Dreams",
+        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
+      },
+      "artists": [
+        {
+          "name": "Ian Felice",
+          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "In the Kingdom of Dreams",
+      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "The Ocean",
+        "url": "https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "duration_ms": 201294,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 234826,
       "name": "Avalon (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "The Ocean",
-        "url": "https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc"
-      },
-      "artists": [
-        {
-          "name": "Wallis Bird",
-          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
-        }
-      ],
-      "duration_ms": 201294,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 306216,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Music from The American Epic Sessions (Deluxe)",
         "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306216,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2025-09-02 20:08:27",

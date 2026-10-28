@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! October ambassador: <a href=\"spotify:artist:6OOF9nSZbNw4etK0InqtEZ\">CVNTS</a>",
-  "num_followers": 14562,
+  "num_followers": 14560,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Mijn Altijd",
-        "url": "https://open.spotify.com/album/7o4l6tH73iPdfqC4Q3IRye"
-      },
-      "artists": [
-        {
-          "name": "Kiya",
-          "url": "https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "Mijn Altijd",
-      "url": "https://open.spotify.com/track/0TWNhgLQP4r62PWXUtKKvS"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Feel At Home",
         "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Je weet dat ik zo ben",
-        "url": "https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr"
+        "name": "Mijn Altijd",
+        "url": "https://open.spotify.com/album/7o4l6tH73iPdfqC4Q3IRye"
       },
       "artists": [
         {
-          "name": "LOE.",
-          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
+          "name": "Kiya",
+          "url": "https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9"
         }
       ],
-      "duration_ms": 182710,
-      "name": "Je weet dat ik zo ben",
-      "url": "https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a"
+      "duration_ms": 243880,
+      "name": "Mijn Altijd",
+      "url": "https://open.spotify.com/track/0TWNhgLQP4r62PWXUtKKvS"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -511,6 +495,22 @@
       "duration_ms": 228800,
       "name": "Mama",
       "url": "https://open.spotify.com/track/43lD6s1AJLws5e2EEk8fjY"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Je weet dat ik zo ben",
+        "url": "https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr"
+      },
+      "artists": [
+        {
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Je weet dat ik zo ben",
+      "url": "https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/1ablmD9hjxK5WLl6O58Fgg"
-      },
-      "artists": [
-        {
-          "name": "Quinty's",
-          "url": "https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl"
-        }
-      ],
-      "duration_ms": 192982,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0W4VEKGacTuzvJUe8i8da6"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Naakt",
         "url": "https://open.spotify.com/album/19jvbtwOnz4DG4TPqBKavL"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 241290,
       "name": "Naakt",
       "url": "https://open.spotify.com/track/58mYugAG7mXlUATqqjvX10"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/1ablmD9hjxK5WLl6O58Fgg"
+      },
+      "artists": [
+        {
+          "name": "Quinty's",
+          "url": "https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl"
+        }
+      ],
+      "duration_ms": 192982,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0W4VEKGacTuzvJUe8i8da6"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Coup de foudre (Instant Crush)",
+        "url": "https://open.spotify.com/album/7lq7auvASDjzFOVpXw8pXV"
+      },
+      "artists": [
+        {
+          "name": "Louise Barreau",
+          "url": "https://open.spotify.com/artist/6F16dQmgChvL40O8paV1cg"
+        }
+      ],
+      "duration_ms": 280254,
+      "name": "Coup de foudre - Instant Crush",
+      "url": "https://open.spotify.com/track/2WQDLmbsTVcXGPoVFykZ5U"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Laat Dit Niet Lopen",
         "url": "https://open.spotify.com/album/1l9aGknM2JJZ9mtMPKB1vV"
       },
@@ -847,26 +863,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Nala Flow",
-        "url": "https://open.spotify.com/album/69M1KAj9kJWSnuInufgFUY"
-      },
-      "artists": [
-        {
-          "name": "I am Aisha",
-          "url": "https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf"
-        },
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "Nala Flow",
-      "url": "https://open.spotify.com/track/0pMjcIJm6NMsIIG2RBdnPj"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Evenings are for Falling in Love",
         "url": "https://open.spotify.com/album/6DwxFlz36OgWYYnDIpl1op"
       },
@@ -883,18 +879,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Coup de foudre (Instant Crush)",
-        "url": "https://open.spotify.com/album/7lq7auvASDjzFOVpXw8pXV"
+        "name": "Nala Flow",
+        "url": "https://open.spotify.com/album/69M1KAj9kJWSnuInufgFUY"
       },
       "artists": [
         {
-          "name": "Louise Barreau",
-          "url": "https://open.spotify.com/artist/6F16dQmgChvL40O8paV1cg"
+          "name": "I am Aisha",
+          "url": "https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
         }
       ],
-      "duration_ms": 280254,
-      "name": "Coup de foudre - Instant Crush",
-      "url": "https://open.spotify.com/track/2WQDLmbsTVcXGPoVFykZ5U"
+      "duration_ms": 143076,
+      "name": "Nala Flow",
+      "url": "https://open.spotify.com/track/0pMjcIJm6NMsIIG2RBdnPj"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5l68gFaOzLobugsFw1n2BN"
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN"
       },
       "artists": [
         {
-          "name": "Veya",
-          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
+          "name": "Iris Jean",
+          "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/5C4KgyogyD9HVRKtKXJWEO"
+      "duration_ms": 259353,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/41qun4g44RzCovHZUp05zS"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5l68gFaOzLobugsFw1n2BN"
       },
       "artists": [
         {
-          "name": "Iris Jean",
-          "url": "https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu"
+          "name": "Veya",
+          "url": "https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU"
         }
       ],
-      "duration_ms": 259353,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/41qun4g44RzCovHZUp05zS"
+      "duration_ms": 191306,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5C4KgyogyD9HVRKtKXJWEO"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Desire Is Movement",
-        "url": "https://open.spotify.com/album/7LewXoNUuPAbxL4UDBPX0v"
-      },
-      "artists": [
-        {
-          "name": "Trixie Whitley",
-          "url": "https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ"
-        }
-      ],
-      "duration_ms": 328680,
-      "name": "Desire Is Movement",
-      "url": "https://open.spotify.com/track/39qyXA2HjZ7pvtPJjgpMTd"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Mi No Sabi",
         "url": "https://open.spotify.com/album/22IHlTKLz9GrQ1okGU9FHZ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 182000,
       "name": "Mi No Sabi",
       "url": "https://open.spotify.com/track/12Ck6WW19yoEM6pfd6zf4V"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Desire Is Movement",
+        "url": "https://open.spotify.com/album/7LewXoNUuPAbxL4UDBPX0v"
+      },
+      "artists": [
+        {
+          "name": "Trixie Whitley",
+          "url": "https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Desire Is Movement",
+      "url": "https://open.spotify.com/track/39qyXA2HjZ7pvtPJjgpMTd"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Already Lost",
-        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
-      },
-      "artists": [
-        {
-          "name": "Caro",
-          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Already Lost",
-      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Breakfast of Champions",
         "url": "https://open.spotify.com/album/1UnxUzrZZf2WwEUfaSpRwF"
       },
@@ -1367,22 +1351,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4"
+        "name": "Already Lost",
+        "url": "https://open.spotify.com/album/1kJQ94lCIMCwT6fZjnMbLY"
       },
       "artists": [
         {
-          "name": "Jada Faith",
-          "url": "https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL"
-        },
-        {
-          "name": "Mael",
-          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
+          "name": "Caro",
+          "url": "https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW"
         }
       ],
-      "duration_ms": 163960,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/4GVbsI3QSEfA3zFukkGJu8"
+      "duration_ms": 218926,
+      "name": "Already Lost",
+      "url": "https://open.spotify.com/track/1CgcCBvTQ7MREi3RQxsYRf"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1419,6 +1399,26 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4"
+      },
+      "artists": [
+        {
+          "name": "Jada Faith",
+          "url": "https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL"
+        },
+        {
+          "name": "Mael",
+          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
+        }
+      ],
+      "duration_ms": 163960,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/4GVbsI3QSEfA3zFukkGJu8"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "l i f e o f t h e p a r t y",
         "url": "https://open.spotify.com/album/6Fm0fRRMfDqNuTllgwOBIe"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 127289,
       "name": "l i f e o f t h e p a r t y",
       "url": "https://open.spotify.com/track/0ylXkg7shq3ATRYkxwAzVH"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
+      },
+      "artists": [
+        {
+          "name": "Sandrien",
+          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1467,22 +1483,6 @@
       "duration_ms": 195464,
       "name": "Fanatical radical - Choir versions Live in the St Antonius Church",
       "url": "https://open.spotify.com/track/2JNcsFTuUvTSoKsin1lyTZ"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
-      },
-      "artists": [
-        {
-          "name": "Sandrien",
-          "url": "https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1567,6 +1567,38 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "Systeemplafond",
+        "url": "https://open.spotify.com/album/5RaMvDvjMW31Sjw3Mdo5XF"
+      },
+      "artists": [
+        {
+          "name": "Danique Jeanne",
+          "url": "https://open.spotify.com/artist/4FN417lY2ClsQdTjlHoa1E"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Systeemplafond",
+      "url": "https://open.spotify.com/track/0q1Wj4efPKVrPovobTs6XA"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "D2F",
+        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
+      },
+      "artists": [
+        {
+          "name": "JANE",
+          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
+        }
+      ],
+      "duration_ms": 123273,
+      "name": "D2F",
+      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Nothing to Teach",
         "url": "https://open.spotify.com/album/1aS5W0IXSsxLEiSJmPFVOU"
       },
@@ -1611,22 +1643,6 @@
       "duration_ms": 245986,
       "name": "Sleepless Dream",
       "url": "https://open.spotify.com/track/2FfNTLtBLYQ91faLchKmlr"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "D2F",
-        "url": "https://open.spotify.com/album/0InYtaSoh2CujSwhbtvTPi"
-      },
-      "artists": [
-        {
-          "name": "JANE",
-          "url": "https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe"
-        }
-      ],
-      "duration_ms": 123273,
-      "name": "D2F",
-      "url": "https://open.spotify.com/track/2IKd0FDhxhLZAhTCqfxfx7"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Systeemplafond",
-        "url": "https://open.spotify.com/album/5RaMvDvjMW31Sjw3Mdo5XF"
+        "name": "ik dacht dat jij hier ook zou zijn",
+        "url": "https://open.spotify.com/album/1BlL2LNkxmvGqts2rw2ECd"
       },
       "artists": [
         {
-          "name": "Danique Jeanne",
-          "url": "https://open.spotify.com/artist/4FN417lY2ClsQdTjlHoa1E"
+          "name": "Zo\u00eb Low",
+          "url": "https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec"
         }
       ],
-      "duration_ms": 184746,
-      "name": "Systeemplafond",
-      "url": "https://open.spotify.com/track/0q1Wj4efPKVrPovobTs6XA"
+      "duration_ms": 182687,
+      "name": "ik kom nooit meer terug",
+      "url": "https://open.spotify.com/track/19QLvCVnLroNWCCXX8gH8b"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1707,22 +1723,6 @@
       "duration_ms": 180090,
       "name": "Eventjes",
       "url": "https://open.spotify.com/track/28bjwlN83oLvzh3rgE01kh"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "ik dacht dat jij hier ook zou zijn",
-        "url": "https://open.spotify.com/album/1BlL2LNkxmvGqts2rw2ECd"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Low",
-          "url": "https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec"
-        }
-      ],
-      "duration_ms": 182687,
-      "name": "ik kom nooit meer terug",
-      "url": "https://open.spotify.com/track/19QLvCVnLroNWCCXX8gH8b"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "I'll Do It Myself",
-        "url": "https://open.spotify.com/album/5ZifGri1bN6NC0XnUBXFKa"
-      },
-      "artists": [
-        {
-          "name": "JEN",
-          "url": "https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "I'll Do It Myself",
-      "url": "https://open.spotify.com/track/2iV6HI3qmjfT2pddW2hfWk"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Baranka Music Promo Tape (26)",
         "url": "https://open.spotify.com/album/0eeTdND0Ua4KK9PceETEHK"
       },
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
+        "name": "I'll Do It Myself",
+        "url": "https://open.spotify.com/album/5ZifGri1bN6NC0XnUBXFKa"
+      },
+      "artists": [
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "I'll Do It Myself",
+      "url": "https://open.spotify.com/track/2iV6HI3qmjfT2pddW2hfWk"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha"
       },
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "I'm An Island",
-        "url": "https://open.spotify.com/album/25Ddmq1iM7g1Xcc4J1pOep"
-      },
-      "artists": [
-        {
-          "name": "Bunny Alex",
-          "url": "https://open.spotify.com/artist/4nlWIFbOLFZqLHPi4m8JH2"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "I'm An Island",
-      "url": "https://open.spotify.com/track/23mP07l4I4FQ02AmmzN6Jd"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Forfait Solitude",
         "url": "https://open.spotify.com/album/2eC4BQoRlBIgJPPRpf3UhK"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 175724,
       "name": "J'en sais rien",
       "url": "https://open.spotify.com/track/3RpfTH0ElR1RChAQ5GFlU5"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "I'm An Island",
+        "url": "https://open.spotify.com/album/25Ddmq1iM7g1Xcc4J1pOep"
+      },
+      "artists": [
+        {
+          "name": "Bunny Alex",
+          "url": "https://open.spotify.com/artist/4nlWIFbOLFZqLHPi4m8JH2"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "I'm An Island",
+      "url": "https://open.spotify.com/track/23mP07l4I4FQ02AmmzN6Jd"
     },
     {
       "added_at": "2026-10-06 22:00:25",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 801739,
+  "num_followers": 801847,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABJa7fM80GKZmbjckMMf8TE",
+  "snapshot_id": "at1GgAAAAABWwL3lIFp4Cs+EVF0panSy",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale Vol. 2",
-        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 194493,
-      "name": "Reino De Amor",
-      "url": "https://open.spotify.com/track/0bJqoSq8trfzfrC0AnG6BJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/73bl7uuU24ECvfzzE6vIgl"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 242478,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "Reino De Amor",
+      "url": "https://open.spotify.com/track/0bJqoSq8trfzfrC0AnG6BJ"
     },
     {
       "added_at": null,

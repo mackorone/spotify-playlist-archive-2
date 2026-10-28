@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,903 likes - 100 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,900 likes - 100 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 39 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 40 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 41 | [Blood Medley \(Part 3\) \- I Know It Was The Blood](https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Psalms, Hymns & Spiritual Songs](https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On) | 5:41 |
-| 42 | [He Got Up \(feat\. Dorinda Clark Cole with Sean Tillery & Changed\)](https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK), [Sean Tillery](https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3), [Changed](https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm) | [Cross Music](https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57) | 5:38 |
-| 43 | [The Blood Will Never Lose Its Power](https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [My Very OWN Easter \- EP](https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB) | 7:47 |
+| 42 | [The Blood Will Never Lose Its Power](https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [My Very OWN Easter \- EP](https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB) | 7:47 |
+| 43 | [He Got Up \(feat\. Dorinda Clark Cole with Sean Tillery & Changed\)](https://open.spotify.com/track/0FRW8IBzBaJ81GNS8Uvq2g) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Dorinda Clark\-Cole](https://open.spotify.com/artist/2izm16Jd9ifkaqR5fxzlTK), [Sean Tillery](https://open.spotify.com/artist/4P2nUuHgzfMwailfmGiyQ3), [Changed](https://open.spotify.com/artist/6zyqJXkwgEDElZcoqlI7cm) | [Cross Music](https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57) | 5:38 |
 | 44 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
 | 45 | [Already Won \- Live](https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 3:31 |
 | 46 | [He Didn't Have To Do It](https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Then Sings My Soul](https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9) | 5:37 |

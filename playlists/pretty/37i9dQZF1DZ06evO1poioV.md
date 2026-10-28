@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,817 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,824 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [A Long Goodbye](https://open.spotify.com/track/77tp1Yy4gys1k5bDtUygfu) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:47 |
 | 50 | [Ted Lasso Theme \- from “Ted Lasso: Season 4”](https://open.spotify.com/track/4Ek8RVWrO2AecZZdT6GWNn) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Ted Lasso: Season 4 \(Apple TV Original Series Soundtrack\)](https://open.spotify.com/album/5cWIQZ1qcBH3thID1beRB4) | 3:32 |
 
-Snapshot ID: `atv1AAAAAACBZ5hpbW1gyqbbY1iz2Jvv`
+Snapshot ID: `at1GgAAAAAABZw+1FLuu4iLjAjUeefcd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,436 songs - 5 day 10 hr 40 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,437 songs - 5 day 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2444,5 +2444,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2434 | [你喜欢我闪耀的样子吗???](https://open.spotify.com/track/4hf1LcGhGfZaqIIzhwRUhS) | [Xextapes](https://open.spotify.com/artist/6Bz6u2PFf3Bptxqnk4ZXAK) | [你喜欢我闪耀的样子吗???](https://open.spotify.com/album/0Yg2VSz0cANfbris0wVPvj) | 1:56 |
 | 2435 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 |
 | 2436 | [Burgundy](https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 4:28 |
+| 2437 | [White Flag](https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [White Flag](https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm) | 3:05 |
 
-Snapshot ID: `AAAFjXEtiqFgJRMGlgLFokUwFAPKhsvV`
+Snapshot ID: `AAAFjh7B8o2fsaE/BFRVO4qtwXCYSK1V`

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played music videos right now - Global.",
-  "num_followers": 9796,
+  "num_followers": 9849,
   "original_name": "Music Video Charts - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MnLSiAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MnQmYAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "You're Under Arrest",
+        "url": "https://open.spotify.com/album/0HnvQlUVgl8yD11bmohZI1"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 189043,
+      "name": "You're Under Arrest",
+      "url": "https://open.spotify.com/track/74NlZddGvBw0RfEXR0hDje"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Housewife (Live from The Victoria's Secret Fashion Show 2026)",
         "url": "https://open.spotify.com/album/1FVI4nxZlKMv5zvU0KMQGp"
@@ -25,39 +41,7 @@
       "url": "https://open.spotify.com/track/61LsiYvjx6R4taEZUOyWQb"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/1dpXsZZI3aiDyTPy3TNBeo"
-      },
-      "artists": [
-        {
-          "name": "BeatFreakz",
-          "url": "https://open.spotify.com/artist/5TloeWiZXG1ttx3qXHxbs0"
-        }
-      ],
-      "duration_ms": 191978,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/6jKjRuCRieMyPbPMfkOqbu"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/2ebbnxsdZE76RvNxL1Z74C"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 209088,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/7C6i75mzAOyJz1K3nqgMAr"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Groove Armada - Live at Portola Music Festival 2026",
         "url": "https://open.spotify.com/album/0Wp5oGLEjGqmAqfPBDdpTl"
@@ -73,27 +57,23 @@
       "url": "https://open.spotify.com/track/6rd3MctxNvnAJi7sihwAGS"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/4VTgcjLUtqudJhB0X7irDx"
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/2ebbnxsdZE76RvNxL1Z74C"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 237504,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/59ulCNXlrxTeZ86ZshGkS8"
+      "duration_ms": 209088,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/7C6i75mzAOyJz1K3nqgMAr"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "You're Under Arrest (PRESS START\u2665\ufe0e ENCORE Live)",
         "url": "https://open.spotify.com/album/7DBqG3JoPhBocLKKt9s0XL"
@@ -109,7 +89,47 @@
       "url": "https://open.spotify.com/track/04RJttDZaixiTBMriW8EPI"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/1dpXsZZI3aiDyTPy3TNBeo"
+      },
+      "artists": [
+        {
+          "name": "BeatFreakz",
+          "url": "https://open.spotify.com/artist/5TloeWiZXG1ttx3qXHxbs0"
+        }
+      ],
+      "duration_ms": 191978,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/6jKjRuCRieMyPbPMfkOqbu"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Ronroneame",
+        "url": "https://open.spotify.com/album/0JIpaLez0tmyqk0JF3lfwX"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        },
+        {
+          "name": "LA FAMA",
+          "url": "https://open.spotify.com/artist/05LiGpQaK746ULVzjzLgZ3"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Ronroneame",
+      "url": "https://open.spotify.com/track/1CnVgNFkIJELALhLn5ybp0"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "expectations",
         "url": "https://open.spotify.com/album/6uU0dRvgFFXewxIJKryGdK"
@@ -129,7 +149,43 @@
       "url": "https://open.spotify.com/track/2JDmZZzBUmYNpfhuVRXAN1"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/4VTgcjLUtqudJhB0X7irDx"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 237504,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/59ulCNXlrxTeZ86ZshGkS8"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Coming Up Roses",
+        "url": "https://open.spotify.com/album/4Tb6jvj7LJYcUujUt4Nuic"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 256405,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/4mdY2FqawYKEUgGL14fJHD"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Nicole Kidman",
         "url": "https://open.spotify.com/album/0HCLdQDbY4uVGjb6p1j8oF"
@@ -145,7 +201,7 @@
       "url": "https://open.spotify.com/track/4fBnFBSVjHfDv8dqXxKw05"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "BbY WOW",
         "url": "https://open.spotify.com/album/5nxte76LzyziSGXcU7qwq8"
@@ -169,7 +225,7 @@
       "url": "https://open.spotify.com/track/2d4FSdKcsMiKVFKBcZxs2f"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "FIRESTARTER",
         "url": "https://open.spotify.com/album/5tuLkOlGMDRaz0KmjBt2RE"
@@ -209,7 +265,7 @@
       "url": "https://open.spotify.com/track/5o3akcoqyEzVCafBnteSNF"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "stupid song (acoustic)",
         "url": "https://open.spotify.com/album/5D2kP4GkBgIcJGEqSDwX1F"
@@ -225,39 +281,7 @@
       "url": "https://open.spotify.com/track/6Frk5ICLnAsTMhQIGS3rJZ"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Hootie Frutti",
-        "url": "https://open.spotify.com/album/2rPaL00arekWCIcHG319Mo"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Hootie Frutti",
-      "url": "https://open.spotify.com/track/7tN8t1hdcS2VF7aSakMfOT"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/3XMVlFrLX0Q5Ilo7KtfXx4"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 191914,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/5RPsgkGUhQ4hCNNK7PDnqV"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/6a4GYeEa0rFoCGhvjam7pd"
@@ -273,31 +297,7 @@
       "url": "https://open.spotify.com/track/03PSDRVwlj5GK5VvWOeQR2"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "ICONIC BY MISTAKE",
-        "url": "https://open.spotify.com/album/0gjfMkpsH1y95M4wfe7WUJ"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        },
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 199540,
-      "name": "ICONIC BY MISTAKE",
-      "url": "https://open.spotify.com/track/74N8QkVmJgLKXMqHS27I3T"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Bodies On The Floor",
         "url": "https://open.spotify.com/album/3X57zDMPmxlGxotK7sglDC"
@@ -317,163 +317,47 @@
       "url": "https://open.spotify.com/track/5v9iamIiq4WjdrAvbnVu0J"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
-        "name": "Patient Zero",
-        "url": "https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA"
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3XMVlFrLX0Q5Ilo7KtfXx4"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 312320,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
+      "duration_ms": 191914,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/5RPsgkGUhQ4hCNNK7PDnqV"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
-        "name": "Ronroneame",
-        "url": "https://open.spotify.com/album/0JIpaLez0tmyqk0JF3lfwX"
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/39w9lg3tLM6zlw2jMO8RpT"
       },
       "artists": [
         {
-          "name": "Dj Drewther",
-          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         },
         {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         },
-        {
-          "name": "LA FAMA",
-          "url": "https://open.spotify.com/artist/05LiGpQaK746ULVzjzLgZ3"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Ronroneame",
-      "url": "https://open.spotify.com/track/1CnVgNFkIJELALhLn5ybp0"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "P\u00f3s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HyHBYqcPS2puQgxsyiSUG"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 174528,
-      "name": "P\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/7t1kcoPi9F9ZNWbcz88mNJ"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Tarantino",
-        "url": "https://open.spotify.com/album/432OhdhmmtJ3QpL17Fhmj2"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 216981,
-      "name": "Tarantino",
-      "url": "https://open.spotify.com/track/1b04N0KEgpaHPwmk38yzgQ"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/49aMeANi1xcwJ6NgcvoQ3E"
-      },
-      "artists": [
         {
           "name": "KATSEYE",
           "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 191074,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/4j3YeF9Jll295K6dIvA7gR"
+      "duration_ms": 199540,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fjpEALt0aBcM2rQZtlHHe"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/79Y6nRU3x2vkaSjTfWIUzT"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/2N9Ph3q44rrDoGzG0fWVxL"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Max Styler - Live at Portola Music Festival",
-        "url": "https://open.spotify.com/album/0xqUfLT7iJbrRQtsnKtsp8"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 4743082,
-      "name": "Max Styler - Live at Portola Music Festival",
-      "url": "https://open.spotify.com/track/333Kt2zzWgHpW0BJtyPXiY"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "SWIM (Live at Pier 17) | Presented by Spotify",
-        "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 162163,
-      "name": "SWIM (Live at Pier 17) | Presented by Spotify",
-      "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "NEON",
-        "url": "https://open.spotify.com/album/7xws1ukY6rom1XiNMkqymW"
-      },
-      "artists": [
-        {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
-          "name": "A2O LITE",
-          "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
-        }
-      ],
-      "duration_ms": 222485,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/7jxvTuayRsXvlmh2U0L7yf"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Cuando El Agua Hirviendo (En Vivo desde Colombia)",
         "url": "https://open.spotify.com/album/16kFcLCCypyiltgpLUo0Ac"
@@ -493,7 +377,39 @@
       "url": "https://open.spotify.com/track/7vqgovQZfgD6po0vU2uwCv"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Hootie Frutti",
+        "url": "https://open.spotify.com/album/2rPaL00arekWCIcHG319Mo"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 153174,
+      "name": "Hootie Frutti",
+      "url": "https://open.spotify.com/track/7tN8t1hdcS2VF7aSakMfOT"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Max Styler - Live at Portola Music Festival",
+        "url": "https://open.spotify.com/album/0xqUfLT7iJbrRQtsnKtsp8"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 4743082,
+      "name": "Max Styler - Live at Portola Music Festival",
+      "url": "https://open.spotify.com/track/333Kt2zzWgHpW0BJtyPXiY"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Solar Eclipse",
         "url": "https://open.spotify.com/album/23u1az0GHfnvl6IhBo2ysD"
@@ -513,7 +429,23 @@
       "url": "https://open.spotify.com/track/2i7UeRxnQjnNaDXFf1K8K0"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/31iTpQCIEaHrv3WxPfurxD"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 162163,
+      "name": "SWIM (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/0KWuWlRY6IRCWUS7IJ2ObH"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "2.0 (Live at Pier 17) | Presented by Spotify",
         "url": "https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih"
@@ -529,23 +461,7 @@
       "url": "https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "La Buena y la Mala",
-        "url": "https://open.spotify.com/album/1Th1aFLIGznn6rziQvoce9"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 295741,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Quebec",
         "url": "https://open.spotify.com/album/0L6bQfeKp1m44vTfPERNCr"
@@ -561,23 +477,43 @@
       "url": "https://open.spotify.com/track/2ob7ZotnJQiHcmbERf0OZR"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/6RkgHosq3aLKkpaSuFWvek"
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/0KtMqHPyc0L7unLa6wcKsA"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 821888,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/2PjOCtFhCh6rIotqFnuXWt"
+      "duration_ms": 312320,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/5Aats2q7uoe1GDBAgNoS3L"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/7xws1ukY6rom1XiNMkqymW"
+      },
+      "artists": [
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        },
+        {
+          "name": "A2O LITE",
+          "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        }
+      ],
+      "duration_ms": 222485,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/7jxvTuayRsXvlmh2U0L7yf"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "El Hombre Que Yo Amo | Noches de Latinaje",
         "url": "https://open.spotify.com/album/6e82QSaCnzksZdjn2PxC6W"
@@ -593,7 +529,55 @@
       "url": "https://open.spotify.com/track/6cBR9nuVWBMVqRsZOpmu5R"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 191305,
+      "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/79Y6nRU3x2vkaSjTfWIUzT"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/2N9Ph3q44rrDoGzG0fWVxL"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/49aMeANi1xcwJ6NgcvoQ3E"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 191074,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/4j3YeF9Jll295K6dIvA7gR"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "expectations (feat. Chappell Roan) [wheel of misfortune]",
         "url": "https://open.spotify.com/album/3DmosjgRTNQrOa5AyMw8Ss"
@@ -613,171 +597,47 @@
       "url": "https://open.spotify.com/track/4JitNOIelgPCMf5aF3tZtL"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
-        "name": "Olimpo",
-        "url": "https://open.spotify.com/album/7sjWvRS0ryfcK76KFJwHBA"
+        "name": "Cold Shoulder",
+        "url": "https://open.spotify.com/album/6wCOqXBibiO2nuue5y7c0d"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 152318,
-      "name": "Olimpo",
-      "url": "https://open.spotify.com/track/0CkdeezVG7sqiFlWDnIUhd"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "De Lejitos",
-        "url": "https://open.spotify.com/album/3xfL6j7HGlK4EEPCX1J3TY"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 278378,
-      "name": "De Lejitos - Remix",
-      "url": "https://open.spotify.com/track/0Yfh01HYCPRmp6k4iJWKvO"
+      "duration_ms": 245169,
+      "name": "Cold Shoulder",
+      "url": "https://open.spotify.com/track/3bsa6vaFDGt0KlE8540RWO"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ"
+        "name": "P\u00f3s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HyHBYqcPS2puQgxsyiSUG"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
         }
       ],
-      "duration_ms": 421269,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
+      "duration_ms": 174528,
+      "name": "P\u00f3s - Ao Vivo",
+      "url": "https://open.spotify.com/track/7t1kcoPi9F9ZNWbcz88mNJ"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
-        "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 191305,
-      "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
-      "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "RIKI",
-        "url": "https://open.spotify.com/album/4nJS5vylDAVo1pPgYYwCR8"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "RIKI",
-      "url": "https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "The Happy Song",
-        "url": "https://open.spotify.com/album/7yXL5f1zaLiL8DOiewjU5m"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 157802,
-      "name": "The Happy Song",
-      "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/2yhoWluUtfdJlHawUXUDcS"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 300091,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/3idrvUQYONMAJ6EgZZqiL8"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "It's me, It's Verity",
-        "url": "https://open.spotify.com/album/5rT9iD21yKcSvhFRJjNPuh"
-      },
-      "artists": [
-        {
-          "name": "Horror Skunx",
-          "url": "https://open.spotify.com/artist/56kBbyoswdV9TOr9Tnk7Kc"
-        }
-      ],
-      "duration_ms": 122837,
-      "name": "It's me, It's Verity",
-      "url": "https://open.spotify.com/track/4SEb6rMxymW43Mi2zmKMvp"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "the cure",
-        "url": "https://open.spotify.com/album/2QKCMUiu4LeOVN7fVIa22y"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 314238,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/6aedim7Xd6XWqFDfv6z1Vx"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "SEKSMISJA",
-        "url": "https://open.spotify.com/album/5zEA7eyUClBacCod3f6YyA"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        }
-      ],
-      "duration_ms": 150016,
-      "name": "SEKSMISJA",
-      "url": "https://open.spotify.com/track/3GCKHRvmRWZmBTRL555N10"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "NORMAL",
         "url": "https://open.spotify.com/album/5z3P0hbd1B5KDdAmRqeW5W"
@@ -793,7 +653,167 @@
       "url": "https://open.spotify.com/track/11RWNnTwBIdmqaJsKzFUqJ"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Tarantino",
+        "url": "https://open.spotify.com/album/432OhdhmmtJ3QpL17Fhmj2"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 216981,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/1b04N0KEgpaHPwmk38yzgQ"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "La Buena y la Mala",
+        "url": "https://open.spotify.com/album/1Th1aFLIGznn6rziQvoce9"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 295741,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Olimpo",
+        "url": "https://open.spotify.com/album/7sjWvRS0ryfcK76KFJwHBA"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 152318,
+      "name": "Olimpo",
+      "url": "https://open.spotify.com/track/0CkdeezVG7sqiFlWDnIUhd"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "SEKSMISJA",
+        "url": "https://open.spotify.com/album/5zEA7eyUClBacCod3f6YyA"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "duration_ms": 150016,
+      "name": "SEKSMISJA",
+      "url": "https://open.spotify.com/track/3GCKHRvmRWZmBTRL555N10"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/2yhoWluUtfdJlHawUXUDcS"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 300091,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3idrvUQYONMAJ6EgZZqiL8"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 421269,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "The Happy Song",
+        "url": "https://open.spotify.com/album/7yXL5f1zaLiL8DOiewjU5m"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 157802,
+      "name": "The Happy Song",
+      "url": "https://open.spotify.com/track/6rGCAmKx251e3P77NPc1LP"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "It's Me",
+        "url": "https://open.spotify.com/album/5RA8rcgYD1RCgdZgzgP8nE"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/6RkgHosq3aLKkpaSuFWvek"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 821888,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2PjOCtFhCh6rIotqFnuXWt"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/4egY3G4LzzPQkZdQqZpml1"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/1up4cFkXeURS0cPQohUdfL"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Unloveu (Official Visual)",
         "url": "https://open.spotify.com/album/1csxQmoNmglrG2llbjQyaU"
@@ -809,55 +829,7 @@
       "url": "https://open.spotify.com/track/6kAsEs1uckPjz41spirAda"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Pvta Luna",
-        "url": "https://open.spotify.com/album/6shmO9ld9Wb5gNrzyoRJGQ"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 197982,
-      "name": "Pvta Luna",
-      "url": "https://open.spotify.com/track/1zOjLMZbfWmfvYnfjts90x"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/0mNm47hEXguEnMwoEimmX3"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/6mqa7AXnaRd2q77yGmRHE9"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
-      "album": {
-        "name": "Billie Jean",
-        "url": "https://open.spotify.com/album/0mV7pWZ1l0UzouNhXs6mgw"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 295850,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
-    },
-    {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
         "name": "Stop The Wedding!",
         "url": "https://open.spotify.com/album/6SoOItn8A9lwORTSuoVa1X"
@@ -873,20 +845,52 @@
       "url": "https://open.spotify.com/track/4aMJ34GZtHbDu5rolkF0Hy"
     },
     {
-      "added_at": "2026-10-26 13:43:53",
+      "added_at": "2026-10-27 14:02:40",
       "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/5F2B0mVrS5GdhKMc6GBhox"
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/2QKCMUiu4LeOVN7fVIa22y"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 293376,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
+      "duration_ms": 314238,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/6aedim7Xd6XWqFDfv6z1Vx"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "SWIM",
+        "url": "https://open.spotify.com/album/6B8uj8wlhlhFMMK2cVf5Ga"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 236766,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib"
+    },
+    {
+      "added_at": "2026-10-27 14:02:40",
+      "album": {
+        "name": "RIKI",
+        "url": "https://open.spotify.com/album/4nJS5vylDAVo1pPgYYwCR8"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "RIKI",
+      "url": "https://open.spotify.com/track/28kHu9mE8Z6YbBOBXUOJtO"
     }
   ],
   "unique_name": "Music Video Charts - Global",

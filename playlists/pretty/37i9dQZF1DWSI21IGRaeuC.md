@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,298 likes - 115 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,385 likes - 115 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PEOPLE IN THE PLACE](https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu) | [A.B.C.](https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [PEOPLE IN THE PLACE](https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ) | 3:23 |
+| 1 | [Zoolander](https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Zoolander](https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53) | 2:58 |
 | 2 | [Let's Get This](https://open.spotify.com/track/5FCtVeCG1dsTqfDHkyALR2) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM) | [Let's Get This](https://open.spotify.com/album/2XhzW3VGsoQtv0cTR5Xucu) | 3:10 |
 | 3 | [What Would I Do](https://open.spotify.com/track/0C9gQPONf0dK64fRDP2x95) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Are You Still You?](https://open.spotify.com/album/3SBdqRaqdqhTvvewlVoCQN) | 3:45 |
-| 4 | [Zoolander](https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Zoolander](https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53) | 2:58 |
-| 5 | [Over You](https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Breaking Point EP](https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK) | 3:05 |
+| 4 | [Over You](https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Breaking Point EP](https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK) | 3:05 |
+| 5 | [PEOPLE IN THE PLACE](https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu) | [A.B.C.](https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [PEOPLE IN THE PLACE](https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ) | 3:23 |
 | 6 | [Hey Everybody \- L.P\. Rhythm Remix](https://open.spotify.com/track/1Yx7mkfQ1etpKWcxovRRci) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry), [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Hey Everybody \(L.P\. Rhythm Remix\)](https://open.spotify.com/album/4HKBEdJCnCiPw18llmrqP2) | 3:18 |
 | 7 | [Bad Love](https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Bad Love](https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ) | 3:01 |
 | 8 | [Keep Me Hype](https://open.spotify.com/track/3J5dFmwhCWcHUWN4mgYbGc) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Keep Me Hype](https://open.spotify.com/album/39neqJUaCaf9trF9vt9a6N) | 3:40 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [I Never Knew \- Shiba San Remix](https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa), [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [I Never Knew \(Shiba San Remix\)](https://open.spotify.com/album/1eVixJvu9p4VrdjT5lmhdp) | 2:38 |
 | 115 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 
-Snapshot ID: `AAAAAKe76kn88UAKr04LKnjWRF9Xf18k`
+Snapshot ID: `AAAAAIx5+GkXY7xrXs3IHy5K7CXuv7iK`

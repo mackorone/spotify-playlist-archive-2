@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-174 songs - 13 hr 6 min
+175 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Be mine!](https://open.spotify.com/track/7h89okKQovZ0Dw2SXGnaDW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:02 | 2022-08-10 |  |
 | [birds](https://open.spotify.com/track/4LJiorJdPtMw2zXjfceIfD) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 5:31 | 2022-08-10 | 2026-07-14 |
 | [bitter sweet](https://open.spotify.com/track/0iTj35gQ63rzonSmuHg7kx) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 5:14 | 2024-03-31 | 2024-04-02 |
-| [blind summer fish](https://open.spotify.com/track/5RCbiXSR2r2cw3KcPk8wQZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 3:54 | 2022-08-11 |  |
+| [blind summer fish](https://open.spotify.com/track/5RCbiXSR2r2cw3KcPk8wQZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 3:54 | 2022-08-11 | 2026-10-28 |
 | [blind summer fish](https://open.spotify.com/track/6ob9O2Kph2iuPzxynvelt0) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 3:56 | 2025-10-28 | 2026-07-08 |
 | [Break Free \- Japan Version](https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Tsukasa Saito](https://open.spotify.com/artist/0gpOzMyESiSTYaACIWLZW2) | [Sing 2 \(Original Motion Picture Soundtrack\) \[Alternate Version\]](https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E) | 1:32 | 2022-08-10 |  |
 | [Buddy](https://open.spotify.com/track/63yhabD7LEXoY6gLoI14Z2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:00 | 2022-08-10 |  |
@@ -45,6 +45,7 @@
 | [Mada Tooku ni Iru](https://open.spotify.com/track/1jyGzTc5hANtXv3cYhBxbp) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOW Original Animation "The Fire Hunter" Ending Theme Song / TV Animation "REVENGER" Ending Theme Song Mada Tooku ni Iru / un\_mute](https://open.spotify.com/album/4N1Iw4L0uoPVrjNl3GfZPn) | 5:14 | 2023-03-22 | 2023-04-06 |
 | [MAP for LOVE](https://open.spotify.com/track/5zFVf5N47rMPLuq7vvc5S1) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [KENTO NAGATSUKA \(WONK\)](https://open.spotify.com/artist/6JneWS8m6ZNGjIO4LA8zHQ), [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK), [Petrolz](https://open.spotify.com/artist/1DI7HK9920SYDDcxXPWeWw), [Naz](https://open.spotify.com/artist/6kImBuGqfeArVBGal435PO), [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi), [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj), [吉田 沙良](https://open.spotify.com/artist/5E60nUd5cJsjVAG6eJ1qmy), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [KANDYTOWN](https://open.spotify.com/artist/7mHhol5QNVG1q32KBz8Xi1) | [MAP for LOVE](https://open.spotify.com/album/5cm2ehQJ6mh9upvgvRno59) | 4:47 | 2022-08-10 |  |
 | [Million Clouds](https://open.spotify.com/track/3AXxeu6r2EvXgndlh7aKRf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 4:58 | 2022-08-10 | 2026-04-28 |
+| [Million Clouds](https://open.spotify.com/track/5tmIxhnUQKXiGLQIvZyDNJ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Million Clouds](https://open.spotify.com/album/0md2WALTwXeeDP4nXfqKCA) | 4:58 | 2026-10-28 |  |
 | [Naimononedari](https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11th Album Kioku no Toshokan](https://open.spotify.com/album/6fMoOjoupQC9dszgcKkhj6) | 4:05 | 2023-06-24 | 2023-08-03 |
 | [nina](https://open.spotify.com/track/5zBNxp7XbaKCJohPBMRj8Y) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [nina](https://open.spotify.com/album/5uNF7eY9DrpUoEJ1n4vpAC) | 4:33 | 2024-10-20 | 2025-02-19 |
 | [nina](https://open.spotify.com/track/6Eg8Oyxo1VWL1MW3JS8Yic) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [nina](https://open.spotify.com/album/1PopiddsH4mNWSqGql076Z) | 4:33 | 2024-10-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 57233,
+  "num_followers": 57224,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIrCJShkXBJEem9y6ppwtIkp/UHju8",
+  "snapshot_id": "AAAIrRal/K/nuO6n4TLI6szChRcD+Leb",
   "tracks": [
     {
       "added_at": "2026-06-18 13:50:44",
@@ -55,6 +55,22 @@
       "duration_ms": 226253,
       "name": "Alcova",
       "url": "https://open.spotify.com/track/1rrcZgdbmO10QMRo2LkQfu"
+    },
+    {
+      "added_at": "2026-10-27 16:36:36",
+      "album": {
+        "name": "Solace and the Wave",
+        "url": "https://open.spotify.com/album/2YoU6JxXNWU9McsduPuWQD"
+      },
+      "artists": [
+        {
+          "name": "Christos Anagnostou Daly",
+          "url": "https://open.spotify.com/artist/5huLw96Tfgkm4QQDWtTkod"
+        }
+      ],
+      "duration_ms": 91088,
+      "name": "Hymn to Orion",
+      "url": "https://open.spotify.com/track/1t83lquye5yfN4IJU8IN0a"
     },
     {
       "added_at": "2026-05-25 18:03:30",

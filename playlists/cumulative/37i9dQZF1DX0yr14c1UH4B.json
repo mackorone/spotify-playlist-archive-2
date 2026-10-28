@@ -18721,6 +18721,24 @@
     },
     {
       "album": {
+        "name": "When You\u2019re Here",
+        "url": "https://open.spotify.com/album/2gWDHfORewgZYmvtHQZsDa"
+      },
+      "artists": [
+        {
+          "name": "Florence Rose Broomfield",
+          "url": "https://open.spotify.com/artist/6rkzTIEcx03p1nmHoo3uSZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164498,
+      "name": "When You\u2019re Here",
+      "url": "https://open.spotify.com/track/26ZyOmsahjpLYw9hJkb9rV"
+    },
+    {
+      "album": {
         "name": "Where Have You Been",
         "url": "https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y"
       },

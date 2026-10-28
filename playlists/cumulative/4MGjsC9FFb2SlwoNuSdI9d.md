@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-309 songs - 16 hr 53 min
+311 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 | 2025-05-30 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-19 | 2024-12-18 |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2024-07-23 |  |
+| [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 | 2026-10-27 |  |
 | [Feather](https://open.spotify.com/track/2ESbXlYrHN88KwqcIjsljW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/6a55CzD7q7fcHz9B8IGO0p) | 3:05 | 2024-01-24 | 2024-11-09 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-26 | 2025-10-02 |
 | [fence sitter](https://open.spotify.com/track/3EOlgESZdhj7hSHEwR4r5T) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [fence sitter](https://open.spotify.com/album/0a2FgMMrUzwsnVBqpbVSkk) | 3:38 | 2025-10-24 |  |
@@ -95,6 +96,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-19 | 2025-04-23 |
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-11-28 | 2025-10-02 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-12-17 | 2025-10-02 |
+| [Hallucinating](https://open.spotify.com/track/3stwOzw3rk7g8Et43UvIVw) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hallucinating](https://open.spotify.com/album/3VQpTlLYpOhFbtbPSQQuBS) | 2:36 | 2026-10-27 |  |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-27 | 2024-10-26 |
 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-06-26 |  |
 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 | 2026-09-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 250545,
+  "num_followers": 250552,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABxL6hLY1R3OkoGxuDODkkY",
+  "snapshot_id": "at1GgAAAAACrdmUseh1AE4RuAKyLBzFM",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 230690,
+      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 293640,
       "name": "Doxy - RVG Remastered 2008",
       "url": "https://open.spotify.com/track/3vZIYc2V9Ql80jWI2ZApEC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 230690,
-      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
         "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 168512,
       "name": "G\u00e9n\u00e9rique - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 172330,
+      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 317920,
       "name": "It Never Entered My Mind (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) - Live at Pasadena Civic Auditorium, Pasadena, CA - February 1956",
       "url": "https://open.spotify.com/track/59ocXoyxNMb1FtL3SOUZhE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 172330,
-      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 129861,
+      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Columbia Studio Recordings",
         "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 30693,
       "name": "Studio Discussion - One",
       "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 129861,
-      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miles Ahead (Expanded Edition)",
         "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214866,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
     },
     {
       "added_at": null,
@@ -935,38 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Steps To Heaven (2023 Remaster)",
-        "url": "https://open.spotify.com/album/625H2ZomGelxwZcrpFqLA7"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 385554,
-      "name": "Seven Steps to Heaven (2023 Remaster)",
-      "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "The Doo-Bop Song",
-      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
@@ -999,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
       },
       "artists": [
         {
@@ -1008,9 +976,25 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 316666,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+      "duration_ms": 297440,
+      "name": "The Doo-Bop Song",
+      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Steps To Heaven (2023 Remaster)",
+        "url": "https://open.spotify.com/album/625H2ZomGelxwZcrpFqLA7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 385554,
+      "name": "Seven Steps to Heaven (2023 Remaster)",
+      "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
     },
     {
       "added_at": null,
@@ -1043,6 +1027,22 @@
       "duration_ms": 299680,
       "name": "Airegin - RVG Remastered 2008",
       "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
     },
     {
       "added_at": null,

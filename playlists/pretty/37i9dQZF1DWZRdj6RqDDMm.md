@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,474 likes - 104 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,508 likes - 104 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

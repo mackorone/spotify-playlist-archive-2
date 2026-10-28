@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,506 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,582 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Update](https://open.spotify.com/track/6WO22RY0WWcN4yKcQb0h32) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:27 |
 | 50 | [Donne\-moi l’accord](https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 3:06 |
 
-Snapshot ID: `atv1AAAAAAArFVBhomaS69Ed2XMLCCFs`
+Snapshot ID: `at1GgAAAAAChmL63f9Hv9bd3/I1Xs2iS`

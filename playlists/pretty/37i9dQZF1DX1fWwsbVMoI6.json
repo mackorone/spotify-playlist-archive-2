@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Coraz\u00f3n Serrano, Maria Becerra",
-  "num_followers": 136181,
+  "num_followers": 136201,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "Me extra\u00f1ar\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O"
-      },
-      "artists": [
-        {
-          "name": "Josimar",
-          "url": "https://open.spotify.com/artist/2NXFOzrOxa9fgFrAkHoSjy"
-        },
-        {
-          "name": "Orquesta Caribe\u00f1os de Guadalupe",
-          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Me extra\u00f1ar\u00e1s (En Vivo)",
-      "url": "https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf"
-    },
-    {
-      "added_at": "2026-05-15 05:35:32",
-      "album": {
         "name": "Nuestros 30 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 336683,
       "name": "Tu Ausencia - En Vivo",
       "url": "https://open.spotify.com/track/4Vy8gFPwZHuR35cwlYNoSE"
+    },
+    {
+      "added_at": "2026-05-15 05:35:32",
+      "album": {
+        "name": "Me extra\u00f1ar\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O"
+      },
+      "artists": [
+        {
+          "name": "Josimar",
+          "url": "https://open.spotify.com/artist/2NXFOzrOxa9fgFrAkHoSjy"
+        },
+        {
+          "name": "Orquesta Caribe\u00f1os de Guadalupe",
+          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Me extra\u00f1ar\u00e1s (En Vivo)",
+      "url": "https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf"
     },
     {
       "added_at": "2026-05-15 05:35:32",

@@ -1,12 +1,12 @@
 {
   "description": "Experience the magic of \"Do Din Ki Zindagi\" from Gunmaaster G9. Listen now.",
-  "num_followers": 1021856,
+  "num_followers": 1021866,
   "original_name": "New Music Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALj7HumTDUhuoKVxpE0khHUEBoEz",
+  "snapshot_id": "AAAAAChy/lx0an7h66TWFkyC9LroDXKP",
   "tracks": [
     {
       "added_at": "2026-10-14 07:57:48",
@@ -203,6 +203,38 @@
       "duration_ms": 178954,
       "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
       "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
+    },
+    {
+      "added_at": "2026-10-27 06:00:12",
+      "album": {
+        "name": "Begum Bewafa",
+        "url": "https://open.spotify.com/album/65Gw1nv5mLtjqmXO2A3oRm"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Bosco Martis",
+          "url": "https://open.spotify.com/artist/5qVpAfbVV2piAEmvBN6lM3"
+        },
+        {
+          "name": "Vishie",
+          "url": "https://open.spotify.com/artist/3PzLoTHqzr7DXg9WjOfB0P"
+        },
+        {
+          "name": "Vikas Bedi",
+          "url": "https://open.spotify.com/artist/3z0eudbRd8LIgD8xdDytwR"
+        },
+        {
+          "name": "Aditya Seal",
+          "url": "https://open.spotify.com/artist/1XmlMxJ5lJczAm2OXNg7u6"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Begum Bewafa",
+      "url": "https://open.spotify.com/track/5IhCyob5jpVIp8RyIK2AYK"
     },
     {
       "added_at": "2026-10-23 04:21:45",
@@ -1431,26 +1463,6 @@
       "duration_ms": 156500,
       "name": "Kasoor",
       "url": "https://open.spotify.com/track/35eeeFZ1sL1tAuu1Te0Vcj"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Ashiyan",
-        "url": "https://open.spotify.com/album/5NN1qjh2s9SNlpBvaUBLu3"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        },
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Ashiyan",
-      "url": "https://open.spotify.com/track/3ngKN1xEDe8fdMYtaQ16c9"
     },
     {
       "added_at": "2026-10-12 04:32:59",

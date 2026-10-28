@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Joya Marleen
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,776 likes - 91 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,733 likes - 91 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

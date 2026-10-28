@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 199109,
+  "num_followers": 199125,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAADpzu+y3On0RwbubF4quoHH",
+  "snapshot_id": "at1GgAAAAACdmG7x+uySBCloYAeXotBp",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Can Anyone Explain?",
-      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo In Style (Expanded Edition)",
         "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 156333,
       "name": "Spooks",
       "url": "https://open.spotify.com/track/5WJ0I8oaf1XYrxwVr0Fp7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Can Anyone Explain?",
+      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
-        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
+        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
+        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
+      "duration_ms": 191200,
+      "name": "The Skeleton In The Closet - Single Version",
+      "url": "https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
-        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
+        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
+        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 191200,
-      "name": "The Skeleton In The Closet - Single Version",
-      "url": "https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU"
+      "duration_ms": 240040,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 133266,
+      "name": "I Still Get Jealous",
+      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satchmo Sings",
         "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
@@ -863,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
@@ -872,9 +888,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 133266,
-      "name": "I Still Get Jealous",
-      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 119026,
       "name": "Give Me Your Kisses",
       "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": null,

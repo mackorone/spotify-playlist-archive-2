@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,582 likes - 47 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,591 likes - 47 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 46 | [Vibes Alive](https://open.spotify.com/track/7yOOIQQe46Ycy31neFu6JR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 4:48 |
 | 47 | [Fight the Feeling](https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs) | 5:02 |
 
-Snapshot ID: `atv1AAAAAADavfQFSEzCdDBBWslb8y28`
+Snapshot ID: `at1GgAAAAAC4Vxw2IsAgMCoPO2PEKSdC`

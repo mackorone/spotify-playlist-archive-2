@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 113 songs - 6 hr 48 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 115 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 111 | [Judy Joan & Buffy](https://open.spotify.com/track/36hIAapeAhnxCpnPNYvnPe) | [Marvin Conan](https://open.spotify.com/artist/5mNwzKcw5pJsCw9F9hZdrk), [Victoria Bebee](https://open.spotify.com/artist/2yT9qgdKWBDf5V08wu3kpZ) | [Judy Joan & Buffy](https://open.spotify.com/album/7bAUDNCF8yrz0YAfdUqwSR) | 3:17 |
 | 112 | [De ti](https://open.spotify.com/track/0G3RpCIyrivV1Iwslpd4sr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 2:29 |
 | 113 | [Será El Futuro](https://open.spotify.com/track/6PUj3A7seDMYewKxmwIUMW) | [Dakerons](https://open.spotify.com/artist/3qzEIIPRfOGd2aNRR9aucw) | [Será El Futuro](https://open.spotify.com/album/6oKluKihoosfoRV7et1q3S) | 3:26 |
+| 114 | [You Said I'd Never Change](https://open.spotify.com/track/7xqDHEpl8ePbstLUxRNcVQ) | [Hayden Brenen](https://open.spotify.com/artist/7BKiPDmASIDU9i6vFRdPta) | [You Said I'd Never Change](https://open.spotify.com/album/3myktVBzu7WblturEcPP5N) | 3:40 |
+| 115 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 |
 
-Snapshot ID: `AAAZGTlUfKGvr2knvwPWLv4wX8DV5Ohh`
+Snapshot ID: `AAAZG7B9cpqV2pXDwo0+iW4F41iRZdUp`

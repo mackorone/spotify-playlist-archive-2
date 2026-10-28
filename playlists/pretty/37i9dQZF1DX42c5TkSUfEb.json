@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 1069639,
+  "num_followers": 1069583,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 168756,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "MISS ME",
-        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "MISS ME",
-      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Sing",
-        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 371580,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
+      "duration_ms": 236533,
+      "name": "Anyone Who Loves Me",
+      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 236533,
-      "name": "Anyone Who Loves Me",
-      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
+      "duration_ms": 371580,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "We Were Only Young",
-        "url": "https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "All I\u2019ll Ever Need",
-      "url": "https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Ambiguous Desire (Deluxe)",
-        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
+        "name": "We Were Only Young",
+        "url": "https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 194473,
-      "name": "waiting for me",
-      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
+      "duration_ms": 135000,
+      "name": "All I\u2019ll Ever Need",
+      "url": "https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -703,6 +687,22 @@
       "duration_ms": 234644,
       "name": "The Meaning of Flowers",
       "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Ambiguous Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 194473,
+      "name": "waiting for me",
+      "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Only Gets Better",
-        "url": "https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 234582,
-      "name": "Only Gets Better",
-      "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Yael Na\u00efm",
         "url": "https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 225106,
       "name": "New Soul",
       "url": "https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Only Gets Better",
+        "url": "https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 234582,
+      "name": "Only Gets Better",
+      "url": "https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "valley of my prime",
+        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 207702,
+      "name": "the way you do",
+      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "Confirmation!",
         "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 164611,
       "name": "2Love (feat. FAUZIA)",
       "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "valley of my prime",
-        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 207702,
-      "name": "the way you do",
-      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Sonatine",
         "url": "https://open.spotify.com/album/7AcWGi1C89qBpeUduBwoDb"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "Beautiful Thingz",
         "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 208031,
       "name": "Beautiful Thingz",
       "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 174088,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1295,22 +1311,6 @@
       "duration_ms": 264880,
       "name": "Il neige",
       "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 174088,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "On dansera encore",
+        "url": "https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "duration_ms": 182770,
+      "name": "On dansera encore",
+      "url": "https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "Paris-Madrid",
         "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "On dansera encore",
-        "url": "https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo"
-      },
-      "artists": [
-        {
-          "name": "Steve Ibrahim",
-          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
-        }
-      ],
-      "duration_ms": 182770,
-      "name": "On dansera encore",
-      "url": "https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "only human",
         "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Rupture (Version acoustique)",
-        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
+        "name": "tired",
+        "url": "https://open.spotify.com/album/6gcpcA8kop087FU6dtUqPE"
       },
       "artists": [
         {
-          "name": "Laurie Darmon",
-          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+          "name": "Felix Antonio",
+          "url": "https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ"
         }
       ],
-      "duration_ms": 150896,
-      "name": "Rupture (Version acoustique)",
-      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
+      "duration_ms": 193177,
+      "name": "tired",
+      "url": "https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg"
     }
   ],
   "unique_name": "Au calme",

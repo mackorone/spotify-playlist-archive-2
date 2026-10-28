@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-814 songs - 3 day 3 hr 2 min
+815 songs - 3 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Hybrid Sounds](https://open.spotify.com/track/73LEqnV0JnO1a41qxdkgn3) | [Schwarz Avni](https://open.spotify.com/artist/001UurAm0cIXxR0hrqMepQ), [Tiefschwarz](https://open.spotify.com/artist/6f2k5CwVLvTy0rgw6Q8B4Q), [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Hybrid Sounds](https://open.spotify.com/album/29dvlndPExjenFcc4Tuuez) | 7:45 | 2019-08-06\* | 2020-02-09 |
 | [Hypercolour](https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt), [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Hypercolour](https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu) | 3:29 | 2020-07-18 | 2022-11-26 |
 | [Hypnotease](https://open.spotify.com/track/4v4yMDQ3eO8uVSYRysgcyQ) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Hypnotease](https://open.spotify.com/album/4fT1pJeDDNgdpIXXVUoiQS) | 5:46 | 2022-01-14 | 2022-07-29 |
+| [Hypnotize](https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Hypnotize](https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR) | 3:15 | 2026-10-23 |  |
 | [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 | 2026-07-03 | 2026-10-25 |
 | [I Don't Need You](https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:04 | 2022-10-28 | 2023-04-16 |
 | [I Don't Need You](https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:04 | 2023-04-05 | 2024-04-19 |
@@ -590,7 +591,7 @@
 | [Ride](https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Petrichor](https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg) | 3:46 | 2025-11-14 | 2026-05-01 |
 | [Rise](https://open.spotify.com/track/2T6HSzlpifC3xI3KrGH5qW) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Rise](https://open.spotify.com/album/70DoinQcYKdnaWSIxpQP3F) | 6:40 | 2020-04-15 | 2020-08-08 |
 | [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2020-10-03 | 2022-10-01 |
-| [Rivers and Homes Retake](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 | 2026-05-01 |  |
+| [Rivers and Homes Retake](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 | 2026-05-01 | 2026-10-28 |
 | [Roth \(feat\. Mohna\)](https://open.spotify.com/track/3cHeh5OWgYyWI8xz8ndOeW) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mohna](https://open.spotify.com/artist/3azqDB8c8zEOTBscxif1gU) | [Lys](https://open.spotify.com/album/5yssg2eFopmzstxvyFbrBT) | 5:57 | 2020-03-25 | 2021-10-12 |
 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 | 2021-06-20 | 2023-07-01 |
 | [Running Up That Hill](https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Running Up That Hill](https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF) | 3:29 | 2025-08-08 | 2025-11-12 |

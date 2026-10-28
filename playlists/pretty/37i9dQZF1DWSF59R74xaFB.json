@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...  \ud83d\udc96Andr\u00e9 Beltr\u00e1n en portada.",
-  "num_followers": 558669,
+  "num_followers": 558686,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-10-16 15:40:37",
       "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "added_at": "2026-10-16 15:40:37",
+      "album": {
         "name": "Destino o casualidad",
         "url": "https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 258504,
       "name": "Destino o casualidad",
       "url": "https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ"
-    },
-    {
-      "added_at": "2026-10-16 15:40:37",
-      "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
     },
     {
       "added_at": "2026-10-16 15:40:37",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-10-16 15:40:37",
       "album": {
-        "name": "Lo Que Siempre So\u00f1amos Ser",
-        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
-      },
-      "artists": [
-        {
-          "name": "Sandoval",
-          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "A quien t\u00fa decidiste amar",
-      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
-    },
-    {
-      "added_at": "2026-10-16 15:40:37",
-      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215112,
       "name": "Ecos De Amor",
       "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
+    },
+    {
+      "added_at": "2026-10-16 15:40:37",
+      "album": {
+        "name": "Lo Que Siempre So\u00f1amos Ser",
+        "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
+      },
+      "artists": [
+        {
+          "name": "Sandoval",
+          "url": "https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "A quien t\u00fa decidiste amar",
+      "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
     },
     {
       "added_at": "2026-10-16 15:40:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-16 15:40:37",
       "album": {
-        "name": "Yahir",
-        "url": "https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6"
-      },
-      "artists": [
-        {
-          "name": "Yahir",
-          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Alucinado",
-      "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
-    },
-    {
-      "added_at": "2026-10-16 15:40:37",
-      "album": {
         "name": "Yo Creo",
         "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 211946,
       "name": "\u00bfC\u00f3mo Pagarte?",
       "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
+    },
+    {
+      "added_at": "2026-10-16 15:40:37",
+      "album": {
+        "name": "Yahir",
+        "url": "https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6"
+      },
+      "artists": [
+        {
+          "name": "Yahir",
+          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Alucinado",
+      "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
     },
     {
       "added_at": "2026-10-16 15:40:37",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-10-16 15:40:37",
       "album": {
-        "name": "Caballero",
-        "url": "https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
-    },
-    {
-      "added_at": "2026-10-16 15:40:37",
-      "album": {
         "name": "PLIS",
         "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
+    },
+    {
+      "added_at": "2026-10-16 15:40:37",
+      "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/5DL6BDuqhnQw8HfIvUYkm9"
     },
     {
       "added_at": "2026-10-16 15:40:37",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-10-16 15:40:37",
       "album": {
-        "name": "Eso Y M\u00e1s",
-        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
-    },
-    {
-      "added_at": "2026-10-16 15:40:37",
-      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 274680,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX"
+    },
+    {
+      "added_at": "2026-10-16 15:40:37",
+      "album": {
+        "name": "Eso Y M\u00e1s",
+        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

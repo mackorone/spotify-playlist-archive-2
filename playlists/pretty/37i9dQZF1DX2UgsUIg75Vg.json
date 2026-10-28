@@ -1,12 +1,12 @@
 {
   "description": "Chill r&b. Cover: Gabriel Jacoby",
-  "num_followers": 2366035,
+  "num_followers": 2365924,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZ/McWSr/EuY3wSm8NPBcTYbueM",
+  "snapshot_id": "AAAAAPIJsmVsGr7x57xfJL7aeeaxCCHx",
   "tracks": [
     {
       "added_at": "2026-10-16 05:16:22",
@@ -253,6 +253,42 @@
       "url": "https://open.spotify.com/track/4tX7t9p8jMLMsou83f6FLm"
     },
     {
+      "added_at": "2026-10-09 06:23:09",
+      "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "Catch Me If You Can - feat. JID",
+      "url": "https://open.spotify.com/track/1NnuJJhYaiY5sRaanMyj7P"
+    },
+    {
+      "added_at": "2026-10-03 08:04:01",
+      "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
       "added_at": "2026-10-23 04:01:31",
       "album": {
         "name": "Cry On You",
@@ -309,126 +345,6 @@
       "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
     },
     {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/3vTncJBJSFkalBlJE0ne2Y"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        }
-      ],
-      "duration_ms": 161630,
-      "name": "Yes (feat. Sevyn Streeter)",
-      "url": "https://open.spotify.com/track/7ypiSkTCbZwybdo3mgZUd9"
-    },
-    {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "Eye 2 Eye",
-        "url": "https://open.spotify.com/album/16DdNomTtlT1gkgRrABNwV"
-      },
-      "artists": [
-        {
-          "name": "Chuka, The Destroyer",
-          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
-        }
-      ],
-      "duration_ms": 207727,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6VxJy36RrYPeaauj3Su58b"
-    },
-    {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "We'll Never Be This Young Again",
-        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 230342,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2ydPu2s5hpNdI9qtkITZqo"
-    },
-    {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "We'll Never Be This Young Again",
-        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
-      },
-      "artists": [
-        {
-          "name": "Laila!",
-          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
-        }
-      ],
-      "duration_ms": 247868,
-      "name": "Woo! Woo!",
-      "url": "https://open.spotify.com/track/7oCN9kLTY6DepjbOGbWb7X"
-    },
-    {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Are You Ok? (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/4h4eZMcBrKu9NcS3KoWzqP"
-    },
-    {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "Oh, The Doubt Among Us",
-        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "PROMISE",
-      "url": "https://open.spotify.com/track/3Sgziaf8CxmHCpXtUGBGRW"
-    },
-    {
-      "added_at": "2026-10-23 04:01:31",
-      "album": {
-        "name": "Oh, The Doubt Among Us",
-        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 141591,
-      "name": "FEELS",
-      "url": "https://open.spotify.com/track/4lpZwmuqK3WfRQr6askJbx"
-    },
-    {
       "added_at": "2026-10-16 05:16:22",
       "album": {
         "name": "Karma",
@@ -443,26 +359,6 @@
       "duration_ms": 209453,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
-    },
-    {
-      "added_at": "2026-07-31 06:18:01",
-      "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "HONEYBUTTER",
-      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
     },
     {
       "added_at": "2026-10-09 06:23:09",
@@ -501,6 +397,46 @@
       "url": "https://open.spotify.com/track/2FK12BFadDMlelVr4Fn7Xi"
     },
     {
+      "added_at": "2026-07-31 06:18:01",
+      "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "HONEYBUTTER",
+      "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
+    },
+    {
+      "added_at": "2026-10-23 04:01:31",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Are You Ok? (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/4h4eZMcBrKu9NcS3KoWzqP"
+    },
+    {
       "added_at": "2026-09-04 04:02:31",
       "album": {
         "name": "HONEYMOON",
@@ -515,22 +451,6 @@
       "duration_ms": 171333,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/3MGuSdChxG0ejAS6Erbshd"
-    },
-    {
-      "added_at": "2026-10-03 08:04:01",
-      "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
     },
     {
       "added_at": "2026-10-16 05:16:22",
@@ -563,6 +483,46 @@
       "duration_ms": 213562,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/7dCO7UfAaI1Oa5SGLTz5TV"
+    },
+    {
+      "added_at": "2026-10-28 00:35:04",
+      "album": {
+        "name": "THE PHENOMENON",
+        "url": "https://open.spotify.com/album/5SgA10pJ2eWb47Q4eu0SNH"
+      },
+      "artists": [
+        {
+          "name": "Terrell Grice",
+          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 243141,
+      "name": "GODSPEED!",
+      "url": "https://open.spotify.com/track/13cdpEgEmq6mFazocM0oTX"
+    },
+    {
+      "added_at": "2026-10-23 04:01:31",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/3vTncJBJSFkalBlJE0ne2Y"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "duration_ms": 161630,
+      "name": "Yes (feat. Sevyn Streeter)",
+      "url": "https://open.spotify.com/track/7ypiSkTCbZwybdo3mgZUd9"
     },
     {
       "added_at": "2026-10-09 06:23:09",
@@ -605,6 +565,22 @@
       "url": "https://open.spotify.com/track/5iIVMqaydNMbcWnQSaJmXn"
     },
     {
+      "added_at": "2026-10-23 04:01:31",
+      "album": {
+        "name": "We'll Never Be This Young Again",
+        "url": "https://open.spotify.com/album/3v1zzxtldIl3XhCsTBk2wU"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "duration_ms": 247868,
+      "name": "Woo! Woo!",
+      "url": "https://open.spotify.com/track/7oCN9kLTY6DepjbOGbWb7X"
+    },
+    {
       "added_at": "2026-09-18 06:12:11",
       "album": {
         "name": "Static",
@@ -619,26 +595,6 @@
       "duration_ms": 141600,
       "name": "Nothing 2 Lose",
       "url": "https://open.spotify.com/track/3AAhCZMnHWLD038MprEEsC"
-    },
-    {
-      "added_at": "2026-10-09 06:23:09",
-      "album": {
-        "name": "MACHIKO",
-        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 197198,
-      "name": "Catch Me If You Can - feat. JID",
-      "url": "https://open.spotify.com/track/1NnuJJhYaiY5sRaanMyj7P"
     },
     {
       "added_at": "2026-08-28 05:35:46",
@@ -663,6 +619,22 @@
       "duration_ms": 289071,
       "name": "They Ain't You - feat. Thundercat",
       "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
+    },
+    {
+      "added_at": "2026-10-23 04:01:31",
+      "album": {
+        "name": "Oh, The Doubt Among Us",
+        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/3Sgziaf8CxmHCpXtUGBGRW"
     },
     {
       "added_at": "2026-10-16 05:16:22",
@@ -747,6 +719,22 @@
       "duration_ms": 218265,
       "name": "RUNWAY KILLER",
       "url": "https://open.spotify.com/track/4J3KSbDGoSj1iWq5aWBY88"
+    },
+    {
+      "added_at": "2026-10-23 04:01:31",
+      "album": {
+        "name": "Eye 2 Eye",
+        "url": "https://open.spotify.com/album/16DdNomTtlT1gkgRrABNwV"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 207727,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6VxJy36RrYPeaauj3Su58b"
     },
     {
       "added_at": "2026-10-16 05:16:22",
@@ -2283,26 +2271,6 @@
       "duration_ms": 148645,
       "name": "LUV MYSELF",
       "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
-    },
-    {
-      "added_at": "2026-03-20 15:58:14",
-      "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "added_at": "2026-07-31 06:18:01",

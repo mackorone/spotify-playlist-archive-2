@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1485062,
+  "num_followers": 1484953,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,18 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
       },
       "artists": [
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "Lucas Lima",
-          "url": "https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 237696,
-      "name": "Estrela",
-      "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -479,18 +475,22 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
       "artists": [
         {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "Lucas Lima",
+          "url": "https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab"
         }
       ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+      "duration_ms": 237696,
+      "name": "Estrela",
+      "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
     },
     {
       "added_at": "2026-09-04 03:00:36",

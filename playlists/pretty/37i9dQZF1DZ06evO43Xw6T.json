@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 188285,
+  "num_followers": 188302,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABjz4JXXjS8AqZr4uCXiRS0",
+  "snapshot_id": "at1GgAAAAABRoIdpa8+K/3/k3lKTJ+fZ",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -579,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
       },
       "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn"
+      "duration_ms": 186494,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
       "duration_ms": 165212,
       "name": "A La Luz De La luna",
       "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 186494,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 126975,
+  "num_followers": 126974,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-06-12 13:48:34",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
-        }
-      ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
-    },
-    {
-      "added_at": "2026-06-12 13:48:34",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2026-06-12 13:48:34",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-06-12 13:48:34",

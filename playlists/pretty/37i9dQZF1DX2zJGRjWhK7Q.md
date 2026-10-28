@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,060 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,117 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 21 | [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 |
 | 22 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 |
 | 23 | [Mujer Divina](https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho y Derecho \(Doin' It Right\)](https://open.spotify.com/album/65EJIebSAXNM4Fu1oHnecX) | 4:55 |
-| 24 | [Triste Y Vacía](https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ) | 6:10 |
-| 25 | [Senor Sereno](https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK) | 5:31 |
+| 24 | [Senor Sereno](https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK) | 5:31 |
+| 25 | [Triste Y Vacía](https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ) | 6:10 |
 | 26 | [Che Che Cole](https://open.spotify.com/track/0FriNBfZnUzIAXRkYH1SHH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Cosa Nuestra](https://open.spotify.com/album/7h9smttvUvPPLLQeRWOPbI) | 3:32 |
 | 27 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |
 | 28 | [Lejos De Ti](https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH) | 4:15 |

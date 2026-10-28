@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,293 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,267 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 10 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
 | 11 | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu) | 2:52 |
 | 12 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
-| 13 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
-| 14 | [Zoblazo](https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Zoblazo](https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY) | 2:40 |
+| 13 | [Zoblazo](https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Zoblazo](https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY) | 2:40 |
+| 14 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
 | 15 | [Air](https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [SOARR](https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl) | [Air / Lemonder / Viper](https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q) | 4:22 |
 | 16 | [Make believe](https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Make believe](https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V) | 3:30 |
 | 17 | [Ta peau](https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu) | [Anouk](https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS) | [Ta peau](https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K) | 3:07 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 29 | [TELFAR™](https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [TELFAR™](https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o) | 2:22 |
 | 30 | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/track/6QiCYnNjyD0dmnNBPIytt3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Quand est\-ce qu'on oublie qu'on aime](https://open.spotify.com/album/10xv43esfpGz0vDmXMCe2N) | 3:32 |
 | 31 | [Cognac en canette](https://open.spotify.com/track/3Sg3E3si7poLGEwjCQ8wLb) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Cognac en canette](https://open.spotify.com/album/7nqiskDa1LZCOodbo1mvuP) | 3:34 |
-| 32 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
-| 33 | [Is It Happening Right Now?](https://open.spotify.com/track/1iaTJl9hntAmATs8gKryNn) | [Girls In Hawaii](https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib) | [Eldorado](https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW) | 4:48 |
+| 32 | [Is It Happening Right Now?](https://open.spotify.com/track/1iaTJl9hntAmATs8gKryNn) | [Girls In Hawaii](https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib) | [Eldorado](https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW) | 4:48 |
+| 33 | [305](https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj) | [1nine08](https://open.spotify.com/artist/6i84sqAjyq8cxizf6MaI4H), [LUMI](https://open.spotify.com/artist/2OCu6MqAaZZDHCefmYnBxP) | [305](https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi) | 3:05 |
 | 34 | [pas assez](https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [tout à la fois](https://open.spotify.com/album/25vPmMrpmS13iWYqutq37z) | 2:44 |
 | 35 | [le président s'en balek](https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [le président s'en balek](https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8) | 3:04 |
 | 36 | [sentinel](https://open.spotify.com/track/6JhrD6oQhd6EHlqsVATb8y) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [sentinel](https://open.spotify.com/album/5AIqd7wpBImJ1G0MAXR3tf) | 3:26 |

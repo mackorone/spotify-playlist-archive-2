@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer,  the sound that chalk makes, Jam City, Sofii, &amp; more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,072 likes - 100 songs - 5 hr 24 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,069 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 4 | [God](https://open.spotify.com/track/6EjFJ9iSvyWs952cEISqqW) | [Sofii](https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS) | [God](https://open.spotify.com/album/6KV48ks1VQrEzSQAx8Ir06) | 2:47 |
 | 5 | [RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM](https://open.spotify.com/track/23AGyyhElbi76BoI8J1DEM) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM](https://open.spotify.com/album/57mVKANu6rKwSCeKC40SSc) | 2:52 |
 | 6 | [FU : ILY](https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [FU : ILY](https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN) | 2:29 |
-| 7 | [My World](https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9) | 3:30 |
+| 7 | [My World](https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9) | 3:30 |
 | 8 | [iwtfy](https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH) | [Sofii](https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS) | [iwtfy](https://open.spotify.com/album/1rpLkRaC2Q39NNJmDd8H4K) | 3:55 |
 | 9 | [pAPi wiTH tOKisCha \- DJ Gigola REMIX](https://open.spotify.com/track/3j6jcFsiIEYrOUOHoN6Bg6) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [pAPi wiTH tOKisCha \(DJ Gigola REMIX\)](https://open.spotify.com/album/4s20K6E5vxvpnQe83PrZGz) | 3:44 |
 | 10 | [Fast Asleep](https://open.spotify.com/track/6s8ioX79ZOLA4ulh1Ns7D6) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Heavenly Body: If I'm The Bottle You’re The Message](https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x) | 2:53 |

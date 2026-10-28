@@ -1,6 +1,6 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 511506,
+  "num_followers": 511514,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me More And More And Then Some (dublon Remix)",
-        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 151260,
-      "name": "Tell Me More And More And Then Some - dublon Remix",
-      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Comes The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
@@ -263,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me More And More And Then Some (dublon Remix)",
+        "url": "https://open.spotify.com/album/4mX3k5E8iVScFeD6ghkalz"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 151260,
+      "name": "Tell Me More And More And Then Some - dublon Remix",
+      "url": "https://open.spotify.com/track/3MRACcCmiYbeNkFiF3sNu1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 235880,
       "name": "Blues for Mama",
       "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre"
     },
     {
       "added_at": null,
@@ -295,22 +311,6 @@
       "duration_ms": 297920,
       "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
       "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Girl Blue (2013 - Remaster)",
         "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 149330,
       "name": "He Needs Me (2013 - Remaster)",
       "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Nuff Said (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Ain't Got No - I Got Life - Single Version",
+      "url": "https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Nuff Said (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 176080,
-      "name": "Ain't Got No - I Got Life - Single Version",
-      "url": "https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F"
+      "duration_ms": 180253,
+      "name": "Nobody's Fault but Mine",
+      "url": "https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 168306,
       "name": "Tomorrow Is My Turn",
       "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nina Simone & Piano (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Nobody's Fault but Mine",
-      "url": "https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7"
     },
     {
       "added_at": null,

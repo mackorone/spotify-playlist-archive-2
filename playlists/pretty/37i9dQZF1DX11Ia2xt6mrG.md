@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Pato Shoucair, BELCAST y Vela Beats en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,090 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,096 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 57 | [ADICTO](https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [ADICTO](https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE) | 2:20 |
 | 58 | [Polos Opuestos](https://open.spotify.com/track/4MV1iXML2gwkk4haby8ygZ) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Polos Opuestos](https://open.spotify.com/album/58mn4pU4sc7RwRmV4q1hrT) | 2:46 |
 | 59 | [Un Poquito Más](https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Un Poquito Más](https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME) | 3:16 |
-| 60 | [Afuera Que Tengan Miedo \- Jayrick Remix](https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo \(Jayrick Remix\)](https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp) | 2:46 |
-| 61 | [Nada Falta Como Me Faltas](https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Nada Falta Como Me Faltas](https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx) | 3:23 |
+| 60 | [Nada Falta Como Me Faltas](https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Nada Falta Como Me Faltas](https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx) | 3:23 |
+| 61 | [Afuera Que Tengan Miedo \- Jayrick Remix](https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Afuera Que Tengan Miedo \(Jayrick Remix\)](https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp) | 2:46 |
 | 62 | [NO ESTABA MAL](https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS), [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [NO ESTABA MAL](https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1) | 2:45 |
 | 63 | [Space Girl](https://open.spotify.com/track/6lfv2xniDB0l6gCut41R4h) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Space Girl](https://open.spotify.com/album/1XsU1vapTBjNZrgHn6lELd) | 3:48 |
 | 64 | [Tranki](https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Tranki](https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh) | 4:16 |

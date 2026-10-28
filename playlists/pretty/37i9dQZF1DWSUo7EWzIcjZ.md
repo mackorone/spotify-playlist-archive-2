@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,828 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,817 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 81 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
 | 82 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 |
 | 83 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |
-| 84 | [Que Me Perdone Tu Señora](https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 3:46 |
-| 85 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
+| 84 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
+| 85 | [Que Me Perdone Tu Señora](https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Miriam Collection](https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65) | 3:46 |
 | 86 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
 | 87 | [Las Pequeñas Cosas](https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Somos Candela](https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w) | 4:03 |
 | 88 | [Tabaco Y Ron](https://open.spotify.com/track/2xO37ku7ZNTDRaPx33a8dl) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:05 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 145 | [La Ventanita / La Pastilla](https://open.spotify.com/track/5bgYw4yJApYc3DCeAaFy58) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [A Merengazo](https://open.spotify.com/album/1PetYBXR6ahC4s0hi5gdXX) | 5:13 |
 | 146 | [Todo Es Para Ti](https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:13 |
 | 147 | [Morena Ven](https://open.spotify.com/track/4UFHihOI0xnuk7yG9ZnvAH) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 4:18 |
-| 148 | [Que Cara Más Bonita](https://open.spotify.com/track/2HNTMqqbPIe2gTexJBChVH) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6) | 5:02 |
+| 148 | [A Donde Vayas](https://open.spotify.com/track/64UoPaVdLy0lOc2bJOMVrt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [El Jardín Prohibido](https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM) | 4:33 |
 | 149 | [El Gusto](https://open.spotify.com/track/3KJaMyHdtT7gwDDH5Xm6cW) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:04 |
 | 150 | [Todo Aquello Que Escribí](https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:30 |
 

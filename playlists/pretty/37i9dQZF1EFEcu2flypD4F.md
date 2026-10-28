@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,595 likes - 347 songs - 21 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,596 likes - 347 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,8 +308,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 298 | [Biting Tongue](https://open.spotify.com/track/5rU6aPN2OfTopFSpTog5Sv) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Turn It Around](https://open.spotify.com/album/3ycQqRwQMmGRxftasUhY5w) | 1:07 |
 | 299 | [Hologram \(Smoke and Mirrors\)](https://open.spotify.com/track/6sycwOBtYqgQ7ZFzImjsc2) | [Raffey Cassidy](https://open.spotify.com/artist/0BHyFQDnozqjy1EoKpoiRT) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:38 |
 | 300 | [Firecracker](https://open.spotify.com/track/1iUNZuYz6hYoGgDWN8fAjm) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human \(Deluxe\)](https://open.spotify.com/album/4YCGJ4vLqqnKGYjVhv6HB4) | 3:32 |
-| 301 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
-| 302 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 301 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 302 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
 | 303 | [Round Your Little Finger](https://open.spotify.com/track/7q3SFkjxhRKhEmUDuJJEcw) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:38 |
 | 304 | [Go Get It](https://open.spotify.com/track/55MUolR1RPiH6zvfUxpz1c) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Balloween](https://open.spotify.com/album/6xHseLn2Rz353MyoB3A5zY) | 4:07 |
 | 305 | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/track/6JVj1kLMutHGrDDP1vsdys) | [Nina Sofie](https://open.spotify.com/artist/3lJmsswS82rAa5qaOyrICa) | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/album/5KDJEzHwSvD9yi7f8XQ7z8) | 3:32 |
@@ -356,4 +356,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 346 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 347 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcgAwgAAAACpSk7iO95eJXQhXA3GN+Av`
+Snapshot ID: `AcgGYgAAAAAcFriGjWwoKLsDaaEtIoD+`

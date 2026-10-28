@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1023228,
+  "num_followers": 1023147,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2026-10-23 23:15:09",
-      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 186611,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
+    },
+    {
+      "added_at": "2026-10-23 23:15:09",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2026-10-23 23:15:09",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "ALMA",
+      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
+    },
+    {
+      "added_at": "2026-10-23 23:15:09",
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 223783,
       "name": "Un Desperdicio",
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
-    },
-    {
-      "added_at": "2026-10-23 23:15:09",
-      "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "ALMA",
-      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
     },
     {
       "added_at": "2026-10-23 23:15:09",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "added_at": "2026-10-23 23:15:09",
+      "album": {
         "name": "blackout \ud83e\uddca",
         "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
-    },
-    {
-      "added_at": "2026-10-23 23:15:09",
-      "album": {
-        "name": "Ooh Laka Laka La",
-        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 134797,
-      "name": "Ooh Laka Laka La",
-      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
     },
     {
       "added_at": "2026-10-23 23:15:09",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
-    },
-    {
-      "added_at": "2026-10-23 23:15:09",
-      "album": {
         "name": "Carteras Chinas",
         "url": "https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe"
       },
@@ -1367,22 +1351,18 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
-        "name": "Tal Vez Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 208465,
-      "name": "Tal Vez Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "added_at": "2026-10-23 23:15:09",
@@ -1403,6 +1383,26 @@
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
+    },
+    {
+      "added_at": "2026-10-23 23:15:09",
+      "album": {
+        "name": "Tal Vez Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 208465,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
     },
     {
       "added_at": "2026-10-23 23:15:09",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
-        "name": "Hey Mor",
-        "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "added_at": "2026-10-23 23:15:09",
@@ -1503,18 +1499,22 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+        "name": "Hey Mor",
+        "url": "https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
     },
     {
       "added_at": "2026-10-23 23:15:09",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2026-10-23 23:15:09",
       "album": {
-        "name": "Las Cosas Que Solo Se Hacen En La Noche",
-        "url": "https://open.spotify.com/album/4m13C4u0Xhkaqla5t9Mf3T"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 138839,
-      "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq"
-    },
-    {
-      "added_at": "2026-10-23 23:15:09",
-      "album": {
         "name": "Encubiertos",
         "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 155226,
       "name": "Encubiertos",
       "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
+    },
+    {
+      "added_at": "2026-10-23 23:15:09",
+      "album": {
+        "name": "Las Cosas Que Solo Se Hacen En La Noche",
+        "url": "https://open.spotify.com/album/4m13C4u0Xhkaqla5t9Mf3T"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 138839,
+      "name": "Las Cosas Que Solo Se Hacen En La Noche (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/0z59N9OGE9pCeN9c0yMZHq"
     },
     {
       "added_at": "2026-10-23 23:15:09",

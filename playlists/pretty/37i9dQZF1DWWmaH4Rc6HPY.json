@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Desierto Drive en portada.",
-  "num_followers": 40138,
+  "num_followers": 40145,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Querido\u2026",
-        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 226800,
-      "name": "Arr\u00f3pame",
-      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
+      "duration_ms": 191526,
+      "name": "YO VISTO AS\u00cd",
+      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -159,18 +159,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+        "name": "Querido\u2026",
+        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 191526,
-      "name": "YO VISTO AS\u00cd",
-      "url": "https://open.spotify.com/track/5fROvzNghPid8mbKNDYvpJ"
+      "duration_ms": 226800,
+      "name": "Arr\u00f3pame",
+      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 218781,
-      "name": "Cuarenta Mil",
-      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "p0rn0graf\u00eda",
         "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 181253,
       "name": "p0rn0graf\u00eda",
       "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 218781,
+      "name": "Cuarenta Mil",
+      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "Pel\u00edculas De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Pel\u00edculas De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "Dolor y Gloria",
         "url": "https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 213000,
       "name": "Se Me Va",
       "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Pel\u00edculas De Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Pel\u00edculas De Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "El Reloj Me Miente",
         "url": "https://open.spotify.com/album/5OLRpRcnGYLR1u0HFy0DTk"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 223274,
       "name": "El Reloj Me Miente",
       "url": "https://open.spotify.com/track/0OiQup7RDj8XgOe4yHIDpP"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "Perfecto Final",
         "url": "https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1127,6 +1111,22 @@
       "duration_ms": 178160,
       "name": "Hagamos Que",
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "Sabor a Chocolate",
+        "url": "https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 231027,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "MAPAS II",
         "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 167943,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Sabor a Chocolate",
-        "url": "https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 231027,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "Mentiras Arriesgadas",
+        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Mentiras Arriesgadas",
+      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "Brillante Sobre el Mic - EADDA9223",
         "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Mentiras Arriesgadas",
-        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Mentiras Arriesgadas",
-      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
     }
   ],
   "unique_name": "Pop Rock Latino",

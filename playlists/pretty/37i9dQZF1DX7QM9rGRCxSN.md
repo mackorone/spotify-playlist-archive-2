@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,490 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,492 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 6 | [Todo está en su lugar](https://open.spotify.com/track/4OvJqgianRiUfLXCp4dyXI) | [Fila9](https://open.spotify.com/artist/2GD3xRfQ8lBw95xkBu6Jtp) | [41 Parte 2](https://open.spotify.com/album/6oMayndBmwjZ5J6mNPQgO5) | 4:21 |
 | 7 | [Pont des Arts \(Todo por ti\)](https://open.spotify.com/track/60cIaGeOltpsQuvdehmylx) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Apicultura para principiantes](https://open.spotify.com/album/4347ivXcsLTFkPFnL8ZXqP) | 4:08 |
 | 8 | [Ay Carachas](https://open.spotify.com/track/0mbLyhECxVrL9318wVNwWO) | [Kidchen](https://open.spotify.com/artist/0rssDtHql43sHidf6XgMz8) | [Amalgama](https://open.spotify.com/album/5dUgQxv2SDI8lh66rFQbDg) | 2:38 |
-| 9 | [LO QUE NO QUIERO ES PERDER \(TE\)](https://open.spotify.com/track/6XOMy8PcSUZC44p1r5DKMZ) | [San Venus](https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ) | [LO QUE NO QUIERO ES PERDER \(TE\)](https://open.spotify.com/album/70yU5kh1YMIlwbY1Ua16Jn) | 2:35 |
+| 9 | [Quieres darme un beso?](https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [Quieres darme un beso?](https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW) | 2:49 |
 | 10 | [Azulejos](https://open.spotify.com/track/5VR2BinoOdMmXVRyie5WX2) | [Todo Bien Todo Mal](https://open.spotify.com/artist/0uj2hj0Vurk8ZaGgH0BmJa) | [Azulejos](https://open.spotify.com/album/5fLZaruB6jHm1j2e3731Ji) | 3:58 |
-| 11 | [Quieres darme un beso?](https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [Quieres darme un beso?](https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW) | 2:49 |
+| 11 | [LO QUE NO QUIERO ES PERDER \(TE\)](https://open.spotify.com/track/6XOMy8PcSUZC44p1r5DKMZ) | [San Venus](https://open.spotify.com/artist/0I1DNEdOBX3s6eL8UlaskZ) | [LO QUE NO QUIERO ES PERDER \(TE\)](https://open.spotify.com/album/70yU5kh1YMIlwbY1Ua16Jn) | 2:35 |
 | 12 | [Eternidad](https://open.spotify.com/track/4cnEACEQllbCk79vJg2XyI) | [MILLIE®](https://open.spotify.com/artist/2LUciXUhY3ChupWknWcwZo) | [Eternidad](https://open.spotify.com/album/15hJZbuD9iRNdtmxebeWA9) | 3:11 |
 | 13 | [Canciones Tristes](https://open.spotify.com/track/5ZsQpjV1QPglW8R9ANYsPh) | [Cursi no muere](https://open.spotify.com/artist/6UQZ3J3hDBh29n2DUYRmMR) | [De Canciones Tristes](https://open.spotify.com/album/6pAkobibIhGzAiHEkvyfMS) | 2:01 |
 | 14 | [Tan fácil que es hablar las cosas](https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Tan fácil que es hablar las cosas](https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU) | 5:22 |

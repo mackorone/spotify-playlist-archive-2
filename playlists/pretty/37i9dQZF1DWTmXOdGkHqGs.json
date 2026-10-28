@@ -1,6 +1,6 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 315561,
+  "num_followers": 315626,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
+      },
+      "artists": [
+        {
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
+        }
+      ],
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Costumbres (Vivo)",
         "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 133077,
       "name": "Costumbres - Vivo",
       "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217072,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "Echarme Al Olvido",
+        "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "Echarme Al Olvido",
-        "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 238020,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 194269,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 238020,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "SC-9",
-        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 165261,
-      "name": "SC-9",
-      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Adi\u00f3s Amor / Oye Mujer",
         "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "SC-9",
+        "url": "https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+      "duration_ms": 165261,
+      "name": "SC-9",
+      "url": "https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Pa\u2019 la Selecci\u00f3n",
-        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 186735,
-      "name": "Pa\u2019 la Selecci\u00f3n",
-      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1791,6 +1775,22 @@
       "duration_ms": 221601,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
     },
     {
       "added_at": "2025-11-20 12:00:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,215 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,219 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [Eu Vim Da Bahia](https://open.spotify.com/track/6PaGKXRsHpFFcd2DV5ToY1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz / Gilberto ‘76](https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8) | 4:10 |
 | 50 | [Undiú](https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 6:37 |
 
-Snapshot ID: `atv1AAAAAABv8lIGqkTIX0XByOq7uHBG`
+Snapshot ID: `at1GgAAAAABr6kADMJ8acKP0fx+ffkow`

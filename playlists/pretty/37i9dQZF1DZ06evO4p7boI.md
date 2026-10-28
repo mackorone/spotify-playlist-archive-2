@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,375 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,370 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 28 | [Good For It](https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:39 |
 | 29 | [Wolves](https://open.spotify.com/track/5Mdjiv8JfVcPgeWhXqNXIA) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 3:14 |
 | 30 | [Run It Up \(feat\. Pop Smoke\)](https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:59 |
-| 31 | [POP MY SHIT](https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Frost](https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK) | [POP MY SHIT](https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ) | 1:53 |
-| 32 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 |
+| 31 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 |
+| 32 | [POP MY SHIT](https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Frost](https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK) | [POP MY SHIT](https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ) | 1:53 |
 | 33 | [Price On My Head \(feat\. The Weeknd\)](https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:37 |
 | 34 | [Vetement Socks](https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:35 |
 | 35 | [UNLIMITED \(FT PLAYBOI CARTI\)](https://open.spotify.com/track/4j8n7cA99r729g1nAtA6qV) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [OMW2 REXDALE](https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 49 | [NOTHING 4 FREE \(feat\. NAV\)](https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:45 |
 | 50 | [NO CALL NO SHOW \(feat\. NAV\)](https://open.spotify.com/track/48AgSXjkND0Ufv0sOCAhPi) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [SAME DIFFERENCE](https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS) | 5:16 |
 
-Snapshot ID: `atv1AAAAAAA5oGurdhhQGw8ZQWmf3LQP`
+Snapshot ID: `at1GgAAAAAC4QfmL/y9PJgt3m64CDua3`

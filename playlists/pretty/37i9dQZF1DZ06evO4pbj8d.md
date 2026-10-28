@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,537 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,542 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 23 | [Changes](https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:09 |
 | 24 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:09 |
 | 25 | [Dear Maria](https://open.spotify.com/track/7sg33uya6t8yAh0WvMrZw5) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 3:12 |
-| 26 | [Miles Away](https://open.spotify.com/track/2WQqvurvxYL66vN8dWj55I) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Miles Away](https://open.spotify.com/album/5M91Xs1ghKkipZgS3wjrj9) | 2:57 |
-| 27 | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/2rpLXFeQau14IYHqPDqGcw) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [In the Hour of Chaos](https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL) | 3:20 |
-| 28 | [In Bloom](https://open.spotify.com/track/7A4S5hX98oy3nRSlt8SMT7) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Bloom](https://open.spotify.com/album/6gc1IqKVv87XukZlYsJxxo) | 3:13 |
+| 26 | [No Springtime \(ft\. Joy Oladokun & Julie Williams\)](https://open.spotify.com/track/2rpLXFeQau14IYHqPDqGcw) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [In the Hour of Chaos](https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL) | 3:20 |
+| 27 | [Miles Away](https://open.spotify.com/track/2WQqvurvxYL66vN8dWj55I) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Miles Away](https://open.spotify.com/album/5M91Xs1ghKkipZgS3wjrj9) | 2:57 |
+| 28 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
 | 29 | [TOGIAIM](https://open.spotify.com/track/54hGhxFr67d2A4Sg5Ep602) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Hope Is A Heavy Thing](https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9) | 3:09 |
-| 30 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
+| 30 | [In Bloom](https://open.spotify.com/track/7A4S5hX98oy3nRSlt8SMT7) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Bloom](https://open.spotify.com/album/6gc1IqKVv87XukZlYsJxxo) | 3:13 |
 | 31 | [You At The Table \(with Manchester Orchestra\)](https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:50 |
 | 32 | [DRUGS](https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:23 |
 | 33 | [someone that i used to be](https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 49 | [AM I?](https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:16 |
 | 50 | [Animals & Angels](https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:39 |
 
-Snapshot ID: `atv1AAAAAABd3IkkAHOh8ZEWI4U/Uujr`
+Snapshot ID: `at1GgAAAAABxIeGnARDSbC4/GXDi+EGc`

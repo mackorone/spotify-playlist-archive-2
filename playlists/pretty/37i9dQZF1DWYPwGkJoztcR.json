@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398568,
+  "num_followers": 398576,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
       },
       "artists": [
         {
-          "name": "Edward Rogers",
-          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 183275,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
+      "duration_ms": 226813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -159,18 +159,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ"
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
         }
       ],
-      "duration_ms": 226813,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn"
+      "duration_ms": 183275,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Sit Back Baby",
-        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 234723,
-      "name": "Sit Back Baby",
-      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+        "name": "Sit Back Baby",
+        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+      "duration_ms": 234723,
+      "name": "Sit Back Baby",
+      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -399,6 +383,22 @@
       "duration_ms": 189136,
       "name": "Streets of London",
       "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Until My Last Breath",
-        "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "Until My Last Breath",
-      "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Here's To Forever",
         "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 269253,
       "name": "Never Felt The Rain (feat. FENNE)",
       "url": "https://open.spotify.com/track/3X9RJFvBRpfiHrWeB3iE9V"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Until My Last Breath",
+        "url": "https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "Until My Last Breath",
+      "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 237545,
+      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Like It Always Was",
         "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 160000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 237545,
-      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Be My Own",
-        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
       "artists": [
         {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Be My Own",
-      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+        "name": "Be My Own",
+        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
         }
       ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+      "duration_ms": 219746,
+      "name": "Be My Own",
+      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 241456,
       "name": "I Wish It Was Me",
       "url": "https://open.spotify.com/track/38OxCvP1WuCYg9W1V4461M"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-10-15 22:00:36",

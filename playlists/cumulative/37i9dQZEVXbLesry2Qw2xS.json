@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -10658,7 +10658,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -20630,7 +20630,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 269840,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"
@@ -26264,7 +26264,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -35750,7 +35750,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 252306,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/5c7Mswm6Ueq0nKlgH3rTwQ"
@@ -37510,7 +37510,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 311200,
       "name": "Nagu Filmis",
       "url": "https://open.spotify.com/track/3TrU01Yjs8ViuIkPh8eSpu"
@@ -48346,7 +48346,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
@@ -51302,7 +51302,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 173386,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
@@ -54216,7 +54216,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -62306,6 +62306,24 @@
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
     },
     {
       "album": {

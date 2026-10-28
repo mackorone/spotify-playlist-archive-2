@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Josh Baldwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,506 likes - 80 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,503 likes - 80 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 9 | [Let There Be Light \- in lieu of me](https://open.spotify.com/track/5X3vJE1gKlTDRIcgHkOAGP) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- in lieu of me \(Vol\. 2\)](https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1) | 6:19 |
 | 10 | [GREATNESS](https://open.spotify.com/track/0oGLqmZ6444crY4vt3Kjru) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [GREATNESS](https://open.spotify.com/album/6smwnbu2bbkeofhIAvZ7xl) | 4:54 |
 | 11 | [Let Me Say](https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kendra Benay](https://open.spotify.com/artist/7MnuroVletzdv032tWkLUa) | [Promised Land \(Deluxe\) \[Live\]](https://open.spotify.com/album/6bjGJPZ0Lo900FqYUfMp9x) | 5:20 |
-| 12 | [All The Glory \- Live](https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [All The Glory \(Live\)](https://open.spotify.com/album/4fJIDZZF1WAYSmnY6MbgCs) | 7:31 |
+| 12 | [All The Glory](https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [All The Glory](https://open.spotify.com/album/4fJIDZZF1WAYSmnY6MbgCs) | 7:31 |
 | 13 | [Take It To The Throne](https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Take It To The Throne](https://open.spotify.com/album/5932JNQ1Qei0mFe1eMq28j) | 4:08 |
 | 14 | [Just That Good](https://open.spotify.com/track/49PJFH38rwFsVh2MvzMDnH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Just That Good](https://open.spotify.com/album/3dtsOUgziz8BxrbkeAQPNp) | 3:49 |
 | 15 | [Washed \- Live](https://open.spotify.com/track/5JxSXzZiwcfU4LZHKckmqi) | [Newlands Worship](https://open.spotify.com/artist/7xOK1uz6b4wF2IntpG3Xbr), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Always Room \(Live\)](https://open.spotify.com/album/5053UMovi0nAE41NvpFn7h) | 6:35 |

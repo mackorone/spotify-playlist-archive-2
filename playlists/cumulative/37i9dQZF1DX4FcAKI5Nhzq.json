@@ -10843,6 +10843,24 @@
     },
     {
       "album": {
+        "name": "Sequence 02: Attraction",
+        "url": "https://open.spotify.com/album/4sZ7n2Ym0dtwhjIXHgWaoo"
+      },
+      "artists": [
+        {
+          "name": "AND2BLE",
+          "url": "https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "French Kissing",
+      "url": "https://open.spotify.com/track/3d23jzQ4KGiEBmZ7aw8Q8M"
+    },
+    {
+      "album": {
         "name": "FREQUENCY - The 6th Mini Album",
         "url": "https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K"
       },

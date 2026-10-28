@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,078 likes - 84 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,076 likes - 84 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 15 | [Our Way to Fall](https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:18 |
 | 16 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 17 | [Untitled \#1](https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP) | [Spain](https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n) | [The Blue Moods Of Spain](https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC) | 6:38 |
-| 18 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
-| 19 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
+| 18 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
+| 19 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
 | 20 | [Absent Friend](https://open.spotify.com/track/6CqmencKN0UsB67DzZAP8f) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 8:20 |
 | 21 | [Grave Filled with Books](https://open.spotify.com/track/7sYOXMXgA34jo9WkXZLEOG) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 4:01 |
 | 22 | [Putting The Dog To Sleep](https://open.spotify.com/track/3pUoLeK4j2XHIuuqU8FECt) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Burst Apart](https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2) | 5:47 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 29 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
 | 30 | [Flowers](https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today](https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ) | 4:29 |
 | 31 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
-| 32 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 |
-| 33 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 |
+| 32 | [Lighthouse](https://open.spotify.com/track/10dTTsgL5hPujRahg22tan) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 5:44 |
+| 33 | [Options](https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Control \(Remastered\)](https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr) | 3:56 |
 | 34 | [The Loom](https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 5:15 |
 | 35 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
 | 36 | [Snowstorm](https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 5:14 |

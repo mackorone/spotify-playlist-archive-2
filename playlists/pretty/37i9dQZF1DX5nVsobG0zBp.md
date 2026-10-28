@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Richie Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,682 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,701 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 69 | [ROSAS](https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [ROSAS](https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E) | 2:57 |
 | 70 | [Mo Boy](https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 3:52 |
 | 71 | [CABARET](https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [CABARET](https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah) | 2:15 |
-| 72 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
+| 72 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 |
 | 73 | [Devia Ir](https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Devia Ir](https://open.spotify.com/album/1Sg69oASUTiS8NM0XlGqaZ) | 4:53 |
 | 74 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
-| 75 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
+| 75 | [Tempo](https://open.spotify.com/track/19gFXFDAFUdsuaiAorKEbr) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tempo](https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3) | 4:10 |
 | 76 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
-| 77 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 |
-| 78 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 |
-| 79 | [Bairro](https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Bairro](https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46) | 4:18 |
-| 80 | [Tempo](https://open.spotify.com/track/19gFXFDAFUdsuaiAorKEbr) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tempo](https://open.spotify.com/album/2pKQrzkVd8J95Ehh0pgRU3) | 4:10 |
+| 77 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
+| 78 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 |
+| 79 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 |
+| 80 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
 
 Snapshot ID: `AAAAAMaEum8KH9Oq96ZIfSc1jn1CWJet`

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 155,077 likes - 122 songs - 7 hr 20 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 155,068 likes - 122 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
-| 2 | [Somebody New](https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Somebody New](https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E) | 3:18 |
-| 3 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 4 | [Adem Uit Adem In](https://open.spotify.com/track/46jmrLsm5R65DtFErMIQy8) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Adem Uit Adem In](https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj) | 2:47 |
-| 5 | [Brother](https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [I: Keep The Fire On](https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG) | 6:23 |
-| 6 | [Tom and Jerry](https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Tom and Jerry](https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0) | 3:51 |
+| 1 | [Tom and Jerry](https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Tom and Jerry](https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0) | 3:51 |
+| 2 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 3 | [Somebody New](https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Somebody New](https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E) | 3:18 |
+| 4 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
+| 5 | [Adem Uit Adem In](https://open.spotify.com/track/46jmrLsm5R65DtFErMIQy8) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Adem Uit Adem In](https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj) | 2:47 |
+| 6 | [Brother](https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [I: Keep The Fire On](https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG) | 6:23 |
 | 7 | [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 |
 | 8 | [Zomaar Zomer Zondag](https://open.spotify.com/track/2a3t3e0byyQBziC5UsABzi) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [De Een](https://open.spotify.com/album/6x5DfYzmHw7QPYwGnUsGiD) | 4:39 |
 | 9 | [before you hit the water.](https://open.spotify.com/track/2V1sCdp5P2uLVjPiPY9GMI) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [before you hit the water.](https://open.spotify.com/album/6bSls2Yh63Ei5G0VQ5or8l) | 3:03 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/7g0V4gerBRwKlNuUcqqrg0.md) - [plain]
 | 121 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
 | 122 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
 
-Snapshot ID: `AAAw+Q6E9ZoKJeLeeZpHTHx6a9NjEtA2`
+Snapshot ID: `AAAw+/4Ce5tLhJ2s7edgHUjGmDj3PzFp`

@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 224157,
+  "num_followers": 224188,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Istanbul",
-        "url": "https://open.spotify.com/album/5QxXqJHvFGnU2EFgJEwt99"
-      },
-      "artists": [
-        {
-          "name": "Alberto Giurioli",
-          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
-        }
-      ],
-      "duration_ms": 192174,
-      "name": "Istanbul",
-      "url": "https://open.spotify.com/track/4wKob4SjImqLpFqr8ygpgz"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
         "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 216213,
       "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
       "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Istanbul",
+        "url": "https://open.spotify.com/album/5QxXqJHvFGnU2EFgJEwt99"
+      },
+      "artists": [
+        {
+          "name": "Alberto Giurioli",
+          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
+        }
+      ],
+      "duration_ms": 192174,
+      "name": "Istanbul",
+      "url": "https://open.spotify.com/track/4wKob4SjImqLpFqr8ygpgz"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1035,22 +1035,26 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Alexandre Tharaud: Baroque",
-        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
+        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Aaron Pilsan",
+          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
         }
       ],
-      "duration_ms": 253413,
-      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
-      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
+      "duration_ms": 241720,
+      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1095,42 +1099,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
+        "name": "Alexandre Tharaud: Baroque",
+        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Kian Soltani",
-          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
-        },
-        {
-          "name": "Aaron Pilsan",
-          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
         }
       ],
-      "duration_ms": 241720,
-      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Midnight Dreamer",
-        "url": "https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 186476,
-      "name": "Midnight Dreamer",
-      "url": "https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv"
+      "duration_ms": 253413,
+      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1151,6 +1135,22 @@
       "duration_ms": 142166,
       "name": "Mahler: Symphony of a Thousand Piano Variation (After Symphony No. 8, Arr. for Piano by Tim Allhoff)",
       "url": "https://open.spotify.com/track/4dtYQrZFUqcAiV3VhkFyev"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Midnight Dreamer",
+        "url": "https://open.spotify.com/album/5sb0vRgPfKGi5jJ7QTM1CK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 186476,
+      "name": "Midnight Dreamer",
+      "url": "https://open.spotify.com/track/6tFQJ4WjSHXCI7SvosCRPv"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Telemann Collection",
-        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
-      },
-      "artists": [
-        {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
-        },
-        {
-          "name": "Collegium Instrumentale Brugense",
-          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
-        },
-        {
-          "name": "Marc Peire",
-          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
-        }
-      ],
-      "duration_ms": 65080,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
-      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 117053,
       "name": "Valsinha",
       "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Telemann Collection",
+        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Collegium Instrumentale Brugense",
+          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
+        },
+        {
+          "name": "Marc Peire",
+          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
+        }
+      ],
+      "duration_ms": 65080,
+      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
+      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Meditation - Relaxing Classics",
         "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
@@ -1483,26 +1463,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+      "duration_ms": 98120,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1531,6 +1507,30 @@
       "duration_ms": 425466,
       "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
       "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
-        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 150493,
-      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
-      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 114601,
       "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
       "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
         "name": "Fermata",
         "url": "https://open.spotify.com/album/4JX6cTjreUto3SKGbrQvHy"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 183904,
       "name": "Fermata",
       "url": "https://open.spotify.com/track/3hCQEudNCNQs0u9zaBpSW8"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
+        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 150493,
+      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
+      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1915,6 +1915,42 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Nocturnes, Vol. 1",
+        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
+      },
+      "artists": [
+        {
+          "name": "Valmandel",
+          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Nocturne No. 6, Serenity",
+      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Mozart 1791",
         "url": "https://open.spotify.com/album/74bgXk4SBoMqfcXoAAh7VQ"
       },
@@ -1943,38 +1979,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
+        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
       },
       "artists": [
         {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+          "name": "Snorri Sigf\u00fas Birgisson",
+          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
         },
         {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Nocturnes, Vol. 1",
-        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
-      },
-      "artists": [
-        {
-          "name": "Valmandel",
-          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Nocturne No. 6, Serenity",
-      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
+      "duration_ms": 105386,
+      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
+      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -1999,26 +2019,6 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
-        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
-      },
-      "artists": [
-        {
-          "name": "Snorri Sigf\u00fas Birgisson",
-          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
-      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
+        "name": "Carve the Runes Then Be Content With Silence",
+        "url": "https://open.spotify.com/album/1GhkRKKCDDDi5iVrWXybbd"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 265665,
+      "name": "With Silence (Mvt. 3) - Pt. 4 \u201csunwards turn\u201d",
+      "url": "https://open.spotify.com/track/6uTEe5tHsfdbFMN1uHe31k"
+    },
+    {
+      "added_at": "2026-09-25 04:01:33",
+      "album": {
         "name": "Barbella: Mandolin Concerto in D Major: II. Andantino",
         "url": "https://open.spotify.com/album/3Hv6HfQgtLiNwpyuB7GuIv"
       },
@@ -2291,18 +2307,22 @@
     {
       "added_at": "2026-09-25 04:01:33",
       "album": {
-        "name": "Carve the Runes Then Be Content With Silence",
-        "url": "https://open.spotify.com/album/1GhkRKKCDDDi5iVrWXybbd"
+        "name": "Beeftink: Frequency",
+        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
       },
       "artists": [
         {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+          "name": "Herman Beeftink",
+          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
+        },
+        {
+          "name": "Emissary Quartet",
+          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
         }
       ],
-      "duration_ms": 265665,
-      "name": "With Silence (Mvt. 3) - Pt. 4 \u201csunwards turn\u201d",
-      "url": "https://open.spotify.com/track/6uTEe5tHsfdbFMN1uHe31k"
+      "duration_ms": 378040,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
     },
     {
       "added_at": "2026-09-25 04:01:33",
@@ -2323,26 +2343,6 @@
       "duration_ms": 96786,
       "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
       "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
-    },
-    {
-      "added_at": "2026-09-25 04:01:33",
-      "album": {
-        "name": "Beeftink: Frequency",
-        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
-      },
-      "artists": [
-        {
-          "name": "Herman Beeftink",
-          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
-        },
-        {
-          "name": "Emissary Quartet",
-          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
-        }
-      ],
-      "duration_ms": 378040,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
     },
     {
       "added_at": "2026-09-25 04:01:33",

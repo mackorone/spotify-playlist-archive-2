@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,717 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,716 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 18 | [Daylight](https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:32 |
 | 19 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
 | 20 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
-| 21 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
-| 22 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
+| 21 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
+| 22 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 23 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
 | 24 | [SLICK](https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [SLICK](https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ) | 1:46 |
 | 25 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 67 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 |
 | 68 | [Centre of Peace](https://open.spotify.com/track/0eXpyRulLKEvTJybiU0nQu) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Centre of Peace](https://open.spotify.com/album/2WUEljT1AkJBw75JJrxoz5) | 3:39 |
 | 69 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
-| 70 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
-| 71 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
+| 70 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
+| 71 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
 | 72 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
 | 73 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
 | 74 | [Net Ek en Jy](https://open.spotify.com/track/21YKuvaq2BMxtcZkYjDUzP) | [Donkerbaai](https://open.spotify.com/artist/1ZOPflWBgVViEjUVgYJLnL), [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Net Ek en Jy](https://open.spotify.com/album/2yUHbH2SRbTSsmOaqs2cYY) | 3:17 |

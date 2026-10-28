@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-320 songs - 1 day 4 hr 1 min
+321 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Falling Into The Darkness](https://open.spotify.com/track/4jZnHTXCNzmu1fklBFveJe) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Jodie Poye](https://open.spotify.com/artist/6CclapVC4PKNda06Rjrprv) | [Falling Into The Darkness](https://open.spotify.com/album/4Y3ZBubnX08Oz6eVTYEFeX) | 5:57 | 2023-05-26 | 2023-09-15 |
 | [Famous](https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [Famous](https://open.spotify.com/album/3ro1Am5Vrj5ML2zlgOlvIJ) | 6:59 | 2022-04-15 | 2022-07-29 |
 | [Far Away](https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [Crazy Box](https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP) | [Far Away](https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal) | 4:50 | 2023-10-27 | 2024-03-24 |
-| [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 | 2023-11-25 |  |
+| [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 | 2023-11-25 | 2026-10-28 |
 | [Feel Home](https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma) | [Liquexx](https://open.spotify.com/artist/5v5HDK4ZozQQZJ7NVL8phC), [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej) | [Feel Home](https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc) | 4:23 | 2022-04-15 | 2022-05-21 |
 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 | 2022-04-15 | 2026-10-06 |
 | [Flame](https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Flame](https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB) | 5:49 | 2023-11-10 |  |
@@ -139,6 +139,7 @@
 | [High On Life](https://open.spotify.com/track/2BfOgfF9Wmqu2q6fD9fLFJ) | [Zyce](https://open.spotify.com/artist/6kyeGjpiR7Gdw27yU0yvUm), [Flegma](https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC), [Sonic Species](https://open.spotify.com/artist/0RB2HADLaxeaZAlNus7vVG) | [High On Life](https://open.spotify.com/album/2qPQc7z2aELxBE8Kw8nhSk) | 6:37 | 2025-02-28 |  |
 | [High Pressure](https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7) | [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [High Pressure](https://open.spotify.com/album/1rjPGCwMLNjqQ4tbxsjbs7) | 6:17 | 2022-04-15 | 2022-07-29 |
 | [Hogbeza](https://open.spotify.com/track/4I78a7kBr9IlrVc69GbwLY) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Psyfeature](https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F) | [Hogbeza](https://open.spotify.com/album/3aujW4E3Ma2vnTfgusmGm7) | 5:21 | 2023-11-25 | 2025-07-13 |
+| [Hollows](https://open.spotify.com/track/3f2WFDZHrY19p2uIa0K056) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Who Knows?](https://open.spotify.com/artist/6tvW6l27AmnK12EfQbT3D4) | [Hollows](https://open.spotify.com/album/095GfLmokf7gyy4Rc3JYBo) | 4:42 | 2026-07-17 |  |
 | [Home Alone \- Monod Remix](https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Monod](https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO) | [Home Alone \(Monod Remix\)](https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f) | 7:01 | 2023-11-10 | 2026-03-11 |
 | [Hope](https://open.spotify.com/track/7xKVXX3cAq5TWskeCB0Oan) | [Second Sun](https://open.spotify.com/artist/75HG32kTRg2zB1fhG6vDvZ) | [Hope](https://open.spotify.com/album/5uNYkS7wopjFHienGVHI3b) | 6:48 | 2022-05-12 | 2022-06-17 |
 | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Ravid Kahalani](https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s) | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc) | 2:25 | 2023-01-20 | 2026-04-27 |

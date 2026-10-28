@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : BEN plg",
-  "num_followers": 401293,
+  "num_followers": 401267,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Zoblazo",
+        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "duration_ms": 160474,
+      "name": "Zoblazo",
+      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "IMALI",
         "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 283127,
       "name": "IMALI",
       "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Zoblazo",
-        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
-      },
-      "artists": [
-        {
-          "name": "Ruthee",
-          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
-        }
-      ],
-      "duration_ms": 160474,
-      "name": "Zoblazo",
-      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
     },
     {
       "added_at": "2026-09-30 22:00:22",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW"
+      },
+      "artists": [
+        {
+          "name": "Girls In Hawaii",
+          "url": "https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Is It Happening Right Now?",
+      "url": "https://open.spotify.com/track/1iaTJl9hntAmATs8gKryNn"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "305",
         "url": "https://open.spotify.com/album/4Ta7ximL6sf0o1xT8yovxi"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 185634,
       "name": "305",
       "url": "https://open.spotify.com/track/7oVw8rnU2JPXTX3JXLJ1lj"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW"
-      },
-      "artists": [
-        {
-          "name": "Girls In Hawaii",
-          "url": "https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Is It Happening Right Now?",
-      "url": "https://open.spotify.com/track/1iaTJl9hntAmATs8gKryNn"
     },
     {
       "added_at": "2026-09-30 22:00:22",

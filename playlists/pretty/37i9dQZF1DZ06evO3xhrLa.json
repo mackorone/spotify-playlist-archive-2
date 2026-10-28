@@ -1,6 +1,6 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 249454,
+  "num_followers": 249467,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hall Of Fame (Deluxe)",
-        "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 235186,
-      "name": "Beware",
-      "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
+      "duration_ms": 179973,
+      "name": "I'll Kill You (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r"
     },
     {
       "added_at": null,
@@ -391,22 +387,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "Hall Of Fame (Deluxe)",
+        "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 179973,
-      "name": "I'll Kill You (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r"
+      "duration_ms": 235186,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > pov: ur that ANGEL 🪽
 
-422 songs - 22 hr 44 min
+423 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Aperol Spritz](https://open.spotify.com/track/10V1mRpItQP4ZNCfEiOuF7) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [Aperol Spritz](https://open.spotify.com/album/6WuSVFwTdlUGqq4Q5t6uR5) | 2:59 | 2026-04-22 | 2026-07-11 |
 | [April](https://open.spotify.com/track/2g4WU3DW5CtHRohxMWw2wH) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [April](https://open.spotify.com/album/77SSFBy29ddxQnSq6K0zlT) | 3:15 | 2025-09-12 | 2025-10-16 |
 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 | 2026-08-21 |  |
-| [are we on a break](https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 3:13 | 2026-10-23 |  |
+| [are we on a break](https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 3:13 | 2026-10-23 | 2026-10-28 |
 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 | 2025-05-08 | 2025-08-16 |
 | [Attracted to You](https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Attracted To You](https://open.spotify.com/album/3tY6ZOPhcl9B5HVVhs7GkC) | 1:07 | 2026-03-06 | 2026-04-23 |
 | [avoidant little b <3](https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [avoidant little b <3](https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ) | 2:28 | 2026-01-16 | 2026-03-06 |
@@ -172,6 +172,7 @@
 | [Hot](https://open.spotify.com/track/7F1lHcpnTycnimQrCxDFI5) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Hot](https://open.spotify.com/album/1BykQV2nA2F8zXzsUJ6DQ2) | 3:37 | 2025-09-25 | 2026-08-21 |
 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 | 2025-09-26 | 2026-01-16 |
 | [Hot & Sexy](https://open.spotify.com/track/4ZwesbtAZQaXbwx6GMnGhC) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-09-25 | 2025-09-27 |
+| [Hot & talking](https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Hot & talking](https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW) | 3:11 | 2026-10-23 |  |
 | [Hot Goblin](https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Hot Goblin](https://open.spotify.com/album/3ehPg84etRc980Up4eqY93) | 2:38 | 2025-09-12 | 2025-12-02 |
 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 | 2026-04-22 | 2026-06-20 |
 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-23 |  |

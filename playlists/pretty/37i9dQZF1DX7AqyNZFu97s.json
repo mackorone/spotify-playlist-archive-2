@@ -1,13 +1,93 @@
 {
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Clara Mann",
-  "num_followers": 39645,
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Zeddy East",
+  "num_followers": 39669,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhdoMBbNkqYjnFxAaNegTzMvVhf",
+  "snapshot_id": "AAAAAPFd/vSHX1HlJgnTrpsjcfk2O4Ry",
   "tracks": [
+    {
+      "added_at": "2026-10-28 00:00:19",
+      "album": {
+        "name": "Kinda Like That",
+        "url": "https://open.spotify.com/album/18gbqRJp8J7EPO0wdfiNLB"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "duration_ms": 209076,
+      "name": "Kinda Like That",
+      "url": "https://open.spotify.com/track/5yJdhGkgX2NBL9ExGLoErW"
+    },
+    {
+      "added_at": "2026-10-28 00:00:19",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/7gZjxGBppJ3zKzvIGr0Odo"
+      },
+      "artists": [
+        {
+          "name": "Shireen Valentina",
+          "url": "https://open.spotify.com/artist/413HJCrRfrlWsS1QjOVkMQ"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/5MJoXRKLMfqlZAVnAEuhjJ"
+    },
+    {
+      "added_at": "2026-10-28 00:00:19",
+      "album": {
+        "name": "Tell It Me Straight",
+        "url": "https://open.spotify.com/album/3QnHN82D5eZz77Lt2QWMSm"
+      },
+      "artists": [
+        {
+          "name": "XL Poncho",
+          "url": "https://open.spotify.com/artist/2Jsgu3UPSWXzicWCwwZLWy"
+        }
+      ],
+      "duration_ms": 196777,
+      "name": "Tell It Me Straight",
+      "url": "https://open.spotify.com/track/2PkNbKqot8WMuqDwEssK6p"
+    },
+    {
+      "added_at": "2026-10-28 00:00:19",
+      "album": {
+        "name": "Cool On You",
+        "url": "https://open.spotify.com/album/7ravH6PuMD7kFjS1AS6QRC"
+      },
+      "artists": [
+        {
+          "name": "Josephine Genais",
+          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
+        }
+      ],
+      "duration_ms": 235659,
+      "name": "Cool On You",
+      "url": "https://open.spotify.com/track/2whnzJ9ltpgvitX57bLTqz"
+    },
+    {
+      "added_at": "2026-10-28 00:00:19",
+      "album": {
+        "name": "Towards the Sun",
+        "url": "https://open.spotify.com/album/39oLbJLfkvif5ztHmPtlvM"
+      },
+      "artists": [
+        {
+          "name": "Orchard",
+          "url": "https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Towards the Sun",
+      "url": "https://open.spotify.com/track/1neD7vJSE4eQf46g7QhtK9"
+    },
     {
       "added_at": "2026-10-20 23:00:19",
       "album": {
@@ -703,102 +783,6 @@
       "duration_ms": 200574,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5h6egLpDakVbp8QnBIn8yD"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Everything You Need",
-        "url": "https://open.spotify.com/album/7A67UgXRwQYkSpvJnqdnay"
-      },
-      "artists": [
-        {
-          "name": "Will Bryant",
-          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
-        }
-      ],
-      "duration_ms": 195534,
-      "name": "Everything You Need",
-      "url": "https://open.spotify.com/track/1TQGYyFOJIU8K8Ihos5e1G"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Open Cards",
-        "url": "https://open.spotify.com/album/3DtPiZOb2I1PkvvssmvATr"
-      },
-      "artists": [
-        {
-          "name": "Naliyah",
-          "url": "https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Open Cards",
-      "url": "https://open.spotify.com/track/6chrX8lc4DXuIc7BRbrVQY"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Sounds Like An Ending",
-        "url": "https://open.spotify.com/album/3jOL1kXdr6sRXkqb8NQB9x"
-      },
-      "artists": [
-        {
-          "name": "jjuno",
-          "url": "https://open.spotify.com/artist/6G4JfBtIPqP0VSTpNuVKej"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sounds Like An Ending",
-      "url": "https://open.spotify.com/track/1SXoMnQgRKFxN52Oj29BUA"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Black Crow",
-        "url": "https://open.spotify.com/album/1sKGczpjmdPsVzK2iiW0p9"
-      },
-      "artists": [
-        {
-          "name": "Martha Hill",
-          "url": "https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR"
-        }
-      ],
-      "duration_ms": 260218,
-      "name": "Black Crow",
-      "url": "https://open.spotify.com/track/6BiDwipav1E90jIcmpKTU9"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "He Said She Said",
-        "url": "https://open.spotify.com/album/1rbcFohPR9qlUDIJ8po6Gy"
-      },
-      "artists": [
-        {
-          "name": "Louis Ottley",
-          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "He Said She Said",
-      "url": "https://open.spotify.com/track/4nHiea0Guj78Bjeu1NojAT"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Rust Bucket",
-        "url": "https://open.spotify.com/album/3t36VFJZEVIaViy3c5i53x"
-      },
-      "artists": [
-        {
-          "name": "KinKai",
-          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
-        }
-      ],
-      "duration_ms": 173750,
-      "name": "Rust Bucket",
-      "url": "https://open.spotify.com/track/2y9kyRabTtxKaovNP7vz7g"
     }
   ],
   "unique_name": "Fresh Finds UK & IE",

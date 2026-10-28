@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,634 songs - 3 day 23 hr 21 min
+1,636 songs - 3 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [Io ti perderò \- Live 2026](https://open.spotify.com/track/4mRlNi6l2t4TlVGTNwckN9) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Io ti perderò \(Live 2026\)](https://open.spotify.com/album/7pG4kvuYvthqUkqpmX6fDM) | 3:20 | 2026-08-29 | 2026-09-20 |
 | [It Gets Better](https://open.spotify.com/track/3aJL2o26QXD7KYX8daL0yX) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [honeybee](https://open.spotify.com/artist/3uRgGI7WqysQzxvmmSXMpF) | [It Gets Better](https://open.spotify.com/album/4cZdqoIPaeYn108RoDhJkV) | 3:19 | 2026-03-30 | 2026-05-03 |
 | [It Slips Out](https://open.spotify.com/track/5czxTvjUblxfYTgu3uBFT2) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [It Slips Out](https://open.spotify.com/album/4ZxE206WS5pevYK2fARkpv) | 3:23 | 2026-06-26 | 2026-08-10 |
+| [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-10-27 |  |
 | [It's Around Us](https://open.spotify.com/track/17LZMhN8rYL6QWZbSS4SeH) | [Matteo Castelluccia](https://open.spotify.com/artist/1PjHSJjuRXjJwBrQyAoz53) | [It's Around Us](https://open.spotify.com/album/0TL8jDhLFhTEp8PMghFsiv) | 4:02 | 2025-12-19 | 2026-01-15 |
 | [It's Been A Year](https://open.spotify.com/track/635ncU7KUrv7RLKzOUFasu) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [It's Been A Year](https://open.spotify.com/album/2ea8M9j1kcqXw444mZbuwA) | 3:41 | 2025-12-22 | 2026-01-24 |
 | [It's Not A Love Song](https://open.spotify.com/track/2nYU8y9PJSY6eB2KZvUSUK) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [It's Not A Love Song](https://open.spotify.com/album/4G15K8x7LWsUsoQMLR7A6V) | 4:09 | 2026-08-24 | 2026-09-20 |
@@ -1611,6 +1612,7 @@
 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-09-05 | 2026-10-03 |
 | [You Only Live Once](https://open.spotify.com/track/78ZUdJY596WjWnlO2rrf1H) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [You Only Live Once](https://open.spotify.com/album/7A3KnD5zWY1u4obrLVdN5f) | 3:43 | 2026-06-30 | 2026-08-10 |
 | [You Orient Me](https://open.spotify.com/track/7J7pMhd7fB8UhwC7JsBDmE) | [Troy Page](https://open.spotify.com/artist/43sl6HtfaTIfUYNi7GDSSh) | [You Orient Me](https://open.spotify.com/album/5JyTywZwRy29o97qQpKZpR) | 3:30 | 2026-08-22 | 2026-09-17 |
+| [You Said I'd Never Change](https://open.spotify.com/track/7xqDHEpl8ePbstLUxRNcVQ) | [Hayden Brenen](https://open.spotify.com/artist/7BKiPDmASIDU9i6vFRdPta) | [You Said I'd Never Change](https://open.spotify.com/album/3myktVBzu7WblturEcPP5N) | 3:40 | 2026-10-27 |  |
 | [YOU SHOULD KNOW](https://open.spotify.com/track/0sPPHtsOUhgGZP7vC366rP) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [YOU SHOULD KNOW](https://open.spotify.com/album/4CkIrQzgFRTE1aNK1kJB0V) | 2:23 | 2026-01-15 | 2026-02-20 |
 | [You're Enough](https://open.spotify.com/track/4K9nHbzFfyKHzLwmnqZ3R2) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [You're Enough](https://open.spotify.com/album/6nuTX1CU4L6odrF1OgUrMF) | 2:19 | 2026-06-09 | 2026-07-19 |
 | [You're Leaving](https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Andrea Pullone](https://open.spotify.com/artist/5qu2na5lSZrhmvL8OtvUks), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [You're Leaving](https://open.spotify.com/album/4q1tPf6cWNrKRPAMKa70WD) | 3:47 | 2025-10-23 | 2026-07-19 |

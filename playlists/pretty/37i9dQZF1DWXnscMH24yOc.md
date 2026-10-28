@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,220 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,237 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 50 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 |
 | 51 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 |
 | 52 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 |
-| 53 | [dreams](https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [dreams](https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO) | 4:17 |
-| 54 | [Dancing on My Own](https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9) | [Jake McMullen](https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN) | [Dancing on My Own](https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY) | 5:07 |
+| 53 | [Dancing on My Own](https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9) | [Jake McMullen](https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN) | [Dancing on My Own](https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY) | 5:07 |
+| 54 | [dreams](https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [dreams](https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO) | 4:17 |
 | 55 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 56 | [Say You'll Be There](https://open.spotify.com/track/6OwDUCgzQOIVcjHA5PBb15) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Say You'll Be There](https://open.spotify.com/album/5AyQKsPpZ0WK6shtBDZGOw) | 3:53 |
 | 57 | [Country Roads](https://open.spotify.com/track/2ETA67aCemVtQj2nS4TWaM) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4), [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Country Roads](https://open.spotify.com/album/2htGdWsy7NuxdwLs0tA3Y4) | 3:13 |
 | 58 | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb) | 3:58 |
 | 59 | [Honesty](https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY) | [WesternBoy](https://open.spotify.com/artist/2tDK1KYXsOsqTe2ln3We4E) | [Honesty](https://open.spotify.com/album/2otA7Hgaul96xbL6C30GO8) | 3:45 |
 | 60 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 |
-| 61 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 |
-| 62 | [Love](https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald) | [Kris Orlowski](https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w) | [Love](https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh) | 4:01 |
+| 61 | [Love](https://open.spotify.com/track/2ixTmOHffy8b5Qh29ctald) | [Kris Orlowski](https://open.spotify.com/artist/05TVdmW8p3d5yYIyvw6B3w) | [Love](https://open.spotify.com/album/0rHBGPkCOQBu6WyfSDmvjh) | 4:01 |
+| 62 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 |
 | 63 | [Lover](https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Lover](https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj) | 2:43 |
 | 64 | [Don't Start Now](https://open.spotify.com/track/5WJCqGGc4oqUWR2qzfIsWl) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM), [Karis](https://open.spotify.com/artist/1U9tVmBqCyiaP2gDSVwDIX) | [Don't Start Now](https://open.spotify.com/album/7KqUfOkPGBNQkoS9um3JCF) | 2:10 |
 | 65 | [In The Aeroplane Over The Sea](https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In The Aeroplane Over The Sea](https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u) | 3:41 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 74 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
 | 75 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
 | 76 | [The Tourist](https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 4:52 |
-| 77 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
-| 78 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
+| 77 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
+| 78 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
 | 79 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 |
 | 80 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 | 81 | [Everybody Here Wants You](https://open.spotify.com/track/6Ae3iEZalzep9aDRbGGMHK) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 4:17 |

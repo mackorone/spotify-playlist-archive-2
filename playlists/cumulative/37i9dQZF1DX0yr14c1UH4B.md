@@ -4,7 +4,7 @@
 
 > It's all about the song 🎧 cover: Méav
 
-1,075 songs - 2 day 12 hr 28 min
+1,076 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,6 +1026,7 @@
 | [when i look in her eyes](https://open.spotify.com/track/2ynnKkcv2EJNN6EKjO43ER) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [when i look in her eyes](https://open.spotify.com/album/194q4PmzbjIrJUcRKXjieo) | 3:30 | 2025-05-15 | 2025-05-23 |
 | [When We Kiss](https://open.spotify.com/track/2U6OhuQxQDXvWKNtjjvt7x) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1MnJ7kyvqBNEfegy1PrJ8p) | 3:32 | 2025-01-31 | 2025-03-21 |
 | [When You Fall In Love](https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [When You Fall In Love](https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye) | 3:07 | 2026-03-13 | 2026-08-07 |
+| [When You’re Here](https://open.spotify.com/track/26ZyOmsahjpLYw9hJkb9rV) | [Florence Rose Broomfield](https://open.spotify.com/artist/6rkzTIEcx03p1nmHoo3uSZ) | [When You’re Here](https://open.spotify.com/album/2gWDHfORewgZYmvtHQZsDa) | 2:44 | 2026-10-23 |  |
 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 | 2025-05-02 | 2025-06-27 |
 | [Where I Belong](https://open.spotify.com/track/5eM3Njfh0POue5JytpolPt) | [Curtis Walsh](https://open.spotify.com/artist/1skYjCzZNmy9Zjk7mdFgeS) | [Where I Belong](https://open.spotify.com/album/6d4KYg3Bby8Fz7GUlESLA9) | 3:17 | 2026-10-15 |  |
 | [Where Is the Love](https://open.spotify.com/track/7r4MsuNZDYEgTxc1zYHKsS) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Where Is the Love](https://open.spotify.com/album/3vX4wLSVpzrL3vr6CFXuVv) | 4:02 | 2026-07-30 |  |

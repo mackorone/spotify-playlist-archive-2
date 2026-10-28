@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles
 
-2,244 songs - 5 day 14 hr 4 min
+2,247 songs - 5 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -901,6 +901,7 @@
 | [Hero Of Your Heart \(Ballad Of An Asshole\)](https://open.spotify.com/track/3VzAp6cUKqVElWWLAYrIjW) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [Hero Of Your Heart](https://open.spotify.com/album/02aT7pXK9R3mgXPt1jJVio) | 3:21 | 2022-08-10 | 2022-10-27 |
 | [Heron's Hunt](https://open.spotify.com/track/6GvPvj8gN8Hp0t6AV2Wk1T) | [The Smoky Dunes](https://open.spotify.com/artist/7iP2KHxr4BuFRRwyyuJZVn) | [Heron's Hunt](https://open.spotify.com/album/3B0t23DZiOXTuIaSKL1lLY) | 1:49 | 2022-05-25 | 2022-06-16 |
 | [Hiding](https://open.spotify.com/track/4e8RQfANIwFOkjcval95ky) | [Hayfitz](https://open.spotify.com/artist/6Ll2krEOObQ8m7QFbmG10y) | [Everything Else](https://open.spotify.com/album/6HafEIQR9DRbSmXkRBO5bC) | 2:57 | 2023-10-18 | 2023-12-11 |
+| [Hiding](https://open.spotify.com/track/1aOZwJQaSEckAnLXeU00fT) | [Trask](https://open.spotify.com/artist/5V4IcR7gN4KcBUGKmIOnqQ) | [Hiding](https://open.spotify.com/album/1jy807mjNUP0S7MUYUubnc) | 3:49 | 2026-10-28 |  |
 | [Hiding Place](https://open.spotify.com/track/3V1OFJtPuJsps4AIesfKTe) | [Dillon Havins](https://open.spotify.com/artist/2nnEZHcHQqk24rd4xpa5Oo) | [Hiding Place](https://open.spotify.com/album/4QEGtVIxuwz7AJQOT4SYwz) | 3:46 | 2025-02-19 | 2025-05-15 |
 | [High Priestess](https://open.spotify.com/track/6op8nmhRZuRQHu4XjeAbLC) | [Brennan Wedl](https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh) | [Brennan Wedl](https://open.spotify.com/album/4CkrrcJMgywPuVY3iJCZk1) | 2:40 | 2026-08-26 |  |
 | [High School Gym](https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [High School Gym](https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ) | 4:10 | 2022-08-24 | 2022-11-24 |
@@ -957,6 +958,7 @@
 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 | 2023-04-12 | 2023-06-22 |
 | [HRE](https://open.spotify.com/track/6SNcR6J5f6YGyfeJ74twKm) | [Julian Spector](https://open.spotify.com/artist/0Cd6wbzFm53orgr0tNXNXC) | [HRE](https://open.spotify.com/album/040UB5WeZJnUW3B1JQtrtJ) | 2:51 | 2024-01-10 | 2024-02-08 |
 | [Human Angel](https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Follow The Light](https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y) | 2:59 | 2026-10-21 |  |
+| [Human Nature](https://open.spotify.com/track/5HiOKei6AeeO6FVOkIOn8J) | [Olivia Barnes](https://open.spotify.com/artist/6OlUNIT9FUO9BkFDPrixVa) | [Human Nature](https://open.spotify.com/album/5Bzk26GdfsBYjKmylM7t9e) | 2:57 | 2026-10-28 |  |
 | [hummingbirds](https://open.spotify.com/track/44axxWgMr1AIeVzuKUmNkR) | [juliet sunflower](https://open.spotify.com/artist/5t2dbwzciTLK5LwHB71doG) | [hummingbirds](https://open.spotify.com/album/5QoGGZEsbdlcAP8Gmz4PAU) | 3:22 | 2025-06-18 | 2025-09-25 |
 | [Hunger](https://open.spotify.com/track/2JgHL2YfqH5Tp83CYwnNXm) | [Ky J\. Brandes](https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu) | [Hunger](https://open.spotify.com/album/6A1sfVgXX8XSG1HNxTq0Pk) | 4:05 | 2024-09-18 | 2024-12-05 |
 | [Hurt a Little](https://open.spotify.com/track/3AYlj0ZEflUDbck52aGcoc) | [Scarlett Egan](https://open.spotify.com/artist/5g9xNMf6SWEDBP6y190eS8) | [The Next Man Who Loves Me](https://open.spotify.com/album/0CXfY8E1oxKuSjyLs8t9CN) | 3:06 | 2026-06-17 | 2026-09-03 |
@@ -1643,6 +1645,7 @@
 | [ride my bike 2 the ocean](https://open.spotify.com/track/6MxmqTviR4ufZ7ncxHiN1M) | [Okay Alright](https://open.spotify.com/artist/6G9kPlmHYzGrFUYndWG6dh) | [starting today we don't have to pretend](https://open.spotify.com/album/3fyiVxq6fU2QkY9XcEdQZP) | 3:19 | 2022-11-23 | 2023-03-09 |
 | [Right Here](https://open.spotify.com/track/6QudyDdeTi89Go7OlE0MUM) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Right Here](https://open.spotify.com/album/14j3vsC5yEYB0o0do3BQoz) | 3:54 | 2024-07-24 | 2024-10-10 |
 | [Rind](https://open.spotify.com/track/0GQnSp82ETFcxspK3Ti9Vf) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb) | [Rind](https://open.spotify.com/album/73A4Mm5iek5ujAk8vqKx0r) | 4:36 | 2023-09-27 | 2023-12-11 |
+| [Ring Stains](https://open.spotify.com/track/1ay4m8MZVn9K8T3VP2AMOk) | [Lamplight](https://open.spotify.com/artist/6W7C7NhjSvrh9u1P7bjUx0) | [Ring Stains](https://open.spotify.com/album/5jhWYXrPiDElJ994C6d35o) | 1:46 | 2026-10-28 |  |
 | [Risky Business](https://open.spotify.com/track/5PVclwbAo6ZhYvO8XldM2M) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Risky Business](https://open.spotify.com/album/2sxX3b80kdaQB0eS7IvZ4r) | 3:29 | 2025-01-22 | 2025-05-08 |
 | [River Roll](https://open.spotify.com/track/3GARJBrfOaaFGBFlememA4) | [Cristina Vane](https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD) | [River Roll](https://open.spotify.com/album/4xNOefK2HzMaSbgHe5ensU) | 3:46 | 2022-05-25 | 2022-08-04 |
 | [River Run](https://open.spotify.com/track/1725wOjQopDGXUqD6n7Cu6) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [River Run](https://open.spotify.com/album/5SIs2da6wmXQw4OFcPsTtp) | 4:25 | 2022-06-15 | 2022-09-15 |

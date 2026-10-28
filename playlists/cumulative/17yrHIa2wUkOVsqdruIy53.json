@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 42.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 43.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 151578,
       "name": "Blue Talisman",
       "url": "https://open.spotify.com/track/1JT6JFTCc15gtFLI4ClcxZ"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 224813,
       "name": "Cheap Thrills (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 188800,
       "name": "Cry Baby Cry",
       "url": "https://open.spotify.com/track/78MVrtGTJQXI3dRDOugoMG"
@@ -4685,6 +4685,28 @@
     },
     {
       "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+    },
+    {
+      "album": {
         "name": "4LAP",
         "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
       },
@@ -4906,7 +4928,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
@@ -4928,6 +4950,40 @@
       "duration_ms": 177692,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP"
+    },
+    {
+      "album": {
+        "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+        "url": "https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        },
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
+      "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
     },
     {
       "album": {
@@ -5610,7 +5666,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 146419,
       "name": "GLASWASSERFLASCHE",
       "url": "https://open.spotify.com/track/7kPEhBHAsuDqEOidXk3JT5"
@@ -5960,7 +6016,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 209160,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/0a9npeEQIad1Wr4H1RsLPU"
@@ -6298,7 +6354,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -6490,6 +6546,24 @@
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
+    },
+    {
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
       "album": {
@@ -6716,7 +6790,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
@@ -6954,6 +7028,24 @@
       "duration_ms": 159404,
       "name": "Immer",
       "url": "https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc"
+    },
+    {
+      "album": {
+        "name": "IMPULSIVE",
+        "url": "https://open.spotify.com/album/3ywEQ1qz7ZjehBOSAOPieP"
+      },
+      "artists": [
+        {
+          "name": "Thekidszn",
+          "url": "https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "IMPULSIVE",
+      "url": "https://open.spotify.com/track/6HkdUz90Kmcxr0cprI10UL"
     },
     {
       "album": {
@@ -8459,6 +8551,24 @@
     },
     {
       "album": {
+        "name": "LUCKY LUKE",
+        "url": "https://open.spotify.com/album/5B0KOoGFvwESmztitghvQo"
+      },
+      "artists": [
+        {
+          "name": "HARDWICK",
+          "url": "https://open.spotify.com/artist/5LUWRPPWSSuoscgqvF2j7p"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114580,
+      "name": "LUCKY LUKE",
+      "url": "https://open.spotify.com/track/4KMo5BKlbTrEuo4CHib6Ma"
+    },
+    {
+      "album": {
         "name": "Luje",
         "url": "https://open.spotify.com/album/7lnODIBeqPRodH4fD8nTSy"
       },
@@ -8758,6 +8868,24 @@
       "duration_ms": 123818,
       "name": "Malediven",
       "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
+    },
+    {
+      "album": {
+        "name": "Mama (Remix)",
+        "url": "https://open.spotify.com/album/0oMeZ74j10HLRINkIijBmT"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Mama - Remix",
+      "url": "https://open.spotify.com/track/69PI6qcKE6c90NCjPHHQnp"
     },
     {
       "album": {
@@ -9866,7 +9994,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 178000,
       "name": "Niemals",
       "url": "https://open.spotify.com/track/4sQLcCNICsrx3eJCRzIkDM"
@@ -9946,7 +10074,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -9982,7 +10110,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -10372,6 +10500,32 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/2bmznCkXEHTuKyrwPbgs3i"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/2ijjoGtVFIGmRytmkvufSp"
     },
     {
       "album": {
@@ -11614,7 +11768,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
@@ -12092,7 +12246,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 186475,
       "name": "Sebebi Yar",
       "url": "https://open.spotify.com/track/1gd1TicErR4bwjR3CYxyra"
@@ -12502,7 +12656,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
@@ -13900,7 +14054,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 208173,
       "name": "The Night We Met (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l"
@@ -13962,7 +14116,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
@@ -14619,6 +14773,24 @@
     },
     {
       "album": {
+        "name": "UNETHICAL",
+        "url": "https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219864,
+      "name": "UNETHICAL",
+      "url": "https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs"
+    },
+    {
+      "album": {
         "name": "Unsicher",
         "url": "https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S"
       },
@@ -14850,6 +15022,28 @@
       "duration_ms": 154653,
       "name": "Vermisse",
       "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
+    },
+    {
+      "album": {
+        "name": "Vermissen (feat. Henning May)",
+        "url": "https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161882,
+      "name": "Vermissen (feat. Henning May)",
+      "url": "https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ"
     },
     {
       "album": {
@@ -15104,7 +15298,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
@@ -15160,6 +15354,24 @@
       "duration_ms": 181203,
       "name": "Warschau",
       "url": "https://open.spotify.com/track/3fX9heYJkpJwVqAI2oXUWn"
+    },
+    {
+      "album": {
+        "name": "WARUM",
+        "url": "https://open.spotify.com/album/1diUR64PL66yh18l6fT7tw"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "WARUM",
+      "url": "https://open.spotify.com/track/1UbwOCk4hJpqQyCIkmovZi"
     },
     {
       "album": {

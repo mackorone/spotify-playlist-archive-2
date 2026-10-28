@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: REVNOIR and REEBZ",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Glasswaves",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "All Eyes on Me",
+        "url": "https://open.spotify.com/album/7led6ErdcOvmtvjgnKVrrP"
+      },
+      "artists": [
+        {
+          "name": "Lifesick",
+          "url": "https://open.spotify.com/artist/13FHBq4PUsmv1MWPs4APXo"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158440,
+      "name": "All Eyes on Me",
+      "url": "https://open.spotify.com/track/1SkHjm9JJf2ynPFXuraqSZ"
+    },
+    {
+      "album": {
         "name": "all i know",
         "url": "https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 192866,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/7BlGdTvvVAw2NAJtqoKCT2"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 167811,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4Auluv7see8gVVLOjP2yhi"
@@ -2159,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "BRIGHTS",
+        "url": "https://open.spotify.com/album/41sTpttbx8t0B8qlqI7kwp"
+      },
+      "artists": [
+        {
+          "name": "Tornadic",
+          "url": "https://open.spotify.com/artist/2pP5J0zNkwzbWO2FkkdOnQ"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216124,
+      "name": "BRIGHTS",
+      "url": "https://open.spotify.com/track/7yDTz1qS0Z6S2Eum11RBpo"
+    },
+    {
+      "album": {
         "name": "Hunting Ghosts, Finding Demons",
         "url": "https://open.spotify.com/album/0Dbj4qDn7Hsmbi7IKT8Wph"
       },
@@ -2174,6 +2210,24 @@
       "duration_ms": 194419,
       "name": "Bring Back the Guillotine",
       "url": "https://open.spotify.com/track/5tL0FZEJBwtmUAlegAvKxI"
+    },
+    {
+      "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/1PFGGX3O52cyWPRneJHoK6"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Bring You Back",
+      "url": "https://open.spotify.com/track/6X26YFr9c2xFILZ1QXjL5E"
     },
     {
       "album": {
@@ -4418,7 +4472,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 169188,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/2GtLJ75gxcW5LYiIIGc9Wb"
@@ -5962,10 +6016,32 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 256241,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/1kQkBDh2KZsO4Y6RlCPlGz"
+    },
+    {
+      "album": {
+        "name": "Far From Home",
+        "url": "https://open.spotify.com/album/0xQ2JR1iO0IDSKIHFXE8fU"
+      },
+      "artists": [
+        {
+          "name": "REVNOIR",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        },
+        {
+          "name": "REEBZ",
+          "url": "https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256241,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/2HOlejR3cX6kv0sA34bb9N"
     },
     {
       "album": {
@@ -8950,7 +9026,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 131706,
       "name": "King",
       "url": "https://open.spotify.com/track/3VRsMiwkWnPGfcdeMHr1H0"
@@ -11576,7 +11652,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 212072,
       "name": "Onerous Sky",
       "url": "https://open.spotify.com/track/5gxx88JJRNAUA3sxXc7YaH"
@@ -13389,6 +13465,24 @@
     },
     {
       "album": {
+        "name": "while(True)",
+        "url": "https://open.spotify.com/album/0A4v8ZLCNEvdHa2DxowQ4j"
+      },
+      "artists": [
+        {
+          "name": "Glasswaves",
+          "url": "https://open.spotify.com/artist/6dTPsW2GddlLDEuuj8Jj4P"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Saving[face]",
+      "url": "https://open.spotify.com/track/759zZ3mj4Y8EsyJe7kuBOC"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4uNSpSWHxNuQcJ1ra8On0r"
       },
@@ -13971,6 +14065,24 @@
     },
     {
       "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/5uOA6ELV2MeeIljGUCgDAP"
+      },
+      "artists": [
+        {
+          "name": "Aurat",
+          "url": "https://open.spotify.com/artist/4ZiXmGjXlAVQNvqXq5VXx0"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218454,
+      "name": "shadow \u0633\u0627\u06cc\u06c1",
+      "url": "https://open.spotify.com/track/4OpeEqqQvp8VexMC1yUKQM"
+    },
+    {
+      "album": {
         "name": "deadwired",
         "url": "https://open.spotify.com/album/73RthiLmt6ZapCWA2QKdwY"
       },
@@ -14000,7 +14112,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 157927,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/66ZV6ECY7xwe5gzM1J7Uad"
@@ -14729,6 +14841,24 @@
     },
     {
       "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/35fCwI0kqyptJbWYFv7Srf"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126428,
+      "name": "Splinter In A Rusted Crown",
+      "url": "https://open.spotify.com/track/6GBw2UbHapqqCMf5DbqFHy"
+    },
+    {
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/72PHQZxcAwXCjKoilDqzPa"
       },
@@ -15378,7 +15508,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 215357,
       "name": "Swarm.ING_",
       "url": "https://open.spotify.com/track/5xJPgpjDBUGa9wvWOaD5YL"
@@ -17648,6 +17778,28 @@
       "duration_ms": 198425,
       "name": "Wanderer (Lose Myself)",
       "url": "https://open.spotify.com/track/6abVCsWeuQAAhvgmddIztf"
+    },
+    {
+      "album": {
+        "name": "War Bait",
+        "url": "https://open.spotify.com/album/5UP9HIUsqYSioWotGaVYTk"
+      },
+      "artists": [
+        {
+          "name": "Ho99o9",
+          "url": "https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL"
+        },
+        {
+          "name": "Slay Squad",
+          "url": "https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "War Bait",
+      "url": "https://open.spotify.com/track/1JmJd0PiRNmJdGJZVABRNX"
     },
     {
       "album": {

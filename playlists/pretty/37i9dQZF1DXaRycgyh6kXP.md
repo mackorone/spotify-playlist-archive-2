@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,482 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,550 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 31 | [She Just Likes to Fight](https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 4:41 |
 | 32 | [Together \(feat\. Nikki Nair, Jessy Lanza & Prentiss\)](https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Together \(feat\. Nikki Nair, Jessy Lanza & Prentiss\)](https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l) | 3:18 |
 | 33 | [Where You Need To Be](https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Where You Need To Be](https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz) | 4:13 |
-| 34 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 |
-| 35 | [I Let Go](https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Light Shines Through](https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k) | 4:18 |
+| 34 | [I Let Go](https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Light Shines Through](https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k) | 4:18 |
+| 35 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 |
 | 36 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 | 37 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 |
 | 38 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 78 | [Of A Vessel](https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz) | [Blank Gloss](https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB) | [Pop Ambient 2021](https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ) | 4:31 |
 | 79 | [Been Such a Long Time \- Luke Alessi Remix](https://open.spotify.com/track/57G4GO2Q2VPiQZjSnWhPgg) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Been Such a Long Time \(Luke Alessi Remixes\)](https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo) | 4:41 |
 | 80 | [Sun\_3hd](https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0) | [Rein](https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt) | [Sun\_3hd](https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1) | 6:16 |
-| 81 | [You Always Knew That Feeling](https://open.spotify.com/track/1VnREQaW6uCVuznjVKNY7h) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [You Always Knew That Feeling](https://open.spotify.com/album/6U83FfftHQv57gB9hSapLT) | 3:05 |
-| 82 | [locket](https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [keepsakeFM](https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH) | 2:16 |
+| 81 | [locket](https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [keepsakeFM](https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH) | 2:16 |
+| 82 | [You Always Knew That Feeling](https://open.spotify.com/track/1VnREQaW6uCVuznjVKNY7h) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [You Always Knew That Feeling](https://open.spotify.com/album/6U83FfftHQv57gB9hSapLT) | 3:05 |
 | 83 | [Affection](https://open.spotify.com/track/6FLFW2V2ne8lJ3c6HFQ1cm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Affection](https://open.spotify.com/album/0oDifJioDcsvb3rt03OPPp) | 3:40 |
 | 84 | [All I Need](https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Flowerdrum](https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk) | 4:08 |
 | 85 | [Eon Lens](https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Eon Lens](https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6) | 5:43 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 94 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 |
 | 95 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
 | 96 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
-| 97 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
-| 98 | [So Many Details](https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything In Return](https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc) | 4:45 |
-| 99 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
-| 100 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
+| 97 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
+| 98 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
+| 99 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
+| 100 | [So Many Details](https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything In Return](https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc) | 4:45 |
 
 Snapshot ID: `AAAAAOJrogt6DHuOFkQCJMxnpi072T+q`

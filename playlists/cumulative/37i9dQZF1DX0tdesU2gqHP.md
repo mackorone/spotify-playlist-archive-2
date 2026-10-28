@@ -4,7 +4,7 @@
 
 > The best videos from the world of pop! Cover: Olivia Rodrigo & Chappell Roan
 
-282 songs - 15 hr 7 min
+283 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,11 +56,12 @@
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-31 | 2026-07-20 |
 | [Closet](https://open.spotify.com/track/1GQxMqoBlrrJFQdDjvHdmY) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Valley Girl Problems](https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso) | 2:26 | 2026-07-31 |  |
 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 | 2026-07-19 | 2026-08-22 |
+| [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-10-27 |  |
 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 | 2026-09-10 | 2026-10-10 |
 | [Crash Out](https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Crash Out](https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB) | 3:10 | 2026-07-24 | 2026-09-19 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-28 |  |
 | [Damn Good Actress](https://open.spotify.com/track/3Uh3cFYJUYqS8CdHDbHkFC) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Damn Good Actress](https://open.spotify.com/album/7IReyqV2mLXGxaNcJkBuh3) | 2:49 | 2026-05-01 | 2026-07-20 |
-| [Dance No More](https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:14 | 2026-05-09 |  |
+| [Dance No More](https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:14 | 2026-05-09 | 2026-10-28 |
 | [Dance With Me](https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:39 | 2026-10-20 |  |
 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 | 2026-03-09 | 2026-05-23 |
 | [Death of Me](https://open.spotify.com/track/7fguLMcnTfPK8qSKGNMTPF) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 3:06 | 2026-09-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,370 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,386 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

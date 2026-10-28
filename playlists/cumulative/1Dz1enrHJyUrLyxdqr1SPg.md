@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-189 songs - 11 hr 10 min
+192 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,11 @@
 | [Fear](https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN) | [Revolana](https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC) | [Fear](https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb) | 2:31 | 2026-10-13 |  |
 | [Fentanyl Apocalypse](https://open.spotify.com/track/5SzfE5AOykHvXDnX2vt1o4) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 3:18 | 2026-09-27 |  |
 | [Film](https://open.spotify.com/track/0g1pfaF11B4Lo8oO8RgtW2) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Film](https://open.spotify.com/album/0gsJfbVgA2BL7xsGXuT9JO) | 4:18 | 2025-12-20 | 2026-02-02 |
+| [Flat Earth](https://open.spotify.com/track/2Z9M10CeLA59VfPoFtFkWK) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Pick You Up](https://open.spotify.com/album/2jR3pofg0GEeOnfWWXNeVd) | 3:31 | 2026-10-27 |  |
 | [Forever](https://open.spotify.com/track/6uMJNnzsWizuk6RNjOPeIG) | [WAS Music](https://open.spotify.com/artist/3IqAQfmvqry08s3o5YVYew), [Gaz Twist](https://open.spotify.com/artist/52MTNuYffSQRjZcZ7KiSam) | [Carpe Diem](https://open.spotify.com/album/5pVHrBjnuOWKXshWKJaVil) | 4:04 | 2026-09-09 | 2026-09-24 |
 | [Forever Yours](https://open.spotify.com/track/2phRDv92tyNX5XNezzf6GK) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Reinhard Zwisler](https://open.spotify.com/artist/71ye10XRGQdJ2l9s8LZENB) | [Forever Yours](https://open.spotify.com/album/3c6u2ytsTyiXEOizWF493Z) | 3:55 | 2023-10-12 |  |
 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-09-29 |  |
+| [Freight Train](https://open.spotify.com/track/1FhBbgnhr2pxRWlTXpl4MU) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Pick You Up](https://open.spotify.com/album/2jR3pofg0GEeOnfWWXNeVd) | 3:49 | 2026-10-27 |  |
 | [From Darkness to Light](https://open.spotify.com/track/4qvY2noGKvg2OFcTpQe0FJ) | [Barbara Borgelin](https://open.spotify.com/artist/3IsHx0vZYapvC5YBkFOv2V) | [From Darkness to Light](https://open.spotify.com/album/6Faby9zPGISHqe1PubDajM) | 3:54 | 2025-10-31 | 2025-12-17 |
 | [Fuego](https://open.spotify.com/track/6gsbAhf3XxE8OhabLMmPw7) | [Tebin Ramos](https://open.spotify.com/artist/3JuVLgCeHAGhyLtlF8iCZd) | [Fuego](https://open.spotify.com/album/2cuIJ4oqOCNTtth0wxPJrb) | 3:20 | 2026-10-10 |  |
 | [Funky Music Makes Me Lose It](https://open.spotify.com/track/0a2P9IK5t02PRXBqTO3nlM) | [lofthouse leo](https://open.spotify.com/artist/1rpet0LMvxIvChVSUpmuXV), [William Lovitt](https://open.spotify.com/artist/3pRnaBrTzlzx4y4jQMNmmM) | [Funky Music Makes Me Lose It](https://open.spotify.com/album/3EhtKfElVLsWID6fuuw2qp) | 3:40 | 2026-06-11 | 2026-08-31 |
@@ -126,6 +128,7 @@
 | [Peruvian Order](https://open.spotify.com/track/3D2yelidsyWytazDCEfPY8) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Peruvian Order](https://open.spotify.com/album/5wBfWVVyQHL8bGhLFR9Uuq) | 3:52 | 2026-09-16 |  |
 | [Rainbows](https://open.spotify.com/track/099QNnhccADj016aDyFnfK) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz), [Tom Tyson](https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV) | [Rainbows](https://open.spotify.com/album/2SE9JJtLa3MXV9q0IyctMf) | 3:41 | 2025-08-20 |  |
 | [Ritual Machine](https://open.spotify.com/track/5iRCTvZua67oHhedzRlkLs) | [RA MAJOR](https://open.spotify.com/artist/4R017zXb6MjKJwJ6numWFj), [Silvr Sage](https://open.spotify.com/artist/4eIkMybet5tbTEONKsUgqf), [Suffolk](https://open.spotify.com/artist/7MkrnGTAdUdV1Yo32Qnaqe) | [Ritual Machine](https://open.spotify.com/album/53zDHfQfSTBj4QPNNwuf8u) | 4:09 | 2026-09-02 | 2026-09-24 |
+| [ROCKEFELLER](https://open.spotify.com/track/16zpaklmrzP6PS67MJUG45) | [TRILLING](https://open.spotify.com/artist/4Bq9IvcWC2V7LNKXihcUI6) | [ROCKEFELLER](https://open.spotify.com/album/6tBxhMxItNwI71lzlhPK7u) | 2:47 | 2026-10-27 |  |
 | [Rubber Mask of Holy Wrath](https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Rubber Mask of Holy Wrath](https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV) | 8:31 | 2026-08-30 | 2026-09-28 |
 | [Scars](https://open.spotify.com/track/2S4GSWUinJljobVFHWZkYW) | [Salvation Fleet](https://open.spotify.com/artist/6dI7BLnHH5XfRqfPF56DNO) | [Scars](https://open.spotify.com/album/0618lWq0HfAh9R6nCi0q6s) | 4:59 | 2025-11-15 | 2025-12-17 |
 | [Shallow One](https://open.spotify.com/track/7oy9mEkLxR28XH0gzvL6Do) | [J.H.M](https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE) | [Gone](https://open.spotify.com/album/0KGf5lHR0tIYuN0FNE2rvo) | 3:18 | 2026-02-06 | 2026-03-25 |

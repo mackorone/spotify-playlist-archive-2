@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 312970,
+  "num_followers": 313001,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 125637,
-      "name": "Don't Be Cruel",
-      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Come Fly With Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 199093,
       "name": "Come Fly With Me - Remastered 1998",
       "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 125637,
+      "name": "Don't Be Cruel",
+      "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Get a Job",
-        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes",
-          "url": "https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Get a Job",
-      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 131973,
       "name": "Lotta Lovin'",
       "url": "https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Get a Job",
+        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes",
+          "url": "https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Get a Job",
+      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rhino Hi-Five: The Coasters",
         "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 113040,
       "name": "Yakety Yak",
       "url": "https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockabilly Portrait",
+        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 109500,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "If You Love Me / Alone and Blue",
         "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 122108,
       "name": "Flyin' Saucers Rock & Roll",
       "url": "https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rockabilly Portrait",
-        "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "Wild One",
-      "url": "https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U"
     },
     {
       "added_at": "2022-06-07 05:25:13",

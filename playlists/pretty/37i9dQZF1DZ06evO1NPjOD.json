@@ -1,6 +1,6 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 40147,
+  "num_followers": 40148,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 114766,
-      "name": "Panties An Bra",
-      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 114766,
+      "name": "Panties An Bra",
+      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -835,6 +835,50 @@
       "duration_ms": 126672,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/10gO1lQggmecSUP1925juj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 1 Nite",
+        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
+      },
+      "artists": [
+        {
+          "name": "Mike Smiff",
+          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 205296,
+      "name": "4 1 Nite",
+      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
     },
     {
       "added_at": null,
@@ -867,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 1 Nite",
-        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
-      },
-      "artists": [
-        {
-          "name": "Mike Smiff",
-          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 205296,
-      "name": "4 1 Nite",
-      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 165517,
       "name": "Flashy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Act Bad",
-        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Act Bad",
-      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Static (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "43VA HEARTLESS",
         "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 142395,
       "name": "4 Da Moment (feat. City Girls)",
       "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Static (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
     }
   ],
   "unique_name": "This Is City Girls",

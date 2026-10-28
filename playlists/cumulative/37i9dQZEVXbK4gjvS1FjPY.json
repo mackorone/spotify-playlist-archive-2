@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 156034,
       "name": "BAD",
       "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
@@ -3108,7 +3108,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/1wicceeNVtcnym2YjiOmyj"
@@ -12918,7 +12918,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -14896,7 +14896,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -19721,6 +19721,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
+    },
+    {
+      "album": {
         "name": "Lose",
         "url": "https://open.spotify.com/album/2KiivxtQQDKP8TfdXEfECf"
       },
@@ -21774,7 +21792,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 193066,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
@@ -25156,7 +25174,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -25200,7 +25218,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 231386,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c"
@@ -38521,6 +38539,24 @@
     },
     {
       "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -40171,6 +40207,24 @@
     },
     {
       "album": {
+        "name": "\u6b32\u843d\u672a\u843d",
+        "url": "https://open.spotify.com/album/355n1THOAzpsZh4R8crspO"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255182,
+      "name": "\u6b32\u843d\u672a\u843d",
+      "url": "https://open.spotify.com/track/25rKfmSz9QTVtilqZU9f8D"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },
@@ -40218,7 +40272,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 295940,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
@@ -40236,7 +40290,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "\u6d77\u5c7f\u4f60",
       "url": "https://open.spotify.com/track/3LZ9j8ja4j6ycSUpCA8fXX"

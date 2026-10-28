@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,558 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,542 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 20 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
 | 21 | [Belong to You](https://open.spotify.com/track/0MDYvPEc9CFp2vkth6eoOQ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:06 |
 | 22 | [SMOKIN POTNA](https://open.spotify.com/track/30DOrW1HFyvuwBUFKwXg29) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:33 |
-| 23 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
-| 24 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
+| 23 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
+| 24 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 25 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
 | 26 | [Body](https://open.spotify.com/track/0IaiJbZebXLqfetAkMEZzU) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 4:22 |
-| 27 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
-| 28 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
+| 27 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
+| 28 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
 | 29 | [Wildfire](https://open.spotify.com/track/5havOQ4fTGftcDsg4LyWKc) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:11 |
 | 30 | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/track/2zrtl35xYyKQSLWNWyl8VU) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Slow It Down \(with Cruza & Isaiah Falls\)](https://open.spotify.com/album/4vDSpaEoRZpIvN1ncerQCJ) | 2:26 |
 | 31 | [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 |

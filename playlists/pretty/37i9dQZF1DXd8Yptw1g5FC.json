@@ -803,6 +803,22 @@
     {
       "added_at": "2026-10-22 21:00:24",
       "album": {
+        "name": "Overthinker",
+        "url": "https://open.spotify.com/album/0WZ9DvpqOta5FaU6PVbqhK"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 220510,
+      "name": "Overthinker",
+      "url": "https://open.spotify.com/track/18SLQPyPKYybUsR77ChEMS"
+    },
+    {
+      "added_at": "2026-10-22 21:00:24",
+      "album": {
         "name": "Y\u0131ld\u00f6n\u00fcm\u00fc",
         "url": "https://open.spotify.com/album/79UBcMmk5tTO1BrnETAlmy"
       },

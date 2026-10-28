@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla</a>'s favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,449 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,477 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Chella",
-  "num_followers": 660141,
+  "num_followers": 660179,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -191,42 +191,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "THAT GIRL!",
-        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 132817,
-      "name": "THAT GIRL!",
-      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Still In Charge",
-        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 162284,
-      "name": "If You Like",
-      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -247,18 +211,38 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "GTA",
-        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
+        "name": "Still In Charge",
+        "url": "https://open.spotify.com/album/0NlUfh4P7iyypIcxYd0GiD"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 155441,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
+      "duration_ms": 162284,
+      "name": "If You Like",
+      "url": "https://open.spotify.com/track/6d4YQtaZ7M4WwoYiTC2U06"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -279,6 +263,22 @@
       "duration_ms": 184000,
       "name": "2am in toronto",
       "url": "https://open.spotify.com/track/6Y4gGndf0AXpLGXi1P0HTE"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Malaria",
-        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 171128,
-      "name": "Malaria",
-      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "treat u right",
         "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 177565,
       "name": "treat u right",
       "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Malaria",
+        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 171128,
+      "name": "Malaria",
+      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "it's over",
         "url": "https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "Juice & Liquor",
         "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "FRE$H",
-        "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "FRE$H",
-      "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "attention!",
         "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 155852,
       "name": "attention!",
       "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "FRE$H",
+        "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "WHO THIS (feat. BNXN)",
-      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "WORSHIP",
         "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 163055,
       "name": "WORSHIP",
       "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "WHO THIS (feat. BNXN)",
+      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Happy Song",
         "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 129391,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Intentions (feat. Urban Chords)",
-        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Urban Chords",
-          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Intentions (feat. Urban Chords)",
-      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Signature (with Lasmid)",
         "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 162935,
       "name": "Signature (with Lasmid)",
       "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Intentions (feat. Urban Chords)",
+        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Urban Chords",
+          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Intentions (feat. Urban Chords)",
+      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Cash Rules Everything Around Us",
-        "url": "https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 156314,
-      "name": "Cash Rules Everything Around Us",
-      "url": "https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
       },
@@ -1283,18 +1267,42 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+        "name": "Cash Rules Everything Around Us",
+        "url": "https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         }
       ],
-      "duration_ms": 157388,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+      "duration_ms": 156314,
+      "name": "Cash Rules Everything Around Us",
+      "url": "https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "POSITION",
+        "url": "https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "POSITION",
+      "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
     },
     {
       "added_at": "2026-10-23 00:01:06",

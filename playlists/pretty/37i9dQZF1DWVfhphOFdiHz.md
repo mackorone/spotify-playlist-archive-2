@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops on repeat from LGBTQIA+ artists only\. Cover: Chloé Caillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,804 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,817 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 10 | [No One Knows Us \- Sad Gay Version](https://open.spotify.com/track/0eR1kKRLkbqxXSHYqEynfq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Sad Gay Version\)](https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz) | 4:19 |
 | 11 | [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 |
 | 12 | [RAIN](https://open.spotify.com/track/04TlEj0Fhxnq4qbc560fnh) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd), [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [RAIN](https://open.spotify.com/album/6lm5tf9xL9t37Uz1jsthZV) | 3:36 |
-| 13 | [IS THIS THE END?](https://open.spotify.com/track/6DroHr4E3vTuRGJhPpqb9F) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [IS THIS THE END?](https://open.spotify.com/album/2BxFMC2ff2UDEsK7rcJOr9) | 3:02 |
+| 13 | [BROKE BITCH FREE$TYLE](https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BROKE BITCH FREE$TYLE](https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE) | 2:13 |
 | 14 | [Female Manipulator](https://open.spotify.com/track/07BrETXm3rBcPUqSUVpCpJ) | [katie MAC](https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5) | [Female Manipulator](https://open.spotify.com/album/0alukCT2P3kQswZ3krBrBN) | 2:15 |
 | 15 | ['Till Death Do Us Part](https://open.spotify.com/track/6hs6ijvryIrc3E881sDw3f) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | ['Till Death Do Us Part](https://open.spotify.com/album/4fBuBX7E1oV8IoXvYLgY3I) | 3:49 |
 | 16 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 18 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
 | 19 | [Once Upon An Aquarian Moon](https://open.spotify.com/track/7ro1kMf0qPd38qePNM2pkz) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Romanticism](https://open.spotify.com/album/1TKZ9Nq2LkC1FueWEETwaK) | 3:07 |
 | 20 | [Queens](https://open.spotify.com/track/38BxonKtYegINzHKASHfty) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Queens](https://open.spotify.com/album/58mb074KdbNxpLKrkvDZej) | 6:27 |
-| 21 | [BROKE BITCH FREE$TYLE](https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BROKE BITCH FREE$TYLE](https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE) | 2:13 |
-| 22 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
+| 21 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
+| 22 | [IS THIS THE END?](https://open.spotify.com/track/6DroHr4E3vTuRGJhPpqb9F) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [IS THIS THE END?](https://open.spotify.com/album/2BxFMC2ff2UDEsK7rcJOr9) | 3:02 |
 | 23 | [tiptoeing](https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [tiptoeing](https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys) | 2:34 |
 | 24 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
 | 25 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 38 | [Devour](https://open.spotify.com/track/3hScgyOQVhK2Ibi9FpTQnq) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Devour](https://open.spotify.com/album/2X8HaYgiIcd3FMuT2TEWxn) | 2:37 |
 | 39 | [LOLLIPOP](https://open.spotify.com/track/7E3UP6YUTplvpnBfaSjEiG) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [LOLLIPOP](https://open.spotify.com/album/5jFlusJ45Ma9q9yXfunAUT) | 3:05 |
 | 40 | [good things come in two's](https://open.spotify.com/track/3iA9oRCn2Gx9Qq55eQkUB9) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [good things come in two's](https://open.spotify.com/album/1amirJFqrFDzvjLrRQqqbk) | 2:20 |
-| 41 | [Hometown Letdown](https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Hometown Letdown](https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W) | 2:57 |
+| 41 | [Meryl](https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/2ydzJRCV5HBV1hMbwzEWsm) | 2:43 |
 | 42 | [August](https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [August](https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB) | 3:33 |
 | 43 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
 | 44 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
 | 45 | [LEZ GO!](https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [LEZ GO!](https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv) | 2:44 |
-| 46 | [Meryl](https://open.spotify.com/track/6gHhrK2BL0cqlGUxTtyjaT) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/2ydzJRCV5HBV1hMbwzEWsm) | 2:43 |
-| 47 | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 |
-| 48 | [Nothing To Do \(nananananana\)](https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg) | 3:24 |
+| 46 | [Hometown Letdown](https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Hometown Letdown](https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W) | 2:57 |
+| 47 | [Nothing To Do \(nananananana\)](https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg) | 3:24 |
+| 48 | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 |
 | 49 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 

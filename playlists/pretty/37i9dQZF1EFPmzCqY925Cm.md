@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 71 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 71 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 12 | [BORED](https://open.spotify.com/track/7nx5ZrnZymCwKlWXYJr5SF) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [BORED](https://open.spotify.com/album/5COrkoVFqqcOksKw9UTJkw) | 2:20 |
 | 13 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
 | 14 | [Funeral](https://open.spotify.com/track/4HzfzcuokhG7MqcJKWnSrg) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:05 |
-| 15 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
-| 16 | [Not Enough](https://open.spotify.com/track/2XiGA4e1c6xfISpypmJwGR) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 2:27 |
+| 15 | [Not Enough](https://open.spotify.com/track/2XiGA4e1c6xfISpypmJwGR) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 2:27 |
+| 16 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
 | 17 | [C’est La Vie](https://open.spotify.com/track/2AYAqt3S3I0LNatVAgcoVK) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [C’est La Vie](https://open.spotify.com/album/2vHsnOZM4N9PgD3orKhtHB) | 3:03 |
 | 18 | [Torture](https://open.spotify.com/track/28K8xAaFrNZHSe1EmCBJNU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV) | 2:28 |
 | 19 | [Gateway Drug](https://open.spotify.com/track/35tCAihZKcNT93g5SYIxlb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:41 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 70 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
 | 71 | [Not My Problem](https://open.spotify.com/track/00xbhCeJjnu5IJbKUJRoz0) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [You Should Prolly Sit Down For This](https://open.spotify.com/album/1IsDPJrQijue8GwAw6j3gz) | 3:07 |
 
-Snapshot ID: `AcgAuAAAAABHxDnsuUxfYG0Km+HbYtwU`
+Snapshot ID: `AcgGWAAAAACLNvOjo7OtFXkBxyyMFZ/M`

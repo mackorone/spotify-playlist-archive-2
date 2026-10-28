@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari LISA, MALIQ & D'Essentials, Fabio Asher dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,602 likes - 97 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,568 likes - 97 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

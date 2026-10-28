@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 222424,
+  "num_followers": 222458,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 202200,
       "name": "Sweet Lorraine",
       "url": "https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "You Better Go Now",
         "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 170070,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
-        }
-      ],
-      "duration_ms": 250936,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -587,6 +567,26 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "duration_ms": 250936,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
         "name": "Manhattan",
         "url": "https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Ghost Song",
-        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "Moon Song",
-      "url": "https://open.spotify.com/track/6iaE1tdPPx5KILayeCMOBl"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "Cool Velvet: Stan Getz And Strings",
         "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 246866,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "Moon Song",
+      "url": "https://open.spotify.com/track/6iaE1tdPPx5KILayeCMOBl"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
         "name": "Close to You (with Jacky Terrasson Trio)",
         "url": "https://open.spotify.com/album/55F0v4gDfpFdyLqhvFQcvY"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 243640,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/5XSz5Jeo2aaNMEMIJnzSnC"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "Nice Girls Don't Stay for Breakfast",
         "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 217507,
       "name": "Nice Girls Don't Stay for Breakfast",
       "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -831,6 +831,26 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Heath",
+          "url": "https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 332146,
+      "name": "Don't Misunderstand",
+      "url": "https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -863,26 +883,6 @@
       "duration_ms": 272990,
       "name": "Sunset In The Blue",
       "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
-        "name": "Love Letter",
-        "url": "https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Heath",
-          "url": "https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 332146,
-      "name": "Don't Misunderstand",
-      "url": "https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 213431,
+      "name": "Hate is the Basis (of Love)",
+      "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
         "name": "Entre eux deux",
         "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 284986,
       "name": "Darling Fare Thee Well",
       "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 213431,
-      "name": "Hate is the Basis (of Love)",
-      "url": "https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
         "name": "Perhaps You\u2019ll Wonder Why",
         "url": "https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
         }
       ],
-      "duration_ms": 195133,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
+      "duration_ms": 198660,
+      "name": "Deep in a Dream",
+      "url": "https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1243,18 +1259,22 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
+        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
       "artists": [
         {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 198660,
-      "name": "Deep in a Dream",
-      "url": "https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ"
+      "duration_ms": 214906,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1275,26 +1295,6 @@
       "duration_ms": 249800,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/7x571g4w2cwwr6A3Dhjtn5"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
-        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
-      },
-      "artists": [
-        {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/1q573uXh0Rc78qTXDMQ35D"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1435,42 +1435,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
-      },
-      "artists": [
-        {
-          "name": "Vivian Buczek",
-          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
-        },
-        {
-          "name": "Seamus Blake",
-          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
-        },
-        {
-          "name": "M\u00e5rten Lundgren",
-          "url": "https://open.spotify.com/artist/0SnwpOHFkjrgXRZ0QBRfUU"
-        },
-        {
-          "name": "Martin Sj\u00d6stedt",
-          "url": "https://open.spotify.com/artist/6bdkZsFJke5IhwIe7MEK8Y"
-        },
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 364506,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
       },
@@ -1515,6 +1479,42 @@
       "duration_ms": 288664,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
+      },
+      "artists": [
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+        },
+        {
+          "name": "Seamus Blake",
+          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
+        },
+        {
+          "name": "M\u00e5rten Lundgren",
+          "url": "https://open.spotify.com/artist/0SnwpOHFkjrgXRZ0QBRfUU"
+        },
+        {
+          "name": "Martin Sj\u00d6stedt",
+          "url": "https://open.spotify.com/artist/6bdkZsFJke5IhwIe7MEK8Y"
+        },
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 364506,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "Spring Waltz",
         "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 359000,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
     },
     {
       "added_at": "2026-08-28 13:51:31",
@@ -1967,34 +1967,6 @@
     {
       "added_at": "2026-08-28 13:51:31",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
-      },
-      "artists": [
-        {
-          "name": "Katrine Madsen",
-          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
-        },
-        {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        },
-        {
-          "name": "Mads La Cour",
-          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
-        }
-      ],
-      "duration_ms": 448640,
-      "name": "From a Mother to a Child",
-      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
-    },
-    {
-      "added_at": "2026-08-28 13:51:31",
-      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
@@ -2027,6 +1999,34 @@
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
+    },
+    {
+      "added_at": "2026-08-28 13:51:31",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2TexgqYYV0EitC949gQKGx"
+      },
+      "artists": [
+        {
+          "name": "Katrine Madsen",
+          "url": "https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj"
+        },
+        {
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Mads La Cour",
+          "url": "https://open.spotify.com/artist/7Lf4MgF9wFY6sNwHfa08Tf"
+        }
+      ],
+      "duration_ms": 448640,
+      "name": "From a Mother to a Child",
+      "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
     },
     {
       "added_at": "2026-08-28 13:51:31",

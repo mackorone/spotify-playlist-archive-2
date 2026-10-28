@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,489 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,487 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 24 | [Huzurun Yolu](https://open.spotify.com/track/2uUqKI98yYHo4NxxiCYqSX) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:51 |
 | 25 | [Ney İle Bûselik Taksim](https://open.spotify.com/track/3GWWmNoKCbqucT16pmQzU0) | [Yüce Gümüş](https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Nağmeler Evi \(Çocuklar ve Gençler İçin Müzik Kültürü\)](https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu) | 6:55 |
 | 26 | [Acemaşiran Peşrev](https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Aşk ile Meşk / Makamlarla İlâhiler 2](https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5) | 1:44 |
-| 27 | [Hicaz Taksim](https://open.spotify.com/track/17Ar8g9BlDJthkGFi3Mx32) | [Ender Doğan](https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs), [Yahya Soyyiğit](https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK) | [Ney Taksimleri / Dinle Ney'den \(Enstrumental, Vol\. 1\)](https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N) | 2:09 |
+| 27 | [Uşşak İlahiler](https://open.spotify.com/track/1FEOekvfha7BrAq3xvTlzW) | [Ender Doğan](https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs), [Yahya Soyyiğit](https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK) | [Ney Taksimleri / Dinle Ney'den \(Enstrumental, Vol\. 1\)](https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N) | 4:23 |
 | 28 | [Ney Improvisation in Makam Saba](https://open.spotify.com/track/7JCBz2eNJHewYOeohCisJ9) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Sufi Music from Turkey](https://open.spotify.com/album/7HPFXJVmzs19piZwa1MjF4) | 2:30 |
 | 29 | [Segah Taksim](https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 3:22 |
-| 30 | [Uşşak İlahiler](https://open.spotify.com/track/1FEOekvfha7BrAq3xvTlzW) | [Ender Doğan](https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs), [Yahya Soyyiğit](https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK) | [Ney Taksimleri / Dinle Ney'den \(Enstrumental, Vol\. 1\)](https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N) | 4:23 |
+| 30 | [Hicaz Taksim](https://open.spotify.com/track/17Ar8g9BlDJthkGFi3Mx32) | [Ender Doğan](https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs), [Yahya Soyyiğit](https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK) | [Ney Taksimleri / Dinle Ney'den \(Enstrumental, Vol\. 1\)](https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N) | 2:09 |
 | 31 | [Bestenigar Taksim](https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:34 |
 | 32 | [Son Taksim](https://open.spotify.com/track/1NXbR2p8WZpwbfXUciPo0b) | [AKA Gunduz Kutbay](https://open.spotify.com/artist/6rLHoMkade6vkMyJnVsSVp) | [Ney Seçkileri \(Instrumental\)](https://open.spotify.com/album/17fgRWwCdT5ylJpqCBph2t) | 0:54 |
 | 33 | [Şevkefza Hicaz Peşrev](https://open.spotify.com/track/4zgWTJaxVDQRhCpxfeoJQo) | [Süleyman Erguner](https://open.spotify.com/artist/0HpFsCxk1wv6CuW1Buql19), [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM), [Koray Safkan](https://open.spotify.com/artist/6hhKItEh23qiyaPhIcZ88b) | [Ney Seçkileri \(Instrumental\)](https://open.spotify.com/album/17fgRWwCdT5ylJpqCBph2t) | 7:15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With M\u00e4rvel, Sanguine, Bad Scullianz and more",
+  "description": "With Arabs In Aspic, The Inklings, Sanguine and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 185304,
       "name": "Alla Helgons Blodiga Natt",
       "url": "https://open.spotify.com/track/5dUn9bA0ylIEHUECbgfscx"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 91809,
       "name": "Asap",
       "url": "https://open.spotify.com/track/2sttjobesgyDaLx4cffx8J"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 570053,
       "name": "Avgrunnen Kaller",
       "url": "https://open.spotify.com/track/0FjBG3Oa6LOBLOAg23mxnF"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 353515,
       "name": "Blindsonen",
       "url": "https://open.spotify.com/track/2ahamw6URtHTNbsO4plwe7"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -2040,6 +2040,24 @@
       "duration_ms": 283500,
       "name": "Brain Bleed",
       "url": "https://open.spotify.com/track/2xOgJckO9fsLaqtINgW7bA"
+    },
+    {
+      "album": {
+        "name": "Starters",
+        "url": "https://open.spotify.com/album/6Kxchc1OZHjuW3Vm9mPCdk"
+      },
+      "artists": [
+        {
+          "name": "Probably Pablo",
+          "url": "https://open.spotify.com/artist/5ZgNgczflkkA0npdRytuW6"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292978,
+      "name": "Brave New Face",
+      "url": "https://open.spotify.com/track/3xfqi9eRbZdiqqAoEjFSer"
     },
     {
       "album": {
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 227696,
       "name": "Casca Vazia",
       "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3380,7 +3398,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 198853,
       "name": "Daily Deadly Sin",
       "url": "https://open.spotify.com/track/1fihFELXz1qLkaDwuhI8TE"
@@ -4130,7 +4148,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 198765,
       "name": "Do As I Do",
       "url": "https://open.spotify.com/track/2ZQKK2ivat6J4nK0xe6aMI"
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 231808,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
@@ -6408,7 +6426,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 287093,
       "name": "Freedom Train",
       "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
@@ -7325,6 +7343,24 @@
     },
     {
       "album": {
+        "name": "Helter Skelter",
+        "url": "https://open.spotify.com/album/1pA9yYwwYHuqJUPz956FGm"
+      },
+      "artists": [
+        {
+          "name": "O.R.k.",
+          "url": "https://open.spotify.com/artist/5rkJj1VYae5gFozDas6Dsg"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328618,
+      "name": "Helter Skelter",
+      "url": "https://open.spotify.com/track/1ZlEK9YHfHAtMf8fzeXkV7"
+    },
+    {
+      "album": {
         "name": "Helvetia",
         "url": "https://open.spotify.com/album/1SRmxx2uAcDno7dqC1koty"
       },
@@ -7426,7 +7462,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 126226,
       "name": "Hey Now Honey - 2023 Remaster",
       "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
@@ -7502,7 +7538,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 232800,
       "name": "High Above Rooftops (Latterday 2003)",
       "url": "https://open.spotify.com/track/1BHY7DUek7ngsZ0cR8B6g6"
@@ -7704,7 +7740,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 234910,
       "name": "Honnaliv",
       "url": "https://open.spotify.com/track/45taGD7tf5unlwtFAFOKvT"
@@ -8706,7 +8742,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -9089,6 +9125,24 @@
     },
     {
       "album": {
+        "name": "Ramler H\u00e9m",
+        "url": "https://open.spotify.com/album/1ILLPAUYw8u4dzXJFQIWoB"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e5tt Blod",
+          "url": "https://open.spotify.com/artist/0zwaPviiINA1N5cs3ZRVXm"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387727,
+      "name": "Ka \u00c9 Vitsen?",
+      "url": "https://open.spotify.com/track/7hwLM2pRuFno1U81RiEZ2z"
+    },
+    {
+      "album": {
         "name": "Fer\u00f0alok",
         "url": "https://open.spotify.com/album/6F5cYv7fA5UfmiCyRkquzC"
       },
@@ -9219,6 +9273,24 @@
     },
     {
       "album": {
+        "name": "Sorgens Kapittel",
+        "url": "https://open.spotify.com/album/0a7ldxK8uD0rFWUL521rRf"
+      },
+      "artists": [
+        {
+          "name": "Arabs In Aspic",
+          "url": "https://open.spotify.com/artist/1ELktqazsduNTO0cvCc3jG"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278053,
+      "name": "King Size Brynje",
+      "url": "https://open.spotify.com/track/6WY8bGzW2nnMd1zWbuo8N9"
+    },
+    {
+      "album": {
         "name": "At the End of the Sea",
         "url": "https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S"
       },
@@ -9302,7 +9374,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -9414,7 +9486,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 211363,
       "name": "La rage du loup",
       "url": "https://open.spotify.com/track/0qBoyI15tldcIsr7D4XIRf"
@@ -11175,6 +11247,24 @@
     },
     {
       "album": {
+        "name": "Mitt hjerte er r\u00e5tt",
+        "url": "https://open.spotify.com/album/6klv0qOectWJn52yYbGRX9"
+      },
+      "artists": [
+        {
+          "name": "Hage$lange",
+          "url": "https://open.spotify.com/artist/0hvofX5QejmcZ83HrWtt0V"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Mitt hjerte er r\u00e5tt",
+      "url": "https://open.spotify.com/track/4FnPdqPqcieYHuLniG8JDz"
+    },
+    {
+      "album": {
         "name": "mitthe",
         "url": "https://open.spotify.com/album/3WbH4rkjPilks28Ft9T6RW"
       },
@@ -11446,7 +11536,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 250500,
       "name": "Mother Earth",
       "url": "https://open.spotify.com/track/7EayrfRHK8Z42fsPDafL29"
@@ -11662,7 +11752,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -13160,7 +13250,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -13611,6 +13701,24 @@
     },
     {
       "album": {
+        "name": "PLD",
+        "url": "https://open.spotify.com/album/2M5i8IMcrIIey2JJFwYeDb"
+      },
+      "artists": [
+        {
+          "name": "Spend Money On Circus",
+          "url": "https://open.spotify.com/artist/5etdHclL5zA3nPytbHXknB"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279833,
+      "name": "Pink Leather Dragon",
+      "url": "https://open.spotify.com/track/6J82v5KoNP6SHIpl2L6mxG"
+    },
+    {
+      "album": {
         "name": "That Looping Thought",
         "url": "https://open.spotify.com/album/7synZSndqBqgvSC679NQiN"
       },
@@ -13718,7 +13826,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 119052,
       "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
       "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
@@ -14617,6 +14725,28 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/5AaQsQ8foNioEDkqff673O"
+      },
+      "artists": [
+        {
+          "name": "Laji George",
+          "url": "https://open.spotify.com/artist/4wh9RxXY99lVcjjIrWCglU"
+        },
+        {
+          "name": "David Abbruzzese",
+          "url": "https://open.spotify.com/artist/0KD1PcZDcLVffCWFE9ihou"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271730,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/43zAa5vbPv7Vph7FHt98hF"
+    },
+    {
+      "album": {
         "name": "Water Music",
         "url": "https://open.spotify.com/album/5bsbZ3uj9V9eZJtr1f0rHY"
       },
@@ -15172,7 +15302,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 148166,
       "name": "Silence please",
       "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
@@ -15928,7 +16058,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 188786,
       "name": "Start",
       "url": "https://open.spotify.com/track/4kXJcoZxlr212raqKtfEwT"
@@ -16465,6 +16595,24 @@
     },
     {
       "album": {
+        "name": "Sorgens Kapittel",
+        "url": "https://open.spotify.com/album/0a7ldxK8uD0rFWUL521rRf"
+      },
+      "artists": [
+        {
+          "name": "Arabs In Aspic",
+          "url": "https://open.spotify.com/artist/1ELktqazsduNTO0cvCc3jG"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413133,
+      "name": "Syndenes Magi Del 2",
+      "url": "https://open.spotify.com/track/4fls9feNsOI7FkV8CcCAHc"
+    },
+    {
+      "album": {
         "name": "trotz*d\u00e4m n\u00fct",
         "url": "https://open.spotify.com/album/5hzuBqlZgYgqfnptlN4na7"
       },
@@ -16978,6 +17126,24 @@
       "duration_ms": 421885,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/2RYQpzVCvzOLDeLvTv0kUO"
+    },
+    {
+      "album": {
+        "name": "Levelling The Land (35th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5DqPIS24WF1M20zMUavuFP"
+      },
+      "artists": [
+        {
+          "name": "Levellers",
+          "url": "https://open.spotify.com/artist/1TrwMxRrrlk0hZxJkw4jUF"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227920,
+      "name": "The Devil Went Down To Georgia - B-Side",
+      "url": "https://open.spotify.com/track/2Vqw2MmVxgwDPZrXnbL4xH"
     },
     {
       "album": {
@@ -18810,7 +18976,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 177698,
       "name": "Tulede S\u00e4ras",
       "url": "https://open.spotify.com/track/1IIvJTLiJFJAlcgOJwGb2J"
@@ -20104,7 +20270,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 134250,
       "name": "Where Evil Grows",
       "url": "https://open.spotify.com/track/57mLhbOdRdh1gIx4nTRGSc"
@@ -20310,7 +20476,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 223196,
       "name": "Wild Wild Woman",
       "url": "https://open.spotify.com/track/0rNHd0MyOfSCSQ79zF2oYQ"
@@ -20404,7 +20570,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 217636,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/5W0E5BbJJ3xhSsMQfOZSXA"
@@ -20800,7 +20966,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 219103,
       "name": "Your Town",
       "url": "https://open.spotify.com/track/4Zu3ak9UyeCtzEHopnBR9m"
@@ -21042,7 +21208,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"

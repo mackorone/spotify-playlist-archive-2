@@ -4,7 +4,7 @@
 
 > 
 
-397 songs - 23 hr 23 min
+398 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-14 |  |
 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 | 2023-07-13 |  |
 | [Amarillo](https://open.spotify.com/track/6wmcBujtfEfVQr5kQPk7ZE) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:24 | 2023-07-13 |  |
+| [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 | 2026-10-28 |  |
 | [Another Love](https://open.spotify.com/track/5FKnuwsKf7YFpmhA5Wnl0q) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Songs from Another Love](https://open.spotify.com/album/51ZlqbsTCEQfpvtrcRIxXB) | 4:10 | 2021-10-01 |  |
 | [Any Kind of Guy](https://open.spotify.com/track/3YEmVyZ4TJVn5dO5bTTb9U) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [BTR](https://open.spotify.com/album/61e5Oi0ewB4IWP3mNSnfJx) | 3:40 | 2025-07-16 |  |
 | [Army](https://open.spotify.com/track/7lljb2kxrENpNOZnqDj01h) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Squidtastic](https://open.spotify.com/album/0YksPVYor2eHo7ILCTAxJs) | 2:54 | 2023-07-13 |  |

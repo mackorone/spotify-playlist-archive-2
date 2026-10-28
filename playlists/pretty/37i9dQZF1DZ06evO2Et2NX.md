@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Et2NX.md) - [plain]
 
 > This is Sleater\-Kinney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,240 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,241 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Et2NX.md) - [plain]
 | 49 | [Price Tag](https://open.spotify.com/track/6EMWlmbIgSzXHSBjV3lfm8) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A) | 3:54 |
 | 50 | [The Last Song](https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 3:38 |
 
-Snapshot ID: `atv1AAAAAAADZOyM4pM0gnhu/UwNeJOc`
+Snapshot ID: `at1GgAAAAACc4MC6JRD4Uej+VVh6rQDa`

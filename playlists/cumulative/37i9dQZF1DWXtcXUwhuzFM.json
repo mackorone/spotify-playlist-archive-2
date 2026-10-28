@@ -162727,6 +162727,24 @@
     },
     {
       "album": {
+        "name": "Overthinker",
+        "url": "https://open.spotify.com/album/0WZ9DvpqOta5FaU6PVbqhK"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220510,
+      "name": "Overthinker",
+      "url": "https://open.spotify.com/track/18SLQPyPKYybUsR77ChEMS"
+    },
+    {
+      "album": {
         "name": "Overthinking",
         "url": "https://open.spotify.com/album/0xzACPEPw2KilD5IAC9Exf"
       },

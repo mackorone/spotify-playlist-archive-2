@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > All hail Halloween’s newly anointed queen: the Obsession star’s surprising, spot\-on soundtrack for your spookiest night yet\. By Inde Navarrette\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,601 likes - 37 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,580 likes - 37 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

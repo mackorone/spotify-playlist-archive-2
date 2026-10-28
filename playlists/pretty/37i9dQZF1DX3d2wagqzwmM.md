@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: AFROJACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,358 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,419 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 71 | [Rotation](https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Rotation](https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca) | 2:54 |
 | 72 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6eCGHBR1irzeSUdOLuqV6J) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5bitCrIgU2AoIY6Lp53s3k) | 3:12 |
 | 73 | [Feel Your Body](https://open.spotify.com/track/0kINUt3VNVmwBtzGUm478L) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x) | [Feel Your Body](https://open.spotify.com/album/2q5VpXGGQAVumdQPypF1hV) | 2:06 |
-| 74 | [Bounce Generation \(NOBILEE X TBR 2026 Remix\)](https://open.spotify.com/track/5RL0Hh4GAaTa9K4rwwFG7A) | [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [NOBILEE](https://open.spotify.com/artist/3bpyd2gHLELtjKVGh6OjZ5), [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv) | [Bounce Generation \(NOBILEE X TBR 2026 Remix\)](https://open.spotify.com/album/43kTVe9TJIgmOQqpM4JHBF) | 2:33 |
-| 75 | [Freak](https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Freak](https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i) | 2:43 |
+| 74 | [Freak](https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Freak](https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i) | 2:43 |
+| 75 | [Bounce Generation \(NOBILEE X TBR 2026 Remix\)](https://open.spotify.com/track/5RL0Hh4GAaTa9K4rwwFG7A) | [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [NOBILEE](https://open.spotify.com/artist/3bpyd2gHLELtjKVGh6OjZ5), [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv) | [Bounce Generation \(NOBILEE X TBR 2026 Remix\)](https://open.spotify.com/album/43kTVe9TJIgmOQqpM4JHBF) | 2:33 |
 | 76 | [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 |
 | 77 | [Automatic](https://open.spotify.com/track/6ApTUn36QPmFIb5tSezZFw) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [RAVEKINGS](https://open.spotify.com/artist/1mWqL90F7Hmnx0VLoDy6YQ), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5) | [Automatic](https://open.spotify.com/album/7Dw7nDMPL5OGBscWJS6qvK) | 2:37 |
 | 78 | [Hardcore Vibes \- DJ T.H\. X Enerdizer X Shaun Baker Remix Edit](https://open.spotify.com/track/7KRlRkeeAO8XB0I0V7zAT1) | [Jens O.](https://open.spotify.com/artist/1DDMrVXQt53FwOcxBQvjwh), [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Enerdizer](https://open.spotify.com/artist/0i9lZhnRq7hBiK9FQRqrUC), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Hardcore Vibes \(DJ T.H\. X Enerdizer X Shaun Baker Remix\)](https://open.spotify.com/album/4miZngeu0LzlHxsSUj6HPU) | 2:57 |
 | 79 | [Luvstruck](https://open.spotify.com/track/0ZxYJrCv0Kq2ONqgFWw5SM) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/1TS5PmnWKa6vr5qBV4dq46) | 2:41 |
 | 80 | [Logical Song](https://open.spotify.com/track/6Flu7TXBKytCpITqXTBO2w) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [BFOUR](https://open.spotify.com/artist/1si4hfpqtwNJ1Kw6xFpl97) | [Logical Song](https://open.spotify.com/album/570jP3tEVJ2wUuxXMr0vso) | 3:10 |
 
-Snapshot ID: `AAAAALGix/6qpMXjJ7SGqN7zCm7Atyge`
+Snapshot ID: `AAAAAAa8eNRz45kJlmnUlBbDVoCRnqcF`

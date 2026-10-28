@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 241176,
+  "num_followers": 241214,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Ain't Nobody (feat. LaShun Pace)",
-        "url": "https://open.spotify.com/album/2EB62zJMobWATatn8tWCO4"
+        "name": "The Way, The Truth, The Life",
+        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+          "name": "AndyG",
+          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
         }
       ],
-      "duration_ms": 174103,
-      "name": "Ain't Nobody (feat. LaShun Pace)",
-      "url": "https://open.spotify.com/track/51JKSTZ1bJjfpV9z8vp9Oi"
+      "duration_ms": 147428,
+      "name": "The Way, The Truth, The Life",
+      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -319,18 +315,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "The Way, The Truth, The Life",
-        "url": "https://open.spotify.com/album/3aRpZMdMJA6h9lU5naGp9Y"
+        "name": "Ain't Nobody (feat. LaShun Pace)",
+        "url": "https://open.spotify.com/album/2EB62zJMobWATatn8tWCO4"
       },
       "artists": [
         {
-          "name": "AndyG",
-          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
         }
       ],
-      "duration_ms": 147428,
-      "name": "The Way, The Truth, The Life",
-      "url": "https://open.spotify.com/track/3AFN5L7h94fa7UGn533VVy"
+      "duration_ms": 174103,
+      "name": "Ain't Nobody (feat. LaShun Pace)",
+      "url": "https://open.spotify.com/track/51JKSTZ1bJjfpV9z8vp9Oi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -507,22 +507,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Fresh Wind (Retain Remix)",
-        "url": "https://open.spotify.com/album/0rhdkcw1Q3ix7n5bxZPqpi"
+        "name": "Praying Out Loud (Arknn Remix)",
+        "url": "https://open.spotify.com/album/6zSWdkEdXc4hiR4mmUdrd6"
       },
       "artists": [
         {
-          "name": "Retain",
-          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+          "name": "Dj Em D",
+          "url": "https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0"
         },
         {
-          "name": "Sanne Hak",
-          "url": "https://open.spotify.com/artist/0w82Kfvi0syYUnxmLd2lrr"
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        },
+        {
+          "name": "Arknn",
+          "url": "https://open.spotify.com/artist/11mVkZmDJloz6UzalAaZJ4"
         }
       ],
-      "duration_ms": 190159,
-      "name": "Fresh Wind - Retain Remix",
-      "url": "https://open.spotify.com/track/71QukHVaKdnRBC6isGYZuK"
+      "duration_ms": 184000,
+      "name": "Praying Out Loud - Arknn Remix",
+      "url": "https://open.spotify.com/track/0TN6lBoupsiKJJpDPgi5af"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -551,6 +555,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Fresh Wind (Retain Remix)",
+        "url": "https://open.spotify.com/album/0rhdkcw1Q3ix7n5bxZPqpi"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        },
+        {
+          "name": "Sanne Hak",
+          "url": "https://open.spotify.com/artist/0w82Kfvi0syYUnxmLd2lrr"
+        }
+      ],
+      "duration_ms": 190159,
+      "name": "Fresh Wind - Retain Remix",
+      "url": "https://open.spotify.com/track/71QukHVaKdnRBC6isGYZuK"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "I Gotta Song",
         "url": "https://open.spotify.com/album/13W77W2HeajGg74mTmsobT"
       },
@@ -563,30 +587,6 @@
       "duration_ms": 287993,
       "name": "I Gotta Song",
       "url": "https://open.spotify.com/track/2WzTahJr3Pbkw4ZkIbyBzU"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Praying Out Loud (Arknn Remix)",
-        "url": "https://open.spotify.com/album/6zSWdkEdXc4hiR4mmUdrd6"
-      },
-      "artists": [
-        {
-          "name": "Dj Em D",
-          "url": "https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0"
-        },
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        },
-        {
-          "name": "Arknn",
-          "url": "https://open.spotify.com/artist/11mVkZmDJloz6UzalAaZJ4"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Praying Out Loud - Arknn Remix",
-      "url": "https://open.spotify.com/track/0TN6lBoupsiKJJpDPgi5af"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "crown",
-        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "crown",
-      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Holy, Holy, Holy (Praise Panda Remix)",
         "url": "https://open.spotify.com/album/3hq6m1vFLQDLEGBBQp4yOK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 181975,
       "name": "Holy, Holy, Holy (Praise Panda Remix)",
       "url": "https://open.spotify.com/track/21ZzfvwkHM3HONKek5UURR"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "crown",
+        "url": "https://open.spotify.com/album/25Gl0AEBTyVcLQsTaoQ6rP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "crown",
+      "url": "https://open.spotify.com/track/0kMKX9UfFMvZLC9jW6Zt9d"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
-      },
-      "artists": [
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        },
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Lifting Me Up",
         "url": "https://open.spotify.com/album/2nCMXBMDLq2fnfU023ebxM"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 174193,
       "name": "Lifting Me Up",
       "url": "https://open.spotify.com/track/2fMmN8oXhD0IVRXPhOdId2"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/7CgPSroUgTFitxh8ZD6JvC"
+      },
+      "artists": [
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1Lel98HKzZrMucIV1EdyA5"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "How He Works",
+        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
+      },
+      "artists": [
+        {
+          "name": "Ish D",
+          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "How He Works",
+      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Music Comes from God",
         "url": "https://open.spotify.com/album/1QU3tPc4vf6l21ylcrGuNG"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 189374,
       "name": "Music Comes from God",
       "url": "https://open.spotify.com/track/2V5cKqjFASygj6yIFdW4eP"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "How He Works",
-        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
-      },
-      "artists": [
-        {
-          "name": "Ish D",
-          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "How He Works",
-      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Building \"What are you waiting on?\"",
+        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+      },
+      "artists": [
+        {
+          "name": "Erica Reed",
+          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+        }
+      ],
+      "duration_ms": 231435,
+      "name": "Building \"What are you waiting on?\"",
+      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 173333,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Building \"What are you waiting on?\"",
-        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
-      },
-      "artists": [
-        {
-          "name": "Erica Reed",
-          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
-        }
-      ],
-      "duration_ms": 231435,
-      "name": "Building \"What are you waiting on?\"",
-      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
     },
     {
       "added_at": "2026-08-18 23:12:48",

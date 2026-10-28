@@ -6,8 +6,64 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAF5f9dXUeWI8qNL1Kgrd6vwD/CE3b7",
+  "snapshot_id": "AAAF6MV0K9lQiBbwz5Id2jNt/zsTvFea",
   "tracks": [
+    {
+      "added_at": "2026-10-28 04:05:11",
+      "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/4B21b4n1Mfsk4YX6121H0V"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        },
+        {
+          "name": "FIBRE",
+          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
+        },
+        {
+          "name": "Alex Gr\u00e5ey",
+          "url": "https://open.spotify.com/artist/1scIRMk5TreLGq7y3DAlWr"
+        }
+      ],
+      "duration_ms": 158644,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/1s0ffiqNxK5PKtC6vIb7qg"
+    },
+    {
+      "added_at": "2026-10-27 23:12:13",
+      "album": {
+        "name": "out of luv",
+        "url": "https://open.spotify.com/album/3UfyiOqsYM9jdIq92nTiBE"
+      },
+      "artists": [
+        {
+          "name": "alexx",
+          "url": "https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI"
+        }
+      ],
+      "duration_ms": 147277,
+      "name": "out of luv",
+      "url": "https://open.spotify.com/track/3NP3mCoQWnZGUWtPUfCg6y"
+    },
+    {
+      "added_at": "2026-10-27 23:11:21",
+      "album": {
+        "name": "Airplane music",
+        "url": "https://open.spotify.com/album/3SpLlV3gjkHzcg9fTyRlkd"
+      },
+      "artists": [
+        {
+          "name": "francium",
+          "url": "https://open.spotify.com/artist/75mDfzs1ZGeTyh6OPYLlly"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Like a dragon",
+      "url": "https://open.spotify.com/track/2IgnGh8YwowpBncf9h3JLt"
+    },
     {
       "added_at": "2026-10-26 20:10:21",
       "album": {

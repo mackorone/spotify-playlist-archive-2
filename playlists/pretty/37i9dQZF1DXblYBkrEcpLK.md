@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: 東山奈央 Nao Toyama
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,984 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,987 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 45 | [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 |
 | 46 | [星降る海](https://open.spotify.com/track/4sEn07Jaha1koyaFzplJB0) | [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [超かぐや姫！](https://open.spotify.com/artist/4Lk0yqhpmphymMVtbdT0z6) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:13 |
 | 47 | [HIDE AND SEEK](https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HIDE AND SEEK](https://open.spotify.com/album/3TvybfjZVsoIzHj54Q5cMh) | 3:18 |
-| 48 | [祈り、終われば](https://open.spotify.com/track/1JelF7yfO3pDABPmOxLoVl) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [祈り、終われば](https://open.spotify.com/album/0hvpMj6z0amzqaVhhHmsD8) | 3:57 |
-| 49 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
+| 48 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
+| 49 | [祈り、終われば](https://open.spotify.com/track/1JelF7yfO3pDABPmOxLoVl) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [祈り、終われば](https://open.spotify.com/album/0hvpMj6z0amzqaVhhHmsD8) | 3:57 |
 | 50 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
 
 Snapshot ID: `AAAAABKGXCI3lw6UBbK7fRni8Nm5UvyP`

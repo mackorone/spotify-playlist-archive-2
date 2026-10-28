@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Nabihah Iqbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902,640 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902,510 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 42 | [Belinda](https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Belinda](https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG) | 2:45 |
 | 43 | [Ne Plus Ultra](https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Ne Plus Ultra](https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80) | 2:49 |
 | 44 | [the feeling](https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [the feeling](https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u) | 4:35 |
-| 45 | [My World](https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9) | 3:30 |
+| 45 | [My World](https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW), [Ox Eye](https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3) | [My World](https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9) | 3:30 |
 | 46 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 47 | [Set it on Fire \(Jordana's Version\)](https://open.spotify.com/track/2HRbdghpemsiyJCzlUdeBK) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Set it on Fire \(Jordana's Version\)](https://open.spotify.com/album/2Gx1RcFZ6ByqnRyIxCHPru) | 3:33 |
 | 48 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Aanchal Tyagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,662 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,670 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 49 | [Promises](https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Promises](https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8) | 2:49 |
 | 50 | [O Soneya](https://open.spotify.com/track/7LjP1dq5r0t36fhG2Ft3n8) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [shaukand](https://open.spotify.com/artist/0OQxi12JAYPeOhizDpWa1r) | [O Soneya](https://open.spotify.com/album/1vpkoMwAENTMIe5FTtnqE7) | 2:33 |
 | 51 | [Khud Ko Miloon](https://open.spotify.com/track/2A5Gmg2gCYXpLJ3aVuGYSc) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:40 |
-| 52 | [Raaz](https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Raaz](https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm) | 2:44 |
-| 53 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
-| 54 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
+| 52 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
+| 53 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
+| 54 | [Raaz](https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Raaz](https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm) | 2:44 |
 | 55 | [Door](https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Door](https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM) | 3:09 |
 | 56 | [Sajna Ve](https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sajna Ve](https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ) | 2:55 |
 | 57 | [Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [In Case We Forget](https://open.spotify.com/album/4UCUZ5mScC73JlcCGy5Ga3) | 4:09 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 69 | [maikhana](https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [maikhana](https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E) | 3:48 |
 | 70 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 |
 | 71 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
-| 72 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |
-| 73 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 |
-| 74 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
-| 75 | [Parinaam](https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Parinaam](https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv) | 2:15 |
+| 72 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 |
+| 73 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |
+| 74 | [Parinaam](https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Parinaam](https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv) | 2:15 |
+| 75 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
 
 Snapshot ID: `AAAAAFJjK2rwLxJzPLIyU6uqQNhVHnKe`

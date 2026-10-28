@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,351 likes - 44 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,353 likes - 44 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 43 | [Pobre de Ti](https://open.spotify.com/track/7glaORssesYaKDg1m8ehjc) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [50 Años de Exitos](https://open.spotify.com/album/3CBgvvTeYBtuwfXtGN3Cot) | 2:20 |
 | 44 | [Gabino Barrera](https://open.spotify.com/track/0O2Xy6fraAVq3q841IYH9T) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 2:44 |
 
-Snapshot ID: `atv1AAAAAADtcYFAIktLMjv9Cjxsfy3S`
+Snapshot ID: `at1GgAAAAAAW04g1sdo7xRyAz0y2X91D`

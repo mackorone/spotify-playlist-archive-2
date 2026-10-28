@@ -16251,6 +16251,24 @@
     },
     {
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/1jy807mjNUP0S7MUYUubnc"
+      },
+      "artists": [
+        {
+          "name": "Trask",
+          "url": "https://open.spotify.com/artist/5V4IcR7gN4KcBUGKmIOnqQ"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229752,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/1aOZwJQaSEckAnLXeU00fT"
+    },
+    {
+      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/4QEGtVIxuwz7AJQOT4SYwz"
       },
@@ -17280,6 +17298,24 @@
       "duration_ms": 179106,
       "name": "Human Angel",
       "url": "https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO"
+    },
+    {
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/5Bzk26GdfsBYjKmylM7t9e"
+      },
+      "artists": [
+        {
+          "name": "Olivia Barnes",
+          "url": "https://open.spotify.com/artist/6OlUNIT9FUO9BkFDPrixVa"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177322,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/5HiOKei6AeeO6FVOkIOn8J"
     },
     {
       "album": {
@@ -29784,6 +29820,24 @@
       "duration_ms": 276750,
       "name": "Rind",
       "url": "https://open.spotify.com/track/0GQnSp82ETFcxspK3Ti9Vf"
+    },
+    {
+      "album": {
+        "name": "Ring Stains",
+        "url": "https://open.spotify.com/album/5jhWYXrPiDElJ994C6d35o"
+      },
+      "artists": [
+        {
+          "name": "Lamplight",
+          "url": "https://open.spotify.com/artist/6W7C7NhjSvrh9u1P7bjUx0"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106760,
+      "name": "Ring Stains",
+      "url": "https://open.spotify.com/track/1ay4m8MZVn9K8T3VP2AMOk"
     },
     {
       "album": {

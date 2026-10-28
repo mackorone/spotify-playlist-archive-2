@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,645 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,674 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 50 | [Timro Pratiksa](https://open.spotify.com/track/5nQA7m7xypeL7dFaGRwJO5) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv) | [Timro Pratiksa](https://open.spotify.com/album/1aWGF7IgGYgc9Hmf857WmZ) | 4:01 |
 | 51 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
 | 52 | [Noor E Khuda](https://open.spotify.com/track/55fSZWdcvMPJga3LbiV8jN) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 6:37 |
-| 53 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
-| 54 | [Khoobsurat](https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 4:04 |
+| 53 | [Khoobsurat](https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 4:04 |
+| 54 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 55 | [Ve Kamleya \- Asees Version](https://open.spotify.com/track/0t13TDloNQhmFFLOa4bMhs) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ve Kamleya \- Asees Version](https://open.spotify.com/album/4rFLZ85c7DH7p7dTzMYanE) | 3:00 |
 | 56 | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ) | 3:13 |
 | 57 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 70 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 71 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 72 | [Aao Chalein](https://open.spotify.com/track/7ADt3F5qdx8qPYdy6ODCar) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Bombay Dreams](https://open.spotify.com/album/5Y7esCvRwUxwEKFEJ6EUdU) | 3:05 |
-| 73 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
-| 74 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
+| 73 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
+| 74 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
 | 75 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 |
 
 Snapshot ID: `AAAAAJJviN85hGUOdgDTI7LJlnoZNO9z`

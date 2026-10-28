@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: 730 Huncho
 
-1,184 songs - 2 day 7 hr 32 min
+1,185 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,6 +852,7 @@
 | [Potwory i spółka \- Nowe Rozdanie \| S1](https://open.spotify.com/track/2ZBrW0kxfB4vctMPJ03wqI) | [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Potwory i spółka \- Nowe Rozdanie \| S1](https://open.spotify.com/album/43ZA7IFUkCrijWTFEcZXIj) | 3:07 | 2025-05-29 | 2025-08-22 |
 | [POW POW](https://open.spotify.com/track/0RgYjo6BqSxhPXus5e4DDR) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8), [Dajczman](https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2) | [POW POW](https://open.spotify.com/album/5QiddCKmbpB2JTo03Dl6ML) | 2:34 | 2025-08-28 | 2025-10-10 |
 | [Power Up](https://open.spotify.com/track/0UUfAzaqo4pO0ikM7llaRJ) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI) | [Power Up](https://open.spotify.com/album/0iwUNQApuN2m00w8Y5opQ8) | 3:38 | 2024-07-11 | 2024-08-30 |
+| [Powiedz To](https://open.spotify.com/track/5yiFrvo6ivcgyVamCQ6nmy) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Powiedz To](https://open.spotify.com/album/101DVZzw8zmWQnPyUsDv39) | 1:32 | 2026-10-27 |  |
 | [Powiedz ziomalom, że idę](https://open.spotify.com/track/16CzS0P8F3W5iAfOntJe6t) | [Małach](https://open.spotify.com/artist/1s4U0KH826DemEVZgc4Iuu), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Eddie Block](https://open.spotify.com/artist/5WEdZfOfI9kQJnwJGvLRJf), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [Powiedz ziomalom, że idę](https://open.spotify.com/album/7r6k9q8fSwg0G3XUVQZmiE) | 3:35 | 2025-10-09 | 2025-10-17 |
 | [POWRÓT DO ŚWIATŁA](https://open.spotify.com/track/3WNKymQ8cbSnWcvA8EfluF) | [Miszel](https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4), [Premixm](https://open.spotify.com/artist/08AkoNEWCc8MeFeONaqAKI) | [POWRÓT DO ŚWIATŁA](https://open.spotify.com/album/6Bms4O6BiEFxpfoAq9TPUQ) | 4:17 | 2024-03-21 | 2024-03-29 |
 | [PRAGNIEŃ BRAK](https://open.spotify.com/track/01Mx9qKrT1IeL9EywTe4Se) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [PRAGNIEŃ BRAK](https://open.spotify.com/album/076bMlMPKEhb0OM7tyWiJC) | 3:03 | 2026-02-06 | 2026-04-03 |
@@ -896,7 +897,7 @@
 | [READY](https://open.spotify.com/track/1sDR4hVKs4MN6rmyDQ34vc) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [YARSKI](https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6) | [READY](https://open.spotify.com/album/5RQPMGzJgcC8gJRv16xG2u) | 2:31 | 2025-05-22 | 2025-05-30 |
 | [Recepta na sukces](https://open.spotify.com/track/6EKZhAqJuZhtoI5Tlxgs7o) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Opiat](https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo), [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [Recepta na sukces](https://open.spotify.com/album/6l0NLTrsxWphj0OBn1DNqz) | 2:59 | 2025-05-22 | 2025-06-20 |
 | [RED BULL 64 BARS](https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [RED BULL 64 BARS](https://open.spotify.com/album/6u2Z9QYUM5VLbyIJTM3EU1) | 3:17 | 2026-07-02 |  |
-| [RED BULL 64 BARS](https://open.spotify.com/track/3Elnl9QQlyYCUsw7ECQnKs) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [RED BULL 64 BARS](https://open.spotify.com/album/4tbCNECF3VI7tORUtrBvtm) | 3:34 | 2026-10-01 |  |
+| [RED BULL 64 BARS](https://open.spotify.com/track/3Elnl9QQlyYCUsw7ECQnKs) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [RED BULL 64 BARS](https://open.spotify.com/album/4tbCNECF3VI7tORUtrBvtm) | 3:34 | 2026-10-01 | 2026-10-28 |
 | [RED BULL 64 BARS](https://open.spotify.com/track/62uPooqlz5eELqyv675VlW) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [RED BULL 64 BARS](https://open.spotify.com/album/1DbNDbr3NizI0NdaX5iSyk) | 3:31 | 2026-09-03 | 2026-10-09 |
 | [RED BULL 64 BARS](https://open.spotify.com/track/4CZC07uZnTahB1sAjTcb74) | [Zippy Ogar](https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [RED BULL 64 BARS](https://open.spotify.com/album/5dHf0JOU7hYfpD2SM8dKGj) | 4:10 | 2026-09-24 | 2026-10-02 |
 | [Red Flag](https://open.spotify.com/track/7JcJGXbYk5K6KUngkEXuiA) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT) | [Red Flag](https://open.spotify.com/album/6Xn69ub1xLQzXQVe5feCaH) | 3:00 | 2024-05-23 | 2024-08-09 |

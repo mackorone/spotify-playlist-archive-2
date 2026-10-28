@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 16 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
 | 17 | [S.I.M.P.L.E](https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [DND](https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs) | 2:33 |
 | 18 | [Stressin'](https://open.spotify.com/track/16VjvrmcPtPzLhnOSBqHxp) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:48 |
-| 19 | [Pretty Girls](https://open.spotify.com/track/7uYXHXWBq4VEsMywZQrMfR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:38 |
-| 20 | [High Class](https://open.spotify.com/track/7zrYM0an4hLtIn90xqEFLU) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Cathedral City Supreme](https://open.spotify.com/album/2jJ1SQwKKY9wNN5FdYGQGO) | 3:39 |
+| 19 | [High Class](https://open.spotify.com/track/7zrYM0an4hLtIn90xqEFLU) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Cathedral City Supreme](https://open.spotify.com/album/2jJ1SQwKKY9wNN5FdYGQGO) | 3:39 |
+| 20 | [Pretty Girls](https://open.spotify.com/track/7uYXHXWBq4VEsMywZQrMfR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 2:38 |
 | 21 | [WD5 Intro](https://open.spotify.com/track/2UuUBBKT7XxUWtnjGGUTc2) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 1:41 |
 | 22 | [Attention](https://open.spotify.com/track/0BFZI3Y6ePQaUIBqnWgQB9) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 3:05 |
 | 23 | [Pluto Walk](https://open.spotify.com/track/2c0DupQxqoaAHMZERb8Avu) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 1:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQuy1uEYTm1p.md) - [plain]
 | 39 | [Into me](https://open.spotify.com/track/0O3N02GOlmA64FjatIvzIp) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [Into me](https://open.spotify.com/album/5qlLxd49w1hdiJrZIsbMu7) | 1:50 |
 | 40 | [all i need](https://open.spotify.com/track/00joKEPIitqe05LXwZcWT2) | [Maeesha b](https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7) | [all i need](https://open.spotify.com/album/72NXupoFp47op0ZlhzEMuu) | 2:23 |
 
-Snapshot ID: `AcgAwgAAAAD7Bt9R+QBqQPWNGOSDoU8Q`
+Snapshot ID: `AcgGYgAAAADaNm+Z4qqo092WkLRS+8cS`

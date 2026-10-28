@@ -1,6 +1,6 @@
 {
   "description": "New and classic releases from Americana stalwarts. Cover: Wynonna",
-  "num_followers": 240993,
+  "num_followers": 241004,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "California Sober / In Your Ocean (Acoustic)",
-        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Found Dogs",
         "url": "https://open.spotify.com/album/383eZVIN0GzKNWEQZwC6sM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 214664,
       "name": "World Without Love",
       "url": "https://open.spotify.com/track/6hT0Lq7Dc5DTV39pv5c5LV"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Alcohol and Adderall",
-        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 212997,
-      "name": "Alcohol and Adderall",
-      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Please Don't Make Me Beg",
-      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "I Am Shelby Lynne (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 219306,
       "name": "Gotta Get Back",
       "url": "https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Please Don't Make Me Beg",
+      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The New World Wave",
-        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
-      },
-      "artists": [
-        {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "The New World Wave",
-      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 220653,
       "name": "Things That I Lean On",
       "url": "https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
         "name": "Deportee / Oval Room",
         "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
       },
@@ -1415,18 +1431,22 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+        "name": "Broken Radio '22",
+        "url": "https://open.spotify.com/album/1oW9ApWVjn2ezXeLBUK4Ak"
       },
       "artists": [
         {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+      "duration_ms": 221852,
+      "name": "Broken Radio '22",
+      "url": "https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1447,26 +1467,6 @@
       "duration_ms": 215338,
       "name": "The Easy Kind (feat. Wynonna)",
       "url": "https://open.spotify.com/track/715T0aGuD1EewLmKYnog21"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
-        "name": "Broken Radio '22",
-        "url": "https://open.spotify.com/album/1oW9ApWVjn2ezXeLBUK4Ak"
-      },
-      "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 221852,
-      "name": "Broken Radio '22",
-      "url": "https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "The Birds Of St. Marks",
-        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "The Birds Of St. Marks",
-      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 255490,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "The Birds Of St. Marks",
+        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Birds Of St. Marks",
+      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "36 \u00a2",
-        "url": "https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV"
-      },
-      "artists": [
-        {
-          "name": "The Bacon Brothers",
-          "url": "https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "36 Cents",
-      "url": "https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw"
-    },
-    {
-      "added_at": "2026-10-02 04:01:37",
-      "album": {
         "name": "The Party Never Ends",
         "url": "https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 282133,
       "name": "Barbeque",
       "url": "https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl"
+    },
+    {
+      "added_at": "2026-10-02 04:01:37",
+      "album": {
+        "name": "36 \u00a2",
+        "url": "https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV"
+      },
+      "artists": [
+        {
+          "name": "The Bacon Brothers",
+          "url": "https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "36 Cents",
+      "url": "https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw"
     },
     {
       "added_at": "2026-10-02 04:01:37",
@@ -2667,18 +2667,18 @@
     {
       "added_at": "2026-10-02 04:01:37",
       "album": {
-        "name": "Terms Of My Surrender",
-        "url": "https://open.spotify.com/album/3xIszcJYVBLLSkg9weobEu"
+        "name": "First Agnostic Church of Hope and Wonder",
+        "url": "https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y"
       },
       "artists": [
         {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+          "name": "Todd Snider",
+          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
         }
       ],
-      "duration_ms": 209666,
-      "name": "Terms Of My Surrender",
-      "url": "https://open.spotify.com/track/4OWKZfpJQDRNJdfeZf5Svf"
+      "duration_ms": 195266,
+      "name": "Never Let a Day Go By",
+      "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
     }
   ],
   "unique_name": "Americana Icons",

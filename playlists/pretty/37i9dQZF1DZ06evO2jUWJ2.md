@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,058 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,131 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 31 | [Give Me Faith](https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Kingdom Come](https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH) | 4:54 |
 | 32 | [Your Name Is God](https://open.spotify.com/track/6cb1D54z0BgnRijrk2E3Sa) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:03 |
 | 33 | [Forever YHWH \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:19 |
-| 34 | [Owe You Praise](https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 6:11 |
-| 35 | [My Testimony \(Live\)](https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 4:51 |
+| 34 | [My Testimony \(Live\)](https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 4:51 |
+| 35 | [Owe You Praise](https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 6:11 |
 | 36 | [Digno \(Worthy\)](https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:18 |
 | 37 | [Runnin \(feat\. Brandon Lake\)](https://open.spotify.com/track/60s7QyO42V4QGRp6Ewzwds) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 6:16 |
 | 38 | [I Got Saved \(feat\. Chris Brown\)](https://open.spotify.com/track/0Fcu29KCsISZx8SIFIuGWw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:13 |

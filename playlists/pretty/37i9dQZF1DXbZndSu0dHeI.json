@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234020,
+  "num_followers": 234013,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+      "duration_ms": 242757,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Dinosaur",
-        "url": "https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C"
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
       "artists": [
         {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 242757,
-      "name": "Dinosaur",
-      "url": "https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK"
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Since July",
-        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "See For Miles",
-      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Sink Into Me",
         "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 158789,
       "name": "Sink Into Me",
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Since July",
+        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "See For Miles",
+      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "The Loved Ones",
-        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 214387,
-      "name": "Victoria Falls",
-      "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Me and My Friends",
         "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 200000,
       "name": "Me and My Friends",
       "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "The Loved Ones",
+        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 214387,
+      "name": "Victoria Falls",
+      "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Nosebleed",
-        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Nosebleed",
-      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Citadel Band",
         "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 238280,
       "name": "Ignorant Boy, Beautiful Girl (Namanama)",
       "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
     },
     {
       "added_at": "2026-06-18 23:01:00",

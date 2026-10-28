@@ -1,12 +1,12 @@
 {
   "description": "Fun tracks for your Halloween festivities!",
-  "num_followers": 1445320,
+  "num_followers": 1450715,
   "original_name": "Halloween Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB5Q0IkWOA9ElWsfXL8NL9xtSnvN",
+  "snapshot_id": "AAAAABXhPzzNm3Ma0MkPdRyYcCkqu/ZD",
   "tracks": [
     {
       "added_at": "2026-08-31 15:22:11",
@@ -201,54 +201,6 @@
       "url": "https://open.spotify.com/track/79ynnbIoeTY83kAGNycCth"
     },
     {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 306440,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
-    },
-    {
       "added_at": "2026-10-19 23:50:48",
       "album": {
         "name": "Dracula (with JENNIE)",
@@ -271,6 +223,22 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
@@ -283,6 +251,22 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
     },
     {
       "added_at": "2026-10-19 23:50:48",
@@ -303,6 +287,38 @@
       "duration_ms": 203920,
       "name": "Heads Will Roll - A-Trak Remix Radio Edit",
       "url": "https://open.spotify.com/track/0vBpyfpW2lARGh3AZFtWRi"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -399,18 +415,18 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "added_at": "2026-10-19 23:50:48",
@@ -503,6 +519,22 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/3GhnFolMJn8Ua8KieFZSBQ"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/6bmw3whbG7FBQojQPFk52l"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
         "name": "Wednesday: Season 2 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/54Ysqf2ZZkmOX51zta0y7m"
       },
@@ -515,22 +547,6 @@
       "duration_ms": 149470,
       "name": "Don't Fear The Reaper",
       "url": "https://open.spotify.com/track/7asnovTkmiN8mf09WeSW2A"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Psychedelic Jungle",
-        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 186038,
-      "name": "Goo Goo Muck",
-      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -583,18 +599,34 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/3GhnFolMJn8Ua8KieFZSBQ"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 194186,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/6bmw3whbG7FBQojQPFk52l"
+      "duration_ms": 235893,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/646J2jOtUe4Jflrmh6JFjN"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "She Wolf",
+        "url": "https://open.spotify.com/album/5kVvnx0DvcEx11FirNJPH0"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "She Wolf",
+      "url": "https://open.spotify.com/track/4WcCW10tnJCljX8Fhs0FdE"
     },
     {
       "added_at": "2026-10-19 23:50:48",
@@ -635,38 +667,6 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Bring Me To Life",
-      "url": "https://open.spotify.com/track/646J2jOtUe4Jflrmh6JFjN"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -747,22 +763,6 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
         "name": "Stereo-Typical: A's, B's & Rarities",
         "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -811,22 +827,6 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "She Wolf",
-        "url": "https://open.spotify.com/album/5kVvnx0DvcEx11FirNJPH0"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "She Wolf",
-      "url": "https://open.spotify.com/track/4WcCW10tnJCljX8Fhs0FdE"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 192359,
       "name": "Circus",
       "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
-    },
-    {
-      "added_at": "2026-10-19 23:50:48",
-      "album": {
-        "name": "Beetlejuice (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p"
-      },
-      "artists": [
-        {
-          "name": "Alex Brightman",
-          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
-        },
-        {
-          "name": "Beetlejuice Original Broadway Cast Recording Ensemble",
-          "url": "https://open.spotify.com/artist/5EJf9pRO532SnGtOaeiw4F"
-        }
-      ],
-      "duration_ms": 223564,
-      "name": "The Whole \"Being Dead\" Thing",
-      "url": "https://open.spotify.com/track/7BKbcBpIS7jMKsjbry09JF"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -991,46 +971,6 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "Saja Boys",
-          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
-        },
-        {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "Neckwav",
-          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
-        },
-        {
-          "name": "Danny Chung",
-          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
-        },
-        {
-          "name": "KEVIN WOO",
-          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
-        },
-        {
-          "name": "samUIL Lee",
-          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 191537,
-      "name": "Your Idol",
-      "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
         "name": "Scream & Shout",
         "url": "https://open.spotify.com/album/0TbxqNfvk8z1ktpHik61cy"
       },
@@ -1047,6 +987,22 @@
       "duration_ms": 284413,
       "name": "Scream & Shout",
       "url": "https://open.spotify.com/track/7n6ibfsRHhCb1Ccl9Fg2CZ"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
       "added_at": "2026-10-19 23:50:48",
@@ -1097,20 +1053,24 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2026-08-31 15:22:11",
+      "added_at": "2026-10-19 23:50:48",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+        "name": "Beetlejuice (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Beetlejuice Original Broadway Cast Recording Ensemble",
+          "url": "https://open.spotify.com/artist/5EJf9pRO532SnGtOaeiw4F"
         }
       ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+      "duration_ms": 223564,
+      "name": "The Whole \"Being Dead\" Thing",
+      "url": "https://open.spotify.com/track/7BKbcBpIS7jMKsjbry09JF"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1147,6 +1107,22 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
+        "name": "Evolution: The Hits",
+        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
         "name": "Hocus Pocus 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED"
       },
@@ -1159,6 +1135,66 @@
       "duration_ms": 174746,
       "name": "Skeleton Sam",
       "url": "https://open.spotify.com/track/2tscKg9DAFFhOhp8X3Ssf8"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308123,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
+        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+        }
+      ],
+      "duration_ms": 177352,
+      "name": "My Family - from \"The Addams Family\"",
+      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 308373,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/2E2ZVy2fxslpAUgbb4zu84"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1211,18 +1247,18 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
       "artists": [
         {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 308123,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+      "duration_ms": 208110,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "added_at": "2026-10-23 04:02:22",
@@ -1243,46 +1279,34 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Evolution: The Hits",
-        "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Dead Or Alive",
-          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 195146,
-      "name": "You Spin Me Round (Like a Record)",
-      "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
     },
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
-        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Rock Mafia",
-          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 177352,
-      "name": "My Family - from \"The Addams Family\"",
-      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
+      "duration_ms": 209546,
+      "name": "Hungry Like the Wolf",
+      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1299,6 +1323,22 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "added_at": "2026-08-31 15:22:11",
+      "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1355,34 +1395,42 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 208110,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+      "duration_ms": 191537,
+      "name": "Your Idol",
+      "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1415,38 +1463,6 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Hungry Like the Wolf",
-      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 308373,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/2E2ZVy2fxslpAUgbb4zu84"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-08-31 15:22:11",
       "album": {
-        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
       },
       "artists": [
         {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 244706,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2026-08-31 15:22:11",
@@ -1731,22 +1747,6 @@
       "duration_ms": 203760,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1kusepF3AacIEtUTYrw4GV"
-    },
-    {
-      "added_at": "2026-08-31 15:22:11",
-      "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2026-08-31 15:22:11",

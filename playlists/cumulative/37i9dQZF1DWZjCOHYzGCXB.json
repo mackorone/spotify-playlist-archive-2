@@ -424,7 +424,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-28",
       "duration_ms": 193792,
       "name": "are we on a break",
       "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
@@ -3094,6 +3094,24 @@
       "duration_ms": 189560,
       "name": "Hot & Sexy",
       "url": "https://open.spotify.com/track/4ZwesbtAZQaXbwx6GMnGhC"
+    },
+    {
+      "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
     },
     {
       "album": {

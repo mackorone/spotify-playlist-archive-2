@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las favoritas de octubre 2026\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,708 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,495 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 11 | [Dónde estás](https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh) | [Barbas](https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Dónde estás](https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5) | 2:39 |
 | 12 | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Macacoa 2000 \(from GTAVI: The Album\)](https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw) | 2:53 |
 | 13 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
-| 14 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
-| 15 | [Amor De Antes](https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Amor De Antes](https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD) | 3:02 |
+| 14 | [Amor De Antes](https://open.spotify.com/track/2YyYPBsc4aBgtTTWZka90i) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Amor De Antes](https://open.spotify.com/album/6QvRIL67RYsbP5ZOsED6rD) | 3:02 |
+| 15 | [Malas Mañas](https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Malas Mañas](https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh) | 2:56 |
 | 16 | [After \(feat\. Young Miko\)](https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [After \(feat\. Young Miko\)](https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq) | 3:09 |
 | 17 | [Ghost In The Shell](https://open.spotify.com/track/5lBvNgYIUMxlfLPaUXELMx) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mosca](https://open.spotify.com/album/5CIFqAiWMZ4ZxS9BvUBC6q) | 4:38 |
 | 18 | [For Eva](https://open.spotify.com/track/69jTHsPXAij557lc73zcp2) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Cuando Sean Mayores](https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG) | 2:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 45 | [VALIENTE](https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [VALIENTE](https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE) | 2:30 |
 | 46 | [Bashiata](https://open.spotify.com/track/1sxTOfJebwCInle9Wc0YGt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Bashiata](https://open.spotify.com/album/52B2HnetcclvWedmBU9aQc) | 4:12 |
 | 47 | [CARIÑO](https://open.spotify.com/track/6GR5SpN5QMumyDgmaGjecM) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [LOS CISNES](https://open.spotify.com/album/557XWOuNRadtqs2rByxVuk) | 2:57 |
-| 48 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
-| 49 | [perdón](https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [perdón](https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly) | 2:43 |
+| 48 | [perdón](https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [perdón](https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly) | 2:43 |
+| 49 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
 | 50 | [Príncipe](https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf) | [Blua](https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM) | [Príncipe](https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9) | 3:01 |
 | 51 | [santa lucía \(impala\)](https://open.spotify.com/track/2iXV1aHxVVtaLLHgdC4Woq) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [todavía no vuelvo](https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK) | 3:35 |
 | 52 | [LA MENTIRA](https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex) | 3:01 |

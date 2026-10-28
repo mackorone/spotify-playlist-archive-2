@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,838 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,845 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 17 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
 | 18 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 |
 | 19 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 |
-| 20 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
-| 21 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
+| 20 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
+| 21 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
 | 22 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
 | 23 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/1w6ZUtNCTjFRPJiOm84mOR) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
 | 24 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 51 | [As I Lay Here](https://open.spotify.com/track/59QJ83aEkzxOCqeWFbjoKa) | [Jennifer Dileo](https://open.spotify.com/artist/2mB3r3m1RWix0kc0f4qxTT) | [As I Lay Here](https://open.spotify.com/album/69cF5zbCD2jCDvAJvXJvgh) | 3:19 |
 | 52 | [Further Away](https://open.spotify.com/track/6oUaVedjL2YE7i87ARsNV6) | [Michael Ojha](https://open.spotify.com/artist/4h15HPM1bGgwpOyfRk3w1w) | [Further Away](https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2) | 3:18 |
 | 53 | [Indian Mindfulness Song \- Mindfulness Tune Performed on Tabla, Sitar, Vocals and Shehnai](https://open.spotify.com/track/3RT0HkF9CO1okW2zoS1Vbq) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [Indian Healing Music, Vol\. 2 \(Indian Music for Yoga, Meditation and Chill out, Performed on Indian Flutes, Tabla, Sitar, Drums and Chants\)](https://open.spotify.com/album/2dvyxsxTM4z7HtvUAiR7FR) | 8:02 |
-| 54 | [Parallel Dimension](https://open.spotify.com/track/44QFvGC5DRZmuD1gVln7Py) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Parallel Dimension](https://open.spotify.com/album/6K0Tb9TkswbH1zbCsYibbr) | 3:26 |
-| 55 | [Music for Inner Peace and Meditation \(Okinawa Inspired Music\)](https://open.spotify.com/track/2ElXIde9edGAyNjPaXgIHW) | [Echo Fields](https://open.spotify.com/artist/37weD9x94LXYM9CF4yIKUj) | [Wellness Spa Sounds \- Nature Music for Relaxation, Peaceful Sleep New Age Music](https://open.spotify.com/album/6LKUqXc4Z1V93EdaclLKa1) | 5:20 |
+| 54 | [Music for Inner Peace and Meditation \(Okinawa Inspired Music\)](https://open.spotify.com/track/2ElXIde9edGAyNjPaXgIHW) | [Echo Fields](https://open.spotify.com/artist/37weD9x94LXYM9CF4yIKUj) | [Wellness Spa Sounds \- Nature Music for Relaxation, Peaceful Sleep New Age Music](https://open.spotify.com/album/6LKUqXc4Z1V93EdaclLKa1) | 5:20 |
+| 55 | [Parallel Dimension](https://open.spotify.com/track/44QFvGC5DRZmuD1gVln7Py) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Parallel Dimension](https://open.spotify.com/album/6K0Tb9TkswbH1zbCsYibbr) | 3:26 |
 | 56 | [Meditation Winds](https://open.spotify.com/track/2yQpPMB09kt85h5cNibcmM) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Lotus Circle](https://open.spotify.com/artist/3uC78ojWmi0c7NdLU7uwvY) | [Meditation & Yoga \- Flutes \(Native American Flute & Sounds of Nature for Yoga, Massage, New Age Spa, Zen & Chakra Healing\)](https://open.spotify.com/album/1kcv6KyNliiIB9DniMrBOG) | 5:21 |
 | 57 | [Om Asatoma \(Yoga Mantra\) \[feat\. Deva Premal & Miten\]](https://open.spotify.com/track/40391iHE1dYzQmOby5SFf7) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 7:16 |
 | 58 | [Aion](https://open.spotify.com/track/0ssdj7toIUWMGFmMVMW7Ge) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Aion](https://open.spotify.com/album/1kkglpZHhzTKTLiYx0AXol) | 3:25 |

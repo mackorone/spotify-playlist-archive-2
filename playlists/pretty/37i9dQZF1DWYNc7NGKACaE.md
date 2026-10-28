@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,856 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,849 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 34 | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/track/0Xawar2jiwMz36PD5M1gJ0) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [Manda Áudio \(Sped Funk\)](https://open.spotify.com/album/0zuN31JROjiQnzQm0KGtkk) | 1:39 |
 | 35 | [Florxs Speed Up](https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Florxs Speed Up](https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW) | 2:56 |
 | 36 | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf) | [LC DE VV](https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p) | [Ah Vai Ter Que Descer \- Remix](https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv) | 1:42 |
-| 37 | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk) | [TIKTOK HITS](https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK), [LC DAS CASINHAS](https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C) | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ) | 2:46 |
-| 38 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 |
+| 37 | [SEGREDO VERSÃO BH](https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr) | [Dj Vr Silva](https://open.spotify.com/artist/0IT4DLPp12S9xBzobzce1I), [Karui](https://open.spotify.com/artist/6pJDaYMxmgvbKfRXFkAVYw) | [SEGREDO VERSÃO BH](https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs) | 2:36 |
+| 38 | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk) | [TIKTOK HITS](https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK), [LC DAS CASINHAS](https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C) | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ) | 2:46 |
 | 39 | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb) | [BOMBEI AQUELA MSC DO INVEJOSO](https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE) | 2:29 |
 | 40 | [Sustenta a Botada \- Speed](https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Dj Garay Beats](https://open.spotify.com/artist/1lwdU9Q6yv7LyXqGER8D5G) | [Sustenta a Botada](https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde) | 2:24 |
 | 41 | [NICOTINA \- Speed](https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU) | [JOTTAH](https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN) | [NICOTINA](https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN) | 1:30 |

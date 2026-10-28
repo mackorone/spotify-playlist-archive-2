@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Young Stunna, K.O & Blue Pappi, Skepta, Internet Girl, Anderson Paak & Cordae and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,388 likes - 66 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,457 likes - 66 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

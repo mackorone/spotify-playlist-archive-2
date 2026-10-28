@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Meeko",
-  "num_followers": 89614,
+  "num_followers": 89616,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-10-23 04:03:18",
       "album": {
+        "name": "FREE MOI",
+        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "duration_ms": 158048,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
+    },
+    {
+      "added_at": "2026-10-23 04:03:18",
+      "album": {
         "name": "Berger",
         "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 195813,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5"
-    },
-    {
-      "added_at": "2026-10-23 04:03:18",
-      "album": {
-        "name": "FREE MOI",
-        "url": "https://open.spotify.com/album/1UnHdl7psxcwXkNAbavqTZ"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/48OCj1qG6BPITStmgBVca3"
     },
     {
       "added_at": "2026-10-23 04:03:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-23 04:03:18",
       "album": {
-        "name": "Berger",
-        "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 126139,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ"
-    },
-    {
-      "added_at": "2026-10-23 04:03:18",
-      "album": {
         "name": "BORA BORA",
         "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 153000,
       "name": "BORA BORA",
       "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+    },
+    {
+      "added_at": "2026-10-23 04:03:18",
+      "album": {
+        "name": "Berger",
+        "url": "https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 126139,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ"
     },
     {
       "added_at": "2026-10-23 04:03:18",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-10-23 04:03:18",
       "album": {
-        "name": "AUCUN MENSONGE",
-        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
-      },
-      "artists": [
-        {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
-        },
-        {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "AUCUN MENSONGE",
-      "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
-    },
-    {
-      "added_at": "2026-10-23 04:03:18",
-      "album": {
         "name": "MTL's Finest",
         "url": "https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 141176,
       "name": "MTL's Finest",
       "url": "https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE"
+    },
+    {
+      "added_at": "2026-10-23 04:03:18",
+      "album": {
+        "name": "AUCUN MENSONGE",
+        "url": "https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        },
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "AUCUN MENSONGE",
+      "url": "https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm"
     },
     {
       "added_at": "2026-10-23 04:03:18",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-10-23 04:03:18",
       "album": {
-        "name": "Wrong",
-        "url": "https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 183952,
-      "name": "Wrong",
-      "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
-    },
-    {
-      "added_at": "2026-10-23 04:03:18",
-      "album": {
         "name": "CLIC CLAC",
         "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 160000,
       "name": "CLIC CLAC",
       "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
+    },
+    {
+      "added_at": "2026-10-23 04:03:18",
+      "album": {
+        "name": "Wrong",
+        "url": "https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 183952,
+      "name": "Wrong",
+      "url": "https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq"
     },
     {
       "added_at": "2026-10-23 04:03:18",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-10-23 04:03:18",
       "album": {
+        "name": "Super freak",
+        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Super freak",
+      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
+    },
+    {
+      "added_at": "2026-10-23 04:03:18",
+      "album": {
         "name": "Helen Quelle Heure",
         "url": "https://open.spotify.com/album/2bBxBySTKaJMF69AZiHfE2"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 125538,
       "name": "Helen Quelle Heure",
       "url": "https://open.spotify.com/track/2OKLiEIW4hZPaNpb6kMtdL"
-    },
-    {
-      "added_at": "2026-10-23 04:03:18",
-      "album": {
-        "name": "Super freak",
-        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Super freak",
-      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
     },
     {
       "added_at": "2026-10-23 04:03:18",

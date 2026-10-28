@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 999181,
+  "num_followers": 999230,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "Montagem Supersonic",
         "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 103495,
       "name": "Montagem Mysterious Game",
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "COM MEDO!",
-        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
-      },
-      "artists": [
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        }
-      ],
-      "duration_ms": 69736,
-      "name": "COM MEDO!",
-      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "MASHA ULTRAFUNK",
         "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 133565,
       "name": "Live Another Day",
       "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
+        "name": "COM MEDO!",
+        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
+      },
+      "artists": [
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "duration_ms": 69736,
+      "name": "COM MEDO!",
+      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "MONTAGEM LADRAO",
         "url": "https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 75240,
       "name": "MONTAGEM LADRAO",
       "url": "https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2026-04-03 16:00:07",

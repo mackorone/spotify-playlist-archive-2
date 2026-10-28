@@ -4,7 +4,7 @@
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 47 min
+86 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/track/2QWPhmzF7yffoa9AauMS3B) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 1:42 | 2022-06-09 | 2022-10-21 |
 | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit \-](https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl) | 1:42 | 2022-10-20 |  |
 | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <DAY version>](https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD) | 1:30 | 2022-06-09 |  |
+| [名前のない怪物 \-TV Edit\- <NIGHT version>](https://open.spotify.com/track/4FqCjTbUV5FUGnYJ3ZFdok) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物 \-TV Edit\- <NIGHT version>](https://open.spotify.com/album/7tauCYU9OTUKIcOpvwzFtz) | 1:31 | 2026-10-28 |  |
 | [咲かせや咲かせ](https://open.spotify.com/track/6Qn2DEvR2t1iNyLSmghWxr) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 3:24 | 2022-06-09 |  |
 | [好きと言われた日 \(from BEST AL“ALTER EGO”\)](https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [GREATEST HITS 2011\-2017 “ALTER EGO”](https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr) | 4:51 | 2022-06-09 |  |
 | [当事者](https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [当事者](https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn) | 4:01 | 2023-04-18 |  |

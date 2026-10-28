@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Shreya Jain, The F16s and other exciting artists.
 
-1,648 songs - 3 day 18 hr 53 min
+1,649 songs - 3 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,7 +696,7 @@
 | [Kaash](https://open.spotify.com/track/3QRE57ecyZLkMGwziBq5dl) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [Kaash](https://open.spotify.com/album/6B66bHV1ibylL8HpXxjdJJ) | 4:21 | 2023-10-06 | 2023-11-11 |
 | [Kaash](https://open.spotify.com/track/1G4XshPewCjRieTkCMn4UU) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anmol Sharma](https://open.spotify.com/artist/5o4y4N0OQXr9O60xaHe6mZ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Kaash](https://open.spotify.com/album/6aH1G7aQdvLzsjO3ejHHAC) | 2:58 | 2024-10-11 | 2025-01-18 |
 | [Kaash](https://open.spotify.com/track/6BWXTsLhxCzGygFbhfilzI) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Kaash](https://open.spotify.com/album/0lc99amF6gyQb0vwmX7wuv) | 2:23 | 2024-01-19 | 2024-01-27 |
-| [Kab aaoge?](https://open.spotify.com/track/0RSG7ttBWb9gevPhigBuXT) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM), [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [Kab aaoge?](https://open.spotify.com/album/7vYxNtj8fEeHG4zPRpRLb1) | 3:33 | 2026-10-16 |  |
+| [Kab aaoge?](https://open.spotify.com/track/0RSG7ttBWb9gevPhigBuXT) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM), [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [Kab aaoge?](https://open.spotify.com/album/7vYxNtj8fEeHG4zPRpRLb1) | 3:33 | 2026-10-16 | 2026-10-28 |
 | [Kab Aur Kaise](https://open.spotify.com/track/1deiRYIJxWtk7DMDNjjgJO) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Kab Aur Kaise](https://open.spotify.com/album/0J3FZsjW6sQh4URtfzaYYU) | 2:34 | 2025-03-14 | 2025-06-28 |
 | [Kab Se Baithe](https://open.spotify.com/track/3Sz8CDyUEvRMHxie8BAtwH) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kab Se Baithe](https://open.spotify.com/album/2VxDG6ZXzlR34nxaF4oQUf) | 2:49 | 2026-10-02 |  |
 | [Kabhi Kabhi](https://open.spotify.com/track/3kAZuFJanuYz4qiNhR9BA9) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB) | [Kabhi Kabhi](https://open.spotify.com/album/00WKhN1cptNUJOwlig6k1A) | 2:35 | 2025-08-08 | 2025-10-21 |
@@ -1033,6 +1033,7 @@
 | [Na Gul Na Gulistan](https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt) | [Parvaaz](https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh) | [Na Gul Na Gulistan](https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7) | 4:55 | 2025-11-21 | 2026-01-25 |
 | [Na Hoke Tu](https://open.spotify.com/track/5mVzanSjzI5FIYYFnmON2W) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv), [Riko Lama](https://open.spotify.com/artist/1D5sTl3UODrUV0dHXKNmvx) | [Na Hoke Tu](https://open.spotify.com/album/1mbGdH1YhNjEjyNYcY8Jfi) | 3:27 | 2026-07-03 | 2026-07-11 |
 | [Na Ja](https://open.spotify.com/track/5PBms8xSMFFnTT9MShFQ6d) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Na Ja](https://open.spotify.com/album/29fiUguzZwSeACPVhm9HtA) | 2:41 | 2024-05-10 | 2024-06-15 |
+| [Na Ja Sajna](https://open.spotify.com/track/2yUiUKfdHZAl3Vdiy6SI4C) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [Na Ja Sajna](https://open.spotify.com/album/3jDGqCes9I4BdWgiBs51sM) | 3:44 | 2026-10-16 |  |
 | [Na Jaaney Kyun](https://open.spotify.com/track/7EZmoVJNJfda66TJ44aME6) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Love And Machines](https://open.spotify.com/album/0fWfU1WJh4pwIof4eSei9m) | 3:18 | 2026-04-10 | 2026-07-04 |
 | [Na Lage Nazar](https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Na Lage Nazar](https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY) | 3:00 | 2026-05-29 | 2026-08-28 |
 | [Na Na Na](https://open.spotify.com/track/674Zkmjw3pxSBEyBTc7jHh) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Na Na Na](https://open.spotify.com/album/0QDUhXQiHlLxWQpRriyva4) | 2:30 | 2025-09-26 | 2025-12-05 |

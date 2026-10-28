@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,850 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,838 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 4 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 |
 | 5 | [K2 Central](https://open.spotify.com/track/3seui1GIXrrUalvyeMD4SQ) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Kammerkonzert](https://open.spotify.com/album/4YRwqvWAu1cjBDyRRXz0Ee) | 4:24 |
 | 6 | [Daydream Repeat](https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:08 |
-| 7 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
-| 8 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 7 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 8 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
 | 9 | [Mother Cell](https://open.spotify.com/track/2efRcCOXZyTnKjO4HcRCaG) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Sabotage](https://open.spotify.com/album/6hpFDifaaNQppkdWXBQ9dz) | 5:38 |
 | 10 | [VOLVER \- instrumental](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 |
 | 11 | [Butch's Guns](https://open.spotify.com/track/7BExxkLUBUDD6h2Je2FpTJ) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [sunn O\)\)\)](https://open.spotify.com/album/1grbT4stwprQnmPMxshbbI) | 14:12 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 17 | [Weird Moments](https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 3:30 |
 | 18 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 19 | [Chicken Garaage](https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Chicken Garaage](https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa) | 6:41 |
-| 20 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
-| 21 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
+| 20 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
+| 21 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
 | 22 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
 | 23 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 |
 | 24 | [BET YOU NEVER](https://open.spotify.com/track/1jhXnfRck8f08uzcFU21nh) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [OUTSPOKEN](https://open.spotify.com/album/5oUji37vIpvyDw1TlsKOLK) | 3:51 |

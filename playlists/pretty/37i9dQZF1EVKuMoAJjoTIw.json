@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUXx6OHYXD1I>pupsies</a>, <a href=spotify:playlist:37i9dQZF1EIUGhY4EVrFX5>The Goo Goo Dolls</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIXya8JbQtUVN>Gracie Abrams</a>, <a href=spotify:playlist:37i9dQZF1EIX7AhUgWTdp6>Hoobastank</a> and more",
   "num_followers": 0,
   "original_name": "Sad Mix",
   "owner": {
@@ -11,50 +11,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "misery.",
-        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "pupsies",
-          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 166401,
-      "name": "misery.",
-      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "The Reason (20th Anniversary)",
+        "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
     },
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 200672,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wish (Audiomack Trap Symphony Version)",
         "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
       },
@@ -119,86 +135,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 200672,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0"
+      "duration_ms": 223346,
+      "name": "I Fall Apart",
+      "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Anche gli Eroi Muoiono",
-        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+        "name": "Dead and Cold",
+        "url": "https://open.spotify.com/album/3YxSiKJqbFh31mN4iZEV31"
       },
       "artists": [
         {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
         }
       ],
-      "duration_ms": 225459,
-      "name": "Davide e Golia",
-      "url": "https://open.spotify.com/track/0qGIqm3xGuugqoXzpnP6sX"
+      "duration_ms": 89624,
+      "name": "Dead and Cold",
+      "url": "https://open.spotify.com/track/4iNkLQVM0zpIBCdNUiXX3Q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2788McgqYDK3Ri1vvP2gAQ"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "ilyTOMMY",
+          "url": "https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb"
         }
       ],
-      "duration_ms": 230922,
-      "name": "CRUDELIA - I nervi",
-      "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Habitat Cielo",
-        "url": "https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc"
-      },
-      "artists": [
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        },
-        {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Paura Del Buio",
-      "url": "https://open.spotify.com/track/6fE9wB3g3cEVjwVVIhdKS1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 193708,
-      "name": "Lettera a Draco",
-      "url": "https://open.spotify.com/track/0FXnBTA1NzYrIitGxDphkk"
+      "duration_ms": 108375,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2GvOVIdVAi69jpCvRTxWg6"
     },
     {
       "added_at": null,
@@ -223,134 +203,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2788McgqYDK3Ri1vvP2gAQ"
+        "name": "\u2060Una cotta per te",
+        "url": "https://open.spotify.com/album/2IB0IjVScOJPiz7FY7T7hm"
       },
       "artists": [
         {
-          "name": "ilyTOMMY",
-          "url": "https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb"
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
         }
       ],
-      "duration_ms": 108375,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2GvOVIdVAi69jpCvRTxWg6"
+      "duration_ms": 186666,
+      "name": "Una cotta per te",
+      "url": "https://open.spotify.com/track/4VQiyfLMWzryiGAE2FpqTh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "L'AMORE",
-        "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
       },
       "artists": [
         {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "SE NON PROVO DOLORE",
-      "url": "https://open.spotify.com/track/7kycm3mVY7yaNOtgiAK6lr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO TUTTO",
-        "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         },
         {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 187431,
-      "name": "STUPIDO",
-      "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Me Die",
-        "url": "https://open.spotify.com/album/4JSD9GfEAaodrPZp4sgpbe"
-      },
-      "artists": [
-        {
-          "name": "Lil Happy Lil Sad",
-          "url": "https://open.spotify.com/artist/0r25HIHVcGcaEuJ8s5AK00"
-        }
-      ],
-      "duration_ms": 218775,
-      "name": "Let Me Die",
-      "url": "https://open.spotify.com/track/46T7puWlH8ptC6lx7bQ3TY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Illest, Vol. 2",
-        "url": "https://open.spotify.com/album/5bBmBTQgEZiu3FS4TWeq1e"
-      },
-      "artists": [
-        {
-          "name": "Mostro",
-          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
-        }
-      ],
-      "duration_ms": 154613,
-      "name": "Tutto passa",
-      "url": "https://open.spotify.com/track/5Op4TXHjmH8WLEKy1rLotG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 265454,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 299560,
-      "name": "Let Down",
-      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "deadroses",
-        "url": "https://open.spotify.com/album/6X33MiuYAIHaTXEHQ65JK8"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "idfc",
-      "url": "https://open.spotify.com/track/2rWUPo6aFtDDD63CdY9XH2"
+      "duration_ms": 208212,
+      "name": "PIET\u00c0 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
     },
     {
       "added_at": null,
@@ -371,38 +255,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/7eL31xgSjxYlTJF8nVyv5W"
+        "name": "Status (Inediti, Rarit\u00e0 & Live)",
+        "url": "https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq"
       },
       "artists": [
         {
-          "name": "SadBoyProlific",
-          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         },
         {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
         }
       ],
-      "duration_ms": 160061,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0LLw0rGBTJ1ErPuYbbvl6a"
+      "duration_ms": 226808,
+      "name": "Niente Canzoni D'Amore - Inedito",
+      "url": "https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Know You'll Forget Me",
-        "url": "https://open.spotify.com/album/7AM9ZeAnozsLjUIZ4UcZAg"
+        "name": "The Illest, Vol. 2",
+        "url": "https://open.spotify.com/album/5bBmBTQgEZiu3FS4TWeq1e"
       },
       "artists": [
         {
-          "name": "Kado",
-          "url": "https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb"
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
         }
       ],
-      "duration_ms": 184000,
-      "name": "I Know You'll Forget Me",
-      "url": "https://open.spotify.com/track/6yEAQZq2Cl9QxnbwBOJsUD"
+      "duration_ms": 154613,
+      "name": "Tutto passa",
+      "url": "https://open.spotify.com/track/5Op4TXHjmH8WLEKy1rLotG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapy Session",
+        "url": "https://open.spotify.com/album/75fT8UQEDnekHNhRnbdpNI"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 322586,
+      "name": "How Could You Leave Us",
+      "url": "https://open.spotify.com/track/10bt2wAkFgCWRCEOyAyWT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Die",
+        "url": "https://open.spotify.com/album/4JSD9GfEAaodrPZp4sgpbe"
+      },
+      "artists": [
+        {
+          "name": "Lil Happy Lil Sad",
+          "url": "https://open.spotify.com/artist/0r25HIHVcGcaEuJ8s5AK00"
+        }
+      ],
+      "duration_ms": 218775,
+      "name": "Let Me Die",
+      "url": "https://open.spotify.com/track/46T7puWlH8ptC6lx7bQ3TY"
     },
     {
       "added_at": null,
@@ -443,66 +375,158 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2060Una cotta per te",
-        "url": "https://open.spotify.com/album/2IB0IjVScOJPiz7FY7T7hm"
+        "name": "I Know You'll Forget Me",
+        "url": "https://open.spotify.com/album/7AM9ZeAnozsLjUIZ4UcZAg"
       },
       "artists": [
         {
-          "name": "Sayf",
-          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+          "name": "Kado",
+          "url": "https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Una cotta per te",
-      "url": "https://open.spotify.com/track/4VQiyfLMWzryiGAE2FpqTh"
+      "duration_ms": 184000,
+      "name": "I Know You'll Forget Me",
+      "url": "https://open.spotify.com/track/6yEAQZq2Cl9QxnbwBOJsUD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Therapy Session",
-        "url": "https://open.spotify.com/album/75fT8UQEDnekHNhRnbdpNI"
+        "name": "deadroses",
+        "url": "https://open.spotify.com/album/6X33MiuYAIHaTXEHQ65JK8"
       },
       "artists": [
         {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4"
         }
       ],
-      "duration_ms": 322586,
-      "name": "How Could You Leave Us",
-      "url": "https://open.spotify.com/track/10bt2wAkFgCWRCEOyAyWT9"
+      "duration_ms": 245172,
+      "name": "idfc",
+      "url": "https://open.spotify.com/track/2rWUPo6aFtDDD63CdY9XH2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Going Hard 2",
-        "url": "https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Come mi guardi",
-      "url": "https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM"
+      "duration_ms": 299560,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "starcrossed girl",
+        "url": "https://open.spotify.com/album/00OwCcHsBOjWMiJx5ltVp6"
+      },
+      "artists": [
+        {
+          "name": "Josiah MacCartney",
+          "url": "https://open.spotify.com/artist/6Wm8af6tWJ7XAJ1poDozwY"
+        },
+        {
+          "name": "SadSky",
+          "url": "https://open.spotify.com/artist/2ooLhcOE3idTK2H1rRrcGl"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "starcrossed girl",
+      "url": "https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ANTI ANTI (Doom Edition)",
+        "url": "https://open.spotify.com/album/6k1D9AV5IWPh8D43LIjkhi"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        }
+      ],
+      "duration_ms": 164572,
+      "name": "Buttare, buttare (feat. Latrelle)",
+      "url": "https://open.spotify.com/track/0BeeP8VwfLIziYkdv0m6lQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Io Sono",
+        "url": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Paranoie",
+      "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thbk.",
+        "url": "https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo"
+      },
+      "artists": [
+        {
+          "name": "Papithbk",
+          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
+        }
+      ],
+      "duration_ms": 95680,
+      "name": "Why Am I Waiting",
+      "url": "https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 186267,
+      "name": "NUMB",
+      "url": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
     },
     {
       "added_at": null,
@@ -547,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cura, in nome di Miria",
-        "url": "https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s"
-      },
-      "artists": [
-        {
-          "name": "22simba",
-          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 201182,
-      "name": "Girasole (feat. Rkomi)",
-      "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*ck Love",
         "url": "https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg"
       },
@@ -579,230 +583,6 @@
       "duration_ms": 197368,
       "name": "F*ck Love",
       "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anche gli Eroi Muoiono",
-        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 184803,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 234446,
-      "name": "DUBBI",
-      "url": "https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c8 LA (LOVE)",
-        "url": "https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "UFFA (feat. Silent Bob)",
-      "url": "https://open.spotify.com/track/6Z5xZS3W3zLJGGDA5hv64H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "Bottiglie Priv\u00e8",
-      "url": "https://open.spotify.com/track/4TQmmasocRmAr8QC0Uchsf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANTI ANTI (Doom Edition)",
-        "url": "https://open.spotify.com/album/6k1D9AV5IWPh8D43LIjkhi"
-      },
-      "artists": [
-        {
-          "name": "18K",
-          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
-        },
-        {
-          "name": "Latrelle",
-          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
-        }
-      ],
-      "duration_ms": 164572,
-      "name": "Buttare, buttare (feat. Latrelle)",
-      "url": "https://open.spotify.com/track/0BeeP8VwfLIziYkdv0m6lQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thbk.",
-        "url": "https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo"
-      },
-      "artists": [
-        {
-          "name": "Papithbk",
-          "url": "https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw"
-        }
-      ],
-      "duration_ms": 95680,
-      "name": "Why Am I Waiting",
-      "url": "https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 228454,
-      "name": "Non lo Sai",
-      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S.A.D",
-        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 128375,
-      "name": "S.A.D",
-      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 251320,
-      "name": "Parole Vuote (La Solitudine) (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/5pfoywYsOxTlXNjwwwHCFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Computer Crash",
-        "url": "https://open.spotify.com/album/4uqczIUcsjZdnrFtXiO2by"
-      },
-      "artists": [
-        {
-          "name": "Lui Joseph",
-          "url": "https://open.spotify.com/artist/7MS7B4QRp1n6c5H8N7s3wB"
-        }
-      ],
-      "duration_ms": 169515,
-      "name": "Computer Crash",
-      "url": "https://open.spotify.com/track/0dRbdGC4pyli95gQrIqAmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TI SENTI FRAGILE",
-        "url": "https://open.spotify.com/album/0vDRbyqf20OJnCahOOxk1W"
-      },
-      "artists": [
-        {
-          "name": "Sinomine",
-          "url": "https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr"
-        }
-      ],
-      "duration_ms": 124437,
-      "name": "TI SENTI FRAGILE",
-      "url": "https://open.spotify.com/track/5JTpxCtoBfS21t2qPUt2cW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 108034,
-      "name": "Guardian angel",
-      "url": "https://open.spotify.com/track/7uqcLJFlSYjVPLUz1vPxkY"
     },
     {
       "added_at": null,
@@ -823,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natsukashii",
-        "url": "https://open.spotify.com/album/7pAe4KkAL4iVvg7vvmwzTM"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/7eL31xgSjxYlTJF8nVyv5W"
       },
       "artists": [
         {
@@ -832,17 +612,29 @@
           "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
         },
         {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
-        },
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
         }
       ],
-      "duration_ms": 120189,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/4Xs0MThw1sz50UV37bjnqD"
+      "duration_ms": 160061,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0LLw0rGBTJ1ErPuYbbvl6a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Computer Crash",
+        "url": "https://open.spotify.com/album/4uqczIUcsjZdnrFtXiO2by"
+      },
+      "artists": [
+        {
+          "name": "Lui Joseph",
+          "url": "https://open.spotify.com/artist/7MS7B4QRp1n6c5H8N7s3wB"
+        }
+      ],
+      "duration_ms": 169515,
+      "name": "Computer Crash",
+      "url": "https://open.spotify.com/track/0dRbdGC4pyli95gQrIqAmJ"
     },
     {
       "added_at": null,
@@ -863,6 +655,138 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'Alcol Non \u00c8 Un Problema",
+        "url": "https://open.spotify.com/album/7Kj40gynPLTP1Fz9hH0N8h"
+      },
+      "artists": [
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        },
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "L'Alcol Non \u00c8 Un Problema",
+      "url": "https://open.spotify.com/track/6v8F1kG6WmK40OkiQ1TDZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 188803,
+      "name": "Per te che Lotto",
+      "url": "https://open.spotify.com/track/70600tukZat0m8rM0yqDoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Pt 2",
+        "url": "https://open.spotify.com/album/5eGUQ1IFjXcZ6oJvopDigO"
+      },
+      "artists": [
+        {
+          "name": "ilyTOMMY",
+          "url": "https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Forever Pt 2",
+      "url": "https://open.spotify.com/track/3cKVNQhEJp4STGjP9lFiFT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skarbie",
+        "url": "https://open.spotify.com/album/20LA4JtlnoPn7wO19rGWwe"
+      },
+      "artists": [
+        {
+          "name": "Veason",
+          "url": "https://open.spotify.com/artist/6oZW41wO7mEhNlbY1bhM3L"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Skarbie",
+      "url": "https://open.spotify.com/track/3njurGy4qrJjwTQ1Ikev83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Illest, Vol. 2",
+        "url": "https://open.spotify.com/album/5bBmBTQgEZiu3FS4TWeq1e"
+      },
+      "artists": [
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Le tre di notte",
+      "url": "https://open.spotify.com/track/3VX4Sh9oLOHD6Nm9v7ohgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncomparable",
+        "url": "https://open.spotify.com/album/1UHjX5iIanOMTSYu9YE8vl"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 105486,
+      "name": "Uncomparable",
+      "url": "https://open.spotify.com/track/5GToLrexykJHVIedB2W5QT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 154756,
+      "name": "Hate Me!",
+      "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "it's over tonight.",
+        "url": "https://open.spotify.com/album/2wVlRXuhfGaHp4vBskI9MG"
+      },
+      "artists": [
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "duration_ms": 90231,
+      "name": "they'll post it online",
+      "url": "https://open.spotify.com/track/6yZzK6O3NRSv5TxcQMFmX3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ"
       },
@@ -875,6 +799,70 @@
       "duration_ms": 135168,
       "name": "CRY",
       "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Be Alright",
+        "url": "https://open.spotify.com/album/2xMBCCATKDeHl00YQvjyb0"
+      },
+      "artists": [
+        {
+          "name": "Seon",
+          "url": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
+        }
+      ],
+      "duration_ms": 168308,
+      "name": "Never Be Alright",
+      "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rip X",
+        "url": "https://open.spotify.com/album/19M0SUiIc0ZbkcqJuCsdJJ"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Rip X",
+      "url": "https://open.spotify.com/track/0j2BydmlwcMqffV08hFDyI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TI SENTI FRAGILE",
+        "url": "https://open.spotify.com/album/0vDRbyqf20OJnCahOOxk1W"
+      },
+      "artists": [
+        {
+          "name": "Sinomine",
+          "url": "https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr"
+        }
+      ],
+      "duration_ms": 124437,
+      "name": "TI SENTI FRAGILE",
+      "url": "https://open.spotify.com/track/5JTpxCtoBfS21t2qPUt2cW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Did Not Make Sense",
+        "url": "https://open.spotify.com/album/7FeLnnaPF56dWm4q7ZROjs"
+      },
+      "artists": [
+        {
+          "name": "Presence",
+          "url": "https://open.spotify.com/artist/1Pq3b64hsWb48FjFPfV5aq"
+        }
+      ],
+      "duration_ms": 188541,
+      "name": "We Did Not Make Sense",
+      "url": "https://open.spotify.com/track/5WPbkilyXspX1yiKAiR1oO"
     }
   ],
   "unique_name": "Sad Mix",

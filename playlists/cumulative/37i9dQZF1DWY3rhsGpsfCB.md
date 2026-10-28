@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-1,026 songs - 2 day 4 hr 38 min
+1,027 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-03-24 | 2024-02-23 |
 | [Lockdown](https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Lockdown](https://open.spotify.com/album/3JanHPRplSjzXGEoarf6Pv) | 2:34 | 2025-02-21 | 2025-05-11 |
 | [lon3ly](https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:44 | 2024-10-12 | 2025-04-06 |
-| [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-05-30 |  |
+| [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-05-30 | 2026-10-28 |
 | [lonely \(feat\. L.A.X\)](https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [lonely \(feat\. L.A.X\)](https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR) | 2:44 | 2026-09-25 | 2026-10-20 |
 | [Look The Other Way](https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Look The Other Way](https://open.spotify.com/album/1RNi7RHmTm66nEGR1wiLm9) | 3:01 | 2025-07-18 | 2025-08-01 |
 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-07-28 | 2023-09-08 |
@@ -703,6 +703,7 @@
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2023-09-15 |
 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-20 | 2026-05-01 |
 | [pop n olive](https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Pop n Olive](https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0) | 3:00 | 2025-03-07 | 2025-07-05 |
+| [POSITION](https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [POSITION](https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu) | 2:51 | 2026-10-23 |  |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-04 | 2025-07-05 |
 | [pour it onto me](https://open.spotify.com/track/5g4qy057kYuNSgeZ1wI2R7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [pour it onto me](https://open.spotify.com/album/6UUfR3AnGM3bZn3mE3UARk) | 2:21 | 2025-05-30 | 2025-07-11 |
 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 | 2022-08-26 | 2023-06-10 |

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: girl in red
 
-2,411 songs - 5 day 20 hr 50 min
+2,412 songs - 5 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Blood Brothers](https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Blood Brothers](https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z) | 3:46 | 2026-10-15 |  |
 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 | 2023-10-19 | 2023-11-03 |
 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 | 2023-11-23 | 2023-12-01 |
-| [Bloodlines](https://open.spotify.com/track/2tqCA4CETw2fgKy4pWQhrG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Bloodlines](https://open.spotify.com/album/3FVUhdRwu4YL8TyQUwwpFc) | 3:10 | 2026-09-25 |  |
+| [Bloodlines](https://open.spotify.com/track/2tqCA4CETw2fgKy4pWQhrG) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Bloodlines](https://open.spotify.com/album/3FVUhdRwu4YL8TyQUwwpFc) | 3:10 | 2026-09-25 | 2026-10-28 |
 | [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-10-02 | 2025-11-23 |
 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-07-13 | 2023-08-18 |
 | [Bloody Eyes](https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Bloody Eyes](https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU) | 2:39 | 2026-01-29 | 2026-03-30 |
@@ -1207,6 +1207,7 @@
 | [Let It Go](https://open.spotify.com/track/1rSFAEWgd099i8vlUqBDJl) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [祝おう](https://open.spotify.com/album/3jjyyTGRDvpOBbtjrBLFyD) | 2:49 | 2026-08-13 | 2026-08-21 |
 | [Let Me Let You Go](https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:00 | 2023-06-01 | 2023-06-16 |
 | [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt) | 3:30 | 2026-06-04 | 2026-09-25 |
+| [LET THERE BE LIGHT](https://open.spotify.com/track/1ZYeLDYEiXv23LMGKVNteM) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [BE NOT AFRAID](https://open.spotify.com/album/1TGVYEYICRGYuy9syckm48) | 4:51 | 2026-10-22 |  |
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-16 | 2025-09-19 |
 | [Let's Go](https://open.spotify.com/track/3DxV00iPKVUlqnbrzkN2gX) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [A Matter of Time](https://open.spotify.com/album/1MubHea0GIiXMyvcZZ3lel) | 2:21 | 2024-01-04 | 2024-01-12 |
 | [Letterman](https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Letterman](https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo) | 3:01 | 2024-05-02 | 2024-06-25 |

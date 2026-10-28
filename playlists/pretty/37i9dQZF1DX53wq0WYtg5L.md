@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,364 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,198 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 11 | [Serenata huasteca](https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:55 |
 | 12 | [Copitas Copotas](https://open.spotify.com/track/4Cx4gl9qwnfwmhntA4kDEL) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 1:57 |
 | 13 | [Ay, jalisco no te rajes \(remastered\)](https://open.spotify.com/track/3W6QLGKk0ggZuk2jzPlxTO) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete\. Sus 40 Grandes Canciones \(1911\-1953\)](https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b) | 2:24 |
-| 14 | [El Son de Mi Tierra](https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa) | [Mariachi Jalisco](https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O) | [Canta a su tierra](https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1) | 2:56 |
+| 14 | [El Cascabel](https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY) | [Mariachi America](https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2) | [Negra Linda](https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId) | 6:29 |
 | 15 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
 | 16 | [La fiesta del mariachi](https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:44 |
 | 17 | [Viva Mexico](https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK) | 2:28 |
 | 18 | [Allá en el rancho grande \(remastered\)](https://open.spotify.com/track/3a9QpnHcG3KeLgv7Lhc6yy) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete\. Sus 40 Grandes Canciones \(1911\-1953\)](https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b) | 2:13 |
-| 19 | [El Cascabel](https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY) | [Mariachi America](https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2) | [Negra Linda](https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId) | 6:29 |
+| 19 | [El Son de Mi Tierra](https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa) | [Mariachi Jalisco](https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O) | [Canta a su tierra](https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1) | 2:56 |
 | 20 | [La culebra](https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:48 |
 | 21 | [El siete mares](https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:38 |
 | 22 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 |

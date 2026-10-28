@@ -3871,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "Solace and the Wave",
+        "url": "https://open.spotify.com/album/2YoU6JxXNWU9McsduPuWQD"
+      },
+      "artists": [
+        {
+          "name": "Christos Anagnostou Daly",
+          "url": "https://open.spotify.com/artist/5huLw96Tfgkm4QQDWtTkod"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91088,
+      "name": "Hymn to Orion",
+      "url": "https://open.spotify.com/track/1t83lquye5yfN4IJU8IN0a"
+    },
+    {
+      "album": {
         "name": "i.Forest (Solo Piano Version)",
         "url": "https://open.spotify.com/album/6sZ7k1rg6mxDd64wy2PVIH"
       },

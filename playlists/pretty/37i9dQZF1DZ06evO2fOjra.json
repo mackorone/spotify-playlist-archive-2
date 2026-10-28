@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 581870,
+  "num_followers": 581983,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atv1AAAAAABcXhpczLezShXklFgzZiq/",
+  "snapshot_id": "at1GgAAAAADv/vGPFF6oi36Dvz3gQ7q3",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 221229,
-      "name": "Let's Get This Party Started",
-      "url": "https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 235944,
       "name": "Chi",
       "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 221229,
+      "name": "Let's Get This Party Started",
+      "url": "https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (Deluxe)",
-        "url": "https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 215993,
-      "name": "Prey for Me",
-      "url": "https://open.spotify.com/track/4J6K4ZMQvJRibLLtlOlndI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 240548,
       "name": "Wicked (feat. Chino Moreno)",
       "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/5kiSjkVlfWCEAuo2BnyFbh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 215993,
+      "name": "Prey for Me",
+      "url": "https://open.spotify.com/track/4J6K4ZMQvJRibLLtlOlndI"
     },
     {
       "added_at": null,

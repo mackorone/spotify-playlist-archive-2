@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,809 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,816 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Bon Gepakt \(feat\. Rene Froger\) \- Outsiders Remix](https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Outsiders Remix EP](https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ) | 3:46 |
 | 50 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 
-Snapshot ID: `atv1AAAAAAD4KF9PtelKLTO17vfv4oUI`
+Snapshot ID: `at1GgAAAAADeNw/yQHrvvgiTWzBFV/23`

@@ -659,26 +659,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "Jeogeumtong",
-        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        },
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "No Boss (Feat. Dok2)",
-      "url": "https://open.spotify.com/track/13189A36QorREwPdLYzFIs"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "Yin and Yang (FANXY CHILD Ver.)",
         "url": "https://open.spotify.com/album/5zcPl24xa0wV5JXjzzs8oq"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 222000,
       "name": "Yin and Yang - FANXY CHILD Ver.",
       "url": "https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        },
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "No Boss (Feat. Dok2)",
+      "url": "https://open.spotify.com/track/13189A36QorREwPdLYzFIs"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
+        "name": "POP IS CRYIN'",
+        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 171759,
+      "name": "SOUTHSIDE FREESTYLE",
+      "url": "https://open.spotify.com/track/4Xe0xzBX7entFSxr0iifQl"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
         "name": "Ripple Effect2",
         "url": "https://open.spotify.com/album/2y1ZAe6SuMSBcdYhkGxlZj"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 202000,
       "name": "Ripple Effect2",
       "url": "https://open.spotify.com/track/3MZrmxOL1o0dViNNvAR5a3"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
-        "name": "POP IS CRYIN'",
-        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 171759,
-      "name": "SOUTHSIDE FREESTYLE",
-      "url": "https://open.spotify.com/track/4Xe0xzBX7entFSxr0iifQl"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
+        "name": "POP IS CRYIN'",
+        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "STIGMATA",
+      "url": "https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
         "name": "NOVA (feat. Gaeko & Royal 44)",
         "url": "https://open.spotify.com/album/5U5jWaaftyPBNoXMSlRxiL"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 170854,
       "name": "NOVA (feat. Gaeko & Royal 44)",
       "url": "https://open.spotify.com/track/7dibrsiKT2BiZHvuVtBqdY"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
-        "name": "POP IS CRYIN'",
-        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "STIGMATA",
-      "url": "https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
+        "name": "www.instagram.com/rollingloud/viceversartist",
+        "url": "https://open.spotify.com/album/65iSrqbqW6EmtC9FeqdEfr"
+      },
+      "artists": [
+        {
+          "name": "viceversa",
+          "url": "https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "@rollsroycecars (Prod. imeanseoul, Wylo)",
+      "url": "https://open.spotify.com/track/7G5yu6BmXx85xogvsE9Y7i"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 210401,
       "name": "ERI ERI (Feat. Homies)",
       "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
-        "name": "www.instagram.com/rollingloud/viceversartist",
-        "url": "https://open.spotify.com/album/65iSrqbqW6EmtC9FeqdEfr"
-      },
-      "artists": [
-        {
-          "name": "viceversa",
-          "url": "https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "@rollsroycecars (Prod. imeanseoul, Wylo)",
-      "url": "https://open.spotify.com/track/7G5yu6BmXx85xogvsE9Y7i"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "Dogma",
-        "url": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC"
-      },
-      "artists": [
-        {
-          "name": "Kim Ximya",
-          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
-        }
-      ],
-      "duration_ms": 138228,
-      "name": "It\u2019s That",
-      "url": "https://open.spotify.com/track/5odBcnzDz02fXc9qBYckOU"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "Drop It (Feat. Lee Young Ji)",
         "url": "https://open.spotify.com/album/3x9tr24YJzMIrdMALODKxX"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/5aKkn0IowVod0wgFIOwCZC"
+      },
+      "artists": [
+        {
+          "name": "Kim Ximya",
+          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
+        }
+      ],
+      "duration_ms": 138228,
+      "name": "It\u2019s That",
+      "url": "https://open.spotify.com/track/5odBcnzDz02fXc9qBYckOU"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
         "name": "Ghenn",
         "url": "https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 171949,
       "name": "GENTLEMAN",
       "url": "https://open.spotify.com/track/2FKtn8qQx84O85wWABOwpd"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "Saecheonnyeon",
+        "url": "https://open.spotify.com/album/56gIlt2l9TEQJHyQVGagCt"
+      },
+      "artists": [
+        {
+          "name": "unofficialboyy",
+          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "Saecheonnyeon",
+      "url": "https://open.spotify.com/track/1zrHuulBlN9icULhey6WBt"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -1527,22 +1543,6 @@
       "duration_ms": 136240,
       "name": "Sweaty (Prod. GRAY)",
       "url": "https://open.spotify.com/track/11gYMzMkvro6P9YG69BIxm"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
-        "name": "Saecheonnyeon",
-        "url": "https://open.spotify.com/album/56gIlt2l9TEQJHyQVGagCt"
-      },
-      "artists": [
-        {
-          "name": "unofficialboyy",
-          "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "Saecheonnyeon",
-      "url": "https://open.spotify.com/track/1zrHuulBlN9icULhey6WBt"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "Trapstar Lifestyle",
-        "url": "https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY"
-      },
-      "artists": [
-        {
-          "name": "lobonabeat!",
-          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
-        },
-        {
-          "name": "oygli",
-          "url": "https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Young Boy (Feat. oygli)",
-      "url": "https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "Net,Trap,Launcher,Capture",
         "url": "https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 164500,
       "name": "Net,Trap,Launcher,Capture",
       "url": "https://open.spotify.com/track/1LZWbfEZBV2IRtlUlu9UMS"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "Trapstar Lifestyle",
+        "url": "https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY"
+      },
+      "artists": [
+        {
+          "name": "lobonabeat!",
+          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
+        },
+        {
+          "name": "oygli",
+          "url": "https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Young Boy (Feat. oygli)",
+      "url": "https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 109506,
-      "name": "A STAR IS BORN",
-      "url": "https://open.spotify.com/track/6R1PVAFsQ8a37ibQQ7kvGj"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "Skreet Knowledge",
         "url": "https://open.spotify.com/album/5zrusKYKyZQzgKXFjrZb1C"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 147640,
       "name": "Sumo",
       "url": "https://open.spotify.com/track/783pTQT6UKfi5pcqxzZThh"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 109506,
+      "name": "A STAR IS BORN",
+      "url": "https://open.spotify.com/track/6R1PVAFsQ8a37ibQQ7kvGj"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
+        "name": "[ Rorschach ] Part 2",
+        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
         "name": "GAB BOON GI",
         "url": "https://open.spotify.com/album/5r085RxnxPNSp6ttsEGbyj"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 201599,
       "name": "Party People (feat. YUMDDA, Uneducated Kid)",
       "url": "https://open.spotify.com/track/0NObPNc263YTQ6m3w1RoJF"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
-        "name": "[ Rorschach ] Part 2",
-        "url": "https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "X",
-      "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "YAYO (Feat. Slim 9lock)",
-        "url": "https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Paige",
-          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
-        },
-        {
-          "name": "Slim 9lock",
-          "url": "https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "YAYO (Feat. Slim9lock)",
-      "url": "https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "Show Me The Money 10 Final",
         "url": "https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 275400,
       "name": "UP (Feat. Jay Park, Woo) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/4NgBGkkjK006wySQL4IaBA"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "YAYO (Feat. Slim 9lock)",
+        "url": "https://open.spotify.com/album/1bi4xVDtw9MMOW30seM4is"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Paige",
+          "url": "https://open.spotify.com/artist/0lb59tIBwWrDfP6X956pkK"
+        },
+        {
+          "name": "Slim 9lock",
+          "url": "https://open.spotify.com/artist/0th6fLI9VttKJ9gIjoNPAM"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "YAYO (Feat. Slim9lock)",
+      "url": "https://open.spotify.com/track/31pv3Qj2wNfFIZ9ymhSL6L"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "Unlock My Boss, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR"
-      },
-      "artists": [
-        {
-          "name": "Mckdaddy",
-          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
-        }
-      ],
-      "duration_ms": 176130,
-      "name": "Nobody is perfect (Prod. Song Yoodam)",
-      "url": "https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "\uad6d\ubbfc\uc0ac\ud615\ud22c\ud45c OST Part.1 (Soundtrack)",
         "url": "https://open.spotify.com/album/0qnJm03SWIU6sMmbOIIQBK"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 206000,
       "name": "ON FIRE",
       "url": "https://open.spotify.com/track/4oNcVooyhjo79uz9UIeWlA"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "Unlock My Boss, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR"
+      },
+      "artists": [
+        {
+          "name": "Mckdaddy",
+          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
+        }
+      ],
+      "duration_ms": 176130,
+      "name": "Nobody is perfect (Prod. Song Yoodam)",
+      "url": "https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -2867,26 +2867,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "Street Woman Fighter2 (SWF2) Crew Songs",
-        "url": "https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "YUNHWAY",
-          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Walk (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/7x63NRJmiUmckjwkKapaNy"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "Come Upright with KozyPop",
         "url": "https://open.spotify.com/album/3EpLVXIxDeU3YpSVppP3B2"
       },
@@ -2911,6 +2891,26 @@
       "duration_ms": 166153,
       "name": "Come Upright (Prod. Viann)",
       "url": "https://open.spotify.com/track/6yRe9dHqGcqlSnZhKY26aD"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "Street Woman Fighter2 (SWF2) Crew Songs",
+        "url": "https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "YUNHWAY",
+          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Walk (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/7x63NRJmiUmckjwkKapaNy"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -3031,26 +3031,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "Headrock",
-        "url": "https://open.spotify.com/album/66aBGecLMEXKyhOcr6Ec8V"
-      },
-      "artists": [
-        {
-          "name": "1300",
-          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 159598,
-      "name": "Headrock",
-      "url": "https://open.spotify.com/track/2mup9ZJa9brkbC6ly7qOIO"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "mp3",
         "url": "https://open.spotify.com/album/4YOpO4iotuFawWYcUHvlYF"
       },
@@ -3063,6 +3043,42 @@
       "duration_ms": 107407,
       "name": "Cap",
       "url": "https://open.spotify.com/track/2w2uQsuzr8Hj5i9Ct83IIf"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
+        "url": "https://open.spotify.com/album/6qkou5djxo7ghbltrYNCna"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        },
+        {
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Huckleberry P",
+          "url": "https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS"
+        },
+        {
+          "name": "J-Tong",
+          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
+        },
+        {
+          "name": "KAEOH626",
+          "url": "https://open.spotify.com/artist/7bVDfaIjMuTAJCD4EcY9RT"
+        },
+        {
+          "name": "SOIR\u00c9E",
+          "url": "https://open.spotify.com/artist/2cKJbcjUaZHXOqtT9v22jk"
+        }
+      ],
+      "duration_ms": 338371,
+      "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
+      "url": "https://open.spotify.com/track/0VrR6fmBMGCIL36Kzrezjz"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -3119,38 +3135,22 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
-        "url": "https://open.spotify.com/album/6qkou5djxo7ghbltrYNCna"
+        "name": "Headrock",
+        "url": "https://open.spotify.com/album/66aBGecLMEXKyhOcr6Ec8V"
       },
       "artists": [
         {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
         },
         {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Huckleberry P",
-          "url": "https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS"
-        },
-        {
-          "name": "J-Tong",
-          "url": "https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ"
-        },
-        {
-          "name": "KAEOH626",
-          "url": "https://open.spotify.com/artist/7bVDfaIjMuTAJCD4EcY9RT"
-        },
-        {
-          "name": "SOIR\u00c9E",
-          "url": "https://open.spotify.com/artist/2cKJbcjUaZHXOqtT9v22jk"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 338371,
-      "name": "RUN! (KAEOH626, J-Tong, Huckleberry P, SOIR\u00c9E & Dok2 REMIX)",
-      "url": "https://open.spotify.com/track/0VrR6fmBMGCIL36Kzrezjz"
+      "duration_ms": 159598,
+      "name": "Headrock",
+      "url": "https://open.spotify.com/track/2mup9ZJa9brkbC6ly7qOIO"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -3347,22 +3347,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "off the wall",
-        "url": "https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 174234,
-      "name": "hey",
-      "url": "https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "Love Peace Movement (Love Peace REMIX)",
         "url": "https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6"
       },
@@ -3403,6 +3387,22 @@
       "duration_ms": 251813,
       "name": "Love Peace Movement (Love Peace REMIX)",
       "url": "https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "off the wall",
+        "url": "https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 174234,
+      "name": "hey",
+      "url": "https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq"
     },
     {
       "added_at": "2026-10-23 05:37:36",
@@ -3847,22 +3847,6 @@
     {
       "added_at": "2026-10-23 05:37:36",
       "album": {
-        "name": "HWANG JI SANG",
-        "url": "https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc"
-      },
-      "artists": [
-        {
-          "name": "HWANG JI SANG",
-          "url": "https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8"
-        }
-      ],
-      "duration_ms": 110270,
-      "name": "One Two Hook",
-      "url": "https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz"
-    },
-    {
-      "added_at": "2026-10-23 05:37:36",
-      "album": {
         "name": "AC/DC",
         "url": "https://open.spotify.com/album/2zZcMWW4MtsnYY9LAh0aWV"
       },
@@ -3903,6 +3887,22 @@
       "duration_ms": 233840,
       "name": "Dramatic (Feat. Huh) (Narration by Jung Man Sik)",
       "url": "https://open.spotify.com/track/30RQT8bhjPyT5tdFSmj54M"
+    },
+    {
+      "added_at": "2026-10-23 05:37:36",
+      "album": {
+        "name": "HWANG JI SANG",
+        "url": "https://open.spotify.com/album/5VOb9ZL3QqD2uDQrbQGDFc"
+      },
+      "artists": [
+        {
+          "name": "HWANG JI SANG",
+          "url": "https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8"
+        }
+      ],
+      "duration_ms": 110270,
+      "name": "One Two Hook",
+      "url": "https://open.spotify.com/track/1AwuvNOvtVDGoFKAaPWIRz"
     },
     {
       "added_at": "2026-10-23 05:37:36",

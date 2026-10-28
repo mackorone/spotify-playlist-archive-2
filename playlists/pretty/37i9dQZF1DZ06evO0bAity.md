@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 49 | [Hot Potato](https://open.spotify.com/track/3hHueq7J6GPFmDaAxjPskP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [ReWiggled: The Classics](https://open.spotify.com/album/3bMUfA7L5ixLdo86uCyvtq) | 1:15 |
 | 50 | [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 |
 
-Snapshot ID: `atv1AAAAAACYDdIl7hzIECbi7hlcQRT/`
+Snapshot ID: `at1GgAAAAABJBfj0/RF2aTayF85zi4+z`

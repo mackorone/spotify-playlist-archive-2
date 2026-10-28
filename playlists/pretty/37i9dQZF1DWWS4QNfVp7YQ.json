@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 105560,
+  "num_followers": 105581,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 212097,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "The Virus (Alan Rosales Remix)",
         "url": "https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 271259,
       "name": "The Virus - Alan Rosales Remix",
       "url": "https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 212097,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 298697,
+      "name": "Violentao (Feat. Sheeqo Beat)",
+      "url": "https://open.spotify.com/track/1pFruucew24311dJNbcjMZ"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Jeffree's Volume 2",
         "url": "https://open.spotify.com/album/04Gb3cC1KZ25W0u2NJMadx"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 240000,
       "name": "Sickhead",
       "url": "https://open.spotify.com/track/7HhnDS97yjtsGgvTYWM5Bc"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Mala Hierba",
-        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
     },
     {
       "added_at": "2024-07-05 22:41:57",

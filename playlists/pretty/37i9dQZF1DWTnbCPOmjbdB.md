@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Zalia, Kacperczyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,198 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,230 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 29 | [Komary i motyle](https://open.spotify.com/track/7cud2e1GJUa6xePY02ANpK) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Piosenki o miłości: nieopowiedziane historie](https://open.spotify.com/album/5QaZJ1J9BnydfGkap544U3) | 2:39 |
 | 30 | [Tańczę](https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Tańczę](https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S) | 3:14 |
 | 31 | [Cicho sza](https://open.spotify.com/track/0LXhzHwoRGwhMde38QGncI) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Cicho sza](https://open.spotify.com/album/2uWRrAawCBsIpBfy1FIQnl) | 3:55 |
-| 32 | [Na szczyt](https://open.spotify.com/track/4hVYomncmlRAbrF68UmiCk) | [Szymon Chodyniecki](https://open.spotify.com/artist/5lvJTv1FsQRmImZdS1lkf1) | [Na szczyt](https://open.spotify.com/album/6OgKqqCAh9fG0XMgdGeRmk) | 3:11 |
+| 32 | [Na szczyt](https://open.spotify.com/track/4hVYomncmlRAbrF68UmiCk) | [Szymon Chodyniecki](https://open.spotify.com/artist/5lvJTv1FsQRmImZdS1lkf1) | [Na szczyt](https://open.spotify.com/album/6OgKqqCAh9fG0XMgdGeRmk) | 3:09 |
 | 33 | [Komu miałabym powiedzieć?](https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Komu miałabym powiedzieć?](https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI) | 2:32 |
 | 34 | [Decyzje](https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Decyzje](https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65) | 3:13 |
 | 35 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |

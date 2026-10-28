@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,116 likes - 258 songs - 13 hr 22 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 6,120 likes - 272 songs - 14 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,5 +266,19 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 256 | [Heart On My Sleeve](https://open.spotify.com/track/1nJXH2R67WQpMm3guvZdc0) | [Kian Aitken](https://open.spotify.com/artist/0jmFvKnMncITscDQhTcCEa) | [Heart On My Sleeve](https://open.spotify.com/album/1nhuDwsRjXKonI2EHRR0MH) | 2:11 |
 | 257 | [Sail Away](https://open.spotify.com/track/7EB4SNhPQiYb6pohZ89dmU) | [Kian Aitken](https://open.spotify.com/artist/0jmFvKnMncITscDQhTcCEa) | [Heart On My Sleeve](https://open.spotify.com/album/1nhuDwsRjXKonI2EHRR0MH) | 2:29 |
 | 258 | [Pearls](https://open.spotify.com/track/5pXNmz5OYjDrtUKeYsTlfN) | [of Sky](https://open.spotify.com/artist/3eylf9aH6uhjmdGmyiZZwA) | [Pearls](https://open.spotify.com/album/2MUENhlxAOgqPQJUxoZEBB) | 2:27 |
+| 259 | [Start](https://open.spotify.com/track/1SRdADFhmXCc0wbGPOLdIe) | [VIBR](https://open.spotify.com/artist/0vZNK5zgaqO82oSJH3XCRU), [Gerben Brouwer](https://open.spotify.com/artist/2RKszvr06mbY3KDzizcnGb) | [Vibin' / Start](https://open.spotify.com/album/7k0t9QFNIg1Ij8F5HykAZw) | 2:38 |
+| 260 | [To Find You](https://open.spotify.com/track/0MBazGV7Kw3TH9rFQNYMNW) | [Ashley Jo](https://open.spotify.com/artist/3L23lQD9NSjXEoVDWLD4Ye) | [To Find You](https://open.spotify.com/album/1btWxse1LMfelIPnD5I3X3) | 3:25 |
+| 261 | [HIGH BEAM](https://open.spotify.com/track/1wykpKyuNZHKNwzryF3dW5) | [BIJAN](https://open.spotify.com/artist/6O9lzROYRbrEx7uAoVjxGW) | [HIGH BEAM](https://open.spotify.com/album/0YhX2I4Up65EYBb4lJSlTx) | 3:21 |
+| 262 | [Perfect](https://open.spotify.com/track/2ayDYzqfwfULlig1Wo1Bxa) | [PureViolet](https://open.spotify.com/artist/6C8vINCFACYYLZMuyrB8N9) | [Masa Oats](https://open.spotify.com/album/5CbIpJL8IeeEswxkfk1fQ5) | 3:08 |
+| 263 | [Voy de Farol \- Bossa Lounge Version](https://open.spotify.com/track/0HSIJD7TKJqWKem2FLbXBU) | [Leo de la Rosa](https://open.spotify.com/artist/1Ei3VGzaJmysnyMnJuTMr0) | [Vacaciones en Copacabana](https://open.spotify.com/album/2qeMjRcVpEKCilP4GbFr17) | 3:06 |
+| 264 | [Cuori di ferro](https://open.spotify.com/track/0OsqfvobM2EgciwbIMVjP6) | [DONELLI A.I\. ENSEMBLE](https://open.spotify.com/artist/2CjHl2lzn8lVIjs9L0VGdZ) | [Incontri](https://open.spotify.com/album/5dsNQGXPYAcQzCYpvxeggO) | 5:00 |
+| 265 | [This Is All You Got](https://open.spotify.com/track/0cVu0II82uqSKHdA5pJjVB) | [CLuB](https://open.spotify.com/artist/2SGNYHRYdAiVT0blzD6lPM) | [This Is All You Got](https://open.spotify.com/album/5I3edViXND3N0or5oW8NBU) | 3:20 |
+| 266 | [Careless](https://open.spotify.com/track/5NpUGdIRNFRs0LCKEmzgNh) | [Lexie Seay](https://open.spotify.com/artist/4dJFwCWOvubi4KjOE6zUe4) | [Careless](https://open.spotify.com/album/4F25jitf9IVppCTZg8vJvM) | 2:19 |
+| 267 | [CRUISE](https://open.spotify.com/track/7BUdOGrolOQZpGsZSuXmDD) | [Crystal Rari](https://open.spotify.com/artist/3uyA5EB1IgziHoexiAdtU5) | [CITRUS SKY](https://open.spotify.com/album/04IPIMwW7hC2EAkbUTZVTL) | 2:41 |
+| 268 | [Better off Alone](https://open.spotify.com/track/4X16elZOnYJzBEvTthUWZ8) | [DJ Medication](https://open.spotify.com/artist/69Ys9e67VdrmfBRNDJgiof) | [Better off Alone](https://open.spotify.com/album/486LLjOw6EVlpgSJvBMwnt) | 2:21 |
+| 269 | [Into the Wild Blue \- Fantasy Version](https://open.spotify.com/track/1uNdX9Z7VrlPEPK4OnM071) | [TonyCauDj](https://open.spotify.com/artist/7xucNrBtCT9boyGPS9qOaE) | [Into the Wild Blue](https://open.spotify.com/album/0oApBgTNVhlhaiuSs04Ih5) | 2:59 |
+| 270 | [I Don't Know](https://open.spotify.com/track/500vjL5dNJ0sd5aqoYp1X0) | [Brett Voss](https://open.spotify.com/artist/7uYDz1D3Lra99N6WMKesCg) | [I Don't Know](https://open.spotify.com/album/0jojpXIrMbUcUsYKgFvHnm) | 2:46 |
+| 271 | [El Abismo \- La Puerta Remix](https://open.spotify.com/track/2Oze4iTIxqdTGPfeFTWrtE) | [RCN](https://open.spotify.com/artist/6fgNKyVoYkhEkBWReaMsFO) | [El Abismo \(The Remixes\)](https://open.spotify.com/album/7bAYSJJIcaUp2LtYhFfHvv) | 3:52 |
+| 272 | [Dummy Yummy](https://open.spotify.com/track/5ACtJefbXW9dKgXfv6zDeP) | [Sailor Plane](https://open.spotify.com/artist/0Pqdo3UhfQXVopxv7KfYX0) | [Dummy Yummy](https://open.spotify.com/album/5xMSCfNwudCdkXwrmUcs48) | 2:58 |
 
-Snapshot ID: `AAA9f8/vuDNbee3mFJtvKzBCXJyGD/rk`
+Snapshot ID: `AAA9jWiP3hIGR2f/fuY7TnoFm8lY5Txb`

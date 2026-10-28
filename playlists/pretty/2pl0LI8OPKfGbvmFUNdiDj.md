@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,275 likes - 46 songs - 2 hr 27 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,293 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,12 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 44 | [I wish](https://open.spotify.com/track/3L3FHxCCEX4CuDDR1OsQNV) | [ËRRÄ](https://open.spotify.com/artist/0JEioRiCYOk5ris1hGqIiE) | [I wish](https://open.spotify.com/album/2Uv1oGETqSBICJefqrwZj7) | 2:23 |
 | 45 | [Infinity](https://open.spotify.com/track/6pPe9uz0EzSQ2bLeNyXimB) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Infinity](https://open.spotify.com/album/79hfXejPfxPxshntSaHAvA) | 3:10 |
 | 46 | [Somewhere In Texas](https://open.spotify.com/track/1KFYveqqdozgCZqgsIbK0H) | [The Taproots](https://open.spotify.com/artist/2DZgNVKc5uxU5dNysNplKm) | [Somewhere In Texas](https://open.spotify.com/album/7wxDvaNOlrM0vHXUxKwogm) | 3:27 |
+| 47 | [Another Life](https://open.spotify.com/track/2BmXGMErFHmpkcZ52YKbv3) | [Lëe Brœwn](https://open.spotify.com/artist/4mfih3bhrx972PCx2Jug9T), [Alyssa Jane](https://open.spotify.com/artist/22IXfQIItP8FJ1eLcKeNM9) | [Another Life](https://open.spotify.com/album/3Nr6j1y4qZrrvP6tXI23KB) | 2:15 |
+| 48 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 |
+| 49 | [To Find You](https://open.spotify.com/track/0MBazGV7Kw3TH9rFQNYMNW) | [Ashley Jo](https://open.spotify.com/artist/3L23lQD9NSjXEoVDWLD4Ye) | [To Find You](https://open.spotify.com/album/1btWxse1LMfelIPnD5I3X3) | 3:25 |
+| 50 | [Butterfly](https://open.spotify.com/track/16O07dMipBszv1IXqPO3Bl) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [Butterfly](https://open.spotify.com/album/6fAmumUIB9Xcne6enUXwCD) | 4:31 |
+| 51 | [Visons](https://open.spotify.com/track/4X0t2hKWYokFMgQseDVmip) | [Explorers Of The Dreamworld](https://open.spotify.com/artist/3bVQRDlJdVM6KIzy8mOuzG) | [LACKLUSTING](https://open.spotify.com/album/7HfebcRWlomtMV5GpCIBrI) | 3:57 |
+| 52 | [Don't You Know](https://open.spotify.com/track/2w1ckhP6QAycj3Wappvc63) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML), [Jaibi](https://open.spotify.com/artist/6pLzTI6en7XQSm2HGd41VB) | [Don't You Know](https://open.spotify.com/album/3diFUKB3tgMbCgifCVOJRZ) | 3:01 |
+| 53 | [Insolvent Love](https://open.spotify.com/track/5TMBHV3UPXiuaSA1oy2vxz) | [BONAHORA](https://open.spotify.com/artist/7iPRlF2QA4RRVLYWSArhbu), [Melisa Chao](https://open.spotify.com/artist/4l8Lziz8oaVTHc1v08gsTK) | [Insolvent Love](https://open.spotify.com/album/0OkCXDp010u6owuApBMxOt) | 4:04 |
 
-Snapshot ID: `AAAEjX0VCd/9gNM3Xmltpt3pUDHy7tj4`
+Snapshot ID: `AAAElA4Wb5GIICix0e1qE2NcVh4kQvYn`

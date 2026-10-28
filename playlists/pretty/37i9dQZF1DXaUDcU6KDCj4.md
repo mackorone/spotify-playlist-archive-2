@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,363 likes - 181 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,365 likes - 181 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

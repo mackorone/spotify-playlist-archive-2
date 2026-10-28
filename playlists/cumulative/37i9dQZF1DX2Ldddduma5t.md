@@ -4,13 +4,13 @@
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-121 songs - 7 hr 0 min
+122 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 | 2026-09-21 | 2026-10-17 |
 | [4AM](https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [4AM](https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7) | 2:35 | 2026-08-25 | 2026-09-22 |
-| [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 | 2026-10-09 |  |
+| [ACCELERANDO](https://open.spotify.com/track/3Vv6jWPmzKXlaoKsVwNM0O) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [VADAKIN](https://open.spotify.com/artist/67KVnh5ZMCqghjFzGWojzZ) | [ACCELERANDO](https://open.spotify.com/album/05fB9r7Z6fMkGxLRufTXJv) | 4:02 | 2026-10-09 | 2026-10-28 |
 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 | 2026-09-04 | 2026-09-22 |
 | [After You](https://open.spotify.com/track/488FPGXW560rWBDjTgxiNP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [After You](https://open.spotify.com/album/5TSOXmsWG6CD80amBnjHny) | 3:02 | 2026-08-25 | 2026-09-22 |
 | [AGUA](https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [AGUA](https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF) | 3:11 | 2026-09-21 | 2026-10-10 |
@@ -31,6 +31,7 @@
 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 | 2026-08-06 | 2026-09-05 |
 | [Chrome Pony](https://open.spotify.com/track/3W4TmuyzcMWz3iyVhCMmm2) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Chrome Pony](https://open.spotify.com/album/0NhxATfJ9luYFiQ8xzy0S4) | 3:24 | 2026-09-04 | 2026-09-26 |
 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-04 | 2026-10-01 |
+| [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-10-27 |  |
 | [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 | 2026-08-25 | 2026-09-12 |
 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 | 2026-09-11 | 2026-10-01 |
 | [Cóbrame tú](https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Cóbrame tú](https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc) | 2:56 | 2026-10-23 |  |

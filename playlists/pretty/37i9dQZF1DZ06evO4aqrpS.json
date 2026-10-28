@@ -1,6 +1,6 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 69757,
+  "num_followers": 69836,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 220084,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z"
+      "duration_ms": 130306,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 130306,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz"
+      "duration_ms": 220084,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/5LRAZiQRfLKBzd9LVn9gbY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 216960,
       "name": "Universo Amor",
       "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/5LRAZiQRfLKBzd9LVn9gbY"
     },
     {
       "added_at": null,

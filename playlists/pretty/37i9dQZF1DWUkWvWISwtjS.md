@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,154 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,090 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 89 | [Te Assumo \- Ao Vivo](https://open.spotify.com/track/7zIghh6yq3ldfdwU0meLbu) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Te Assumo \(Ao Vivo\)](https://open.spotify.com/album/6yhEh4AnSgSw1PauUw41Rr) | 3:15 |
 | 90 | [Noites Frustradas \- Ao Vivo](https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Noites Frustradas \(Ao Vivo\)](https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv) | 3:16 |
 | 91 | [Coração Infectado](https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Guias Dvd 2018](https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz) | 2:43 |
-| 92 | [Pronta pra Trair](https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Pronta pra Trair](https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ) | 2:57 |
-| 93 | [Alguns Defeitos](https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Alguns Defeitos](https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh) | 3:05 |
+| 92 | [Alguns Defeitos](https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Alguns Defeitos](https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh) | 3:05 |
+| 93 | [Pronta pra Trair](https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Pronta pra Trair](https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ) | 2:57 |
 | 94 | [Prisioneiros \- Ao Vivo](https://open.spotify.com/track/15gIb6lnjIMcgtbasaeXwq) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 3:26 |
 | 95 | [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/track/6X5jBkAFu7HE3jigdoVW3r) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/album/708cNliAxiocHBCsFZCbIy) | 2:56 |
 | 96 | [Quem Foi Que Soprou \- Ao Vivo \| Acústico](https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Agora É Que São Elas 2 \(Ao Vivo \| Acústico\)](https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4) | 3:31 |

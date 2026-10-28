@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,597 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,599 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

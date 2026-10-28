@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,458 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,473 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 27 | [Ain't Gone 'N' Give up on Love](https://open.spotify.com/track/0hTh8RO5xGOiahaDkADRKf) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 6:07 |
 | 28 | [Don't Lie To Me](https://open.spotify.com/track/5mMdW3CfglOafm94e4p9nO) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:57 |
 | 29 | [Let Me Love You Baby](https://open.spotify.com/track/4kJurAMLUVZJdRSpwUphzx) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 2:43 |
-| 30 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 |
-| 31 | [Born Under A Bad Sign \- Remastered 2024](https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 8:10 |
+| 30 | [Born Under A Bad Sign \- Remastered 2024](https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 8:10 |
+| 31 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 |
 | 32 | [Shake 'N Bake](https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:51 |
 | 33 | [Overall Junction](https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:20 |
 | 34 | [Lookin' out the Window](https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 2:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 48 | [Old Times \- Remastered 2024](https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 1:15 |
 | 49 | [Pep Talk \- Remastered 2024](https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 0:58 |
 
-Snapshot ID: `atv1AAAAAAASI5OfaUYxTkA3lGcwZlcp`
+Snapshot ID: `at1GgAAAAADIU3PMKlS1xb2NXLYrIUYx`

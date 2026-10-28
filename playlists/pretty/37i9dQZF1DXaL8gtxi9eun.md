@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: دنيا سمير غانم
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,211 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,228 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 22 | [أمانة ماتمشيش](https://open.spotify.com/track/0trItpxok4P4Wjn80gn6U3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [أمانة ماتمشيش](https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t) | 3:40 |
 | 23 | [يا بختي بيكي](https://open.spotify.com/track/4jq2GPmMtDzts2uHN4C5ES) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [يا بختي بيكي](https://open.spotify.com/album/6mGUQlCTqlTWZ3lBt9fduH) | 3:02 |
 | 24 | [وفجأة العمر راح مني](https://open.spotify.com/track/7KBXt0UAQMqXLRIQ1V6nBO) | [ELZAYN](https://open.spotify.com/artist/4AkcLmKQ2xKsftpGCfz3HN) | [وفجأة العمر راح مني](https://open.spotify.com/album/6wGtXMZGmNptuMYKWK35p2) | 3:23 |
-| 25 | [W Ashan Tetsalla](https://open.spotify.com/track/4HrHg9xqXjgrW7t2pPR5yr) | [Dalia Omar](https://open.spotify.com/artist/4BTYqwzIds7SK6mRNnH8HW) | [W Ashan Tetsalla](https://open.spotify.com/album/3sxRjoLE5kanGEOLINzUaO) | 2:18 |
+| 25 | [W Ashan Tetsalla](https://open.spotify.com/track/4HrHg9xqXjgrW7t2pPR5yr) | [Dalia Omar](https://open.spotify.com/artist/4BTYqwzIds7SK6mRNnH8HW), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [W Ashan Tetsalla](https://open.spotify.com/album/3sxRjoLE5kanGEOLINzUaO) | 2:18 |
 | 26 | [احنا الجامدين](https://open.spotify.com/track/0B4u800WdESFRidwRfD1Hg) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [احنا الجامدين](https://open.spotify.com/album/5j9AnfTCF5pENpwof4YirU) | 2:42 |
 | 27 | [Akhrak We Tamamak](https://open.spotify.com/track/6LQYei8GYrmNgBX1CaX68G) | [اشرقت احمد](https://open.spotify.com/artist/46SBe7KHABHsJenpriLb7s) | [Akhrak We Tamamak](https://open.spotify.com/album/71s7FcNmuqoWubqh583XEr) | 3:34 |
 | 28 | [HAYATY HAYATY](https://open.spotify.com/track/59P9rZ2xC6peXdKKJ4lS4b) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [HAYATY HAYATY](https://open.spotify.com/album/4aSJQLBN4GKyT3tobpY0yW) | 3:15 |

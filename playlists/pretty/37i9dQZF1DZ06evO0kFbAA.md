@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,180 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,241 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 22 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
 | 23 | [Autumn Leaves \- Instrumental Version](https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 3:01 |
 | 24 | [Samba De Uma Nota So](https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:09 |
-| 25 | [Body And Soul](https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:15 |
+| 25 | ['Tis Autumn](https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:14 |
 | 26 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 |
 | 27 | [Samba Da Minha Terra \- Live At Carnegie Hall/1964](https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 3:08 |
 | 28 | [Samba Triste](https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 4:43 |
-| 29 | ['Tis Autumn](https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:14 |
+| 29 | [Body And Soul](https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:15 |
 | 30 | [Here's That Rainy Day](https://open.spotify.com/track/6zQK0HXqNFRQOwmaoSKrQ2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 5:07 |
 | 31 | [Anything Goes](https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi \(Expanded Edition\)](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 3:39 |
 | 32 | [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Expanded Edition\)](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 |
