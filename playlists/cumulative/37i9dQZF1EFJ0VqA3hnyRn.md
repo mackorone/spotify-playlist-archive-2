@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-395 songs - 22 hr 40 min
+396 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [You \(feat\. Remy Ma & French Montana\)](https://open.spotify.com/track/0yrRMqTTz5behxCQ8Elggf) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [11:11 Reset](https://open.spotify.com/album/7AXUeodoVqnIM9vvK5RYgm) | 3:53 | 2024-02-07 |  |
 | [You And I](https://open.spotify.com/track/25UDLYL5fRm1LSfbUTt6Nt) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Out Of Mind](https://open.spotify.com/album/5UJ6nbZU8NPPHW3ZgEt5eG) | 2:48 | 2025-01-09 | 2025-04-12 |
 | [You Don't Know Me](https://open.spotify.com/track/2d0fYbjddMGhBumE4hNpAw) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Shaun Frank](https://open.spotify.com/artist/0BBwlSQvHHtahgYpLj1wJE), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:16 | 2025-01-09 | 2025-04-12 |
-| [You The One](https://open.spotify.com/track/6lrkdix2etZFi4EERKbrdL) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [You The One](https://open.spotify.com/album/5VFVeblZu48dMUdLGxsnje) | 2:12 | 2024-02-07 |  |
+| [You The One](https://open.spotify.com/track/5zxUMpQwdYX4Edl7P5MCwA) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [You The One](https://open.spotify.com/album/4keSmxaax2FQyfSvFaGNDn) | 2:12 | 2026-10-29 |  |
+| [You The One](https://open.spotify.com/track/6lrkdix2etZFi4EERKbrdL) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [You The One](https://open.spotify.com/album/5VFVeblZu48dMUdLGxsnje) | 2:12 | 2024-02-07 | 2026-10-30 |
 | [You Will Be Loved](https://open.spotify.com/track/0cSEZqQELE6wPck6FD3x9a) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love](https://open.spotify.com/album/3Y72frMeiDNZlsIorQBES8) | 4:16 | 2024-02-07 |  |
 | [Your Sister](https://open.spotify.com/track/4VYEAooWTvX0wNhOn2M0TF) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:30 | 2024-02-07 |  |
 | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/track/3clw56k8jqFaXnwdejV4Yo) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Zooted \(feat\. French Montana & Farruko\)](https://open.spotify.com/album/4Y6jkhla5dLnq9vfPI7gmX) | 3:37 | 2024-02-07 |  |

@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 210181,
       "name": "Awesome God - Live",
       "url": "https://open.spotify.com/track/5OaR7aPSOyODhdyb5mvIWc"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219360,
       "name": "The Presence",
       "url": "https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi"
@@ -3709,6 +3709,28 @@
     },
     {
       "album": {
+        "name": "Anthems & Prayers",
+        "url": "https://open.spotify.com/album/5z8AlEQOw77HkHtugXD4B9"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Cassie Richardson",
+          "url": "https://open.spotify.com/artist/1ImWoHWxgT6HTqyLFBLcXn"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541259,
+      "name": "We Receive From You (feat. Cassie Richardson)",
+      "url": "https://open.spotify.com/track/5sPK524cSA0JhbVbXXTmNH"
+    },
+    {
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
@@ -3820,6 +3842,28 @@
       "duration_ms": 398080,
       "name": "We Worship Christ - Live",
       "url": "https://open.spotify.com/track/5MZ9Z2LoVksgrXV4zsVoxA"
+    },
+    {
+      "album": {
+        "name": "Anthems & Prayers",
+        "url": "https://open.spotify.com/album/5z8AlEQOw77HkHtugXD4B9"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tamela Hairston",
+          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423755,
+      "name": "Yahweh Deserves All Praise (feat. Tamela Hairston)",
+      "url": "https://open.spotify.com/track/2xu0vLNpLWT5v7eXPmjpBt"
     },
     {
       "album": {

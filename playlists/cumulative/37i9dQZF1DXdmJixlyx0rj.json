@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: Didi Han)",
+  "description": "New & best K-Electronic music is here. (Cover: Yves)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 173106,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 207089,
       "name": "Heart Of Steel",
       "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
@@ -3094,6 +3094,24 @@
       "duration_ms": 195000,
       "name": "Hot Sauce - Hitchhiker Remix",
       "url": "https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9"
+    },
+    {
+      "album": {
+        "name": "Hysteric / Adam",
+        "url": "https://open.spotify.com/album/7dvg5rUzCp9jOguoz8PmFf"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Hysteric",
+      "url": "https://open.spotify.com/track/5cCiqtYFbUNVknlcnjyk8V"
     },
     {
       "album": {
@@ -3558,7 +3576,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 200826,
       "name": "Kind of Love (feat. Ina Bravo)",
       "url": "https://open.spotify.com/track/7B7RcNZ804nKRXLir2yS7r"
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 172554,
       "name": "KPOP B!TCH",
       "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
@@ -6170,7 +6188,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 413017,
       "name": "Tage",
       "url": "https://open.spotify.com/track/0l7CjPSu1pXGmuudm69DSp"

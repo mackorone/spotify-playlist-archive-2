@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,397 songs - 3 day 2 hr 39 min
+1,398 songs - 3 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-13 | 2025-03-29 |
 | [24](https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [24](https://open.spotify.com/album/7pkYBo20zBpRzfyTqBkzhM) | 3:20 | 2021-12-11 | 2022-07-29 |
 | [400](https://open.spotify.com/track/4tvlhGkTprgA9dY8gfQISz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [400](https://open.spotify.com/album/4EbFL1qYraa4ICB46UbnK3) | 3:25 | 2022-04-01 | 2022-04-20 |
+| [4Get The Girl \- GUDFELLA & Jackie Hollander Remix](https://open.spotify.com/track/5vv3aCayCpAU6tfOZRRJMx) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [4Get The Girl \(GUDFELLA & Jackie Hollander Remix\)](https://open.spotify.com/album/1gmCa25tRxlInIq3chquBs) | 2:26 | 2026-10-30 |  |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-06 | 2026-02-21 |
 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-07-16 | 2026-02-21 |
 | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \[Radio Edit\]](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2024-09-20 | 2025-11-15 |
@@ -196,7 +197,7 @@
 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 | 2023-07-28 | 2024-02-07 |
 | [Came For The Low](https://open.spotify.com/track/36LQYp5FNsuT5voIO9bdfZ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Came For The Low](https://open.spotify.com/album/5MoIvYGjZVz46XIfOa9JGg) | 3:15 | 2021-04-20 | 2022-04-21 |
 | [Came to Get Funky](https://open.spotify.com/track/76dtzhJswG0IrusOuOXxw0) | [Cazztek](https://open.spotify.com/artist/3wRQD6UZWlaWEnbgpIEPPX) | [Came to Get Funky](https://open.spotify.com/album/6iUqmsQugyTEj8qK4p69lF) | 4:09 | 2020-05-25 | 2020-09-05 |
-| [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-07-25 |  |
+| [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-07-25 | 2026-10-30 |
 | [Can I Ride](https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [95 South](https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0) | [Can I Ride](https://open.spotify.com/album/4N2frseoAuec502jnHYCb8) | 2:43 | 2026-09-29 |  |
 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-29 | 2022-09-19 |
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-30 |  |

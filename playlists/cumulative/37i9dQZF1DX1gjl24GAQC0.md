@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: ATEEZ\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: RIIZE\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-891 songs - 2 day 0 hr 0 min
+892 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [DUH!](https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DUH!](https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p) | 3:05 | 2025-05-09 | 2026-04-28 |
 | [dummy](https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [dummy](https://open.spotify.com/album/0FUVybD9tZfWhKdCkLEC0v) | 3:22 | 2024-07-29 | 2025-03-07 |
 | [Dystopia](https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. Ⅵ\. Mujin](https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go) | 3:34 | 2023-03-23 | 2023-03-31 |
-| [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-15 |  |
+| [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-15 | 2026-10-30 |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-04-15 |
 | [Eight Eleven](https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/6N0KvZuXQQVp1K8LJmuoMA) | 2:21 | 2025-11-11 | 2025-11-26 |
 | [EMP](https://open.spotify.com/track/13hDhECzlMskVWo3xJ31ke) | [EMP](https://open.spotify.com/artist/7KZe6QkIJC2lrajsg6Ah5s) | [EMP Mixtape Vol.1: We the Extra](https://open.spotify.com/album/0sqTWatC0IgdzzQoEnhNgn) | 3:22 | 2026-09-23 | 2026-10-01 |
@@ -405,6 +405,7 @@
 | [In Your Fantasy \(Korean Ver.\)](https://open.spotify.com/track/2Bolr7uiAoqeccV3MJ7Kjx) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3 'In Your Fantasy Edition'](https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL) | 3:12 | 2025-07-11 | 2025-07-29 |
 | [Infinite City \- Groundbreak Version](https://open.spotify.com/track/5DvbyNZX3sXad7BXiCZlql) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [1st Track of CJ LiveCity](https://open.spotify.com/album/37OcZj8uuvKDgwTXhTsS9r) | 4:11 | 2022-03-22 | 2022-04-20 |
 | [INSIDE OUT](https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:17 | 2021-12-08 | 2022-07-23 |
+| [Insomnia](https://open.spotify.com/track/5jC3lBWBcVdby76sqWwqAE) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Insomnia](https://open.spotify.com/album/2PsBwKbO7xoA02NLT6TtB8) | 3:14 | 2026-10-28 |  |
 | [Interlunar](https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 2:41 | 2025-06-18 | 2025-07-05 |
 | [Into You](https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Into You](https://open.spotify.com/album/3rLteXReBNmvMLaTufI17p) | 2:38 | 2024-06-25 | 2024-07-19 |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-19 | 2023-09-11 |

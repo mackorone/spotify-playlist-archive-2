@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Gabby Moura, Imaginasamba
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,968 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,986 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Gamei / Ponto Final \- Ao Vivo](https://open.spotify.com/track/4QenQI5EgJUFInEil9acwD) | [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs), [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Hoje Tem Folga \(Ao Vivo\)](https://open.spotify.com/album/5PC0kn0rvDjxhRinVG2ZJy) | 3:52 |
 | 75 | [Apaga / Medo Bobo / Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/1voNjZWuJlVVYByeJJF7sj) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [CBF \(Cerveja, Batucada e Futebol\) \[Ao Vivo\]](https://open.spotify.com/album/6su7EViSNwpG1XcWte56X8) | 6:29 |
 
-Snapshot ID: `AAAAAPbjxzHzDHfwfdNcA/JAEQhjH03V`
+Snapshot ID: `AAAAAB7Vk36RM0Dwe/u4+qMxK6G6OkcP`

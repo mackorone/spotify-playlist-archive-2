@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 532,
+  "num_followers": 531,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADOvQlny4Ix/duOEQsX2GCP",
+  "snapshot_id": "at/pgAAAAAB/DUk+vIhYlnZhy1Y+fElV",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prsnt",
+        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 35005,
+      "name": "FlyBy",
+      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donnie & Laurie",
         "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 324222,
       "name": "Donnie and Laurie",
       "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prsnt",
-        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 35005,
-      "name": "FlyBy",
-      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miniatures 2 Edited By Morgan Fisher",
-        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
+        "name": "Common Ground, Vol. 1",
+        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 81040,
-      "name": "Soundtrack For Sandin",
-      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+      "duration_ms": 214883,
+      "name": "At Sea",
+      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Ground, Vol. 1",
-        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
+        "name": "Miniatures 2 Edited By Morgan Fisher",
+        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 214883,
-      "name": "At Sea",
-      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
+      "duration_ms": 81040,
+      "name": "Soundtrack For Sandin",
+      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 476906,
-      "name": "Appalachian Grove II",
-      "url": "https://open.spotify.com/track/6XDocPNf2YEBkLud2SoHXr"
+      "duration_ms": 123773,
+      "name": "A Folk Study",
+      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
     }
   ],
   "unique_name": "This Is Laurie Spiegel",

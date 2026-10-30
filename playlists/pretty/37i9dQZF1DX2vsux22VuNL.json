@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
-  "num_followers": 288762,
+  "num_followers": 288729,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbGKdeBK84921kJg3xRcxDLLMKr",
+  "snapshot_id": "AAAAAObbBf/27Tu9KmLDCpwY2XI3i+QI",
   "tracks": [
     {
       "added_at": "2026-10-09 03:00:14",
@@ -31,6 +31,22 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "Manifesta\u00e7\u00e3o do Amor",
+        "url": "https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 162321,
+      "name": "Manifesta\u00e7\u00e3o do Amor",
+      "url": "https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "ESCORPI\u00c3O",
         "url": "https://open.spotify.com/album/1MD0ZWCo2pSkXL51xlGXSq"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 186641,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/5ghweQudPm2qSb8C3E5UYx"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "Manifesta\u00e7\u00e3o do Amor",
-        "url": "https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 162321,
-      "name": "Manifesta\u00e7\u00e3o do Amor",
-      "url": "https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "Fragmentos \u2013 A Experi\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vYeDMqdfmPRURnvr2dEM7"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 213504,
+      "name": "Coisa De Pele - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jiiKkspnb3OVLKPxocjwE"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "Cintilante",
         "url": "https://open.spotify.com/album/4cMDOUCrWlntv3wlOtRgxR"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 144000,
       "name": "Passando as Horas",
       "url": "https://open.spotify.com/track/7JSziiXMmuMwX9yp5HnutR"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "Fragmentos \u2013 A Experi\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vYeDMqdfmPRURnvr2dEM7"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 213504,
-      "name": "Coisa De Pele - Ao Vivo",
-      "url": "https://open.spotify.com/track/3jiiKkspnb3OVLKPxocjwE"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -339,6 +339,30 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "Teu Sorriso",
+        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Teu Sorriso",
+      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "At\u00e9 virar saudade",
         "url": "https://open.spotify.com/album/4q6PPp2iRvhhxa8zaFei7x"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 180032,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "Teu Sorriso",
-        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Teu Sorriso",
-      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 199812,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "N\u00e3o Sei Lidar",
         "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 159000,
       "name": "N\u00e3o Sei Lidar",
       "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 199812,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -519,22 +519,6 @@
       "duration_ms": 200892,
       "name": "Pra Pegar Cachu",
       "url": "https://open.spotify.com/track/1sAkWYLlensw7Lgowxs6b4"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "Am\u00e9frica",
         "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
@@ -599,42 +599,6 @@
       "duration_ms": 207378,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "Emocionado",
-        "url": "https://open.spotify.com/album/0gzjsFtw1iMalskL6MssB0"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Lopes",
-          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
-        },
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        }
-      ],
-      "duration_ms": 145631,
-      "name": "Emocionado",
-      "url": "https://open.spotify.com/track/3yuSnVoP4ERDaMxOGqfk4i"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "Tempo Bom",
-        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Gamou",
-      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -655,6 +619,26 @@
       "duration_ms": 144095,
       "name": "Camisa Vintage",
       "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "Emocionado",
+        "url": "https://open.spotify.com/album/0gzjsFtw1iMalskL6MssB0"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Lopes",
+          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "duration_ms": 145631,
+      "name": "Emocionado",
+      "url": "https://open.spotify.com/track/3yuSnVoP4ERDaMxOGqfk4i"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/0AWr8uIIcdzrFknOPlTzys"
       },
@@ -703,6 +703,34 @@
       "duration_ms": 158709,
       "name": "Volta",
       "url": "https://open.spotify.com/track/5bfjq8yAzbjZ4ReAA3Cdre"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "Duas Vezes",
+        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "duration_ms": 160784,
+      "name": "Duas Vezes",
+      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -843,34 +871,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Duas Vezes",
-        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
-      },
-      "artists": [
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        },
-        {
-          "name": "Niina",
-          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
-        }
-      ],
-      "duration_ms": 160784,
-      "name": "Duas Vezes",
-      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "M\u00edstico",
         "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
       },
@@ -907,26 +907,18 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Decifrar",
-        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "DMAX",
-          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
-        },
-        {
-          "name": "Nenu",
-          "url": "https://open.spotify.com/artist/6X02j0mgm3fgLinDzQn5w2"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         }
       ],
-      "duration_ms": 162935,
-      "name": "Decifrar",
-      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
+      "duration_ms": 171913,
+      "name": "\u00cdm\u00e3",
+      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -951,18 +943,26 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+        "name": "Decifrar",
+        "url": "https://open.spotify.com/album/4RTMGJib64yRORCf9DnOfc"
       },
       "artists": [
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DMAX",
+          "url": "https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ"
+        },
+        {
+          "name": "Nenu",
+          "url": "https://open.spotify.com/artist/6X02j0mgm3fgLinDzQn5w2"
         }
       ],
-      "duration_ms": 171913,
-      "name": "\u00cdm\u00e3",
-      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+      "duration_ms": 162935,
+      "name": "Decifrar",
+      "url": "https://open.spotify.com/track/7cEthfgEv5kBtnL5cqL5Cs"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/1xcUwnCCCJJon9Pd4XBKJE"
-      },
-      "artists": [
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "PETER",
-          "url": "https://open.spotify.com/artist/0n1mAwB6WCl4n32lHCGJZ3"
-        },
-        {
-          "name": "O Brabo da Terra do Sol",
-          "url": "https://open.spotify.com/artist/4nYStsH7Stew93Q7C4XiFe"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/7EghrkAzBt8wtriekaK8wi"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/1xcUwnCCCJJon9Pd4XBKJE"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "PETER",
+          "url": "https://open.spotify.com/artist/0n1mAwB6WCl4n32lHCGJZ3"
+        },
+        {
+          "name": "O Brabo da Terra do Sol",
+          "url": "https://open.spotify.com/artist/4nYStsH7Stew93Q7C4XiFe"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/7EghrkAzBt8wtriekaK8wi"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
+        "name": "AINDA T\u00d4 NO PROCESSO",
+        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        },
+        {
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
+        }
+      ],
+      "duration_ms": 211647,
+      "name": "AINDA T\u00d4 NO PROCESSO",
+      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
         "name": "PAZ",
         "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 239557,
       "name": "PAZ",
       "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
-        "name": "AINDA T\u00d4 NO PROCESSO",
-        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        },
-        {
-          "name": "SEST",
-          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
-        }
-      ],
-      "duration_ms": 211647,
-      "name": "AINDA T\u00d4 NO PROCESSO",
-      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
     },
     {
       "added_at": "2026-10-09 03:00:14",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-10-09 03:00:14",
       "album": {
-        "name": "insisto em voc\u00ea",
-        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "Tirado",
-          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
-        }
-      ],
-      "duration_ms": 135420,
-      "name": "insisto em voc\u00ea",
-      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
-    },
-    {
-      "added_at": "2026-10-09 03:00:14",
-      "album": {
         "name": "O Que Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+    },
+    {
+      "added_at": "2026-10-09 03:00:14",
+      "album": {
+        "name": "insisto em voc\u00ea",
+        "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "Tirado",
+          "url": "https://open.spotify.com/artist/4JG5Rt8do7ljKKVL7fEd7D"
+        }
+      ],
+      "duration_ms": 135420,
+      "name": "insisto em voc\u00ea",
+      "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
     },
     {
       "added_at": "2026-10-09 03:00:14",

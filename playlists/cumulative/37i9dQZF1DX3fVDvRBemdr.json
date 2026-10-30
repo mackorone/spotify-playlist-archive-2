@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: Jan Smit",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Yves Berendse",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163775,
       "name": "Bachata Bailando",
       "url": "https://open.spotify.com/track/7IJUXmc1DOzjxLZlxKZgXm"
@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Bovenop de tafel",
+        "url": "https://open.spotify.com/album/7tTen1Shhe0fYPZehaPC1M"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157027,
+      "name": "Bovenop de tafel",
+      "url": "https://open.spotify.com/track/4QJjMMznOjbWiVWQPEbvgk"
+    },
+    {
+      "album": {
         "name": "Breng Mij Haar Terug 2.0",
         "url": "https://open.spotify.com/album/3VlyoTh18zv550jRfFolNy"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 182000,
       "name": "Chica Chica",
       "url": "https://open.spotify.com/track/5dRxTLVYLKRD1XragMNRtW"
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 180077,
       "name": "Dat ben jij",
       "url": "https://open.spotify.com/track/1g1NhskGrTxy2NYUWSlOVx"
@@ -3874,6 +3892,24 @@
       "duration_ms": 178477,
       "name": "Echte Liefde Is Te Koop - Spotify Singles",
       "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
+    },
+    {
+      "album": {
+        "name": "Een 10",
+        "url": "https://open.spotify.com/album/6RYXkuJUDG9SxmWeXn3zfX"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162755,
+      "name": "Een 10",
+      "url": "https://open.spotify.com/track/2AJ2Zrn6xpdlBXX0bSnKmK"
     },
     {
       "album": {
@@ -5617,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "Het Gaat Gebeuren...",
+        "url": "https://open.spotify.com/album/1xAnXTBNXdYnbur72qM1pk"
+      },
+      "artists": [
+        {
+          "name": "Dries Roelvink",
+          "url": "https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "Het Gaat Gebeuren...",
+      "url": "https://open.spotify.com/track/6F5TLHftd7S49x1y0R7QYY"
+    },
+    {
+      "album": {
         "name": "Het Heden",
         "url": "https://open.spotify.com/album/5rX4yCiSRGHorLA752nGv8"
       },
@@ -6061,6 +6115,24 @@
     },
     {
       "album": {
+        "name": "Hossel Voor Een Mossel",
+        "url": "https://open.spotify.com/album/3rQpOVvO8wlnieWApiIG5I"
+      },
+      "artists": [
+        {
+          "name": "Mick Harren",
+          "url": "https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153839,
+      "name": "Hossel Voor Een Mossel",
+      "url": "https://open.spotify.com/track/7kar9hgsl2L6eTAPAYghjh"
+    },
+    {
+      "album": {
         "name": "Hou me vast",
         "url": "https://open.spotify.com/album/7jVSueTIpVROWGqkyAa0gU"
       },
@@ -6418,7 +6490,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 173428,
       "name": "Ik Dans Altijd Door Het Leven",
       "url": "https://open.spotify.com/track/194p8pZp4o3Bt6mwRIT4x1"
@@ -6552,6 +6624,24 @@
       "duration_ms": 153726,
       "name": "Ik Geniet En Ik Leef",
       "url": "https://open.spotify.com/track/6mY2IGGSG8vILXNZhb8Q5S"
+    },
+    {
+      "album": {
+        "name": "Ik Had Het Kunnen Weten",
+        "url": "https://open.spotify.com/album/6nNkIVDDAdC4aEzCrXSzCT"
+      },
+      "artists": [
+        {
+          "name": "Jip van de Loo",
+          "url": "https://open.spotify.com/artist/3mjrYzABFymniEKCClx5VZ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163798,
+      "name": "Ik Had Het Kunnen Weten",
+      "url": "https://open.spotify.com/track/0WO3EvGq6IxYPZvtjkDUJd"
     },
     {
       "album": {
@@ -6866,6 +6956,42 @@
       "duration_ms": 206110,
       "name": "Ik Leef M'n Eigen Leven",
       "url": "https://open.spotify.com/track/78NbJ4YI54ou05zr9YPpOP"
+    },
+    {
+      "album": {
+        "name": "Ik Leef M\u2019n Leven In De Nacht",
+        "url": "https://open.spotify.com/album/5S4XihygpXpXzJFioWLPYq"
+      },
+      "artists": [
+        {
+          "name": "Menno Aben",
+          "url": "https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171936,
+      "name": "Ik Leef M'n Leven In De Nacht",
+      "url": "https://open.spotify.com/track/1RzvJe3Ekj6pQKgjKmrVl2"
+    },
+    {
+      "album": {
+        "name": "Ik Leef Nu M'n Eigen Leventje",
+        "url": "https://open.spotify.com/album/2XunszODRd4JUofq97AJGw"
+      },
+      "artists": [
+        {
+          "name": "Sam Vanvelthoven",
+          "url": "https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142927,
+      "name": "Ik Leef Nu M'n Eigen Leventje",
+      "url": "https://open.spotify.com/track/4Bd89kt18VcL1dgfnWpHu5"
     },
     {
       "album": {
@@ -9662,7 +9788,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 179111,
       "name": "Loesoe",
       "url": "https://open.spotify.com/track/3HtQHizSRz5WAhs6gCRzTL"
@@ -10418,7 +10544,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 167169,
       "name": "Momento",
       "url": "https://open.spotify.com/track/792tpHgVii7ghdL2WkaccO"
@@ -10740,7 +10866,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 161492,
       "name": "Niet Naar Huis",
       "url": "https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC"
@@ -10870,6 +10996,24 @@
       "duration_ms": 158000,
       "name": "Nog Eentje",
       "url": "https://open.spotify.com/track/32IsZhwCUbqcSnascNciEc"
+    },
+    {
+      "album": {
+        "name": "Nog eentje dan",
+        "url": "https://open.spotify.com/album/4fl3wzHlGD7CHyCq8L3cWc"
+      },
+      "artists": [
+        {
+          "name": "Glenn De Koning",
+          "url": "https://open.spotify.com/artist/68zpjg88haM1OkIzCWCPoT"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159427,
+      "name": "Nog eentje dan",
+      "url": "https://open.spotify.com/track/3k43HK0AaqZyhzkJK8DDro"
     },
     {
       "album": {
@@ -12118,7 +12262,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 179655,
       "name": "Samen",
       "url": "https://open.spotify.com/track/2yb1hHKvHhzhU6tKg0Ut3D"
@@ -12488,6 +12632,24 @@
       "duration_ms": 193125,
       "name": "Soms Heb Ik Heimwee",
       "url": "https://open.spotify.com/track/051MFUPSx9PrUujcgorqZp"
+    },
+    {
+      "album": {
+        "name": "Soms Laat Je Me Lachen",
+        "url": "https://open.spotify.com/album/6P3yMZcnwjrDKP4FJhsh8V"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141932,
+      "name": "Soms Laat Je Me Lachen",
+      "url": "https://open.spotify.com/track/0IJI3o2QnDAtVk32S7uQ8B"
     },
     {
       "album": {
@@ -13674,7 +13836,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 150874,
       "name": "Veel Te Lange Nacht",
       "url": "https://open.spotify.com/track/11l2BSBXsThmuEAKwt0dBu"
@@ -14909,6 +15071,24 @@
     },
     {
       "album": {
+        "name": "Wees Voorzichtig Met Mijn Hart",
+        "url": "https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188310,
+      "name": "Wees Voorzichtig Met Mijn Hart",
+      "url": "https://open.spotify.com/track/7gKc80RPemdMXkjvMW6bUc"
+    },
+    {
+      "album": {
         "name": "Weet Dat Ik Van Je Hou",
         "url": "https://open.spotify.com/album/4gSPalfCeepqx40s3Sxaw0"
       },
@@ -15244,6 +15424,24 @@
       "duration_ms": 181738,
       "name": "Wil Jij Met Mij",
       "url": "https://open.spotify.com/track/10oUZFUA6nN6cKKA7gbmZ6"
+    },
+    {
+      "album": {
+        "name": "Wilde Rodeo",
+        "url": "https://open.spotify.com/album/65Kd2XT0CXfZL6eY0DEtrj"
+      },
+      "artists": [
+        {
+          "name": "Jan Biggel",
+          "url": "https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162559,
+      "name": "Wilde Rodeo",
+      "url": "https://open.spotify.com/track/22PeNKVzgb9yZGN6T78H5r"
     },
     {
       "album": {
@@ -15886,7 +16084,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 189090,
       "name": "Zomer, Zon & Strand",
       "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
@@ -15922,7 +16120,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 182896,
       "name": "Zonder Jou",
       "url": "https://open.spotify.com/track/6EzNmBP0DHotVbGPVzMyou"

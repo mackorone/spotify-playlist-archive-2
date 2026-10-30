@@ -1,13 +1,29 @@
 {
   "description": "Up and down I-95. Cover: A$AP Rocky",
-  "num_followers": 454026,
+  "num_followers": 453989,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzc85qnYbXGmGygYyo4+DtmdTqE",
+  "snapshot_id": "AAAAAPOefT0DUCxYnGQ9UM3VEGXmcSYS",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:01:59",
+      "album": {
+        "name": "Dirty Dan",
+        "url": "https://open.spotify.com/album/7ChXfVDvpK6QIJaSSDrlTz"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 135878,
+      "name": "Dirty Dan",
+      "url": "https://open.spotify.com/track/6aHrHgjnK3amArpfPyGFTV"
+    },
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
@@ -205,6 +221,22 @@
       "url": "https://open.spotify.com/track/1AFeuYhsse5HyF679zJiOY"
     },
     {
+      "added_at": "2026-10-30 04:01:59",
+      "album": {
+        "name": "Diggwutumsayn!",
+        "url": "https://open.spotify.com/album/6zm7yNJgUnoZyDbEr492KR"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 222603,
+      "name": "Diggwutumsayn!",
+      "url": "https://open.spotify.com/track/1RKACC4G0UnBrf3vMHgoEr"
+    },
+    {
       "added_at": "2026-10-23 04:02:06",
       "album": {
         "name": "Sephora In Ibiza",
@@ -223,6 +255,30 @@
       "duration_ms": 175384,
       "name": "Sephora In Ibiza",
       "url": "https://open.spotify.com/track/1iwKdIOhY666klqtIZozSs"
+    },
+    {
+      "added_at": "2026-10-30 04:01:59",
+      "album": {
+        "name": "Sailor Goon",
+        "url": "https://open.spotify.com/album/2YX2hNBXVZeZoTpGyTXRQ9"
+      },
+      "artists": [
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        },
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "MS HUSTLE",
+          "url": "https://open.spotify.com/artist/2nQcRubxUw48XFynmQneHw"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "Been Wavy",
+      "url": "https://open.spotify.com/track/0v4la9ZzJjQJrBk17QgafM"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -483,30 +539,6 @@
       "duration_ms": 123715,
       "name": "Left 2 Right",
       "url": "https://open.spotify.com/track/1eGKGjdWK0XkQrDR8phZBO"
-    },
-    {
-      "added_at": "2026-10-23 04:02:06",
-      "album": {
-        "name": "YERR",
-        "url": "https://open.spotify.com/album/4KMiFnQxkfyCOolwOg98ze"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "YERR",
-      "url": "https://open.spotify.com/track/2UFfc6xThP1Nm80xTESyvb"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -911,26 +943,6 @@
       "duration_ms": 199015,
       "name": "STOLE YA FLOW",
       "url": "https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
-        "name": "Why I Get Married?",
-        "url": "https://open.spotify.com/album/4Ut8BYfOlrfVcJGSWR0gbN"
-      },
-      "artists": [
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        },
-        {
-          "name": "KeKe Wyatt",
-          "url": "https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Why I Get Married?",
-      "url": "https://open.spotify.com/track/0gcTazJ3gHWzXQcwG1fy89"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -1907,26 +1919,6 @@
       "duration_ms": 143786,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2H81TA0vQexPYaFXRAGqjt"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
-        "name": "You Can't Kill God With Bullets",
-        "url": "https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 321132,
-      "name": "Nu Devils",
-      "url": "https://open.spotify.com/track/05LERuwwJC1kG4r9THLAah"
     },
     {
       "added_at": "2026-10-16 04:01:19",

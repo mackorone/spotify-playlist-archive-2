@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Enjoy the summer breeze with these sunny lounge beats ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,411 likes - 105 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,413 likes - 105 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 104 | [Cape Cod](https://open.spotify.com/track/2k4yjX9wRbRV6XyEDzUWYl) | [Coast Slide](https://open.spotify.com/artist/0HmKLof8ugpnNoLnRuiTD0) | [Cape Cod](https://open.spotify.com/album/3NTTiZHKRYArpuETgfKLRH) | 2:02 |
 | 105 | [Malenti Oo](https://open.spotify.com/track/0SPrF8WsYGf6OYT9cPVPaT) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Malenti Oo](https://open.spotify.com/album/5dnofIDJ6kBd3sneG1n2fc) | 2:12 |
 
-Snapshot ID: `AAAAAIuRvTU56EGw8FeC1rag9lB8MNOJ`
+Snapshot ID: `AAAAAO29bh0qq1Sz3MEZ3exNjSTAId/U`

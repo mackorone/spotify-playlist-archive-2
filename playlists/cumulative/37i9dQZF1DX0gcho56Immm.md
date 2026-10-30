@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fine
 
-364 songs - 20 hr 45 min
+365 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [L.O.V.E](https://open.spotify.com/track/2tscMbvEl8Zur5gyYwf7bC) | [Soho Rezanejad](https://open.spotify.com/artist/5gEoe0kGMZJytho1bf9PfE) | [L.O.V.E](https://open.spotify.com/album/0w55PPsZ6PnKpFDkWsBRma) | 4:04 | 2025-03-13 | 2025-08-09 |
 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-22 |  |
 | [lao wai](https://open.spotify.com/track/1Kz4kdsoG9XqZReNL3RWZ4) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h), [Shushu](https://open.spotify.com/artist/1UNqLt4phNW6lI5mPSL52P) | [lao wai](https://open.spotify.com/album/4gaBhPu0VextnFP4Y86xsC) | 2:31 | 2026-08-07 |  |
-| [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-01 |  |
+| [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-01 | 2026-10-30 |
 | [Let It Go](https://open.spotify.com/track/1awTFbIlHiDAviFFW3hJ7m) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:27 | 2026-02-06 |  |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2025-03-13 | 2026-10-03 |
 | [Lick The Flame](https://open.spotify.com/track/32TOQ5loDzoipxm7qLgkv3) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Lick The Flame](https://open.spotify.com/album/41j1T9kYgDVsLDMkth1Kua) | 2:55 | 2026-05-22 |  |
@@ -304,13 +304,14 @@
 | [starfish](https://open.spotify.com/track/1L3hnWBGenO7NCIo2Z074b) | [muuk](https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F) | [starfish](https://open.spotify.com/album/3l9Xo8VqJIBoICXpLC16D0) | 3:06 | 2026-08-07 |  |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 | 2025-08-09 |
 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 | 2026-06-26 | 2026-10-09 |
-| [Still Above](https://open.spotify.com/track/01jtoPWy6B49NfXtI51JIq) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 2:28 | 2025-08-08 |  |
+| [Still Above](https://open.spotify.com/track/01jtoPWy6B49NfXtI51JIq) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 2:28 | 2025-08-08 | 2026-10-30 |
 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 | 2025-10-31 |  |
 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-29 | 2026-02-07 |
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-06 | 2025-08-09 |
 | [sunbleach](https://open.spotify.com/track/4HEjp4tBASgN57RUnzxN9Z) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [daisy\*](https://open.spotify.com/album/7fQamWUazAcrFUBHI5vmuy) | 2:21 | 2026-07-31 |  |
 | [Swamp intro](https://open.spotify.com/track/04FPGpsbAxXn6NJlwJAMdb) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Greatest swamp hits](https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb) | 2:43 | 2026-10-02 |  |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 | 2026-01-24 |
+| [Swimming](https://open.spotify.com/track/4G31I9jhPh5STbtqNKaA7k) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC) | [Swimming](https://open.spotify.com/album/4z8yhlcw6JOGNBWXkOIA7B) | 2:57 | 2026-10-30 |  |
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 | 2025-07-26 |
 | [tears on his rings and chains](https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [tears on his rings and chains](https://open.spotify.com/album/5DXpvfvNrOTSM2nYL5YlyR) | 3:18 | 2025-08-19 | 2025-10-18 |
 | [Tell Me](https://open.spotify.com/track/5xrJQz0agpmgf0Y3ZQYtw5) | [SY3](https://open.spotify.com/artist/3knZSaPAzRgjzuwcvsGBHw) | [Tell Me](https://open.spotify.com/album/1f6iPT6ez7BxIQyiqVEmOn) | 4:12 | 2026-01-30 | 2026-10-09 |
@@ -330,7 +331,7 @@
 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 | 2025-10-17 |  |
 | [Time Will Help](https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0), [Teis Ortved](https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X) | [Time Will Help](https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU) | 3:59 | 2026-07-07 |  |
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 | 2025-05-16 |
-| [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 |  |
+| [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 | 2026-10-30 |
 | [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 |  |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 |  |
 | [Trouble](https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf) | [nikocorlin](https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm) | [Trouble](https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3) | 2:22 | 2026-10-16 |  |

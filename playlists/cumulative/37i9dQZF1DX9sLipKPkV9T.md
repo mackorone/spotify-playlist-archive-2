@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: ענבל ביבי
 
-761 songs - 1 day 15 hr 55 min
+762 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [DOCTOR \- Radio Edit](https://open.spotify.com/track/4klACZmMGG4qrBoKtcmOS9) | [Offer Nissim](https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [DOCTOR](https://open.spotify.com/album/3cVm0FnIMMu6QORjxEcQmS) | 3:32 | 2024-06-27 | 2024-11-22 |
 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 | 2024-12-19 | 2025-02-28 |
 | [Espresso \- גלגלייב עם דלית רצ'שטר](https://open.spotify.com/track/1T3m3FKB2AnfPsT5pJOiUN) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Espresso \(גלגלייב עם דלית רצ'שטר\)](https://open.spotify.com/album/24q4mMRDMAF8p5DMbTzhLb) | 2:53 | 2024-06-27 | 2024-07-19 |
+| [GF](https://open.spotify.com/track/0dtFevDp9cX3tI3cttbHCQ) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [GF](https://open.spotify.com/album/2xERYqyH3lXMEQhDWzEUBu) | 3:16 | 2026-10-29 |  |
 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 | 2024-08-22 | 2025-01-10 |
 | [Green](https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [A Place for Lovers](https://open.spotify.com/album/3JN9hDwOAxjplHEwaQ09Jl) | 3:08 | 2024-09-12 | 2024-10-25 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-06-27 | 2024-09-13 |
@@ -417,7 +418,7 @@
 | [כל יום מחדש](https://open.spotify.com/track/6nxmm9rzACLHYAwwfAiFIp) | [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [כל יום מחדש](https://open.spotify.com/album/6ywfNDNXk1T1LYAJXYqJF6) | 3:35 | 2024-09-19 | 2024-11-15 |
 | [כל מה שרציתי](https://open.spotify.com/track/0HBai8BtgE6UUIpV9hpfHx) | [שירה זלוף](https://open.spotify.com/artist/6uPXjLmLtFf4cE35saHiSp) | [כל מה שרציתי](https://open.spotify.com/album/61a9xzBh3xSdE0BMYgawYm) | 3:01 | 2026-10-22 |  |
 | [כל עוד אתה ואני נשארים](https://open.spotify.com/track/3qph0X3lFL0S0fphYa3gcg) | [שי המבר](https://open.spotify.com/artist/7gFDsAzdTcWL3Rq2t2ACa8) | [כל עוד אתה ואני נשארים](https://open.spotify.com/album/4gMRPaO3iBAGaEWxW9sUAc) | 3:29 | 2024-11-21 | 2024-12-13 |
-| [כל פעם מחדש](https://open.spotify.com/track/488vBdxn7MtWxbGWaTS6u9) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [כל פעם מחדש](https://open.spotify.com/album/02YZyjs3xKBwDkpowY5Qif) | 3:42 | 2026-06-25 |  |
+| [כל פעם מחדש](https://open.spotify.com/track/488vBdxn7MtWxbGWaTS6u9) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [כל פעם מחדש](https://open.spotify.com/album/02YZyjs3xKBwDkpowY5Qif) | 3:42 | 2026-06-25 | 2026-10-30 |
 | [כל רגע מכוון](https://open.spotify.com/track/006Hh1BoD7ajbjboHosFO3) | [מיה סולימן](https://open.spotify.com/artist/12ft1cfLUNXc6gfM1JzaKR) | [כל רגע מכוון](https://open.spotify.com/album/3WT5bywA6PFJy5h9iSm5SV) | 2:51 | 2025-02-27 | 2025-03-21 |
 | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/track/5jITjgPYZYUieRhS7fUJPP) | [אורי כלטוב](https://open.spotify.com/artist/0Ifr5SPFErAslSPfbPgUNW) | [כלהלילה \(אל תעזבי אותי\)](https://open.spotify.com/album/6vI3qWUMOfguz5kspNiPIo) | 2:30 | 2026-08-13 |  |
 | [כלום לא זז](https://open.spotify.com/track/1sHUGcyGeBqAPVA4UD5EQF) | [Ben Elkayam](https://open.spotify.com/artist/3wg1CxblltA3FkS7A0ZRb9) | [כלום לא זז](https://open.spotify.com/album/0B0SJUOpx3ELfomvpJHMBQ) | 2:34 | 2025-08-28 | 2025-10-24 |

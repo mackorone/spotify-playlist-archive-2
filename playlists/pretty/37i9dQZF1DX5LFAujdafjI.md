@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Portola 2026 is over but don't fret, check out some highlights from the festival! For your pre\-games, afters, spurts of manic cleaning, and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,851 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,888 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 83 | [What We Got](https://open.spotify.com/track/3UeGo2iTVN98fWW96iRL5p) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [What We Got](https://open.spotify.com/album/72T1E70vH8a71qX2OwGwrl) | 2:55 |
 | 84 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
 
-Snapshot ID: `AAAAANsyrPtZFbVb5hr9VKxsURjNrqKw`
+Snapshot ID: `AAAAAJ+Z7jYe/TC/1+Gw4XQREjmZQi80`

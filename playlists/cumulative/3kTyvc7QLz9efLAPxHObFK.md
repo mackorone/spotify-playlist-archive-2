@@ -4,7 +4,7 @@
 
 > 
 
-3,247 songs - 6 day 22 hr 55 min
+3,249 songs - 6 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1300,6 +1300,7 @@
 | [Hellfire](https://open.spotify.com/track/3T6jgdXe3hgVwrTYMmGED5) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh), [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Hellfire](https://open.spotify.com/album/3fzqjEXO03eS2xxQmpGq0L) | 3:20 | 2024-08-13 |  |
 | [HELP ME](https://open.spotify.com/track/0WLM3hul88k6vwU8MaoCFQ) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [HELP ME](https://open.spotify.com/album/6qGLLLxzNLMmggtLIiTVgW) | 3:07 | 2026-03-26 |  |
 | [HELP\_LESS](https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [HELP\_LESS](https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7) | 3:07 | 2025-01-25 |  |
+| [HENNERTEKK](https://open.spotify.com/track/4qd16VkRmRTne8ATlddFvz) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF) | [HENNERTEKK](https://open.spotify.com/album/0lv2tzj8KpVaoreC2L8Fs6) | 2:08 | 2026-10-28 |  |
 | [Hentai \- DJ Satomi & PiNKII Remix](https://open.spotify.com/track/5gL7QF5NJ9M9nv119JdhUu) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5), [PiNKII](https://open.spotify.com/artist/3PG2tJxxB6fh7o7YIGRrnM) | [Hentai \(DJ Satomi & PiNKII Remix\)](https://open.spotify.com/album/0NbFJmvSBKAFTL7vwfR9kC) | 3:38 | 2023-04-14 |  |
 | [Hercules](https://open.spotify.com/track/5snNv32doCTxKCYp3O0lPK) | [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF) | [Hercules](https://open.spotify.com/album/7eJzbG3L4Jlb0hjVGajoL1) | 3:15 | 2024-10-20 |  |
 | [Here 2 Rage](https://open.spotify.com/track/3yvqW4GWVrDYVLz6kFcoOF) | [HET POMPSTATION](https://open.spotify.com/artist/6TQQsMsMKQBHjZrFv63d90), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Titan Hexor](https://open.spotify.com/artist/5uwJj3rW564brRmzxgzqZA) | [Here 2 Rage](https://open.spotify.com/album/1awgSCG1yVQ005AerbSoF1) | 2:55 | 2025-10-26 |  |
@@ -1577,6 +1578,7 @@
 | [Kick Back \- Extended Mix](https://open.spotify.com/track/4usv9QWmefEADBiAQuoYqM) | [Tomsky](https://open.spotify.com/artist/12NNDc1Q7rwbppTMf8UAif), [Bass Agents](https://open.spotify.com/artist/5WcTVL9oKALTkhVO05VrAX) | [Hard Dance Overload, Vol\. 13](https://open.spotify.com/album/3mUZMYJs6pR4IKiRujp8Lr) | 2:53 | 2026-05-28 |  |
 | [Kick Drum Talk](https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Kick Drum Talk](https://open.spotify.com/album/3NG3uUe0sriEROH6zYosB1) | 3:47 | 2026-06-12 |  |
 | [Kick Start Hittin'](https://open.spotify.com/track/38rBkBBx2lsyphTfUaDjsY) | [Jackro](https://open.spotify.com/artist/2DmEO1qBeq9jc3HPI7V3H5) | [Kick Start Hittin'](https://open.spotify.com/album/1X97CI8n4ZbC8p347sd2yH) | 3:08 | 2024-10-20 |  |
+| [KICKPONG](https://open.spotify.com/track/4gwCiRljRZCWp2oqCBW8GJ) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [KICKPONG](https://open.spotify.com/album/7JqplJtsiA0oypELsRAkXu) | 2:27 | 2026-10-28 |  |
 | [KICKS IN YA BRAIN](https://open.spotify.com/track/5H2u29LkCw7HyuDttyK4ms) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [KICKS IN YA BRAIN](https://open.spotify.com/album/0wh0g1iICx6MTgXVHhUzDV) | 2:51 | 2024-03-08 |  |
 | [Kicks Like This](https://open.spotify.com/track/5Tlya3m7X5mR4BgzKPmx7D) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Luna](https://open.spotify.com/artist/2LpNxLq1O4FAMBagy5t582) | [Kicks Like This](https://open.spotify.com/album/3LTKDZ1fi2vMPrCyB8awfk) | 3:13 | 2023-07-28 |  |
 | [KICKS OUT FOR HARAMBE \(10 YEAR MEMORIAL RIP SWEET PRINCE\)](https://open.spotify.com/track/3VosYixw3V01cKAeMbfahS) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Invaderz](https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD) | [KICKS OUT FOR HARAMBE \(10 YEAR MEMORIAL RIP SWEET PRINCE\)](https://open.spotify.com/album/7ATi7hHQPSP3NmUjvvGGWt) | 1:50 | 2026-05-29 |  |

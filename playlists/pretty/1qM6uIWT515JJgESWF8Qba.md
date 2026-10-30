@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 608 likes - 66 songs - 4 hr 8 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 616 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 64 | [The Runaround](https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [The Runaround](https://open.spotify.com/album/7bRIOQfdUKMVvBcnkfpzZJ) | 3:31 |
 | 65 | [Only For Me](https://open.spotify.com/track/0cweQVokFrhr2JJEdmjhgt) | [Vexica](https://open.spotify.com/artist/20bBvMB0gByCF87L93JTal) | [Only For Me](https://open.spotify.com/album/0RucmikP6koH13GgT8vG7e) | 2:57 |
 | 66 | [The Tortoise](https://open.spotify.com/track/6dslvv371VJukIILkmBdtm) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Reptile Wisdom](https://open.spotify.com/album/2vvs96HnDXtVg9OQ0mB9oz) | 1:58 |
+| 67 | [In Between](https://open.spotify.com/track/6sBtirJIbyIG2UdviBt0rx) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [In Between](https://open.spotify.com/album/0Dwc2X79NdDJy0Oaz4aaO4) | 3:45 |
+| 68 | [Is It Really True](https://open.spotify.com/track/3Rn3NxHKAaulAZm8kbXMAW) | [Wave Breaker](https://open.spotify.com/artist/422YfoHbiHbSOEgf1VpOq7) | [Is It Really True](https://open.spotify.com/album/31TBqMhSlQUpzmnim6ui3K) | 4:14 |
 
-Snapshot ID: `AAACWkJ6gjo5HsTKgev0HqaF+t6/j3DX`
+Snapshot ID: `AAACXGdjlsIYirP59JkJ5cSzNI8O69wz`

@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marfa",
-  "num_followers": 429365,
+  "num_followers": 429400,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPD8A8NfVEAP1hvEyIDYkDv8MOED",
+  "snapshot_id": "AAAAAKAih2q3kT19GcbxAI8ItRFugg1L",
   "tracks": [
     {
       "added_at": "2026-10-23 18:03:15",
@@ -295,8 +295,8 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "You're Never Around",
-        "url": "https://open.spotify.com/album/0H8W2AcnoP88dSK2nf5Cy7"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 148314,
-      "name": "You're Never Around",
-      "url": "https://open.spotify.com/track/0qUdBojcFdXkQskyj7LFEw"
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -375,8 +375,8 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+        "name": "You're Never Around",
+        "url": "https://open.spotify.com/album/0H8W2AcnoP88dSK2nf5Cy7"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+      "duration_ms": 148314,
+      "name": "You're Never Around",
+      "url": "https://open.spotify.com/track/0qUdBojcFdXkQskyj7LFEw"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Lay Down In a Pickup",
-        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        }
-      ],
-      "duration_ms": 206806,
-      "name": "Lay Down In a Pickup",
-      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 221280,
       "name": "Devil in Me",
       "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Lay Down In a Pickup",
+        "url": "https://open.spotify.com/album/2fGhy7gI0d0R5etraxu7YF"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "duration_ms": 206806,
+      "name": "Lay Down In a Pickup",
+      "url": "https://open.spotify.com/track/6wsdEj8UWkIptEkBTIRAv0"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
-      },
-      "artists": [
-        {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
-        }
-      ],
-      "duration_ms": 217099,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "The Siren's Song",
         "url": "https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/4fjThpTcrlhAbO8o50vMFc"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
         }
       ],
-      "duration_ms": 247426,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
+      "duration_ms": 217099,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/2Q2r9GPlQF6d9WdrPDKUtV"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -727,6 +711,22 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv"
-      },
-      "artists": [
-        {
-          "name": "Luke Tyler Shelton",
-          "url": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC"
-        }
-      ],
-      "duration_ms": 183776,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/1ikP6HnW0jO7ILAmmgBf4r"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 200160,
       "name": "Sammy G's",
       "url": "https://open.spotify.com/track/23xsBjHKk0SisnMHrJzemJ"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv"
+      },
+      "artists": [
+        {
+          "name": "Luke Tyler Shelton",
+          "url": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC"
+        }
+      ],
+      "duration_ms": 183776,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
+        "name": "By The River",
+        "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
+      },
+      "artists": [
+        {
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "By The River",
+      "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
         "name": "The Illusion Of Love (feat. Lukas Nelson)",
         "url": "https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "By The River",
-        "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
-      },
-      "artists": [
-        {
-          "name": "Davie",
-          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "By The River",
-      "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "In the Hour of Chaos",
         "url": "https://open.spotify.com/album/3kscpGV3VPWFFX7lPf0DuL"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 250520,
       "name": "Searchlight (ft. Kashus Culpepper)",
       "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -999,6 +983,22 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Fake It Till You Make It",
-        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
-      },
-      "artists": [
-        {
-          "name": "Honeybear, the Band",
-          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Fake It Till You Make It",
-      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Life Is Good (Let That Shit Go)",
-        "url": "https://open.spotify.com/album/41BUBK20aUeU55cOQAFrdI"
+        "name": "Fake It Till You Make It",
+        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
       },
       "artists": [
         {
-          "name": "Goldie Scott",
-          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
         }
       ],
-      "duration_ms": 178916,
-      "name": "Life Is Good (Let That Shit Go)",
-      "url": "https://open.spotify.com/track/2NA3zIhLsxqKcgoRyTfydR"
+      "duration_ms": 219120,
+      "name": "Fake It Till You Make It",
+      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1287,6 +1271,22 @@
       "duration_ms": 265846,
       "name": "The People's House (with The War And Treaty)",
       "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Life Is Good (Let That Shit Go)",
+        "url": "https://open.spotify.com/album/41BUBK20aUeU55cOQAFrdI"
+      },
+      "artists": [
+        {
+          "name": "Goldie Scott",
+          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+        }
+      ],
+      "duration_ms": 178916,
+      "name": "Life Is Good (Let That Shit Go)",
+      "url": "https://open.spotify.com/track/2NA3zIhLsxqKcgoRyTfydR"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "My Day Will Come",
+      "url": "https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
         "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
         "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "My Day Will Come",
-      "url": "https://open.spotify.com/track/4gbi2i68cvI8zPDGczoBro"
     },
     {
       "added_at": "2026-10-23 18:03:15",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-10-23 18:03:15",
       "album": {
-        "name": "Hold On (Hourglass)",
-        "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Hold On (Hourglass)",
-      "url": "https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2"
-    },
-    {
-      "added_at": "2026-10-23 18:03:15",
-      "album": {
         "name": "What You Don't Do",
         "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "added_at": "2026-10-23 18:03:15",
+      "album": {
+        "name": "Hold On (Hourglass)",
+        "url": "https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Hold On (Hourglass)",
+      "url": "https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2"
     },
     {
       "added_at": "2026-10-23 18:03:15",

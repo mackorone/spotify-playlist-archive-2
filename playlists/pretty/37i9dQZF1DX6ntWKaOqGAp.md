@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: WurtS
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,690 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,723 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [CLUTCH](https://open.spotify.com/track/4gG6mQPPHVj1uUNAdQRAQ3) | [QOOPIE](https://open.spotify.com/artist/1qKU2HeKWmqC1gF37fAczJ) | [CLUTCH](https://open.spotify.com/album/29QrggTbcvLT6ldZEFDQy3) | 2:33 |
 | 100 | [Never to ever](https://open.spotify.com/track/5ezJvdCHLemckdyTRlp9bX) | [T.N.T](https://open.spotify.com/artist/7hPdXB6soJMZG24vdbfPOC) | [THE FEARLESS](https://open.spotify.com/album/4sUaJjjxVdPH6N2yS5NZlp) | 3:21 |
 
-Snapshot ID: `AAAAAHiyUkcx6+zZv8TrzmghpnOVeybO`
+Snapshot ID: `AAAAANSII6zPJOHT5RTvjsPBSS7+Y1vn`

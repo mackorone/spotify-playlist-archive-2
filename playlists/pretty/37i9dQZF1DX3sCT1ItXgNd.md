@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Lucho RK
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,613 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,435 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Si Tú Te Vas](https://open.spotify.com/track/3qh9SrScSV7wEzIccdECR8) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Si Tú Te Vas](https://open.spotify.com/album/1jxKltNf8xeT9pb1NmX8CV) | 3:13 |
 | 50 | [COLAITO](https://open.spotify.com/track/7ps3SFyfRi1KqRf37F7aqm) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ), [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [COLAITO](https://open.spotify.com/album/5UoXuppEYH3t4W5tlOVmSz) | 2:32 |
 
-Snapshot ID: `AAAAADeSg2O7BytKBFhLqcPB5clzpGkV`
+Snapshot ID: `AAAAAD0T2g3sYrgGlHTebF7yQS94LQcb`

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry, Alt8",
-  "num_followers": 555317,
+  "num_followers": 555969,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHRql5T469Nzi8hlmeLnjo0r5tnD",
+  "snapshot_id": "AAAAAKtiSgN/Pz0BLzKmbaZHfBGglXyH",
   "tracks": [
     {
       "added_at": "2026-10-16 04:03:13",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
         "name": "SCANDAL ANTHEM",
         "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 244500,
       "name": "SCANDAL ANTHEM",
       "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "Holy Place",
-        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Holy Place",
-      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "44028",
-        "url": "https://open.spotify.com/album/7pROTm65uazeyq2h3xts2B"
-      },
-      "artists": [
-        {
-          "name": "Vlace",
-          "url": "https://open.spotify.com/artist/4ZY8YRSlpQjiajlKEPRG7a"
-        },
-        {
-          "name": "KSN",
-          "url": "https://open.spotify.com/artist/0XoL7jG81GKX7WPdC8SKvp"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/3wxe5qtdUpH4Rxbv9Js8P9"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 151800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "44028",
+        "url": "https://open.spotify.com/album/7pROTm65uazeyq2h3xts2B"
+      },
+      "artists": [
+        {
+          "name": "Vlace",
+          "url": "https://open.spotify.com/artist/4ZY8YRSlpQjiajlKEPRG7a"
+        },
+        {
+          "name": "KSN",
+          "url": "https://open.spotify.com/artist/0XoL7jG81GKX7WPdC8SKvp"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/3wxe5qtdUpH4Rxbv9Js8P9"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "2 LOUD",
-        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
-      },
-      "artists": [
-        {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        }
-      ],
-      "duration_ms": 303483,
-      "name": "2 LOUD",
-      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "Bassline Slut",
         "url": "https://open.spotify.com/album/6PVUkdViXIPjlmfrX0AzBX"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 137142,
       "name": "Bassline Slut",
       "url": "https://open.spotify.com/track/65KTsqXbjSr9k8K6X65CIa"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1203,70 +1203,18 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Let the Bass Kick",
-        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
+        "name": "Nobody EP",
+        "url": "https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8"
       },
       "artists": [
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
         }
       ],
-      "duration_ms": 146100,
-      "name": "Let the Bass Kick",
-      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "Purple Widow (Original & Remix Versions)",
-        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        }
-      ],
-      "duration_ms": 381118,
-      "name": "Purple Widow",
-      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "4 Da Ravers",
-        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "4 Da Ravers",
-      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "DANCE NOW",
-        "url": "https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr"
-      },
-      "artists": [
-        {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        },
-        {
-          "name": "Stretch",
-          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "DANCE NOW",
-      "url": "https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe"
+      "duration_ms": 199966,
+      "name": "Without Me (Nobody)",
+      "url": "https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1299,18 +1247,70 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Nobody EP",
-        "url": "https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8"
+        "name": "4 Da Ravers",
+        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 199966,
-      "name": "Without Me (Nobody)",
-      "url": "https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ"
+      "duration_ms": 153290,
+      "name": "4 Da Ravers",
+      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "Purple Widow (Original & Remix Versions)",
+        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        }
+      ],
+      "duration_ms": 381118,
+      "name": "Purple Widow",
+      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "DANCE NOW",
+        "url": "https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Stretch",
+          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "DANCE NOW",
+      "url": "https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "Let the Bass Kick",
+        "url": "https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 146100,
+      "name": "Let the Bass Kick",
+      "url": "https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
+        "name": "CRACK!",
+        "url": "https://open.spotify.com/album/0yLUtDg4hNz7cwrfi4GsU3"
       },
       "artists": [
         {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
         },
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "JAZZY",
+          "url": "https://open.spotify.com/artist/0xGI8ZVWgiCWicV1lD1Hrk"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
+      "duration_ms": 133500,
+      "name": "CRACK!",
+      "url": "https://open.spotify.com/track/13qXoC2AyxfGXpV9yx5HOA"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1523,22 +1523,22 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "CRACK!",
-        "url": "https://open.spotify.com/album/0yLUtDg4hNz7cwrfi4GsU3"
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
       },
       "artists": [
         {
-          "name": "Natte Visstick",
-          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
         },
         {
-          "name": "JAZZY",
-          "url": "https://open.spotify.com/artist/0xGI8ZVWgiCWicV1lD1Hrk"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         }
       ],
-      "duration_ms": 133500,
-      "name": "CRACK!",
-      "url": "https://open.spotify.com/track/13qXoC2AyxfGXpV9yx5HOA"
+      "duration_ms": 171000,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
+        "name": "Shivaya (Remix)",
+        "url": "https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        },
+        {
+          "name": "Per Pleks",
+          "url": "https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV"
+        }
+      ],
+      "duration_ms": 202838,
+      "name": "Shivaya - Remix",
+      "url": "https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
         "name": "Check This Out",
         "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
       },
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Late At Night",
-        "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "Late At Night",
-      "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "HOMEWARD BOUND",
         "url": "https://open.spotify.com/album/77qphqm55wE28WErICmvo5"
       },
@@ -1635,22 +1635,22 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Shivaya (Remix)",
-        "url": "https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn"
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
       },
       "artists": [
         {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         },
         {
-          "name": "Per Pleks",
-          "url": "https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 202838,
-      "name": "Shivaya - Remix",
-      "url": "https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q"
+      "duration_ms": 156400,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Hype Boy",
-        "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
+        "name": "Adagio For Strings",
+        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
         }
       ],
-      "duration_ms": 196941,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
+      "duration_ms": 360000,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1739,18 +1739,34 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "Adagio For Strings",
-        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
+        "name": "Hype Boy",
+        "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
       },
       "artists": [
         {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
+      "duration_ms": 196941,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
+        "name": "H\u00d6LLE IM HERZ",
+        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "H\u00d6LLE IM HERZ",
+      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
-        "name": "H\u00d6LLE IM HERZ",
-        "url": "https://open.spotify.com/album/7cig8YOq7vbKOK0nj6avi6"
-      },
-      "artists": [
-        {
-          "name": "Michael Klotz",
-          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "H\u00d6LLE IM HERZ",
-      "url": "https://open.spotify.com/track/1HN3FURbRaojGtKpIt9kSN"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
         "name": "Weisse Nase",
         "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
       },
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/1smTJCY58D39nQZjW5NHgf"
+      },
+      "artists": [
+        {
+          "name": "KX CHR",
+          "url": "https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU"
+        }
+      ],
+      "duration_ms": 153004,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/5J9zv1zII2LyICvUe3jyo0"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
         "name": "Tarantula",
         "url": "https://open.spotify.com/album/256jgvKTQIC8S4xFjwLm2Z"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 217058,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/5KJ4OmlwvbL8m8qYg7EkiB"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "TUTU",
-        "url": "https://open.spotify.com/album/1smTJCY58D39nQZjW5NHgf"
-      },
-      "artists": [
-        {
-          "name": "KX CHR",
-          "url": "https://open.spotify.com/artist/6q4BufN5u0ChOMqqxzPgGU"
-        }
-      ],
-      "duration_ms": 153004,
-      "name": "TUTU",
-      "url": "https://open.spotify.com/track/5J9zv1zII2LyICvUe3jyo0"
     },
     {
       "added_at": "2026-10-16 04:03:13",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-10-16 04:03:13",
       "album": {
+        "name": "Kick That Bass",
+        "url": "https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW"
+      },
+      "artists": [
+        {
+          "name": "Kevin D'Angello",
+          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
+        }
+      ],
+      "duration_ms": 116141,
+      "name": "Kick That Bass",
+      "url": "https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7"
+    },
+    {
+      "added_at": "2026-10-16 04:03:13",
+      "album": {
         "name": "Renegade Master",
         "url": "https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 127241,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg"
-    },
-    {
-      "added_at": "2026-10-16 04:03:13",
-      "album": {
-        "name": "Kick That Bass",
-        "url": "https://open.spotify.com/album/0HaEz4vuqp0i1nFRiVXlQW"
-      },
-      "artists": [
-        {
-          "name": "Kevin D'Angello",
-          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
-        }
-      ],
-      "duration_ms": 116141,
-      "name": "Kick That Bass",
-      "url": "https://open.spotify.com/track/1mrYUQ2OY0SH18AOwC1ix7"
     }
   ],
   "unique_name": "Hard Techno",

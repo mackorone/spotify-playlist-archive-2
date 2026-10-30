@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,315 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,329 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 49 | [Lonely](https://open.spotify.com/track/0Z6wRXvwfrCGZSZRmbOnAi) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Lonely](https://open.spotify.com/album/73eC5wTTB0XFpHUZ29ma8X) | 2:40 |
 | 50 | [belly of the beast](https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [bullfight](https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD) | 3:36 |
 
-Snapshot ID: `AAAAAAY6Q3c5CVJ9BoCejUkEnBz0Lhfl`
+Snapshot ID: `AAAAAGPWUmpRxuLt1iFE2KZXLmrZxu/z`

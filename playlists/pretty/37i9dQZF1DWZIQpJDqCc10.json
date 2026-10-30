@@ -1,12 +1,12 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 782726,
+  "num_followers": 782902,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFfLVOtwmXs84S8e37Xir25afvgE",
+  "snapshot_id": "AAAAACckAK1q8TkWqK2ARU6rSmO2PkVD",
   "tracks": [
     {
       "added_at": "2026-02-19 14:58:26",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 254509,
       "name": "Robbers",
       "url": "https://open.spotify.com/track/73jVPicY2G9YHmzgjk69ae"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 249840,
-      "name": "Live Well",
-      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 257893,
       "name": "Do I Wanna Know? - BBC Live Lounge",
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 249840,
+      "name": "Live Well",
+      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Don't Worry Baby - Remastered 2001",
-      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Don't Worry Baby - Remastered 2001",
+      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "The Seldom Seen Kid",
-        "url": "https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 394173,
-      "name": "One Day Like This",
-      "url": "https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "The Seldom Seen Kid",
+        "url": "https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 394173,
+      "name": "One Day Like This",
+      "url": "https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 140626,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
         "name": "Port Of Morrow",
         "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 255403,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 140626,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "1st Time",
-        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "1st Time",
-      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Rollerblades",
         "url": "https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 134066,
       "name": "Rollerblades",
       "url": "https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "1st Time",
+        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "1st Time",
+      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "SO MUCH HAS CHANGED",
-        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Good At Falling",
         "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200304,
       "name": "i saw you in a dream",
       "url": "https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "SO MUCH HAS CHANGED",
+        "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Summerteeth",
-        "url": "https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "A Shot in the Arm",
-      "url": "https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Every Shade of Blue",
         "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 239466,
       "name": "Tiebreaker",
       "url": "https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Summerteeth",
+        "url": "https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "A Shot in the Arm",
+      "url": "https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk"
     },
     {
       "added_at": "2026-02-19 14:58:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,119 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,158 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 | 29 | [pop it](https://open.spotify.com/track/3LVkyYg0PSo8XInTPKKhZM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [pop it](https://open.spotify.com/album/5VRKZGvWEQZRRYooVjKQkv) | 2:18 |
 | 30 | [Do Better](https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Do Better](https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM) | 3:31 |
 
-Snapshot ID: `AAAAAOKZv9Y0XYpAyRxO+9O2b61USe1h`
+Snapshot ID: `AAAAADB/ByeR6HU8DQQ+Ze/JPgXAzy0o`

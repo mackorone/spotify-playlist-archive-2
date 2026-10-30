@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Julio Caesar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,490 likes - 76 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,412 likes - 76 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 75 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |
 | 76 | [MIS LÁGRIMAS](https://open.spotify.com/track/3nBTjrgTyKW7hQwBTfa63J) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [MIS LÁGRIMAS](https://open.spotify.com/album/0h8ySx6u9eLkaW42GhVXvA) | 4:26 |
 
-Snapshot ID: `AAAAAKLWuS5r1iwLg9f8ADxhp5nc6+sw`
+Snapshot ID: `AAAAAMHlgJNZp36ELm5SzeuNBs9WItay`

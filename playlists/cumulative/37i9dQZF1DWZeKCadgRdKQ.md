@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-1,301 songs - 2 day 13 hr 44 min
+1,305 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ascent](https://open.spotify.com/track/7oXyEMrLP99sqrCrIi95qw) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Ascent](https://open.spotify.com/album/021UGV2UrhqTPxV2JCYNZ7) | 2:18 | 2026-09-15 |  |
 | [Ashes](https://open.spotify.com/track/6IcJ3IyAH3Q4In8bjGVP0W) | [Orchestrate the Universe](https://open.spotify.com/artist/1zNZgpcWzRGBIxYh815Mim) | [New Life](https://open.spotify.com/album/52Fx3NkInGB1fpwstmiy30) | 2:11 | 2019-06-19\* | 2021-09-14 |
 | [Askja](https://open.spotify.com/track/5NPOzGF9KwzjgfA3q6zbCf) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Askja](https://open.spotify.com/album/6gPqxuEKhpHUNWta7qv4qS) | 4:14 | 2019-05-26\* | 2020-01-09 |
+| [Astra](https://open.spotify.com/track/2f1JlOL1dj1wBIrM0vofGw) | [Milk E Way](https://open.spotify.com/artist/1FpLDA8N2boR9fqwgaeY7H) | [Astra](https://open.spotify.com/album/64dy0coqyMgGfXMEqXiqGb) | 2:45 | 2026-10-28 |  |
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2020-01-03 | 2024-03-27 |
 | [Atmosphere](https://open.spotify.com/track/19g2Q1yE3LlRykOa5sLL7C) | [Savione](https://open.spotify.com/artist/3BqdrzfJnVqaTOI84wcjVg) | [Atmosphere](https://open.spotify.com/album/6onogylUTUOmrp6Fwb6F5j) | 2:32 | 2023-11-24 | 2024-11-07 |
 | [Atmosphere](https://open.spotify.com/track/2fux83cwNIZJCKbS3MlFX9) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [Atmosphere](https://open.spotify.com/album/0wbFamqVxHVnILxJvGeHgN) | 2:22 | 2026-02-11 |  |
@@ -178,7 +179,7 @@
 | [center of mass](https://open.spotify.com/track/6opcJWSYfidSOyn8bQlTlK) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [center of mass](https://open.spotify.com/album/3rGLQVlXpRq8IFjMaszvW5) | 2:24 | 2022-12-30 | 2023-09-26 |
 | [Change of Heart](https://open.spotify.com/track/4Ka922ecUkniBkLY728l67) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Change of Heart](https://open.spotify.com/album/0APicj4lkcnraMx8ytbw6D) | 2:56 | 2025-06-12 | 2025-12-13 |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-02-25 | 2024-05-12 |
-| [Changing Seas](https://open.spotify.com/track/535oulHWFKwAQv1L3OdLM3) | [Walter North](https://open.spotify.com/artist/5oCiOVQpEnhffBmd151Li9) | [Changing Seas](https://open.spotify.com/album/2R5PoIn0uru6NDOmm5OIGe) | 2:00 | 2026-07-02 |  |
+| [Changing Seas](https://open.spotify.com/track/535oulHWFKwAQv1L3OdLM3) | [Walter North](https://open.spotify.com/artist/5oCiOVQpEnhffBmd151Li9) | [Changing Seas](https://open.spotify.com/album/2R5PoIn0uru6NDOmm5OIGe) | 2:00 | 2026-07-02 | 2026-10-30 |
 | [Chasing Lights](https://open.spotify.com/track/6RwdgNhXr3puffde4stjiH) | [Meu Malu](https://open.spotify.com/artist/6zEIDev1R1S22evodGYe6K) | [Chasing Lights](https://open.spotify.com/album/360cqYSSf6ci6rAEFZjBBP) | 2:20 | 2023-11-10 | 2025-05-07 |
 | [Chasing Love](https://open.spotify.com/track/5HCMc28iow2u67EgxHejfZ) | [Mondbery](https://open.spotify.com/artist/3Ao4LdOPmNHIsDq8Y5gTmh) | [Chasing Love](https://open.spotify.com/album/3r9LKZab8u1XmEJbxQjSjV) | 2:11 | 2019-06-19\* | 2023-04-29 |
 | [Chasing the Horizon](https://open.spotify.com/track/3ybfuI1HTbbT1FYyiX3IsJ) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Chasing the Horizon](https://open.spotify.com/album/0qRxMFGRVEZiJRNdDn9srq) | 2:38 | 2023-08-25 | 2024-05-12 |
@@ -273,7 +274,7 @@
 | [Deeply](https://open.spotify.com/track/5gwY9XhR8OdHyqbo6qAP6j) | [The River Sings](https://open.spotify.com/artist/6cmgHNLrf9rpn9gHzebyOV) | [Deeply](https://open.spotify.com/album/5zHnQfWHfwDA2NAIvCygEb) | 2:46 | 2025-01-21 | 2025-05-07 |
 | [Deliverance](https://open.spotify.com/track/0inD1pyAgjkhFgB0RxnuDS) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 3:59 | 2019-06-27 | 2021-09-03 |
 | [Den inre skogen](https://open.spotify.com/track/0Zl6KnmirT1PeGZvAZY9T1) | [Thomas Jackson](https://open.spotify.com/artist/41stF0r3WopxZKcDOh8yB6) | [Den inre skogen](https://open.spotify.com/album/64zeCjhSkwRDzVF6TvOwlc) | 3:49 | 2020-04-13 | 2024-03-27 |
-| [Depth of Field](https://open.spotify.com/track/45ksXjYsiVpBb6oybObxgH) | [Skeru](https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7) | [Depth of Field](https://open.spotify.com/album/1597BFHjrEzX6oMxLXqvml) | 2:34 | 2026-07-02 |  |
+| [Depth of Field](https://open.spotify.com/track/45ksXjYsiVpBb6oybObxgH) | [Skeru](https://open.spotify.com/artist/2VtgVsxxb33b7iZ71BNDg7) | [Depth of Field](https://open.spotify.com/album/1597BFHjrEzX6oMxLXqvml) | 2:34 | 2026-07-02 | 2026-10-30 |
 | [Desert Sunset](https://open.spotify.com/track/3ECCf01lcaoLsIR9wRkcRO) | [Tranquil Oasis](https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448) | [Desert Sunset](https://open.spotify.com/album/6w3DV7iiKFdCXedJZJClaO) | 2:29 | 2023-07-14 | 2024-08-21 |
 | [Deserts](https://open.spotify.com/track/4WCQ7UciC6Auy2DqruqVK1) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Deserts](https://open.spotify.com/album/5ucdUmYO7HwdoHCiJwsdro) | 2:47 | 2019-06-19\* | 2019-06-27 |
 | [Desolate](https://open.spotify.com/track/6Qq4YP8ov3MnZmoMnPwPoJ) | [Starlace](https://open.spotify.com/artist/7e8m8odnrGWfIc8Umasikb) | [Desolate](https://open.spotify.com/album/28Indv2f7iib2oA5SRVRCv) | 2:17 | 2026-09-15 |  |
@@ -345,6 +346,7 @@
 | [Escaping Time](https://open.spotify.com/track/7JrSIPcfkWhDzxWII8Jz7V) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 3:20 | 2020-01-03 | 2022-10-15 |
 | [Essential Attitudes](https://open.spotify.com/track/0T3UHut7JmCi5jcgYiMawm) | [Peals](https://open.spotify.com/artist/1eOmGaF7cvbx9hw6rgBqYO) | [Honey](https://open.spotify.com/album/2MiSdnbNeUkcQA6i7iyp3v) | 3:37 | 2019-09-14 | 2021-09-04 |
 | [Essential Attitudes](https://open.spotify.com/track/3OLnW4hED8p9DnhiDA8FXX) | [Peals](https://open.spotify.com/artist/1eOmGaF7cvbx9hw6rgBqYO) | [Honey](https://open.spotify.com/album/6S9uHCOQX2qembdGw0Ecrv) | 3:37 | 2019-05-26\* | 2019-09-14 |
+| [Eternal Motion](https://open.spotify.com/track/7krzZK5qajSr1Efl6jDz2U) | [Calmist](https://open.spotify.com/artist/4d7PnhvgHGxk7I9Yve1USM) | [Eternal Motion](https://open.spotify.com/album/2pKHPYNks3esFSTEbCXNqd) | 2:00 | 2026-10-28 |  |
 | [Eternal Pendulum](https://open.spotify.com/track/2WsPrOt50cMqtRVzB3QTC3) | [Set and Setting](https://open.spotify.com/artist/5MDD6ObIICvtWZcMmHrwts) | [Reflectionless](https://open.spotify.com/album/0vVFFfwRggY2RvjKYd0YbT) | 2:34 | 2019-05-26\* | 2019-06-19 |
 | [eternal wind down](https://open.spotify.com/track/6TL7AaKyoeXyCdGBKuC3fE) | [Riley Power](https://open.spotify.com/artist/16li8cbi4fTA6Fyztk1Bz1) | [finished falling](https://open.spotify.com/album/7hrcaCivMZsdEEpiBBK9s6) | 3:04 | 2021-10-28 | 2024-05-12 |
 | [Eternity](https://open.spotify.com/track/3C2spCWjGXotQt1nnoCrMn) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Kingdom](https://open.spotify.com/album/4cXKlWVyQD0xK0yTsg5nwX) | 3:00 | 2019-06-19\* | 2020-08-07 |
@@ -511,7 +513,7 @@
 | [Highs And Lows](https://open.spotify.com/track/7gPzgxkK1cUiF5jlhgDyDV) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 4:53 | 2019-06-19\* | 2019-06-27 |
 | [Hikari Drift](https://open.spotify.com/track/7AIBigbuussGOQJz5EXhPZ) | [novi quiet](https://open.spotify.com/artist/72ZfPWCuSwGhp2YIFbrGsK) | [Hikari Drift](https://open.spotify.com/album/4dnbxrT96hDJrP20VyP5zQ) | 2:21 | 2025-06-23 | 2025-12-13 |
 | [Hiking](https://open.spotify.com/track/6ewlF5IJizIAwNwtJJ0L77) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:06 | 2019-06-19\* | 2020-06-06 |
-| [Hilltop Embers](https://open.spotify.com/track/4rziF3IzJkSKLe3UxthEhf) | [Ice Chicane](https://open.spotify.com/artist/2gFoc11GSEXf96FLtq5IAJ) | [Hilltop Embers](https://open.spotify.com/album/3XJ4AQQrS3lDxtCCIbwbYH) | 2:25 | 2026-09-15 |  |
+| [Hilltop Embers](https://open.spotify.com/track/4rziF3IzJkSKLe3UxthEhf) | [Ice Chicane](https://open.spotify.com/artist/2gFoc11GSEXf96FLtq5IAJ) | [Hilltop Embers](https://open.spotify.com/album/3XJ4AQQrS3lDxtCCIbwbYH) | 2:25 | 2026-09-15 | 2026-10-30 |
 | [Himalayas](https://open.spotify.com/track/0Izmqhed7TRgrFNQ5gY4Ym) | [Cipher](https://open.spotify.com/artist/1Uwvwh3IvEvIgZUfF6U8hl) | [Himalayas](https://open.spotify.com/album/0zbNtkPDQzwf0VOhVbYhT4) | 2:40 | 2025-09-24 | 2026-03-20 |
 | [Hold](https://open.spotify.com/track/3SSeTacdTeRMUwKDeJL594) | [Aiden Archer](https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE) | [Hold](https://open.spotify.com/album/1PIjf5EKk5r5puYs4uWlQR) | 2:31 | 2025-09-24 | 2026-03-20 |
 | [Hold My Hand](https://open.spotify.com/track/4yf9GHCVO6VyY6q9yl2LvI) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [It's Not in Vain](https://open.spotify.com/album/5vgSuONhdEqvHfp6C0ge8u) | 2:42 | 2021-12-09 | 2024-05-12 |
@@ -567,6 +569,7 @@
 | [Infinity](https://open.spotify.com/track/7JbTr2sPSbz8ChMVhGfL5o) | [Seijaku](https://open.spotify.com/artist/31A7W2UBGyTjbMEEgIMfTV) | [Infinity](https://open.spotify.com/album/2ehz184ezFZAYKcY6aE4Y8) | 3:09 | 2025-01-21 | 2026-03-20 |
 | [Infra](https://open.spotify.com/track/7aUZ3tEkoDN8qE6Rl6TfCc) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Infra](https://open.spotify.com/album/2dqjeXE2wPWdWxYoL2KlUC) | 2:20 | 2023-04-14 | 2024-12-19 |
 | [Ingénue](https://open.spotify.com/track/6mgKP4yo57GTSMc3fJlyWm) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Ingénue](https://open.spotify.com/album/2RsIJpUcRcCvsRHyLNbe2K) | 2:38 | 2020-01-09 | 2023-07-14 |
+| [initial echo](https://open.spotify.com/track/741NgACiS9sYaSIewagNeF) | [Starlace](https://open.spotify.com/artist/7e8m8odnrGWfIc8Umasikb) | [initial echo](https://open.spotify.com/album/0oNgUQAvr6u6WALA7o5GwR) | 2:13 | 2026-10-28 |  |
 | [Inner Altitude](https://open.spotify.com/track/7bKsMY05k1AdKvcfm4mb1N) | [Aron Luna](https://open.spotify.com/artist/7myet6SvASFXW46ewM2G1c) | [Inner Altitude](https://open.spotify.com/album/4bYSYlZeTeGJXBmShYwHE1) | 2:20 | 2026-02-11 |  |
 | [Inner Calm](https://open.spotify.com/track/7Anprc8qpsTpgGBFCCUkaj) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Inner Calm](https://open.spotify.com/album/4XJnVVkctq17qjCpiYvIaj) | 3:27 | 2024-07-26 | 2024-11-07 |
 | [Inside The Forest](https://open.spotify.com/track/7zoHQ8RE004b9gJhD6dKU6) | [Youlu](https://open.spotify.com/artist/1RieSf7ad0IFUgai4Ran0C) | [The Game](https://open.spotify.com/album/3EOK5VL7kMYaUbqMH5VcKU) | 4:46 | 2019-05-26\* | 2019-06-19 |
@@ -889,6 +892,7 @@
 | [ready, steady, go](https://open.spotify.com/track/4mQEVCbtbQuiOYouVR0fcs) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [ready, steady, go](https://open.spotify.com/album/3zV10Z85H6yfal6jvR0w2Z) | 2:27 | 2023-01-09 | 2024-08-21 |
 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 | 2021-08-26 | 2024-05-12 |
 | [Red Gold Yesterday](https://open.spotify.com/track/557iYakWWJQeKbJS3UYMxG) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:18 | 2019-05-26\* | 2020-08-07 |
+| [Red Rose](https://open.spotify.com/track/6GgmIVOY632NqVvaeNPssC) | [Looming Peak](https://open.spotify.com/artist/3emUOzWNNtDq70QXKfluWC) | [Red Rose](https://open.spotify.com/album/5PqhYpCdilXfClvgUkjl7p) | 2:27 | 2026-10-28 |  |
 | [Reflection](https://open.spotify.com/track/4LkTkQK2xkU5S4uWN5LWI4) | [June Wysh](https://open.spotify.com/artist/0WPOnxr3VJ9tgP8WzA5yhR) | [Reflection](https://open.spotify.com/album/4vz1CjpZZN9CIz3P1ESHK4) | 2:12 | 2023-10-06 | 2025-10-03 |
 | [Reflective Thinking](https://open.spotify.com/track/7cEEeWFouyKqCHqs1XAPJF) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Reflective Thinking](https://open.spotify.com/album/3lhs85PFftF1QPtyhg3vQw) | 3:07 | 2024-05-11 | 2025-04-24 |
 | [Relativity](https://open.spotify.com/track/67nD0mOPtbTm5lhBsBhXqV) | [Apollo Vision](https://open.spotify.com/artist/0S54IVxCmJNc6FN8wLIC5v) | [Relativity](https://open.spotify.com/album/1OEiVFSqZIrwAqlfvgDaSJ) | 2:09 | 2024-06-11 | 2025-04-02 |
@@ -1212,7 +1216,7 @@
 | [Under The Wind](https://open.spotify.com/track/4YS6FM8lct3QyV2oGIrCp4) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Under The Wind](https://open.spotify.com/album/6E1x5WibS1p1kHsDuXfiau) | 4:00 | 2019-12-11 | 2022-10-15 |
 | [Understudy](https://open.spotify.com/track/0Y41ZfnVaNRQp9dQiagwbC) | [Josie Mehlin](https://open.spotify.com/artist/3VkUsVhRvP02IX46EWGzQz) | [Understudy](https://open.spotify.com/album/3VcIkzC32KOKkJNheSSwzW) | 2:43 | 2019-12-31 | 2020-10-08 |
 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-01-19 | 2024-05-12 |
-| [Unfolding Time](https://open.spotify.com/track/1oYpqbK53uY3DKS8bzFHgb) | [Stillhaven](https://open.spotify.com/artist/0z85kcSKmEzIE9D3DVBwwJ) | [Unfolding Time](https://open.spotify.com/album/2vH1Ls4GOFVIqBG2rFIq7t) | 2:03 | 2026-06-17 |  |
+| [Unfolding Time](https://open.spotify.com/track/1oYpqbK53uY3DKS8bzFHgb) | [Stillhaven](https://open.spotify.com/artist/0z85kcSKmEzIE9D3DVBwwJ) | [Unfolding Time](https://open.spotify.com/album/2vH1Ls4GOFVIqBG2rFIq7t) | 2:03 | 2026-06-17 | 2026-10-30 |
 | [Unforced](https://open.spotify.com/track/0OO6az6OHaz25aL2f55HYK) | [Cosma Tosetti](https://open.spotify.com/artist/1hAjSssK3NZBRYoN2tbIrb) | [Unforced](https://open.spotify.com/album/6jDj1FosALMAyZbJJWLBkW) | 2:22 | 2026-07-31 |  |
 | [Unforgotten](https://open.spotify.com/track/48CkWwolbkxcfR3VUXXaXs) | [Aetheris](https://open.spotify.com/artist/1AxoBETv3Joiu70hGXVhFR) | [Unforgotten](https://open.spotify.com/album/5vFTUahRT3uuqKo1VnFPIa) | 2:30 | 2026-06-11 |  |
 | [Unperturbed](https://open.spotify.com/track/5483XAumUCO44oXXH5lxfg) | [Gate.74](https://open.spotify.com/artist/3kirwFrwVQbUKCIHGLZQpl) | [Unperturbed](https://open.spotify.com/album/5JGydJEk6wI0yj0RHh5lfM) | 2:37 | 2023-03-23 | 2024-12-19 |

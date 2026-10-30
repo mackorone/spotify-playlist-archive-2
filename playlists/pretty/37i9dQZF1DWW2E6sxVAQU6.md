@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,611 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,613 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 17 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
 | 18 | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/track/4ukx28Dx9UnZlFWk81HNaV) | [Gigi Proietti](https://open.spotify.com/artist/4aztUD9n74oCxu7ss8C8UD), [Trio Melody](https://open.spotify.com/artist/2JhA5aOKefzHPXKbyhi61y), [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Stefano Palatresi](https://open.spotify.com/artist/5hyNfdEAhG5oKIRhpgS5bx) | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/album/5MEDvsrCUMJ5HbYaozGNRU) | 3:13 |
 | 19 | [Combat pop \(ALBI \#1\)](https://open.spotify.com/track/1SIp3BtzYxFfVy7AD8r0PZ) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Attentato alla musica italiana](https://open.spotify.com/album/2ARUgdwDSy3vW5mhcnDvP8) | 3:25 |
-| 20 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
-| 21 | [Il terzo fuochista](https://open.spotify.com/track/19Rdet8mE1HvEoO4aMrQs3) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu) | [Romana](https://open.spotify.com/album/0qnJo0nniBPA33NV72WgRQ) | 4:02 |
+| 20 | [Il terzo fuochista](https://open.spotify.com/track/19Rdet8mE1HvEoO4aMrQs3) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu) | [Romana](https://open.spotify.com/album/0qnJo0nniBPA33NV72WgRQ) | 4:02 |
+| 21 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
 | 22 | [Se me lo dicevi prima](https://open.spotify.com/track/7bDDUMonsSUQyvctsj9lg9) | [Enzo Jannacci](https://open.spotify.com/artist/02tKmsUnu6UIYpTx5Wyle8) | [No, Tu No](https://open.spotify.com/album/6KZkxbFfmuaWe8EiiRo3S4) | 4:23 |
 | 23 | [Il farmacista](https://open.spotify.com/track/3tx0Rl5JSvTVfPMuDd0CdN) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Il farmacista](https://open.spotify.com/album/5O37ctKTp6CZyfhrRZhLq3) | 4:11 |
 | 24 | [Mi sono innamorato di mia moglie](https://open.spotify.com/track/7vvzB2UIc9cZUxrSNN5U9u) | [Gianni Nazzaro](https://open.spotify.com/artist/4Xyv6XmF999fSruMHlHu6o) | [Il meglio](https://open.spotify.com/album/64N7AuJBH4se9KM2GXzdsc) | 3:47 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 36 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |
 | 37 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
 | 38 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
-| 39 | [Pafff.\. bum!](https://open.spotify.com/track/3rIyt8qnPDXR8GRaWeiVtX) | [Gianfranco Reverberi](https://open.spotify.com/artist/0LDkZ7eiExUAygRAbJEzdq), [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [12000 lune](https://open.spotify.com/album/6FAodIEfgmPYI0sL3KEWHQ) | 2:21 |
-| 40 | [La bottega del caffe'](https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC) | [Alberto Camerini](https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI) | [Rockmantic Collection](https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3) | 3:40 |
+| 39 | [La bottega del caffe'](https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC) | [Alberto Camerini](https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI) | [Rockmantic Collection](https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3) | 3:40 |
+| 40 | [Pafff.\. bum!](https://open.spotify.com/track/3rIyt8qnPDXR8GRaWeiVtX) | [Gianfranco Reverberi](https://open.spotify.com/artist/0LDkZ7eiExUAygRAbJEzdq), [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [12000 lune](https://open.spotify.com/album/6FAodIEfgmPYI0sL3KEWHQ) | 2:21 |
 | 41 | [Innamoratissimo](https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:49 |
 | 42 | [Sinue' \- Alternative Version](https://open.spotify.com/track/4RG8tAMD8kCDiW8W6TAb0P) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [Sinue' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R9RmrSBzjR4PzEnp7c5OO) | 3:51 |
 | 43 | [Accidenti](https://open.spotify.com/track/1UV5OkoxrRI7ynZSQykPXm) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 49 | [Caffè nero bollente](https://open.spotify.com/track/7Mbuzp7QeQH35dHQeQDUz0) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Fiorella Mannoia](https://open.spotify.com/album/089iETyoc1V7iJyjo26cDK) | 4:26 |
 | 50 | [La terra dei cachi](https://open.spotify.com/track/7B1a9ZioRPIan2ejYapGxt) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Del meglio del nostro meglio Vol\. 1 \(remastered\)](https://open.spotify.com/album/05KkxDmNE4o75OO2Xnq9pQ) | 4:41 |
 
-Snapshot ID: `AAAAAGQYYWSJGxEJMcknVG4Nk1U9J4yF`
+Snapshot ID: `AAAAAFBKzeZgVSVrXZd+ns88sJj3X6Dj`

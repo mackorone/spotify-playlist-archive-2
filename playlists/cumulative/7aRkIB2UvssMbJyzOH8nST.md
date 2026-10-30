@@ -4,7 +4,7 @@
 
 > Ease into your  morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-363 songs - 20 hr 49 min
+364 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2025-07-18 |  |
 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-09-18 |  |
 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2025-07-18 | 2026-08-08 |
+| [Cowboys and Angels \- Edit](https://open.spotify.com/track/6dDYckwvmMGZO1qB1tiuWv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:36 | 2026-10-28 |  |
 | [Crazy For You](https://open.spotify.com/track/6SlMEK9meJOWCxlPk1yr51) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Crazy For You](https://open.spotify.com/album/0LKaCSPTuHk2z1Pdntl5jG) | 2:43 | 2025-07-18 | 2025-09-13 |
 | [Daffodils \(feat\. Faela\)](https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza), [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Daffodils \(feat\. Faela\)](https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO) | 3:11 | 2026-06-09 |  |
 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 | 2025-07-18 | 2026-06-20 |
@@ -363,7 +364,7 @@
 | [Yellow](https://open.spotify.com/track/0zDDc616MQciHCOLiPDacv) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Yellow](https://open.spotify.com/album/5rDeSu6DH2SN50hlPQvnaY) | 4:32 | 2026-01-27 | 2026-02-05 |
 | [You](https://open.spotify.com/track/3LNRi4UytUnez6T0hFb4x3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:59 | 2025-07-18 | 2026-05-09 |
 | [You & I](https://open.spotify.com/track/2afCBiru10AFckfOa49wIa) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:57 | 2026-07-31 |  |
-| [you did not sign up for this](https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [you did not sign up for this](https://open.spotify.com/album/0XNTiPaceU0EsRL45IzHJl) | 3:15 | 2026-08-31 |  |
+| [you did not sign up for this](https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b) | [Judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [you did not sign up for this](https://open.spotify.com/album/0XNTiPaceU0EsRL45IzHJl) | 3:15 | 2026-08-31 | 2026-10-30 |
 | [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 | 2025-08-15 | 2026-01-27 |
 | [you were there for me](https://open.spotify.com/track/2jBt7c8o1dDuyIIgepcNsz) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:15 | 2025-07-18 | 2025-07-26 |
 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 | 2026-01-27 |  |

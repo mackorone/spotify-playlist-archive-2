@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16749,
+  "num_followers": 16752,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADdnRxlaU1z+hCnD/wnS3WZ",
+  "snapshot_id": "at/pgAAAAAAucsotRM3a2F+gpfMPVHHM",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3:33am",
         "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
@@ -591,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put You On",
-        "url": "https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm"
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
       },
       "artists": [
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
-      "duration_ms": 224553,
-      "name": "Put You On",
-      "url": "https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO"
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
     },
     {
       "added_at": null,
@@ -623,6 +603,26 @@
       "duration_ms": 253375,
       "name": "Most Men - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Put You On",
+        "url": "https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 224553,
+      "name": "Put You On",
+      "url": "https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 141384,
+      "name": "Wait So Yeah",
+      "url": "https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUMP (feat. Steve Vai & Travis Barker) [Coca-Cola Anthem for the FIFA World Cup 26\u2122]",
         "url": "https://open.spotify.com/album/3y7padDq5LgNJrzo9cYXrx"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 208326,
       "name": "JUMP (feat. Steve Vai & Travis Barker) - Coca-Cola Anthem for the FIFA World Cup 26\u2122",
       "url": "https://open.spotify.com/track/3rw7X1utxqRRCig2Bxua7K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 141384,
-      "name": "Wait So Yeah",
-      "url": "https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 203530,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet Justice",
         "url": "https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 230986,
       "name": "Out of Luck",
       "url": "https://open.spotify.com/track/5vwBdLidaM8UEE6Hcn7zu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 203530,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4"
     },
     {
       "added_at": null,

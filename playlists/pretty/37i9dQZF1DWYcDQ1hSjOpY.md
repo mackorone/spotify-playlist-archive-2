@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,251,848 likes - 370 songs - 16 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,252,720 likes - 370 songs - 16 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 369 | [Unravel](https://open.spotify.com/track/2bRaEDG0vV4VYYV1vpYepn) | [Edvin Novak](https://open.spotify.com/artist/2evVSTKv4OUqPcezyCLnuq) | [Unravel](https://open.spotify.com/album/3KkQMIBQR9fHX5cKyqXKdE) | 2:27 |
 | 370 | [Holding Light](https://open.spotify.com/track/2kISqKr7qyisH1fv4vfUO4) | [Spacetactular](https://open.spotify.com/artist/7FQhluCKlC5UBRvkodPl8m) | [Holding Light](https://open.spotify.com/album/2fXfDfwQlGMequMl7Cz35D) | 2:19 |
 
-Snapshot ID: `AAAAAOrPxdR4upPp4nWe6dJcTiz6ZL4X`
+Snapshot ID: `AAAAAA6ItD50/GTXRsPOj9B3wVyObOR3`

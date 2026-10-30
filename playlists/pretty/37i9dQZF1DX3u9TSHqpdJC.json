@@ -1,12 +1,12 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: gleame. Artwork by Paola Saliby",
-  "num_followers": 245020,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Kaibrienne. Artwork by Paola Saliby",
+  "num_followers": 245122,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmArH/T8sJuOtoqEwIME3nkNSUQ",
+  "snapshot_id": "AAAAABkz521OLafhhQeAo38Gc0J2jR0I",
   "tracks": [
     {
       "added_at": "2026-10-21 04:00:15",
@@ -27,6 +27,38 @@
     {
       "added_at": "2026-10-28 04:00:07",
       "album": {
+        "name": "Mess Like Mine",
+        "url": "https://open.spotify.com/album/4kpljS5dfnZdR5BMyhiBsX"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 148228,
+      "name": "Mess Like Mine",
+      "url": "https://open.spotify.com/track/05iS20Z4HCIEJvjdz6ocIz"
+    },
+    {
+      "added_at": "2026-10-30 04:01:41",
+      "album": {
+        "name": "Wear My Skin",
+        "url": "https://open.spotify.com/album/0EvYYNZYMzwnQPxDf8hwvv"
+      },
+      "artists": [
+        {
+          "name": "Lilah Pate",
+          "url": "https://open.spotify.com/artist/6nRNtZgO1Gw7sEYkduIN3I"
+        }
+      ],
+      "duration_ms": 207882,
+      "name": "Wear My Skin",
+      "url": "https://open.spotify.com/track/2cUnXAHlbai6QSatIt30pA"
+    },
+    {
+      "added_at": "2026-10-28 04:00:07",
+      "album": {
         "name": "What Would I Do?",
         "url": "https://open.spotify.com/album/5pQDZXu1UoG0052v3mOabg"
       },
@@ -41,20 +73,20 @@
       "url": "https://open.spotify.com/track/09p59Cy2C4faahmKQGpnMU"
     },
     {
-      "added_at": "2026-10-28 04:00:07",
+      "added_at": "2026-10-30 04:01:41",
       "album": {
-        "name": "Mess Like Mine",
-        "url": "https://open.spotify.com/album/4kpljS5dfnZdR5BMyhiBsX"
+        "name": "I'm losing you",
+        "url": "https://open.spotify.com/album/2UeE8xZZBWXovvhYmuA4d3"
       },
       "artists": [
         {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
         }
       ],
-      "duration_ms": 148228,
-      "name": "Mess Like Mine",
-      "url": "https://open.spotify.com/track/05iS20Z4HCIEJvjdz6ocIz"
+      "duration_ms": 189376,
+      "name": "I'm losing you",
+      "url": "https://open.spotify.com/track/7IgwLaFZtyU78jW13d8qvL"
     },
     {
       "added_at": "2026-10-21 04:00:15",
@@ -903,22 +935,6 @@
       "duration_ms": 221600,
       "name": "it's not so much what you say",
       "url": "https://open.spotify.com/track/49WUuKWnuapWT4jgxDsMFv"
-    },
-    {
-      "added_at": "2026-08-26 04:00:39",
-      "album": {
-        "name": "Smooth talker",
-        "url": "https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg"
-      },
-      "artists": [
-        {
-          "name": "Lauren Juzang",
-          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Smooth talker",
-      "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
     },
     {
       "added_at": "2026-08-26 04:00:39",

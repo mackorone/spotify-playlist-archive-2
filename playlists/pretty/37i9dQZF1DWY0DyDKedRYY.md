@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring ADÉLA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,690 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,658 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [Another Chance](https://open.spotify.com/track/6b9pGjUDsLNnB4kJX4m9HF) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [A Sunflower Garden In Harlem Is Hard To Find](https://open.spotify.com/album/4D6P7yqmAavmi8MYG13jRe) | 2:12 |
 | 50 | [SPEED DEMON](https://open.spotify.com/track/1QfO3h4g6GZvvg6HTQlXiu) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [SPEED DEMON / WHITEHORSEMANNEQUIN](https://open.spotify.com/album/60lw1wW9N8IBzi9nebdiCW) | 2:25 |
 
-Snapshot ID: `AAAAADmjU+siF4Rfgtlty4Kd9LfoOQV4`
+Snapshot ID: `AAAAAOFh6pk7cGlqYbOKggWtn0ZEiNlq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin indie you should know\. Cover: YOSHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,714 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,517 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [HE MONTADO UN CIRCO](https://open.spotify.com/track/1rqUfqMHMlsu0SONI6dRYv) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [AÉREO / HE MONTADO UN CIRCO](https://open.spotify.com/album/0KSaC9MHhQvAHxWLVmYdyr) | 3:06 |
 | 50 | [en otra vida](https://open.spotify.com/track/0xLa1kdPe1gVJKyGrhFdbP) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [en otra vida](https://open.spotify.com/album/3RsQrO94iuidZnFzKI0uim) | 3:19 |
 
-Snapshot ID: `AAAAAOdjwG5ATFnRZPjK6UUkpUoFRR3C`
+Snapshot ID: `AAAAAPzkpN0x70TFx37GDw/NXOaCwV/+`

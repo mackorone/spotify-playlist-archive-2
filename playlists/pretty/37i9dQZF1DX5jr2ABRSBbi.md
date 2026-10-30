@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,832 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,833 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 59 | [I Could Be Mine](https://open.spotify.com/track/4WscqBTtAbrpnm6xboq8PP) | [Charlotte Gott](https://open.spotify.com/artist/2wxvGtBdXKTmv5bAJKUQEL) | [I Could Be Mine](https://open.spotify.com/album/1Oh5nYtnpfHsLQU0846Fx4) | 2:34 |
 | 60 | [TOTO JE POP](https://open.spotify.com/track/6wSJFkkqqidTO2ZklnFZZ9) | [ALYA](https://open.spotify.com/artist/39OL7XofJjgzDzCSP3AdhB) | [MÁM SA](https://open.spotify.com/album/3KIRBz9RI3f5NNHih8BtGi) | 2:11 |
 
-Snapshot ID: `AAAAAFVhZEWGKdB01s49U+JNewsOhS2l`
+Snapshot ID: `AAAAAOm2FpfAjEBfPc2oDFZEqyQHVg+i`

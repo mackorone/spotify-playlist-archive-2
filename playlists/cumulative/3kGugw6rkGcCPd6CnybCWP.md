@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-535 songs - 1 day 6 hr 59 min
+538 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Sick of Myself](https://open.spotify.com/track/4AcTSN3jrGYKnDhlPvU5Ws) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Sick of Myself](https://open.spotify.com/album/5Z7he63upehCw75oRrZvuN) | 4:16 | 2026-05-10 | 2026-07-24 |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-06 | 2026-03-20 |
 | [Sinking Into The Ocean](https://open.spotify.com/track/30DebVQG34KpyNWMZm2VNx) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 4:25 | 2026-06-06 | 2026-08-18 |
+| [Sleep](https://open.spotify.com/track/6g5ORS7if31shIjkQpasaU) | [HEADCANNON](https://open.spotify.com/artist/2tStR3BVxSg9R87VXBaVCq) | [Sucker Bet](https://open.spotify.com/album/6mzUppPbexOulDlp66HDJl) | 4:01 | 2026-10-29 |  |
 | [Smells like teen spirit \- Rock Version](https://open.spotify.com/track/1ldzLB7XNziPQDUx9BE3H8) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Smells like teen spirit](https://open.spotify.com/album/6MXU2P8IunEnPkgr4k0dA4) | 5:39 | 2026-07-02 | 2026-08-18 |
 | [Smother](https://open.spotify.com/track/4M2MoGCdAiOUlwh8rZHvDR) | [Elemantra](https://open.spotify.com/artist/30cstQS8jxG42BPQ3beYin) | [Smother](https://open.spotify.com/album/18E6W0b5XeJ22DDRJr4Yxm) | 3:57 | 2026-02-08 | 2026-03-29 |
 | [Soapbox](https://open.spotify.com/track/5dF2so4iVS7MjyUaqoeSkD) | [Spensir](https://open.spotify.com/artist/67aFZmd5O1su4iCxh5z3UN) | [Soapbox](https://open.spotify.com/album/6AxHeLtZC6Vsc4sF0lfFBt) | 4:05 | 2026-02-25 | 2026-04-16 |
@@ -416,6 +417,7 @@
 | [Son](https://open.spotify.com/track/1sZL6rANV38pXvRQsKsCKZ) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Son](https://open.spotify.com/album/1zR2k48nl1O1EAsJnBZaif) | 2:53 | 2026-04-28 | 2026-07-02 |
 | [Spacecat](https://open.spotify.com/track/6J9exNHLIQCWBFt3ImK94Z) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [Spacecat](https://open.spotify.com/album/6VKiseKucbHBXLvXLpO2w6) | 4:18 | 2026-07-25 |  |
 | [Spilt Ink](https://open.spotify.com/track/7psQCZgVrspO50AANouKzy) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Spilt Ink](https://open.spotify.com/album/2psiRsyUI5VnTWI1UR3Ccr) | 3:57 | 2026-06-30 | 2026-08-18 |
+| [Spin the gun](https://open.spotify.com/track/7MH5suTqdf2bndpfVZiu2L) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [Spin the gun](https://open.spotify.com/album/2yM3dIfTpsGGgnGIfGzoEK) | 3:54 | 2026-10-28 |  |
 | [Springtime](https://open.spotify.com/track/2w6Dv6rDHlQrUx6XTzznYA) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Springtime](https://open.spotify.com/album/0YxidahcHccoHCAQiUcuSJ) | 2:42 | 2026-03-31 | 2026-05-06 |
 | [Spy Theme](https://open.spotify.com/track/7n1hddb7fPRDnbOncqkwNB) | [overscored](https://open.spotify.com/artist/4Y7bte48dBbZA5ePVRcRhr) | [Spy Theme](https://open.spotify.com/album/5ozFsg4dHIhCs82ns81HL4) | 3:00 | 2026-09-03 |  |
 | [Stall](https://open.spotify.com/track/5L53EUM56JL5Onpyd393rM) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Stall](https://open.spotify.com/album/47Oyl3hqIWQNY0oX3dHAUG) | 4:02 | 2026-09-01 |  |
@@ -446,6 +448,7 @@
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-04-08 | 2026-05-14 |
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-03-31 | 2026-05-06 |
 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 | 2026-10-15 |  |
+| [Take Offense](https://open.spotify.com/track/6KTnhdefUqv06K42aw0YlT) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Humane!](https://open.spotify.com/album/66tIJHMVDylzOmKh9wMwCo) | 3:47 | 2026-10-28 |  |
 | [Take Pills](https://open.spotify.com/track/17dQ6dEmmUAY62q6498ffX) | [HADA](https://open.spotify.com/artist/4NFT2JCnnmDu65IatiikcH) | [Take pills](https://open.spotify.com/album/03i9ywQzdL9OhNigSfwRR0) | 3:10 | 2026-05-22 | 2026-07-24 |
 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 | 2026-05-22 | 2026-07-24 |
 | [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-06-25 | 2026-08-18 |

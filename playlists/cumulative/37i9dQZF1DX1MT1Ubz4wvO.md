@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 O Tortuga
 
-5,927 songs - 14 day 4 hr 28 min
+5,929 songs - 14 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1689,6 +1689,7 @@
 | [El Rey Desnudo](https://open.spotify.com/track/0z7O2MWeuSCXqAHh23lHML) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Rey Desnudo](https://open.spotify.com/album/0vnqjcIKArlb36VQ896Ek2) | 4:16 | 2022-07-22 | 2022-08-13 |
 | [El Rey Dormido](https://open.spotify.com/track/27X7wuI3eNJysJ6ryRKV4I) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6) | [El Rey Dormido](https://open.spotify.com/album/1yDgjMaws2siOaRth4FOKU) | 3:58 | 2023-11-10 | 2023-11-25 |
 | [El rey lloro](https://open.spotify.com/track/4i9cb7vR3HB5Lsu9D0bdJ1) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [El rey lloro](https://open.spotify.com/album/7vIKubIRuaIIYBXZtgwZxy) | 3:42 | 2024-03-15 | 2024-03-23 |
+| [El rey que rabió \- Introducción](https://open.spotify.com/track/2Ntx2CLUFKQ3VKDhYaBbiw) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [El rey que rabió \(Introducción\)](https://open.spotify.com/album/43VAmaup3v2VnxXvkDwx05) | 1:37 | 2026-10-23 |  |
 | [El Ring](https://open.spotify.com/track/4L5Hetk5Je4aJisy4S5lxo) | [Edu Espinal](https://open.spotify.com/artist/1XHYdnh7B7AVByywRUNtd7), [Andrés Canalla](https://open.spotify.com/artist/7AgjHKZxr7jX3uWNZ3zgwD) | [El Ring](https://open.spotify.com/album/6siIuiAZ7N1q1an7rGoOno) | 3:55 | 2023-01-20 | 2023-01-28 |
 | [El Rio \- En directo 2023](https://open.spotify.com/track/3QhFXdw76p8nPxjuQvkOcz) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Rock&Ríos And Cía, 40 Años Después \(En directo 2023\)](https://open.spotify.com/album/1RG0aNqVhjx4iwZ4arhYOV) | 4:14 | 2023-06-02 | 2023-06-17 |
 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 | 2025-02-07 | 2025-02-22 |
@@ -1961,6 +1962,7 @@
 | [Estamos Vivos](https://open.spotify.com/track/3wsZQNPdugfNpX6ViGbWKE) | [Edu el Podenco](https://open.spotify.com/artist/4PfBGxI8L74b8oYllcDupX) | [Estamos Vivos](https://open.spotify.com/album/5lg0nCNDMuEn0DLTgwmFVB) | 3:57 | 2025-05-16 | 2025-05-24 |
 | [Estanislao](https://open.spotify.com/track/6pG4j9nFCpNyxTO4KIXhmN) | [Distimia Agorafóbica](https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR) | [Mi último aliento](https://open.spotify.com/album/2LgpZlmJop1vj8E7ZxH8uQ) | 5:48 | 2026-10-23 |  |
 | [Estar Mejor](https://open.spotify.com/track/7kYsdblCoJXYhpqbS1Mowm) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Feliz / Estar Mejor](https://open.spotify.com/album/1Ay2ziKpKITmQK6ffhwT6C) | 2:54 | 2025-03-21 | 2025-03-29 |
+| [Estarás Mejor](https://open.spotify.com/track/1x9sg1RzYxXJF9NzbNGRMl) | [Andy Daze](https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8) | [Hombre Ficción](https://open.spotify.com/album/23AaXiCU6oJGYkQJYHTw8a) | 5:55 | 2026-10-23 |  |
 | [Estatua de oro](https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe) | [Estatua de oro](https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t) | 2:35 | 2024-06-14 | 2024-06-29 |
 | [Este Año \(peleamos más de lo que nos besamos\)](https://open.spotify.com/track/6XPE82mu1x3NWCgrspIpZy) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Tolidos](https://open.spotify.com/artist/0Pz3Ti0IwegALv24lPjUI0) | [Este Año \(peleamos más de lo que nos besamos\)](https://open.spotify.com/album/2q1RVFJpZj0w8W9PeWcQMT) | 3:52 | 2026-08-21 | 2026-09-19 |
 | [Este Blues](https://open.spotify.com/track/3Bd5rS57ykIUPAnAXtzmNH) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Este Blues](https://open.spotify.com/album/648xuSiM8PyhphuSXIe15t) | 3:47 | 2025-06-20 | 2025-07-05 |

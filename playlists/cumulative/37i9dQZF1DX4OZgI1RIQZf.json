@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 271546,
       "name": "Blood Red Moon",
       "url": "https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 149213,
       "name": "Boris The Spider - New Remix",
       "url": "https://open.spotify.com/track/17JpQPUX1xbtpL19dDmYCQ"
@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Peanuts EP",
+        "url": "https://open.spotify.com/album/4AWfbUBoDN3p3WCjc0z1Sw"
+      },
+      "artists": [
+        {
+          "name": "Flawless Issues",
+          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156430,
+      "name": "Ghosts in the Valley",
+      "url": "https://open.spotify.com/track/5GplInaCT9hOUW64LPtHvu"
+    },
+    {
+      "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
       },
@@ -968,6 +986,24 @@
       "duration_ms": 168454,
       "name": "Gravedweller",
       "url": "https://open.spotify.com/track/3C5ifDGyh2zsX3Z69S2wBR"
+    },
+    {
+      "album": {
+        "name": "HALLOWEEN",
+        "url": "https://open.spotify.com/album/2uG8ATEHsYpONIbrLGQXHy"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213130,
+      "name": "HALLOWEEN",
+      "url": "https://open.spotify.com/track/62WRRx3LpLMk8eUtKzzCrQ"
     },
     {
       "album": {
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 196893,
       "name": "Halloween Blues",
       "url": "https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9"
@@ -1718,7 +1754,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 138893,
       "name": "Little Ghost",
       "url": "https://open.spotify.com/track/2C4io5FmRKnUo0bA6NAUrd"
@@ -1754,7 +1790,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 300000,
       "name": "Lost In The Night",
       "url": "https://open.spotify.com/track/1PxXhbDslbSNzO1SvqzQ4o"
@@ -1794,6 +1830,28 @@
       "duration_ms": 209040,
       "name": "Meet Ze Monsta",
       "url": "https://open.spotify.com/track/29A28JjjELDyZL1mUekhkC"
+    },
+    {
+      "album": {
+        "name": "Peanuts EP",
+        "url": "https://open.spotify.com/album/4AWfbUBoDN3p3WCjc0z1Sw"
+      },
+      "artists": [
+        {
+          "name": "Flawless Issues",
+          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
+        },
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0cJQkYXQhDnqzhcCAF8PW2"
     },
     {
       "album": {
@@ -2168,7 +2226,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "Right On, Frankenstein!",
       "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
@@ -2384,7 +2442,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 217880,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"
@@ -2528,7 +2586,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "So Haunted",
       "url": "https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5"
@@ -3000,7 +3058,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 281066,
       "name": "Trick or Treatz",
       "url": "https://open.spotify.com/track/6IvJzqlKRjOaJwe85k4PHK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Niis
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,416 likes - 175 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,453 likes - 175 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 174 | [The Scene is Changing](https://open.spotify.com/track/441mZf1RHA1jyL5K3EJTIs) | [Baby Wave](https://open.spotify.com/artist/2InWfiCopgR2razz9odY6K) | [The Scene is Changing](https://open.spotify.com/album/548xoj11XKs1Iuw6APnt36) | 3:46 |
 | 175 | [Crab](https://open.spotify.com/track/7bmmpNsaJxl1Wi4FNobWgw) | [TVOD](https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh) | [The Farm](https://open.spotify.com/album/7L4rmHev0bDisrFvOY8P96) | 2:45 |
 
-Snapshot ID: `AAAAABrX2Y8cnZMfqQWnI4/1dc8nXrCk`
+Snapshot ID: `AAAAAFrACATendWsURQSpRw/Y1KNf1xi`

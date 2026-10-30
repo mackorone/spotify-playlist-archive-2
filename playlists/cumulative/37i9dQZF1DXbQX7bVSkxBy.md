@@ -2,9 +2,9 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover: Mercy Chinwo
+> Raise a voice and testify the goodness of God\.  Cover: Malcolm Rue
 
-621 songs - 2 day 1 hr 7 min
+623 songs - 2 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bo Ta Joor](https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Bo Ta Joor](https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ) | 2:40 | 2023-12-05 | 2023-12-13 |
 | [Boku](https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God, In all Seasons](https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc) | 3:57 | 2026-01-30 | 2026-05-02 |
 | [Bololo](https://open.spotify.com/track/3SMnqyuEfq6HImqbnyAjyG) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Bololo](https://open.spotify.com/album/1TQdxY3YxnwiuxBmDqBTNH) | 2:36 | 2023-12-05 | 2023-12-13 |
+| [BOUNDLESS LOVE](https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [LAMB](https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn) | 2:48 | 2026-10-30 |  |
 | [Breathe](https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 11:36 | 2023-04-07 | 2023-12-30 |
 | [Bye Bye](https://open.spotify.com/track/0q4CLQrdICC3mu073vZyfJ) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [ThisIsPrinx](https://open.spotify.com/album/5pqNbCEWRERViZjzrJS76h) | 2:18 | 2023-12-05 | 2023-12-13 |
 | [Call Me Blessed](https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Call Me Blessed](https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud) | 2:25 | 2024-02-02 | 2024-02-16 |
@@ -378,7 +379,7 @@
 | [My Everything](https://open.spotify.com/track/4Ozmd5V6F6VGrP6YQHkRtJ) | [Chinma Umeh](https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e) | [My Everything](https://open.spotify.com/album/3bjEtHDoI6HvCZHhv9exRL) | 6:41 | 2026-05-22 | 2026-06-13 |
 | [My God Is Good](https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [My God Is Good](https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW) | 9:58 | 2025-08-08 | 2025-09-26 |
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2023-04-07 | 2023-12-30 |
-| [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 | 2026-09-25 |  |
+| [MY GOD, YOU ARE GOOD](https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [MY GOD, YOU ARE GOOD](https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B) | 8:08 | 2026-09-25 | 2026-10-30 |
 | [My Lovaa](https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR) | [My Lovaa](https://open.spotify.com/album/1Kebf3KL7OYy9DMhNETrKk) | 3:27 | 2026-03-13 | 2026-04-03 |
 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 | 2024-03-29 | 2024-04-05 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 | 2023-12-30 |
@@ -427,6 +428,7 @@
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2023-04-07 | 2026-03-18 |
 | [Oluwatosin II](https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Oluwatosin II](https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc) | 10:56 | 2025-09-19 |  |
 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 | 2023-04-07 | 2024-01-19 |
+| [Omemma](https://open.spotify.com/track/22M26W7IWo0P9s0pZWpCLV) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Omemma](https://open.spotify.com/album/1HjiUfZXfkSRAODm9NzK3l) | 4:26 | 2026-10-30 |  |
 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 | 2025-04-18 | 2025-04-22 |
 | [OMG](https://open.spotify.com/track/4ekJe6P8gN8oGg0W43ehiZ) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [OMG](https://open.spotify.com/album/54HjzlHxkRXDOVVLnMRt2G) | 3:05 | 2025-11-07 | 2025-11-22 |
 | [OMG!](https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz) | [Doris Joseph](https://open.spotify.com/artist/2gIZrTYURG6RxnI3mGFHEt), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [OMG!](https://open.spotify.com/album/2N9gSQcUyIPZ2sIfmwiPK6) | 2:46 | 2025-10-17 | 2026-03-27 |
@@ -595,7 +597,7 @@
 | [Yahweh](https://open.spotify.com/track/0nlo6pL1ZqwDmQ9rXctMl9) | [Millicent Yankey](https://open.spotify.com/artist/3deqTqS9xbjPEQ92Dy5teL), [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Yahweh](https://open.spotify.com/album/3Q9SYILIcHt4a6RrHXT9Xb) | 5:23 | 2026-08-21 | 2026-08-28 |
 | [Yahweh](https://open.spotify.com/track/6ZcTz36h42wamrZbhkkEHs) | [Mister Pryz](https://open.spotify.com/artist/5qTx80xfDGeoEIHHHZPlxs) | [Yahweh](https://open.spotify.com/album/3sk94CfJGegKbLuy8m5DSe) | 2:55 | 2024-08-23 | 2024-12-06 |
 | [YAHWEH](https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [YAHWEH](https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP) | 2:36 | 2026-08-28 | 2026-09-18 |
-| [Yahweh](https://open.spotify.com/track/4cnDMiBwVbuZVmS7keEFYn) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yahweh](https://open.spotify.com/album/54mTdYyNY8CeHS6BNzWfbq) | 10:42 | 2026-10-02 |  |
+| [Yahweh](https://open.spotify.com/track/4cnDMiBwVbuZVmS7keEFYn) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yahweh](https://open.spotify.com/album/54mTdYyNY8CeHS6BNzWfbq) | 10:42 | 2026-10-02 | 2026-10-30 |
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 | 2025-05-09 |
 | [YES](https://open.spotify.com/track/3e9GnGjPhfWcG2Bw8wgiBN) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Danielle LaTouche](https://open.spotify.com/artist/4sexZV9stgh3w9OnFbQieQ) | [YES](https://open.spotify.com/album/1vVp9CDY3dwxcFYGfDsWbF) | 4:48 | 2025-03-31 | 2025-04-18 |
 | [Yes And Amen](https://open.spotify.com/track/456ibkFtbcSMfKU6NvhIEW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 8:02 | 2024-03-29 | 2024-04-05 |

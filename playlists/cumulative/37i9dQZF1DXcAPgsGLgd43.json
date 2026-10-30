@@ -2604,7 +2604,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
@@ -5211,6 +5211,28 @@
     },
     {
       "album": {
+        "name": "Guaran\u00ed",
+        "url": "https://open.spotify.com/album/5EU2HVOzO8d48FuXGEoNal"
+      },
+      "artists": [
+        {
+          "name": "Tiffy Vera",
+          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
+        },
+        {
+          "name": "Late London",
+          "url": "https://open.spotify.com/artist/43iXd5vVYg0h1SLO3rA6qz"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Guaran\u00ed",
+      "url": "https://open.spotify.com/track/5F8oLgb0EdWKYtFjFZxEFx"
+    },
+    {
+      "album": {
         "name": "Guaro",
         "url": "https://open.spotify.com/album/3wM8v3A0k73vwEr3xCRALn"
       },
@@ -6392,6 +6414,24 @@
       "duration_ms": 149769,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/1JWCzNYRYMbt8m39RVc0Wd"
+    },
+    {
+      "album": {
+        "name": "La Serpiente EP",
+        "url": "https://open.spotify.com/album/3NjnFPugnz04GTENzmd7w1"
+      },
+      "artists": [
+        {
+          "name": "Amal Nemer",
+          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "La Serpiente",
+      "url": "https://open.spotify.com/track/4vywbkMb3fowMr4XiQgPNB"
     },
     {
       "album": {
@@ -11222,7 +11262,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 162137,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/7xON9mfx7NSK9EAkcAsz0G"

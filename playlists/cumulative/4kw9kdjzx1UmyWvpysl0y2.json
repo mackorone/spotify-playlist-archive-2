@@ -6573,6 +6573,32 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2dau74BAlcFQwKuTSaWSWD"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "Lewis Laite",
+          "url": "https://open.spotify.com/artist/2b0vMnjRQjc7qi7y2lrCfb"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Gwr4P9PsgTF2mzXpehVwi"
+    },
+    {
+      "album": {
         "name": "Doppelleben",
         "url": "https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9"
       },
@@ -21406,6 +21432,28 @@
       "duration_ms": 200787,
       "name": "Sip On This",
       "url": "https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4"
+    },
+    {
+      "album": {
+        "name": "Siren Call",
+        "url": "https://open.spotify.com/album/24XIY7jCUUvipr0fioLJBx"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156004,
+      "name": "Siren Call",
+      "url": "https://open.spotify.com/track/2hFOCvwpyhRuLf5WQJV1Uh"
     },
     {
       "album": {

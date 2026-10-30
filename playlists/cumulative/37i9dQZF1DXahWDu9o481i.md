@@ -4,7 +4,7 @@
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Victony
 
-1,056 songs - 2 day 11 hr 50 min
+1,057 songs - 2 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,6 +679,7 @@
 | [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 | 2025-11-04 | 2025-12-02 |
 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-06-04 | 2025-07-04 |
 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 | 2026-06-01 | 2026-07-02 |
+| [Now I've Got A Lot You Know](https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj) | 5:10 | 2026-10-27 |  |
 | [Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Now I've Got A Lot You Know](https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu) | 5:10 | 2026-09-01 | 2026-10-02 |
 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 | 2025-08-04 | 2025-08-30 |
 | [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 | 2026-03-02 | 2026-04-02 |
@@ -955,7 +956,7 @@
 | [Tracking the Tropics](https://open.spotify.com/track/08VqSre55py2u3WlYSg1Ix) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Tracking the Tropics](https://open.spotify.com/album/4LlZw9oTyPzf0B9znBLizF) | 4:01 | 2026-09-01 | 2026-10-02 |
 | [Training](https://open.spotify.com/track/7c7ceIOFUDHYpIf5z4yYA7) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0), [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Daniel James](https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9) | [Training / Great](https://open.spotify.com/album/1LLOCMDTbW4pgbZRKK2TJS) | 2:00 | 2026-07-01 | 2026-08-04 |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-07-03 | 2025-08-05 |
-| [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 | 2026-10-27 |  |
+| [Trillions](https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Trillions](https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw) | 3:00 | 2026-10-27 | 2026-10-30 |
 | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I) | 2:33 | 2026-09-01 | 2026-10-02 |
 | [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 | 2025-12-01 | 2026-01-15 |
 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 | 2026-04-01 | 2026-05-02 |

@@ -1973,32 +1973,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Piano Concertos Nos.1 & 2",
-        "url": "https://open.spotify.com/album/6VihhA5em01r0pkom28mNb"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Krystian Zimerman",
-          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
-        },
-        {
-          "name": "Polish Festival Orchestra",
-          "url": "https://open.spotify.com/artist/0whBNs0jVwzSnC5hWKRv8Y"
-        }
-      ],
-      "date_added": "2024-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 755000,
-      "name": "Piano Concerto No. 1 in E minor, Op. 11: 2. Romance (Larghetto)",
-      "url": "https://open.spotify.com/track/4czfzwEfUJ8Qx52pYfOOUj"
-    },
-    {
-      "album": {
         "name": "Rubinstein Collection, Vol. 44: All Chopin: Piano Concertos Nos. 1/2; Trois nouvelles etudes, Op. posth.",
         "url": "https://open.spotify.com/album/5pvXSio4z7B7gkN1fMH2kr"
       },
@@ -2026,6 +2000,32 @@
       "duration_ms": 646000,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance. Larghetto",
       "url": "https://open.spotify.com/track/31WC5psMchxL8LHUjfyi0f"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concertos Nos.1 & 2",
+        "url": "https://open.spotify.com/album/6VihhA5em01r0pkom28mNb"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Krystian Zimerman",
+          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+        },
+        {
+          "name": "Polish Festival Orchestra",
+          "url": "https://open.spotify.com/artist/0whBNs0jVwzSnC5hWKRv8Y"
+        }
+      ],
+      "date_added": "2024-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 755000,
+      "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance. Larghetto",
+      "url": "https://open.spotify.com/track/4czfzwEfUJ8Qx52pYfOOUj"
     },
     {
       "album": {

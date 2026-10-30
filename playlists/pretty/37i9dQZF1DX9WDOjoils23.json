@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 46843,
+  "num_followers": 46924,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtdb1MBRwQTuoMLFtIoLdIFW2A8",
+  "snapshot_id": "AAAAAKnZAjvdafQ1Lq4rlhcenCm+iEvK",
   "tracks": [
     {
       "added_at": "2026-10-01 13:03:08",
@@ -271,30 +271,22 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Mahi Milade",
-        "url": "https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx"
+        "name": "Pinjar",
+        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
       },
       "artists": [
         {
-          "name": "GKhan",
-          "url": "https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse"
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
         },
         {
-          "name": "Gurmeet Singh",
-          "url": "https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF"
-        },
-        {
-          "name": "Shehnaz Akhtar",
-          "url": "https://open.spotify.com/artist/7azsQVtLmCegdKPs8a3bpi"
-        },
-        {
-          "name": "Sam Malik",
-          "url": "https://open.spotify.com/artist/3NByI8hP6F55zxdlcHiwXD"
+          "name": "Preeti Uttam",
+          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
         }
       ],
-      "duration_ms": 253779,
-      "name": "Mahi Milade",
-      "url": "https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF"
+      "duration_ms": 543346,
+      "name": "Waris Shah Nu",
+      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -323,46 +315,6 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Pinjar",
-        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        },
-        {
-          "name": "Preeti Uttam",
-          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
-        }
-      ],
-      "duration_ms": 543346,
-      "name": "Waris Shah Nu",
-      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
-        "name": "Ranjha Ranjha",
-        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
-      },
-      "artists": [
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        },
-        {
-          "name": "Noor Mohammad",
-          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
-        }
-      ],
-      "duration_ms": 184295,
-      "name": "Ranjha Ranjha",
-      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
         "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
         "url": "https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL"
       },
@@ -387,6 +339,54 @@
       "duration_ms": 209117,
       "name": "Mere Naal Tu (From \"Saunkan Saunkanay 2\")",
       "url": "https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
+        "name": "Mahi Milade",
+        "url": "https://open.spotify.com/album/7DCqKLlQpvG9GxNw1qrMDx"
+      },
+      "artists": [
+        {
+          "name": "GKhan",
+          "url": "https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse"
+        },
+        {
+          "name": "Gurmeet Singh",
+          "url": "https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF"
+        },
+        {
+          "name": "Shehnaz Akhtar",
+          "url": "https://open.spotify.com/artist/7azsQVtLmCegdKPs8a3bpi"
+        },
+        {
+          "name": "Sam Malik",
+          "url": "https://open.spotify.com/artist/3NByI8hP6F55zxdlcHiwXD"
+        }
+      ],
+      "duration_ms": 253779,
+      "name": "Mahi Milade",
+      "url": "https://open.spotify.com/track/1gLwDAVTqRAOn4pFarYkqF"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
+        "name": "Ranjha Ranjha",
+        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Noor Mohammad",
+          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Ranjha Ranjha",
+      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -635,30 +635,22 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Jogi",
-        "url": "https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb"
+        "name": "Ranjhe",
+        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
       },
       "artists": [
         {
-          "name": "Jyoti Nooran",
-          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+          "name": "Hassrat",
+          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
         },
         {
-          "name": "Harmanjeet Singh",
-          "url": "https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt"
-        },
-        {
-          "name": "Manpreet Singh",
-          "url": "https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg"
-        },
-        {
-          "name": "Beat Minister",
-          "url": "https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH"
+          "name": "HARJINDER JOHAL",
+          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
         }
       ],
-      "duration_ms": 285708,
-      "name": "Jogi",
-      "url": "https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3"
+      "duration_ms": 206895,
+      "name": "Ranjhe",
+      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -699,22 +691,30 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
-        "name": "Ranjhe",
-        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
+        "name": "Jogi",
+        "url": "https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb"
       },
       "artists": [
         {
-          "name": "Hassrat",
-          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
         },
         {
-          "name": "HARJINDER JOHAL",
-          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
+          "name": "Harmanjeet Singh",
+          "url": "https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt"
+        },
+        {
+          "name": "Manpreet Singh",
+          "url": "https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg"
+        },
+        {
+          "name": "Beat Minister",
+          "url": "https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH"
         }
       ],
-      "duration_ms": 206895,
-      "name": "Ranjhe",
-      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
+      "duration_ms": 285708,
+      "name": "Jogi",
+      "url": "https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3"
     },
     {
       "added_at": "2026-10-01 13:03:08",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-10-01 13:03:08",
       "album": {
+        "name": "Ek Buta Ambi Da",
+        "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
+      },
+      "artists": [
+        {
+          "name": "Deedar Singh Pardesi",
+          "url": "https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu"
+        }
+      ],
+      "duration_ms": 431189,
+      "name": "Giya Piplan da Dhal",
+      "url": "https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp"
+    },
+    {
+      "added_at": "2026-10-01 13:03:08",
+      "album": {
         "name": "Deewani",
         "url": "https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 184701,
       "name": "Deewani",
       "url": "https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX"
-    },
-    {
-      "added_at": "2026-10-01 13:03:08",
-      "album": {
-        "name": "Ek Buta Ambi Da",
-        "url": "https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i"
-      },
-      "artists": [
-        {
-          "name": "Deedar Singh Pardesi",
-          "url": "https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu"
-        }
-      ],
-      "duration_ms": 431189,
-      "name": "Giya Piplan da Dhal",
-      "url": "https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp"
     },
     {
       "added_at": "2026-10-01 13:03:08",

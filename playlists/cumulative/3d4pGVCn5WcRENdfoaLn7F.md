@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-451 songs - 1 day 2 hr 59 min
+454 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Gone Awry](https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi) | [Giovanna](https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET) | [Gone Awry](https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5) | 3:52 | 2026-05-21 | 2026-08-08 |
 | [Good Dreams](https://open.spotify.com/track/0z2V3roWgX3rZERtuA6Vrr) | [OvniS](https://open.spotify.com/artist/1rtkMSxBfSbeWPUxsWWUCh) | [Humano\-Alien](https://open.spotify.com/album/6cUJRgKLTiYSKjrb5IFTSJ) | 3:54 | 2025-12-20 | 2026-01-21 |
 | [goodbye](https://open.spotify.com/track/4JaOFKSDjDtEBee1bJOxjI) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [goodbye](https://open.spotify.com/album/0wG69WeVzlbyg2rRCnUQmf) | 3:35 | 2026-02-16 |  |
+| [Goodbye on a High](https://open.spotify.com/track/1Rpf3vtHZIjk8QlfuqFZRA) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Goodbye on a High](https://open.spotify.com/album/4q8q2GmUdveEdHA33E2sb9) | 2:59 | 2026-10-28 |  |
 | [GROWING](https://open.spotify.com/track/33RszjKEEGkz8mvT2D6hcN) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/192wCJGiB81LgOfTQBxlpN) | 2:49 | 2026-03-20 | 2026-04-15 |
 | [Guardians](https://open.spotify.com/track/2pF1KcbsznK4aKyl3qcyi6) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z), [Vallartis](https://open.spotify.com/artist/4qk4tiRxpaEweP7vpg8oFa) | [The Daylight is Gone](https://open.spotify.com/album/3X7oJdPdwMPIkoHb5WIYpZ) | 3:58 | 2026-03-26 | 2026-05-17 |
 | [Guardián](https://open.spotify.com/track/2htQimkUR0Pmgoy2btuzhE) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Guardián](https://open.spotify.com/album/17Z51LeroL1wjzeowHSI1V) | 4:36 | 2026-04-21 | 2026-05-26 |
@@ -337,6 +338,7 @@
 | [She the one](https://open.spotify.com/track/6DGqfNHb3QvSfT8jv514QB) | [Revelt](https://open.spotify.com/artist/0HOgIPjusdkjsU4nbX4sYk) | [She the one](https://open.spotify.com/album/3ll9ABkMvViACUlOVULySz) | 3:33 | 2026-03-21 | 2026-04-15 |
 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-05-18 | 2026-06-14 |
 | [SHIT](https://open.spotify.com/track/6qxZ2hn2HlvmJkQrQwo59t) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [SHIT / you only miss me when im empty](https://open.spotify.com/album/7z0iHOJ2wlWhooEOHYCptP) | 2:33 | 2025-11-12 | 2025-12-06 |
+| [Shore](https://open.spotify.com/track/7APVFRanbYN3p12ykiERSs) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [Shore](https://open.spotify.com/album/4xqU6Iymdrx74JdjCoPfPg) | 3:02 | 2026-10-29 |  |
 | [Si todo sale bien](https://open.spotify.com/track/1Gn9ykSzLlZvaCa1pukJnj) | [Los flashbacks](https://open.spotify.com/artist/7nTHQqaADpTSns4HYfMw1Y) | [Extraños](https://open.spotify.com/album/63KyCcPToU4kF3w03sSZMB) | 2:39 | 2026-04-21 | 2026-05-26 |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Smokky](https://open.spotify.com/track/4EIYedHpU8bSOZzyYL8yA3) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 2:54 | 2026-02-09 | 2026-03-05 |
@@ -363,6 +365,7 @@
 | [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 | 2025-12-30 | 2026-01-21 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-11-21 | 2025-12-12 |
 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 | 2026-03-11 | 2026-04-15 |
+| [Suitcase](https://open.spotify.com/track/59xMzBsmxmXjBdRnPfVU1e) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Suitcase](https://open.spotify.com/album/4wvsj7lHO3PZt9lYYZwSxG) | 5:18 | 2026-10-28 |  |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 |  |
 | [Super 8](https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Super 8](https://open.spotify.com/album/2Nbr2TjNHUruDKEVHmix6a) | 4:08 | 2026-05-25 | 2026-08-08 |
 | [Surrender](https://open.spotify.com/track/5XOraQSzk88vT3orGMofDR) | [Fenix](https://open.spotify.com/artist/2VIZpeJoUKPcl9oU61pf8j) | [Finale](https://open.spotify.com/album/1VQU6mqrk0yC9UffcI6Rj5) | 3:54 | 2026-05-19 | 2026-06-14 |

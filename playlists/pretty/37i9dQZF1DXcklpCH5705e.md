@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Jess Lee 李佳薇
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,151 likes - 65 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,178 likes - 65 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 64 | [原諒我離開](https://open.spotify.com/track/0c7kCBNDlH0xuqg3PPqgAS) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [原諒我離開](https://open.spotify.com/album/7GoM5D9FmX99yNufCuf8By) | 2:49 |
 | 65 | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/track/7fsuhPKDSuyRPTKGDVW975) | [AC](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/album/1TiEJm1FGVxVgJk5oke0ZI) | 3:49 |
 
-Snapshot ID: `AAAAAPiNzY3jjhO+WhOhYohjh1bO9OnL`
+Snapshot ID: `AAAAAE5+qp3pZTUUgxHttEh6Y3Z84szy`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADzqug7Zxp5krt6PKYcOG8X",
+  "snapshot_id": "at/pgAAAAACenpNbLIkfXC++pKitTAKf",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/761wHjP1czD9swYSbsQzrv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
         "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 174173,
       "name": "Eve, Psyche & the Bluebeard\u2019s wife - Rina Sawayama Remix",
       "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/761wHjP1czD9swYSbsQzrv"
     },
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enter Sandman",
-        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
       },
       "artists": [
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Coco Morier",
+          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
         }
       ],
-      "duration_ms": 333880,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+      "duration_ms": 106832,
+      "name": "Bees & Honey - Bonus Track",
+      "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
     },
     {
       "added_at": null,
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAWAYAMA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
       },
       "artists": [
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Coco Morier",
-          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
         }
       ],
-      "duration_ms": 106832,
-      "name": "Bees & Honey - Bonus Track",
-      "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
+      "duration_ms": 333880,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
     },
     {
       "added_at": null,

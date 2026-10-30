@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2577,
+  "num_followers": 2581,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEqJaXgcSOitO0rd2mN6PTlyDEHM",
+  "snapshot_id": "AAAAAL4Z4tdfVrsCKOQ4psvTg5Z49elK",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -427,18 +427,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "M\u00fasica Infantil para Fiestas: Canciones para Bailar Ni\u00f1os y Padres",
-        "url": "https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT"
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
       },
       "artists": [
         {
-          "name": "La Banda de Carmen",
-          "url": "https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 173567,
-      "name": "Mueve el Ombligo",
-      "url": "https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx"
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -459,18 +459,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La Casita de Patylu",
-        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+        "name": "M\u00fasica Infantil para Fiestas: Canciones para Bailar Ni\u00f1os y Padres",
+        "url": "https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+          "name": "La Banda de Carmen",
+          "url": "https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8"
         }
       ],
-      "duration_ms": 234880,
-      "name": "La Bruja de Nueva York",
-      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+      "duration_ms": 173567,
+      "name": "Mueve el Ombligo",
+      "url": "https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -511,38 +511,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Bajo El Mar",
-      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Canci\u00f3n de las Brujas - Remasterizado",
-      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Mejores Amigos",
         "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
@@ -563,6 +531,38 @@
       "duration_ms": 160640,
       "name": "Patos al Agua",
       "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Canci\u00f3n de las Brujas - Remasterizado",
+      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Bajo El Mar",
+      "url": "https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -599,6 +599,30 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        },
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "La Feria de Cepill\u00edn",
+      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Vacaciones \u00a1Tope guay!",
         "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
       },
@@ -627,30 +651,6 @@
       "duration_ms": 212520,
       "name": "En Mi Mundo - From \"Violetta\" Music from the TV Series",
       "url": "https://open.spotify.com/track/1GJqULuKQWN1ltMEOJuhes"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        },
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "La Feria de Cepill\u00edn",
-      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 69870,
-      "name": "\u00a1Qu\u00e9 empiece ya!",
-      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 175328,
       "name": "Vamos a Jugar",
       "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 69870,
+      "name": "\u00a1Qu\u00e9 empiece ya!",
+      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Vacaciones tope guay",
-        "url": "https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "Vacaciones tope guay",
-      "url": "https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 156453,
       "name": "Osito Carpintero",
       "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Vacaciones tope guay",
+        "url": "https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "Vacaciones tope guay",
+      "url": "https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
-        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
-      },
-      "artists": [
-        {
-          "name": "Maria Gabriela de Faria",
-          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
-        }
-      ],
-      "duration_ms": 193109,
-      "name": "Ritmo Rob\u00f3tico",
-      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 184231,
       "name": "Garabato Colorado",
       "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
+        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
+      },
+      "artists": [
+        {
+          "name": "Maria Gabriela de Faria",
+          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
+        }
+      ],
+      "duration_ms": 193109,
+      "name": "Ritmo Rob\u00f3tico",
+      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
     },
     {
       "added_at": "2020-04-27 15:43:16",

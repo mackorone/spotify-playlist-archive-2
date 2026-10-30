@@ -1,12 +1,12 @@
 {
   "description": "salgada a pista t\u00e1, n\u00e9? \ud83c\udf1a",
-  "num_followers": 1428046,
+  "num_followers": 1427852,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH2gUbxHACFoX1Hos49k3zkHbCMq",
+  "snapshot_id": "AAAAALwVrfkDAr4ErZ1t1iUWbpFr8I94",
   "tracks": [
     {
       "added_at": "2026-10-27 12:55:20",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-10-27 12:55:20",
       "album": {
+        "name": "EU TE BUSCO \u00c0S 6",
+        "url": "https://open.spotify.com/album/5fnWHCNRiUMvTEIx8ByJYC"
+      },
+      "artists": [
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "EU TE BUSCO \u00c0S 6",
+      "url": "https://open.spotify.com/track/0I9gm7sCtIJYdYBTY6e9ps"
+    },
+    {
+      "added_at": "2026-10-27 12:55:20",
+      "album": {
         "name": "THE BOX MEDLEY FUNK 11",
         "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 136320,
       "name": "Dentro da Sua",
       "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
-    },
-    {
-      "added_at": "2026-10-27 12:55:20",
-      "album": {
-        "name": "EU TE BUSCO \u00c0S 6",
-        "url": "https://open.spotify.com/album/5fnWHCNRiUMvTEIx8ByJYC"
-      },
-      "artists": [
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "EU TE BUSCO \u00c0S 6",
-      "url": "https://open.spotify.com/track/0I9gm7sCtIJYdYBTY6e9ps"
     },
     {
       "added_at": "2026-10-27 12:55:20",
@@ -915,30 +915,6 @@
     {
       "added_at": "2026-10-27 12:55:20",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
-    },
-    {
-      "added_at": "2026-10-27 12:55:20",
-      "album": {
         "name": "SymSesh #002 - Piranha Sexy",
         "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
       },
@@ -967,6 +943,30 @@
     {
       "added_at": "2026-10-27 12:55:20",
       "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
+    },
+    {
+      "added_at": "2026-10-27 12:55:20",
+      "album": {
         "name": "Advinha o CEP",
         "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
       },
@@ -991,6 +991,30 @@
       "duration_ms": 131368,
       "name": "Advinha o CEP",
       "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
+    },
+    {
+      "added_at": "2026-10-27 12:55:20",
+      "album": {
+        "name": "Cicatrizes, Vol. 1",
+        "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "VAI TOMANDO",
+      "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
     },
     {
       "added_at": "2026-10-27 12:55:20",
@@ -1059,30 +1083,6 @@
       "duration_ms": 354461,
       "name": "AQUI \u00c9 BRASIL",
       "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
-    },
-    {
-      "added_at": "2026-10-27 12:55:20",
-      "album": {
-        "name": "Cicatrizes, Vol. 1",
-        "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
-      },
-      "artists": [
-        {
-          "name": "LX",
-          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "VAI TOMANDO",
-      "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
     },
     {
       "added_at": "2026-10-27 12:55:20",

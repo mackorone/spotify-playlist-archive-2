@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 245336,
       "name": "My Endeavour",
       "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
@@ -9338,6 +9338,24 @@
       "duration_ms": 236666,
       "name": "Someone to Love",
       "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
+    },
+    {
+      "album": {
+        "name": "Something Kinda Strange",
+        "url": "https://open.spotify.com/album/00V5FnlwyJVDGIDgL6mJVm"
+      },
+      "artists": [
+        {
+          "name": "Benedict Cork",
+          "url": "https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178425,
+      "name": "Something Kinda Strange",
+      "url": "https://open.spotify.com/track/5VOLcjt7HsECg5lER5XTAx"
     },
     {
       "album": {

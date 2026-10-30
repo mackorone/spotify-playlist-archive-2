@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Leo Middea",
-  "num_followers": 352936,
+  "num_followers": 352916,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAETlHA7TtJy9sm7VVL8TpER5rmiv",
+  "snapshot_id": "AAAAAELL7jYMgqelKLPPAtcBUsKkJD/a",
   "tracks": [
     {
       "added_at": "2026-10-23 15:36:01",
@@ -235,6 +235,26 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 259406,
+      "name": "Quando Chego",
+      "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
         "name": "Amigos Novos e Antigos",
         "url": "https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 276013,
       "name": "Amigos Novos e Antigos",
       "url": "https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 259406,
-      "name": "Quando Chego",
-      "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Leo Jaime - As Mais Pedidas",
-        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
-      },
-      "artists": [
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
         "name": "Pra Ter Fim",
         "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 204177,
       "name": "Pra Ter Fim",
       "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
+        "name": "Leo Jaime - As Mais Pedidas",
+        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "ContraTempo",
-        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 192519,
-      "name": "Sinto",
-      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
         "name": "1\u00b0 Ato (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
       },
@@ -527,22 +507,22 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Jo\u00e3o",
-        "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
+        "name": "ContraTempo",
+        "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
       },
       "artists": [
         {
-          "name": "C\u00e9zar Mendes",
-          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
         },
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 214831,
-      "name": "Jo\u00e3o",
-      "url": "https://open.spotify.com/track/4rfBy8eeyvMaaXbuWjIkBe"
+      "duration_ms": 192519,
+      "name": "Sinto",
+      "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -567,6 +547,42 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
+        "name": "Cada L\u00e1grima",
+        "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
+      },
+      "artists": [
+        {
+          "name": "Tom Ribeira",
+          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Cada L\u00e1grima",
+      "url": "https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
+        "name": "Jo\u00e3o",
+        "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9zar Mendes",
+          "url": "https://open.spotify.com/artist/7qfp2YUHGZ6mgcJzk4iMIP"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "Jo\u00e3o",
+      "url": "https://open.spotify.com/track/4rfBy8eeyvMaaXbuWjIkBe"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
         "name": "Perfei\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
       },
@@ -583,6 +599,26 @@
       "duration_ms": 250880,
       "name": "Perfei\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
+        "name": "Estrela Do Meu Show",
+        "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 246835,
+      "name": "Estrela Do Meu Show",
+      "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -607,26 +643,6 @@
       "duration_ms": 260603,
       "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
       "url": "https://open.spotify.com/track/4k80imJJqnVRDxpc1O0Y1a"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
-        "name": "Estrela Do Meu Show",
-        "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 246835,
-      "name": "Estrela Do Meu Show",
-      "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -671,6 +687,22 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
+        "name": "Uirapuru",
+        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        }
+      ],
+      "duration_ms": 102143,
+      "name": "Uirapuru",
+      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
         "name": "3\u00b0 Ato (Ao Vivo)",
         "url": "https://open.spotify.com/album/5yKxd23TajUzOHj7WAzQXu"
       },
@@ -687,22 +719,6 @@
       "duration_ms": 255633,
       "name": "Parabelo da Exist\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/7mHbSSMb2B3VPMEWQVKAiP"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
-        "name": "Uirapuru",
-        "url": "https://open.spotify.com/album/0kIt3JewcAw0yHMAHfmzsL"
-      },
-      "artists": [
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 102143,
-      "name": "Uirapuru",
-      "url": "https://open.spotify.com/track/0g0D5vPj0f3a0IX4Ji6KrJ"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -727,18 +743,30 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Cada L\u00e1grima",
-        "url": "https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3"
+        "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
+        "url": "https://open.spotify.com/album/2gz25YLpqxjbkZhpcMiquh"
       },
       "artists": [
         {
-          "name": "Tom Ribeira",
-          "url": "https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY"
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        },
+        {
+          "name": "Maria Beraldo",
+          "url": "https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW"
+        },
+        {
+          "name": "Teco Cardoso",
+          "url": "https://open.spotify.com/artist/2vFu2RmcRZ8Gi0vl1t3BEr"
         }
       ],
-      "duration_ms": 218333,
-      "name": "Cada L\u00e1grima",
-      "url": "https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm"
+      "duration_ms": 191792,
+      "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
+      "url": "https://open.spotify.com/track/5bCXKLqLtAsXuBwnlfRt70"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -755,26 +783,6 @@
       "duration_ms": 193500,
       "name": "Teia",
       "url": "https://open.spotify.com/track/7JMMxmBYUWcEVMCUuIgsnz"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
-        "name": "2\u00b0 Ato (Ao Vivo)",
-        "url": "https://open.spotify.com/album/18s02AHo46FLp2HBvomNhx"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Orquestra Sesiminas",
-          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "Urmininu - Ao Vivo",
-      "url": "https://open.spotify.com/track/0FPHKZwjqOIdqx6IGSW0I0"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -823,30 +831,22 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
-        "url": "https://open.spotify.com/album/2gz25YLpqxjbkZhpcMiquh"
+        "name": "2\u00b0 Ato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/18s02AHo46FLp2HBvomNhx"
       },
       "artists": [
         {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         },
         {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        },
-        {
-          "name": "Maria Beraldo",
-          "url": "https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW"
-        },
-        {
-          "name": "Teco Cardoso",
-          "url": "https://open.spotify.com/artist/2vFu2RmcRZ8Gi0vl1t3BEr"
+          "name": "Orquestra Sesiminas",
+          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
         }
       ],
-      "duration_ms": 191792,
-      "name": "PROPOSTA PARA UM ESTADO CR\u00cdTICO",
-      "url": "https://open.spotify.com/track/5bCXKLqLtAsXuBwnlfRt70"
+      "duration_ms": 179487,
+      "name": "Urmininu - Ao Vivo",
+      "url": "https://open.spotify.com/track/0FPHKZwjqOIdqx6IGSW0I0"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Quase uma trai\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7uo4oqQbCn8fHb4FSm7yHl"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Quase uma trai\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6xFjoyv5tCdbvrH2gMeZmy"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
         "name": "Garotos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
+        "name": "Quase uma trai\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7uo4oqQbCn8fHb4FSm7yHl"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Quase uma trai\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6xFjoyv5tCdbvrH2gMeZmy"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
         "name": "Reconstruir / Mancha de Dend\u00ea",
         "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
       },
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Nave Luz",
-        "url": "https://open.spotify.com/album/1q1EQFIMVGoOcjuPJdnLZw"
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
       "artists": [
         {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
-        },
-        {
-          "name": "Mestre Anderson Miguel",
-          "url": "https://open.spotify.com/artist/2A5yczeZxYgxtjZENNKp5o"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 254500,
-      "name": "Ci\u00eancia",
-      "url": "https://open.spotify.com/track/2WoXB1yitKjWPziYhOJ3xN"
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -1055,38 +1051,22 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+        "name": "Nave Luz",
+        "url": "https://open.spotify.com/album/1q1EQFIMVGoOcjuPJdnLZw"
       },
       "artists": [
         {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
-        "name": "Gol de Quem? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jqMI0S8Nwgpzs36a3D3S8"
-      },
-      "artists": [
-        {
-          "name": "Pato Fu",
-          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
         },
         {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+          "name": "Mestre Anderson Miguel",
+          "url": "https://open.spotify.com/artist/2A5yczeZxYgxtjZENNKp5o"
         }
       ],
-      "duration_ms": 187415,
-      "name": "Qualquer Bobagem - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nnMIioa5nnMMjoXBzu7Hc"
+      "duration_ms": 254500,
+      "name": "Ci\u00eancia",
+      "url": "https://open.spotify.com/track/2WoXB1yitKjWPziYhOJ3xN"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -1103,22 +1083,6 @@
       "duration_ms": 179029,
       "name": "N\u00e3o Sento \u00e0 Mesa",
       "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
-        "name": "Salvador",
-        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
-      },
-      "artists": [
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Salvador",
-      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -1143,6 +1107,26 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
+        "name": "Gol de Quem? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jqMI0S8Nwgpzs36a3D3S8"
+      },
+      "artists": [
+        {
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        },
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Qualquer Bobagem - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nnMIioa5nnMMjoXBzu7Hc"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
         "name": "Flor",
         "url": "https://open.spotify.com/album/4CpygNo6hhtstE5OKqXJBt"
       },
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Minha Pele",
-        "url": "https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu"
+        "name": "Salvador",
+        "url": "https://open.spotify.com/album/5nus9ry9wWPu7I8Kz2mtVr"
       },
       "artists": [
         {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        },
-        {
-          "name": "Vanessa Moreno",
-          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
         }
       ],
-      "duration_ms": 264993,
-      "name": "Ser \u00c1gua",
-      "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
+      "duration_ms": 151800,
+      "name": "Salvador",
+      "url": "https://open.spotify.com/track/563tt8KfkDb3FFhPCSl4em"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -1195,6 +1175,26 @@
       "duration_ms": 218651,
       "name": "NORTEAR",
       "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
+        "name": "Minha Pele",
+        "url": "https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        },
+        {
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+        }
+      ],
+      "duration_ms": 264993,
+      "name": "Ser \u00c1gua",
+      "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Vila Madalena",
-        "url": "https://open.spotify.com/album/0D4bZ7N4UivEhWt734dPeA"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Catan",
-          "url": "https://open.spotify.com/artist/7jnGj8x2qSjMqMMHXhklny"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 253012,
-      "name": "Vila Madalena",
-      "url": "https://open.spotify.com/track/3i4y5JQQLk3rhjMOSwykxS"
-    },
-    {
-      "added_at": "2026-10-23 15:36:01",
-      "album": {
         "name": "N\u00d3S",
         "url": "https://open.spotify.com/album/2DTb4PV6ULoaHWgRJ2Xauh"
       },
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
+        "name": "Vila Madalena",
+        "url": "https://open.spotify.com/album/0D4bZ7N4UivEhWt734dPeA"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Catan",
+          "url": "https://open.spotify.com/artist/7jnGj8x2qSjMqMMHXhklny"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 253012,
+      "name": "Vila Madalena",
+      "url": "https://open.spotify.com/track/3i4y5JQQLk3rhjMOSwykxS"
+    },
+    {
+      "added_at": "2026-10-23 15:36:01",
+      "album": {
         "name": "Relevuras",
         "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
       },
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Meus Olhos",
-        "url": "https://open.spotify.com/album/5lGcU56YCUumpmNj3V2Axv"
+        "name": "Feira de Mangaio",
+        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
       },
       "artists": [
         {
-          "name": "Lud Mazzucatti",
-          "url": "https://open.spotify.com/artist/5UO9TQYbWYGDoG5eVAPpzH"
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
         }
       ],
-      "duration_ms": 202837,
-      "name": "Verde em Mim",
-      "url": "https://open.spotify.com/track/576twieNfCtHJmHHw5VXyZ"
+      "duration_ms": 133566,
+      "name": "Feira de Mangaio",
+      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
     },
     {
       "added_at": "2026-10-23 15:36:01",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-10-23 15:36:01",
       "album": {
-        "name": "Feira de Mangaio",
-        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/5lGcU56YCUumpmNj3V2Axv"
       },
       "artists": [
         {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+          "name": "Lud Mazzucatti",
+          "url": "https://open.spotify.com/artist/5UO9TQYbWYGDoG5eVAPpzH"
         }
       ],
-      "duration_ms": 133566,
-      "name": "Feira de Mangaio",
-      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
+      "duration_ms": 202837,
+      "name": "Verde em Mim",
+      "url": "https://open.spotify.com/track/576twieNfCtHJmHHw5VXyZ"
     },
     {
       "added_at": "2026-10-23 15:36:01",

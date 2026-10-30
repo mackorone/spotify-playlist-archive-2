@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,677 likes - 195 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,495 likes - 195 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 194 | [Evanescent](https://open.spotify.com/track/5erD4kHWNnXpuvZsrSIwcl) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Evanescent](https://open.spotify.com/album/7uttrhAjW7Q4ERfMGDfq7c) | 2:34 |
 | 195 | [Vega](https://open.spotify.com/track/6pFtrsNpuLtX0yYm6sQrpq) | [Circumvenio](https://open.spotify.com/artist/6vP0W1WisgwHQBBIZf1gH7) | [Vega](https://open.spotify.com/album/25oQiUUuUTm9pClKsdcioy) | 3:12 |
 
-Snapshot ID: `AAAAAFTEvtNuWmGRKIDmfGCxSMqw/8DJ`
+Snapshot ID: `AAAAALb5lnvj3lqNgcNgVu00GcMvh9JH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,872 likes - 170 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,721 likes - 170 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 169 | [Arcturus](https://open.spotify.com/track/5HG4EDpa2aPLh8pV2kFnIe) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Arcturus](https://open.spotify.com/album/5YRPVo40rHlKswkWGOGZgn) | 2:27 |
 | 170 | [Mellow](https://open.spotify.com/track/1Hr9BpiwzenH9ud7CCRMWc) | [The Inner Room](https://open.spotify.com/artist/6WmBCblpdv77KDcPD0e8KP) | [Mellow](https://open.spotify.com/album/04XaMNX4xsrae0P2s2s0Lh) | 2:25 |
 
-Snapshot ID: `AAAAAJIGWoZtba57MtJwe70krP3vCgrY`
+Snapshot ID: `AAAAAN/+sLw+1pOE0wDwylBa20A28CfB`

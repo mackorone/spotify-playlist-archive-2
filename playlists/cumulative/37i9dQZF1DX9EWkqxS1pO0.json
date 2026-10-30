@@ -560,7 +560,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 191483,
       "name": "Avc\u0131",
       "url": "https://open.spotify.com/track/2kW0o6GMI6vrrMZMVrwQU8"
@@ -4936,6 +4936,24 @@
       "duration_ms": 154960,
       "name": "o bi' ba\u015fka",
       "url": "https://open.spotify.com/track/2b7zktvPnAnWSRKJ3gNB84"
+    },
+    {
+      "album": {
+        "name": "okey",
+        "url": "https://open.spotify.com/album/1iMWpXaf8oF9gAb1MzB4tt"
+      },
+      "artists": [
+        {
+          "name": "Akif Alkan",
+          "url": "https://open.spotify.com/artist/0qPm0FQNpJbayQBGybIDol"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "okey",
+      "url": "https://open.spotify.com/track/4hZZ30d8BEPddihXrzSy8u"
     },
     {
       "album": {

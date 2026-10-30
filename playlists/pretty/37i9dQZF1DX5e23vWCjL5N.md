@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Fibra e Neffa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,764 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,757 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 99 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 |
 | 100 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:59 |
 
-Snapshot ID: `AAAAAD+wQuM28exq+PjQCOSCPK171alx`
+Snapshot ID: `AAAAAGV4e6G+5wzKD7n7G1waKtK4iu/y`

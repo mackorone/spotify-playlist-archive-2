@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Zain Zohaib
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,287 likes - 99 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,610 likes - 99 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 98 | [HOME](https://open.spotify.com/track/1lKjz4ecFHCydf5LHuKJyh) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [DESIGNERR](https://open.spotify.com/album/3Q6zHKdDeKQyTMheRJlReO) | 4:36 |
 | 99 | [Guzarish](https://open.spotify.com/track/45Gi7lLR8VI4hFyPeJpxH3) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Guzarish](https://open.spotify.com/album/2YeoLVaz3FRi1RvQmyVhMN) | 4:48 |
 
-Snapshot ID: `AAAAAEgiprrCcDL/i5neQB/JvCI0VnHi`
+Snapshot ID: `AAAAAA30xSepojfya4s99EtJQxMKPU97`

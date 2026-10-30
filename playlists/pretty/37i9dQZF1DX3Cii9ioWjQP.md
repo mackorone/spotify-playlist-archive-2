@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Maria Kim\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,678 likes - 48 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,720 likes - 48 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 47 | [Jazz Cats](https://open.spotify.com/track/6xtFuRnxG73wkslu4Lzt6C) | [Park Sang A](https://open.spotify.com/artist/6tCEbTm5L16Cf7CdxQnIUD) | [JAZZ CATS](https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG) | 3:40 |
 | 48 | [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 |
 
-Snapshot ID: `AAAAADydzTiFu/IK73ujJc99F3OZqhhG`
+Snapshot ID: `AAAAANP5uqLY0L+MJfZnZ2hZIaxmRWYD`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: The Opposites",
+  "description": "Frisse Nederlandse pop. Cover: MEAU",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1646,6 +1646,24 @@
       "duration_ms": 209387,
       "name": "Alles Wat Ik Weet",
       "url": "https://open.spotify.com/track/7iBDJR0DF3y3FNY5w1lMtP"
+    },
+    {
+      "album": {
+        "name": "Alles Wat Ik Wil",
+        "url": "https://open.spotify.com/album/34n69oaIPTCbl4KjYugNC6"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200823,
+      "name": "Alles Wat Ik Wil",
+      "url": "https://open.spotify.com/track/3BhRPtVVQ4LMcpbnRZGBQi"
     },
     {
       "album": {
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 167771,
       "name": "Contactloos",
       "url": "https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN"
@@ -12522,7 +12540,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 197229,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi"
@@ -13406,6 +13424,24 @@
       "duration_ms": 160000,
       "name": "Kapot",
       "url": "https://open.spotify.com/track/6a6RwdVkTtsjF15DCfi4Wz"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6Gs0vdXD7eSA78AKOEr9vT"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196449,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4iLk5iLSNkdUNtEfezfIhS"
     },
     {
       "album": {
@@ -17239,6 +17275,24 @@
     },
     {
       "album": {
+        "name": "eenwieler",
+        "url": "https://open.spotify.com/album/31W1rmurzXZ9TxDHPD6tn6"
+      },
+      "artists": [
+        {
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173801,
+      "name": "Naarden-Bussum",
+      "url": "https://open.spotify.com/track/6qDIQSFrdPIdXJG8EhTt6m"
+    },
+    {
+      "album": {
         "name": "Nachtregen",
         "url": "https://open.spotify.com/album/2ziSzJWGO57AZXW05zkOJi"
       },
@@ -19115,6 +19169,24 @@
     },
     {
       "album": {
+        "name": "Ook Al Past Het Niet",
+        "url": "https://open.spotify.com/album/5F1AGl8AuJvH193tkcU4vt"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183642,
+      "name": "Ook Al Past Het Niet",
+      "url": "https://open.spotify.com/track/7bJdzwoNx3v7el7E6nljDI"
+    },
+    {
+      "album": {
         "name": "Oost West Thuis Best",
         "url": "https://open.spotify.com/album/2xseLpSW6QIfvmXtRlMFya"
       },
@@ -19710,7 +19782,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 239424,
       "name": "Passie",
       "url": "https://open.spotify.com/track/0FfFpBiLKxAnoUx2PYeVua"
@@ -19732,7 +19804,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 240042,
       "name": "Patronen",
       "url": "https://open.spotify.com/track/5AfyTEjCIe7A774ZRkD326"
@@ -20654,6 +20726,24 @@
       "duration_ms": 189215,
       "name": "Rood Licht",
       "url": "https://open.spotify.com/track/26zU9nsY6hlPUAjb4PsRsb"
+    },
+    {
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/4XJ8X6FdOLiZSDHX4wDeAg"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221990,
+      "name": "Rookgordijn",
+      "url": "https://open.spotify.com/track/0O7wIeAFiCc5FqmIuT68rd"
     },
     {
       "album": {
@@ -22033,6 +22123,28 @@
     },
     {
       "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169852,
+      "name": "Spijt Komt Later",
+      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
+    },
+    {
+      "album": {
         "name": "Sprakeloos",
         "url": "https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z"
       },
@@ -22204,6 +22316,24 @@
       "duration_ms": 203437,
       "name": "Stiekem",
       "url": "https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em"
+    },
+    {
+      "album": {
+        "name": "Stiekem",
+        "url": "https://open.spotify.com/album/5q7alv6gzDpj0I05FKyhpu"
+      },
+      "artists": [
+        {
+          "name": "Roeland Beelen",
+          "url": "https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Stiekem",
+      "url": "https://open.spotify.com/track/0i5m88E5qthJl3UEuYLfQ5"
     },
     {
       "album": {
@@ -25716,7 +25846,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 165656,
       "name": "Wacht even",
       "url": "https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G"
@@ -25764,6 +25894,24 @@
       "duration_ms": 137277,
       "name": "Wacht Op Mij",
       "url": "https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK"
+    },
+    {
+      "album": {
+        "name": "Wagenziek",
+        "url": "https://open.spotify.com/album/30TH5fJAP6TdaYkPF6D8b7"
+      },
+      "artists": [
+        {
+          "name": "FAY",
+          "url": "https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Wagenziek",
+      "url": "https://open.spotify.com/track/5iX1R02Pg6Cxl2HRdoquPX"
     },
     {
       "album": {
@@ -26545,6 +26693,24 @@
     },
     {
       "album": {
+        "name": "Wees Voorzichtig Met Mijn Hart",
+        "url": "https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188310,
+      "name": "Wees Voorzichtig Met Mijn Hart",
+      "url": "https://open.spotify.com/track/7gKc80RPemdMXkjvMW6bUc"
+    },
+    {
+      "album": {
         "name": "Weg met jou",
         "url": "https://open.spotify.com/album/18CMxSZNBkGo7BqDoWIkuA"
       },
@@ -26578,6 +26744,24 @@
       "duration_ms": 167000,
       "name": "Welkom Bij Mij",
       "url": "https://open.spotify.com/track/1hXUCUtghj8SY82qc2nWJO"
+    },
+    {
+      "album": {
+        "name": "wereld op z\u2019n kop",
+        "url": "https://open.spotify.com/album/0YfnobRzZiUlU16fZkG2eT"
+      },
+      "artists": [
+        {
+          "name": "milo3",
+          "url": "https://open.spotify.com/artist/4GjsxBx6dxRn5JQNjPyuhk"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198398,
+      "name": "wereld op z\u2019n kop",
+      "url": "https://open.spotify.com/track/4lGSkwQOJCij9QUzyOb8m8"
     },
     {
       "album": {
@@ -27349,6 +27533,24 @@
     },
     {
       "album": {
+        "name": "AAAAAH!",
+        "url": "https://open.spotify.com/album/2p0B6TBaZNJdX1KiGyBjTD"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170119,
+      "name": "Zie Je Mij?",
+      "url": "https://open.spotify.com/track/2wpcbUpCmyjNzSfKXuB8qK"
+    },
+    {
+      "album": {
         "name": "Zie jij het ook",
         "url": "https://open.spotify.com/album/4C2NAdpmvnaobYuIYWPG3s"
       },
@@ -27396,7 +27598,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 143200,
       "name": "Zij",
       "url": "https://open.spotify.com/track/6msxpMjVpOQDSWMKuNE3PN"

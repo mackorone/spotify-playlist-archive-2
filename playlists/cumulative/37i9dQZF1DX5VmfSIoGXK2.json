@@ -3127,6 +3127,28 @@
     },
     {
       "album": {
+        "name": "Luxurious (House Rework)",
+        "url": "https://open.spotify.com/album/0FxqP23NO9WYy3sbNxOyRF"
+      },
+      "artists": [
+        {
+          "name": "neebs.",
+          "url": "https://open.spotify.com/artist/7tcREkCoRKAeiQdSD4XIIW"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204707,
+      "name": "Luxurious - House Rework",
+      "url": "https://open.spotify.com/track/42qvrJySg8YwzwPmFQrEPp"
+    },
+    {
+      "album": {
         "name": "Make it happen.",
         "url": "https://open.spotify.com/album/36ECaKImuhB7t2nUbjjyDj"
       },
@@ -4328,7 +4350,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 280000,
       "name": "rest",
       "url": "https://open.spotify.com/track/61EB06W5tI4TPL7qTnKYsQ"
@@ -4394,6 +4416,28 @@
       "duration_ms": 135126,
       "name": "roma to paris to jozi",
       "url": "https://open.spotify.com/track/5oXdet7tsBaQjcfKBSSHxR"
+    },
+    {
+      "album": {
+        "name": "Rue Madame",
+        "url": "https://open.spotify.com/album/7FsUrqxxzWwy5MogCSk69W"
+      },
+      "artists": [
+        {
+          "name": "St-Amour",
+          "url": "https://open.spotify.com/artist/3GNaIZwqkfWnV63SE8nr96"
+        },
+        {
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Rue Madame",
+      "url": "https://open.spotify.com/track/2J8BxLXFWWNJSeEbN2bXBv"
     },
     {
       "album": {
@@ -4858,7 +4902,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 330240,
       "name": "Sunday Morning Grease",
       "url": "https://open.spotify.com/track/3RpXPxrRRYZpKlPCTIxgBH"

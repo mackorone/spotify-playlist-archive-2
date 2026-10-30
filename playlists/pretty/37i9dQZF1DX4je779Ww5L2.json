@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190023,
+  "num_followers": 190005,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOpuw75xwuotrBqO22e8v6nBaRLw",
+  "snapshot_id": "AAAAAJirRrUw/MeKdiUDFFYnadFixeso",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:37",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 263422,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "22 Durnham Dew",
         "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 195532,
       "name": "Do No Harm (feat. Baby Rose)",
       "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
-        "name": "For Mary",
-        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 263422,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/49VfcjjkNQA822cDE1r5iy"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "What Takes You Back",
-        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
-      },
-      "artists": [
-        {
-          "name": "Zachary Bloemperk",
-          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
-        }
-      ],
-      "duration_ms": 275166,
-      "name": "What Takes You Back",
-      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "All That We Are",
         "url": "https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 204250,
       "name": "All That We Are",
       "url": "https://open.spotify.com/track/2oXRZaEegYDvZxozbDtgcW"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "What Takes You Back",
+        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
+      },
+      "artists": [
+        {
+          "name": "Zachary Bloemperk",
+          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
+        }
+      ],
+      "duration_ms": 275166,
+      "name": "What Takes You Back",
+      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "Richardson (feat. Cassandra Jenkins)",
+        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        },
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Richardson - feat. Cassandra Jenkins",
+      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "walk the line",
         "url": "https://open.spotify.com/album/3ix30TIxlRGD2wN5xUofq8"
       },
@@ -831,22 +851,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Richardson (feat. Cassandra Jenkins)",
-        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
+        "name": "Mr. Beckett",
+        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
       },
       "artists": [
         {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        },
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Richardson - feat. Cassandra Jenkins",
-      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+      "duration_ms": 223973,
+      "name": "Mr. Beckett",
+      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -863,22 +879,6 @@
       "duration_ms": 192374,
       "name": "Paul",
       "url": "https://open.spotify.com/track/6m3q1zmQ9WMQbha9BH6gpn"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
-        "name": "Mr. Beckett",
-        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
-      },
-      "artists": [
-        {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Mr. Beckett",
-      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Muddy Water",
-        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
-      },
-      "artists": [
-        {
-          "name": "DeNohr",
-          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 209237,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Muddy Water",
+        "url": "https://open.spotify.com/album/3OqleLKbKnHusFl4PP6Acl"
+      },
+      "artists": [
+        {
+          "name": "DeNohr",
+          "url": "https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/6yaEI01vBs2PDDrpmkwe94"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
-      },
-      "artists": [
-        {
-          "name": "RAMAN.",
-          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
-        }
-      ],
-      "duration_ms": 308293,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "At The Party",
         "url": "https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
+      },
+      "artists": [
+        {
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+        }
+      ],
+      "duration_ms": 308293,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "Leaving - Reminisce",
         "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
       },
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Try Try Try (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mie Wolfs",
-          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
-        }
-      ],
-      "duration_ms": 179981,
-      "name": "Try Try Try - Acoustic Version",
-      "url": "https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Rush Hour Traffic",
         "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 264346,
       "name": "Rush Hour Traffic",
       "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Try Try Try (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mie Wolfs",
+          "url": "https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo"
+        }
+      ],
+      "duration_ms": 179981,
+      "name": "Try Try Try - Acoustic Version",
+      "url": "https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 221373,
       "name": "I do",
       "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 204047,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Kaleidoscope Eyes",
         "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 238542,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "duration_ms": 204047,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "The Moon Is Going For A Swim",
+        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
+      },
+      "artists": [
+        {
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+        }
+      ],
+      "duration_ms": 227433,
+      "name": "The Moon Is Going For A Swim",
+      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "Truth Is We'll Never Know",
         "url": "https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3"
       },
@@ -1539,34 +1555,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "The Moon Is Going For A Swim",
-        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
       },
       "artists": [
         {
-          "name": "Christopher Green",
-          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
         }
       ],
-      "duration_ms": 227433,
-      "name": "The Moon Is Going For A Swim",
-      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
-        "name": "Don't Worry About The Rain",
-        "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
-      },
-      "artists": [
-        {
-          "name": "Maida Rose",
-          "url": "https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Don't Worry About The Rain",
-      "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+        "name": "Don't Worry About The Rain",
+        "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
       },
       "artists": [
         {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+          "name": "Maida Rose",
+          "url": "https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k"
         }
       ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
+      "duration_ms": 227840,
+      "name": "Don't Worry About The Rain",
+      "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
     },
     {
       "added_at": "2026-10-15 22:00:37",

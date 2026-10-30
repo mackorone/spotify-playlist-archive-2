@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: Fontaines D.C.",
+  "description": "Nieuwe alternative & rock releases. Cover: Kensington",
   "name": "New Alternative",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 173508,
       "name": "2017",
       "url": "https://open.spotify.com/track/5DGeJrmkia0RZS2m1qzOlt"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 182286,
       "name": "3310",
       "url": "https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC"
@@ -492,6 +492,24 @@
       "duration_ms": 179440,
       "name": "A Scent",
       "url": "https://open.spotify.com/track/4wuFbKAAfBfpUTuqFC2d8F"
+    },
+    {
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/0mCMn2TBLqMnvAq3PhPsVY"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3m9ABfPZFWgc5M1QBgYcBQ"
     },
     {
       "album": {
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 224199,
       "name": "Baby Kool (Evelyn)",
       "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
@@ -1462,6 +1480,24 @@
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s"
+    },
+    {
+      "album": {
+        "name": "Play Niis",
+        "url": "https://open.spotify.com/album/229GwK7pxQ81okcU4phzEC"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199449,
+      "name": "Bad Aim",
+      "url": "https://open.spotify.com/track/5QvDo7Q4jUaE4O8d07h4Us"
     },
     {
       "album": {
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 302800,
       "name": "BedHead",
       "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
@@ -2720,6 +2756,24 @@
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/1mEoulfEor7JTmthXbQiQN"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250015,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/0mG4lEdqrxRj1B0KmpEffX"
     },
     {
       "album": {
@@ -4548,7 +4602,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 231455,
       "name": "Dumb Sites",
       "url": "https://open.spotify.com/track/0RoiBuHR2XVeF9e1glALr3"
@@ -5016,7 +5070,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 203574,
       "name": "Falling Star",
       "url": "https://open.spotify.com/track/3zmsrZsBKhQsCLEHcuiMWc"
@@ -5182,6 +5236,24 @@
       "duration_ms": 189009,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
+    },
+    {
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2DfG5F3XdYdgHVBFEn0da7"
+      },
+      "artists": [
+        {
+          "name": "Jo Goes Hunting",
+          "url": "https://open.spotify.com/artist/2x4XbUCAexNSNcotYSrf4K"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234150,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/24osXZTEzmCXGrgxeDlIRT"
     },
     {
       "album": {
@@ -6170,7 +6242,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 217026,
       "name": "GOOD TIMES",
       "url": "https://open.spotify.com/track/6BoNzd8FS2O41zJCyh7l1e"
@@ -6966,7 +7038,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 159906,
       "name": "Hit The Sky",
       "url": "https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht"
@@ -8212,7 +8284,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 353666,
       "name": "Insignificant Other",
       "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
@@ -8454,6 +8526,24 @@
       "duration_ms": 240230,
       "name": "I\u2019m Free",
       "url": "https://open.spotify.com/track/1XopkxUUxoXmwwbJWx6Sq9"
+    },
+    {
+      "album": {
+        "name": "Out of Skin, Into Bloom",
+        "url": "https://open.spotify.com/album/0yESMhBoWKMkgYpKZyJ9VR"
+      },
+      "artists": [
+        {
+          "name": "Subterranean Street Society",
+          "url": "https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Jacob",
+      "url": "https://open.spotify.com/track/729cU3h8m4msZIsbKEYM3y"
     },
     {
       "album": {
@@ -9684,7 +9774,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 203373,
       "name": "Love Is On My Mind",
       "url": "https://open.spotify.com/track/4LuP3veDBkqnyLQvgDQpJb"
@@ -10080,7 +10170,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 225645,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
@@ -10282,6 +10372,24 @@
       "duration_ms": 212553,
       "name": "Middle Of The Night",
       "url": "https://open.spotify.com/track/25VAdaht8FERz3lA86V2fv"
+    },
+    {
+      "album": {
+        "name": "Midnight Crying",
+        "url": "https://open.spotify.com/album/5jOsI4FJiqoJm78oVgYTbm"
+      },
+      "artists": [
+        {
+          "name": "The Sha-La-Lee's",
+          "url": "https://open.spotify.com/artist/2AVxbfK80JPQi7sRsjYIQo"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Midnight Crying",
+      "url": "https://open.spotify.com/track/3GzPuUiZQeWyYugjfkalgJ"
     },
     {
       "album": {
@@ -11741,6 +11849,24 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5cIfc1CxekICf0SEW1lV9D"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249623,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4EeXxhc9Wqc23rHgEcxKnP"
+    },
+    {
+      "album": {
         "name": "One More Nanosecond",
         "url": "https://open.spotify.com/album/4HHQvoVU3F4zpHdBCQXVKE"
       },
@@ -12246,6 +12372,28 @@
       "duration_ms": 179520,
       "name": "Perfect Pain",
       "url": "https://open.spotify.com/track/58cpluWUBHARQKwRnnfisW"
+    },
+    {
+      "album": {
+        "name": "Perspective (Tom Sharkett Remix)",
+        "url": "https://open.spotify.com/album/5EVajxZGBEFaTXVdh4Lb1E"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        },
+        {
+          "name": "Tom Sharkett",
+          "url": "https://open.spotify.com/artist/47rgP8VpebMMXX0gE8HUst"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262975,
+      "name": "Perspective - Tom Sharkett Remix",
+      "url": "https://open.spotify.com/track/4egdm11F4REYj1XLor6WMU"
     },
     {
       "album": {
@@ -12762,6 +12910,24 @@
       "duration_ms": 254600,
       "name": "Raindance",
       "url": "https://open.spotify.com/track/1clv4c643rixAAxNOlnkX2"
+    },
+    {
+      "album": {
+        "name": "Random Violence",
+        "url": "https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315333,
+      "name": "Random Violence",
+      "url": "https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2"
     },
     {
       "album": {
@@ -16297,6 +16463,24 @@
     },
     {
       "album": {
+        "name": "The One Around",
+        "url": "https://open.spotify.com/album/1SXfK4Xurk7rMdz0G287us"
+      },
+      "artists": [
+        {
+          "name": "Moss",
+          "url": "https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158592,
+      "name": "The One Around",
+      "url": "https://open.spotify.com/track/11MWd5I5jo74FU0dsNikhK"
+    },
+    {
+      "album": {
         "name": "The Others",
         "url": "https://open.spotify.com/album/6LJVixJGpv3ZHniYkhtuhC"
       },
@@ -17111,6 +17295,24 @@
     },
     {
       "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/0VL8TAjkk762506sV3DrqD"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178935,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/5lOpq5VJX1UrXYWLu59ONv"
+    },
+    {
+      "album": {
         "name": "Tourniquet",
         "url": "https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56"
       },
@@ -17126,6 +17328,24 @@
       "duration_ms": 240512,
       "name": "Tourniquet",
       "url": "https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt"
+    },
+    {
+      "album": {
+        "name": "Tower Of Joking",
+        "url": "https://open.spotify.com/album/76N3mcokIsWWNcf1ObJw2y"
+      },
+      "artists": [
+        {
+          "name": "Absynthe Minded",
+          "url": "https://open.spotify.com/artist/6AVfW2Y10P7zqLC6Z3O0xj"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Tower Of Joking",
+      "url": "https://open.spotify.com/track/6M90eKi3Y5qNs2UenJ8XbF"
     },
     {
       "album": {
@@ -18177,6 +18397,28 @@
     },
     {
       "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D"
+    },
+    {
+      "album": {
         "name": "Where The Goth Girls At?",
         "url": "https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP"
       },
@@ -18444,7 +18686,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 255400,
       "name": "Wings On Fire",
       "url": "https://open.spotify.com/track/36g619h8gPXcIxOQKDLQ5D"
@@ -18588,7 +18830,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 238563,
       "name": "Worried Age",
       "url": "https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2"

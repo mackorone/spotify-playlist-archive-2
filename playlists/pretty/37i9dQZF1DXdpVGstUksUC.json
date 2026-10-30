@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549635,
+  "num_followers": 549650,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJhpL64n6sIL8KRqR70/qjgBZAjM",
+  "snapshot_id": "AAAAAB9fua+WL7gf6bQFIiBwBbnzj82P",
   "tracks": [
     {
       "added_at": "2026-03-13 04:00:13",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
-      },
-      "artists": [
-        {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
-        }
-      ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Damned by Fate",
         "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
       },
       "artists": [
         {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
         }
       ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -679,6 +663,22 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Starting Line",
-        "url": "https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 231769,
-      "name": "Starting Line",
-      "url": "https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "There is Nothing New Under the Sun",
         "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 237424,
       "name": "There is Nothing New Under the Sun",
       "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Starting Line",
+        "url": "https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 231769,
+      "name": "Starting Line",
+      "url": "https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Groovy",
         "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 257093,
       "name": "Drowning on Empty",
       "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Diablerie",
+        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
+      },
+      "artists": [
+        {
+          "name": "Windhand",
+          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
+        }
+      ],
+      "duration_ms": 320988,
+      "name": "Diablerie",
+      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Diablerie",
-        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
       "artists": [
         {
-          "name": "Windhand",
-          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
         }
       ],
-      "duration_ms": 320988,
-      "name": "Diablerie",
-      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Love Fear Choices and Astronauts",
-        "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
-      },
-      "artists": [
-        {
-          "name": "The Egocentrics",
-          "url": "https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh"
-        }
-      ],
-      "duration_ms": 651110,
-      "name": "Bright Dawn of the Soul",
-      "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Ode To IO",
         "url": "https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 366333,
       "name": "Riding Shotgun",
       "url": "https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Love Fear Choices and Astronauts",
+        "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
+      },
+      "artists": [
+        {
+          "name": "The Egocentrics",
+          "url": "https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh"
+        }
+      ],
+      "duration_ms": 651110,
+      "name": "Bright Dawn of the Soul",
+      "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "CLDZ",
-        "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
-      },
-      "artists": [
-        {
-          "name": "Gozu",
-          "url": "https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg"
-        }
-      ],
-      "duration_ms": 416779,
-      "name": "CLDZ",
-      "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Tested By Death",
         "url": "https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 512011,
       "name": "Tested By Death",
       "url": "https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "CLDZ",
+        "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
+      },
+      "artists": [
+        {
+          "name": "Gozu",
+          "url": "https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg"
+        }
+      ],
+      "duration_ms": 416779,
+      "name": "CLDZ",
+      "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1355,6 +1355,54 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Negasonic Teenage Warhead",
+      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
       },
@@ -1383,38 +1431,6 @@
       "duration_ms": 196866,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Negasonic Teenage Warhead",
-      "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1527,22 +1543,6 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
     },
     {
       "added_at": "2026-03-13 04:00:13",

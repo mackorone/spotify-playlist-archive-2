@@ -1,13 +1,93 @@
 {
-  "description": "The best new music from independent artists and labels.  Featuring Worldpeace DMT. Curated with love by human Spotify editors.",
-  "num_followers": 1227277,
+  "description": "The best new music from independent artists and labels.  Featuring Midrfit. Curated with love by human Spotify editors.",
+  "num_followers": 1229167,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZfna2nP+g2fucb8GwZL06WZPeP",
+  "snapshot_id": "AAAAANURdcSTbwQfjHIXxCgk9dySM92O",
   "tracks": [
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "FRESH FINDS",
+        "url": "https://open.spotify.com/album/78M4AqVTv6n4N2PnNiyZDR"
+      },
+      "artists": [
+        {
+          "name": "FRESH FINDS",
+          "url": "https://open.spotify.com/show/78M4AqVTv6n4N2PnNiyZDR"
+        }
+      ],
+      "duration_ms": 207123,
+      "name": "Midrift - Reaching For You (Found on Fresh Finds)",
+      "url": "https://open.spotify.com/episode/7z1d6zAovuJhHg037evLhS"
+    },
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "FRESH FINDS",
+        "url": "https://open.spotify.com/album/78M4AqVTv6n4N2PnNiyZDR"
+      },
+      "artists": [
+        {
+          "name": "FRESH FINDS",
+          "url": "https://open.spotify.com/show/78M4AqVTv6n4N2PnNiyZDR"
+        }
+      ],
+      "duration_ms": 181848,
+      "name": "After Louise - Crybaby (Found on Fresh Finds)",
+      "url": "https://open.spotify.com/episode/5wEu6zuPNkzZv2onD5gkHK"
+    },
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "FRESH FINDS",
+        "url": "https://open.spotify.com/album/78M4AqVTv6n4N2PnNiyZDR"
+      },
+      "artists": [
+        {
+          "name": "FRESH FINDS",
+          "url": "https://open.spotify.com/show/78M4AqVTv6n4N2PnNiyZDR"
+        }
+      ],
+      "duration_ms": 139931,
+      "name": "Mark Lux - BUNK (Found on Fresh Finds)",
+      "url": "https://open.spotify.com/episode/1tmgXsFSLFAZaUVB1hGgdp"
+    },
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "FRESH FINDS",
+        "url": "https://open.spotify.com/album/78M4AqVTv6n4N2PnNiyZDR"
+      },
+      "artists": [
+        {
+          "name": "FRESH FINDS",
+          "url": "https://open.spotify.com/show/78M4AqVTv6n4N2PnNiyZDR"
+        }
+      ],
+      "duration_ms": 234859,
+      "name": "Abbie Callahan - OptiMYSTIC (Found on Fresh Finds)",
+      "url": "https://open.spotify.com/episode/1ruInSfJiMrz9Njrd1bdrH"
+    },
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "FRESH FINDS",
+        "url": "https://open.spotify.com/album/78M4AqVTv6n4N2PnNiyZDR"
+      },
+      "artists": [
+        {
+          "name": "FRESH FINDS",
+          "url": "https://open.spotify.com/show/78M4AqVTv6n4N2PnNiyZDR"
+        }
+      ],
+      "duration_ms": 157073,
+      "name": "rjtheweirdo - Studio Rat (Found on Fresh Finds)",
+      "url": "https://open.spotify.com/episode/0MJJg2l5oICcNAuWz7Kmrv"
+    },
     {
       "added_at": "2026-10-21 15:55:56",
       "album": {
@@ -87,6 +167,22 @@
       "duration_ms": 216249,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0YwtsLxxci8s57omyhPvfV"
+    },
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "Sometimes I Get Emotional",
+        "url": "https://open.spotify.com/album/5kNMRxLIn7Z3Sr2cGTaL9W"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Sometimes I Get Emotional",
+      "url": "https://open.spotify.com/track/7uAD2mlombVXT7JsZ3yexr"
     },
     {
       "added_at": "2026-10-21 15:55:56",
@@ -353,6 +449,22 @@
       "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
     },
     {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "And For My Next Trick...",
+        "url": "https://open.spotify.com/album/6DvP7sAZ63ZPmxOB4SQ4yp"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 185311,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/2Ohw2hgFbuiC78udQM4Ag3"
+    },
+    {
       "added_at": "2026-10-21 15:55:56",
       "album": {
         "name": "Chokehold",
@@ -583,22 +695,6 @@
     {
       "added_at": "2026-10-15 05:20:45",
       "album": {
-        "name": "BUNK",
-        "url": "https://open.spotify.com/album/5dq2DpY9osvpzoRjTko6vG"
-      },
-      "artists": [
-        {
-          "name": "Mark Lux",
-          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
-        }
-      ],
-      "duration_ms": 140754,
-      "name": "BUNK",
-      "url": "https://open.spotify.com/track/3jU9KYS2RPPUKaVPBAf7Xk"
-    },
-    {
-      "added_at": "2026-10-15 05:20:45",
-      "album": {
         "name": "not your wife",
         "url": "https://open.spotify.com/album/5AjiZWW1elqJecfnCKMKUA"
       },
@@ -751,6 +847,26 @@
       "duration_ms": 100858,
       "name": "i dont like that",
       "url": "https://open.spotify.com/track/4gwlS11GtPmraiGKNOFLSW"
+    },
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "War Without Me",
+        "url": "https://open.spotify.com/album/42MnatGgN4VJBQVIKnp8Vi"
+      },
+      "artists": [
+        {
+          "name": "Keith Turner",
+          "url": "https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh"
+        },
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 159672,
+      "name": "War Without Me",
+      "url": "https://open.spotify.com/track/3sNethWu4xE0fs3kobPyQI"
     },
     {
       "added_at": "2026-10-15 05:20:45",
@@ -1463,22 +1579,6 @@
     {
       "added_at": "2026-09-30 18:00:05",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/5PyTY9rk6OO7yel5Janoey"
-      },
-      "artists": [
-        {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
-        }
-      ],
-      "duration_ms": 236008,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/5ZQ03PKXMrzZlxv2CDYL1s"
-    },
-    {
-      "added_at": "2026-09-30 18:00:05",
-      "album": {
         "name": "Crystal Teeth World Tour",
         "url": "https://open.spotify.com/album/4CaJxFgJFazfa5ULRz9r6G"
       },
@@ -1495,22 +1595,6 @@
     {
       "added_at": "2026-09-30 18:00:05",
       "album": {
-        "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
-        "url": "https://open.spotify.com/album/53Vg1kYw2p14ClsJkdXBMu"
-      },
-      "artists": [
-        {
-          "name": "Shallow Alcove",
-          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Mercy Kill (Schr\u00f6dinger's Cat)",
-      "url": "https://open.spotify.com/track/2wjE1Fc8Q3RsAohwZsVoyY"
-    },
-    {
-      "added_at": "2026-09-30 18:00:05",
-      "album": {
         "name": "Queens",
         "url": "https://open.spotify.com/album/58mb074KdbNxpLKrkvDZej"
       },
@@ -1523,6 +1607,22 @@
       "duration_ms": 387646,
       "name": "Queens",
       "url": "https://open.spotify.com/track/38BxonKtYegINzHKASHfty"
+    },
+    {
+      "added_at": "2026-10-29 03:00:24",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/4mOTrD50QVHJdjko09GPf9"
+      },
+      "artists": [
+        {
+          "name": "Midrift",
+          "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "reaching for you",
+      "url": "https://open.spotify.com/track/4rU7Mzd5hRPTD7Iumt6qcv"
     },
     {
       "added_at": "2026-09-23 19:47:35",
@@ -1559,22 +1659,6 @@
     {
       "added_at": "2026-09-30 18:00:05",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/04aREc9X6YEicDlY9icLnJ"
-      },
-      "artists": [
-        {
-          "name": "Dazy",
-          "url": "https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2MJRMs7ZWRikUtQS3Hs009"
-    },
-    {
-      "added_at": "2026-09-30 18:00:05",
-      "album": {
         "name": "old days.",
         "url": "https://open.spotify.com/album/1fO2yjSRwyBTnaIgmVHFVh"
       },
@@ -1589,100 +1673,24 @@
       "url": "https://open.spotify.com/track/1tWHKQ4WZMn2nwWX05MIyM"
     },
     {
-      "added_at": "2026-09-30 18:00:05",
+      "added_at": "2026-10-29 03:00:24",
       "album": {
-        "name": "Ireland",
-        "url": "https://open.spotify.com/album/2uzgtFzX2z8L9NnRrSUKgm"
+        "name": "MONDAY TO SUNDAY",
+        "url": "https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu"
       },
       "artists": [
         {
-          "name": "su i think",
-          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
-        }
-      ],
-      "duration_ms": 176165,
-      "name": "Ireland",
-      "url": "https://open.spotify.com/track/5iXvUuow4NySBMCtWiGz9m"
-    },
-    {
-      "added_at": "2026-09-30 18:00:05",
-      "album": {
-        "name": "Black bear",
-        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
-      },
-      "artists": [
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
         {
-          "name": "Blue Mena",
-          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
         }
       ],
-      "duration_ms": 156413,
-      "name": "Black bear",
-      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
-    },
-    {
-      "added_at": "2026-09-30 18:00:05",
-      "album": {
-        "name": "CAN'T BELIEVE",
-        "url": "https://open.spotify.com/album/0qiimlCDBGLKzAHRw5r5EY"
-      },
-      "artists": [
-        {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        }
-      ],
-      "duration_ms": 187073,
-      "name": "CAN'T BELIEVE",
-      "url": "https://open.spotify.com/track/1n4kuKZCmPxSIZn56FkxSN"
-    },
-    {
-      "added_at": "2026-09-30 18:00:05",
-      "album": {
-        "name": "Common Decency",
-        "url": "https://open.spotify.com/album/2z1mYHnkDXHndy3tPiYhtf"
-      },
-      "artists": [
-        {
-          "name": "Dakota Caden",
-          "url": "https://open.spotify.com/artist/1iwD0WzHpsrQ32M8ycL5Mt"
-        }
-      ],
-      "duration_ms": 179033,
-      "name": "Common Decency",
-      "url": "https://open.spotify.com/track/56mUPWcrw6j12FwpwBhW6C"
-    },
-    {
-      "added_at": "2026-09-23 19:47:35",
-      "album": {
-        "name": "Move on!",
-        "url": "https://open.spotify.com/album/3SApspsfVSosFdQZDIvckp"
-      },
-      "artists": [
-        {
-          "name": "Stella Dunai",
-          "url": "https://open.spotify.com/artist/03UFzahBbYcVlyOu47RQzi"
-        }
-      ],
-      "duration_ms": 185472,
-      "name": "Move on!",
-      "url": "https://open.spotify.com/track/5Y10nfEMHUvWXMFkdgcl4F"
-    },
-    {
-      "added_at": "2026-09-30 18:00:05",
-      "album": {
-        "name": "Knots",
-        "url": "https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq"
-      },
-      "artists": [
-        {
-          "name": "Dogs on Shady Lane",
-          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
-        }
-      ],
-      "duration_ms": 217738,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0"
+      "duration_ms": 187614,
+      "name": "MONDAY TO SUNDAY",
+      "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
     }
   ],
   "unique_name": "Fresh Finds",

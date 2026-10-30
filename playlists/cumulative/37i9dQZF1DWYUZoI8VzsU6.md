@@ -4,7 +4,7 @@
 
 > back roads up loud with Dexter and The Moonrocks and Avery Anna
 
-100 songs - 5 hr 34 min
+101 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Rabbit Hole](https://open.spotify.com/track/3uvbS1Zckk8ZnHEfYcnDPx) | [Will Slater](https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD) | [Rabbit Hole](https://open.spotify.com/album/0lj6XoHKchGVYWKH6NabCJ) | 4:04 | 2026-05-29 | 2026-09-19 |
 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 | 2025-09-05 |  |
 | [Reason Is You](https://open.spotify.com/track/1MTTqvstqjnsVw5jO4rt1q) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Reason Is You](https://open.spotify.com/album/0RY0VDAyTQt9YhM08ZvTxa) | 2:30 | 2026-10-23 |  |
+| [Reason to Leave](https://open.spotify.com/track/3Twfd5ibjAI0UEkDsO9jtn) | [Hayefield](https://open.spotify.com/artist/4fRwwhu0woUKRMTs4RIRqt) | [Reason to Leave](https://open.spotify.com/album/1A3c7cs4gVo8GL8njxCp92) | 3:09 | 2026-10-30 |  |
 | [Relapse](https://open.spotify.com/track/78DcrUOhBhVod09vFiXn7P) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 2:38 | 2025-09-05 |  |
 | [Ride](https://open.spotify.com/track/53VPFVW3aLdNlb4gNetXwS) | [Fox N' Vead](https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm) | [Ride](https://open.spotify.com/album/7G36cofedpDe1Y5JvuAvnw) | 3:18 | 2026-05-29 | 2026-09-19 |
 | [Right Now](https://open.spotify.com/track/1C28jPzvhdWeyfNrkPaa2Z) | [Telander](https://open.spotify.com/artist/6Pe957QMENAWMZF7ityC81), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Right Now](https://open.spotify.com/album/026tatxGuuqA3HS6qrIZBG) | 2:52 | 2026-08-28 | 2026-09-19 |

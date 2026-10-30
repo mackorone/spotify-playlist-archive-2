@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Victor Mendivil",
-  "num_followers": 510969,
+  "num_followers": 510983,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHcHnhVD/CK9eBvMieNgtpQ90GqQ",
+  "snapshot_id": "AAAAAMK58RvEVQmouJdeJEzuUcQl13cL",
   "tracks": [
     {
       "added_at": "2026-10-23 16:45:06",
@@ -95,6 +95,22 @@
       "duration_ms": 190684,
       "name": "Humedad",
       "url": "https://open.spotify.com/track/1OcXQ6MAQgJgZfEm2gsZzD"
+    },
+    {
+      "added_at": "2026-10-23 16:45:06",
+      "album": {
+        "name": "Gastar Balas",
+        "url": "https://open.spotify.com/album/1gMhZoy3EpIS858ooi7nGn"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Gastar Balas",
+      "url": "https://open.spotify.com/track/0U9iRvpU6wvPISZE9LO5FP"
     },
     {
       "added_at": "2026-09-25 04:02:50",

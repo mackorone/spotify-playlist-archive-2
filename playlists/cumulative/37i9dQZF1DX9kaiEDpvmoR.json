@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Bakom oss bara dimma",
+        "url": "https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249812,
+      "name": "Bakom oss bara dimma (Filmversion fr\u00e5n J\u00e4vla karlar)",
+      "url": "https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen"
+    },
+    {
+      "album": {
         "name": "Balladen om Joe Hill",
         "url": "https://open.spotify.com/album/2H8Yypx0nDNWLYnRZhNdig"
       },
@@ -1155,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Blau Hajmel",
+        "url": "https://open.spotify.com/album/3DIvFNXorFGjJEJ4A0aTDL"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250725,
+      "name": "Blau hajmel",
+      "url": "https://open.spotify.com/track/2ReNW98lO8s37jZvETSlMA"
+    },
+    {
+      "album": {
         "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
         "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
       },
@@ -1380,6 +1416,24 @@
       "duration_ms": 265625,
       "name": "Breaking Up Is Hard To Do",
       "url": "https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC"
+    },
+    {
+      "album": {
+        "name": "Bron",
+        "url": "https://open.spotify.com/album/6Um07e76S7DUZQCCIiOQrq"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238073,
+      "name": "Bron",
+      "url": "https://open.spotify.com/track/4KT53sRdagBGBXMFDiwb6K"
     },
     {
       "album": {
@@ -3076,7 +3130,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 172874,
       "name": "EXISTENS",
       "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
@@ -5025,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "Everything Under The Sun",
+        "url": "https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213624,
+      "name": "If I Don't Go",
+      "url": "https://open.spotify.com/track/5XXXFERLsHPaaO4TI4KC8b"
+    },
+    {
+      "album": {
         "name": "If I Ever Lose My Temper",
         "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
       },
@@ -5390,7 +5462,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 153669,
       "name": "inte nationella",
       "url": "https://open.spotify.com/track/03aThtYW92qG0J75deOfQB"
@@ -5614,6 +5686,24 @@
       "duration_ms": 245376,
       "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
       "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
+    },
+    {
+      "album": {
+        "name": "Livets rytm",
+        "url": "https://open.spotify.com/album/0vhWiYgi4sMrsaggbDKyYY"
+      },
+      "artists": [
+        {
+          "name": "Mauro Scocco",
+          "url": "https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196560,
+      "name": "Jag kan h\u00f6ra musiken",
+      "url": "https://open.spotify.com/track/2eFTJs1i5VHXd4DNQOhFKe"
     },
     {
       "album": {
@@ -7858,7 +7948,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154293,
       "name": "Of All People",
       "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
@@ -11326,7 +11416,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186280,
       "name": "Vintergatan",
       "url": "https://open.spotify.com/track/4UgxeIFsuqq7yVomddNylK"

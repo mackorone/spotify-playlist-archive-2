@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJqHSv17/GyHfNmwsZzotn0NHG3r",
+  "snapshot_id": "AAAAAJ4tqnfqJlFnfAEeeSsepiS+BI0x",
   "tracks": [
     {
       "added_at": "2026-08-13 11:11:48",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u"
-      },
-      "artists": [
-        {
-          "name": "DJ Fuckoff",
-          "url": "https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm"
-        }
-      ],
-      "duration_ms": 274447,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH"
-    },
-    {
-      "added_at": "2026-08-13 11:11:48",
-      "album": {
         "name": "Perfect Picture",
         "url": "https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 214493,
       "name": "Affirmations",
       "url": "https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH"
+    },
+    {
+      "added_at": "2026-08-13 11:11:48",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u"
+      },
+      "artists": [
+        {
+          "name": "DJ Fuckoff",
+          "url": "https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm"
+        }
+      ],
+      "duration_ms": 274447,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH"
     },
     {
       "added_at": "2026-08-13 11:11:48",

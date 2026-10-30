@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 ### [Soul Currents](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> Hand\-picked releases from the new wave in soul\. Cover: Shamis
+> Hand\-picked releases from the new wave in soul\. Cover: Mara Mandeau
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,529 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,520 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Doubt](https://open.spotify.com/track/5lf3BFZdQEOq2JNoL9diLg) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [No Doubt](https://open.spotify.com/album/52P77NykjNvql68U08PVVc) | 2:00 |
-| 2 | [Check In](https://open.spotify.com/track/4pietxRA7NhQXhgwhpNz2Q) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [\(Self\) Therapy](https://open.spotify.com/album/3opDWtbpgQFHKnmfmgxyrU) | 3:17 |
-| 3 | [SPIRAL](https://open.spotify.com/track/5PldTvq0Oqx2L8J0ROhlcD) | [Orson Claeys](https://open.spotify.com/artist/6STER3uvIa0CEBNDGWxfDu), [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [OTHELLO](https://open.spotify.com/album/29rKr796TYpcplFyDnynpN) | 4:39 |
-| 4 | [Eyes On Me](https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Eyes On Me](https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG) | 2:53 |
-| 5 | [Fig Tree](https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Before the Soil](https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d) | 2:32 |
-| 6 | [Note To Self](https://open.spotify.com/track/5KJOGfdJjiwYNaEGAqTOPo) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [King Hassan](https://open.spotify.com/artist/2bzq5kcWzqZCD9NSPyDN1e) | [Note To Self](https://open.spotify.com/album/4A5ECy2mBjbss76oK8Cpa2) | 3:27 |
-| 7 | [Eyes On Us](https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ) | [IFULKI](https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T) | [Eyes On Us](https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz) | 3:03 |
-| 8 | [I Am Human](https://open.spotify.com/track/0pI9nSJdUDgpG7rwc7B4CE) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [I Am Human](https://open.spotify.com/album/6hSE8OSbErozqIr5SEuFYs) | 2:55 |
-| 9 | [Summer Interlude](https://open.spotify.com/track/7fqmdAlM5NZwml9LQbPXlo) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Summer Interlude](https://open.spotify.com/album/7D3WwYXTIblhkNxZHLIBhI) | 1:56 |
-| 10 | [On My Own](https://open.spotify.com/track/0s3Czbu8IxpmIgmKe3GGBE) | [Mara Mandeau](https://open.spotify.com/artist/2mpPr7r7njJQ7bC66bghCp) | [On My Own](https://open.spotify.com/album/3qCOUaXCTrQO1clDhqV39C) | 2:56 |
-| 11 | [Stop Signs](https://open.spotify.com/track/33DqDuY7zb0H1BLl9HXbnV) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717) | [Stop Signs / Stop Signs Pt\. 2](https://open.spotify.com/album/3tFd67koMuFUz6Hd97V6bn) | 4:04 |
-| 12 | [Conclusions](https://open.spotify.com/track/050ytDQTWbRH1DaEKMsYaf) | [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [Conclusions](https://open.spotify.com/album/5EMUzq6vVtgyJvCjSL9SBT) | 4:11 |
-| 13 | [Better Late Than Never](https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Better Late Than Never](https://open.spotify.com/album/1p8FQRg8gaK3P6T6ioEkfQ) | 2:44 |
-| 14 | [All Okay](https://open.spotify.com/track/5gZwT7zUt45ouvt8dBtSJn) | [Hannah Sopacuwa](https://open.spotify.com/artist/6DsCVmUQa4qFrh86EaMpzH) | [All Okay](https://open.spotify.com/album/3TybNP0JDEg1wsCblw2hB0) | 2:26 |
+| 1 | [On My Own](https://open.spotify.com/track/0s3Czbu8IxpmIgmKe3GGBE) | [Mara Mandeau](https://open.spotify.com/artist/2mpPr7r7njJQ7bC66bghCp) | [On My Own](https://open.spotify.com/album/3qCOUaXCTrQO1clDhqV39C) | 2:56 |
+| 2 | [All Okay](https://open.spotify.com/track/5gZwT7zUt45ouvt8dBtSJn) | [Hannah Sopacuwa](https://open.spotify.com/artist/6DsCVmUQa4qFrh86EaMpzH) | [All Okay](https://open.spotify.com/album/3TybNP0JDEg1wsCblw2hB0) | 2:26 |
+| 3 | [Check In](https://open.spotify.com/track/4pietxRA7NhQXhgwhpNz2Q) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [\(Self\) Therapy](https://open.spotify.com/album/3opDWtbpgQFHKnmfmgxyrU) | 3:17 |
+| 4 | [I Am Human](https://open.spotify.com/track/0pI9nSJdUDgpG7rwc7B4CE) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [I Am Human](https://open.spotify.com/album/6hSE8OSbErozqIr5SEuFYs) | 2:55 |
+| 5 | [No Doubt](https://open.spotify.com/track/5lf3BFZdQEOq2JNoL9diLg) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [No Doubt](https://open.spotify.com/album/52P77NykjNvql68U08PVVc) | 2:00 |
+| 6 | [Eyes On Me](https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Eyes On Me](https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG) | 2:53 |
+| 7 | [Note To Self](https://open.spotify.com/track/5KJOGfdJjiwYNaEGAqTOPo) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [King Hassan](https://open.spotify.com/artist/2bzq5kcWzqZCD9NSPyDN1e) | [Note To Self](https://open.spotify.com/album/4A5ECy2mBjbss76oK8Cpa2) | 3:27 |
+| 8 | [SPIRAL](https://open.spotify.com/track/5PldTvq0Oqx2L8J0ROhlcD) | [Orson Claeys](https://open.spotify.com/artist/6STER3uvIa0CEBNDGWxfDu), [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [OTHELLO](https://open.spotify.com/album/29rKr796TYpcplFyDnynpN) | 4:39 |
+| 9 | [Fig Tree](https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Before the Soil](https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d) | 2:32 |
+| 10 | [Eyes On Us](https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ) | [IFULKI](https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T) | [Eyes On Us](https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz) | 3:03 |
+| 11 | [Summer Interlude](https://open.spotify.com/track/7fqmdAlM5NZwml9LQbPXlo) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Summer Interlude](https://open.spotify.com/album/7D3WwYXTIblhkNxZHLIBhI) | 1:56 |
+| 12 | [Stop Signs](https://open.spotify.com/track/33DqDuY7zb0H1BLl9HXbnV) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717) | [Stop Signs / Stop Signs Pt\. 2](https://open.spotify.com/album/3tFd67koMuFUz6Hd97V6bn) | 4:04 |
+| 13 | [Conclusions](https://open.spotify.com/track/050ytDQTWbRH1DaEKMsYaf) | [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [Conclusions](https://open.spotify.com/album/5EMUzq6vVtgyJvCjSL9SBT) | 4:11 |
+| 14 | [Better Late Than Never](https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Better Late Than Never](https://open.spotify.com/album/1p8FQRg8gaK3P6T6ioEkfQ) | 2:44 |
 | 15 | [Stitch or Gantu](https://open.spotify.com/track/3tt296QleD9BM59VWBPRq2) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO) | [Stitch or Gantu](https://open.spotify.com/album/08b5A9eIWVojq1GQATB6cl) | 2:30 |
 | 16 | [stupid](https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [AURORA](https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5) | 2:19 |
 | 17 | [Babylon](https://open.spotify.com/track/3g6HDrKtRE84t76PyaHFdV) | [Yann Gaudeuille](https://open.spotify.com/artist/0gDrEtUaZkv4vOhMdojwkM) | [Babylon](https://open.spotify.com/album/11tQN3KPZuvxU5qNw8lW5j) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Insane](https://open.spotify.com/track/0Vzs2KjrNBx7xzAGZPvk5g) | [Julia Rebière](https://open.spotify.com/artist/3yiyvhlHgefS4Flk1FUAGK) | [Insane](https://open.spotify.com/album/60sT1U2Szh3fSlVTFrGWuS) | 3:25 |
 | 80 | [BEAUTIFUL DAY](https://open.spotify.com/track/3BytHPrP6HolL4qFikBs0y) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [BEAUTIFUL DAY](https://open.spotify.com/album/2CRjF7mOcgW1WRPMNMXAye) | 2:00 |
 
-Snapshot ID: `AAAAAGL0maUXYIqYdbDEL53HGa8Jh5mT`
+Snapshot ID: `AAAAAPpG++JuexT7sr/zQNG6FtjUNwBF`

@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Dramatic, theatrical pop: Emily Bear it's your moment!
+> Dramatic, theatrical pop: Mollie Elizabeth it's your moment!
 
-629 songs - 1 day 10 hr 14 min
+631 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Backseat Girl](https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Backseat Girl](https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9) | 2:23 | 2024-03-01 | 2024-04-24 |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2023-12-27 | 2025-10-18 |
 | [BAD LUCK!](https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 3:33 | 2022-05-17 | 2022-12-10 |
+| [Bang Bang](https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [People Pleaser](https://open.spotify.com/album/6vYVu3wSl9OedjOU8n8pVX) | 2:30 | 2026-10-30 |  |
 | [Bangladesh](https://open.spotify.com/track/0i9OExe67MrZuKuPbr3v2A) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Season 3](https://open.spotify.com/album/6dcUN4U2uhwnrl1hPII9Qe) | 0:49 | 2026-07-20 | 2026-09-22 |
 | [Beautiful Little Life](https://open.spotify.com/track/4CLWxgdo4e2z27PGQ9uxme) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Beautiful Little Life](https://open.spotify.com/album/5L4UWzUa7sGi70mbu1wcxF) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 | 2026-04-10 | 2026-10-17 |
@@ -154,7 +155,7 @@
 | [Difluoroethane](https://open.spotify.com/track/6wqlEKnSMVq37ZipY04pMp) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [Knives For Aries](https://open.spotify.com/album/2EL0n7jffmOwkdEvm60kwi) | 2:06 | 2024-05-24 | 2024-06-29 |
 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 | 2024-11-01 | 2025-09-20 |
 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-02-27 | 2026-10-24 |
-| [Dog Eat Dog](https://open.spotify.com/track/601V6Cr1UYkR8qaRtrSDzl) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Dog Eat Dog](https://open.spotify.com/album/5x8ghkdsw5hs8RvPoHSGbd) | 3:10 | 2026-03-13 |  |
+| [Dog Eat Dog](https://open.spotify.com/track/601V6Cr1UYkR8qaRtrSDzl) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Dog Eat Dog](https://open.spotify.com/album/5x8ghkdsw5hs8RvPoHSGbd) | 3:10 | 2026-03-13 | 2026-10-30 |
 | [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 | 2025-01-31 | 2025-03-08 |
 | [Dolomites](https://open.spotify.com/track/6JRmBFYjeT7lmrM6asXkPx) | [Ella Clayton](https://open.spotify.com/artist/1ZByOuc2TRBPaHWXl8Nyem) | [Dolomites](https://open.spotify.com/album/3xXGw52jV1FoN6qxOntSNn) | 2:36 | 2026-03-17 | 2026-07-21 |
 | [Don't Cry for your Daughters Eve](https://open.spotify.com/track/4bXLeoxlnN5V3OnY1EhT3J) | [Lydia the Bard](https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ) | [Don't Cry for your Daughters Eve](https://open.spotify.com/album/29yybJt3AVpBD4F4GUgt7q) | 4:25 | 2024-06-07 | 2025-04-05 |
@@ -292,6 +293,7 @@
 | [If Chaos killed the dinosaurs](https://open.spotify.com/track/1JKqnaGU8yuUCVWPb17YMW) | [Gilanares](https://open.spotify.com/artist/0knbJmRwh0ENYJGvZL9whc) | [If Chaos killed the dinosaurs](https://open.spotify.com/album/5YeJ8ne5fbvw5P6Ej1FjuP) | 4:00 | 2025-02-14 | 2025-03-15 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-04-28 | 2024-05-28 |
 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 | 2024-05-14 | 2024-12-14 |
+| [IMITATE](https://open.spotify.com/track/42GoMVuTK8BXAMpJXDxg9d) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [IMITATE](https://open.spotify.com/album/4Q2vZIVKADXCKegHeyDCAC) | 3:09 | 2026-10-30 |  |
 | [Impostor Syndrome](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:54 | 2026-03-20 |  |
 | [In My Head](https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [In My Head](https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ) | 3:18 | 2023-03-16 | 2023-05-13 |
 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 | 2022-07-22 | 2022-11-19 |
@@ -544,7 +546,7 @@
 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 | 2023-12-09 |
 | [The Masochism Tango \(Stereo Mix\)](https://open.spotify.com/track/0WVWNxudOyk0ncLpl1EsU1) | [Tom Lehrer](https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO) | [The Conducted Tom Lehrer](https://open.spotify.com/album/1zSJn05mfUconkdvLJ8uqq) | 2:49 | 2024-01-22 | 2025-03-22 |
 | [The Milk Carton](https://open.spotify.com/track/0uEeF2vQCTu4ucShvarTIH) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [The Milk Carton](https://open.spotify.com/album/4wyw0CaVn3kGYRDIDQlKiq) | 5:10 | 2024-10-04 | 2025-10-04 |
-| [The Mirror](https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [The Mirror](https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie) | 2:05 | 2026-04-20 |  |
+| [The Mirror](https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [The Mirror](https://open.spotify.com/album/0iJdKGzrGutX6ec9eooCie) | 2:05 | 2026-04-20 | 2026-10-30 |
 | [The Moon Will Sing](https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 3:40 | 2025-08-18 | 2026-05-02 |
 | [The Mountain Song](https://open.spotify.com/track/2ileXC69Z7xb95s3ljUBqb) | [Tophouse](https://open.spotify.com/artist/5WvwaJTMkZ5jb06EwCt34K) | [The Mountain Song](https://open.spotify.com/album/2KADkXNDzS6Rz7bUt9UE1b) | 4:06 | 2024-04-05 | 2024-05-03 |
 | [The Place To Be](https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [The Place To Be](https://open.spotify.com/album/6L31U4bZtscOccwZbnIvXm) | 3:28 | 2022-09-16 | 2022-12-10 |

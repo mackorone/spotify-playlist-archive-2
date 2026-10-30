@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Evangelia, Misha Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,535 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,536 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Fotia Sti Nihta](https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Fotia Sti Nihta](https://open.spotify.com/album/1lPjjBHjkvjugsBGIlO8hW) | 3:18 |
 | 50 | [To S' Agapo](https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle) | [Kostas Martakis](https://open.spotify.com/artist/1WqBNjsIfFxCyYuAhLMfXd), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [To S' Agapo](https://open.spotify.com/album/5TL1F4mfJncz4EcA7hY4qt) | 3:23 |
 
-Snapshot ID: `AAAAAF4zZwQVsSqyeHG3ApdZo/xOSP9f`
+Snapshot ID: `AAAAAGaDvbhtVoYzeiargGQqNVBK2xQh`

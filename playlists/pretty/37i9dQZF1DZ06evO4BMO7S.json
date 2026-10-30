@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 24783,
+  "num_followers": 24786,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAJI0Sgi934qErC8Zo380Ii",
+  "snapshot_id": "at/pgAAAAAAAJDwaT0wI1XeTAOVWzlS3",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Over Heels b/w Essentially",
-        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 237333,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/0nA1DRCRmEvSGBtLYu2bXu"
+      "duration_ms": 144677,
+      "name": "The Woman That Loves You",
+      "url": "https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu"
     },
     {
       "added_at": null,
@@ -300,15 +300,15 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Soft Sounds from Another Planet",
-      "url": "https://open.spotify.com/track/17UaCbdhkzTaCj4DbKTrPW"
+      "duration_ms": 217240,
+      "name": "Machinist",
+      "url": "https://open.spotify.com/track/13FGWUlqQpGugvEcnEUqou"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+        "name": "Head Over Heels b/w Essentially",
+        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 144677,
-      "name": "The Woman That Loves You",
-      "url": "https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu"
+      "duration_ms": 237333,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/0nA1DRCRmEvSGBtLYu2bXu"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 217240,
-      "name": "Machinist",
-      "url": "https://open.spotify.com/track/13FGWUlqQpGugvEcnEUqou"
+      "duration_ms": 200973,
+      "name": "Soft Sounds from Another Planet",
+      "url": "https://open.spotify.com/track/17UaCbdhkzTaCj4DbKTrPW"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Exploration (Ruins)",
-      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
-        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 151395,
-      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+      "duration_ms": 250906,
+      "name": "Exploration (Ruins)",
+      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
       "duration_ms": 230322,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 66703,
-      "name": "Campfires",
-      "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 66703,
+      "name": "Campfires",
+      "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psychopomp",
         "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 245562,
-      "name": "The Ewer (Day)",
-      "url": "https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 257234,
       "name": "Say It Ain't So - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 245562,
+      "name": "The Ewer (Day)",
+      "url": "https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 210625,
-      "name": "Better the Mask",
-      "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
+      "duration_ms": 150187,
+      "name": "Ibexxi Camp (Night)",
+      "url": "https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 150187,
-      "name": "Ibexxi Camp (Night)",
-      "url": "https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w"
+      "duration_ms": 210625,
+      "name": "Better the Mask",
+      "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
     }
   ],
   "unique_name": "This Is Japanese Breakfast",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,212 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,269 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 32 | [Smells Like Teen Spirit](https://open.spotify.com/track/5dIu4QcXgvZWttv3YPqXSd) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Smells Like Teen Spirit](https://open.spotify.com/album/1SuYsP4BDxisXED6OcE9zG) | 4:09 |
 | 33 | [Weekend!](https://open.spotify.com/track/1lV8sXL01UVaw6g0fawtsC) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Weekend!](https://open.spotify.com/album/5Gqc1Uoo4Zfmwhmx3ZnNYu) | 3:06 |
 | 34 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 |
-| 35 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 |
-| 36 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
+| 35 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 |
+| 36 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 |
 | 37 | [Sweater Weather](https://open.spotify.com/track/77y3caTFtC3n4tGgyPUF87) | [Jomarijan](https://open.spotify.com/artist/5iHZxQtcP3E5hjuzPeocgW) | [Sweater Weather](https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc) | 3:22 |
 | 38 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 |
 | 39 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 51 | [Cry For You](https://open.spotify.com/track/1RiqdvtgfR0yI6oj60AgiJ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Cry For You](https://open.spotify.com/album/3ETkl7tsz902xmWHA9yljQ) | 2:48 |
 | 52 | [Born To Be Wild](https://open.spotify.com/track/3vAazqCsv319hC3nCFCarE) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Born To Be Wild](https://open.spotify.com/album/3qjDGn51BVWdh7ohi6b6LX) | 3:19 |
 | 53 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 |
-| 54 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
-| 55 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
+| 54 | [Euphoria \- Hardstyle Edit](https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA) | [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Euphoria \(Hardstyle Edit\)](https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z) | 3:34 |
+| 55 | [The Sinner](https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Raakmo](https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG) | [The Sinner](https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH) | 3:29 |
 | 56 | [Wake Me Up \- Hardstyle Mix](https://open.spotify.com/track/1H0GKvORF2YiLS6O2pr433) | [LORD HADES](https://open.spotify.com/artist/6uZI9bgqhHMDX1p4JPjQIo), [Hardstyle Covers](https://open.spotify.com/artist/5gAL0J3DdeKhYaN1jjGxRb) | [Wake Me Up](https://open.spotify.com/album/5uz4VdtMGQ93JoMkc8Ezij) | 2:59 |
 | 57 | [LOVE DON'T LET ME GO](https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [LOVE DON'T LET ME GO](https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4) | 3:04 |
 | 58 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 |
 | 70 | [Somebody That I Used To Know](https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Somebody That I Used To Know](https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy) | 4:02 |
 
-Snapshot ID: `AAAAAO/gXeb1+fTdJKRa5juDrZEMrJd2`
+Snapshot ID: `AAAAALUgeU4iZcLa+ltLiEEVFLoxrPIS`

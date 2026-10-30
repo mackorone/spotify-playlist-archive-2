@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > 🇵🇸
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,796 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,812 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 49 | [دبرها](https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [دبرها](https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx) | 4:49 |
 | 50 | [Asfur](https://open.spotify.com/track/6vuMqisW5jWBMNgh2EzAdd) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Amal](https://open.spotify.com/album/5Lx6Qo1efOKGYOLRc5u76S) | 5:24 |
 
-Snapshot ID: `AAAAAJv6sfppcYFJfwwnX2DE0VzLm9ye`
+Snapshot ID: `AAAAAG4ozl7aUvWhAipVM3ggC1GXEeLd`

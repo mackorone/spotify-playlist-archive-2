@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 214015,
       "name": "Beraham",
       "url": "https://open.spotify.com/track/0niwRGVIhJyBdvgpMtoQgK"
@@ -15692,6 +15692,32 @@
       "duration_ms": 280151,
       "name": "Main Na Raha Mera (From \"Main Na Raha Mera\")",
       "url": "https://open.spotify.com/track/7ifA9rI0hTvEkIZAvdUdUD"
+    },
+    {
+      "album": {
+        "name": "Main Ram (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/4xuHHa3JtBrjyDWMl88hXD"
+      },
+      "artists": [
+        {
+          "name": "Prateek Walia",
+          "url": "https://open.spotify.com/artist/2MwEyZ2IlU8PIyq5Px1aXC"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221049,
+      "name": "Main Ram (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/4V3QFX0K1nK2ylf6X4yyFI"
     },
     {
       "album": {

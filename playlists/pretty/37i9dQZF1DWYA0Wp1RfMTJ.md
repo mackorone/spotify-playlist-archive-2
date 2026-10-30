@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain]
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,007 likes - 81 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,016 likes - 81 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain]
 | 80 | [\#3【アオのハコ】  千葉翔也×鬼頭明里 「愛のあるいじりって思いながら、演じています！」](https://open.spotify.com/episode/7mX9pQOodLMhxp8vl03pQu) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『幻想水滸伝』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『幻想水滸伝』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:26 |
 | 81 | [\#4【アオのハコ】  千葉翔也×鬼頭明里 「第４話は“ぶっ飛んだ非日常”ですよ！！」](https://open.spotify.com/episode/4kSBxktB7rXBUJtbHibM3k) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『幻想水滸伝』】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【TVアニメ『幻想水滸伝』】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 32:47 |
 
-Snapshot ID: `AAAAAJejJxsYCt5t0qPLeE88v/gGW70X`
+Snapshot ID: `AAAAAMa9mKY7fJDNAH105wc6TK9Q9fGt`

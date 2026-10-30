@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,036 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,095 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Bye Bye](https://open.spotify.com/track/1wqPny15dwjxU5f0C4KXpZ) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje), [Teddy Hashtag](https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh) | [Bye Bye](https://open.spotify.com/album/3YVWQUpEJkBwZ4nQV6P05T) | 4:40 |
 | 40 | [Doudou](https://open.spotify.com/track/4wrmC3OaHWFqhZeDMzZxeu) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Doudou](https://open.spotify.com/album/5W6Mvoi9S8CgEh24EbpTX5) | 2:56 |
 
-Snapshot ID: `AAAAAK1s3Wkw6fHMLd5YlPltkzrTrb2X`
+Snapshot ID: `AAAAADt9MEaJluF8sAQynNnhVmqKRVA0`

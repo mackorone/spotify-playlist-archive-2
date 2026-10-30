@@ -2972,7 +2972,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Big City",
       "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
@@ -3866,7 +3866,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 221647,
       "name": "California",
       "url": "https://open.spotify.com/track/192yhfxvnZqzuIWDCaenau"
@@ -4216,7 +4216,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 320493,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
@@ -5288,7 +5288,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 221624,
       "name": "Craving",
       "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 244503,
       "name": "Do You Really",
       "url": "https://open.spotify.com/track/1UWHiGcPIyNjaq7UOPFz00"
@@ -6070,7 +6070,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 292200,
       "name": "Don't Go Dark",
       "url": "https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O"
@@ -6675,7 +6675,7 @@
     },
     {
       "album": {
-        "name": "Love Somebody",
+        "name": "Love Somebody EP",
         "url": "https://open.spotify.com/album/6JsoOxrkhbRI4R5p2Zel6I"
       },
       "artists": [
@@ -6686,7 +6686,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 228311,
       "name": "Easy Drinking",
       "url": "https://open.spotify.com/track/2Gl967eZn92JfjG852oLT2"
@@ -8952,7 +8952,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219440,
       "name": "Ghost Hotel",
       "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
@@ -9114,7 +9114,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 212200,
       "name": "Give Me Your Fire, Give Me Your Rain",
       "url": "https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M"
@@ -10552,7 +10552,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 175374,
       "name": "Honey (I believe in us)",
       "url": "https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C"
@@ -12030,7 +12030,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 296426,
       "name": "If Only for Tonight",
       "url": "https://open.spotify.com/track/5Lp5x32wJQwBAOKiuv42At"
@@ -14364,7 +14364,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 163619,
       "name": "Love Is Complicated",
       "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
@@ -15042,7 +15042,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 234844,
       "name": "Many Worlds",
       "url": "https://open.spotify.com/track/3B0FgKP9VnPYal3FSLe002"
@@ -15208,7 +15208,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 230138,
       "name": "Maybe, One Day",
       "url": "https://open.spotify.com/track/7lDD6klBmwKuoqmql1RuE2"
@@ -18152,7 +18152,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -18188,7 +18188,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -18724,7 +18724,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 234545,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/2ZzQw84swNCgc4IEHS7leB"
@@ -21064,7 +21064,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 212416,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/3I3cztm9B7DIryjEegY1AY"
@@ -23424,7 +23424,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 229685,
       "name": "Things I Can't Explain",
       "url": "https://open.spotify.com/track/4He5mRLW0X0FHC3kc5HlZH"
@@ -24956,7 +24956,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 267440,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/0FFtIOqGVcjRdEpMxZVIRV"

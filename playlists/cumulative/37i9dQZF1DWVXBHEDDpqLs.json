@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181714,
       "name": "B2B (feat. sbk)",
       "url": "https://open.spotify.com/track/61zywNnc5bpFnXCP3mldfx"
@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 235142,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/14Tg7qSaZNtb1Xs3ZZheeW"
@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 306086,
       "name": "BRING IT BACK UP",
       "url": "https://open.spotify.com/track/4aaPAtvYlXKbhLNxPq9aRD"
@@ -4250,6 +4250,24 @@
       "duration_ms": 269000,
       "name": "CHIPS",
       "url": "https://open.spotify.com/track/557yYTTGh7lcB8wE1Cbn6k"
+    },
+    {
+      "album": {
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/6KiJHWnUx7PC0luCoNhIMN"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/4CbORVOeuig8BjedYybW4g"
     },
     {
       "album": {
@@ -5902,7 +5920,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 251720,
       "name": "Do It",
       "url": "https://open.spotify.com/track/53fmJmJRNaL4gpglopAs2S"
@@ -9139,6 +9157,24 @@
     },
     {
       "album": {
+        "name": "Radiate EP",
+        "url": "https://open.spotify.com/album/2eqw2MGAoPi94XmLg9tuYQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Carder",
+          "url": "https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236147,
+      "name": "Gridlock",
+      "url": "https://open.spotify.com/track/0PGveK8niyJg9FSIWRSujq"
+    },
+    {
+      "album": {
         "name": "Soul on Ice EP PT1",
         "url": "https://open.spotify.com/album/0EyIginK61lxZJEkODvC9w"
       },
@@ -10458,7 +10494,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 206776,
       "name": "I Wander (IV + V)",
       "url": "https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx"
@@ -10856,7 +10892,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 228000,
       "name": "In-Ear Mix",
       "url": "https://open.spotify.com/track/6AazaZzUSUNF4udJncnAbF"
@@ -11864,6 +11900,24 @@
       "duration_ms": 212015,
       "name": "Lei do Baile",
       "url": "https://open.spotify.com/track/3KAsxrlMdJfslK4vZsDedO"
+    },
+    {
+      "album": {
+        "name": "Lemon Pepper Wet/I Got It",
+        "url": "https://open.spotify.com/album/22107GGVdE3riRbTMxn5qt"
+      },
+      "artists": [
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Lemon Pepper Wet",
+      "url": "https://open.spotify.com/track/0zmigDNAsPFgZ8oEb0Xrb6"
     },
     {
       "album": {
@@ -13029,6 +13083,24 @@
     },
     {
       "album": {
+        "name": "Memph",
+        "url": "https://open.spotify.com/album/7ykx3XarVzrmIl5onvRtiB"
+      },
+      "artists": [
+        {
+          "name": "Bodhi",
+          "url": "https://open.spotify.com/artist/1C545778m57qWQwISWGAHD"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Memph",
+      "url": "https://open.spotify.com/track/4Sj81pBquHaXHnOg7GkojE"
+    },
+    {
+      "album": {
         "name": "Anarcho Disco Vol. 1",
         "url": "https://open.spotify.com/album/72YwO4P2Y9bVHCnyaGbjKR"
       },
@@ -13052,6 +13124,24 @@
       "duration_ms": 452697,
       "name": "Merpa",
       "url": "https://open.spotify.com/track/6TmHSrZTZY48z3OvSxBS9L"
+    },
+    {
+      "album": {
+        "name": "Midnight Mirage",
+        "url": "https://open.spotify.com/album/1C9U12wWVzo3GAPdqBeFXm"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Pagliara",
+          "url": "https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370402,
+      "name": "Midnight Mirage",
+      "url": "https://open.spotify.com/track/2ctPFNe8Mk6wQdUK1fSvgd"
     },
     {
       "album": {
@@ -14708,7 +14798,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 287953,
       "name": "One Hundred",
       "url": "https://open.spotify.com/track/16npxHfsCig9DMAtoy19UO"
@@ -16441,6 +16531,24 @@
     },
     {
       "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/0gBkWjghruwHDlOTBeivu6"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345232,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/2ZtX1l0Riv9M3MZIQCNBK3"
+    },
+    {
+      "album": {
         "name": "Quimperl\u00e9",
         "url": "https://open.spotify.com/album/2rSMXFNCRIzTsKBsQK71RS"
       },
@@ -16738,6 +16846,24 @@
       "duration_ms": 419500,
       "name": "Ready For The Floor - Mella Dee Dub",
       "url": "https://open.spotify.com/track/0TFQhAJfvLx9EtUnPKFDWq"
+    },
+    {
+      "album": {
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/3Ezb5SQPLTgYJ0biynEcg5"
+      },
+      "artists": [
+        {
+          "name": "Aurora Halal",
+          "url": "https://open.spotify.com/artist/4I8qgsaz4mQa9ICeCPibIF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353053,
+      "name": "Red Alert",
+      "url": "https://open.spotify.com/track/78ll8ok1QC3egKeaDanDyA"
     },
     {
       "album": {
@@ -17274,6 +17400,24 @@
       "duration_ms": 255482,
       "name": "Rule All Da Sound",
       "url": "https://open.spotify.com/track/5VK2uhkXK1fu9RORhhNXGd"
+    },
+    {
+      "album": {
+        "name": "Run & Hide",
+        "url": "https://open.spotify.com/album/5hEKCcSlhzAyHw6nzXM93M"
+      },
+      "artists": [
+        {
+          "name": "Arundel",
+          "url": "https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208143,
+      "name": "Run & Hide",
+      "url": "https://open.spotify.com/track/6V6K995cgRCVdWsmsT6qR1"
     },
     {
       "album": {
@@ -19020,7 +19164,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 238195,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/0uayT2xFf4UQw4ltOglf0m"
@@ -19476,6 +19620,24 @@
       "duration_ms": 178285,
       "name": "Swagg Talk",
       "url": "https://open.spotify.com/track/78ENPjhPvvJXuuyjz4eJqT"
+    },
+    {
+      "album": {
+        "name": "Gradients EP",
+        "url": "https://open.spotify.com/album/2cW145ABR6J0jq4jHbcrpQ"
+      },
+      "artists": [
+        {
+          "name": "Kassian",
+          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185967,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/69uHBpfehhwgr6LEj9MAEa"
     },
     {
       "album": {
@@ -20508,7 +20670,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 210909,
       "name": "The Voices",
       "url": "https://open.spotify.com/track/3PbvwaGLypQtufjpTZ82GJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Rend Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,682 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,744 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 79 | [real thing](https://open.spotify.com/track/0N89vAmOXjjiRvITrhyopC) | [Jordan Blaine](https://open.spotify.com/artist/553lq8J2X0RKxYbQkO512x), [Michaela Halfast](https://open.spotify.com/artist/6f7kRboPvhQq2b3xgjIjx7) | [real thing](https://open.spotify.com/album/46jk5XR8Csu6m2ku47KJaM) | 4:11 |
 | 80 | [In\-Between](https://open.spotify.com/track/46PTcQtkLdI6SLK55RNTkY) | [Anne Elise](https://open.spotify.com/artist/2UPEn7IF9Fo87q1oyS3oKP) | [In\-Between](https://open.spotify.com/album/7p0Ylsmuljmdsk5UySQSjA) | 3:52 |
 
-Snapshot ID: `AAAAAJ8iEUtestjer5AOG7hwv+Rzb5Jf`
+Snapshot ID: `AAAAAJhM0HyUHlEFsvtRCYaGcKvchFQ6`

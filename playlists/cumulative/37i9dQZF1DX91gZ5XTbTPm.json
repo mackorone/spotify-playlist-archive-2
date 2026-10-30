@@ -9008,7 +9008,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 158976,
       "name": "Face Card (with Chris Brown & Bryson Tiller)",
       "url": "https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc"
@@ -10480,7 +10480,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 148778,
       "name": "Fuck The Bag Up",
       "url": "https://open.spotify.com/track/2budWxDt7E5oiwzgkRzE3Y"
@@ -11302,6 +11302,24 @@
       "duration_ms": 204947,
       "name": "Glock 9 (with Lil Zay Osama)",
       "url": "https://open.spotify.com/track/0tRcyxggR2a32pC7Wl51Bd"
+    },
+    {
+      "album": {
+        "name": "SCOOM OR DIE",
+        "url": "https://open.spotify.com/album/2m6RR526QFURlMDjTcgoQu"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Glock O'Clock",
+      "url": "https://open.spotify.com/track/1ZeOlCsM5B0D6Z2UGpVbfC"
     },
     {
       "album": {
@@ -20836,7 +20854,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 161000,
       "name": "No Tears",
       "url": "https://open.spotify.com/track/61cnSeuLJfr1Zc4w8dqi9Q"
@@ -23637,6 +23655,28 @@
     },
     {
       "album": {
+        "name": "Il Caos a Detroit",
+        "url": "https://open.spotify.com/album/49WRWfMaUip79DyFjhnXzn"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        },
+        {
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138531,
+      "name": "PROLLY",
+      "url": "https://open.spotify.com/track/56omE0WC8IUrJ5j4MF9YoF"
+    },
+    {
+      "album": {
         "name": "PROUD OF YOU",
         "url": "https://open.spotify.com/album/1Xtnt4yn49QQZMAWwk64vX"
       },
@@ -25680,7 +25720,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 123333,
       "name": "S-C-O-O-M",
       "url": "https://open.spotify.com/track/7DjF8JYCVbVcYE7PuwogNM"

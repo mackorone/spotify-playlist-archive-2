@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u7530\u99a5\u7504 Hebe",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u66fe\u6c9b\u6148",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 229413,
       "name": "After Everything - HBO\u539f\u5275\u5f71\u96c6\u300a\u4f86\uff01\u91d1\u4f86\u865f\uff01\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/3A0HzxcqgA37hiMo4qiVlS"
@@ -2038,6 +2038,24 @@
       "duration_ms": 213700,
       "name": "Kampung Girl \u666e\u901a\u4eba",
       "url": "https://open.spotify.com/track/4e04LfP6YfVB7Lau3hI4Qh"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/1jKtCMcr9e1vL7loaBO5ZF"
+      },
+      "artists": [
+        {
+          "name": "\u65b9\u54c1\u878d",
+          "url": "https://open.spotify.com/artist/4Z5hQV5kCmLtsWuhHvIVJ9"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158134,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/3dX8hj0G8BJ2ID8ViyWDLZ"
     },
     {
       "album": {
@@ -17950,7 +17968,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 263068,
       "name": "\u706b\u82b1",
       "url": "https://open.spotify.com/track/005eESnSIcR99N474aIINN"
@@ -18528,6 +18546,24 @@
       "duration_ms": 180000,
       "name": "\u7261\u7f8a\u5ea7\u7684\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/3miHgpv8iPx6Rtox6D8I1r"
+    },
+    {
+      "album": {
+        "name": "\u727d\u639b",
+        "url": "https://open.spotify.com/album/5wauSKj0ZVqn7CRvpC7bml"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "\u727d\u639b",
+      "url": "https://open.spotify.com/track/4vPW9udUA3bFCFILwWZntc"
     },
     {
       "album": {

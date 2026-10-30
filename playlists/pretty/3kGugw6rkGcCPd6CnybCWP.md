@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,157 likes - 90 songs - 5 hr 10 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,157 likes - 93 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 88 | [ANOTHER LIFE](https://open.spotify.com/track/1GW9wygil2jJKDdiYJ3PCR) | [ANIQO](https://open.spotify.com/artist/3q7baflM8Rtj29ckEnKAgB) | [ANOTHER LIFE](https://open.spotify.com/album/3AnunbIHnDq8C2fpzd9guG) | 5:42 |
 | 89 | [Ghost Hound](https://open.spotify.com/track/2EkcswWiL2GPEM7RlF3Lpw) | [Ajla](https://open.spotify.com/artist/444HERfjhWqQi0ebUM4cs7) | [Ghost Hound](https://open.spotify.com/album/5lOcrHGSBKWs2zrlk5gyXT) | 3:09 |
 | 90 | [Point of View](https://open.spotify.com/track/7GnGgSnrc2ViUKH4bv80P7) | [SonderJewlz](https://open.spotify.com/artist/1MvoCEOVnydwYl2W7mbvCb) | [Sincerely, Sonder](https://open.spotify.com/album/5OCtmv3vbyJMER7fRt6WoZ) | 3:17 |
+| 91 | [Take Offense](https://open.spotify.com/track/6KTnhdefUqv06K42aw0YlT) | [Punkest](https://open.spotify.com/artist/4qMFkTNAstjymMOMegqOKP) | [Humane!](https://open.spotify.com/album/66tIJHMVDylzOmKh9wMwCo) | 3:47 |
+| 92 | [Spin the gun](https://open.spotify.com/track/7MH5suTqdf2bndpfVZiu2L) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [Spin the gun](https://open.spotify.com/album/2yM3dIfTpsGGgnGIfGzoEK) | 3:54 |
+| 93 | [Sleep](https://open.spotify.com/track/6g5ORS7if31shIjkQpasaU) | [HEADCANNON](https://open.spotify.com/artist/2tStR3BVxSg9R87VXBaVCq) | [Sucker Bet](https://open.spotify.com/album/6mzUppPbexOulDlp66HDJl) | 4:01 |
 
-Snapshot ID: `AAAQPhLnKz5kk4y152rrYf9G9YlbP2uW`
+Snapshot ID: `AAAQQVeRoeHuyU98iaqAqVoMG/fn4lou`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium con Soziedad Alkoholika.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 149999,
       "name": "15 Gramos",
       "url": "https://open.spotify.com/track/158fs2nrDmdCVoxEIjT8pq"
+    },
+    {
+      "album": {
+        "name": "A ciegas",
+        "url": "https://open.spotify.com/album/2kUR0eKm298AXL8KAJU0JB"
+      },
+      "artists": [
+        {
+          "name": "Sinaia",
+          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+        },
+        {
+          "name": "Detrapo",
+          "url": "https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243476,
+      "name": "A ciegas",
+      "url": "https://open.spotify.com/track/6QirEv60ZtEmSwEEZ1Pa0p"
     },
     {
       "album": {
@@ -172,7 +194,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 104727,
       "name": "Abuelo con Peluca",
       "url": "https://open.spotify.com/track/6H7Lxatf46hu7YosWVbmuq"
@@ -1641,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Cosas Nanzis Rubias",
+        "url": "https://open.spotify.com/album/6AjYGBBCEDdErOX1uf8Ros"
+      },
+      "artists": [
+        {
+          "name": "The Birra's Terror",
+          "url": "https://open.spotify.com/artist/2nFiMmCWLvbxZbJqxwtTI8"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95869,
+      "name": "Cosas Nanzis Rubias",
+      "url": "https://open.spotify.com/track/5NmW3yxcaWWc9MO2gebMTW"
+    },
+    {
+      "album": {
         "name": "Criatura",
         "url": "https://open.spotify.com/album/3G4CgHJv566we7b2M16lSq"
       },
@@ -1746,7 +1786,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 177560,
       "name": "Cuidado",
       "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
@@ -2448,6 +2488,24 @@
       "duration_ms": 203707,
       "name": "El miedo en vuestros ojos",
       "url": "https://open.spotify.com/track/56tN69azjYremLhu5g6Qpk"
+    },
+    {
+      "album": {
+        "name": "El mismo de ayer",
+        "url": "https://open.spotify.com/album/1FjCKFF6FUrGuzqAczfpXS"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215465,
+      "name": "El mismo de ayer",
+      "url": "https://open.spotify.com/track/5Aclxo4tpbGLyqmxrQD7Iq"
     },
     {
       "album": {
@@ -3262,6 +3320,24 @@
       "duration_ms": 166886,
       "name": "Generaci\u00f3n Enferma",
       "url": "https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd"
+    },
+    {
+      "album": {
+        "name": "Generaci\u00f3n Rendida (Directo Kafe Antzokia)",
+        "url": "https://open.spotify.com/album/7ASnGjTwBRAUWB9smeGx09"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159380,
+      "name": "Generaci\u00f3n Rendida - Directo Kafe Antzokia",
+      "url": "https://open.spotify.com/track/0kYIR3bCHueMx2MUG3iF15"
     },
     {
       "album": {
@@ -4246,7 +4322,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 91919,
       "name": "La Casika No Se Toca",
       "url": "https://open.spotify.com/track/1WRFoNch7kLbCT9DdtGxay"
@@ -4352,6 +4428,28 @@
       "duration_ms": 114304,
       "name": "La Doloritas o la Incongruencia",
       "url": "https://open.spotify.com/track/1SPug4CXRnPeknVAtopLhK"
+    },
+    {
+      "album": {
+        "name": "LA \u00daLTIMA BALA",
+        "url": "https://open.spotify.com/album/2Xo8LogdTF9vbiX0I8wU0r"
+      },
+      "artists": [
+        {
+          "name": "Non Servium",
+          "url": "https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS"
+        },
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227506,
+      "name": "La enfermedad",
+      "url": "https://open.spotify.com/track/4YaA89dnd3BAYkEMAbPHNi"
     },
     {
       "album": {
@@ -4503,6 +4601,28 @@
     },
     {
       "album": {
+        "name": "La Pen\u00ednsula del Miedo II",
+        "url": "https://open.spotify.com/album/22H41JxPQcdluZSWhnoQyg"
+      },
+      "artists": [
+        {
+          "name": "Gautxori",
+          "url": "https://open.spotify.com/artist/0P67TAOO0GVonby7kuMdqh"
+        },
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157006,
+      "name": "La Pen\u00ednsula del Miedo II",
+      "url": "https://open.spotify.com/track/0SXx4M8gyrNPP8mXTGFGyA"
+    },
+    {
+      "album": {
         "name": "La Prospe",
         "url": "https://open.spotify.com/album/2Zf0oDGiTkLe5QXidCzLi8"
       },
@@ -4540,7 +4660,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 135175,
       "name": "La Que Nos Viene",
       "url": "https://open.spotify.com/track/0CBySnUxUPQQte8rMsdPdA"
@@ -5070,7 +5190,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 157337,
       "name": "Luigi",
       "url": "https://open.spotify.com/track/41kXkdEBkaOlZ9KSSSWDfw"
@@ -5498,7 +5618,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 200168,
       "name": "Mi \u00fanica salida",
       "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
@@ -5516,7 +5636,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 158437,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/5nKVeHvxJqylDBJBHBQy0C"
@@ -5654,7 +5774,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219185,
       "name": "Morir\u00e1s Sin Nada",
       "url": "https://open.spotify.com/track/50OOpdpR1iITet4ZXt0BKP"
@@ -5886,6 +6006,32 @@
       "duration_ms": 163266,
       "name": "Navaja y Veneno",
       "url": "https://open.spotify.com/track/6G3hl8pCP90TseYZXis3lo"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a Bala",
+        "url": "https://open.spotify.com/album/7gKI5zEnU6NKeLhXhQo0bh"
+      },
+      "artists": [
+        {
+          "name": "NI\u00d1A COYOTE eta CHICO TORNADO",
+          "url": "https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW"
+        },
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+        },
+        {
+          "name": "NI\u00d1A BALA",
+          "url": "https://open.spotify.com/artist/4gTQqyDjLfLJbizRQpEKU6"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170459,
+      "name": "Nena bala",
+      "url": "https://open.spotify.com/track/0bVE8VHTJObpK38myvBTBT"
     },
     {
       "album": {
@@ -6374,6 +6520,28 @@
       "duration_ms": 305993,
       "name": "Nuestra guerra",
       "url": "https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX"
+    },
+    {
+      "album": {
+        "name": "Nuestra Huella",
+        "url": "https://open.spotify.com/album/7JYzGtcNCkhdeeBEz4iLD1"
+      },
+      "artists": [
+        {
+          "name": "Obsesi\u00f3n Fatal",
+          "url": "https://open.spotify.com/artist/5Ic9AEmWPrNID2sMAsFYjP"
+        },
+        {
+          "name": "Fernando Reincidentes",
+          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258221,
+      "name": "Nuestra Huella",
+      "url": "https://open.spotify.com/track/4q1Gvn24rmm41jh1kWZcvj"
     },
     {
       "album": {
@@ -7992,7 +8160,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 246000,
       "name": "S\u00edndrome de Trinchera",
       "url": "https://open.spotify.com/track/5LFfB9qbTLFQ6ni0Y287oo"
@@ -8112,6 +8280,28 @@
       "duration_ms": 90250,
       "name": "The Rally",
       "url": "https://open.spotify.com/track/3yHXfZAw39WdfwPZNG32sB"
+    },
+    {
+      "album": {
+        "name": "Nuestro Hogar",
+        "url": "https://open.spotify.com/album/28W3WnWO9usx54FOvZeNhF"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        },
+        {
+          "name": "Periferia",
+          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224074,
+      "name": "Tierra Firme",
+      "url": "https://open.spotify.com/track/6J3PuFYwsfV6aVN1v27gOM"
     },
     {
       "album": {

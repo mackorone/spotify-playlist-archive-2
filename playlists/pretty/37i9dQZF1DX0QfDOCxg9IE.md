@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,343 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,339 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Aigaio](https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Aigaio](https://open.spotify.com/album/0uNhF7NbXx5MHKICl0f5Dk) | 4:04 |
 | 60 | [THALASSA AKRIVI](https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Love, Rack.](https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu) | 2:49 |
 
-Snapshot ID: `AAAAAPTg3tPasoe1bYuSx6hVfjvUW3fr`
+Snapshot ID: `AAAAAIzIRIy+cSrtIOdwtZj+QC++2GHn`

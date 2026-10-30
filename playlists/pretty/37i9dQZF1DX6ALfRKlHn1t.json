@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1135888,
+  "num_followers": 1135713,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9w3TAnrXi0vjMnM4DvHyDU6y33",
+  "snapshot_id": "AAAAAEfQojW4TL840D33dcVlsuVr4uVi",
   "tracks": [
     {
       "added_at": "2026-09-09 16:28:51",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 161007,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/5bwMHh1cYrDB9PXa5mKjEb"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 211080,
       "name": "Amber",
       "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
-        "name": "Blue Sky Mentality",
-        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 161007,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/5bwMHh1cYrDB9PXa5mKjEb"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
         "name": "We Were Dead Before The Ship Even Sank",
         "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -1079,22 +1095,6 @@
       "duration_ms": 227554,
       "name": "Feel Like That (feat. Bradley Nowell)",
       "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Annie",
-        "url": "https://open.spotify.com/album/6Xw7JEdRTUg7XEncbsWQBn"
-      },
-      "artists": [
-        {
-          "name": "Sun Room",
-          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Annie",
-      "url": "https://open.spotify.com/track/0C7ArEWOoGnMbIA4Xxl2X7"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
         "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
         "url": "https://open.spotify.com/album/477gzTVWjJWGc7kFTvzwma"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+        "name": "Annie",
+        "url": "https://open.spotify.com/album/6Xw7JEdRTUg7XEncbsWQBn"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Sun Room",
+          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ"
+      "duration_ms": 209426,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/0C7ArEWOoGnMbIA4Xxl2X7"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -1223,6 +1207,22 @@
       "duration_ms": 269826,
       "name": "White Horses",
       "url": "https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ"
     },
     {
       "added_at": "2026-09-09 16:28:51",

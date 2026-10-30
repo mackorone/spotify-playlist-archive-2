@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Shai Gilgeous\-Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,333 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,366 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 | 5 | [EURO JACK](https://open.spotify.com/track/65tITsOdHBi38v9AH2g6Og) | [GoVanni](https://open.spotify.com/artist/5CixTI3FXT2FHjc3Uq05sB) | [EURO JACK](https://open.spotify.com/album/2A44krERv8vTbCh6DyjlWu) | 2:00 |
 | 6 | [African king](https://open.spotify.com/track/1Y9pRwqd9axGHQb1VMqz93) | [Diorvsyou](https://open.spotify.com/artist/6EoHLAwai5b3t4VyqadsOj) | [Ashes](https://open.spotify.com/album/0FWmi8yy3q8R9PQTobnmAH) | 2:03 |
 | 7 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/album/6tz75fOe1tirQPA9UPdu8p) | 2:35 |
-| 8 | [YaTOO](https://open.spotify.com/track/6PktHSguJ14HATLmrt2BAo) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [YaTOO + CHAKRa](https://open.spotify.com/album/3QK5ZieT5dCaTyg39sjdOy) | 2:19 |
+| 8 | [YaTOO](https://open.spotify.com/track/6PktHSguJ14HATLmrt2BAo) | [Len Lucci](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [YaTOO + CHAKRa](https://open.spotify.com/album/3QK5ZieT5dCaTyg39sjdOy) | 2:19 |
 | 9 | [F&N](https://open.spotify.com/track/17pS6vMrWAf4B4M7kdOYlA) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [Studio Addict](https://open.spotify.com/album/3qOLbJpNyobX33Ynoblb5t) | 2:24 |
 | 10 | [Fall Guys](https://open.spotify.com/track/7BrQDMJ4AcQDza9ULRJV6S) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Ball Hog For Life](https://open.spotify.com/album/44jodlDP4L9mvGF6T7wi3i) | 2:07 |
 | 11 | [Iso](https://open.spotify.com/track/5HCqWMuN97uGpEIQdPYewG) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Ball Hog For Life](https://open.spotify.com/album/44jodlDP4L9mvGF6T7wi3i) | 2:25 |
 | 12 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 |
 | 13 | [5unna](https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb), [R5 Homixide](https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:40 |
-| 14 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 |
+| 14 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len Lucci](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 |
 | 15 | [Money](https://open.spotify.com/track/5YbnLKnXsVSOqryu8bxuXb) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Sli'merre 2](https://open.spotify.com/album/5X400ozwTzYNr4C1Y7CXkh) | 3:13 |
 | 16 | [Pretty Wicky](https://open.spotify.com/track/61luK792S1LMK9csNzb02G) | [Grinchset](https://open.spotify.com/artist/7GftN2wWXXy2Vod4pn1JBs), [Shawny Binladen](https://open.spotify.com/artist/3pb0PFyGpYoANMvHIMyWci) | [Merry Wickmas 4](https://open.spotify.com/album/20eIWOQxsNLxYbU5s1cyAM) | 1:30 |
 | 17 | [Okra & Fiji](https://open.spotify.com/track/0W03WRauxElLod4I1Ow7uy) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Okra & Fiji](https://open.spotify.com/album/0dvLKkSZgI8I70XmM0fLJK) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YwMx4zAILa.md) - [plain]
 | 50 | [Walk In Wardrobe](https://open.spotify.com/track/0P6BV6kf3gQ28Wr0PBJ2dS) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:18 |
 | 51 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 |
 
-Snapshot ID: `AAAAAGyxpKVSzHJpikb1HshVbriWa7A5`
+Snapshot ID: `AAAAALWOKuOO2V+ExN0/MFIO0vvXNU+w`

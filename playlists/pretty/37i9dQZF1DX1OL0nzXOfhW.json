@@ -1,13 +1,77 @@
 {
-  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: REGENT \u6797\u6690\u7ae3",
-  "num_followers": 9004,
+  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: PAULA \u5340\u5b50\u7433",
+  "num_followers": 9006,
   "original_name": "RADAR HK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANC4D6TsuwJ+6HVe/UbbTzGNsN9+",
+  "snapshot_id": "AAAAAO6e4OkQgEp1R1+PE4gGn62xUpr7",
   "tracks": [
+    {
+      "added_at": "2026-10-29 16:00:32",
+      "album": {
+        "name": "seven steps",
+        "url": "https://open.spotify.com/album/6D7Y9MgOLNZxCuC7wsMV3s"
+      },
+      "artists": [
+        {
+          "name": "Paula \u5340\u5b50\u7433",
+          "url": "https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Burning Rose",
+      "url": "https://open.spotify.com/track/4PfVHwyQRwA7WEJ3mI2Top"
+    },
+    {
+      "added_at": "2026-10-29 16:00:32",
+      "album": {
+        "name": "\u96e2\u82e6",
+        "url": "https://open.spotify.com/album/1X5EcCUKddrOD6VAcel9fY"
+      },
+      "artists": [
+        {
+          "name": "REGENT \u6797\u6690\u7ae3",
+          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "\u96e2\u82e6",
+      "url": "https://open.spotify.com/track/52jItSdc5UpiXn940qFl3w"
+    },
+    {
+      "added_at": "2026-10-29 16:00:32",
+      "album": {
+        "name": "\u665a\u00b7\u5b89\u6b4c",
+        "url": "https://open.spotify.com/album/1CymVq4NlMFTefEAYKSIDs"
+      },
+      "artists": [
+        {
+          "name": "\u665a\u5b89\u8389\u8389",
+          "url": "https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj"
+        }
+      ],
+      "duration_ms": 249566,
+      "name": "\u665a\u00b7\u5b89\u6b4c",
+      "url": "https://open.spotify.com/track/29jjQRtVgkH155sCmtCuUE"
+    },
+    {
+      "added_at": "2026-10-29 16:00:32",
+      "album": {
+        "name": "\u5b87\u5b99\u53ea\u7d66\u6211\u534a\u65e5",
+        "url": "https://open.spotify.com/album/7LyLL1ugvVJTneBPjxNCEg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Fan",
+          "url": "https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH"
+        }
+      ],
+      "duration_ms": 199726,
+      "name": "\u5b87\u5b99\u53ea\u7d66\u6211\u534a\u65e5",
+      "url": "https://open.spotify.com/track/0EdZ9illPDJOHvhX5iAoAw"
+    },
     {
       "added_at": "2026-07-17 03:49:30",
       "album": {
@@ -23,6 +87,38 @@
       "duration_ms": 187103,
       "name": "\u53e2\u6797\u6cd5\u5247",
       "url": "https://open.spotify.com/track/3J9e7T94daKJoFGHfMooPl"
+    },
+    {
+      "added_at": "2026-07-17 03:49:30",
+      "album": {
+        "name": "PICKY",
+        "url": "https://open.spotify.com/album/0x1XlFTb3Gx4s6Z36ABV6e"
+      },
+      "artists": [
+        {
+          "name": "Jaime Cheung",
+          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
+        }
+      ],
+      "duration_ms": 128031,
+      "name": "PICKY",
+      "url": "https://open.spotify.com/track/2IccNAIFnWsgRfIVfTNRZv"
+    },
+    {
+      "added_at": "2026-07-17 03:49:30",
+      "album": {
+        "name": "\u8981\u9084",
+        "url": "https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "\u8981\u9084",
+      "url": "https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt"
     },
     {
       "added_at": "2026-07-17 03:49:30",
@@ -91,38 +187,6 @@
     {
       "added_at": "2026-07-17 03:49:30",
       "album": {
-        "name": "\u8981\u9084",
-        "url": "https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai"
-      },
-      "artists": [
-        {
-          "name": "CONSTANCE",
-          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "\u8981\u9084",
-      "url": "https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt"
-    },
-    {
-      "added_at": "2026-07-17 03:49:30",
-      "album": {
-        "name": "PICKY",
-        "url": "https://open.spotify.com/album/0x1XlFTb3Gx4s6Z36ABV6e"
-      },
-      "artists": [
-        {
-          "name": "Jaime Cheung",
-          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
-        }
-      ],
-      "duration_ms": 128031,
-      "name": "PICKY",
-      "url": "https://open.spotify.com/track/2IccNAIFnWsgRfIVfTNRZv"
-    },
-    {
-      "added_at": "2026-07-17 03:49:30",
-      "album": {
         "name": "\u6c92\u6709\u4f60\u76840430",
         "url": "https://open.spotify.com/album/7rxwYtzcmoWTNl40dqGXS0"
       },
@@ -135,22 +199,6 @@
       "duration_ms": 236000,
       "name": "\u6c92\u6709\u4f60\u76840430",
       "url": "https://open.spotify.com/track/20rrb4jVMWtgV3BPwNhMK3"
-    },
-    {
-      "added_at": "2026-07-17 03:49:30",
-      "album": {
-        "name": "Re:Uni",
-        "url": "https://open.spotify.com/album/19tCSebufXa3TQpYgGmjVC"
-      },
-      "artists": [
-        {
-          "name": "REGENT \u6797\u6690\u7ae3",
-          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
-        }
-      ],
-      "duration_ms": 176682,
-      "name": "Twinkle Twinkle Little Love",
-      "url": "https://open.spotify.com/track/3g7TMIVAUWJBhXzLpUVdoc"
     },
     {
       "added_at": "2026-07-17 03:49:30",

@@ -1,12 +1,12 @@
 {
   "description": "R\u00e4nta p\u00e5 r\u00e4nta... \ud83d\udcb8",
-  "num_followers": 348530,
+  "num_followers": 348488,
   "original_name": "Grisch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJPca9wl0N6nlHj1AkqVgQwtRyZV",
+  "snapshot_id": "AAAAABFiO5nfp/MzxXHgTvyOQyhRNSDj",
   "tracks": [
     {
       "added_at": "2025-10-21 12:38:57",
@@ -479,18 +479,30 @@
     {
       "added_at": "2025-10-21 12:38:57",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Stardust",
+          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
         }
       ],
-      "duration_ms": 177525,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+      "duration_ms": 403293,
+      "name": "Music Sounds Better With You",
+      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
     },
     {
       "added_at": "2025-10-21 12:38:57",
@@ -519,30 +531,18 @@
     {
       "added_at": "2025-10-21 12:38:57",
       "album": {
-        "name": "Music Sounds Better With You",
-        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
       "artists": [
         {
-          "name": "Stardust",
-          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
-        },
-        {
-          "name": "Benjamin Diamond",
-          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "Thomas Bangalter",
-          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
         }
       ],
-      "duration_ms": 403293,
-      "name": "Music Sounds Better With You",
-      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt"
+      "duration_ms": 177525,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2025-10-21 12:38:57",

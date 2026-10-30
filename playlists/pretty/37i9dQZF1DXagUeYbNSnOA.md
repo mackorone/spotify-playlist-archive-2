@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Blua\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,881 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,941 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |
 | 50 | [Tienes Suerte](https://open.spotify.com/track/5NZN27iyaaUGNRUGHKHdz1) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Tienes Suerte](https://open.spotify.com/album/7IgL1CTV3nH7yIQY80yT9s) | 3:12 |
 
-Snapshot ID: `AAAAACZtEZwPLec42H1aPQ8wnYnrAfjc`
+Snapshot ID: `AAAAAFJv5Hi0QM/G7xI3DPiBdGrwN1OV`

@@ -1,13 +1,105 @@
 {
-  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: Bugoy Na Koykoy",
-  "num_followers": 1535899,
+  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: SCOOP DOGG",
+  "num_followers": 1536435,
   "original_name": "KALYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMR8JwaHbTni3hcpR96tCqhiolSV",
+  "snapshot_id": "AAAAAD4qkaOc9imCifpLJy899eRnQms8",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:02:20",
+      "album": {
+        "name": "Baby 123",
+        "url": "https://open.spotify.com/album/6z2T61xva7VFBk7a2rUmrx"
+      },
+      "artists": [
+        {
+          "name": "RAPROJECT SIX",
+          "url": "https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59"
+        },
+        {
+          "name": "MADAM SAUCE",
+          "url": "https://open.spotify.com/artist/3yL6zbQBFZbBp2cUG38Eu2"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Baby 123",
+      "url": "https://open.spotify.com/track/3chBLXLQgj1KB2h1KgQxmF"
+    },
+    {
+      "added_at": "2026-10-30 04:01:12",
+      "album": {
+        "name": "Bisaya Excellence",
+        "url": "https://open.spotify.com/album/6eqHoDF3pHhwJqjwSY2JAf"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Society",
+          "url": "https://open.spotify.com/artist/4WUC1M0EpVDrx7xKILoLy6"
+        }
+      ],
+      "duration_ms": 124793,
+      "name": "Bisaya Excellence",
+      "url": "https://open.spotify.com/track/1MUl24ytWnIfk1Tcp1iRvN"
+    },
+    {
+      "added_at": "2026-10-23 04:00:48",
+      "album": {
+        "name": "PRADA",
+        "url": "https://open.spotify.com/album/5nuFcpZrWrxc2lrK9ahRi0"
+      },
+      "artists": [
+        {
+          "name": "SCOOP DOGG",
+          "url": "https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2"
+        },
+        {
+          "name": "Daarth",
+          "url": "https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "PRADA",
+      "url": "https://open.spotify.com/track/0TgoyRMN9P4kscOnFOSEoz"
+    },
+    {
+      "added_at": "2026-10-30 04:01:12",
+      "album": {
+        "name": "SALINGPUSA",
+        "url": "https://open.spotify.com/album/2d93wVVEW72lW6oEEHgrwp"
+      },
+      "artists": [
+        {
+          "name": "Matt Habit",
+          "url": "https://open.spotify.com/artist/7DUHV9eV5ylOpADLzvISe4"
+        }
+      ],
+      "duration_ms": 151363,
+      "name": "SALINGPUSA",
+      "url": "https://open.spotify.com/track/2Fsh0WRlXMWsc6PElFzvlo"
+    },
+    {
+      "added_at": "2026-10-30 04:01:12",
+      "album": {
+        "name": "Buenos Dias",
+        "url": "https://open.spotify.com/album/47OBptQQJZdsSVRQXcTjzP"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "duration_ms": 225937,
+      "name": "Buenos Dias",
+      "url": "https://open.spotify.com/track/2gJ9yQunku9U74uOkWK2og"
+    },
     {
       "added_at": "2026-10-23 04:00:48",
       "album": {
@@ -47,46 +139,6 @@
       "duration_ms": 157705,
       "name": "Dito Ka Muna",
       "url": "https://open.spotify.com/track/12xTyqfe8N1lFDGSXV766I"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
-        "name": "Baby 123",
-        "url": "https://open.spotify.com/album/6z2T61xva7VFBk7a2rUmrx"
-      },
-      "artists": [
-        {
-          "name": "RAPROJECT SIX",
-          "url": "https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59"
-        },
-        {
-          "name": "MADAM SAUCE",
-          "url": "https://open.spotify.com/artist/3yL6zbQBFZbBp2cUG38Eu2"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Baby 123",
-      "url": "https://open.spotify.com/track/3chBLXLQgj1KB2h1KgQxmF"
-    },
-    {
-      "added_at": "2026-10-23 04:00:48",
-      "album": {
-        "name": "PRADA",
-        "url": "https://open.spotify.com/album/5nuFcpZrWrxc2lrK9ahRi0"
-      },
-      "artists": [
-        {
-          "name": "SCOOP DOGG",
-          "url": "https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2"
-        },
-        {
-          "name": "Daarth",
-          "url": "https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "PRADA",
-      "url": "https://open.spotify.com/track/0TgoyRMN9P4kscOnFOSEoz"
     },
     {
       "added_at": "2026-10-16 04:02:20",
@@ -775,34 +827,6 @@
     {
       "added_at": "2026-10-16 04:02:20",
       "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/0RM5WmSXKKOH3Xjlqj9r4X"
-      },
-      "artists": [
-        {
-          "name": "Gat Putch",
-          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
-        },
-        {
-          "name": "Ghoti Scale",
-          "url": "https://open.spotify.com/artist/50teFCw4EgxAKJ6boDbrJi"
-        },
-        {
-          "name": "Uncle Dags",
-          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
-        },
-        {
-          "name": "Godd Patron",
-          "url": "https://open.spotify.com/artist/4Rn9rDVPtPwhQns97r95JO"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/02fy6llneoW7xbL97qHZoF"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
         "name": "LiFT OFF MiXTAPE",
         "url": "https://open.spotify.com/album/6AcssXGgA6H1jYq2eTVMsZ"
       },
@@ -859,26 +883,6 @@
       "duration_ms": 140973,
       "name": "DI TO HIMALA",
       "url": "https://open.spotify.com/track/37ZH6VsIUmwRNX7kj6yDZU"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
-        "name": "FAMOUS RICH",
-        "url": "https://open.spotify.com/album/0oEoj4Jc24pwUphdzvE7jp"
-      },
-      "artists": [
-        {
-          "name": "THUGSTA",
-          "url": "https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x"
-        },
-        {
-          "name": "Uncle Dags",
-          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
-        }
-      ],
-      "duration_ms": 225512,
-      "name": "FAMOUS RICH",
-      "url": "https://open.spotify.com/track/23yRNRMM5BrsvKx7CCxfuZ"
     },
     {
       "added_at": "2026-10-16 04:02:20",
@@ -983,30 +987,6 @@
       "duration_ms": 172800,
       "name": "Pacman",
       "url": "https://open.spotify.com/track/30AuoudIXCLOcslwVi9zBD"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
-        "name": "Silly Hoes",
-        "url": "https://open.spotify.com/album/2f9Lde2RhjwmEoZaV8wWg7"
-      },
-      "artists": [
-        {
-          "name": "GHR",
-          "url": "https://open.spotify.com/artist/2CiqTtIxC5APYM10TLosCs"
-        },
-        {
-          "name": "Tommie King",
-          "url": "https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm"
-        },
-        {
-          "name": "Uncle Dags",
-          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
-        }
-      ],
-      "duration_ms": 225428,
-      "name": "Silly Hoes",
-      "url": "https://open.spotify.com/track/45NuLJTJl0LYVEKeeNDDGS"
     },
     {
       "added_at": "2026-10-16 04:02:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > after dark beats that stay up with you 🌙  for night owls, night drives, or midnight thoughts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,882 likes - 100 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,904 likes - 100 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 99 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 |
 | 100 | [Lucid](https://open.spotify.com/track/2spoQnHvSANa0W6d567SjA) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Lucid](https://open.spotify.com/album/4fLLQYSeCv7meJmc0KnI09) | 2:41 |
 
-Snapshot ID: `AAAAAK7/JLergo4RsMp0w1Lsha2Cp7ml`
+Snapshot ID: `AAAAAF8wwCSERuJkEDzbwGYHeoEnuTYB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,581 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,836 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 28 | [Into Those Woods](https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [I Saw Nothing Good so I Left](https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8) | 3:23 |
 | 29 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 |
 | 30 | [Not All Are Real](https://open.spotify.com/track/4XtR1RgLRyY6WJmbH1nyRK) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [This Presence Like a Breeze](https://open.spotify.com/album/1eKRuP1xOrCBLpyoWEbcmQ) | 3:57 |
-| 31 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
+| 31 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
 | 32 | [This Love](https://open.spotify.com/track/11WExd5tfFgg31WPNHNQnm) | [Hallows](https://open.spotify.com/artist/4pw10fTRjfQtjRhy25G5W6) | [This Love](https://open.spotify.com/album/4bQqCTyZTng6pqZagtuoTD) | 3:44 |
-| 33 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
-| 34 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
+| 33 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
+| 34 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 35 | [Courtroom Drama](https://open.spotify.com/track/3KKMDL3bSgEecSvEGXX70O) | [Agatha is Dead!](https://open.spotify.com/artist/3t12sehooJP6lkLBy4h9R1) | [Courtroom Drama](https://open.spotify.com/album/43dClb0aNuhL1j9xzSSHcw) | 3:29 |
 | 36 | [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [21 Nächte wach](https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx) | 2:42 |
 | 37 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 49 | [FRENCH TIPS](https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [ESPERA](https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh) | 2:27 |
 | 50 | [Common Coffin](https://open.spotify.com/track/5eOMtsu5okb1yFtlBqAIn7) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Departed](https://open.spotify.com/album/1joLW4jRpV9ELUuZtzLiVp) | 3:00 |
 
-Snapshot ID: `AAAAAJ+65avmpw7o3CpGCp8JboIJdQWK`
+Snapshot ID: `AAAAAF3S6mxf29FT9hrykXxWWjLHzd96`

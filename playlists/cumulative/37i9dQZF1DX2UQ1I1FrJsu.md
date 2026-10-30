@@ -4,7 +4,7 @@
 
 > smooth, crisp, not too tannic.
 
-242 songs - 14 hr 30 min
+243 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All I Really Want Is You](https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:11 | 2024-01-08 |  |
 | [Andromeda](https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Andromeda](https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L) | 2:03 | 2024-01-08 | 2025-07-07 |
 | [Another Spring](https://open.spotify.com/track/3qBtIPqZrDIPEihiVGurKi) | [Finn Rees](https://open.spotify.com/artist/4VRtrl4vjdooevtaWYZtKb) | [Another Spring](https://open.spotify.com/album/23ajIyQZEpNlbiol3VlqZI) | 3:23 | 2026-08-21 |  |
+| [Another State](https://open.spotify.com/track/5OqtHvor33lxu7eqVWy8lZ) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Another State](https://open.spotify.com/album/4rVkGmXf0CCaZtvafqCuYF) | 2:53 | 2026-10-30 |  |
 | [apartment](https://open.spotify.com/track/1dBUz37qaUHAbl0SuWcJ9p) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [apartment](https://open.spotify.com/album/6dhxa1azr2g6TAC1NBYk1N) | 2:57 | 2025-11-18 | 2026-07-25 |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-08-23 | 2026-04-22 |
 | [asian linen.](https://open.spotify.com/track/6GxsJUQxLphKHiDSG2sDVU) | [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [asian linen.](https://open.spotify.com/album/5IhA7Phn2riGGLwzGAznyq) | 3:01 | 2026-03-06 | 2026-04-04 |
@@ -85,7 +86,7 @@
 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 | 2026-02-27 |  |
 | [Echo](https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:49 | 2024-07-12 |  |
 | [Electric Green Lambo](https://open.spotify.com/track/5cosFdrn8PBmz6eJpD00iq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Electric Green Lambo](https://open.spotify.com/album/4nRdzHLndZ5zRaJvYDn1IM) | 2:35 | 2025-02-07 | 2025-05-15 |
-| [Empire \(feat\. John Carroll Kirby\)](https://open.spotify.com/track/2UTGBS4LQQHR46UnM2fMmV) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Lay Low](https://open.spotify.com/album/4soTMRGtMufO0SL6x3LMgv) | 2:59 | 2025-07-30 |  |
+| [Empire \(feat\. John Carroll Kirby\)](https://open.spotify.com/track/2UTGBS4LQQHR46UnM2fMmV) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Lay Low](https://open.spotify.com/album/4soTMRGtMufO0SL6x3LMgv) | 2:59 | 2025-07-30 | 2026-10-30 |
 | [ENAMEL](https://open.spotify.com/track/5asJb7VIK9F3AqZPIwWiT4) | [Eddie Burns](https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC), [William Corduroy](https://open.spotify.com/artist/7xRplBbf6mXxyN8oONkmRt) | [ENAMEL](https://open.spotify.com/album/3dpRnq3eAFPv1YffIkGkNI) | 1:26 | 2025-02-07 | 2025-03-15 |
 | [End of Time](https://open.spotify.com/track/4aQVmxRFRT0EhGNkLyzUXJ) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 3:46 | 2026-05-01 |  |
 | [Ends Meet](https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ends Meet](https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y) | 3:21 | 2025-02-07 | 2025-03-10 |

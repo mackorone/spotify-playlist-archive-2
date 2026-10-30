@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30f3\u30d0\u30fc\u30c8\u30fc\u30c1",
+        "url": "https://open.spotify.com/album/6gOb9Jv6UpHGBK5rtRRsqY"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210353,
+      "name": "\u30a8\u30f3\u30d0\u30fc\u30c8\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC"
+    },
+    {
+      "album": {
         "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
         "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
       },
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 283633,
       "name": "\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ"

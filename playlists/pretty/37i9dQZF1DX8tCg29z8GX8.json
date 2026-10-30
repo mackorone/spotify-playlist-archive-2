@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 22189,
+  "num_followers": 22215,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAu9o7Ekb2OhNvnZn8x3FBsBa1d8",
+  "snapshot_id": "AAAAAOHe22tuvzx9UQbJDmbtwj9vlFgg",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:44",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "Liquor Store",
         "url": "https://open.spotify.com/album/3f7yVbV4DWziHiUBzcD0Pq"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 149836,
       "name": "Liquor Store",
       "url": "https://open.spotify.com/track/1V4oNBR2e0bSWcRldWYK7S"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -311,22 +311,18 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -371,18 +367,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 166034,
+      "name": "FAMAME",
+      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "365 Days",
         "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 188041,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "CHRISTO DISCO",
-        "url": "https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 166034,
-      "name": "FAMAME",
-      "url": "https://open.spotify.com/track/2Q914tFk8OwSG9GLUQ9peL"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "Pancake",
+        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 149543,
+      "name": "Pancake",
+      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "Major League",
         "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 177931,
       "name": "Major League",
       "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Pancake",
-        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 149543,
-      "name": "Pancake",
-      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 151132,
+      "name": "OTOTROBONSU",
+      "url": "https://open.spotify.com/track/77Fr6MsU40jiBZ3l5hLxDB"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 210566,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 151132,
-      "name": "OTOTROBONSU",
-      "url": "https://open.spotify.com/track/77Fr6MsU40jiBZ3l5hLxDB"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
+        "name": "Y3 Guy",
+        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
+      },
+      "artists": [
+        {
+          "name": "Ypee",
+          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 145146,
+      "name": "Y3 Guy",
+      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
         "name": "This Is Not the Tape III",
         "url": "https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 175148,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -931,22 +931,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Y3 Guy",
-        "url": "https://open.spotify.com/album/3Z8fOUWnYFMrro4bcQqZ5e"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
       },
       "artists": [
         {
-          "name": "Ypee",
-          "url": "https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 145146,
-      "name": "Y3 Guy",
-      "url": "https://open.spotify.com/track/0iEwOSYZAjSsAaB57Ru2LG"
+      "duration_ms": 175148,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1131,26 +1131,18 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Big Bricks II",
-        "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
+        "name": "Your Body (Crazy)",
+        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
       },
       "artists": [
         {
-          "name": "Essumann",
-          "url": "https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 207058,
-      "name": "Big Bricks II",
-      "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
+      "duration_ms": 159272,
+      "name": "Your Body (Crazy)",
+      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1175,18 +1167,58 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Your Body (Crazy)",
-        "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 159272,
-      "name": "Your Body (Crazy)",
-      "url": "https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT"
+      "duration_ms": 187187,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "Big Bricks II",
+        "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
+      },
+      "artists": [
+        {
+          "name": "Essumann",
+          "url": "https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "duration_ms": 207058,
+      "name": "Big Bricks II",
+      "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "MIX MIX (KINGSIZE)",
+        "url": "https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9"
+      },
+      "artists": [
+        {
+          "name": "Gonaboy",
+          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "MIX MIX (KINGSIZE)",
+      "url": "https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 189177,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "CAME OF AGE",
         "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
       },
@@ -1243,18 +1259,34 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "MIX MIX (KINGSIZE)",
-        "url": "https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9"
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
       },
       "artists": [
         {
-          "name": "Gonaboy",
-          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         }
       ],
-      "duration_ms": 180007,
-      "name": "MIX MIX (KINGSIZE)",
-      "url": "https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr"
+      "duration_ms": 189177,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/0BGYDElNNZBTxdp2FZflOF"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1359,18 +1391,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
       },
       "artists": [
         {
           "name": "King Promise",
           "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 187187,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1411,22 +1447,6 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/0BGYDElNNZBTxdp2FZflOF"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/4OLg97i6GF3qN6RbjsA2vi"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 173033,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
-    },
-    {
-      "added_at": "2026-10-23 00:01:44",
-      "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": "2026-10-23 00:01:44",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2026-10-23 00:01:44",
       "album": {
-        "name": "Aketesia",
-        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
+        "name": "Jesus Christ 2",
+        "url": "https://open.spotify.com/album/13CeX9JSszCuegkdi883CA"
       },
       "artists": [
         {
-          "name": "Cojo Rae",
-          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 193562,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
+      "duration_ms": 217399,
+      "name": "Jesus Christ 2",
+      "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
     }
   ],
   "unique_name": "Troski Rhythms",

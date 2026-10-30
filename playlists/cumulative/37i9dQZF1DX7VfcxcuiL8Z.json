@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Stand Atlantic",
+  "description": "The best in new rock. Cover: Radio Free Alice",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186439,
       "name": "All I'll Ever Know",
       "url": "https://open.spotify.com/track/2zSMcbwXJ6aRpb5nx56psa"
@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 234218,
       "name": "easy rider",
       "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 164757,
       "name": "Gummy Bear",
       "url": "https://open.spotify.com/track/3QyuHDL1hZyISsSfCrjgP9"
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 321777,
       "name": "Hypoxia",
       "url": "https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r"
@@ -7168,7 +7168,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178666,
       "name": "life",
       "url": "https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH"
@@ -8915,6 +8915,24 @@
     },
     {
       "album": {
+        "name": "Off It",
+        "url": "https://open.spotify.com/album/3tpcAKCSWFWmOC4RvB67Lx"
+      },
+      "artists": [
+        {
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "Off It",
+      "url": "https://open.spotify.com/track/4Yb8otlM6n89NRvKpj3OTd"
+    },
+    {
+      "album": {
         "name": "Oh Boy",
         "url": "https://open.spotify.com/album/2oYOEFgUFZbic7TyJ2gbyv"
       },
@@ -10193,6 +10211,24 @@
     },
     {
       "album": {
+        "name": "Perfecth",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Run Away From the Mob",
+      "url": "https://open.spotify.com/track/7zRC0N2InIb6GPP67gSD4L"
+    },
+    {
+      "album": {
         "name": "Sungazer",
         "url": "https://open.spotify.com/album/2N4iGvv8PwZdJQL3rNQlrh"
       },
@@ -10720,7 +10756,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 264967,
       "name": "Sister",
       "url": "https://open.spotify.com/track/13EowSp6P5NxD0dI5PabSH"
@@ -11501,6 +11537,24 @@
     },
     {
       "album": {
+        "name": "I Needed To Hear Me Say It",
+        "url": "https://open.spotify.com/album/7EkSLhc3BHY2buIIcU0isD"
+      },
+      "artists": [
+        {
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222093,
+      "name": "Suction Cup",
+      "url": "https://open.spotify.com/track/3GYfz14wywcK3JfJIGOPmE"
+    },
+    {
+      "album": {
         "name": "Sun Has Set",
         "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
       },
@@ -12212,6 +12266,24 @@
       "duration_ms": 206706,
       "name": "The Howl",
       "url": "https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6"
+    },
+    {
+      "album": {
+        "name": "What's In Between",
+        "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222761,
+      "name": "The Intersection",
+      "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
     },
     {
       "album": {
@@ -13388,6 +13460,42 @@
       "duration_ms": 250386,
       "name": "Violins",
       "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
+    },
+    {
+      "album": {
+        "name": "Virtual Lover",
+        "url": "https://open.spotify.com/album/14WobYbgG7aNhM09C7np58"
+      },
+      "artists": [
+        {
+          "name": "xiao xiao",
+          "url": "https://open.spotify.com/artist/4oiBay4ATBcD4ujBsLobCK"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Virtual Lover",
+      "url": "https://open.spotify.com/track/2PpCKWp67hO4NKvQr10Q8o"
+    },
+    {
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/7ivD2qJ3hAoL75JKPxhUfS"
+      },
+      "artists": [
+        {
+          "name": "FANGZ",
+          "url": "https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214682,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6QddY6kBcZW7Kg6a8Y5uAe"
     },
     {
       "album": {

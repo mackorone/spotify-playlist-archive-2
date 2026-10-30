@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Pavitar Lassoi,  BAD Junkie, Amantej Hundal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,381 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,399 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Golden Day's](https://open.spotify.com/track/1o7pwmKzIPrAKD2kXk1Ep9) | [Charna](https://open.spotify.com/artist/7kklA6RvtMSAagUU2h6jhO), [Pavvy Dhanjal](https://open.spotify.com/artist/74hPnuHymna5O4xry1VUT9), [Lxvi](https://open.spotify.com/artist/1ZwS7iQXu4EYRdlvw4EL00) | [Golden Day's](https://open.spotify.com/album/5lKrijOUxyeAjzmiIy9h78) | 2:58 |
 | 75 | [Elevate](https://open.spotify.com/track/6ui4s3fGELCulUVbADlw2j) | [Simar](https://open.spotify.com/artist/4Tw6854stAqKkFzmtG9tej), [Harkabir Honey](https://open.spotify.com/artist/0wMLpmdTTbVj8w1dbu9RqS) | [Elevate](https://open.spotify.com/album/7pYcJPBJ23IBSp9OqRRAcd) | 2:55 |
 
-Snapshot ID: `AAAAACs+TJO0ipBdLtsi4TwZ33n0d9Qq`
+Snapshot ID: `AAAAAK8QkZZizzWa9dl1ra4z/lmB8BPe`

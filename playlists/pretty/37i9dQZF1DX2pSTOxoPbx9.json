@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 863943,
+  "num_followers": 863980,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgeGFI/JBIDsqqVk3QaqQERRx+3",
+  "snapshot_id": "AAAAADno6Wb+tU++fuF+5mHORVSrn3Jo",
   "tracks": [
     {
       "added_at": "2026-04-02 20:42:56",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "More To This",
-        "url": "https://open.spotify.com/album/5e1gKCc5uv3ddRRxOAeuwC"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 171504,
-      "name": "More To This",
-      "url": "https://open.spotify.com/track/6FCN6p3Iq6LBWC4Cx4KgXE"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "From Eden EP",
         "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 266546,
       "name": "Arsonist's Lullabye",
       "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "More To This",
+        "url": "https://open.spotify.com/album/5e1gKCc5uv3ddRRxOAeuwC"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 171504,
+      "name": "More To This",
+      "url": "https://open.spotify.com/track/6FCN6p3Iq6LBWC4Cx4KgXE"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Glass Balloon",
-        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
-      },
-      "artists": [
-        {
-          "name": "Twin Caverns",
-          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
-        }
-      ],
-      "duration_ms": 243667,
-      "name": "Swell",
-      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Coming of Age (demo)",
         "url": "https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Oko",
-        "url": "https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89"
+        "name": "Glass Balloon",
+        "url": "https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8"
       },
       "artists": [
         {
-          "name": "Lena Fayre",
-          "url": "https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ"
+          "name": "Twin Caverns",
+          "url": "https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Every Man Is a Warrior",
-      "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
+      "duration_ms": 243667,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1111,6 +1095,22 @@
       "duration_ms": 160120,
       "name": "Until the Levee",
       "url": "https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Oko",
+        "url": "https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89"
+      },
+      "artists": [
+        {
+          "name": "Lena Fayre",
+          "url": "https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Every Man Is a Warrior",
+      "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "i was cruel - demo take",
-        "url": "https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k"
-      },
-      "artists": [
-        {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "i was cruel - demo take",
-      "url": "https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Hush (Theme From Turn)",
         "url": "https://open.spotify.com/album/7Ktx3fXFQf0zvz3Hbd1DNl"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 197240,
       "name": "Hush - Theme From Turn",
       "url": "https://open.spotify.com/track/6gt6hUfAeCcdDJcmlsD06p"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "i was cruel - demo take",
+        "url": "https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "i was cruel - demo take",
+      "url": "https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Fire Line",
-        "url": "https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Fire Line",
-      "url": "https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "I'll Be Gone",
         "url": "https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 144946,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Fire Line",
+        "url": "https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Fire Line",
+      "url": "https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc"
     },
     {
       "added_at": "2026-04-02 20:42:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Sheheryar Rehan, Lost Frequencies, Zoha Waseem.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,041 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,063 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 99 | [Chan Mahi](https://open.spotify.com/track/6skrQjiZddouEhPpTpwmaw) | [Nigel Bobby](https://open.spotify.com/artist/41kMSDS50c9w9JPJ1YThT9), [Alex Shahbaz](https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp) | [Chan Mahi](https://open.spotify.com/album/1B9UV3cSayU5ahTU4aS5dI) | 3:37 |
 | 100 | [Paas Tere](https://open.spotify.com/track/09MjhMjoeO0pL7Oj2tTQMw) | [Josh Palijo](https://open.spotify.com/artist/6wzqsLRD9mHcLYv5j2FIYx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Paas Tere](https://open.spotify.com/album/3TDus7tRvoXnjJV9Wx7cPz) | 2:35 |
 
-Snapshot ID: `AAAAAPMEjOCnaHarS8AcfQDESKnJSDQP`
+Snapshot ID: `AAAAAG4Ab8RgWWBYACZtrYkUgr2jklF5`

@@ -1,12 +1,12 @@
 {
-  "description": "The UK's biggest rock playlist. Cover: Lambrini Girls",
-  "num_followers": 1454594,
+  "description": "The UK's biggest rock playlist. Cover: PISS",
+  "num_followers": 1454384,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKS8xX6VcNv63AR0lb8B+hZYEOci",
+  "snapshot_id": "AAAAAG4gQOBsvxZZkf8Z//ds2sornbAW",
   "tracks": [
     {
       "added_at": "2026-10-15 23:00:13",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-10-15 23:00:13",
       "album": {
+        "name": "you made me / skin on linen",
+        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
+      },
+      "artists": [
+        {
+          "name": "PISS",
+          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
+        }
+      ],
+      "duration_ms": 174609,
+      "name": "Rote Zora. \u201cResistance is Possible.\u201d Emma, no. 6, June 1984, pp. 39-41.",
+      "url": "https://open.spotify.com/track/4RhzATKCn3I11zThqRc27o"
+    },
+    {
+      "added_at": "2026-10-15 23:00:13",
+      "album": {
         "name": "Dead Company",
         "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
       },
@@ -55,6 +71,22 @@
       "duration_ms": 199555,
       "name": "Dead Company",
       "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
+    },
+    {
+      "added_at": "2026-10-30 00:00:13",
+      "album": {
+        "name": "Perfecth",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Run Away From the Mob",
+      "url": "https://open.spotify.com/track/7zRC0N2InIb6GPP67gSD4L"
     },
     {
       "added_at": "2026-10-15 23:00:13",
@@ -155,6 +187,38 @@
     {
       "added_at": "2026-10-15 23:00:13",
       "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/38hmrb2ZXyxN0BLXAuAiPm"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 206608,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0OwO15Nbw1PmnK7ZSrWChb"
+    },
+    {
+      "added_at": "2026-10-30 00:00:13",
+      "album": {
+        "name": "Surface, Echo & Sound",
+        "url": "https://open.spotify.com/album/1kFTis4C1qmlRNK9jph1qC"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 258327,
+      "name": "Much Love",
+      "url": "https://open.spotify.com/track/4NQt1ZiyEhZtVV2MWXi7BL"
+    },
+    {
+      "added_at": "2026-10-15 23:00:13",
+      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD"
       },
@@ -239,22 +303,6 @@
     {
       "added_at": "2026-10-15 23:00:13",
       "album": {
-        "name": "Higher Ground",
-        "url": "https://open.spotify.com/album/38hmrb2ZXyxN0BLXAuAiPm"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 206608,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0OwO15Nbw1PmnK7ZSrWChb"
-    },
-    {
-      "added_at": "2026-10-15 23:00:13",
-      "album": {
         "name": "Take Me As I Am",
         "url": "https://open.spotify.com/album/52tQxXTKV0TDNHlhZJAJk4"
       },
@@ -267,6 +315,22 @@
       "duration_ms": 214084,
       "name": "Take Me As I Am",
       "url": "https://open.spotify.com/track/5HSsSijaPBz6TlElQeZGF1"
+    },
+    {
+      "added_at": "2026-10-30 00:00:13",
+      "album": {
+        "name": "Till Death & Back",
+        "url": "https://open.spotify.com/album/29TMANIfiWJdR3qzjjdP9h"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 182348,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/2OcU15ZQuDPn1CmbZQ9uWv"
     },
     {
       "added_at": "2026-10-15 23:00:13",
@@ -315,6 +379,22 @@
       "duration_ms": 199200,
       "name": "Bite My Tongue",
       "url": "https://open.spotify.com/track/414NTfPwNeMYTPLIICa2CH"
+    },
+    {
+      "added_at": "2026-10-30 00:00:13",
+      "album": {
+        "name": "Off It",
+        "url": "https://open.spotify.com/album/3tpcAKCSWFWmOC4RvB67Lx"
+      },
+      "artists": [
+        {
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+        }
+      ],
+      "duration_ms": 139374,
+      "name": "Off It",
+      "url": "https://open.spotify.com/track/4Yb8otlM6n89NRvKpj3OTd"
     },
     {
       "added_at": "2026-10-15 23:00:13",
@@ -397,6 +477,22 @@
       "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
     },
     {
+      "added_at": "2026-10-30 00:00:13",
+      "album": {
+        "name": "Everything Under The Sun",
+        "url": "https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 213624,
+      "name": "If I Don't Go",
+      "url": "https://open.spotify.com/track/5XXXFERLsHPaaO4TI4KC8b"
+    },
+    {
       "added_at": "2026-10-15 23:00:13",
       "album": {
         "name": "we are unpeople",
@@ -429,22 +525,6 @@
       "url": "https://open.spotify.com/track/36g619h8gPXcIxOQKDLQ5D"
     },
     {
-      "added_at": "2026-10-15 23:00:13",
-      "album": {
-        "name": "Hound",
-        "url": "https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 267588,
-      "name": "Hound",
-      "url": "https://open.spotify.com/track/6ScXtqGT28VnlH9uRWvvP6"
-    },
-    {
       "added_at": "2026-10-21 13:46:10",
       "album": {
         "name": "Tough",
@@ -461,20 +541,20 @@
       "url": "https://open.spotify.com/track/5lOpq5VJX1UrXYWLu59ONv"
     },
     {
-      "added_at": "2026-10-15 23:00:13",
+      "added_at": "2026-10-30 00:00:13",
       "album": {
-        "name": "Sex Mask",
-        "url": "https://open.spotify.com/album/7rj9rAXuCESyQG80tMLPIN"
+        "name": "ZIRP!",
+        "url": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT"
       },
       "artists": [
         {
-          "name": "Sex Mask",
-          "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 175932,
-      "name": "Lockjaw",
-      "url": "https://open.spotify.com/track/7CWxtMJ6qjMhbPsMTdz3TK"
+      "duration_ms": 243105,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/7hXHa6zkI2g4UEe5LEN3fE"
     },
     {
       "added_at": "2026-10-15 23:00:13",
@@ -507,22 +587,6 @@
       "duration_ms": 152916,
       "name": "Lovers To Enemies",
       "url": "https://open.spotify.com/track/5nQv9VFRM13HK3058fGKQw"
-    },
-    {
-      "added_at": "2026-10-15 23:00:13",
-      "album": {
-        "name": "Where The Goth Girls At?",
-        "url": "https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Where The Goth Girls At?",
-      "url": "https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs"
     },
     {
       "added_at": "2026-10-15 23:00:13",
@@ -703,22 +767,6 @@
       "duration_ms": 209558,
       "name": "Burn Down The Disco",
       "url": "https://open.spotify.com/track/3FgB1xSfll5GpW8hSlALoe"
-    },
-    {
-      "added_at": "2026-10-15 23:00:13",
-      "album": {
-        "name": "you made me / skin on linen",
-        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
-      },
-      "artists": [
-        {
-          "name": "PISS",
-          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
-        }
-      ],
-      "duration_ms": 174609,
-      "name": "Rote Zora. \u201cResistance is Possible.\u201d Emma, no. 6, June 1984, pp. 39-41.",
-      "url": "https://open.spotify.com/track/4RhzATKCn3I11zThqRc27o"
     },
     {
       "added_at": "2026-10-15 23:00:13",
@@ -1011,22 +1059,6 @@
     {
       "added_at": "2026-10-15 23:00:13",
       "album": {
-        "name": "Geordie",
-        "url": "https://open.spotify.com/album/5lwsHJ7mvLXXUix0yG0hKm"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Calls Me Baby",
-          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
-        }
-      ],
-      "duration_ms": 241332,
-      "name": "Geordie",
-      "url": "https://open.spotify.com/track/1J4Rg2p05zFyUvNR0REj2W"
-    },
-    {
-      "added_at": "2026-10-15 23:00:13",
-      "album": {
         "name": "On The Island We Call Home",
         "url": "https://open.spotify.com/album/43KLLjBEpZ6OZKbNFUxdeY"
       },
@@ -1159,22 +1191,6 @@
     {
       "added_at": "2026-10-15 23:00:13",
       "album": {
-        "name": "I've Never Felt So Hated",
-        "url": "https://open.spotify.com/album/0ME1Bbej2WzlHNY5jx9acx"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 196596,
-      "name": "I've Never Felt So Hated",
-      "url": "https://open.spotify.com/track/1uoF9slbLRJpK71X0BU39G"
-    },
-    {
-      "added_at": "2026-10-15 23:00:13",
-      "album": {
         "name": "Stay Lonely",
         "url": "https://open.spotify.com/album/0aGgtqsutT5iDWaWddD5Oe"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 264560,
       "name": "Spilt Milk",
       "url": "https://open.spotify.com/track/6pTyPM8SarPdIgzhz8TdCp"
-    },
-    {
-      "added_at": "2026-10-15 23:00:13",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/4SFaTZZOEnuGRVNvhugVBg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marr",
-          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/75zo79uZOzksHPyf6OX8D0"
     },
     {
       "added_at": "2026-10-15 23:00:13",

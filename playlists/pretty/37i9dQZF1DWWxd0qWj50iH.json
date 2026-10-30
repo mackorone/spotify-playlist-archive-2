@@ -1,12 +1,12 @@
 {
   "description": "A softer space.",
-  "num_followers": 607274,
+  "num_followers": 607179,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHc9KE7bEkhae8dvhNx+xiSt8mwI",
+  "snapshot_id": "AAAAAJmThxeOgrUMhy35eXfi6Ibn/Bz3",
   "tracks": [
     {
       "added_at": "2024-10-10 15:49:38",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Lovesweet",
-        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 194149,
-      "name": "cranberry",
-      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "22, A Million",
@@ -555,6 +539,22 @@
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Whale Call",
-        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 259503,
-      "name": "Whale Call",
-      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Is It?",
@@ -719,6 +703,22 @@
       "duration_ms": 315040,
       "name": "Days Of Lantana",
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Whale Call",
+        "url": "https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 259503,
+      "name": "Whale Call",
+      "url": "https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/1r8gFL6v8mkD8CmwIQu2Lk"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "Glu",
@@ -1203,6 +1187,22 @@
       "duration_ms": 163673,
       "name": "Glu",
       "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Friends That Break Your Heart",
-        "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 153238,
-      "name": "Foot Forward",
-      "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Wide Eyed",
         "url": "https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh"
       },
@@ -1317,20 +1301,20 @@
       "url": "https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r"
     },
     {
-      "added_at": "2024-08-29 19:59:48",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/0vKrFtIDgzdeDIc6rRlcSn"
+        "name": "Friends That Break Your Heart",
+        "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
       },
       "artists": [
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 184571,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG"
+      "duration_ms": 153238,
+      "name": "Foot Forward",
+      "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1363,6 +1347,22 @@
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+    },
+    {
+      "added_at": "2024-08-29 19:59:48",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0vKrFtIDgzdeDIc6rRlcSn"
+      },
+      "artists": [
+        {
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+        }
+      ],
+      "duration_ms": 184571,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG"
     },
     {
       "added_at": "2026-07-23 17:10:49",
@@ -1445,22 +1445,6 @@
       "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "Sure",
@@ -1475,6 +1459,22 @@
       "duration_ms": 248421,
       "name": "Sure",
       "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Love Me In Chapters",
-        "url": "https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF"
-      },
-      "artists": [
-        {
-          "name": "Chrissi",
-          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Love Me In Chapters",
-      "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "gut health",
+        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243469,
+      "name": "gut health",
+      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Small World",
         "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
       },
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "gut health",
-        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
+        "name": "Love Me In Chapters",
+        "url": "https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF"
       },
       "artists": [
         {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
         }
       ],
-      "duration_ms": 243469,
-      "name": "gut health",
-      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
+      "duration_ms": 216933,
+      "name": "Love Me In Chapters",
+      "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
     },
     {
       "added_at": "2024-05-31 15:25:10",

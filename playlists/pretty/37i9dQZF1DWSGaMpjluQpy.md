@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,315 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,521 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 | 54 | [Riverside](https://open.spotify.com/track/2BUh1zO3RVt7YU7ioAUDkA) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Riverside](https://open.spotify.com/album/3b3ExtBZbSetTTliqnKE8o) | 4:00 |
 | 55 | [Honeymoon \(Rain\)](https://open.spotify.com/track/2qQqxXl7I6Z2QhpU5zPwHl) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Honeymoon \(Rain\)](https://open.spotify.com/album/0qsUKVODzSAZLkDxUlR5KZ) | 4:22 |
 
-Snapshot ID: `AAAAAKxw093/gtZHXAOOIUrUbNZguon/`
+Snapshot ID: `AAAAAM+4/eTPfjLLr46JfEslKPIp5krw`

@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 753348,
+  "num_followers": 753530,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADva8ATtX/1/8Yj+p0wQUQMKZtMd",
+  "snapshot_id": "AAAAAM7w5o5MtCubQdJ4WhWwYzSvdkY/",
   "tracks": [
     {
       "added_at": "2026-02-17 04:46:38",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 183533,
       "name": "Swingin'",
       "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
         }
       ],
-      "duration_ms": 207280,
-      "name": "Redneck Girl",
-      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
+      "duration_ms": 258799,
+      "name": "I'll Still Be Loving You",
+      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/6vuxLk4KSm3iDUjIgPh9Cd"
       },
       "artists": [
         {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 258799,
-      "name": "I'll Still Be Loving You",
-      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+      "duration_ms": 207280,
+      "name": "Redneck Girl",
+      "url": "https://open.spotify.com/track/3GdqfRTNtoAbYsDvipCoVg"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "The Heart of It All",
         "url": "https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 232773,
       "name": "What I'd Say",
       "url": "https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
       "artists": [
         {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
         }
       ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
+      "duration_ms": 220426,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
       "artists": [
         {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
         }
       ],
-      "duration_ms": 220426,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Only One You",
+      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
       },
@@ -1891,18 +1907,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
       },
       "artists": [
         {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Only One You",
-      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
+      "duration_ms": 180800,
+      "name": "Why Does It Have to Be (Wrong or Right)",
+      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1919,22 +1935,6 @@
       "duration_ms": 184946,
       "name": "(That's What You Do) When You're in Love",
       "url": "https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Why Does It Have to Be (Wrong or Right)",
-      "url": "https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
+        "name": "Best Of Gene Watson",
+        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Got No Reason Now For Goin' Home",
+      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
         "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 160773,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
-        "name": "Best Of Gene Watson",
-        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
-      },
-      "artists": [
-        {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Got No Reason Now For Goin' Home",
-      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
     },
     {
       "added_at": "2026-02-17 04:46:38",

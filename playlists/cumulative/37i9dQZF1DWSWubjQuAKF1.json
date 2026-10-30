@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kajetan Wolas",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: kubera",
   "name": "up next",
   "tracks": [
     {
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "__21__",
+        "url": "https://open.spotify.com/album/1b4qo22PIVnuxnD3BwjLQh"
+      },
+      "artists": [
+        {
+          "name": "kubera",
+          "url": "https://open.spotify.com/artist/5VGm5Wvwd5NO7uoYvQcKGw"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "__21__",
+      "url": "https://open.spotify.com/track/6vP6lWqFnY2Mp6GqQKrddI"
+    },
+    {
+      "album": {
         "name": "a little bit",
         "url": "https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n"
       },
@@ -428,7 +446,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
@@ -760,6 +778,28 @@
       "duration_ms": 133687,
       "name": "Avewaw",
       "url": "https://open.spotify.com/track/6Qcuc0dxWFHMV2hRComxeP"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
+      },
+      "artists": [
+        {
+          "name": "Pola",
+          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
     },
     {
       "album": {
@@ -2394,6 +2434,24 @@
       "duration_ms": 141395,
       "name": "Caramel Love",
       "url": "https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe"
+    },
+    {
+      "album": {
+        "name": "Ca\u0142\u0105 noc",
+        "url": "https://open.spotify.com/album/25zHLYu9pqBujSBajPWRgH"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172615,
+      "name": "Ca\u0142\u0105 noc",
+      "url": "https://open.spotify.com/track/3rdOArgTazJOV5JFNFZSTr"
     },
     {
       "album": {
@@ -4230,7 +4288,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 153253,
       "name": "DOM\u00d3WKI",
       "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
@@ -4624,7 +4682,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 133987,
       "name": "Echo Echo",
       "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
@@ -11213,6 +11271,24 @@
     },
     {
       "album": {
+        "name": "NO LUV",
+        "url": "https://open.spotify.com/album/51xvWVptIEi1fE6i4VfyiW"
+      },
+      "artists": [
+        {
+          "name": "maja janowska",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "NO LUV",
+      "url": "https://open.spotify.com/track/6u6DCwbtN56Gj35AGVv46M"
+    },
+    {
+      "album": {
         "name": "No sorry",
         "url": "https://open.spotify.com/album/076dSxuEN0KF6I2O28AySr"
       },
@@ -13236,6 +13312,24 @@
       "duration_ms": 267000,
       "name": "Priorytety",
       "url": "https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj"
+    },
+    {
+      "album": {
+        "name": "Problem Jednego Cia\u0142a",
+        "url": "https://open.spotify.com/album/5zWMFVmPRja3nFtYUWJ9zY"
+      },
+      "artists": [
+        {
+          "name": "Prometh",
+          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Problem Jednego Cia\u0142a",
+      "url": "https://open.spotify.com/track/5i09n6QrJKymJWIKvBebfQ"
     },
     {
       "album": {
@@ -16092,7 +16186,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 241395,
       "name": "Terapia dla par",
       "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
@@ -16730,7 +16824,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 190062,
       "name": "TRESURA",
       "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
@@ -17728,7 +17822,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 143500,
       "name": "Widz\u0119 Ci\u0119",
       "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
@@ -18022,6 +18116,24 @@
       "duration_ms": 166315,
       "name": "Wo\u0142am",
       "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+    },
+    {
+      "album": {
+        "name": "Wpu\u015b\u0107 mnie",
+        "url": "https://open.spotify.com/album/5KiqiHn6IyeYnDIImSf8Ss"
+      },
+      "artists": [
+        {
+          "name": "Seweryn",
+          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Wpu\u015b\u0107 mnie",
+      "url": "https://open.spotify.com/track/1vAFkLXkFq9ZedsVYrzesg"
     },
     {
       "album": {
@@ -18874,7 +18986,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169840,
       "name": "Zapomnij mnie",
       "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
@@ -18948,6 +19060,24 @@
       "duration_ms": 149032,
       "name": "Zawsze",
       "url": "https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd"
+    },
+    {
+      "album": {
+        "name": "Zdj\u0119cie",
+        "url": "https://open.spotify.com/album/0PXk9uaNawVkvMVvtJzeXN"
+      },
+      "artists": [
+        {
+          "name": "Evelina Ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178226,
+      "name": "Zdj\u0119cie",
+      "url": "https://open.spotify.com/track/3TbhyHXTD5QccQZYCJtTI6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Peki Momés
 
-456 songs - 23 hr 21 min
+457 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Asi](https://open.spotify.com/track/2JreBBfR668uVO5ZvOeKjT) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Asi](https://open.spotify.com/album/0yoxluWtV2dTiJ1zUch5k5) | 2:44 | 2024-06-20 | 2024-09-06 |
 | [Aslında](https://open.spotify.com/track/7qFBqAPjhQ4vL53UuRcwT0) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Aslında](https://open.spotify.com/album/2SxYsV38sVmGP4dpmiwK3M) | 2:32 | 2024-07-04 |  |
 | [Atlı Karınca](https://open.spotify.com/track/2d9k45EnYrbdKDZ2IkFl5o) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Atlı Karınca](https://open.spotify.com/album/7qdTfxrw3yNzTCebsKARjz) | 3:42 | 2025-11-06 | 2026-04-04 |
-| [Avcı](https://open.spotify.com/track/2kW0o6GMI6vrrMZMVrwQU8) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Avcı](https://open.spotify.com/album/1TMzza2BjUc0lEgghtaot0) | 3:11 | 2026-10-13 |  |
+| [Avcı](https://open.spotify.com/track/2kW0o6GMI6vrrMZMVrwQU8) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Avcı](https://open.spotify.com/album/1TMzza2BjUc0lEgghtaot0) | 3:11 | 2026-10-13 | 2026-10-30 |
 | [Ay Aman](https://open.spotify.com/track/0VLw7lk8FeLi1zWd4sLVxy) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Ay Aman](https://open.spotify.com/album/0szu7NaN5ikbRTrhLxV5B2) | 2:20 | 2025-09-04 |  |
 | [Ay Ol](https://open.spotify.com/track/3DLozlivQmldVVgPvimefp) | [Ruh](https://open.spotify.com/artist/7JfjCLCMVZFBGoNRJc6qf2) | [Ay Ol](https://open.spotify.com/album/7nrdCzCCJ5xOmwtEht2g9X) | 2:31 | 2024-06-20 | 2024-09-06 |
 | [aynen](https://open.spotify.com/track/3uGC32ZvLDRFgOXh5eiLdb) | [eski iki](https://open.spotify.com/artist/2Tk0PGJJaxn3NcAMfkp5J0) | [aynen](https://open.spotify.com/album/5IA6LVIRR8l2xe68XHJWBp) | 2:17 | 2025-09-25 | 2025-11-30 |
@@ -279,6 +279,7 @@
 | [Nisan](https://open.spotify.com/track/4dC8Zkornu8LjpqkwVGWJe) | [Elyas & Taha](https://open.spotify.com/artist/3B6Y5J77CI7KffJy2FlTP3) | [Nisan](https://open.spotify.com/album/0WZfzW31LNYN1csOaxXH9b) | 3:51 | 2026-01-08 | 2026-01-30 |
 | [Normalde](https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Normalde](https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs) | 2:21 | 2024-06-20 | 2025-03-05 |
 | [o bi' başka](https://open.spotify.com/track/2b7zktvPnAnWSRKJ3gNB84) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [o bi' başka](https://open.spotify.com/album/26P0TgguVaq5GqFcfX6xzk) | 2:34 | 2024-08-22 | 2025-03-10 |
+| [okey](https://open.spotify.com/track/4hZZ30d8BEPddihXrzSy8u) | [Akif Alkan](https://open.spotify.com/artist/0qPm0FQNpJbayQBGybIDol) | [okey](https://open.spotify.com/album/1iMWpXaf8oF9gAb1MzB4tt) | 2:35 | 2026-10-21 |  |
 | [OLMAZ](https://open.spotify.com/track/51rCmW3jxKAb2liAOrhsUh) | [Eb.rar](https://open.spotify.com/artist/5rXjlGU7owfIPxOXXpPp6F) | [KISMET \(A\-Side\)](https://open.spotify.com/album/3WIEA2dUEc9zhNhLK5rBfY) | 3:48 | 2025-08-14 | 2025-09-22 |
 | [olmazsan da olur](https://open.spotify.com/track/0YrMEGICoUQ5QzQPmUDqou) | [ILKE](https://open.spotify.com/artist/6HFMFBSKBz3HrMIvmdM5LP), [Özkan](https://open.spotify.com/artist/4DtIvaqPA65sH5o6oelleY) | [olmazsan da olur](https://open.spotify.com/album/4qaSxmAB6YkR0t9U0Bmbrr) | 3:46 | 2024-06-20 | 2025-03-10 |
 | [olsaydın yanımda](https://open.spotify.com/track/3WHU6ASNzybwyQvFtj7Azp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [olsaydın yanımda](https://open.spotify.com/album/2H4o5OAvY21uM4jsxk1UOL) | 2:11 | 2024-10-17 | 2025-01-02 |

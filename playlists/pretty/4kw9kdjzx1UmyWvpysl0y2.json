@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122348,
+  "num_followers": 122318,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV3csqHhCOCnXIUgcUEuu92Q3f7p6I",
+  "snapshot_id": "AAAV35zZmYy4xwcW3zAR07kXOiSvFLmc",
   "tracks": [
+    {
+      "added_at": "2026-10-29 14:37:15",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2dau74BAlcFQwKuTSaWSWD"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "Lewis Laite",
+          "url": "https://open.spotify.com/artist/2b0vMnjRQjc7qi7y2lrCfb"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Gwr4P9PsgTF2mzXpehVwi"
+    },
+    {
+      "added_at": "2026-10-28 14:01:50",
+      "album": {
+        "name": "Siren Call",
+        "url": "https://open.spotify.com/album/24XIY7jCUUvipr0fioLJBx"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "Siren Call",
+      "url": "https://open.spotify.com/track/2hFOCvwpyhRuLf5WQJV1Uh"
+    },
     {
       "added_at": "2026-10-26 14:42:25",
       "album": {

@@ -1,60 +1,28 @@
 {
-  "description": "Music that's hard to define, but easy to love. Cover: Sophia Stel",
-  "num_followers": 596400,
+  "description": "Music that's hard to define, but easy to love. Cover: Zach Stephenson",
+  "num_followers": 596307,
   "original_name": "Front Left",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOk+4X64DK8vEkU/BKl0O5ogX47J",
+  "snapshot_id": "AAAAAILggpzKOyf9Q8ZzOQImmiaDVMA8",
   "tracks": [
     {
-      "added_at": "2026-10-15 13:00:23",
+      "added_at": "2026-10-29 13:00:12",
       "album": {
-        "name": "the greatest album of all time",
-        "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
+        "name": "I Needed To Hear Me Say It",
+        "url": "https://open.spotify.com/album/7EkSLhc3BHY2buIIcU0isD"
       },
       "artists": [
         {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
         }
       ],
-      "duration_ms": 233708,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "Dopamine Chamber",
-        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 231683,
-      "name": "Mimesis",
-      "url": "https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "Everything On Fire",
-        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
-      },
-      "artists": [
-        {
-          "name": "Maia Toakley",
-          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Everything On Fire",
-      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+      "duration_ms": 222093,
+      "name": "Suction Cup",
+      "url": "https://open.spotify.com/track/3GYfz14wywcK3JfJIGOPmE"
     },
     {
       "added_at": "2026-10-15 13:00:23",
@@ -71,6 +39,22 @@
       "duration_ms": 258353,
       "name": "Bottle",
       "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
+    },
+    {
+      "added_at": "2026-10-15 13:00:23",
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 231683,
+      "name": "Mimesis",
+      "url": "https://open.spotify.com/track/0nLkVbVlIYIPsCTUYYiOuu"
     },
     {
       "added_at": "2026-10-22 13:00:11",
@@ -107,22 +91,6 @@
     {
       "added_at": "2026-10-15 13:00:23",
       "album": {
-        "name": "BedHead",
-        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "BedHead",
-      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
       },
@@ -137,20 +105,20 @@
       "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
     },
     {
-      "added_at": "2026-10-22 13:00:11",
+      "added_at": "2026-10-15 13:00:23",
       "album": {
-        "name": "Whole World Round / Fly",
-        "url": "https://open.spotify.com/album/65SPqtCF6eAsVVigq6cRdO"
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
       },
       "artists": [
         {
-          "name": "Sour Worm",
-          "url": "https://open.spotify.com/artist/2BXCboDuXFujtpOez1aYzW"
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
         }
       ],
-      "duration_ms": 179294,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/1TWxiU8jL0blI5oxWfMgBq"
+      "duration_ms": 233708,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4AgFz88NHRADgVAV2MzOSq"
     },
     {
       "added_at": "2026-10-15 13:00:23",
@@ -169,68 +137,36 @@
       "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
     },
     {
-      "added_at": "2026-10-15 13:00:23",
+      "added_at": "2026-10-29 13:00:12",
       "album": {
-        "name": "Stay Up to Date On Politics",
-        "url": "https://open.spotify.com/album/5zw3SY6tv8Bn5cjeJVkUyW"
+        "name": "What's In Between",
+        "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
       },
       "artists": [
         {
-          "name": "The Buoys",
-          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
         }
       ],
-      "duration_ms": 220715,
-      "name": "Stay Up to Date On Politics",
-      "url": "https://open.spotify.com/track/2zlODSgArTyLCLjqZDdZLT"
+      "duration_ms": 222761,
+      "name": "The Intersection",
+      "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
     },
     {
       "added_at": "2026-10-15 13:00:23",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/1M17nB0SPdGtYxbHvLbFcx"
+        "name": "BedHead",
+        "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
       },
       "artists": [
         {
-          "name": "San Cisco",
-          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 218186,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/29tK0Cf37wzjtvBVy8IWOF"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "Call It What You Want",
-        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 170726,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "vintage vuitton",
-        "url": "https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem"
-      },
-      "artists": [
-        {
-          "name": "earfzilla",
-          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
-        }
-      ],
-      "duration_ms": 86964,
-      "name": "vintage vuitton",
-      "url": "https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u"
+      "duration_ms": 302800,
+      "name": "BedHead",
+      "url": "https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4"
     },
     {
       "added_at": "2026-10-15 13:00:23",
@@ -255,6 +191,38 @@
     {
       "added_at": "2026-10-22 13:00:11",
       "album": {
+        "name": "Whole World Round / Fly",
+        "url": "https://open.spotify.com/album/65SPqtCF6eAsVVigq6cRdO"
+      },
+      "artists": [
+        {
+          "name": "Sour Worm",
+          "url": "https://open.spotify.com/artist/2BXCboDuXFujtpOez1aYzW"
+        }
+      ],
+      "duration_ms": 179294,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/1TWxiU8jL0blI5oxWfMgBq"
+    },
+    {
+      "added_at": "2026-10-15 13:00:23",
+      "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 170726,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
+    },
+    {
+      "added_at": "2026-10-22 13:00:11",
+      "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
       },
@@ -267,6 +235,22 @@
       "duration_ms": 180890,
       "name": "missing person",
       "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "added_at": "2026-10-15 13:00:23",
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/1M17nB0SPdGtYxbHvLbFcx"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/29tK0Cf37wzjtvBVy8IWOF"
     },
     {
       "added_at": "2026-10-15 13:00:23",
@@ -287,18 +271,34 @@
     {
       "added_at": "2026-10-15 13:00:23",
       "album": {
-        "name": "too late",
-        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+        "name": "Stay Up to Date On Politics",
+        "url": "https://open.spotify.com/album/5zw3SY6tv8Bn5cjeJVkUyW"
       },
       "artists": [
         {
-          "name": "Juney Boy",
-          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
         }
       ],
-      "duration_ms": 190157,
-      "name": "too late",
-      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
+      "duration_ms": 220715,
+      "name": "Stay Up to Date On Politics",
+      "url": "https://open.spotify.com/track/2zlODSgArTyLCLjqZDdZLT"
+    },
+    {
+      "added_at": "2026-10-29 13:00:12",
+      "album": {
+        "name": "Dare Me",
+        "url": "https://open.spotify.com/album/1A9wIkzz0hVCcZeYxjbgVn"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 243105,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/25z8lSImljTzcHOJDfZaTp"
     },
     {
       "added_at": "2026-10-15 13:00:23",
@@ -315,38 +315,6 @@
       "duration_ms": 195285,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
-    },
-    {
-      "added_at": "2026-10-22 13:00:11",
-      "album": {
-        "name": "White Flag",
-        "url": "https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        }
-      ],
-      "duration_ms": 185952,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "Extra Time",
-        "url": "https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw"
-      },
-      "artists": [
-        {
-          "name": "Becca Hatch",
-          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
-        }
-      ],
-      "duration_ms": 214967,
-      "name": "Extra Time",
-      "url": "https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC"
     },
     {
       "added_at": "2026-10-15 13:00:23",
@@ -367,18 +335,18 @@
     {
       "added_at": "2026-10-15 13:00:23",
       "album": {
-        "name": "Razor Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+        "name": "Extra Time",
+        "url": "https://open.spotify.com/album/0qwtFpkWPaiMG2wh9Zf5yw"
       },
       "artists": [
         {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
         }
       ],
-      "duration_ms": 364329,
-      "name": "Razor Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+      "duration_ms": 214967,
+      "name": "Extra Time",
+      "url": "https://open.spotify.com/track/0UHNfLj6mQL2kz2qZT5mfC"
     },
     {
       "added_at": "2026-10-22 13:00:11",
@@ -395,6 +363,86 @@
       "duration_ms": 219861,
       "name": "Ngayunya Kungkangku Wangkapayi",
       "url": "https://open.spotify.com/track/1W6S9ejuiWVi4NpPdEm6aC"
+    },
+    {
+      "added_at": "2026-10-15 13:00:23",
+      "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+    },
+    {
+      "added_at": "2026-10-15 13:00:23",
+      "album": {
+        "name": "Everything On Fire",
+        "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Everything On Fire",
+      "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+    },
+    {
+      "added_at": "2026-10-15 13:00:23",
+      "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+      },
+      "artists": [
+        {
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+        }
+      ],
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
+    },
+    {
+      "added_at": "2026-10-15 13:00:23",
+      "album": {
+        "name": "vintage vuitton",
+        "url": "https://open.spotify.com/album/6l9qksdtvLKaFg6SZv1Xem"
+      },
+      "artists": [
+        {
+          "name": "earfzilla",
+          "url": "https://open.spotify.com/artist/65SDZetBIC5qK27DoJUx0f"
+        }
+      ],
+      "duration_ms": 86964,
+      "name": "vintage vuitton",
+      "url": "https://open.spotify.com/track/6Rvi7T8vQkkIYQcp1DWm3u"
+    },
+    {
+      "added_at": "2026-10-22 13:00:11",
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 185952,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx"
     },
     {
       "added_at": "2026-10-15 13:00:23",
@@ -1227,58 +1275,6 @@
       "duration_ms": 178773,
       "name": "Tears Always Burn",
       "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "Already Something",
-        "url": "https://open.spotify.com/album/1Lq89F6X782xpwRl1tbZJI"
-      },
-      "artists": [
-        {
-          "name": "#1 Dads",
-          "url": "https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Already Something",
-      "url": "https://open.spotify.com/track/1vnbXbPXRoTzmCiMf8Vi0c"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "Romanticize",
-        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Romanticize",
-      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
-    },
-    {
-      "added_at": "2026-10-15 13:00:23",
-      "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 292780,
-      "name": "doom",
-      "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
     }
   ],
   "unique_name": "Front Left",

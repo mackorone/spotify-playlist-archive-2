@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "(At Your Best) You Are Love EP",
+        "url": "https://open.spotify.com/album/4apcTXDbf16vO9FiMJibcp"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270933,
+      "name": "At Your Best (You Are Love) - Gangstar Child Remix",
+      "url": "https://open.spotify.com/track/6zrvugbsv1FwQB4j1zvV1f"
+    },
+    {
+      "album": {
         "name": "Sailing Soul(s)",
         "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
@@ -882,7 +904,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 232096,
       "name": "Pick Up Your Feelings",
       "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"

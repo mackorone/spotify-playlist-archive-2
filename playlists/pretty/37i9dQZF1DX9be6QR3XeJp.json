@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists from UK&IE. Cover: Nori",
-  "num_followers": 116396,
+  "description": "Discover your new favourite artists from UK&IE. Cover: Tsatsamis",
+  "num_followers": 116393,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASFxMVHeUOOon3J5VXEPwYhn/gx",
+  "snapshot_id": "AAAAAMH/OVwt3djWU464hgtVXzGDt2hn",
   "tracks": [
+    {
+      "added_at": "2026-10-30 00:00:23",
+      "album": {
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/2gvGcD2Aw8vf458HgUEjKY"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "duration_ms": 206545,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/7vPagNQR5CifjAK9O4LBVC"
+    },
     {
       "added_at": "2026-10-22 23:00:42",
       "album": {

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 368720,
       "name": "A Christmas Hallelujah",
       "url": "https://open.spotify.com/track/3SLIVorgLM8sGjSheFBXKn"
@@ -74,10 +74,32 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 360704,
       "name": "A Great Light",
       "url": "https://open.spotify.com/track/2AO9r5sEWxrKf1n7XwdgsS"
+    },
+    {
+      "album": {
+        "name": "Abide (Christmas)",
+        "url": "https://open.spotify.com/album/53sCmmRlh8D8W7uqaitO6P"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339912,
+      "name": "Abide (Christmas)",
+      "url": "https://open.spotify.com/track/5kOGMyOHYPNda3DC53FvSy"
     },
     {
       "album": {
@@ -126,7 +148,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 471893,
       "name": "Adore Him - Live",
       "url": "https://open.spotify.com/track/0ZLq4q1Yyq06nzfxvqkT1o"
@@ -308,7 +330,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 229175,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x"
@@ -330,7 +352,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 253295,
       "name": "Angels We Have Heard On High / Glorious",
       "url": "https://open.spotify.com/track/2E06L2ThigpDMmzzt6AuoQ"
@@ -712,7 +734,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 203500,
       "name": "Christmas Communion Song",
       "url": "https://open.spotify.com/track/1gCLHAxftuCxq4AyYrSaj8"
@@ -835,6 +857,28 @@
     },
     {
       "album": {
+        "name": "Come Thou Long Expected Jesus",
+        "url": "https://open.spotify.com/album/0QQP4YRdP7RFj7ztCKXiWV"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236773,
+      "name": "Come Thou Long Expected Jesus",
+      "url": "https://open.spotify.com/track/0agSFjFJwEoVUQdtctsP2g"
+    },
+    {
+      "album": {
         "name": "Receive Our King",
         "url": "https://open.spotify.com/album/37RG4Ybo9LMPZ8pArKkzYy"
       },
@@ -868,7 +912,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 254193,
       "name": "Come, O Light",
       "url": "https://open.spotify.com/track/41hCkEii9XvrZ08oT4LkR8"
@@ -952,7 +996,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 219219,
       "name": "Crown Him With Glory",
       "url": "https://open.spotify.com/track/7Fsu6PtkB1wTd4p2VvIxGj"
@@ -1240,7 +1284,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 248267,
       "name": "Glory Hallelujah (Christmas) - Live",
       "url": "https://open.spotify.com/track/7EYEnh1mIoBXn73VjkVJJr"
@@ -1310,7 +1354,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 366386,
       "name": "Go Tell it on the Mountain",
       "url": "https://open.spotify.com/track/7aDZTTiRHCnZC6dQBNay2A"
@@ -1416,7 +1460,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 246653,
       "name": "God With Us - Live",
       "url": "https://open.spotify.com/track/5AMa51Rw3V4sJ2TRNSoS8k"
@@ -1500,7 +1544,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 167558,
       "name": "Great Christmas",
       "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
@@ -1540,7 +1584,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 303960,
       "name": "Hark",
       "url": "https://open.spotify.com/track/0GkNcAGrayxbAubOaQQB9t"
@@ -1562,7 +1606,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 189926,
       "name": "Hark",
       "url": "https://open.spotify.com/track/5fGsXUxn8VqU0b3Lv9dXaV"
@@ -1678,7 +1722,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 313333,
       "name": "Hark the Herald Angels Sing / King of Heaven",
       "url": "https://open.spotify.com/track/1d8bcsMUzPW6e1iCID4gb4"
@@ -1696,7 +1740,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 225280,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/1dgvpiB50RfuemLhYet0P7"
@@ -1869,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "His Name Shall Be",
+        "url": "https://open.spotify.com/album/1dzy5inEoBqKD9zVQU0iJw"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281306,
+      "name": "His Name Shall Be (Isaiah 9)",
+      "url": "https://open.spotify.com/track/4d2Q7fiJtzQ8UELx8CYk8t"
+    },
+    {
+      "album": {
         "name": "His Name Will Be",
         "url": "https://open.spotify.com/album/5mHzBvPP8pTtKx4G9D3Gis"
       },
@@ -1934,7 +1996,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "Holy (Stand In Awe)",
       "url": "https://open.spotify.com/track/65cECo0wKP14gXAOWu3gCP"
@@ -2134,6 +2196,42 @@
       "duration_ms": 249814,
       "name": "Hope is Here",
       "url": "https://open.spotify.com/track/4dM1fAwYIDG5XtncJyUEgB"
+    },
+    {
+      "album": {
+        "name": "Hope of the Ages (Live)",
+        "url": "https://open.spotify.com/album/6gmjNOG2TWLI2XoyMjavyz"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270800,
+      "name": "Hope of the Ages - Live",
+      "url": "https://open.spotify.com/track/4cYEshQ0yPjW7HYmHKWnYp"
+    },
+    {
+      "album": {
+        "name": "How Glorious (Amazing Grace)",
+        "url": "https://open.spotify.com/album/7kTCFL0BsQLkHaV3T1zBAA"
+      },
+      "artists": [
+        {
+          "name": "Carly Ann Taylor",
+          "url": "https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231898,
+      "name": "How Glorious (Amazing Grace)",
+      "url": "https://open.spotify.com/track/5emGKDhI0cLzpYa1eg64ju"
     },
     {
       "album": {
@@ -2422,7 +2520,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 237066,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/5kiQIqLEHVnhWLJwgqgb3P"
@@ -2534,7 +2632,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 418504,
       "name": "Joy to the World - Live",
       "url": "https://open.spotify.com/track/59979l9pipkrI0dGgbazW7"
@@ -2574,7 +2672,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 194092,
       "name": "Joy To The World - Live",
       "url": "https://open.spotify.com/track/5ccO9yPJuSHBSTWoixmdE3"
@@ -2738,7 +2836,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 311700,
       "name": "Lift High (Emmanuel)",
       "url": "https://open.spotify.com/track/6Pzv40MLNnwE0N4xZpYJ2X"
@@ -2778,7 +2876,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 262453,
       "name": "Light Has Come",
       "url": "https://open.spotify.com/track/2rOXIm8nVKLIDhy32ASuoh"
@@ -3064,7 +3162,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 234478,
       "name": "Mothers And Shepherds",
       "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
@@ -3202,7 +3300,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 181571,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/5GbbzDUgRSECUByYTBOZ3e"
@@ -3278,7 +3376,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 385373,
       "name": "O Come Let Us Adore Him",
       "url": "https://open.spotify.com/track/2tXOD8BWnXWFHNaP1AHaGw"
@@ -3304,7 +3402,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 705888,
       "name": "O Come Let Us Adore Him",
       "url": "https://open.spotify.com/track/16q18IXXJ2cAN25DZnBOhn"
@@ -3326,7 +3424,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 307261,
       "name": "O Come Let Us Adore Him",
       "url": "https://open.spotify.com/track/1hLl0Y2I0EXT0umZha8IzW"
@@ -3530,7 +3628,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 163773,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2"
@@ -3548,7 +3646,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 242900,
       "name": "O Come, O Come Emmanuel (Christ Has Come)",
       "url": "https://open.spotify.com/track/4NecbctVwdB59CiVjnqsj8"
@@ -3864,7 +3962,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 375582,
       "name": "O Holy Night - Live",
       "url": "https://open.spotify.com/track/4UjW7OrZxrm4W6vO4eLq2X"
@@ -3934,7 +4032,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 325314,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ"
@@ -3952,7 +4050,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 265002,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/7rvfGtutRIldXUdgjxLQ9D"
@@ -4114,7 +4212,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 174008,
       "name": "Oh Come All Ye Faithful - Stripped Version",
       "url": "https://open.spotify.com/track/6QaGJDoe1idrXDzbwTbZxu"
@@ -4208,7 +4306,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 253022,
       "name": "Our God With Us",
       "url": "https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN"
@@ -4266,7 +4364,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 250786,
       "name": "Peace Upon The Earth",
       "url": "https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7"
@@ -4306,7 +4404,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 300405,
       "name": "Reggae Christmas Medley",
       "url": "https://open.spotify.com/track/1GhKTFDR6hZdMYFLzEYodT"
@@ -4372,7 +4470,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Royal Son",
       "url": "https://open.spotify.com/track/2mYQLQqY6s1fy09XPvxaBd"
@@ -4438,7 +4536,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 274386,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5fpu3LhQlnuc60sjDbssjW"
@@ -4456,7 +4554,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 269212,
       "name": "silent night",
       "url": "https://open.spotify.com/track/5vOlDerdf4ssi8QYNfs2pM"
@@ -4536,7 +4634,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 183200,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle"
@@ -4962,7 +5060,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 256237,
       "name": "The Saviour Is Here",
       "url": "https://open.spotify.com/track/2cqV7UbShPiNITl9UsKJzQ"
@@ -5074,7 +5172,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 173142,
       "name": "To Christ Be The Glory (Emmanuel)",
       "url": "https://open.spotify.com/track/5bpYrnWWg2ZIxXdUaiSGMi"
@@ -5314,7 +5412,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 265236,
       "name": "When We Behold (In Excelsis)",
       "url": "https://open.spotify.com/track/6JkMwbDl9MW7yM3T4mz82K"
@@ -5383,6 +5481,24 @@
     },
     {
       "album": {
+        "name": "Who Would Have Dreamed (Live)",
+        "url": "https://open.spotify.com/album/6QZ3MmOc73k7yTdOJxlIAA"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Who Would Have Dreamed - Live",
+      "url": "https://open.spotify.com/track/64aZcqzNGHVeS9macbohUR"
+    },
+    {
+      "album": {
         "name": "A Red Christmas",
         "url": "https://open.spotify.com/album/4Meec20Fb0TVMdzR9fGBvU"
       },
@@ -5402,7 +5518,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 351263,
       "name": "Who Would Imagine a King",
       "url": "https://open.spotify.com/track/1JpKvxW8dbxPpr6k6z7y1t"

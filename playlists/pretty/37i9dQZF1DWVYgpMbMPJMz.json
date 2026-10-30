@@ -1,13 +1,37 @@
 {
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Josh Baldwin",
-  "num_followers": 1623503,
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Aubree Archibeck of Bethel Music & Martin Smith",
+  "num_followers": 1623468,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHaWw9R1sOxarbU2suXnsDFKfdv8",
+  "snapshot_id": "AAAAAHuwrIPMjbQE4khgF5TaYGlCWWF1",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "Greatness",
+        "url": "https://open.spotify.com/album/0YlejC2NYCGaasm2yVJ6Tt"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "duration_ms": 392113,
+      "name": "Greatness",
+      "url": "https://open.spotify.com/track/476NZpK9PwbxMd7ya9IX9C"
+    },
     {
       "added_at": "2026-10-16 04:42:44",
       "album": {
@@ -193,6 +217,30 @@
       "url": "https://open.spotify.com/track/0oGLqmZ6444crY4vt3Kjru"
     },
     {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "Maranatha / East Gate",
+        "url": "https://open.spotify.com/album/7jqbrkurduXbJmc1ZvLPJL"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Sarahbeth Smith",
+          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
+        },
+        {
+          "name": "Raffi Greco",
+          "url": "https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza"
+        }
+      ],
+      "duration_ms": 608447,
+      "name": "Maranatha / East Gate",
+      "url": "https://open.spotify.com/track/5xMXo51jXTXh1clB4PaUoL"
+    },
+    {
       "added_at": "2026-10-16 04:42:44",
       "album": {
         "name": "Promised Land (Deluxe) [Live]",
@@ -211,26 +259,6 @@
       "duration_ms": 320000,
       "name": "Let Me Say",
       "url": "https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
-        "name": "All The Glory",
-        "url": "https://open.spotify.com/album/4fJIDZZF1WAYSmnY6MbgCs"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 451653,
-      "name": "All The Glory",
-      "url": "https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit"
     },
     {
       "added_at": "2026-10-23 04:02:28",
@@ -477,6 +505,30 @@
       "url": "https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU"
     },
     {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "LIVE AGAIN!",
+        "url": "https://open.spotify.com/album/0gWxmVRXsIkztbPqzaAHWp"
+      },
+      "artists": [
+        {
+          "name": "Covenant Worship",
+          "url": "https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj"
+        },
+        {
+          "name": "Nikki Moltz",
+          "url": "https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz"
+        },
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        }
+      ],
+      "duration_ms": 359295,
+      "name": "LIVE AGAIN!",
+      "url": "https://open.spotify.com/track/31K2CjjCPg6oyAX7ra8AQu"
+    },
+    {
       "added_at": "2026-10-09 04:08:34",
       "album": {
         "name": "Reason That I Sing",
@@ -687,6 +739,26 @@
       "duration_ms": 236256,
       "name": "Praise You All The Same",
       "url": "https://open.spotify.com/track/0g9OD1jRtonXNJaw0xSZgW"
+    },
+    {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "GAIN & GLORY (Live)",
+        "url": "https://open.spotify.com/album/0M166gvnQfbK4fPSu43iDG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        },
+        {
+          "name": "The River Worship",
+          "url": "https://open.spotify.com/artist/5FmxD8Ox8Fr0wd01yEsca0"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "GAIN & GLORY - Live",
+      "url": "https://open.spotify.com/track/2NqZh3T22HXTQITPb1vXgK"
     },
     {
       "added_at": "2026-10-09 04:08:34",
@@ -1195,26 +1267,6 @@
     {
       "added_at": "2026-10-09 04:08:34",
       "album": {
-        "name": "Not My Will (Deluxe)",
-        "url": "https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        },
-        {
-          "name": "Phylisha Mitchell",
-          "url": "https://open.spotify.com/artist/3kKBNNEfSaHcoFb9LFkbUh"
-        }
-      ],
-      "duration_ms": 271086,
-      "name": "Holy Spirit (feat. Phylisha Mitchell)",
-      "url": "https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
       },
@@ -1275,22 +1327,6 @@
     {
       "added_at": "2026-10-09 04:08:34",
       "album": {
-        "name": "SUNDAY",
-        "url": "https://open.spotify.com/album/5IsJatqtBcZJtPeIGj0vvA"
-      },
-      "artists": [
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 369280,
-      "name": "Always Been Jesus",
-      "url": "https://open.spotify.com/track/5TtHnRmepkrPZwscSyBDWb"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H"
       },
@@ -1323,30 +1359,6 @@
       "duration_ms": 305023,
       "name": "Lamb Of God/The Rock Won't Move (Medley) - Cathedral Sessions",
       "url": "https://open.spotify.com/track/3GTZSEFF0oaD6DEpD7r1iU"
-    },
-    {
-      "added_at": "2026-10-09 04:08:34",
-      "album": {
-        "name": "Blood of Jesus (I Surrender All)",
-        "url": "https://open.spotify.com/album/39iJQ5xz5BDQ30QdSGHbhW"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Ashley Bailey",
-          "url": "https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR"
-        },
-        {
-          "name": "Aaron Tedeschi",
-          "url": "https://open.spotify.com/artist/3LSv8vyAjTxn37MsKnYkz0"
-        }
-      ],
-      "duration_ms": 337520,
-      "name": "Blood of Jesus (I Surrender All)",
-      "url": "https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8"
     },
     {
       "added_at": "2026-10-09 04:08:34",

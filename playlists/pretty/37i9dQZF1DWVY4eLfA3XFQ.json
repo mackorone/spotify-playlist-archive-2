@@ -1,13 +1,121 @@
 {
-  "description": "50% techno, 50% house \ud83c\uddea\ud83c\uddfa Tech house operators, featuring Jay de Lys",
-  "num_followers": 719130,
+  "description": "50% techno, 50% house \ud83d\udd1d Tech house operators, featuring Broken Hill",
+  "num_followers": 719326,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPqvKqeXGOfJDQXy8yEs2vCZ4Z2I",
+  "snapshot_id": "AAAAAFDENSlE9vJOauYm7RMj8lwYiCl6",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:00:45",
+      "album": {
+        "name": "Nexus 003",
+        "url": "https://open.spotify.com/album/5tzTsoeqzZHGylVJOczpC0"
+      },
+      "artists": [
+        {
+          "name": "Broken Hill",
+          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1g8dbGK7ZAWYioY0Ijbggs"
+    },
+    {
+      "added_at": "2026-10-16 04:01:00",
+      "album": {
+        "name": "When We're Dancing",
+        "url": "https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 205871,
+      "name": "When We're Dancing",
+      "url": "https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso"
+    },
+    {
+      "added_at": "2026-10-23 04:01:09",
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs"
+    },
+    {
+      "added_at": "2026-10-30 04:00:45",
+      "album": {
+        "name": "SILK SCARF (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/62A6IA2egW27EQFNsdqtIQ"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 285962,
+      "name": "SILK SCARF - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7zaEgzOLvTbc33n5iyiK2K"
+    },
+    {
+      "added_at": "2026-10-16 04:01:00",
+      "album": {
+        "name": "Odd Boys",
+        "url": "https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Out of Sight, Out of Mind",
+      "url": "https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q"
+    },
     {
       "added_at": "2026-10-23 04:01:09",
       "album": {
@@ -45,52 +153,20 @@
       "url": "https://open.spotify.com/track/6UOHcOQSNBGCoHqfALH9lG"
     },
     {
-      "added_at": "2026-10-16 04:01:00",
+      "added_at": "2026-10-30 04:00:45",
       "album": {
-        "name": "When We're Dancing",
-        "url": "https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx"
+        "name": "Takes Me",
+        "url": "https://open.spotify.com/album/5scm2yACuFl5yzHvsWvtVY"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
         }
       ],
-      "duration_ms": 205871,
-      "name": "When We're Dancing",
-      "url": "https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso"
-    },
-    {
-      "added_at": "2026-10-16 04:01:00",
-      "album": {
-        "name": "Odd Boys",
-        "url": "https://open.spotify.com/album/47ZpXLo0p0STns7KYExPeJ"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Out of Sight, Out of Mind",
-      "url": "https://open.spotify.com/track/2Ox1sFQQbiMwKsBpJ1mD3q"
+      "duration_ms": 202846,
+      "name": "Takes Me",
+      "url": "https://open.spotify.com/track/67bFYf2med80JPPkf4rPoO"
     },
     {
       "added_at": "2026-10-23 04:01:09",
@@ -143,6 +219,22 @@
       "duration_ms": 213750,
       "name": "Korrupt",
       "url": "https://open.spotify.com/track/7IKTr1wrHdCN9yD5hliktQ"
+    },
+    {
+      "added_at": "2026-10-30 04:00:45",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/7ujLAdE3iZJDVf5tZlpZ3c"
+      },
+      "artists": [
+        {
+          "name": "Jake Bleu",
+          "url": "https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN"
+        }
+      ],
+      "duration_ms": 222102,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1bfYuDstqfvDy0dN0Hbm8V"
     },
     {
       "added_at": "2026-10-16 04:01:00",
@@ -351,26 +443,6 @@
       "duration_ms": 229174,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN"
-    },
-    {
-      "added_at": "2026-10-23 04:01:09",
-      "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/2mnFhOmFWvEbgeNZDpOHeR"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/0UlMIHzC32CkYse2QooXcs"
     },
     {
       "added_at": "2026-10-02 04:03:08",
@@ -793,22 +865,6 @@
       "url": "https://open.spotify.com/track/6m32mRhSnHe5NuQLmNwbv9"
     },
     {
-      "added_at": "2026-09-04 04:01:18",
-      "album": {
-        "name": "THE MOB / Seamless",
-        "url": "https://open.spotify.com/album/4ZplKVemkCr0b7Hh2aujSo"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "THE MOB",
-      "url": "https://open.spotify.com/track/6F2ckzsOmaog4Ho3S928X4"
-    },
-    {
       "added_at": "2026-10-09 04:01:43",
       "album": {
         "name": "No Rush",
@@ -915,42 +971,6 @@
       "duration_ms": 242812,
       "name": "Voltage",
       "url": "https://open.spotify.com/track/0onnxQCUN3Kr2D8fMSpfq5"
-    },
-    {
-      "added_at": "2026-10-02 04:03:08",
-      "album": {
-        "name": "Groove Rosarino EP",
-        "url": "https://open.spotify.com/album/74xOcP8fjAnR6j0FN6VCqA"
-      },
-      "artists": [
-        {
-          "name": "Nacho Scoppa",
-          "url": "https://open.spotify.com/artist/53c3s3SEmRB6OlD1fG7BqA"
-        }
-      ],
-      "duration_ms": 216183,
-      "name": "Groove Rosarino",
-      "url": "https://open.spotify.com/track/1n6Ek6tHSiso1saHXdnqpx"
-    },
-    {
-      "added_at": "2026-09-25 04:01:59",
-      "album": {
-        "name": "Keep Workin'",
-        "url": "https://open.spotify.com/album/4JJKocCTtLWUa2DjUHXZ0e"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Yamagucci",
-          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
-        }
-      ],
-      "duration_ms": 210236,
-      "name": "Keep Workin'",
-      "url": "https://open.spotify.com/track/5NJe4tTqytnpRDEZAEzZzw"
     },
     {
       "added_at": "2026-10-02 04:03:08",
@@ -1097,22 +1117,6 @@
       "url": "https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d"
     },
     {
-      "added_at": "2026-10-02 04:03:08",
-      "album": {
-        "name": "automatic ep",
-        "url": "https://open.spotify.com/album/4Hjis6WFnyNf2QMFpNjYoc"
-      },
-      "artists": [
-        {
-          "name": "Max Mash",
-          "url": "https://open.spotify.com/artist/6YZwz1LYtGq7IbKZ15qivD"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "u love me",
-      "url": "https://open.spotify.com/track/6Rzuv63XeGB35jI0VjtA4W"
-    },
-    {
       "added_at": "2026-08-28 04:01:43",
       "album": {
         "name": "Control",
@@ -1163,26 +1167,6 @@
       "duration_ms": 153863,
       "name": "Turn Off Your Brain",
       "url": "https://open.spotify.com/track/6acU5RX8qH0ZlNmJpgDN3l"
-    },
-    {
-      "added_at": "2026-09-18 04:02:10",
-      "album": {
-        "name": "Inside The Brain",
-        "url": "https://open.spotify.com/album/2XNkhgyBfkvbTLtsG3bZEM"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        },
-        {
-          "name": "Franksy",
-          "url": "https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Inside The Brain",
-      "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
     },
     {
       "added_at": "2026-09-04 04:01:18",
@@ -1277,26 +1261,6 @@
       "url": "https://open.spotify.com/track/6JCdcoJ6yCxUJ4HIbEo5pY"
     },
     {
-      "added_at": "2026-09-11 04:01:23",
-      "album": {
-        "name": "The City/All I Want",
-        "url": "https://open.spotify.com/album/2NMKjdT6Ky0qMmza1rhKpY"
-      },
-      "artists": [
-        {
-          "name": "KIMONOS",
-          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
-        },
-        {
-          "name": "Amour Propre",
-          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
-        }
-      ],
-      "duration_ms": 205312,
-      "name": "The City",
-      "url": "https://open.spotify.com/track/6cRPrKsD1dgTEYhC7fc5VG"
-    },
-    {
       "added_at": "2026-09-18 04:02:10",
       "album": {
         "name": "U Can Feel It",
@@ -1387,22 +1351,6 @@
       "duration_ms": 183067,
       "name": "Audio Flex",
       "url": "https://open.spotify.com/track/7eH80EZ2m5kNw37O8VoYiP"
-    },
-    {
-      "added_at": "2026-09-11 04:01:23",
-      "album": {
-        "name": "Disco Jungle",
-        "url": "https://open.spotify.com/album/69ZzGvEvGIej9HJDoMu38n"
-      },
-      "artists": [
-        {
-          "name": "Crewcutz",
-          "url": "https://open.spotify.com/artist/3wRmWPRKhXTatAYGQUsC4E"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Disco Jungle",
-      "url": "https://open.spotify.com/track/70wyVfqk6mk7Y5PFN5fiOT"
     },
     {
       "added_at": "2026-08-28 04:01:43",
@@ -1571,22 +1519,6 @@
       "duration_ms": 194798,
       "name": "Rave En La Favela",
       "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
-    },
-    {
-      "added_at": "2026-09-18 04:02:10",
-      "album": {
-        "name": "How About You",
-        "url": "https://open.spotify.com/album/3ztHkfap9CU1kF8L03VyTJ"
-      },
-      "artists": [
-        {
-          "name": "LEO VASK",
-          "url": "https://open.spotify.com/artist/59ukGDnYKZFLbJdHj10Hqc"
-        }
-      ],
-      "duration_ms": 200624,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/2Bio5yxecGH76lx77vCkFt"
     },
     {
       "added_at": "2026-08-18 18:40:32",
@@ -2005,22 +1937,6 @@
       "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
-      "added_at": "2026-07-10 04:01:31",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/6MhQHs7hrUMbB2wYIphJy9"
-      },
-      "artists": [
-        {
-          "name": "Zuffo",
-          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
-        }
-      ],
-      "duration_ms": 194531,
-      "name": "G0",
-      "url": "https://open.spotify.com/track/1XJ8aKhIHPwJdsV3PB1wMh"
-    },
-    {
       "added_at": "2026-07-31 15:49:44",
       "album": {
         "name": "Girlfriend",
@@ -2051,22 +1967,6 @@
       "duration_ms": 196345,
       "name": "TCFS",
       "url": "https://open.spotify.com/track/4V3SzxQdZxMgxj2Db6OHoT"
-    },
-    {
-      "added_at": "2026-06-13 14:22:03",
-      "album": {
-        "name": "Foot on the Gas",
-        "url": "https://open.spotify.com/album/0CZp25Skbco97Enp6dmR3M"
-      },
-      "artists": [
-        {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Foot on the Gas",
-      "url": "https://open.spotify.com/track/18V768rb4wOOamf39v1603"
     },
     {
       "added_at": "2026-02-06 05:00:30",

@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 179374,
       "name": "Enmanuel",
       "url": "https://open.spotify.com/track/3CspN9opLDCFZg9NqDqCPy"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 136501,
       "name": "Es Navidad",
       "url": "https://open.spotify.com/track/4K3xYEAR8XT6qV9havS1Gp"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219798,
       "name": "Espiritu Santo",
       "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 177862,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/71FxVLPCWjZe6OvBbrhN6U"
@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Gozo De Navidad",
+        "url": "https://open.spotify.com/album/0AMKDAx3W4vdIO8h8030g8"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206536,
+      "name": "Gozo De Navidad",
+      "url": "https://open.spotify.com/track/0OgYkQUbi2MgaMGMGJPKUl"
+    },
+    {
+      "album": {
         "name": "Es Navidad",
         "url": "https://open.spotify.com/album/4e75ZbIGeE1kZwyyLSfM5b"
       },
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 254887,
       "name": "Gracias Por Nacer (Merengue)",
       "url": "https://open.spotify.com/track/666DxqwGNd74D9p2a4ifiS"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "Ha Nacido El Rey",
       "url": "https://open.spotify.com/track/7GB1BFQQvvivXlaI0WdT33"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 179895,
       "name": "Jes\u00fas Naci\u00f3",
       "url": "https://open.spotify.com/track/6EnrfFNOAyb3phekhwcRpi"
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 199999,
       "name": "Luz de Bel\u00e9n",
       "url": "https://open.spotify.com/track/52TxRkIYz3KjdeIYKkjNIG"
@@ -3408,7 +3426,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 326611,
       "name": "Navidad es Jes\u00fas",
       "url": "https://open.spotify.com/track/6Bpreva8hza5SyW0Ob3kbl"
@@ -3626,7 +3644,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 157012,
       "name": "Noche Anunciada",
       "url": "https://open.spotify.com/track/1uYRow4KBWyZ9MgZ8o1zR5"
@@ -3858,7 +3876,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 233296,
       "name": "Oh, Noche Santa",
       "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 223376,
       "name": "Pa\u2019 Regalarme Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/14WUmiYvMXlMIakfhjMUlA"
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 202084,
       "name": "Porque Es Navidad",
       "url": "https://open.spotify.com/track/50Pc0VFxibygKmpgO9RRk2"
@@ -4324,7 +4342,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 253571,
       "name": "Santa la noche",
       "url": "https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc"
@@ -4422,7 +4440,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 222375,
       "name": "Se Oye el Anuncio",
       "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
@@ -4440,7 +4458,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 304986,
       "name": "Se Oye Un Canto En Alta Esfera",
       "url": "https://open.spotify.com/track/6neP56zQ7GXdRsB5ScVUIP"
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 207530,
       "name": "T\u00fa Eres la Luz Noche de Paz (Bonus Track) [Live]",
       "url": "https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw"
@@ -4842,7 +4860,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 99632,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/6ySZuXcrBuqtaDOTZmt5lB"
@@ -4882,7 +4900,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 259946,
       "name": "Venid Fieles Todos",
       "url": "https://open.spotify.com/track/3InKvzpC1JOXz6sUXti34H"
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 240641,
       "name": "Ya naci\u00f3",
       "url": "https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm"

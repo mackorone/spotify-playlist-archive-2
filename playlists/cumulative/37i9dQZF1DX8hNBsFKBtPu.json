@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "We got you! Den bedste nye pop er samlet her. Tate McRae p\u00e5 cover \ud83e\udead",
+  "description": "We got you! Den bedste nye pop er samlet her. Malte Ebert p\u00e5 cover \ud83e\udead",
   "name": "Ny Pop (3)",
   "tracks": [
     {
@@ -4882,6 +4882,24 @@
       "duration_ms": 138590,
       "name": "En Dag Uden",
       "url": "https://open.spotify.com/track/1fPtexCPba7qZV4i3atGa8"
+    },
+    {
+      "album": {
+        "name": "En Ild Der Altid Br\u00e6nder",
+        "url": "https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "En Ild Der Altid Br\u00e6nder",
+      "url": "https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7"
     },
     {
       "album": {
@@ -11567,6 +11585,24 @@
     },
     {
       "album": {
+        "name": "Lucky Pige",
+        "url": "https://open.spotify.com/album/798E42cNi2Ze2SmURryhui"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132061,
+      "name": "Lucky Pige",
+      "url": "https://open.spotify.com/track/6e6dTvI52uvPCELtaEyCOc"
+    },
+    {
+      "album": {
         "name": "Luk Mig Ind",
         "url": "https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA"
       },
@@ -12222,6 +12258,24 @@
       "duration_ms": 177165,
       "name": "Minder Om Dig",
       "url": "https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5"
+    },
+    {
+      "album": {
+        "name": "mine venner hader dig :)",
+        "url": "https://open.spotify.com/album/1fWUD5TPiYvMJnKE6vyrUe"
+      },
+      "artists": [
+        {
+          "name": "Klara Vibeke",
+          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142452,
+      "name": "mine venner hader dig :)",
+      "url": "https://open.spotify.com/track/0Ho5wqdJQbhRhk96fhPUtl"
     },
     {
       "album": {
@@ -16471,6 +16525,24 @@
     },
     {
       "album": {
+        "name": "Supernar",
+        "url": "https://open.spotify.com/album/1i2OXqXBPllKaX6uZJJojH"
+      },
+      "artists": [
+        {
+          "name": "Burhan G",
+          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158598,
+      "name": "Supernar",
+      "url": "https://open.spotify.com/track/1BurSvmpyb1lx32jmnuUBe"
+    },
+    {
+      "album": {
         "name": "SUPERSONIC",
         "url": "https://open.spotify.com/album/4zZ4ajMHG4gXXdljaZR7kH"
       },
@@ -18772,6 +18844,32 @@
       "duration_ms": 305979,
       "name": "Vi pumper hjertet op",
       "url": "https://open.spotify.com/track/62ZQfNv9W5HlIOYEjsrc33"
+    },
+    {
+      "album": {
+        "name": "Vill Ha Dig (Feat. Hanna Ferm)",
+        "url": "https://open.spotify.com/album/7tyhU3typ1tZg0dJjB9SdX"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        },
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        },
+        {
+          "name": "Oochie",
+          "url": "https://open.spotify.com/artist/7Itlzo9sA5kksYPzEY8fhO"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160671,
+      "name": "Vill Ha Dig (Feat. Hanna Ferm)",
+      "url": "https://open.spotify.com/track/1vJTlLaXQ4eUmzSbodIgh7"
     },
     {
       "album": {

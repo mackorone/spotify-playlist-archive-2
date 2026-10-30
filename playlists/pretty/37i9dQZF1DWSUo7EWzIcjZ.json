@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 385817,
+  "num_followers": 385811,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE21ZEt8/r7jCzXh2v+gDsr0voqG",
+  "snapshot_id": "AAAAAH5sv0CALHT4+a90xowUp70dSqyR",
   "tracks": [
     {
       "added_at": "2025-04-10 23:53:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 278760,
-      "name": "Medley",
-      "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Juan and Nelson Records - 20 Exitos",
         "url": "https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 263493,
       "name": "Oye",
       "url": "https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 278760,
+      "name": "Medley",
+      "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues Volume 2",
-        "url": "https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 298360,
-      "name": "Colegiala (La)",
-      "url": "https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 350360,
       "name": "La Vida Sigue Igual",
       "url": "https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues Volume 2",
+        "url": "https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 298360,
+      "name": "Colegiala (La)",
+      "url": "https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Caciquiando",
+        "url": "https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 217077,
+      "name": "Yo Soy Asi",
+      "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo"
       },
@@ -1291,50 +1307,34 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Mayimbe",
-        "url": "https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf"
+        "name": "Coleccion Salsa Discotheque - Vol. 1",
+        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
       },
       "artists": [
         {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+          "name": "Oro Negro",
+          "url": "https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF"
         }
       ],
-      "duration_ms": 307640,
-      "name": "Cama Y Mesa",
-      "url": "https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO"
+      "duration_ms": 266400,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
     },
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
-        "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
+        "name": "11 Exitos",
+        "url": "https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Dionis Fernandez",
+          "url": "https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3"
         }
       ],
-      "duration_ms": 223653,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Pochi Y Su Cocoband",
-        "url": "https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "La Faldita",
-      "url": "https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d"
+      "duration_ms": 291994,
+      "name": "Cal y Arena",
+      "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1355,18 +1355,66 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Caciquiando",
-        "url": "https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa"
+        "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
+        "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
       },
       "artists": [
         {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 217077,
-      "name": "Yo Soy Asi",
-      "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
+      "duration_ms": 223653,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El Mayimbe",
+        "url": "https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 307640,
+      "name": "Cama Y Mesa",
+      "url": "https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "!Ay Doctor!",
+        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 302509,
+      "name": "Ay Doctor",
+      "url": "https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Pochi Y Su Cocoband",
+        "url": "https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "La Faldita",
+      "url": "https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1403,6 +1451,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
         "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
       },
@@ -1415,22 +1479,6 @@
       "duration_ms": 289200,
       "name": "Tus 20 A\u00f1os",
       "url": "https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Somos Candela",
-        "url": "https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "Las Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1483,6 +1531,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Somos Candela",
+        "url": "https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 243435,
+      "name": "Las Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Con Mucho Swing",
         "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
       },
@@ -1495,22 +1559,6 @@
       "duration_ms": 206602,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1531,38 +1579,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Coleccion Salsa Discotheque - Vol. 1",
-        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
-      },
-      "artists": [
-        {
-          "name": "Oro Negro",
-          "url": "https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "11 Exitos",
-        "url": "https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j"
-      },
-      "artists": [
-        {
-          "name": "Dionis Fernandez",
-          "url": "https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3"
-        }
-      ],
-      "duration_ms": 291994,
-      "name": "Cal y Arena",
-      "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Exitos Inolvidables de Benny Sadel",
         "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 262426,
       "name": "Amor, Amor",
       "url": "https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "Como una Loba",
-      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "!Ay Doctor!",
-        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 302509,
-      "name": "Ay Doctor",
-      "url": "https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv"
+      "duration_ms": 262321,
+      "name": "Como una Loba",
+      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1643,38 +1643,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Te He Prometido - Original",
-      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Explosivo",
-        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Con Mucho Swing",
         "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
       },
@@ -1687,6 +1655,22 @@
       "duration_ms": 254145,
       "name": "Dame Veneno",
       "url": "https://open.spotify.com/track/5ULIW0HVQb2mqRQQXU2f9W"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Te He Prometido - Original",
+      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Explosivo",
+        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Noches Latinas",
         "url": "https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d"
       },
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 264515,
-      "name": "Tu Me Vas a Dejar",
-      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "La Fiesta Esta Buena",
         "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 247379,
       "name": "La Fotografia",
       "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 264515,
+      "name": "Tu Me Vas a Dejar",
+      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
-        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
-      },
-      "artists": [
-        {
-          "name": "Aramis Camilo",
-          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
-        }
-      ],
-      "duration_ms": 224784,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "!Ay Doctor!",
         "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 284421,
       "name": "La Asesina",
       "url": "https://open.spotify.com/track/6hvsoQUupq8r1JdNdwpbdU"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
+        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
+      },
+      "artists": [
+        {
+          "name": "Aramis Camilo",
+          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
+        }
+      ],
+      "duration_ms": 224784,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/1mwtfjfZmESmvHoPZvTQZU"
-      },
-      "artists": [
-        {
-          "name": "Aramis Camilo",
-          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
-        }
-      ],
-      "duration_ms": 290455,
-      "name": "Susana",
-      "url": "https://open.spotify.com/track/6mlAC07B08tW5DiGp7Il84"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "!Ay Doctor!",
         "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 300280,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/2OAtnmvc8oGGLElCFitxKy"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/1mwtfjfZmESmvHoPZvTQZU"
+      },
+      "artists": [
+        {
+          "name": "Aramis Camilo",
+          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
+        }
+      ],
+      "duration_ms": 290455,
+      "name": "Susana",
+      "url": "https://open.spotify.com/track/6mlAC07B08tW5DiGp7Il84"
     },
     {
       "added_at": "2024-06-28 21:55:14",

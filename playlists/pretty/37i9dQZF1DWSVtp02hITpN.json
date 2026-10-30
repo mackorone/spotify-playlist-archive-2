@@ -1,13 +1,61 @@
 {
-  "description": "Pop you need to hear! Cover: Olivia Rodrigo & Chappell Roan",
-  "num_followers": 869613,
+  "description": "Pop you need to hear! Cover: Skye Newman",
+  "num_followers": 869391,
   "original_name": "The Pop List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3nOGdHVvWZNwu73M5V0EQR0898",
+  "snapshot_id": "AAAAABfe9f2OkxxLYD9on6i7xdhvciK+",
   "tracks": [
+    {
+      "added_at": "2026-10-30 00:00:27",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/2YnK3g9CH18njRleef6mNT"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 194112,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/2PEr5UBQqLCtEXH64zInV0"
+    },
+    {
+      "added_at": "2026-10-15 23:00:22",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-22 23:00:33",
+      "album": {
+        "name": "Wrapped in Gold",
+        "url": "https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Wrapped in Gold",
+      "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
+    },
     {
       "added_at": "2026-10-15 23:00:22",
       "album": {
@@ -29,36 +77,20 @@
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
-      "added_at": "2026-10-22 23:00:33",
+      "added_at": "2026-10-30 00:00:27",
       "album": {
-        "name": "Wrapped in Gold",
-        "url": "https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC"
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/2gvGcD2Aw8vf458HgUEjKY"
       },
       "artists": [
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
         }
       ],
-      "duration_ms": 199363,
-      "name": "Wrapped in Gold",
-      "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+      "duration_ms": 206545,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/7vPagNQR5CifjAK9O4LBVC"
     },
     {
       "added_at": "2026-10-15 23:00:22",
@@ -77,6 +109,38 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
+      "added_at": "2026-10-30 00:00:27",
+      "album": {
+        "name": "Here You Come, There You Go",
+        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 169647,
+      "name": "Here You Come, There You Go",
+      "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
+    },
+    {
+      "added_at": "2026-10-30 00:00:27",
+      "album": {
+        "name": "Painter (Double-Edged Sword)",
+        "url": "https://open.spotify.com/album/09lj5YdwOYyPaIS5eWTh6f"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 230593,
+      "name": "Painter (Double-Edged Sword)",
+      "url": "https://open.spotify.com/track/0fSKzFql99qPY9gOl7fFBa"
+    },
+    {
       "added_at": "2026-10-15 23:00:22",
       "album": {
         "name": "Stop The Wedding!",
@@ -91,6 +155,22 @@
       "duration_ms": 198840,
       "name": "Stop The Wedding!",
       "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "added_at": "2026-10-30 00:00:27",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 214335,
+      "name": "He Likes Boys",
+      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
     },
     {
       "added_at": "2026-10-15 23:00:22",
@@ -123,6 +203,58 @@
       "duration_ms": 215798,
       "name": "Pretty girls",
       "url": "https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m"
+    },
+    {
+      "added_at": "2026-10-22 23:00:33",
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/64xwYQZN8MXVmcuubvOMsl"
+      },
+      "artists": [
+        {
+          "name": "Cammy Barnes",
+          "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
+        }
+      ],
+      "duration_ms": 197011,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/3ni5OnXcVfLaOaO0GptY3a"
+    },
+    {
+      "added_at": "2026-10-15 23:00:22",
+      "album": {
+        "name": "Lies (feat. Lana Del Rey)",
+        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
+    },
+    {
+      "added_at": "2026-10-30 00:00:27",
+      "album": {
+        "name": "My Ego Told Me To...Do A Fan Edition",
+        "url": "https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 165762,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/3OvgA9rjBeKPR4BDI6TrhB"
     },
     {
       "added_at": "2026-10-15 23:00:22",
@@ -189,22 +321,6 @@
       "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
     },
     {
-      "added_at": "2026-10-22 23:00:33",
-      "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/64xwYQZN8MXVmcuubvOMsl"
-      },
-      "artists": [
-        {
-          "name": "Cammy Barnes",
-          "url": "https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9"
-        }
-      ],
-      "duration_ms": 197011,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/3ni5OnXcVfLaOaO0GptY3a"
-    },
-    {
       "added_at": "2026-10-15 23:00:22",
       "album": {
         "name": "Too Cute To Be Lonely",
@@ -219,6 +335,30 @@
       "duration_ms": 196509,
       "name": "Too Cute To Be Lonely",
       "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
+    },
+    {
+      "added_at": "2026-10-15 23:00:22",
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Joy.",
+      "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
     },
     {
       "added_at": "2026-10-22 23:00:33",
@@ -347,6 +487,38 @@
       "duration_ms": 224877,
       "name": "Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]",
       "url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO"
+    },
+    {
+      "added_at": "2026-10-30 00:00:27",
+      "album": {
+        "name": "Something Kinda Strange",
+        "url": "https://open.spotify.com/album/00V5FnlwyJVDGIDgL6mJVm"
+      },
+      "artists": [
+        {
+          "name": "Benedict Cork",
+          "url": "https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv"
+        }
+      ],
+      "duration_ms": 178425,
+      "name": "Something Kinda Strange",
+      "url": "https://open.spotify.com/track/5VOLcjt7HsECg5lER5XTAx"
+    },
+    {
+      "added_at": "2026-10-15 23:00:22",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
       "added_at": "2026-10-15 23:00:22",
@@ -495,26 +667,6 @@
     {
       "added_at": "2026-10-15 23:00:22",
       "album": {
-        "name": "Lies (feat. Lana Del Rey)",
-        "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Lies (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
         "name": "WILD",
         "url": "https://open.spotify.com/album/0qcTG40luCgoKoSzw1YcUL"
       },
@@ -611,30 +763,6 @@
       "duration_ms": 186316,
       "name": "Peter Pan Syndrome",
       "url": "https://open.spotify.com/track/4xVC1UohDxY5NrvAWyClZr"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Amma",
-          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Joy.",
-      "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei"
     },
     {
       "added_at": "2026-10-22 23:00:33",
@@ -799,22 +927,6 @@
     {
       "added_at": "2026-10-15 23:00:22",
       "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/7iJLeFiumAc8c1sp0kg8QI"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 187558,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/6g6gSXFVocKGvW2dTVDp2X"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
         "name": "Is It That Deep?",
         "url": "https://open.spotify.com/album/60Jot68Vp3ZpUhsiaxGrfZ"
       },
@@ -929,6 +1041,22 @@
       "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
     },
     {
+      "added_at": "2026-10-30 00:00:27",
+      "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/6vYVu3wSl9OedjOU8n8pVX"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 150070,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u"
+    },
+    {
       "added_at": "2026-10-15 23:00:22",
       "album": {
         "name": "brand new chanel$",
@@ -975,22 +1103,6 @@
       "duration_ms": 200204,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "Pink Clouding",
-      "url": "https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm"
     },
     {
       "added_at": "2026-10-15 23:00:22",
@@ -1071,22 +1183,6 @@
       "duration_ms": 230274,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/3CJrdLQMzbC5Vxq4Piv5XD"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
-        "name": "Tsycophant",
-        "url": "https://open.spotify.com/album/2gGPhtIU0XVFsLYhDrLfz8"
-      },
-      "artists": [
-        {
-          "name": "Tsatsamis",
-          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
-        }
-      ],
-      "duration_ms": 223639,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/3uTHDpaECLEEwfbWWujq3K"
     },
     {
       "added_at": "2026-10-15 23:00:22",
@@ -1187,22 +1283,6 @@
     {
       "added_at": "2026-10-15 23:00:22",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
         "name": "BULLDOZER!!",
         "url": "https://open.spotify.com/album/0ob10johhogCNiWerZeWkj"
       },
@@ -1247,22 +1327,6 @@
       "duration_ms": 170320,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
-    },
-    {
-      "added_at": "2026-10-15 23:00:22",
-      "album": {
-        "name": "Question Of The Day",
-        "url": "https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 151003,
-      "name": "Question Of The Day",
-      "url": "https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48"
     },
     {
       "added_at": "2026-10-15 23:00:22",

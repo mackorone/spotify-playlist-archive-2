@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 私立恵比寿中学
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,072 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,080 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [取愛♡説明書](https://open.spotify.com/track/4GDK750wm2LrvlEfriS4H3) | [佐藤佳穂](https://open.spotify.com/artist/29jSx02VcqqocDXz4mCr0v) | [取愛♡説明書](https://open.spotify.com/album/1KOVNl5gkLczl7pMsSvEH5) | 4:23 |
 | 50 | [光](https://open.spotify.com/track/3JksytMCa4uxhAfVDwZJap) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx), [Naoki Itai](https://open.spotify.com/artist/0f5ITr5Am2ut0QFz0qK1dg) | [光](https://open.spotify.com/album/0pI21feLUVhNTO82217q04) | 10:30 |
 
-Snapshot ID: `AAAAAMZcYbQMVU+uirB8Crl+lxVdjICM`
+Snapshot ID: `AAAAAGQYcUlxbc9VGVPA4OvU4T/AlxI6`

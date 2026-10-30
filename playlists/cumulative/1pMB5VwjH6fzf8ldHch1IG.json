@@ -29245,6 +29245,24 @@
     },
     {
       "album": {
+        "name": "there's no easy way to put this...",
+        "url": "https://open.spotify.com/album/6rlGBIOV37DbGtL3Ijvx5J"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226624,
+      "name": "there's no easy way to put this...",
+      "url": "https://open.spotify.com/track/6OCCNtYX4xH5CHe3ey2jsB"
+    },
+    {
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
       },

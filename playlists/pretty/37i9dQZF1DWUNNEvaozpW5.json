@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 621046,
+  "num_followers": 621049,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADmGMSaH5cjR2FocFqdJgQlUypHm",
+  "snapshot_id": "AAAAAAU9Xc+8Y4Rbvhpg6BCbK1UqLymE",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:56",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Patchanka",
-        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
-      },
-      "artists": [
-        {
-          "name": "Mano Negra",
-          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
         "name": "28.000 pu\u00f1aladas",
         "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Nacha Pop",
-        "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
+        "name": "Patchanka",
+        "url": "https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ"
       },
       "artists": [
         {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
+          "name": "Mano Negra",
+          "url": "https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Chica de ayer",
-      "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
+      "duration_ms": 174973,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -855,6 +839,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
+        "name": "Nacha Pop",
+        "url": "https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP"
+      },
+      "artists": [
+        {
+          "name": "Nacha Pop",
+          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Chica de ayer",
+      "url": "https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
         "name": "Calle Melancol\u00eda",
         "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 380973,
       "name": "Calle Melancol\u00eda",
       "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Ba\u00efonarena (Live)",
-        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
-      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
+        "name": "Ba\u00efonarena (Live)",
+        "url": "https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
+      "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
         "name": "Estop\u00eda",
         "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 200367,
       "name": "K\u00e9 M\u00e1s Nos Da",
       "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
+        "name": "El D\u00eda Que T\u00fa Te Marches",
+        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 208101,
+      "name": "El D\u00eda Que T\u00fa Te Marches",
+      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 296400,
       "name": "Todo Tiene Su Fin",
       "url": "https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
-        "name": "El D\u00eda Que T\u00fa Te Marches",
-        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 208101,
-      "name": "El D\u00eda Que T\u00fa Te Marches",
-      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "20 a\u00f1os de canciones",
-        "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
+        "name": "Los Singles",
+        "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
       },
       "artists": [
         {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
+      "duration_ms": 245533,
+      "name": "En Blanco Y Negro",
+      "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Los Singles",
-        "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
+        "name": "20 a\u00f1os de canciones",
+        "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
       },
       "artists": [
         {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
         }
       ],
-      "duration_ms": 245533,
-      "name": "En Blanco Y Negro",
-      "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Matricula De Honor/New Booklet",
-        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Rock And Roll en la Plaza del Pueblo",
-      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
         "name": "La misma canci\u00f3n",
         "url": "https://open.spotify.com/album/1MCpSDB8Ofg9qrjFizu4qU"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 286534,
       "name": "La misma canci\u00f3n",
       "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
+        "name": "Matricula De Honor/New Booklet",
+        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Rock And Roll en la Plaza del Pueblo",
+      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -2012,13 +2012,13 @@
       },
       "artists": [
         {
-          "name": "La Guardia",
-          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Cuando Brille el Sol",
-      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
+      "duration_ms": 190013,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

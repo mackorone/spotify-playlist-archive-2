@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 47451,
+  "num_followers": 47455,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASyC62kuShkzk7yLpZBnqTNaVNi",
+  "snapshot_id": "AAAAAHMbIO5qcDSdAuQ+eoaWoit9IjwT",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:31",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Coming Home (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
         "name": "Love is the New Gangsta",
         "url": "https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Coming Home (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -555,30 +555,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Stars Misaligned II",
-        "url": "https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc"
-      },
-      "artists": [
-        {
-          "name": "Shiloh Yodell\u00e9",
-          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
-        },
-        {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
-        },
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 170679,
-      "name": "Stars Misaligned II",
-      "url": "https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "IT'S BEEN AWFUL",
         "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 228348,
       "name": "After The Club",
       "url": "https://open.spotify.com/track/5sy9yiJcr7XzxBMRdYeAcv"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "Stars Misaligned II",
+        "url": "https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc"
+      },
+      "artists": [
+        {
+          "name": "Shiloh Yodell\u00e9",
+          "url": "https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH"
+        },
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        },
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 170679,
+      "name": "Stars Misaligned II",
+      "url": "https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -667,46 +667,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Jam",
-      "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
-        "name": "Fly U Out",
-        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Fly U Out",
-      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
@@ -723,6 +683,26 @@
       "duration_ms": 197720,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Jam",
+      "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -763,6 +743,26 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
         "name": "Alive (feat. Wizkid)",
         "url": "https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 207085,
       "name": "Alive (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
-        "name": "ALOUD!",
-        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Mouf Say",
-      "url": "https://open.spotify.com/track/4MBN3o3wB4uEWGgKXXjVo0"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -851,6 +831,26 @@
       "duration_ms": 266276,
       "name": "Fallin' (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "ALOUD!",
+        "url": "https://open.spotify.com/album/4FDFTveKB14lSEgYJePS8D"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Mouf Say",
+      "url": "https://open.spotify.com/track/4MBN3o3wB4uEWGgKXXjVo0"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "U, Me & My Ego",
         "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 260629,
       "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
       "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/7utMwG37UMHPARIWE9azq1"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "MAJIC",
+          "url": "https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB"
+        }
+      ],
+      "duration_ms": 245496,
+      "name": "Feel My Love (feat. MAJIC)",
+      "url": "https://open.spotify.com/track/0b5HPucjqCC7R9J1QzfaSO"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
         "name": "sweet talk",
         "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 146315,
       "name": "sweet talk",
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
-        "name": "Pami",
-        "url": "https://open.spotify.com/album/647NndPt3TbMUYlTojxes9"
-      },
-      "artists": [
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        },
-        {
-          "name": "ZiiBeats",
-          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Pami",
-      "url": "https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+        "name": "Pami",
+        "url": "https://open.spotify.com/album/647NndPt3TbMUYlTojxes9"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
         },
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "ZiiBeats",
+          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
         }
       ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+      "duration_ms": 186240,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/6tlmpZuFncwBniCRkVuVeQ"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
         "name": "NIGHT",
         "url": "https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr"
       },
@@ -1331,22 +1351,26 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Feel My Love",
-        "url": "https://open.spotify.com/album/7utMwG37UMHPARIWE9azq1"
+        "name": "POSITION",
+        "url": "https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu"
       },
       "artists": [
         {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "MAJIC",
-          "url": "https://open.spotify.com/artist/7bV8zPd699QAanNfuMoEjB"
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 245496,
-      "name": "Feel My Love (feat. MAJIC)",
-      "url": "https://open.spotify.com/track/0b5HPucjqCC7R9J1QzfaSO"
+      "duration_ms": 171428,
+      "name": "POSITION",
+      "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1431,30 +1455,6 @@
       "duration_ms": 148645,
       "name": "LUV MYSELF",
       "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
-        "name": "POSITION",
-        "url": "https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "POSITION",
-      "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
     },
     {
       "added_at": "2026-10-23 00:01:31",

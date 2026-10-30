@@ -4,7 +4,7 @@
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 28 min
+85 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Indian Summer](https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:34 | 2022-01-11 |  |
 | [L.A\. Woman](https://open.spotify.com/track/6DmfWj5kOa1fX8AwN9byOn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:51 | 2022-01-11 |  |
 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 | 2022-01-11 |  |
+| [Light My Fire \(Live, 1970\) \- 2026 Mix](https://open.spotify.com/track/5GCcUWe7V70x1JfpqoMqjj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Unbound and Dangerous \(Live\)](https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ) | 8:55 | 2026-10-30 |  |
 | [Light My Fire \- Live](https://open.spotify.com/track/4HaOHPT5aUiqUnvXTA2BDz) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [American Nights \- In Concert](https://open.spotify.com/album/7teTxSPnJrpRoi7BxJ9qTC) | 9:54 | 2022-01-20 | 2023-01-23 |
 | [Little Red Rooster \- Live at the Felt Forum, New York City, January 17, 1970, First Show](https://open.spotify.com/track/6fOON6KOenBSu0yhXZ3XMH) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Live in New York](https://open.spotify.com/album/4mKRzTeNQCK5bhFKK0LD1k) | 6:24 | 2022-05-19 | 2023-11-11 |
 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 | 2022-01-11 |  |

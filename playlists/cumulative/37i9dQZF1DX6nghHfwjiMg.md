@@ -4,7 +4,7 @@
 
 > Artistas para descubrir 📸 Maia Reficco
 
-357 songs - 18 hr 23 min
+358 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Otra Vez](https://open.spotify.com/track/6vv2t9XzCcfuXLiIVZz0lC) | [Danelik](https://open.spotify.com/artist/0ZJFKiWwUwnWOFsQojUDWT), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [Otra Vez](https://open.spotify.com/album/1hyY1fIpcWvJ28eCyufK6r) | 2:38 | 2025-07-17 | 2026-04-15 |
 | [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 | 2023-06-01 | 2024-05-08 |
 | [Pa Brillar](https://open.spotify.com/track/2hLYw0CXY5uTXk5jwFOdYI) | [APHELIA](https://open.spotify.com/artist/0wi4BjYbEeecnYvhQtvwi3), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Pa Brillar](https://open.spotify.com/album/2YevHM1xhh11dwoZqiQ6kQ) | 3:02 | 2021-11-11 | 2023-06-02 |
+| [PALABRAS DE MUJER](https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [PALABRAS DE MUJER](https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE) | 3:43 | 2026-10-30 |  |
 | [Papi No Me Hagas Llorar](https://open.spotify.com/track/04S43sYjrLmZXjxqcU8BxJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Papi No Me Hagas Llorar](https://open.spotify.com/album/7nphArTieJ9uRNuQiH1sIL) | 3:49 | 2021-11-11 | 2022-08-05 |
 | [Par de Babys](https://open.spotify.com/track/7hfMzlCdE1geXHy6LFs7UV) | [Una Más](https://open.spotify.com/artist/28hVuLtRLgq1HSXM8jI7gA), [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM) | [Par de Babys](https://open.spotify.com/album/6XlESDjbjl33CA98GiMaYb) | 1:50 | 2024-05-07 | 2025-05-10 |
 | [PARQUE DE LA COSTA](https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [MAÑANA ES PEOR :\(](https://open.spotify.com/album/3QT37bIN5jVM4cZ0MgHeGd) | 3:45 | 2023-06-01 | 2024-05-08 |

@@ -1,13 +1,133 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Sambhav Sharma",
-  "num_followers": 65042,
+  "description": "The best new music by independent artists and labels in India. Cover - Apartment Upstairs",
+  "num_followers": 65067,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADsLyv6SAjGwZyW3yaYCvX+7yJcG",
+  "snapshot_id": "AAAAAPntp/Xuy35wgJLnvmjt0hmhF/Xj",
   "tracks": [
+    {
+      "added_at": "2026-10-14 07:30:26",
+      "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/4l85bemd9bln57Mgqawk1N"
+      },
+      "artists": [
+        {
+          "name": "Apartment Upstairs",
+          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/0d4373qqHl8NtXMVJi5q6Z"
+    },
+    {
+      "added_at": "2026-10-28 07:30:15",
+      "album": {
+        "name": "Goodnight (Zzz)",
+        "url": "https://open.spotify.com/album/6lA2odRnv35tW8adePq1G0"
+      },
+      "artists": [
+        {
+          "name": "Eskay",
+          "url": "https://open.spotify.com/artist/6hL33HOCFIMmF7XqRqv2S6"
+        },
+        {
+          "name": "Anahita Singh",
+          "url": "https://open.spotify.com/artist/7B4wEMhnaj4Q0JRGxpAtgm"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "Goodnight (Zzz)",
+      "url": "https://open.spotify.com/track/6sPvVwluBOLq1WXtxC0Gve"
+    },
+    {
+      "added_at": "2026-10-28 07:30:15",
+      "album": {
+        "name": "Naina",
+        "url": "https://open.spotify.com/album/0X3x5l7UTV5ZYDFaMTFPwa"
+      },
+      "artists": [
+        {
+          "name": "Eden's Echo",
+          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
+        }
+      ],
+      "duration_ms": 152104,
+      "name": "Naina",
+      "url": "https://open.spotify.com/track/3KhwveR9BQPrMpDr23vBDY"
+    },
+    {
+      "added_at": "2026-10-28 07:30:15",
+      "album": {
+        "name": "Tujhe bhool na paau",
+        "url": "https://open.spotify.com/album/2WLSjuSsufPLFAhkniFUjQ"
+      },
+      "artists": [
+        {
+          "name": "Sabari Ganesan",
+          "url": "https://open.spotify.com/artist/21ATRZTxwukWyeCKN9OJ2s"
+        },
+        {
+          "name": "Karan Mehrotra",
+          "url": "https://open.spotify.com/artist/7cbF9f7lZWaxVbjpcYSPaB"
+        }
+      ],
+      "duration_ms": 207818,
+      "name": "Tujhe bhool na paau",
+      "url": "https://open.spotify.com/track/1yF2qiVA7SMp8VYi5YI9Eb"
+    },
+    {
+      "added_at": "2026-10-28 07:30:15",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/1yPuKxSeQtHvikLey3BEfU"
+      },
+      "artists": [
+        {
+          "name": "AVINASH",
+          "url": "https://open.spotify.com/artist/37bH0scDBaXbtgHJxo36Ge"
+        }
+      ],
+      "duration_ms": 137248,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2TxZhyO0pazEdhA7yipqjg"
+    },
+    {
+      "added_at": "2026-10-28 07:30:15",
+      "album": {
+        "name": "Kal",
+        "url": "https://open.spotify.com/album/0KaKnAOoo2s33yMqNQ7qwk"
+      },
+      "artists": [
+        {
+          "name": "Shirish",
+          "url": "https://open.spotify.com/artist/1gCoDNvciyx11iMi6aASNV"
+        }
+      ],
+      "duration_ms": 321428,
+      "name": "Kal",
+      "url": "https://open.spotify.com/track/0i5qg4xRK32UeAwoQsLDG5"
+    },
+    {
+      "added_at": "2026-10-28 07:30:15",
+      "album": {
+        "name": "Rain on a Summer Night",
+        "url": "https://open.spotify.com/album/7tUN4XBBIlhgVdF4wvbf6W"
+      },
+      "artists": [
+        {
+          "name": "Vernon Noronha",
+          "url": "https://open.spotify.com/artist/6CWRHbheSR5BwvtjDP7S6T"
+        }
+      ],
+      "duration_ms": 273230,
+      "name": "Rain on a Summer Night",
+      "url": "https://open.spotify.com/track/1FEJP4gbGNz12we62ya7uL"
+    },
     {
       "added_at": "2026-10-14 07:30:26",
       "album": {
@@ -59,6 +179,22 @@
       "duration_ms": 230454,
       "name": "Gadha",
       "url": "https://open.spotify.com/track/1X0PtEieH2anh2kJQBZl4Q"
+    },
+    {
+      "added_at": "2026-10-28 07:30:15",
+      "album": {
+        "name": "Aasra",
+        "url": "https://open.spotify.com/album/1GO49LA3No7siTuk6CgrdQ"
+      },
+      "artists": [
+        {
+          "name": "Cluelessly Sorted",
+          "url": "https://open.spotify.com/artist/78IWagYqdEYfEd9ZCc7Kiu"
+        }
+      ],
+      "duration_ms": 349363,
+      "name": "Aasra",
+      "url": "https://open.spotify.com/track/4grPKkm3B8iFuh8EV5EG3L"
     },
     {
       "added_at": "2026-10-21 07:30:21",
@@ -127,22 +263,6 @@
       "duration_ms": 175764,
       "name": "Bhool Ja",
       "url": "https://open.spotify.com/track/7B7vSikEu7la5N52XpzTDl"
-    },
-    {
-      "added_at": "2026-10-14 07:30:26",
-      "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/4l85bemd9bln57Mgqawk1N"
-      },
-      "artists": [
-        {
-          "name": "Apartment Upstairs",
-          "url": "https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/0d4373qqHl8NtXMVJi5q6Z"
     },
     {
       "added_at": "2026-10-14 07:30:26",
@@ -539,50 +659,6 @@
     {
       "added_at": "2026-09-02 07:30:17",
       "album": {
-        "name": "Pahado Ki Sard Hawa",
-        "url": "https://open.spotify.com/album/1ekYTk7JlId97HhmwtAYKC"
-      },
-      "artists": [
-        {
-          "name": "Rawmats",
-          "url": "https://open.spotify.com/artist/4KXoWPrIQ7PSI7HtIBHrRa"
-        },
-        {
-          "name": "Krishna Singh",
-          "url": "https://open.spotify.com/artist/4ifdSiZUjHXOn3rQ3Od6R8"
-        }
-      ],
-      "duration_ms": 170886,
-      "name": "Pahado Ki Sard Hawa",
-      "url": "https://open.spotify.com/track/3m083t4HzUoU5jv5EQzIr8"
-    },
-    {
-      "added_at": "2026-09-02 07:30:17",
-      "album": {
-        "name": "Kirchiya",
-        "url": "https://open.spotify.com/album/4wrOVkjYCv5lzPjBz8BW8x"
-      },
-      "artists": [
-        {
-          "name": "Sumit",
-          "url": "https://open.spotify.com/artist/3gVIh8xL73AYFWWxkhx0Li"
-        },
-        {
-          "name": "Barnill",
-          "url": "https://open.spotify.com/artist/5nhvlenyPf1GiQ81ndYkdk"
-        },
-        {
-          "name": "Priyankshu Aryya",
-          "url": "https://open.spotify.com/artist/0UwTpVmC2zkNze1ZFef0IF"
-        }
-      ],
-      "duration_ms": 274016,
-      "name": "Kirchiya",
-      "url": "https://open.spotify.com/track/0gMWCuqMRciygqlt5zOFfE"
-    },
-    {
-      "added_at": "2026-09-02 07:30:17",
-      "album": {
         "name": "Besharam Behaya",
         "url": "https://open.spotify.com/album/5aQ3A46AF1n9LrHvAbByIo"
       },
@@ -663,50 +739,6 @@
     {
       "added_at": "2026-08-26 07:30:02",
       "album": {
-        "name": "Diya Tale Andhera",
-        "url": "https://open.spotify.com/album/56C81lXvioWNp1I88Iw0N4"
-      },
-      "artists": [
-        {
-          "name": "Galat Admi",
-          "url": "https://open.spotify.com/artist/52aqaeK1s6hUreBrhi9AlQ"
-        },
-        {
-          "name": "Sakr\u00e9",
-          "url": "https://open.spotify.com/artist/7pHq9t9Oq4J48lBo5VL5xl"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Diya Tale Andhera",
-      "url": "https://open.spotify.com/track/3jR1fAHqZ2oxzor3j8Ofkv"
-    },
-    {
-      "added_at": "2026-08-26 07:30:02",
-      "album": {
-        "name": "Kho Gaye",
-        "url": "https://open.spotify.com/album/2uD5ahqt7ypvz3V4IrHHbS"
-      },
-      "artists": [
-        {
-          "name": "obnox",
-          "url": "https://open.spotify.com/artist/5WBcCiHokreSzc8bi7wX9M"
-        },
-        {
-          "name": "V Note",
-          "url": "https://open.spotify.com/artist/09DDgmM1NHu86Yf3XK6YVt"
-        },
-        {
-          "name": "ANUPMA",
-          "url": "https://open.spotify.com/artist/5TJoFrtyYEM70gxeQQiRC3"
-        }
-      ],
-      "duration_ms": 193413,
-      "name": "Kho Gaye",
-      "url": "https://open.spotify.com/track/37ikT0Kpyqp4hzXOBh09Qh"
-    },
-    {
-      "added_at": "2026-08-26 07:30:02",
-      "album": {
         "name": "Awarapan",
         "url": "https://open.spotify.com/album/0TyJtRKMbfZKud6VmuHzd2"
       },
@@ -775,26 +807,6 @@
       "duration_ms": 149227,
       "name": "Keh Do Na",
       "url": "https://open.spotify.com/track/0KfJMKzKwez0VsGzmqrQAu"
-    },
-    {
-      "added_at": "2026-08-19 07:30:04",
-      "album": {
-        "name": "Khol",
-        "url": "https://open.spotify.com/album/3ikzUsJcc8FDI9BqL8aQmu"
-      },
-      "artists": [
-        {
-          "name": "borkush",
-          "url": "https://open.spotify.com/artist/2NCuBAUfAm6apU81zx8UXQ"
-        },
-        {
-          "name": "Shivanand Pandey",
-          "url": "https://open.spotify.com/artist/4XYbOZh2DmBK0jc7SJrFfd"
-        }
-      ],
-      "duration_ms": 597818,
-      "name": "Khol",
-      "url": "https://open.spotify.com/track/6YLtjB12LaeFL7SkRhScLN"
     },
     {
       "added_at": "2026-08-12 07:30:10",
@@ -869,22 +881,6 @@
       "url": "https://open.spotify.com/track/0BdR0WtdfmwyS5LnNoJ5wf"
     },
     {
-      "added_at": "2026-07-22 07:30:23",
-      "album": {
-        "name": "Piritiya",
-        "url": "https://open.spotify.com/album/5gCD9HspfoFy4uAw6IIMtb"
-      },
-      "artists": [
-        {
-          "name": "Arrjun pandey",
-          "url": "https://open.spotify.com/artist/4cXHd2VBtClRi3H4tmSDpd"
-        }
-      ],
-      "duration_ms": 251998,
-      "name": "Piritiya",
-      "url": "https://open.spotify.com/track/1RLISDma35bouaTcZaqOyl"
-    },
-    {
       "added_at": "2026-07-15 08:00:14",
       "album": {
         "name": "Romeo.",
@@ -919,26 +915,6 @@
       "duration_ms": 177777,
       "name": "Jaaniya",
       "url": "https://open.spotify.com/track/2bI8N1JQehlzuXBPrBykN0"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Tu Na Aayi",
-        "url": "https://open.spotify.com/album/1hD581ohlD9YwRxzky1YpR"
-      },
-      "artists": [
-        {
-          "name": "Sahil Joshi",
-          "url": "https://open.spotify.com/artist/7gp4BOQuRrBqOkCZr32tVf"
-        },
-        {
-          "name": "Snehil Jain",
-          "url": "https://open.spotify.com/artist/4NomYUWemetc7nCw28G5HF"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Tu Na Aayi",
-      "url": "https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16"
     }
   ],
   "unique_name": "Fresh Finds India",

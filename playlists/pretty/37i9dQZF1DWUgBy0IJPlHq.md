@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: verygently
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,725 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,775 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 101 | [Moral Victory](https://open.spotify.com/track/5D2AaNj4RfxSbHTSYjbb4E) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Moral Victory](https://open.spotify.com/album/573Kvyj26bxfDm7Bj1cyTK) | 5:02 |
 | 102 | [Under You](https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9) | [Andrew Sa](https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07) | [Under You](https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86) | 3:48 |
 
-Snapshot ID: `AAAAAL9lTBuD+t5NzAjMmalSoQ4NUjqc`
+Snapshot ID: `AAAAAGPuJ5p64ScLksbBE8fmboQqEzmV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Alex Isab nos comparte el soundtrack de la Semana de la Moda en México\. Pop, House y vibes Tumbadas y con nuestras raíces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,528 likes - 30 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,501 likes - 30 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 29 | [Despierta](https://open.spotify.com/track/6VPQI1pxnETLhtWjF9CWzQ) | [MIROSLAV Ü](https://open.spotify.com/artist/30gGaAlDAfuWkLNGWtOqsC), [Saddlers](https://open.spotify.com/artist/7geATqWeDla1Gm6rf9c2i1) | [Despierta](https://open.spotify.com/album/4rRl8sdmWzbqvlSY3RDIvh) | 3:11 |
 | 30 | [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 |
 
-Snapshot ID: `AAAAADRng0IRBAGwNsrmhn8olLPhBpPh`
+Snapshot ID: `AAAAAGjBWpyCWsob46S4Vs67tM8GDGkd`

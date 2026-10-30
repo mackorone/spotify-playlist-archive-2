@@ -1,12 +1,12 @@
 {
   "description": "This is Hundred Reasons. The essential tracks, all in one playlist.",
-  "num_followers": 830,
+  "num_followers": 829,
   "original_name": "This Is Hundred Reasons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAtk0k9S/+q1OpW2IcnJmkq",
+  "snapshot_id": "at/pgAAAAAAyGykAGUfOYMY9GSoWS0L/",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 219160,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
+      "duration_ms": 190160,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 190160,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
+      "duration_ms": 219160,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 163960,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4AhTsBfH9FLxYRzPOGZrZR"
+      "duration_ms": 158493,
+      "name": "What Thought Did",
+      "url": "https://open.spotify.com/track/3nIwbl2XMTXisw5y5nu6Iq"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 222493,
-      "name": "Sick Little Masquerade",
-      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+      "duration_ms": 238573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
+      "duration_ms": 222493,
+      "name": "Sick Little Masquerade",
+      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
     },
     {
       "added_at": null,

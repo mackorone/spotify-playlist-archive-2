@@ -6,8 +6,24 @@
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "AAADjcb6WUGpSg5z3w3QRs0vuJiH5tly",
+  "snapshot_id": "AAADj6qrdC2tnb9g69ebkoo6j/OKBQWB",
   "tracks": [
+    {
+      "added_at": "2026-10-29 19:01:49",
+      "album": {
+        "name": "Le Myst\u00e8re Lucy Lost (Bande Originale du Film)",
+        "url": "https://open.spotify.com/album/0aTrirJrbS4UPecYOuqo0O"
+      },
+      "artists": [
+        {
+          "name": "Anne Sophie Versnaeyen",
+          "url": "https://open.spotify.com/artist/671urgqEnpU2quOyN9RB6D"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/2f61q24ulxcjJHUGH1kMV2"
+    },
     {
       "added_at": "2026-09-25 14:11:07",
       "album": {

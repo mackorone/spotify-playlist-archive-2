@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: IVE)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: Yves)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -4943,6 +4943,24 @@
     },
     {
       "album": {
+        "name": "Hysteric / Adam",
+        "url": "https://open.spotify.com/album/7dvg5rUzCp9jOguoz8PmFf"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Hysteric",
+      "url": "https://open.spotify.com/track/5cCiqtYFbUNVknlcnjyk8V"
+    },
+    {
+      "album": {
         "name": "I (Feat. DAWN)",
         "url": "https://open.spotify.com/album/4yCLOlSNlSuwvzGVkYsLwU"
       },
@@ -5276,7 +5294,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/1PdN2pC5LYxnapVB8h6C6r"

@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 18319,
+  "num_followers": 18323,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAACphmnjQ0xc/KKP2Ah8zYev",
+  "snapshot_id": "at/pgAAAAACyW6JABv8gpa5txldg11Oe",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Australian Made",
-        "url": "https://open.spotify.com/album/2Y3hVl3Ft1aSLFOMG4M9Rx"
-      },
-      "artists": [
-        {
-          "name": "The Wolfe Brothers",
-          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Country Is Coming To Town",
-      "url": "https://open.spotify.com/track/6wkPjmKaxCU1l3Lp3TUwVY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm Of The Highway (Tamworth Edition)",
         "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 214720,
       "name": "I'm From The Country",
       "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Australian Made",
+        "url": "https://open.spotify.com/album/2Y3hVl3Ft1aSLFOMG4M9Rx"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Country Is Coming To Town",
+      "url": "https://open.spotify.com/track/6wkPjmKaxCU1l3Lp3TUwVY"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 171523,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 190346,
       "name": "It's Only Country",
       "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 171523,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/1UA9G0IC6SfniPTA7bm7EB"
     },
     {
       "added_at": null,

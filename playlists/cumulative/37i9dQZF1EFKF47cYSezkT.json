@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Hey, Somebody - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6M3nDcroueOxuORgRuVV1o"
+      },
+      "artists": [
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Sky High",
+      "url": "https://open.spotify.com/track/7DKwTEaFimmz8Coym9gydg"
+    },
+    {
+      "album": {
         "name": "Sleepy Head",
         "url": "https://open.spotify.com/album/6NLsQQzO4vZv4u9EFk8DEE"
       },

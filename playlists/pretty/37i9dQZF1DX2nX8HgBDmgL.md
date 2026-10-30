@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Satinder Sartaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,594 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,918 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 99 | [Hopeless](https://open.spotify.com/track/29f6IOg01XRLHKDhFjua1I) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Prem Lata](https://open.spotify.com/artist/3ufBSdoViRPzJXqGPVy8rH), [Aj Fakira](https://open.spotify.com/artist/7shNr1qeqEEoCcWTIj9flc) | [Hopeless](https://open.spotify.com/album/0c0p1pxJrPL1cZxGaUE5t6) | 3:01 |
 | 100 | [Your Thoughts](https://open.spotify.com/track/3nHvjtxxRUXrOQShq6pK6U) | [Nav Singh](https://open.spotify.com/artist/6mzlZZrpYoA0g1m1jbNwMs), [Dachamp](https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z), [Arjan Gill](https://open.spotify.com/artist/7oIh6B3tsRWnIkeX1ZdJyy) | [Your Thoughts](https://open.spotify.com/album/2wLYm5FVxuymjnyJtizaD8) | 3:02 |
 
-Snapshot ID: `AAAAAPwbKgd8BSsHo994U6bwjNNi6QNr`
+Snapshot ID: `AAAAAIVisVIsLpbitgW8QNhpG4dPq8bX`

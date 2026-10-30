@@ -1,13 +1,37 @@
 {
-  "description": "\ud83d\udcf8 KAROL G",
-  "num_followers": 3386654,
+  "description": "\ud83d\udcf8 Lali & Miranda!",
+  "num_followers": 3386200,
   "original_name": "\u00c9xitos Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDOpndwa0sSqhr3ePnpyAanUo7k",
+  "snapshot_id": "AAAAAC8QwIKZeHPH0GlqdizRya1RtnMF",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:00:49",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/4666SViPubDIsqw5300oiR"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 154502,
+      "name": "BAILAR O MORIR",
+      "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
+    },
     {
       "added_at": "2026-10-08 18:32:22",
       "album": {
@@ -939,22 +963,6 @@
       "duration_ms": 291752,
       "name": "Gente Com\u00fan",
       "url": "https://open.spotify.com/track/64q641Y4BCpL4JLWMNdUfR"
-    },
-    {
-      "added_at": "2026-10-08 18:32:22",
-      "album": {
-        "name": "Berl\u00edn",
-        "url": "https://open.spotify.com/album/1AQmeupkRUvsHtKCRzg3Mh"
-      },
-      "artists": [
-        {
-          "name": "K4OS",
-          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
-        }
-      ],
-      "duration_ms": 200427,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/1SUGOWZuixBXBUEDYN6hMu"
     }
   ],
   "unique_name": "\u00c9xitos Argentina",

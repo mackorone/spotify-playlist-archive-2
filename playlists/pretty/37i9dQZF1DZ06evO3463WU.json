@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161657,
+  "num_followers": 161689,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABC2v825FVSGVF+A76fUHT+",
+  "snapshot_id": "at/pgAAAAAB6Qebf5AZLYFbw3k7HbouG",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Consentidas De Pancho Barraza",
-        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Terco",
         "url": "https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 222000,
       "name": "El Terco",
       "url": "https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Consentidas De Pancho Barraza",
+        "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Y Las Mariposas",
+      "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Con El Alma En La Mano",
-      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+      "duration_ms": 195566,
+      "name": "Mi Amor sin Ella - Remastered 2025",
+      "url": "https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 195566,
-      "name": "Mi Amor sin Ella - Remastered 2025",
-      "url": "https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
@@ -496,9 +480,25 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 215446,
-      "name": "Mi Gran Problema",
-      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 220673,
+      "name": "Pasi\u00f3n de Amor - Remastered 2025",
+      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 220673,
-      "name": "Pasi\u00f3n de Amor - Remastered 2025",
-      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
+      "duration_ms": 215446,
+      "name": "Mi Gran Problema",
+      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
     },
     {
       "added_at": null,
@@ -591,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 200703,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
+      "duration_ms": 175834,
+      "name": "Mis Canciones de Amor",
+      "url": "https://open.spotify.com/track/3yqiCLBbNKVZxqUWqMDxkr"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200703,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 179520,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
-      },
-      "artists": [
-        {
-          "name": "Diego Herrera",
-          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 175834,
-      "name": "Mis Canciones de Amor",
-      "url": "https://open.spotify.com/track/3yqiCLBbNKVZxqUWqMDxkr"
     },
     {
       "added_at": null,

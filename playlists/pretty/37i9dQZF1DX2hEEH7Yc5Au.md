@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 探索女性音樂人的精彩作品，收聽精選女歌手歌曲！Cover: E1and
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,235 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,236 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 |
 | 50 | [沒有你以後](https://open.spotify.com/track/7uroux8G4nwOYMJFUkZ1Mw) | [Miusa妙莎](https://open.spotify.com/artist/1itLcngrdYzeL6JRpEviDL) | [沒有你以後](https://open.spotify.com/album/4w4rXBqEo9WrOCc7n6AAmP) | 4:18 |
 
-Snapshot ID: `AAAAACpolyNPX5bXfzpwY3D81gqS/zbg`
+Snapshot ID: `AAAAAI1RaMPudzXw3prLh7Tcje9V67wT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  luvKMI en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,145 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,139 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 49 | [ati!](https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [ati!](https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc) | 2:28 |
 | 50 | [me olvidarás \(como lo haces ya\)](https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [soñé que me llevabas](https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c) | 2:57 |
 
-Snapshot ID: `AAAAAFH/AMLDIAVxjgV40MWg8804MsBw`
+Snapshot ID: `AAAAAHh2VGlmxmBVJtWDcsZy4OoGO7BU`

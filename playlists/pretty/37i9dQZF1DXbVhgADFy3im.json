@@ -1,12 +1,12 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1369695,
+  "num_followers": 1370361,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPqO9dD1JmvY4+FnyZo1TlpKYHq+",
+  "snapshot_id": "AAAAALUpXKYENFjHgosHsul+ZBXlfAqp",
   "tracks": [
     {
       "added_at": "2026-10-19 11:27:37",
@@ -587,26 +587,22 @@
     {
       "added_at": "2026-10-19 11:27:37",
       "album": {
-        "name": "Sitaare (From \"Ikkis\")",
-        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+        "name": "Rathinamo (Female Version)",
+        "url": "https://open.spotify.com/album/45Q1OXnKdOS2B7TkinNudO"
       },
       "artists": [
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
         },
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Tanisha Gnanavel",
+          "url": "https://open.spotify.com/artist/0wGXc8RUsfIm6xBTfrRBtt"
         }
       ],
-      "duration_ms": 242916,
-      "name": "Sitaare (From \"Ikkis\")",
-      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+      "duration_ms": 177390,
+      "name": "Rathinamo - Female Version",
+      "url": "https://open.spotify.com/track/5DM9FesTYD1piLenjk4WBL"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -667,6 +663,30 @@
     {
       "added_at": "2026-10-19 11:27:37",
       "album": {
+        "name": "Sitaare (From \"Ikkis\")",
+        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 242916,
+      "name": "Sitaare (From \"Ikkis\")",
+      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+    },
+    {
+      "added_at": "2026-10-19 11:27:37",
+      "album": {
         "name": "Udi Udi",
         "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 161250,
       "name": "Udi Udi",
       "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
-    },
-    {
-      "added_at": "2026-10-19 11:27:37",
-      "album": {
-        "name": "Rathinamo (Female Version)",
-        "url": "https://open.spotify.com/album/45Q1OXnKdOS2B7TkinNudO"
-      },
-      "artists": [
-        {
-          "name": "Saurav Srisan",
-          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
-        },
-        {
-          "name": "Tanisha Gnanavel",
-          "url": "https://open.spotify.com/artist/0wGXc8RUsfIm6xBTfrRBtt"
-        }
-      ],
-      "duration_ms": 177390,
-      "name": "Rathinamo - Female Version",
-      "url": "https://open.spotify.com/track/5DM9FesTYD1piLenjk4WBL"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -867,30 +867,6 @@
     {
       "added_at": "2026-10-19 11:27:37",
       "album": {
-        "name": "Kanaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5MqnE5fKbjWn25aA091gd0"
-      },
-      "artists": [
-        {
-          "name": "Dhibu Ninan Thomas",
-          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
-        }
-      ],
-      "duration_ms": 249671,
-      "name": "Othaiyadi Pathayila",
-      "url": "https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m"
-    },
-    {
-      "added_at": "2026-10-19 11:27:37",
-      "album": {
         "name": "Andaaz e Karam",
         "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 437679,
       "name": "Andaaz e Karam",
       "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
+    },
+    {
+      "added_at": "2026-10-19 11:27:37",
+      "album": {
+        "name": "Kanaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5MqnE5fKbjWn25aA091gd0"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "duration_ms": 249671,
+      "name": "Othaiyadi Pathayila",
+      "url": "https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-10-19 11:27:37",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-10-19 11:27:37",
-      "album": {
         "name": "Haseen",
         "url": "https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 174545,
       "name": "Haseen",
       "url": "https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI"
+    },
+    {
+      "added_at": "2026-10-19 11:27:37",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-10-19 11:27:37",
       "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "duration_ms": 240012,
+      "name": "Ala Bolelo",
+      "url": "https://open.spotify.com/track/2mrFZyyfPr5hFUoeJD8GqZ"
+    },
+    {
+      "added_at": "2026-10-19 11:27:37",
+      "album": {
         "name": "Russian Bandana",
         "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 193124,
       "name": "Kashish",
       "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
-    },
-    {
-      "added_at": "2026-10-19 11:27:37",
-      "album": {
-        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
-        }
-      ],
-      "duration_ms": 240012,
-      "name": "Ala Bolelo",
-      "url": "https://open.spotify.com/track/2mrFZyyfPr5hFUoeJD8GqZ"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -1267,26 +1267,6 @@
       "duration_ms": 213288,
       "name": "Sang Rahiyo",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
-    },
-    {
-      "added_at": "2026-10-19 11:27:37",
-      "album": {
-        "name": "Mumbai Monsoon Drive",
-        "url": "https://open.spotify.com/album/6m3MpCUAGntmNHqk0moUbn"
-      },
-      "artists": [
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        },
-        {
-          "name": "Ash King",
-          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
-        }
-      ],
-      "duration_ms": 276380,
-      "name": "Baarish",
-      "url": "https://open.spotify.com/track/5VCHlKKMHwlZ7aS3b3HKzW"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -1383,26 +1363,22 @@
     {
       "added_at": "2026-10-19 11:27:37",
       "album": {
-        "name": "Awarapan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD"
+        "name": "Mumbai Monsoon Drive",
+        "url": "https://open.spotify.com/album/6m3MpCUAGntmNHqk0moUbn"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
         },
         {
-          "name": "Mustafa Zahid",
-          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
-        },
-        {
-          "name": "Sayeed Quadri",
-          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
         }
       ],
-      "duration_ms": 348280,
-      "name": "Toh Phir Aao - Original Version",
-      "url": "https://open.spotify.com/track/10rTRsKQDEke6Dd1Qj57Jd"
+      "duration_ms": 276380,
+      "name": "Baarish",
+      "url": "https://open.spotify.com/track/5VCHlKKMHwlZ7aS3b3HKzW"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -1451,6 +1427,30 @@
       "duration_ms": 251818,
       "name": "O Saathi",
       "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
+    },
+    {
+      "added_at": "2026-10-19 11:27:37",
+      "album": {
+        "name": "Awarapan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "duration_ms": 348280,
+      "name": "Toh Phir Aao - Original Version",
+      "url": "https://open.spotify.com/track/10rTRsKQDEke6Dd1Qj57Jd"
     },
     {
       "added_at": "2026-10-19 11:27:37",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-10-19 11:27:37",
       "album": {
+        "name": "YRF Top 10 - Falling in Love",
+        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 260536,
+      "name": "Dil Diyan Gallan",
+      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+    },
+    {
+      "added_at": "2026-10-19 11:27:37",
+      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 131250,
       "name": "Raga of Revenge (From \"DC\")",
       "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
-    },
-    {
-      "added_at": "2026-10-19 11:27:37",
-      "album": {
-        "name": "YRF Top 10 - Falling in Love",
-        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 260536,
-      "name": "Dil Diyan Gallan",
-      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
     },
     {
       "added_at": "2026-10-19 11:27:37",

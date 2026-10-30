@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,528 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,524 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [unsend \(เก็บไว้\)](https://open.spotify.com/track/047ii8AyYNBQFigrAv1XBR) | [JETAIME](https://open.spotify.com/artist/4DImmn6dNLKXoV6KsC17tu), [Janus](https://open.spotify.com/artist/1SziLCWE3UgRYFqNDFbYAz) | [unsend \(เก็บไว้\)](https://open.spotify.com/album/6n2hjQ8eLXCGr8LLaed006) | 4:22 |
 | 50 | [OUTLAW](https://open.spotify.com/track/3SHFwAjs5axUfB75c2BCqZ) | [NATTIST](https://open.spotify.com/artist/5NZYOaq8K4iGEyIPvYsWF3) | [JAILBREAK](https://open.spotify.com/album/2MmDwg0GTKhz468gU485EN) | 3:38 |
 
-Snapshot ID: `AAAAAIDSUa3bNBq5e9jIE17TaXB8meXt`
+Snapshot ID: `AAAAALL3bwT5AqxMlLrAbYTQIlIqf24k`

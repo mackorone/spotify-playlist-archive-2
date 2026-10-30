@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "ouro na fenda",
+        "url": "https://open.spotify.com/album/6D3xhparAOF9w36MUZb61O"
+      },
+      "artists": [
+        {
+          "name": "cristo",
+          "url": "https://open.spotify.com/artist/3tH1vHtEt3cY1RB38z9uGd"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "bom fingidor",
+      "url": "https://open.spotify.com/track/5MtIN0uvqo0eofqxtKTT5Q"
+    },
+    {
+      "album": {
         "name": "Bon Vivan",
         "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
       },
@@ -10282,7 +10300,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 229661,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
@@ -13270,7 +13288,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 199000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z"

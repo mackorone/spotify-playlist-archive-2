@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Living
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,207 likes - 80 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,334 likes - 80 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 79 | [Los coros del universo](https://open.spotify.com/track/4xfJoHvsg4BLP00Ek11NLi) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [Los coros del universo](https://open.spotify.com/album/2ArinG84ld5Jrw7PTg4ElN) | 4:51 |
 | 80 | [Presencia Del Señor](https://open.spotify.com/track/5o4NrZ8lqWR7rIbA5DxO7E) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Marie Welch](https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE) | [Presencia Del Señor](https://open.spotify.com/album/5RthGzTiCNn9ZH0bKjOJ1N) | 4:08 |
 
-Snapshot ID: `AAAAAFxMZRHC+CVwHI8p3i3GOjY+6Mge`
+Snapshot ID: `AAAAADZYWT+d146KwqI8HFUxNiYqbEuf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,736 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,841 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [VOGUE](https://open.spotify.com/track/1JdCyAEy9YLNj5LDDpz73F) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [VOGUE](https://open.spotify.com/album/1PawA1kXPiDO3BHKow7VzH) | 2:22 |
 | 50 | [WEEKEND](https://open.spotify.com/track/48etPdlHxXdmOEVB7xf334) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [WEEKEND](https://open.spotify.com/album/5CbFlQymrBrU41FMAhMhrR) | 1:58 |
 
-Snapshot ID: `AAAAAEFTrtQAU+tQ510Qi9fwPXxau/lF`
+Snapshot ID: `AAAAADQGG70AHLHDM/705HVmNQ1PFKSa`

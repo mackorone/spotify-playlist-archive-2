@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 832928,
+  "num_followers": 833059,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdFkr9uEpgxVK7S/OnI5IcscQbM",
+  "snapshot_id": "AAAAANMrpRsmW5ky7QJwDHagXwBDxPiI",
   "tracks": [
     {
       "added_at": "2024-07-02 22:47:47",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Soul, Vol. 1",
+        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "30 Greatest Hits",
         "url": "https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 181560,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Soul, Vol. 1",
-        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
     },
     {
       "added_at": "2024-07-02 22:47:47",

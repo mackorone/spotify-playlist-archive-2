@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Northlane are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658,745 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658,767 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 99 | [Shut Up and Bleed](https://open.spotify.com/track/2DHm4NLf5eSu4u5DaqjwAg) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Shut Up and Bleed](https://open.spotify.com/album/6cfvVi8n7p7bmWmxNE8ugO) | 3:44 |
 | 100 | [Watching Us Kiss](https://open.spotify.com/track/0kVZWOUCsONWxVBRw6eszc) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [2026 Singles](https://open.spotify.com/album/2z2qrsFz5MNpTmfi6sD59z) | 3:47 |
 
-Snapshot ID: `AAAAAE3KdumgJJNAGxRQTSh/h8GCb8B9`
+Snapshot ID: `AAAAAOxMvsnES3fxpWsTkSQgWpYIa7sm`

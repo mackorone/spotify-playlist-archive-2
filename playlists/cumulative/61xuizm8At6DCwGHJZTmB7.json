@@ -983,6 +983,28 @@
     },
     {
       "album": {
+        "name": "AMAZING!",
+        "url": "https://open.spotify.com/album/3ArEjyeSUTYhrAgB4CYh13"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262935,
+      "name": "AMAZING!",
+      "url": "https://open.spotify.com/track/6xDqS8pVe30KNHnsPVG5DT"
+    },
+    {
+      "album": {
         "name": "The Blessing (Live)",
         "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
       },

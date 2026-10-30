@@ -1,29 +1,13 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 194580,
+  "num_followers": 194630,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAACJz0/yEM6cwE5Sf1vL0X4V",
+  "snapshot_id": "at/pgAAAAACMj18o8wqTuJ7MQ32CVpP8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1Que Sentimiento! (Remastered 2026)",
-        "url": "https://open.spotify.com/album/5IoVB9Wno2XjspNIJY315u"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 286997,
-      "name": "Lo Dej\u00e9 Llorando - Remastered 2026",
-      "url": "https://open.spotify.com/track/3IstEpODh6VNNZ9yxXPVia"
-    },
     {
       "added_at": null,
       "album": {
@@ -539,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 387600,
-      "name": "D\u00e9jala Que Siga",
-      "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sabio",
         "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
       },
@@ -567,6 +535,22 @@
       "duration_ms": 427560,
       "name": "Al\u00e9jate",
       "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 387600,
+      "name": "D\u00e9jala Que Siga",
+      "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00a1Que Sentimiento!",
+        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 366586,
+      "name": "\u00c9l Son",
+      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 295480,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1Que Sentimiento!",
-        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 366586,
-      "name": "\u00c9l Son",
-      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
     },
     {
       "added_at": null,
@@ -939,6 +923,22 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 470280,
+      "name": "Songoro Cosongo",
+      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

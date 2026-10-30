@@ -9859,6 +9859,24 @@
     },
     {
       "album": {
+        "name": "Storm The Castle",
+        "url": "https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222239,
+      "name": "Storm The Castle",
+      "url": "https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK"
+    },
+    {
+      "album": {
         "name": "Strange Addiction",
         "url": "https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R"
       },

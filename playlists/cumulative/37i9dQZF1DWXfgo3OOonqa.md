@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,473 songs - 4 day 8 hr 51 min
+2,475 songs - 4 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Andas](https://open.spotify.com/track/1J8EAd8qYEk6a9lEdXLCe5) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Andas](https://open.spotify.com/album/4a642zBzljxliIoOE90SZ0) | 2:41 | 2025-06-12 | 2025-09-05 |
 | [ANDAS](https://open.spotify.com/track/770laZZFCvuWI23IzOoiHo) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6), [Versa](https://open.spotify.com/artist/0bYamnXdEteT6qKPrcYWFI) | [BARETTA](https://open.spotify.com/album/1oQFPbWMtwh3CfhbGSDjzT) | 2:22 | 2026-07-09 |  |
 | [ANDETAG](https://open.spotify.com/track/0zwfrmzsrb9nVEFuY9c1Hm) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [ANDETAG](https://open.spotify.com/album/5BomQ3n1eL2Ld3XY4GhLys) | 2:41 | 2026-02-12 | 2026-05-01 |
-| [Andiamo](https://open.spotify.com/track/32BRSCKjfaH74GeSKL6iHi) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Andiamo](https://open.spotify.com/album/6f7CvwG32wORNujJ5wqcdK) | 1:50 | 2026-06-25 |  |
+| [Andiamo](https://open.spotify.com/track/32BRSCKjfaH74GeSKL6iHi) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Andiamo](https://open.spotify.com/album/6f7CvwG32wORNujJ5wqcdK) | 1:50 | 2026-06-25 | 2026-10-30 |
 | [Andra Sidan](https://open.spotify.com/track/2gnMvGyvaq5729qTsXObn6) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Andra Sidan](https://open.spotify.com/album/2chjQ3wm2FBXiDhu2pgTcv) | 4:02 | 2025-10-23 | 2026-02-13 |
 | [Angela](https://open.spotify.com/track/5tce90fkQoHjAbLfgVCYzw) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Angela](https://open.spotify.com/album/0ILgDNrWP0lrVWdtzYD8Lf) | 3:16 | 2022-06-17 | 2022-07-29 |
 | [Angelica](https://open.spotify.com/track/0G2Ukgq0t5odVB9lTIzxNm) | [Rozh](https://open.spotify.com/artist/3SRes7eoE3xRodLopFKXWb) | [Angelica](https://open.spotify.com/album/23GiE3Mv1cplUo8PaRfmCF) | 2:21 | 2024-08-29 | 2025-01-17 |
@@ -303,6 +303,7 @@
 | [Belly](https://open.spotify.com/track/6jZVGi3rAs41u3q6wVKoLe) | [Grillat & Grändy](https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Belly](https://open.spotify.com/album/6RoMvd5VZ4atPFqWdHWFuq) | 2:46 | 2023-04-20 | 2023-05-26 |
 | [BENZEMA](https://open.spotify.com/track/4vBPe99GPe7xmU66muo0PM) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [BENZEMA](https://open.spotify.com/album/7s5AG7Cuq4nKg1RmRkvCDh) | 2:15 | 2022-06-23 | 2022-07-08 |
 | [Berlin](https://open.spotify.com/track/1GTuxx5HrfIozxf60kwMLk) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [Berlin](https://open.spotify.com/album/2Ledv5IU1jLs3JqSCEdA20) | 2:24 | 2025-07-24 | 2025-11-14 |
+| [Best Friend](https://open.spotify.com/track/2TzjA3qHv43wyFsphWw5w6) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Best Friend](https://open.spotify.com/album/55qRlhEeKoVzFTuDVKvcSw) | 1:59 | 2026-10-29 |  |
 | [Best Friends](https://open.spotify.com/track/3fbp3OvNkSeKrBW12F0tCm) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Best Friends](https://open.spotify.com/album/2jf5kVVZ6JIqZYvdt6vdVJ) | 2:23 | 2026-08-13 |  |
 | [Bestfriend](https://open.spotify.com/track/2uy44BohFKspxfdfFZBrDl) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Bestfriend](https://open.spotify.com/album/3j8BO6g8AJmwDxv38IvpM5) | 2:00 | 2026-07-09 |  |
 | [BESVIKEN](https://open.spotify.com/track/18UZvAJzIRLEvF50BF75Ku) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [BESVIKEN](https://open.spotify.com/album/4Js13CEsNrOS03BCSfpucf) | 2:37 | 2025-07-10 | 2025-11-14 |
@@ -728,6 +729,7 @@
 | [Faller](https://open.spotify.com/track/7qU6aPdvrWYRI1Y5zsP2RP) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Faller](https://open.spotify.com/album/0U0zXxtd9OOM4e2CMnP3Vu) | 2:03 | 2025-06-19 | 2025-10-31 |
 | [FALLER](https://open.spotify.com/track/2x8jpUHi6hYQBYeqJHb5P3) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [FALLER](https://open.spotify.com/album/6TguGjqXXMWee8xQvUG40N) | 2:38 | 2024-02-15 | 2024-04-19 |
 | [Faller](https://open.spotify.com/track/7DwJKdM6LtlMkJ6gcaG5fE) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Faller](https://open.spotify.com/album/6Wk0t9YDHCm6ZDv9zuywjJ) | 2:26 | 2021-12-16 | 2022-03-05 |
+| [Faller](https://open.spotify.com/track/0wVzZTr0qDD20ttlcMjEr3) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Faller](https://open.spotify.com/album/0sOjCpAQWtNxP5H8seiYts) | 2:12 | 2026-10-29 |  |
 | [Faller](https://open.spotify.com/track/0Nm39ZMoaUKl2b9M1cq3Yu) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Faller](https://open.spotify.com/album/4Qtu3fMUqj2Nqqo81k4TI9) | 2:35 | 2024-10-17 | 2025-01-24 |
 | [Faller Ner](https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Faller Ner](https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg) | 2:10 | 2022-01-11 | 2022-03-04 |
 | [Faller Tillsammans](https://open.spotify.com/track/7CuFJdHXn3QARmX1kZ7DqE) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Faller Tillsammans](https://open.spotify.com/album/2MJ8Q9Lh7vu9h8TdjiHELZ) | 2:24 | 2025-09-25 | 2026-02-13 |
@@ -984,7 +986,7 @@
 | [Hey Ma](https://open.spotify.com/track/7wkRyCd628oRfW3c78534F) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [Hey Ma](https://open.spotify.com/album/4qfqWzsEYkMCS75fF4c49Y) | 2:16 | 2023-05-11 | 2023-06-16 |
 | [Hiding](https://open.spotify.com/track/1eYsZaXm9dwOduVcsDucjB) | [C3 Too Loose](https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA), [Primo Beats](https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L) | [Hiding](https://open.spotify.com/album/2KyOs1fncVeyUX3qc3IytV) | 2:15 | 2022-03-24 | 2022-04-29 |
 | [High](https://open.spotify.com/track/4DaTeWimor2bpS9Amx2gFm) | [MiMs](https://open.spotify.com/artist/4ZwLbKLMoZW1dG7SAhoyUg), [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS) | [High](https://open.spotify.com/album/6J8mvPqoNOfgVBKQstUuos) | 2:42 | 2022-05-05 | 2022-05-20 |
-| [HIGH](https://open.spotify.com/track/0PEkgfUWADoS2GiibHSwdX) | [Nabzz](https://open.spotify.com/artist/7nGOvemHfv4AoYr6Gu3YLs) | [HIGH](https://open.spotify.com/album/2BXF8rwTMRCHNBCie3TeSS) | 2:18 | 2026-07-16 |  |
+| [HIGH](https://open.spotify.com/track/0PEkgfUWADoS2GiibHSwdX) | [Nabzz](https://open.spotify.com/artist/7nGOvemHfv4AoYr6Gu3YLs) | [HIGH](https://open.spotify.com/album/2BXF8rwTMRCHNBCie3TeSS) | 2:18 | 2026-07-16 | 2026-10-30 |
 | [Higher](https://open.spotify.com/track/1khjdOrVNsMz5598kM7GGE) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Higher](https://open.spotify.com/album/7DLYhYaRapmd4KsEhRcF7k) | 2:04 | 2026-09-24 |  |
 | [HIGHLIFE](https://open.spotify.com/track/5LZHyInfEfvBrRYvApfCP9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [HIGHLIFE](https://open.spotify.com/album/0JKQMoMJzbYQRHdI5lKQpw) | 2:20 | 2025-08-28 | 2026-02-13 |
 | [HIKING](https://open.spotify.com/track/2ydkHeG0FGArZMiCstFlHg) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [HIKING](https://open.spotify.com/album/3UW9JLRWR3F9dNkYczDJ0U) | 2:12 | 2026-05-07 | 2026-06-26 |

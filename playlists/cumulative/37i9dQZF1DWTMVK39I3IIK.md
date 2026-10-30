@@ -4,7 +4,7 @@
 
 > unge kniv 🔪 @Østen
 
-483 songs - 1 day 0 hr 48 min
+484 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
 | [Hælervarer](https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Hælervarer](https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3) | 3:04 | 2026-06-26 | 2026-09-13 |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
-| [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 | 2026-06-04 |  |
+| [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 | 2026-06-04 | 2026-10-30 |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [I am your house](https://open.spotify.com/track/62sOtdVgN9YUJErtoHaUc5) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [When you wake up](https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY) | 4:26 | 2024-10-10 | 2024-11-22 |
 | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. Andreas Odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
@@ -240,6 +240,7 @@
 | [Kemisk](https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [Piratradio](https://open.spotify.com/album/355gSMNGokAKgdynsIfQ43) | 2:48 | 2024-07-11 | 2025-02-12 |
 | [Kender Du Følelsen](https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Trampoliner](https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4) | 2:31 | 2024-06-27 | 2025-02-21 |
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-21 |  |
+| [Kitchen](https://open.spotify.com/track/4JJagujzRqfQYMAR4PfUWy) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Kitchen](https://open.spotify.com/album/0VpOOpDI53treIk8ZLf23h) | 2:55 | 2026-10-23 |  |
 | [Klart Nok](https://open.spotify.com/track/0itsAYJPTg18QJadt3lchA) | [Kvadrillers](https://open.spotify.com/artist/7cGbT709Ly8AR5xjPJPeac) | [Klart Nok](https://open.spotify.com/album/12lnq7v7r939itsSBIa9oF) | 2:26 | 2025-10-16 | 2026-02-06 |
 | [Klip Klap Sandaler](https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Kan Du Mærke Suset?](https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty) | 4:00 | 2024-10-10 |  |
 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 | 2026-08-30 |

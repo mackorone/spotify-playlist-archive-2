@@ -4,11 +4,12 @@
 
 > Hip hop and rap music from Nigeria\. Cover: 6uff
 
-845 songs - 1 day 15 hr 25 min
+846 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#toomuchswag](https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn) | [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [\#flowstate](https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH) | 1:52 | 2026-07-31 | 2026-08-07 |
+| [.com](https://open.spotify.com/track/0fRIOr5E0aol2co2LQWuBf) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [WayWard](https://open.spotify.com/album/4Xqnwnf1KiSEot9peaO64C) | 3:37 | 2026-10-23 |  |
 | [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:38 | 2026-10-02 |  |
 | [1\-0](https://open.spotify.com/track/4ocFtpPTZvgVPmTcDsGeMv) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Fimí With The Flow](https://open.spotify.com/album/2snOAiNcPBSYYMIikJ6bom) | 2:16 | 2025-11-14 | 2026-03-13 |
 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 | 2026-03-06 |  |
@@ -310,7 +311,7 @@
 | [Gbewa](https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Gbewa](https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1) | 2:49 | 2026-07-10 |  |
 | [Gentle Baby](https://open.spotify.com/track/2WsP9OSJYPttgj0Zptt0rk) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [Gentle Baby](https://open.spotify.com/album/6ftxNFksrLfwHymv4jsSiZ) | 2:29 | 2025-08-01 | 2025-08-22 |
 | [German Machine \(feat\. Jeriq\)](https://open.spotify.com/track/6TEseDlC0o2lkim735xKhU) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BLESSED](https://open.spotify.com/album/0s2MBUOX5nPs0zjc7eukuZ) | 2:31 | 2024-02-23 | 2024-03-29 |
-| [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-03-31 |  |
+| [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-03-31 | 2026-10-30 |
 | [Ghost Mode](https://open.spotify.com/track/1NP9rjEfsd9h6f8sVGCwRi) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [No Guts No Glory](https://open.spotify.com/album/5Zhg797sEPjrogcC4XXaEP) | 3:50 | 2022-10-14 | 2022-10-29 |
 | [Ghosting](https://open.spotify.com/track/2ruVVY1XNCSJmaU97Pje3V) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ghosting](https://open.spotify.com/album/2gs75kDaSZQxqt2niAUMEL) | 2:29 | 2026-05-01 | 2026-05-08 |
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-28 |  |

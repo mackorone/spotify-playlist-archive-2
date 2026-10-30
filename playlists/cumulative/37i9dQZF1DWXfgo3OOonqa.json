@@ -3278,7 +3278,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 110000,
       "name": "Andiamo",
       "url": "https://open.spotify.com/track/32BRSCKjfaH74GeSKL6iHi"
@@ -5840,6 +5840,24 @@
       "duration_ms": 144900,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/1GTuxx5HrfIozxf60kwMLk"
+    },
+    {
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/55qRlhEeKoVzFTuDVKvcSw"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119400,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/2TzjA3qHv43wyFsphWw5w6"
     },
     {
       "album": {
@@ -14306,6 +14324,24 @@
     {
       "album": {
         "name": "Faller",
+        "url": "https://open.spotify.com/album/0sOjCpAQWtNxP5H8seiYts"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Faller",
+      "url": "https://open.spotify.com/track/0wVzZTr0qDD20ttlcMjEr3"
+    },
+    {
+      "album": {
+        "name": "Faller",
         "url": "https://open.spotify.com/album/4Qtu3fMUqj2Nqqo81k4TI9"
       },
       "artists": [
@@ -19452,7 +19488,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 138285,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/0PEkgfUWADoS2GiibHSwdX"

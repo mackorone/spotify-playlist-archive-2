@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta, bouyon & dembow du moment\. Photo : Shay x Ronisia x Meryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,437 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,473 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [A perpète](https://open.spotify.com/track/4gvE7TsnkdTMM59jJp3opF) | [Keros\-N](https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc), [Mister Francky](https://open.spotify.com/artist/4kXQgX9t5ijlfWnybY6SW5) | [A perpète](https://open.spotify.com/album/6SAohYMatBBztLtHCVsMpt) | 3:11 |
 | 50 | [Dolla sign](https://open.spotify.com/track/4m2qQkpEx9zUMVpkPW9vEd) | [Bad Gyal Jade](https://open.spotify.com/artist/2todrJqIBQQZNLHnl6kXbO), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [Dolla sign](https://open.spotify.com/album/1ds1PSpW9F8h1bmFRSCfHE) | 3:04 |
 
-Snapshot ID: `AAAAAL1LPjVdMntnX/0UfFxWobok8z/w`
+Snapshot ID: `AAAAAJQggYYWFVwv8l/UI+KqS7uZhYZn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 59 songs - 4 hr 26 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 57 | [Anthem](https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2) | [Nicholas Christopher](https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN), [CHESS 2025 Broadway Company](https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW) | [Anthem](https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9) | 3:14 |
 | 58 | [Daffodils](https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk) | [Norbert Leo Butz](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Big Fish \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v) | 5:08 |
 | 59 | [Taswell](https://open.spotify.com/track/5nvrEMlT3kq34aTj8Bk4pk) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK) | 8:35 |
+| 60 | [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 |
 
-Snapshot ID: `AAAHOkIPjZW7kDC4jvCsZhhEfuy/DQD3`
+Snapshot ID: `AAAHO+d3XIFwxfsg90uCgdYXAioo6e34`

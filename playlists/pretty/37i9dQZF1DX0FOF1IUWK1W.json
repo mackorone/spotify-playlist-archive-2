@@ -1,12 +1,12 @@
 {
   "description": "Felipe e Rodrigo e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 8718294,
+  "num_followers": 8718118,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIf4A3qc8sgHFo8VueF+7e+vjLd",
+  "snapshot_id": "AAAAAO5VREyy6M42JLn6SPy2kx4rnTtB",
   "tracks": [
     {
       "added_at": "2026-10-16 22:34:31",
@@ -280,10 +280,6 @@
           "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
         },
         {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
           "name": "$CAM",
           "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
         },
@@ -292,16 +288,20 @@
           "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
         },
         {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
           "name": "Ian Durso",
           "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
         },
         {
-          "name": "DJ GB do Dick",
-          "url": "https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1"
-        },
-        {
           "name": "Dj Cabelinho de Caxias",
           "url": "https://open.spotify.com/artist/0ztADIB4LxyvhWRiFVsEzm"
+        },
+        {
+          "name": "DJ GB do Dick",
+          "url": "https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1"
         }
       ],
       "duration_ms": 103759,

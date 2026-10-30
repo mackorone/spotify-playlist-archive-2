@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Milena Benites y Barboza
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,384 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,386 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 29 | [Cosas de Dios](https://open.spotify.com/track/3BOv8oi7Kbf99psE2cFB8X) | [Milena Benites](https://open.spotify.com/artist/0LQrMeU9OVkYoSdImco04N), [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [Cosas de Dios](https://open.spotify.com/album/6gEzuuMvVFDp5aJtXFzFsb) | 4:21 |
 | 30 | [Después de la Tormenta](https://open.spotify.com/track/6YCfIhKQ1KUb2XjTO4Mfxa) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:58 |
 
-Snapshot ID: `AAAAAL2NsmQORMigLIHjvX8Q+jH6Ato0`
+Snapshot ID: `AAAAAGyCWgfBA/MCejnib3+Ww8mreTit`

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: BENITO",
-  "num_followers": 113025,
+  "num_followers": 113039,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIlyAaRckGFR0E61AuoYzshZklSd",
+  "snapshot_id": "AAAAAPuOzZ9QRqAm5lnvpCodclHtu+07",
   "tracks": [
     {
       "added_at": "2026-10-16 03:01:01",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Te Encontrei",
-        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 184252,
-      "name": "Te Encontrei",
-      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "A Minha Raz\u00e3o (Reason I Sing)",
         "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 198928,
       "name": "O Reino Vem",
       "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Te Encontrei",
+        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 184252,
+      "name": "Te Encontrei",
+      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Teu Amor Me Consome",
         "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Vilhena",
-          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
-        },
-        {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
-      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+        "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vilhena",
+          "url": "https://open.spotify.com/artist/3kESgd3zPQ4efT8GXipQjc"
+        },
+        {
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
+      "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -739,34 +739,18 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Um Conselho",
-        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
+        "name": "VALOR (BLACK EDITION)",
+        "url": "https://open.spotify.com/album/08m2j7nLiW2cNxdK4n4Mmh"
       },
       "artists": [
         {
-          "name": "Milena Pina",
-          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
         }
       ],
-      "duration_ms": 147810,
-      "name": "Um Conselho",
-      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "At\u00e9 Sermos Um",
-        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 178446,
-      "name": "At\u00e9 Sermos Um",
-      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+      "duration_ms": 231405,
+      "name": "valor real",
+      "url": "https://open.spotify.com/track/2EJmDGZX1cS46akweJKMRL"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -783,22 +767,6 @@
       "duration_ms": 227717,
       "name": "Festa no Deserto - Ao Vivo",
       "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "VALOR (BLACK EDITION)",
-        "url": "https://open.spotify.com/album/08m2j7nLiW2cNxdK4n4Mmh"
-      },
-      "artists": [
-        {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
-        }
-      ],
-      "duration_ms": 231405,
-      "name": "valor real",
-      "url": "https://open.spotify.com/track/2EJmDGZX1cS46akweJKMRL"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -831,6 +799,38 @@
       "duration_ms": 224032,
       "name": "Ousado Amor (Releitura)",
       "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Um Conselho",
+        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
+      },
+      "artists": [
+        {
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+        }
+      ],
+      "duration_ms": 147810,
+      "name": "Um Conselho",
+      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "At\u00e9 Sermos Um",
+        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 178446,
+      "name": "At\u00e9 Sermos Um",
+      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -875,6 +875,26 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "Fui Liberto",
+        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Gomes",
+          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
+        },
+        {
+          "name": "Gospel Beat Brasil",
+          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Fui Liberto",
+      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -911,42 +931,6 @@
       "duration_ms": 196032,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "Fui Liberto",
-        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Gomes",
-          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
-        },
-        {
-          "name": "Gospel Beat Brasil",
-          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Fui Liberto",
-      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
       },
@@ -1007,26 +1007,6 @@
       "duration_ms": 197120,
       "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
       "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1067,6 +1047,26 @@
       "duration_ms": 215125,
       "name": "Pra Onde Vou Correr",
       "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2026-10-16 03:01:01",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
+        "name": "Voltar",
+        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
+      },
+      "artists": [
+        {
+          "name": "Eric Cortes",
+          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
+        }
+      ],
+      "duration_ms": 256874,
+      "name": "Voltar",
+      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Voltar",
-        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
-      },
-      "artists": [
-        {
-          "name": "Eric Cortes",
-          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Voltar",
-      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-10-16 03:01:01",
       "album": {
-        "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
-        "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "Igor Zolla",
-          "url": "https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim",
-      "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
-    },
-    {
-      "added_at": "2026-10-16 03:01:01",
-      "album": {
         "name": "Deixa Esse Medo",
         "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 125890,
       "name": "Deixa Esse Medo",
       "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
+    },
+    {
+      "added_at": "2026-10-16 03:01:01",
+      "album": {
+        "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
+        "url": "https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "Igor Zolla",
+          "url": "https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim",
+      "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
     },
     {
       "added_at": "2026-10-16 03:01:01",

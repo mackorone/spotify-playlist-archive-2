@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Teenage Dads
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,921 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,915 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Sacrosaint](https://open.spotify.com/track/7L2h3bpDgcolzITQp6aX3h) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Sacrosaint](https://open.spotify.com/album/4wSNLirnMjPbHvsxxDnLPU) | 3:53 |
 | 100 | [Lockjaw](https://open.spotify.com/track/7CWxtMJ6qjMhbPsMTdz3TK) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Sex Mask](https://open.spotify.com/album/7rj9rAXuCESyQG80tMLPIN) | 2:55 |
 
-Snapshot ID: `AAAAAMVCmKDNPgGaiYAqmiFdDZ8H6+6q`
+Snapshot ID: `AAAAAPvfjoKk5y5xkbkpOUEvvkpZhJKG`

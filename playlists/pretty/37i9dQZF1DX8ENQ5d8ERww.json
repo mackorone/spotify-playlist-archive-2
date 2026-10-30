@@ -1,12 +1,12 @@
 {
   "description": "Playlist Takeover by Bligg!",
-  "num_followers": 13831,
+  "num_followers": 13830,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB7egk7pJB3sE1MDntMGqlccsLvy",
+  "snapshot_id": "AAAAALjInw4iFioWh4Vg9BdJwC/uqAG2",
   "tracks": [
     {
       "added_at": "2026-10-08 22:00:12",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
+        "name": "8i Bahnhof",
+        "url": "https://open.spotify.com/album/53nhR2JauB25narZk2hvED"
+      },
+      "artists": [
+        {
+          "name": "TAFS",
+          "url": "https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "8i Bahnhof",
+      "url": "https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 206426,
       "name": "King Size (feat. Kool Savas)",
       "url": "https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
-        "name": "8i Bahnhof",
-        "url": "https://open.spotify.com/album/53nhR2JauB25narZk2hvED"
-      },
-      "artists": [
-        {
-          "name": "TAFS",
-          "url": "https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "8i Bahnhof",
-      "url": "https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Jede Tag'n Gleiser",
-        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
-      },
-      "artists": [
-        {
-          "name": "Gleiszwei",
-          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "Muetersprach",
-      "url": "https://open.spotify.com/track/4WAn4IttWbxnDDbgXSYZjE"
-    },
-    {
-      "added_at": "2026-10-08 22:00:12",
-      "album": {
         "name": "From Hell to Heaven and Back",
         "url": "https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 226826,
       "name": "From Hell to Heaven and Back",
       "url": "https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH"
+    },
+    {
+      "added_at": "2026-10-08 22:00:12",
+      "album": {
+        "name": "Jede Tag'n Gleiser",
+        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
+      },
+      "artists": [
+        {
+          "name": "Gleiszwei",
+          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Muetersprach",
+      "url": "https://open.spotify.com/track/4WAn4IttWbxnDDbgXSYZjE"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -755,18 +755,22 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Au Revoir",
-        "url": "https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm"
+        "name": "Jede Tag'n Gleiser",
+        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
       },
       "artists": [
         {
-          "name": "Double Pact",
-          "url": "https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya"
+          "name": "Gleiszwei",
+          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
+        },
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Je t'aime",
-      "url": "https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY"
+      "duration_ms": 273266,
+      "name": "Bruch e Waag",
+      "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
     },
     {
       "added_at": "2026-10-08 22:00:12",
@@ -791,22 +795,18 @@
     {
       "added_at": "2026-10-08 22:00:12",
       "album": {
-        "name": "Jede Tag'n Gleiser",
-        "url": "https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa"
+        "name": "Au Revoir",
+        "url": "https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm"
       },
       "artists": [
         {
-          "name": "Gleiszwei",
-          "url": "https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr"
-        },
-        {
-          "name": "Bligg",
-          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+          "name": "Double Pact",
+          "url": "https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya"
         }
       ],
-      "duration_ms": 273266,
-      "name": "Bruch e Waag",
-      "url": "https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj"
+      "duration_ms": 181533,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY"
     },
     {
       "added_at": "2026-10-08 22:00:12",

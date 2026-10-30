@@ -1,12 +1,12 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 277962,
+  "num_followers": 278199,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABfB3PgsvtWv72h9FFKIdt2JOMMY",
+  "snapshot_id": "AAAAADXQE7CyZ2lWEgIBQ9ZXzZaCr7TH",
   "tracks": [
     {
       "added_at": "2026-07-29 17:48:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "The Hero & The Villain",
-        "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Reaching For The Light",
-      "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "I'll Fly Away (feat. Benjamin William Hastings)",
         "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 180936,
       "name": "I'll Fly Away (feat. Benjamin William Hastings)",
       "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "The Hero & The Villain",
+        "url": "https://open.spotify.com/album/4hTbkRnaRb9DDgwRZ4gYHz"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Reaching For The Light",
+      "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Do It All Alone",
-        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
+        "name": "So Long Sad Songs",
+        "url": "https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 172738,
-      "name": "Do It All Alone",
-      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
+      "duration_ms": 185092,
+      "name": "So Long Sad Songs",
+      "url": "https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "So Long Sad Songs",
-        "url": "https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG"
+        "name": "Do It All Alone",
+        "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 185092,
-      "name": "So Long Sad Songs",
-      "url": "https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U"
+      "duration_ms": 172738,
+      "name": "Do It All Alone",
+      "url": "https://open.spotify.com/track/4BC0djL2b1NHcLLT9LYw9d"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "I'm So Blessed (Aaron Cole Mix)",
+        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "I'm So Blessed - Aaron Cole Mix",
+      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "Poetic",
         "url": "https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8"
       },
@@ -879,26 +899,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "I'm So Blessed (Aaron Cole Mix)",
-        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "I'm So Blessed - Aaron Cole Mix",
-      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "a light in me",
         "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Far Country",
-        "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 193274,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Far Country",
+        "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "APPETITE",
-        "url": "https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "APPETITE",
-      "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "Already On The Way",
         "url": "https://open.spotify.com/album/5XEkfQjUdUlyleyG4uc0yo"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 171536,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "APPETITE",
+        "url": "https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 209376,
+      "name": "APPETITE",
+      "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Everything_",
-        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
+        "name": "Brighter Days (New Day Edition)",
+        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
       },
       "artists": [
         {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 231151,
-      "name": "Everything_",
-      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
+      "duration_ms": 185874,
+      "name": "Brighter Days - New Day Edition",
+      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Brighter Days (New Day Edition)",
-        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
+        "name": "Everything_",
+        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
         }
       ],
-      "duration_ms": 185874,
-      "name": "Brighter Days - New Day Edition",
-      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
+      "duration_ms": 231151,
+      "name": "Everything_",
+      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Why Do You Love Me?",
-        "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
-      },
-      "artists": [
-        {
-          "name": "Gable Price and Friends",
-          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
-        }
-      ],
-      "duration_ms": 248820,
-      "name": "Why Do You Love Me?",
-      "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Why Do You Love Me?",
+        "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "duration_ms": 248820,
+      "name": "Why Do You Love Me?",
+      "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "Ain't It Beautiful",
+        "url": "https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq"
+      },
+      "artists": [
+        {
+          "name": "Ivan Theva",
+          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Ain't It Beautiful",
+      "url": "https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "NO SKIPS / GOOD OLD DAYS",
         "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
       },
@@ -1535,38 +1551,6 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
-        "name": "Ain't It Beautiful",
-        "url": "https://open.spotify.com/album/50CCqxmOoeKYAtzdQg8Tyq"
-      },
-      "artists": [
-        {
-          "name": "Ivan Theva",
-          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
-        }
-      ],
-      "duration_ms": 214823,
-      "name": "Ain't It Beautiful",
-      "url": "https://open.spotify.com/track/4DiubSXjsdfsjoKSFFIQOQ"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "Real Me",
-        "url": "https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 172621,
-      "name": "Learning To Let Go",
-      "url": "https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
         "name": "GREATER LOVE",
         "url": "https://open.spotify.com/album/0HsBCbZW9Y7taCvI9FkvPB"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 111428,
       "name": "GREATER LOVE",
       "url": "https://open.spotify.com/track/3gdAmqnh0cQiknfkLSB17H"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
+        "name": "Real Me",
+        "url": "https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 172621,
+      "name": "Learning To Let Go",
+      "url": "https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm"
     },
     {
       "added_at": "2026-07-29 17:48:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-29 17:48:00",
       "album": {
+        "name": "getting somewhere",
+        "url": "https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9"
+      },
+      "artists": [
+        {
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "getting somewhere",
+      "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
+    },
+    {
+      "added_at": "2026-07-29 17:48:00",
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 226790,
       "name": "Here In The Moment",
       "url": "https://open.spotify.com/track/1TlIZbnfUgZdW8vRucbYeD"
-    },
-    {
-      "added_at": "2026-07-29 17:48:00",
-      "album": {
-        "name": "getting somewhere",
-        "url": "https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9"
-      },
-      "artists": [
-        {
-          "name": "Cross Gray",
-          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "getting somewhere",
-      "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
     },
     {
       "added_at": "2026-07-29 17:48:00",

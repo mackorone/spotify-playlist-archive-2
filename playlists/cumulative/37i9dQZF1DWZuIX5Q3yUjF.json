@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "ram\u00e9 in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Ama Dee in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 159795,
       "name": "All Blacks",
       "url": "https://open.spotify.com/track/7xSfeDjjuWHToasmNaGyd9"
@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 247808,
       "name": "Che Storia Sei? (feat. Joan Thiele, Joshua, Nayt)",
       "url": "https://open.spotify.com/track/5g90lERIegvSarqBoqxkjA"
@@ -6694,7 +6694,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 166666,
       "name": "fango (feat. Latrelle)",
       "url": "https://open.spotify.com/track/6z1KelkhtONfx2zOQWrlX2"
@@ -12613,6 +12613,24 @@
     },
     {
       "album": {
+        "name": "Sigma femme",
+        "url": "https://open.spotify.com/album/1X6zY7BHoMC5DeqjL5Mmzi"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126613,
+      "name": "Nebbia (luna balsamica)",
+      "url": "https://open.spotify.com/track/3vxcxvtRzWZl9QSxey1xiK"
+    },
+    {
+      "album": {
         "name": "necrosi",
         "url": "https://open.spotify.com/album/76MDbJCcscOTAbCTSKLfqr"
       },
@@ -14032,6 +14050,28 @@
       "duration_ms": 153862,
       "name": "Obbligo o Verit\u00e0",
       "url": "https://open.spotify.com/track/42rkEnDZG3nErSDRDCHJeR"
+    },
+    {
+      "album": {
+        "name": "OCCHI",
+        "url": "https://open.spotify.com/album/0HNAaG0HOoB7MXxlhjmuVf"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175121,
+      "name": "OCCHI",
+      "url": "https://open.spotify.com/track/3ngCBqQMc5DwS63lfn1FAz"
     },
     {
       "album": {
@@ -19254,7 +19294,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 190400,
       "name": "Stupide Parole",
       "url": "https://open.spotify.com/track/7GSb72ihWI9ffI68HG18Tp"
@@ -20519,6 +20559,28 @@
     },
     {
       "album": {
+        "name": "Tutto ci\u00f2 di cui hai bisogno",
+        "url": "https://open.spotify.com/album/3A1qxXTImMoOYKKprKfgh3"
+      },
+      "artists": [
+        {
+          "name": "Kevira",
+          "url": "https://open.spotify.com/artist/32SC2EXg6VwRjVD1ftLMFl"
+        },
+        {
+          "name": "Piccolorvssk",
+          "url": "https://open.spotify.com/artist/4V2xmUqZRloPOuVbH6r4ue"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139681,
+      "name": "Tutto ci\u00f2 di cui hai bisogno",
+      "url": "https://open.spotify.com/track/7mgr04uZgK1DsjH0q3e9az"
+    },
+    {
+      "album": {
         "name": "Tutto Come Prima",
         "url": "https://open.spotify.com/album/6iAgkNGERqODgB7Mb7xiNI"
       },
@@ -20690,6 +20752,24 @@
       "duration_ms": 148314,
       "name": "UH NA NA EH",
       "url": "https://open.spotify.com/track/58doxdbTp9Q47wdyz24Ebq"
+    },
+    {
+      "album": {
+        "name": "Sigma femme",
+        "url": "https://open.spotify.com/album/1X6zY7BHoMC5DeqjL5Mmzi"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162881,
+      "name": "Ultima danza (luna nuova)",
+      "url": "https://open.spotify.com/track/6bW8fCbOl1cBecoDMKiCaw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
+  "description": "The best from Britain's vibrant scene. Cover: Moses Boyd",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -9798,7 +9798,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 372644,
       "name": "Never Gonna Be A Boxer",
       "url": "https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE"
@@ -15712,6 +15712,28 @@
       "duration_ms": 181124,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr"
+    },
+    {
+      "album": {
+        "name": "Songs For Sinners",
+        "url": "https://open.spotify.com/album/6lwvh4m0R124kNxrjjVFem"
+      },
+      "artists": [
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "Raelle",
+          "url": "https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206024,
+      "name": "War",
+      "url": "https://open.spotify.com/track/0EjOVz3qCWuYWceLlanJFZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Valerie June",
-  "num_followers": 1068236,
+  "num_followers": 1068169,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEdzJp2844j7kjE4b48ZkcqisPNR",
+  "snapshot_id": "AAAAAPTtZQZHxFKZclW81L5exaZOLz1Z",
   "tracks": [
     {
       "added_at": "2026-09-18 04:01:42",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Last Season of America",
-        "url": "https://open.spotify.com/album/5KP5qRIWaVzDdC3tcWvgyv"
-      },
-      "artists": [
-        {
-          "name": "Seasick Steve",
-          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
-        },
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 260938,
-      "name": "El Camino",
-      "url": "https://open.spotify.com/track/7fHTwRhv6K9xyi01H92Ts2"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "They Call Us The Lucky Ones",
         "url": "https://open.spotify.com/album/3DZjgdx3sRIqhPDgz16A7B"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 211907,
       "name": "Let the Big Dog Eat",
       "url": "https://open.spotify.com/track/6ElsMCwZ6b7uc7niDLHMn8"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "The Last Season of America",
+        "url": "https://open.spotify.com/album/5KP5qRIWaVzDdC3tcWvgyv"
+      },
+      "artists": [
+        {
+          "name": "Seasick Steve",
+          "url": "https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv"
+        },
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 260938,
+      "name": "El Camino",
+      "url": "https://open.spotify.com/track/7fHTwRhv6K9xyi01H92Ts2"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 261773,
       "name": "I'm Leaving",
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Roll Mega",
         "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
-      },
-      "artists": [
-        {
-          "name": "The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Madame President",
-      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 217626,
       "name": "Fancy Drones (Fracture Me)",
       "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+      },
+      "artists": [
+        {
+          "name": "The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Madame President",
+      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -979,34 +995,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
       "artists": [
         {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Let's Walk",
-        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 292786,
-      "name": "Let's Walk",
-      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1023,6 +1023,22 @@
       "duration_ms": 223523,
       "name": "Let It Die Here",
       "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Let's Walk",
+        "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 292786,
+      "name": "Let's Walk",
+      "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1051,22 +1067,6 @@
       "duration_ms": 257814,
       "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
       "url": "https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "The Mule",
         "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 150688,
       "name": "pretty baby",
       "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Turn Me In",
-        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
-      },
-      "artists": [
-        {
-          "name": "Leon Majcen",
-          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Turn Me In",
-      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 227453,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Medium Raw",
+        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 255573,
+      "name": "I Could Just Die Right Now",
+      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Medium Raw",
-        "url": "https://open.spotify.com/album/2tSCbF8irTXTQdIMC80THg"
+        "name": "Days of Mellow",
+        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
       "artists": [
         {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
         }
       ],
-      "duration_ms": 255573,
-      "name": "I Could Just Die Right Now",
-      "url": "https://open.spotify.com/track/00cOY9F6uYZCjS49sFNVxG"
+      "duration_ms": 154980,
+      "name": "Days of Mellow",
+      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1371,18 +1371,50 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Days of Mellow",
-        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
+        "name": "Turn Me In",
+        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
       },
       "artists": [
         {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
         }
       ],
-      "duration_ms": 154980,
-      "name": "Days of Mellow",
-      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+      "duration_ms": 207880,
+      "name": "Turn Me In",
+      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1407,34 +1439,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+        "name": "The Hammer & The Rose",
+        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
         }
       ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+      "duration_ms": 247720,
+      "name": "Tonight Belongs to You",
+      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Hammer & The Rose",
-        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
       },
       "artists": [
         {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 247720,
-      "name": "Tonight Belongs to You",
-      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Love On My Brain",
-        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 273121,
-      "name": "Love On My Brain",
-      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Roots & Wings",
         "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 226240,
       "name": "Roots & Wings",
       "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
     },
     {
       "added_at": "2026-09-18 04:01:42",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
-        "name": "Death Rolls Like Thunder",
-        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 223366,
-      "name": "Death Rolls Like Thunder",
-      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
         "name": "Let's Get Loud",
         "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
@@ -1671,6 +1655,38 @@
     {
       "added_at": "2026-09-18 04:01:42",
       "album": {
+        "name": "Death Rolls Like Thunder",
+        "url": "https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 223366,
+      "name": "Death Rolls Like Thunder",
+      "url": "https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
+        "name": "Neon Sounds",
+        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
+      },
+      "artists": [
+        {
+          "name": "The Delta Bombers",
+          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Hey! You Know You Wanna!",
+      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+    },
+    {
+      "added_at": "2026-09-18 04:01:42",
+      "album": {
         "name": "Bring Me Back Home Again",
         "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 207931,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
-    },
-    {
-      "added_at": "2026-09-18 04:01:42",
-      "album": {
-        "name": "Neon Sounds",
-        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
-      },
-      "artists": [
-        {
-          "name": "The Delta Bombers",
-          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Hey! You Know You Wanna!",
-      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
     }
   ],
   "unique_name": "Blues Roots",

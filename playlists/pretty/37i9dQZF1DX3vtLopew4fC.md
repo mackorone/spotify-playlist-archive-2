@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Asal and Canadian women at full volume!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,946 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,951 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Better For My Heart](https://open.spotify.com/track/5I8EDaJJJfZT8jVIqDSWAB) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Judith Little D](https://open.spotify.com/artist/5ndKESqmhnZNtrRnYeqHBz) | [Better For My Heart](https://open.spotify.com/album/2PfUvkqj0N0Bz4WEf2hcuv) | 3:34 |
 | 40 | [What Am I](https://open.spotify.com/track/6Q928SBQDBDYkv1snqXGVv) | [Mulan](https://open.spotify.com/artist/0if3HHGleV8hxxn38NyMOn) | [Angelic Crashout](https://open.spotify.com/album/4AMTgSoYEkWhOon0wm0cuI) | 2:38 |
 
-Snapshot ID: `AAAAAOiJF8WlsIMMZ3zFsoOcsLESfXP5`
+Snapshot ID: `AAAAAJMD7aytD54yBWYcd96ealCducms`

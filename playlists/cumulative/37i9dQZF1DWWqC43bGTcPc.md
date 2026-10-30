@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 田馥甄 Hebe
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 曾沛慈
 
-1,287 songs - 3 day 8 hr 2 min
+1,289 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [555 666 888 33](https://open.spotify.com/track/2HBJ5IB7F1N7QQhIT9PNLc) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [555 666 888 33](https://open.spotify.com/album/1zZScbUq5oOTxjQGphlfql) | 3:46 | 2025-07-09 | 2025-07-15 |
 | [99](https://open.spotify.com/track/0TEZhoK0jSuJRxaXqWHZyZ) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI) | 4:46 | 2024-10-28 | 2024-11-05 |
 | [Abettor](https://open.spotify.com/track/7vPtWXSa2qyBNQ5a2p0FsG) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Abettor](https://open.spotify.com/album/1blZ7rVZHKi6SW5n4U5vrv) | 3:57 | 2024-04-22 | 2024-04-30 |
-| [After Everything \- HBO原創影集《來！金來號！》插曲](https://open.spotify.com/track/3A0HzxcqgA37hiMo4qiVlS) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [After Everything \- HBO原創影集《來！金來號！》插曲](https://open.spotify.com/album/1AbpDQYgf3b9vCFKvOYZ2f) | 3:49 | 2026-09-24 |  |
+| [After Everything \- HBO原創影集《來！金來號！》插曲](https://open.spotify.com/track/3A0HzxcqgA37hiMo4qiVlS) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [After Everything \- HBO原創影集《來！金來號！》插曲](https://open.spotify.com/album/1AbpDQYgf3b9vCFKvOYZ2f) | 3:49 | 2026-09-24 | 2026-10-30 |
 | [ALL EYES ON ME](https://open.spotify.com/track/3dulYuKk06Hs5CG2f5tDJX) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [ALL EYES ON ME](https://open.spotify.com/album/2cBIEBbIlsxcwlMmPQJ1dd) | 2:58 | 2025-12-15 | 2025-12-23 |
 | [All For You \- 《蜘蛛人：重生日》電影片尾曲](https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [All For You \(《蜘蛛人：重生日》電影片尾曲\)](https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9) | 3:37 | 2026-07-23 |  |
 | [ALL NIGHT \(feat\. Abeliano\)](https://open.spotify.com/track/2DjxWkGaYda6G3dhPK6qMe) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [所以共振之前](https://open.spotify.com/album/6I4D5j0mWRdyKL9uRpsJwZ) | 2:46 | 2026-05-28 | 2026-07-10 |
@@ -112,6 +112,7 @@
 | [Jumping Machine跳楼机 \- with Tyson Yoshi](https://open.spotify.com/track/0R3Gc2vLh5XFSWeU1r6wYY) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Jumping Machine跳樓機 \(with Tyson Yoshi\)](https://open.spotify.com/album/1cDrpSotPL2IRtKAe4xHkO) | 3:25 | 2025-06-23 | 2025-07-29 |
 | [Just You and Me](https://open.spotify.com/track/2rQgwJUT8zzyJzOqpxbzme) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Just You and Me](https://open.spotify.com/album/6Dmyr1ZYRGJ3F46F4hmJxy) | 4:01 | 2024-02-12 | 2024-02-20 |
 | [Kampung Girl 普通人](https://open.spotify.com/track/4e04LfP6YfVB7Lau3hI4Qh) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [Kampung Girl 普通人](https://open.spotify.com/album/2eJ2zxPEN0ZiubESmgHK5V) | 3:33 | 2025-12-08 | 2025-12-30 |
+| [KARMA](https://open.spotify.com/track/3dX8hj0G8BJ2ID8ViyWDLZ) | [方品融](https://open.spotify.com/artist/4Z5hQV5kCmLtsWuhHvIVJ9) | [KARMA](https://open.spotify.com/album/1jKtCMcr9e1vL7loaBO5ZF) | 2:38 | 2026-10-29 |  |
 | [L!KE](https://open.spotify.com/track/1DAGzOx1hZTRyni4aC2yQU) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [L!KE](https://open.spotify.com/album/5Utl9VItJfJR4TIbI2XsRM) | 2:44 | 2024-10-14 | 2024-10-22 |
 | [LET GO](https://open.spotify.com/track/6yPJonblWxOkMVscbU8c45) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [LET GO](https://open.spotify.com/album/5e4RbnxjNEXMv7XbQTFUzo) | 3:17 | 2026-02-09 | 2026-04-17 |
 | [Lost Without You](https://open.spotify.com/track/7mvh9Rx6y9z0PlDwFpgvuQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [Lost Without You](https://open.spotify.com/album/36siG6YhvEdayk7r3UThOn) | 3:22 | 2025-05-26 | 2025-07-29 |
@@ -953,7 +954,7 @@
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-02-12 | 2024-02-20 |
 | [漫漫長夜](https://open.spotify.com/track/6juKLpiHRBMociN7R4WP74) | [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [漫漫長夜](https://open.spotify.com/album/2u1JHZs5XcvIRShNl3K66J) | 3:13 | 2026-07-09 | 2026-09-04 |
 | [火柴 \(Acoustic\) \- Spotify Singles](https://open.spotify.com/track/649FdTxihcffxQnTMa2q2x) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [Spotify Singles](https://open.spotify.com/album/1grN24m5hhYp7pCzNkkdIX) | 2:52 | 2024-10-21 | 2024-11-05 |
-| [火花](https://open.spotify.com/track/005eESnSIcR99N474aIINN) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [火花](https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb) | 4:23 | 2026-09-03 |  |
+| [火花](https://open.spotify.com/track/005eESnSIcR99N474aIINN) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [火花](https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb) | 4:23 | 2026-09-03 | 2026-10-30 |
 | [灰色](https://open.spotify.com/track/3yPJIPjCFF8bM5ftSky4vR) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [灰色](https://open.spotify.com/album/65wNenSkD7RvRvXxenAkvL) | 3:35 | 2024-12-02 | 2024-12-10 |
 | [炊烟](https://open.spotify.com/track/0jfHUhxvZjNcwjaCEC36ik) | [隊長](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz), [Dobi](https://open.spotify.com/artist/1QhazihfhgfvRjHkQOOvff) | [炊烟](https://open.spotify.com/album/5nrn04CxoNTwdwNLfip00h) | 3:17 | 2024-07-29 | 2024-08-06 |
 | [炙愛 \(最初\)](https://open.spotify.com/track/2yMZPJsE86Lhyw3EYvkznx) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [炙愛 \(最初\)](https://open.spotify.com/album/04618m5f5vHt1ckNCQGWGv) | 2:59 | 2026-02-09 | 2026-02-17 |
@@ -985,6 +986,7 @@
 | [爱错](https://open.spotify.com/track/1ghHMFaXWk0yU8WsxCgUZk) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs), [於冬然](https://open.spotify.com/artist/1BadOf6GqUxuxC7KYWIXRC) | [爱错](https://open.spotify.com/album/1U2Io4LRcZAnBAjeSOPj60) | 3:55 | 2024-10-21 | 2024-10-29 |
 | [片尾曲 \- 綜藝《芒果新生班·搭檔季》片尾曲](https://open.spotify.com/track/27G8OuXxVX7lUpMm3d3E53) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [片尾曲 \(綜藝《芒果新生班·搭檔季》片尾曲\)](https://open.spotify.com/album/6ghgv4f7s74Tb8L6zxPKCn) | 4:14 | 2024-12-30 | 2025-01-07 |
 | [牡羊座的浪漫](https://open.spotify.com/track/3miHgpv8iPx6Rtox6D8I1r) | [C.Y](https://open.spotify.com/artist/2OasGr7TmpHG8pfhWztDV8) | [牡羊座的浪漫](https://open.spotify.com/album/7M8l3ThRvsI9vbslWSbkSZ) | 3:00 | 2026-01-26 | 2026-05-08 |
+| [牽掛](https://open.spotify.com/track/4vPW9udUA3bFCFILwWZntc) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [牽掛](https://open.spotify.com/album/5wauSKj0ZVqn7CRvpC7bml) | 4:03 | 2026-10-29 |  |
 | [狠操俱樂部](https://open.spotify.com/track/5VwHRwTh6zV1kBIW3FApTx) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL) | [狠操俱樂部](https://open.spotify.com/album/2KkpAHwcFULIdz2MoLZUny) | 3:48 | 2024-06-24 | 2024-07-02 |
 | [猜准](https://open.spotify.com/track/3gBl9bdRw3Iyg5K2XWGHgO) | [乔佳旭](https://open.spotify.com/artist/78YOKa8PG5fj7WR3LHwLnz) | [猜准](https://open.spotify.com/album/5uMbeTiekZgVW1XGtySxID) | 3:42 | 2024-06-24 | 2024-07-02 |
 | [王牌 \- fun cover](https://open.spotify.com/track/09edMlAdNVUx4dAK2R8ob8) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [王牌 \(fun cover\)](https://open.spotify.com/album/0X0fBZY95nbmPNgqfE0UAC) | 3:52 | 2024-03-11 | 2024-03-19 |

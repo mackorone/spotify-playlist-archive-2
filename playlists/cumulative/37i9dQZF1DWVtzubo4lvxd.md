@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-321 songs - 12 hr 21 min
+322 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Mangal \(Instrumental\)](https://open.spotify.com/track/4o72yrtOHZLASTR8vzCdmH) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [Alice'in Fabrikalar Diyarı \(Instrumentals\)](https://open.spotify.com/album/7DCZd92QFu36HtAmix63lH) | 2:59 | 2022-04-15 | 2022-07-29 |
 | [Milk & Cookies](https://open.spotify.com/track/2TUxk6Lbcj0le79LGO4eQ6) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Milk & Cookies](https://open.spotify.com/album/0J7mljOriS30XDELsyKJp6) | 2:04 | 2024-03-12 |  |
 | [Mindfulness](https://open.spotify.com/track/5BZ0yIZtKoySiBIMJK0YOP) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [BODY N SOUL](https://open.spotify.com/album/3ors81EU27PDdPZkxM19xW) | 2:48 | 2022-04-15 | 2024-03-13 |
-| [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 | 2022-04-15 |  |
+| [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 | 2022-04-15 | 2026-10-30 |
 | [Monday Loop](https://open.spotify.com/track/5AIKwGeFoauI8ckPJVhihk) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/3xAIeIUqff7nui62qizWZL) | 1:31 | 2022-04-15 | 2024-04-19 |
 | [Monday Loop](https://open.spotify.com/track/5qC17VMNoZdF2gAw28FtsV) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 1:31 | 2022-04-15 | 2022-11-19 |
 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 | 2022-04-15 | 2024-02-10 |
@@ -191,6 +191,7 @@
 | [Night Drive](https://open.spotify.com/track/5yrnPW4ebZU5p74qH90wsi) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Night Drive](https://open.spotify.com/album/7zNZKPJW5rqwuNuQw42dly) | 1:04 | 2022-04-15 | 2022-07-29 |
 | [Night Sky](https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Forest](https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn) | 1:59 | 2024-03-12 | 2025-06-24 |
 | [Nightflower](https://open.spotify.com/track/0c4oYO95j7bdgiODBXeFQR) | [jüle.](https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o), [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO) | [Nightflower](https://open.spotify.com/album/6m24MTdY8rMYdEKWxOJh0w) | 1:26 | 2022-04-15 | 2022-07-29 |
+| [No Samples](https://open.spotify.com/track/2cKR957eqapkn6oTaHPFPd) | [Maugre](https://open.spotify.com/artist/3wbexOl6INNsdpMetkdhN0) | [Maugre's Vinyl](https://open.spotify.com/album/7vGnIx373qLE1BbPn9tpet) | 2:36 | 2024-03-12 |  |
 | [no shame in my game.](https://open.spotify.com/track/0xsA09gqvqDx5P9Ytw94Cs) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [Dingus.](https://open.spotify.com/artist/5Csl0cWk9AUr3M6KzlOsTV) | [no shame in my game.](https://open.spotify.com/album/39G2UqpSLFmV6t1Uwvef0S) | 1:28 | 2022-04-15 | 2024-01-18 |
 | [Nostalgia](https://open.spotify.com/track/6OgXPYyiTAV2bdbYrB1aGs) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 1:17 | 2022-04-15 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 1:17 | 2022-04-15 | 2024-03-16 |

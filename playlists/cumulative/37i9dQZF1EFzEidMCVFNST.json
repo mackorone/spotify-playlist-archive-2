@@ -1002,6 +1002,24 @@
     {
       "album": {
         "name": "Apaixonadinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2blOY64hovOWi2SgLBQifA"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ricardo & Thiago",
+          "url": "https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "Apaixonadinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3boeVZLSjwHLg8cM99Wx45"
+    },
+    {
+      "album": {
+        "name": "Apaixonadinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/64gTBjrAdiHpoeVODPy6v6"
       },
       "artists": [
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 168253,
       "name": "Apaixonadinho - Ao Vivo",
       "url": "https://open.spotify.com/track/6Yk69NAefoKqphAs94Pw9m"

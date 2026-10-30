@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Heroe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,007 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,996 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [J’suis QLF](https://open.spotify.com/track/1SD5DVz2m8QWDVZRu3E94P) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [J'suis QLF](https://open.spotify.com/album/4mSPYYMKQaS2T5UENy0QbU) | 4:13 |
 | 50 | [Ça change quoi ?](https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq) | [Paul Roman](https://open.spotify.com/artist/4WmJmadFvw4O76wPyjjGkO), [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Ça change quoi ?](https://open.spotify.com/album/2nMXvM7g5ZQnH6pBAj8xDS) | 2:30 |
 
-Snapshot ID: `AAAAACKWHoTd3GS+RLfSERyubmqTcIYb`
+Snapshot ID: `AAAAAKta/w5A95oXak2lU3drVLQDuroV`

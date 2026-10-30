@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 826643,
+  "num_followers": 826554,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALWq+okvuOU0FJ6z97whY9WjfR2J",
+  "snapshot_id": "AAAAAKPLjS5Ixm9AQMjWLHEA3xbvVoI4",
   "tracks": [
     {
       "added_at": "2026-10-15 19:31:25",
@@ -703,22 +703,18 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Resposta - Spotify Singles",
-        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
+        "name": "O \u00daltimo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
       },
       "artists": [
         {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 191307,
-      "name": "Resposta - Spotify Singles",
-      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
+      "duration_ms": 213573,
+      "name": "Um certo algu\u00e9m",
+      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -743,18 +739,22 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
+        "name": "Resposta - Spotify Singles",
+        "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
       },
       "artists": [
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Um certo algu\u00e9m",
-      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
+      "duration_ms": 191307,
+      "name": "Resposta - Spotify Singles",
+      "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Leo Jaime - As Mais Pedidas",
-        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
-      },
-      "artists": [
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "Carinhoso",
         "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 106452,
       "name": "Carinhoso",
       "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Leo Jaime - As Mais Pedidas",
+        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Urbano",
-        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 129381,
-      "name": "\u00d4 Sorte",
-      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
         "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 202806,
       "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
       "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1243,46 +1243,6 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
-        "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
-      "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
-        "name": "Remonta",
-        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "Sem Nome, Mas Com Endere\u00e7o",
-      "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
-    },
-    {
-      "added_at": "2026-10-15 19:31:25",
-      "album": {
         "name": "Ef\u00eamera",
         "url": "https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs"
       },
@@ -1299,6 +1259,38 @@
       "duration_ms": 221253,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Memorias Cronicas E Declaracoes De Amor \"Textos, Provas E Desmentidos\"",
+        "url": "https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
+      "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
+    },
+    {
+      "added_at": "2026-10-15 19:31:25",
+      "album": {
+        "name": "Me Chama de Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Insista Em Mim",
+      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
     },
     {
       "added_at": "2026-10-15 19:31:25",
@@ -1335,18 +1327,26 @@
     {
       "added_at": "2026-10-15 19:31:25",
       "album": {
-        "name": "Me Chama de Gato Que Eu Sou Sua",
-        "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
+        "name": "Remonta",
+        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
       "artists": [
         {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
         }
       ],
-      "duration_ms": 212812,
-      "name": "Insista Em Mim",
-      "url": "https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0"
+      "duration_ms": 269120,
+      "name": "Sem Nome, Mas Com Endere\u00e7o",
+      "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
     },
     {
       "added_at": "2026-10-15 19:31:25",

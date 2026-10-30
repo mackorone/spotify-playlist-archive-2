@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37508,
+  "num_followers": 37516,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwq0cJpH2bYKR+Ehp0y6p8Q2w41",
+  "snapshot_id": "AAAAAOvVCHN3Qb1gIv7L2cecT1oaB9qL",
   "tracks": [
     {
       "added_at": "2026-01-26 05:01:07",
@@ -843,6 +843,30 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
+      },
+      "artists": [
+        {
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        },
+        {
+          "name": "Lo-Fi Luke",
+          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
+        },
+        {
+          "name": "Marc Brave",
+          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Birria",
         "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
       },
@@ -855,6 +879,22 @@
       "duration_ms": 119527,
       "name": "Birria",
       "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
+      },
+      "artists": [
+        {
+          "name": "JOSUE A.S",
+          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
+      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -883,42 +923,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "La Casa Azul",
-        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
-      },
-      "artists": [
-        {
-          "name": "De la Plante",
-          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
-        },
-        {
-          "name": "Federico Lenarduzzi",
-          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
-        }
-      ],
-      "duration_ms": 131541,
-      "name": "La Casa Azul",
-      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-        "url": "https://open.spotify.com/album/3FkobZnJhM4BZB2ZvDu7lY"
-      },
-      "artists": [
-        {
-          "name": "JOSUE A.S",
-          "url": "https://open.spotify.com/artist/1NlIim5DiRnxn77GosYlN1"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Lofi - Cancion del Tipico Camion de los Helados en Mexico",
-      "url": "https://open.spotify.com/track/1uSjwldHYBafRBZr6OAnIs"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "cholula, puebla",
         "url": "https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp"
       },
@@ -939,6 +943,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "La Casa Azul",
+        "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
+      },
+      "artists": [
+        {
+          "name": "De la Plante",
+          "url": "https://open.spotify.com/artist/29Fib4jHgbBxCw0vu7ThQD"
+        },
+        {
+          "name": "Federico Lenarduzzi",
+          "url": "https://open.spotify.com/artist/4UwPmYJrIDrXA0fPJ4cgTx"
+        }
+      ],
+      "duration_ms": 131541,
+      "name": "La Casa Azul",
+      "url": "https://open.spotify.com/track/2zP2JFAylcbDYoflk2wAIP"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Jardines, Vol.1",
         "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
       },
@@ -955,30 +979,6 @@
       "duration_ms": 153162,
       "name": "jazmin",
       "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
-      },
-      "artists": [
-        {
-          "name": "Goland",
-          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
-        },
-        {
-          "name": "Lo-Fi Luke",
-          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
-        },
-        {
-          "name": "Marc Brave",
-          "url": "https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "All Good in the Hood",
-        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
-      },
-      "artists": [
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        },
-        {
-          "name": "Dr. Octosax",
-          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
-        }
-      ],
-      "duration_ms": 107294,
-      "name": "All Good in the Hood",
-      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 128571,
       "name": "Atacama",
       "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "All Good in the Hood",
+        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
+      },
+      "artists": [
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Dr. Octosax",
+          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
+        }
+      ],
+      "duration_ms": 107294,
+      "name": "All Good in the Hood",
+      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1231,26 +1231,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Retreat",
-        "url": "https://open.spotify.com/album/5DSFC0n76z9CoGVwVmuPkD"
+        "name": "Zer",
+        "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
       },
       "artists": [
         {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        },
-        {
-          "name": "Dr. Octosax",
-          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
-        },
-        {
-          "name": "The Retune Project",
-          "url": "https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr"
+          "name": "Drasharth",
+          "url": "https://open.spotify.com/artist/3YSlQVl8g56svjM2vwPFPE"
         }
       ],
-      "duration_ms": 109714,
-      "name": "Retreat",
-      "url": "https://open.spotify.com/track/6Bj1q3VcWh4DP5pg0calE2"
+      "duration_ms": 186214,
+      "name": "MexFi",
+      "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1275,34 +1267,42 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "wandering through soft colors",
-        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
+        "name": "Retreat",
+        "url": "https://open.spotify.com/album/5DSFC0n76z9CoGVwVmuPkD"
       },
       "artists": [
         {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Dr. Octosax",
+          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
+        },
+        {
+          "name": "The Retune Project",
+          "url": "https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr"
         }
       ],
-      "duration_ms": 196721,
-      "name": "wandering through soft colors",
-      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
+      "duration_ms": 109714,
+      "name": "Retreat",
+      "url": "https://open.spotify.com/track/6Bj1q3VcWh4DP5pg0calE2"
     },
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Zer",
-        "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
       },
       "artists": [
         {
-          "name": "Drasharth",
-          "url": "https://open.spotify.com/artist/3YSlQVl8g56svjM2vwPFPE"
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
         }
       ],
-      "duration_ms": 186214,
-      "name": "MexFi",
-      "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "wandering through soft colors",
+        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
+      },
+      "artists": [
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "wandering through soft colors",
+      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Chill Mood",
         "url": "https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 118567,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
-      },
-      "artists": [
-        {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 157735,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/5FT43yC4o55EyXvxLP7hGj"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "M\u00e9xico lofi",
         "url": "https://open.spotify.com/album/1B9IWojkmn40BhjoinC6hQ"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 157735,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5FT43yC4o55EyXvxLP7hGj"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1487,22 +1487,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/13vOGnEcZFHQMddMlQoRaI"
       },
       "artists": [
         {
-          "name": "Ajvsco",
-          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
-        },
-        {
-          "name": "El More",
-          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+          "name": "IKAAL",
+          "url": "https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR"
         }
       ],
-      "duration_ms": 197802,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+      "duration_ms": 177000,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1paARPESG5OrZ9eEmKbRej"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1531,18 +1527,38 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/13vOGnEcZFHQMddMlQoRaI"
+        "name": "Dreaming of summer",
+        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
       "artists": [
         {
-          "name": "IKAAL",
-          "url": "https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/1paARPESG5OrZ9eEmKbRej"
+      "duration_ms": 95040,
+      "name": "Dreaming of summer",
+      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+      },
+      "artists": [
+        {
+          "name": "Ajvsco",
+          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+        },
+        {
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1563,22 +1579,6 @@
       "duration_ms": 77846,
       "name": "woozy",
       "url": "https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "la zona",
+        "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
+      },
+      "artists": [
+        {
+          "name": "SUNNO",
+          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "la zona",
+      "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "van life",
         "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
       },
@@ -1691,38 +1707,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "la zona",
-        "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
       },
       "artists": [
         {
-          "name": "SUNNO",
-          "url": "https://open.spotify.com/artist/54978NQ8Y8mWfh4PEriZtq"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "la zona",
-      "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "only in memories",
-        "url": "https://open.spotify.com/album/11nJ7IKgzmvujw4i6nfhPr"
-      },
-      "artists": [
-        {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
         },
         {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
         }
       ],
-      "duration_ms": 151578,
-      "name": "only in memories",
-      "url": "https://open.spotify.com/track/3uUoxbVM6uEj1RnftUKZZp"
+      "duration_ms": 168000,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "only in memories",
+        "url": "https://open.spotify.com/album/11nJ7IKgzmvujw4i6nfhPr"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "only in memories",
+      "url": "https://open.spotify.com/track/3uUoxbVM6uEj1RnftUKZZp"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "2024??",
         "url": "https://open.spotify.com/album/3TCvK7mG4jS3Gj27rvZTBf"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 145391,
       "name": "cartas en el rio",
       "url": "https://open.spotify.com/track/0lAV12IZAElPLOQ36nuJW9"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "forastero.",
-        "url": "https://open.spotify.com/album/05AmU9DNnf8nNsJMQH0izW"
+        "name": "having meaningful conversations",
+        "url": "https://open.spotify.com/album/0yP457DQfQ6iyp8TGWksCu"
       },
       "artists": [
         {
-          "name": "forastero.",
-          "url": "https://open.spotify.com/artist/0GP0Jbuq5uUNpUjOGi55LL"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 98306,
-      "name": "semilla de merey",
-      "url": "https://open.spotify.com/track/08cs2nZs4ueoYSdyKQQZAY"
+      "duration_ms": 120017,
+      "name": "having meaningful conversations",
+      "url": "https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W"
     },
     {
       "added_at": "2026-01-26 05:01:07",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Smiley",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andia",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 167462,
       "name": "Beluga",
       "url": "https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 170569,
       "name": "Buna, Ce Faci?",
       "url": "https://open.spotify.com/track/3EeVQzeuuqv1JKsJDHbntL"
@@ -2670,6 +2670,28 @@
       "duration_ms": 197223,
       "name": "Cum Te-a Facut Mama Ta",
       "url": "https://open.spotify.com/track/40Nv0JAZ4AO2EZ0xHunbNl"
+    },
+    {
+      "album": {
+        "name": "C\u00e2nd timpul face pa\u015fi",
+        "url": "https://open.spotify.com/album/5yjf1emO5kUpydCkhgvRFA"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        },
+        {
+          "name": "ADI Istrate",
+          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178441,
+      "name": "C\u00e2nd timpul face pa\u015fi",
+      "url": "https://open.spotify.com/track/5wYWTdSEsAf4pVTAIJdJPt"
     },
     {
       "album": {
@@ -4443,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Fotografii",
+        "url": "https://open.spotify.com/album/0gkjY0OQvLSxUklnZiA7WD"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149379,
+      "name": "Fotografii",
+      "url": "https://open.spotify.com/track/0x7LGpyMt644lnikPurW6x"
+    },
+    {
+      "album": {
         "name": "Fraiere",
         "url": "https://open.spotify.com/album/4ChCyszkwmzSY9sDoKd5iS"
       },
@@ -5460,7 +5500,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 172702,
       "name": "Inim\u0103 \u00eempiedicat\u0103",
       "url": "https://open.spotify.com/track/4MYL6lLfm74ULqtgScKEQ4"
@@ -6826,7 +6866,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 137500,
       "name": "Mor dup\u0103 tine",
       "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
@@ -10472,7 +10512,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194000,
       "name": "Toreador",
       "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
@@ -10494,6 +10534,24 @@
       "duration_ms": 183061,
       "name": "Tot ce avem e azi",
       "url": "https://open.spotify.com/track/7rZXVP5U1BcOywWCRdjW85"
+    },
+    {
+      "album": {
+        "name": "Tot cu tine a\u0219 gre\u0219i",
+        "url": "https://open.spotify.com/album/6NuNotCOPtdvP6jBu7Cy6K"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Tot cu tine a\u0219 gre\u0219i",
+      "url": "https://open.spotify.com/track/5wQWdFUVeKNvrlNIT6LbJP"
     },
     {
       "album": {
@@ -11205,6 +11263,24 @@
     },
     {
       "album": {
+        "name": "V\u00e2nd O Inim\u0103",
+        "url": "https://open.spotify.com/album/5ZkofTPf3xplJSiL4lpxbk"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146320,
+      "name": "V\u00e2nd O Inim\u0103",
+      "url": "https://open.spotify.com/track/3ktBEzPk6zlzGan1izKsA5"
+    },
+    {
+      "album": {
         "name": "V\u00e2ntul",
         "url": "https://open.spotify.com/album/0QDUI9VKijTQw8ltXjfsLq"
       },
@@ -11482,6 +11558,28 @@
       "duration_ms": 172827,
       "name": "\u00cen Lipsa Ta",
       "url": "https://open.spotify.com/track/3ATsOYUvsO44nXlJv3WJG5"
+    },
+    {
+      "album": {
+        "name": "\u00cen Urma Mea",
+        "url": "https://open.spotify.com/album/6FNMAV4JCkYpRprkVfTeTG"
+      },
+      "artists": [
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193036,
+      "name": "\u00cen Urma Mea",
+      "url": "https://open.spotify.com/track/3leGtHgTAsU9wgmdGvnScb"
     },
     {
       "album": {

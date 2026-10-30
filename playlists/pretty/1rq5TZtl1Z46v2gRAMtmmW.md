@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,043 likes - 108 songs - 6 hr 35 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 32,039 likes - 108 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 75 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 |
 | 76 | [Wrong Things](https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Wrong Things](https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI) | 2:49 |
 | 77 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
-| 78 | [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Zainab DiStasio](https://open.spotify.com/artist/5x80ZSOxvB0HmA2JvRyX1d), [Joseph Pincus](https://open.spotify.com/artist/2E8Ovh1HgUzqKNHeTjrio3) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 |
+| 78 | [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 |
 | 79 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 80 | [Conspiracy](https://open.spotify.com/track/3nDoAQ4zaic4rCvTLnNISO) | [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Conspiracy](https://open.spotify.com/album/7KgPv3FOzJlFGXk4tBrehJ) | 3:45 |
 | 81 | [Bedroom Eyes](https://open.spotify.com/track/3qOzschVOffCPjbac03qyB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Bedroom Eyes](https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8) | 3:36 |

@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 655633,
+  "num_followers": 658195,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACW+2NCurIi4T8nhFtwE3fw5kSJX",
+  "snapshot_id": "AAAAACBvMhU1WXSeQPbVVFf/zL+ejR6g",
   "tracks": [
     {
       "added_at": "2026-08-31 08:40:17",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
-        "name": "Chico Buarque De Hollanda N\u00ba4",
-        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Gente Humilde",
-      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
-    },
-    {
-      "added_at": "2026-08-31 08:40:17",
-      "album": {
         "name": "Nara",
         "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 128733,
       "name": "Diz Que Fui Por Ai",
       "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
+    },
+    {
+      "added_at": "2026-08-31 08:40:17",
+      "album": {
+        "name": "Chico Buarque De Hollanda N\u00ba4",
+        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Gente Humilde",
+      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
     },
     {
       "added_at": "2026-08-31 08:40:17",
@@ -371,22 +371,18 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
-        "name": "Mr. Bossa Nova",
-        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
+        "name": "Blue Note Trip 7: Birds / Beats",
+        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
       },
       "artists": [
         {
-          "name": "Quarteto do Rio",
-          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
-        },
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
+      "duration_ms": 135093,
+      "name": "A R\u00e3",
+      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
     },
     {
       "added_at": "2026-08-31 08:40:17",
@@ -411,18 +407,22 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
-        "name": "Blue Note Trip 7: Birds / Beats",
-        "url": "https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF"
+        "name": "Mr. Bossa Nova",
+        "url": "https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Quarteto do Rio",
+          "url": "https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4"
+        },
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
         }
       ],
-      "duration_ms": 135093,
-      "name": "A R\u00e3",
-      "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
+      "duration_ms": 146666,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ"
     },
     {
       "added_at": "2026-08-31 08:40:17",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
+        "name": "O Piano de Jo\u00e3o Donato",
+        "url": "https://open.spotify.com/album/2hGPFVqOzHV5ZB359SEfiW"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "\u00ca Lal\u00e1 Lay-\u00ca",
+      "url": "https://open.spotify.com/track/7BQSe1LHaS5mDtUT91eHmW"
+    },
+    {
+      "added_at": "2026-08-31 08:40:17",
+      "album": {
         "name": "A Bossa de Cauby Peixoto",
         "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 139600,
       "name": "Sambalamento",
       "url": "https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN"
-    },
-    {
-      "added_at": "2026-08-31 08:40:17",
-      "album": {
-        "name": "O Piano de Jo\u00e3o Donato",
-        "url": "https://open.spotify.com/album/2hGPFVqOzHV5ZB359SEfiW"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "\u00ca Lal\u00e1 Lay-\u00ca",
-      "url": "https://open.spotify.com/track/7BQSe1LHaS5mDtUT91eHmW"
     },
     {
       "added_at": "2026-08-31 08:40:17",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-08-31 08:40:17",
       "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7"
-    },
-    {
-      "added_at": "2026-08-31 08:40:17",
-      "album": {
         "name": "Antonio Carlos Jobim",
         "url": "https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 361106,
       "name": "Pra Que Discutir Com Madame? - Live",
       "url": "https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB"
+    },
+    {
+      "added_at": "2026-08-31 08:40:17",
+      "album": {
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7"
     },
     {
       "added_at": "2026-08-31 08:40:17",

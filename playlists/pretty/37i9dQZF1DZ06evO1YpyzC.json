@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267913,
+  "num_followers": 267908,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABk5QcfdWkz+WHNQftnQsTN",
+  "snapshot_id": "at/pgAAAAABke1CbvME5CPoofHpT78jv",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 159356,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worship You",
         "url": "https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt"
       },
@@ -471,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB"
+        "name": "Blessed & Free",
+        "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
       },
       "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 159356,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu"
+      "duration_ms": 198171,
+      "name": "Blessed & Free",
+      "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
     },
     {
       "added_at": null,
@@ -507,26 +527,6 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed & Free",
-        "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 198171,
-      "name": "Blessed & Free",
-      "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 181670,
+      "name": "Used to Love You Sober",
+      "url": "https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturday Nights REMIX",
         "url": "https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 211102,
       "name": "Saturday Nights REMIX",
       "url": "https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter 1 - EP",
-        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 181670,
-      "name": "Used to Love You Sober",
-      "url": "https://open.spotify.com/track/6V3wTb4VVDWRw3YEDgc6Py"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Restless Road - EP",
         "url": "https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 201749,
       "name": "Take Me Home (with Kane Brown)",
       "url": "https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Sant
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,173 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,118 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 33 | [Suspenso no Espaço](https://open.spotify.com/track/5TuGChXJhJCJmgJrZQXnrg) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [013VG](https://open.spotify.com/artist/38Bh2cWsM0sBYg6EG5gmwc) | [Suspenso no Espaço](https://open.spotify.com/album/19cKWWTAzr3NNb5TKwwuE6) | 5:37 |
 | 34 | [TUDUBOM REC \#1 \- Minha Cota](https://open.spotify.com/track/3qOo1rIQ2etyhDEeHOy3Pq) | [Tudubom](https://open.spotify.com/artist/0BFpUyhufpi7ztBUfa8bBV), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [TUDUBOM REC \#1 \- Minha Cota](https://open.spotify.com/album/79Pc637fr5FdUE2nRAK6Y8) | 3:04 |
 | 35 | [Armas Pro Alto](https://open.spotify.com/track/1v7h7YsglVeJCbGgYXPiY5) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Yangprj](https://open.spotify.com/artist/2XGt0uPGSSQ0ySEj1cPpwv) | [Armas Pro Alto](https://open.spotify.com/album/3fLnbQosiSMwpPeu3TH6fd) | 2:38 |
-| 36 | [Pássaro de Fogo](https://open.spotify.com/track/0FhZog1xeezGrOOR1PbgfN) | [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Pássaro de Fogo](https://open.spotify.com/album/4EtS83ycRsmuOLGK46mtUn) | 2:42 |
+| 36 | [PÁSSARO DE FOGO](https://open.spotify.com/track/0FhZog1xeezGrOOR1PbgfN) | [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [PÁSSARO DE FOGO](https://open.spotify.com/album/4EtS83ycRsmuOLGK46mtUn) | 2:42 |
 | 37 | [DEZEMBRO SEM NATAL](https://open.spotify.com/track/1p0O6L3CgM8HJnK3xvpxJx) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [ESSÊNCIA DE RISCO](https://open.spotify.com/album/1isEZTDWqASfLOXpzAWVlA) | 3:07 |
 | 38 | [Fôlego](https://open.spotify.com/track/1FjcBugV11Y0UE3skTkVHw) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [Quintessência](https://open.spotify.com/album/3s9jg2cYRbArM9qosAenyJ) | 3:11 |
 | 39 | [Vadias no comando](https://open.spotify.com/track/5oCts4EfxMLH2BF3kGSCHf) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [NEPOBABY](https://open.spotify.com/album/6rmvcj2kAe24HDT8XMqwOu) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [introdução](https://open.spotify.com/track/1XcqHWpI9uOvLpXyVpwMO5) | [VirginGod](https://open.spotify.com/artist/2WsyJKnl3oBtl3uorFlKp9) | [mesma alma](https://open.spotify.com/album/1piqUYSLm6n1CKDWrmKZNb) | 2:02 |
 | 75 | [O Que Será \(À Flor Da Terra\)](https://open.spotify.com/track/2fwV398Ref8Q3ZDCDsR7nI) | [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Felipe Poeta](https://open.spotify.com/artist/3gZcF1tlgvrjYOaMOUW8Px) | [O Que Será \(À Flor Da Terra\)](https://open.spotify.com/album/7dCJBJ6x6xJqlUMSDkPejs) | 2:42 |
 
-Snapshot ID: `AAAAAN+MYTkaLVTBEVPbRPO0MrVup5L2`
+Snapshot ID: `AAAAABoAnMDC3KI1NuWuekoa4UPKJoWn`

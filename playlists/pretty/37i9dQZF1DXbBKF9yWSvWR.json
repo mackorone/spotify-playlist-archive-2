@@ -1,13 +1,77 @@
 {
-  "description": "Wekelijkse update met de beste Indie releases. Cover: Leela Rosa",
-  "num_followers": 103960,
+  "description": "Wekelijkse update met de beste Indie releases. Cover: Dressed Like Boys (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
+  "num_followers": 103953,
   "original_name": "Indie Update",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJ/Jq9s13j3YIeR/aB573ySLaHJ",
+  "snapshot_id": "AAAAAOfU28Y+OQgNxarga2zaLNX5bcAe",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "LY",
+        "url": "https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 204249,
+      "name": "LY",
+      "url": "https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "The Way You Talk Reminds Me Of Home",
+        "url": "https://open.spotify.com/album/5KQe7mZwx0gYK48DIfGG8t"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 222750,
+      "name": "The Long Run",
+      "url": "https://open.spotify.com/track/5vQYxF7UMNll0lheLsvztz"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Beluga In The Seine",
+        "url": "https://open.spotify.com/album/6oyynCuZeZvBhrZWyQ4dpO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "duration_ms": 226505,
+      "name": "Beluga In The Seine",
+      "url": "https://open.spotify.com/track/37ccTgeR7XHUbEX8aKTSfU"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/3w10UqDDH9d9Pl1uIQpsgS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 194431,
+      "name": "Dance It Out",
+      "url": "https://open.spotify.com/track/1al9nKR0YXCPEX0JbTSIRA"
+    },
     {
       "added_at": "2026-10-09 09:34:19",
       "album": {
@@ -39,6 +103,138 @@
       "duration_ms": 194205,
       "name": "Japan",
       "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Close my eyes",
+        "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Close my eyes",
+      "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "It's A New Day",
+        "url": "https://open.spotify.com/album/7D8G2Sy7jMSCga3WbZsmBy"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 170009,
+      "name": "It's A New Day",
+      "url": "https://open.spotify.com/track/1sQzpB8StECTvUbAKWF8eK"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2DfG5F3XdYdgHVBFEn0da7"
+      },
+      "artists": [
+        {
+          "name": "Jo Goes Hunting",
+          "url": "https://open.spotify.com/artist/2x4XbUCAexNSNcotYSrf4K"
+        }
+      ],
+      "duration_ms": 234150,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/24osXZTEzmCXGrgxeDlIRT"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Run Into You",
+        "url": "https://open.spotify.com/album/5V0hxrYkf7rw3EN4AtXC76"
+      },
+      "artists": [
+        {
+          "name": "Muylike",
+          "url": "https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T"
+        }
+      ],
+      "duration_ms": 182341,
+      "name": "Run Into You",
+      "url": "https://open.spotify.com/track/78tDhQjEM02Tq5Z0DsKkCp"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Benjamin",
+        "url": "https://open.spotify.com/album/5YoD2IL272Cl7rWY64sOjq"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "duration_ms": 144936,
+      "name": "Benjamin",
+      "url": "https://open.spotify.com/track/4v7NvcYqZrlfmWmH8ZYUsz"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Give Me A Dream",
+        "url": "https://open.spotify.com/album/78oc4UlSRdBMEFSnCzeG2W"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 237538,
+      "name": "Give Me A Dream",
+      "url": "https://open.spotify.com/track/4vFczXXy2uLeacy8eVkMir"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "added_at": "2026-10-19 11:28:56",
@@ -89,10 +285,30 @@
       "url": "https://open.spotify.com/track/1iVDt6pLS9mJ8erRZVmCxI"
     },
     {
-      "added_at": "2026-10-19 11:28:56",
+      "added_at": "2026-10-29 23:00:55",
       "album": {
-        "name": "Dream Fatigue",
-        "url": "https://open.spotify.com/album/3eHX7aYtV7VxxSZmWBEKPA"
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D"
+    },
+    {
+      "added_at": "2026-10-29 23:00:55",
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X"
       },
       "artists": [
         {
@@ -102,7 +318,7 @@
       ],
       "duration_ms": 213000,
       "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/01IGRCAMEZdlmkwly9Fqt6"
+      "url": "https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0"
     },
     {
       "added_at": "2026-10-19 11:28:56",
@@ -1175,22 +1391,6 @@
     {
       "added_at": "2026-10-09 09:34:19",
       "album": {
-        "name": "It's Gotta Be Me",
-        "url": "https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 225283,
-      "name": "It's Gotta Be Me",
-      "url": "https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
         "name": "Room 12",
         "url": "https://open.spotify.com/album/2yGdO0zbudnZ9ac1NYCnSv"
       },
@@ -1511,54 +1711,6 @@
     {
       "added_at": "2026-10-09 09:34:19",
       "album": {
-        "name": "Ghostly Mourning Man",
-        "url": "https://open.spotify.com/album/6dFmM8WzoK7HrZ1GiszMIZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Ghostly Mourning Man",
-      "url": "https://open.spotify.com/track/1pRMk3zJ1OGc1WEvNO2CoR"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
-        "name": "Don't Eat Don't Sleep",
-        "url": "https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn"
-      },
-      "artists": [
-        {
-          "name": "Gliiico",
-          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Don't Eat Don't Sleep",
-      "url": "https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl"
-      },
-      "artists": [
-        {
-          "name": "Sam Nera",
-          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
-        }
-      ],
-      "duration_ms": 181351,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/6sQ6qGi6jkhScqV75qhvQs"
       },
@@ -1579,70 +1731,6 @@
       "duration_ms": 214916,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/1oiPajU5fnVuWcRjOm4GgV"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
-        "name": "Deliver Me From Trying",
-        "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Deliver Me From Trying",
-      "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
-        "name": "Sleeping",
-        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 212391,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
-        "name": "Unholy Sigh",
-        "url": "https://open.spotify.com/album/1PecMc39JTlIBH5wdeb7PK"
-      },
-      "artists": [
-        {
-          "name": "Nelleke",
-          "url": "https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu"
-        }
-      ],
-      "duration_ms": 227522,
-      "name": "Unholy Sigh",
-      "url": "https://open.spotify.com/track/0hPnLSvCt3FWuniVuS1X6H"
-    },
-    {
-      "added_at": "2026-10-09 09:34:19",
-      "album": {
-        "name": "In The Night",
-        "url": "https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 178794,
-      "name": "In The Night",
-      "url": "https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7"
     }
   ],
   "unique_name": "Indie Update",

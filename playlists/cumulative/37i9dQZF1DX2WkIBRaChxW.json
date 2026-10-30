@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 215850,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/4k7lVsIunyMi4eHr4SmjDU"
@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163000,
       "name": "Brown Suga",
       "url": "https://open.spotify.com/track/3n9UvBVVPoz6ZycXQ6Sm4V"
@@ -6332,7 +6332,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 179390,
       "name": "Damage Control",
       "url": "https://open.spotify.com/track/36BQ5kwJ66QRgOk4a66U34"
@@ -11201,6 +11201,24 @@
     },
     {
       "album": {
+        "name": "Lovers Comet",
+        "url": "https://open.spotify.com/album/7FGJghCQlNwAzgZMuPCPam"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212248,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/7udoE44W1PHV4M7gdgM50K"
+    },
+    {
+      "album": {
         "name": "ACT II",
         "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
       },
@@ -13894,6 +13912,24 @@
       "duration_ms": 237714,
       "name": "Just a Little Bit",
       "url": "https://open.spotify.com/track/4pPzrjiF7B8DsmgPSyb669"
+    },
+    {
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/5RTAObv08gamZTBJG2CEk6"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/4CxmgfD19iejZ1FtVIkaCJ"
     },
     {
       "album": {
@@ -21082,7 +21118,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 237073,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/0e4FVyZ3mwPmNTPzPy1gQ3"
@@ -24786,6 +24822,24 @@
       "duration_ms": 262147,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/31dK8fLdLeNQVyrwZ1unsy"
+    },
+    {
+      "album": {
+        "name": "SOFTER",
+        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173122,
+      "name": "SOFTER",
+      "url": "https://open.spotify.com/track/7b4ZxX9iEyPyppCyx53ea2"
     },
     {
       "album": {

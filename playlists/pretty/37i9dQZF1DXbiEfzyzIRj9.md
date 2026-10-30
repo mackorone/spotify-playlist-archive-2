@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Sammy Virji \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,099 likes - 99 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,092 likes - 99 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Essa Ta Quente](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
 | 99 | [GOTTA MAKE IT](https://open.spotify.com/track/1RD9O5qftZXR4R1I4HV14v) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [GOTTA MAKE IT](https://open.spotify.com/album/1aFaMJS2gRUQYcTMpnTKVP) | 2:28 |
 
-Snapshot ID: `AAAAANVIHqXkvnvUzyJOesVyWHNcxSne`
+Snapshot ID: `AAAAAOSZejIfxvGrTySGBlAHdn6wiusH`

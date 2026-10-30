@@ -1,13 +1,29 @@
 {
-  "description": "roots run deep with Sam Barber",
-  "num_followers": 475241,
+  "description": "roots run deep with Gabriella Rose",
+  "num_followers": 475332,
   "original_name": "homegrown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKq7Bl7C7sJTgnSDDyGuEH8VMumU",
+  "snapshot_id": "AAAAAAI/2iZQWznT26Otfp6vhOGYotBM",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:00:28",
+      "album": {
+        "name": "I Just Wanna Be Loved",
+        "url": "https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Scoreboard",
+      "url": "https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA"
+    },
     {
       "added_at": "2026-10-16 04:00:42",
       "album": {

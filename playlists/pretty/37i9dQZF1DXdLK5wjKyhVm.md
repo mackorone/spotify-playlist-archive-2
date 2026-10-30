@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > blissed out beats and head nodding grooves \- relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,435 likes - 85 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,530 likes - 85 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 84 | [blurred](https://open.spotify.com/track/1y9eslcDsTi75UfkTHuyQZ) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [blurred](https://open.spotify.com/album/3O5SG1lknx9ptWNp5wNj3J) | 1:52 |
 | 85 | [moonwatch](https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [moonwatch](https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu) | 3:18 |
 
-Snapshot ID: `AAAAAC7Gcq+e522kiv5c2/UmHDlbRQ6d`
+Snapshot ID: `AAAAADMum8pAZgWng28ctZ+4CyGzjaRZ`

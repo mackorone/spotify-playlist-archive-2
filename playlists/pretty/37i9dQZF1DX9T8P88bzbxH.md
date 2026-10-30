@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: NCT 127
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,136 likes - 25 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,126 likes - 25 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 24 | [TOUCH](https://open.spotify.com/track/1mdEvT7X3Rs7vL75fRb8oo) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:09 |
 | 25 | [Promise You](https://open.spotify.com/track/6NgnzFTrGz9jINgUmZiqfx) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/7sf7G0C6NuW8GjQbWwJlGk) | 3:31 |
 
-Snapshot ID: `AAAAAIGzdSpcQjBRyJUu+ygKvqGvnt8g`
+Snapshot ID: `AAAAAEfpVxAfZtUIHSzDUeWuWDsi9XIa`

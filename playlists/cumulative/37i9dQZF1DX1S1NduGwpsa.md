@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Thomas Dutronc
+> The best jazz new releases\. Cover: Stella Cole
 
-1,089 songs - 3 day 5 hr 36 min
+1,091 songs - 3 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [around the world](https://open.spotify.com/track/6aRIwsMliE5WFAzrub4zX7) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [earth sounds](https://open.spotify.com/album/3waYOXzSiDX8CnwOSkZVWT) | 2:30 | 2023-03-16 | 2023-04-01 |
 | [around the world](https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [around the world](https://open.spotify.com/album/5eL2i5al18gKUYP5NQmRZu) | 2:30 | 2023-03-30 | 2023-04-14 |
 | [As](https://open.spotify.com/track/3H6rGdvid0cBQDvluU8lFj) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [As](https://open.spotify.com/album/4XxaxELTGozCzIJsasoG8q) | 4:59 | 2026-01-22 | 2026-04-24 |
+| [As Time Goes By](https://open.spotify.com/track/0R5j6ygRWhHhArjrsokvgW) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Imagination](https://open.spotify.com/album/1zx46KvPM1RyqJ6VOhUJIH) | 4:03 | 2026-10-30 |  |
 | [Ascenseur pour l'échafaud](https://open.spotify.com/track/5TH6yctu7ZT6ns97mXrBH5) | [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Rollin'](https://open.spotify.com/album/4vay9WmJyXHGkr6ayYUmRC) | 3:21 | 2023-07-13 | 2023-09-15 |
 | [Asta](https://open.spotify.com/track/7Bd5QBn1WRxcDXXzCS1DSB) | [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Sylvain Beuf](https://open.spotify.com/artist/0T3LDHnKTHrfICsXP6bzZz), [Thomas Bramerie](https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq), [Antonio Faraò](https://open.spotify.com/artist/2rYbcK0bCQ3jLFfd2zr9sI) | [ASTA 2](https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo) | 5:09 | 2023-03-02 | 2023-04-28 |
 | [At Last](https://open.spotify.com/track/5pc0LjdOAAFvUEwcNhlBoh) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [At Last](https://open.spotify.com/album/4JmunSVZjllauUkJO9abyi) | 3:06 | 2026-09-18 |  |
@@ -486,6 +487,7 @@
 | [Just a friend of mine \- Version piano \- voix](https://open.spotify.com/track/5QhBRVaWlNYiPI6wY1MLCO) | [Vaya Con Dios](https://open.spotify.com/artist/0ODWsmNXtn928qhhEn87C8) | [Just a friend of mine \(Version piano \- voix\)](https://open.spotify.com/album/4B0Z2xiNwQJubhRrAlGqd7) | 3:06 | 2022-10-20 | 2023-01-27 |
 | [Just a Little Lovin’](https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Just a Little Lovin'](https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu) | 4:49 | 2026-09-04 |  |
 | [Just Believe](https://open.spotify.com/track/4K6JJAUsD4VeTU5mZ7viBk) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Just Believe](https://open.spotify.com/album/3WiKABuiG4cH2pkY5t41oa) | 3:49 | 2022-11-10 | 2023-03-03 |
+| [Just Can't Get Enough](https://open.spotify.com/track/3IpuysNI5h5YMzF4lpbPud) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [A Date with Depeche Mode](https://open.spotify.com/album/4kwVAkI2UNwSslmw45UVkx) | 2:44 | 2026-10-30 |  |
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-19 | 2025-10-10 |
 | [Just Coolin’](https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Just Coolin’](https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa) | 6:48 | 2022-04-14 | 2022-04-22 |
 | [Just in Time](https://open.spotify.com/track/3qF3gCZxWzt9j60XfjtohG) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Just in Time](https://open.spotify.com/album/3xjdQF7MrWRdBYiZyDZ75O) | 3:11 | 2023-01-19 | 2023-04-14 |
@@ -825,7 +827,7 @@
 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-17 | 2025-06-20 |
 | [Silvershoes](https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Silvershoes](https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx) | 2:37 | 2026-08-21 |  |
 | [Simple Tune](https://open.spotify.com/track/1Yo9Ii9a09QMOaiZtOuoSS) | [Yaron Herman](https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ) | [Simple Tune](https://open.spotify.com/album/6kVyjDqtKdvTxPkKB2lixx) | 6:07 | 2026-06-04 | 2026-08-22 |
-| [Simplifier](https://open.spotify.com/track/08VHbH4A2hBnSDKiLW2UFW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Simplifier](https://open.spotify.com/album/3cAJ1xUKVl88xCCHpsQwqt) | 3:48 | 2026-07-31 |  |
+| [Simplifier](https://open.spotify.com/track/08VHbH4A2hBnSDKiLW2UFW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Simplifier](https://open.spotify.com/album/3cAJ1xUKVl88xCCHpsQwqt) | 3:48 | 2026-07-31 | 2026-10-30 |
 | [Sin Tu Cariño](https://open.spotify.com/track/1qiTCtOzIeNByF4qBk8rKT) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Boca Livre](https://open.spotify.com/artist/360FjbxByY4XLqXrZ6cWGF) | [Pasieros](https://open.spotify.com/album/1fIKEGcN78crVvuSWjquHA) | 3:59 | 2022-05-19 | 2022-08-19 |
 | [Sing as One](https://open.spotify.com/track/5GIfm1C24I2fHYpVxM7yAG) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Maya Fadeeva](https://open.spotify.com/artist/3gIcFcSyNnXAmdsl5YrtYb) | [Sing as One](https://open.spotify.com/album/1gQvCVTBmZLXebIXBsueDU) | 3:31 | 2022-05-26 | 2022-10-14 |
 | [Singin’ In The Rain](https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Singin' In The Rain](https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ) | 3:49 | 2026-08-28 | 2026-10-24 |
@@ -1011,7 +1013,7 @@
 | [Uteki](https://open.spotify.com/track/2tyHRytoAC1YVwiqLcREQX) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Uteki](https://open.spotify.com/album/1zDxdzbNu4o75qRzcQzkcc) | 2:47 | 2022-04-14 | 2022-06-03 |
 | [V.E\. Swing](https://open.spotify.com/track/54xfUT8y18L2fGNbnJdxU9) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh) | [V.E\. Swing](https://open.spotify.com/album/17tVXEx7wzWdVOlAX1jyu8) | 4:24 | 2024-02-15 | 2024-05-10 |
 | [Venezuela](https://open.spotify.com/track/5MiroiiGhMht59cRjD3Ldj) | [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy) | [Victoire de la musique](https://open.spotify.com/album/5gOFx20YaFo9uN1myhC220) | 5:52 | 2024-02-01 | 2024-05-10 |
-| [Vi Möts I Parken](https://open.spotify.com/track/2llCvtc96wyOPz5n40LPp9) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Vi Möts I Parken](https://open.spotify.com/album/2GqKtUJxgtMUw5LfkGfpKG) | 2:23 | 2026-07-24 |  |
+| [Vi Möts I Parken](https://open.spotify.com/track/2llCvtc96wyOPz5n40LPp9) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Vi Möts I Parken](https://open.spotify.com/album/2GqKtUJxgtMUw5LfkGfpKG) | 2:23 | 2026-07-24 | 2026-10-30 |
 | [Via con me](https://open.spotify.com/track/7EggHwX77M5DNM1KTsDEys) | [Stefano Di Battista](https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK) | [La dolce vita](https://open.spotify.com/album/6b1x97Y8WE5huaTIuKnY83) | 4:20 | 2024-05-02 | 2024-06-21 |
 | [Via Con Me](https://open.spotify.com/track/2GKBhGWcWyBqH0DO6GUvsl) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Mario Biondi](https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088) | [ITALIA](https://open.spotify.com/album/1Epbj3Z3J921lJmKhetc6n) | 4:11 | 2025-09-11 | 2026-01-15 |
 | [Vibing in Ay](https://open.spotify.com/track/4gTHcR3JBdVIY1f9XPD77U) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Vibing in Ay](https://open.spotify.com/album/0QPLC5ECGXuoqP9KQMLtwL) | 4:07 | 2023-08-17 | 2023-10-20 |

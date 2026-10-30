@@ -1,13 +1,53 @@
 {
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Ian Lucas y Lauty Gram",
-  "num_followers": 577163,
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: K4OS",
+  "num_followers": 577120,
   "original_name": "POP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVs/qpC+JYF7fqa7HN+yPmxKSBt",
+  "snapshot_id": "AAAAAJMiP17j68XzOsBnvppO8Hg8s5D7",
   "tracks": [
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "4MATION - PARTE I: ECDISIS",
+        "url": "https://open.spotify.com/album/5nQANeN0SUqnfKrtyE1SkJ"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "duration_ms": 187155,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/09Z0GpDKTF9F9I9FtaxKN0"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "BAILAR O MORIR",
+        "url": "https://open.spotify.com/album/4666SViPubDIsqw5300oiR"
+      },
+      "artists": [
+        {
+          "name": "BOM",
+          "url": "https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 154502,
+      "name": "BAILAR O MORIR",
+      "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
+    },
     {
       "added_at": "2026-10-09 03:00:15",
       "album": {
@@ -27,6 +67,22 @@
       "duration_ms": 129071,
       "name": "TKM",
       "url": "https://open.spotify.com/track/6jT6IeSZeSYAl5edo7SpM6"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "BODYPAINTING",
+        "url": "https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 153059,
+      "name": "BODYPAINTING",
+      "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
     },
     {
       "added_at": "2026-10-09 03:00:15",
@@ -195,6 +251,114 @@
       "duration_ms": 212648,
       "name": "The Door (Tiago PZK Version)",
       "url": "https://open.spotify.com/track/4yq8Oc51K2mgLfo9BjU3Rr"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "KENOPSIA",
+        "url": "https://open.spotify.com/album/6GEpnKtOmvjTbLMFcBQDd3"
+      },
+      "artists": [
+        {
+          "name": "411y",
+          "url": "https://open.spotify.com/artist/62cZELi1mAicdNKVpQV2b6"
+        },
+        {
+          "name": "ARALIIA",
+          "url": "https://open.spotify.com/artist/6X5rGZg2cu2ohGh1KCY31W"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "Mambos",
+      "url": "https://open.spotify.com/track/33zMt1Q4XR5gu4vZOab06H"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "Pendiente",
+        "url": "https://open.spotify.com/album/4Oalcm1ptJAzGc9kNfSweu"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "Pendiente",
+      "url": "https://open.spotify.com/track/37aGOmXQJM5gZqTmRYNNkX"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "Adictamente Inestable",
+        "url": "https://open.spotify.com/album/29Y6JJxfHHdW4khj2C7nmx"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 146512,
+      "name": "Adictamente Inestable",
+      "url": "https://open.spotify.com/track/34VPzRAat67FSbhK6LBwIQ"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "y si es la \u00faltima noche?",
+        "url": "https://open.spotify.com/album/20X0aNooUIAGYOaVJ0hvWg"
+      },
+      "artists": [
+        {
+          "name": "ELOISA",
+          "url": "https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2rH0luo2WOZ5QKBTPMRkL4"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4d0SZhpbS5blHXWNVQL5Iq"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6LfngcNXYOtpx8wP3rHQym"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "VIS A VIS",
+      "url": "https://open.spotify.com/track/29puqLhYRsG1hbrz91vg8d"
+    },
+    {
+      "added_at": "2026-10-30 03:00:11",
+      "album": {
+        "name": "POR TU CULPA",
+        "url": "https://open.spotify.com/album/4hP44eCuRjMlzl7zqtPphn"
+      },
+      "artists": [
+        {
+          "name": "Turde",
+          "url": "https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "POR TU CULPA",
+      "url": "https://open.spotify.com/track/0E6QsdsnxHb9fTL0nVbFs4"
     },
     {
       "added_at": "2026-10-09 03:00:15",

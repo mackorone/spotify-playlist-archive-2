@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: 730 Huncho",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2014,6 +2014,14 @@
         {
           "name": "Bia\u0142as",
           "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Szwed Swd",
+          "url": "https://open.spotify.com/artist/6DFpXEOsxD5MHDnglPQlk9"
+        },
+        {
+          "name": "Falcon1",
+          "url": "https://open.spotify.com/artist/4pg9KJqNXJD8nY1nlQRHUB"
         }
       ],
       "date_added": "2026-10-22",
@@ -3188,6 +3196,32 @@
       "duration_ms": 179638,
       "name": "BLICKY",
       "url": "https://open.spotify.com/track/1WqNEvLOzZHW7clNdxa205"
+    },
+    {
+      "album": {
+        "name": "przedwczoraj, dzisiaj, pojutrze",
+        "url": "https://open.spotify.com/album/31SfUvVDbyFOdPUGNYqlh4"
+      },
+      "artists": [
+        {
+          "name": "Szczyl",
+          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
+        },
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Blok",
+      "url": "https://open.spotify.com/track/2828mIQarnzz6l22Gt4CAv"
     },
     {
       "album": {
@@ -8760,7 +8794,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 191249,
       "name": "GDZIE JESTE\u015a?",
       "url": "https://open.spotify.com/track/0M7m7wZ7nxjyu1fVZ4PcXg"
@@ -11098,7 +11132,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 174795,
       "name": "JEST GIT",
       "url": "https://open.spotify.com/track/0M70EBJQB1xZ34WJfzxSGl"
@@ -14764,7 +14798,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
@@ -15604,6 +15638,24 @@
       "duration_ms": 194693,
       "name": "MY\u015aL\u0118 WI\u0118C JESTEM",
       "url": "https://open.spotify.com/track/5ZgSRbOtbZgW2pq5j1qMyU"
+    },
+    {
+      "album": {
+        "name": "M\u0142ody Bia\u0142as (Freestyle)",
+        "url": "https://open.spotify.com/album/3zN3IUevDr90RGGgNwA3YX"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135445,
+      "name": "M\u0142ody Bia\u0142as (Freestyle)",
+      "url": "https://open.spotify.com/track/2DmuhxmWro5d2P5XvSFRGH"
     },
     {
       "album": {
@@ -24506,7 +24558,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 167478,
       "name": "TECHWEAR",
       "url": "https://open.spotify.com/track/2mhWPuw3Ji8Geocz2DWcl1"
@@ -25108,6 +25160,28 @@
       "duration_ms": 200600,
       "name": "TRENINGOWY DRES",
       "url": "https://open.spotify.com/track/0hgQqD7YLqyZigMuuri08J"
+    },
+    {
+      "album": {
+        "name": "TROFEA",
+        "url": "https://open.spotify.com/album/7BhiNoG5gYP2sWYMDAiQRS"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "PMBTZ",
+          "url": "https://open.spotify.com/artist/4fcXi70KndQt7IIKn9327O"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162843,
+      "name": "TROFEA",
+      "url": "https://open.spotify.com/track/2dwCMsJ90AyXEtqP8iYh7G"
     },
     {
       "album": {
@@ -26242,6 +26316,28 @@
       "duration_ms": 144024,
       "name": "WAKEY BAKEY",
       "url": "https://open.spotify.com/track/6WielcKi0XR8SlbWXo0XEH"
+    },
+    {
+      "album": {
+        "name": "Walcz o swoje",
+        "url": "https://open.spotify.com/album/77GmRFAz9PXPusrNl7W5KW"
+      },
+      "artists": [
+        {
+          "name": "Bonus RPK",
+          "url": "https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3"
+        },
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170347,
+      "name": "Walcz o swoje",
+      "url": "https://open.spotify.com/track/7s1UWaMaTxPZRBN5Y1YnGd"
     },
     {
       "album": {
@@ -28548,7 +28644,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 249000,
       "name": "Z\u0141OTE KRANY",
       "url": "https://open.spotify.com/track/6Sa0N8N7IiEqYqfE3NgRgr"

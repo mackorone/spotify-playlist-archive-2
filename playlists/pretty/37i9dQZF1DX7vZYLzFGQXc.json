@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKQs2MelCrYkWLzWGWXtOmALe64k",
+  "snapshot_id": "AAAAAGvlsEKJerwgo57L4CTDO/FgsHfl",
   "tracks": [
     {
       "added_at": "2026-10-01 04:35:12",
@@ -23,6 +23,54 @@
       "duration_ms": 438750,
       "name": "ON(\u767e)",
       "url": "https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7"
+    },
+    {
+      "added_at": "2026-10-28 15:00:10",
+      "album": {
+        "name": "BE MY HUG",
+        "url": "https://open.spotify.com/album/5P7JsSoljPxmtLb9s5Uzvc"
+      },
+      "artists": [
+        {
+          "name": "A I W E O",
+          "url": "https://open.spotify.com/artist/7oEu9OwkDOC9C6nCQN11zK"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "A I W E O",
+      "url": "https://open.spotify.com/track/1bAb7zpa6Ff2izAFbw1dYV"
+    },
+    {
+      "added_at": "2026-10-28 15:00:10",
+      "album": {
+        "name": "Long Night",
+        "url": "https://open.spotify.com/album/7xLR3stWJRSIHrcF7Lwo3d"
+      },
+      "artists": [
+        {
+          "name": "Yu-Li KIM",
+          "url": "https://open.spotify.com/artist/1K2wbXY7dAGrdlS3RxE8K5"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Long Night",
+      "url": "https://open.spotify.com/track/5TJzGFYKpXh0TEDYrADzMu"
+    },
+    {
+      "added_at": "2026-10-28 15:00:10",
+      "album": {
+        "name": "Sweet Talk",
+        "url": "https://open.spotify.com/album/4sepkdtqlApKr1ggKZQgMV"
+      },
+      "artists": [
+        {
+          "name": "STUDIO360 GROUP",
+          "url": "https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Traces of Tomorrow",
+      "url": "https://open.spotify.com/track/6H6cDyr4etp1C2aPYD727x"
     },
     {
       "added_at": "2026-10-15 04:49:21",
@@ -791,54 +839,6 @@
       "duration_ms": 210000,
       "name": "90s",
       "url": "https://open.spotify.com/track/7IVGLhH6xnEJisC9k429sc"
-    },
-    {
-      "added_at": "2026-10-01 04:35:12",
-      "album": {
-        "name": "typing",
-        "url": "https://open.spotify.com/album/5bwIY9p0ZK09F0rcryHUff"
-      },
-      "artists": [
-        {
-          "name": "COII",
-          "url": "https://open.spotify.com/artist/0BTfN6kDzEjeCciCrb9Prv"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "typing",
-      "url": "https://open.spotify.com/track/0nfupRtfOEtb4UZaOHw9q5"
-    },
-    {
-      "added_at": "2026-10-01 04:35:12",
-      "album": {
-        "name": "Unstable",
-        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
-      },
-      "artists": [
-        {
-          "name": "Itzel",
-          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Unstable",
-      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
-    },
-    {
-      "added_at": "2026-10-01 04:35:12",
-      "album": {
-        "name": "me, myself and cat",
-        "url": "https://open.spotify.com/album/3GikzttMcKZ0MxAP4XHYbv"
-      },
-      "artists": [
-        {
-          "name": "Kyurin",
-          "url": "https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "me, myself and cat",
-      "url": "https://open.spotify.com/track/25zaajzCkPGYHF3rTalHti"
     }
   ],
   "unique_name": "Fresh Finds Korea",

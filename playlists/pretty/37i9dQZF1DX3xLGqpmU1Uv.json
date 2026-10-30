@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 190908,
+  "num_followers": 190931,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCAswD6/XTtAZlavcMeBibh20qd",
+  "snapshot_id": "AAAAAJm0cOT8oRpVkWDqa1OkYHzTC9ZD",
   "tracks": [
     {
       "added_at": "2025-01-03 04:04:11",
@@ -139,18 +139,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
+        "url": "https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX"
       },
       "artists": [
         {
-          "name": "Los Sleepers",
-          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
+          "name": "Queta Garay",
+          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
         }
       ],
-      "duration_ms": 140026,
-      "name": "Al Ritmo De La Lluvia",
-      "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+      "duration_ms": 133253,
+      "name": "Chica ye y\u00e9",
+      "url": "https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr"
     },
     {
       "added_at": "2025-01-03 04:04:11",
@@ -171,18 +171,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
-        "url": "https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX"
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
       "artists": [
         {
-          "name": "Queta Garay",
-          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
+          "name": "Los Sleepers",
+          "url": "https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN"
         }
       ],
-      "duration_ms": 133253,
-      "name": "Chica ye y\u00e9",
-      "url": "https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr"
+      "duration_ms": 140026,
+      "name": "Al Ritmo De La Lluvia",
+      "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Al Claro de Luna",
-        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
-      },
-      "artists": [
-        {
-          "name": "Rafael V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
-        }
-      ],
-      "duration_ms": 111493,
-      "name": "Al Claro de Luna",
-      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Multiplicaci\u00f3n",
         "url": "https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 122773,
       "name": "Ruedas",
       "url": "https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Al Claro de Luna",
+        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
+      },
+      "artists": [
+        {
+          "name": "Rafael V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
+        }
+      ],
+      "duration_ms": 111493,
+      "name": "Al Claro de Luna",
+      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
     },
     {
       "added_at": "2024-07-12 13:46:41",

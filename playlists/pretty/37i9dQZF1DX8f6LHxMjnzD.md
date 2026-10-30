@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,730 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,631 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Fight For Love](https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [Fight For Love](https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T) | 3:00 |
 | 40 | [LEFT RIGHT \(feat\. Big Sean\)](https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [LEFT RIGHT \(feat\. Big Sean\)](https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU) | 3:09 |
 
-Snapshot ID: `AAAAAFh6xwkK9/Wu0M7gleeuS9SbpVcP`
+Snapshot ID: `AAAAAPUXtdvta7S9zOL61YvM8BZQZi9z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Chelsea Dinorath, e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,606 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,609 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Chora por Mim](https://open.spotify.com/track/3BvhfmeTSPTEGBJBV8YYlj) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Chora por Mim](https://open.spotify.com/album/5vPgEuCnIpm6l19h5JIuLk) | 2:40 |
 | 50 | [Teki Manxi](https://open.spotify.com/track/67SV6io2WSB0cDUq5QQaQE) | [Soraia Tavares](https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX) | [Teki Manxi](https://open.spotify.com/album/5dvv0BjEIwIQsMV1LJ1KY7) | 2:59 |
 
-Snapshot ID: `AAAAACtpEs9nRyZcYvHUUtKORFBnM8hL`
+Snapshot ID: `AAAAANKDGEhyxKHu+88WUVostLpbv4JX`

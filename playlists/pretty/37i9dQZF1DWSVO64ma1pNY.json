@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 304614,
+  "num_followers": 304643,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM4U9DM7AhsQpvE93dDboEyaC2Gq",
+  "snapshot_id": "AAAAADoJFUPOwMv+5lEj5gfk8czIoh3D",
   "tracks": [
     {
       "added_at": "2024-12-03 09:27:47",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Mer De Noms",
-        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
-      },
-      "artists": [
-        {
-          "name": "A Perfect Circle",
-          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Judith",
-      "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Seal The Deal & Let's Boogie (Deluxe)",
         "url": "https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Mer De Noms",
+        "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Judith",
+      "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Hats Off to the Bull",
-        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Face to the Floor",
-      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 222453,
       "name": "Re-Education (Through Labor)",
       "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Hats Off to the Bull",
+        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Face to the Floor",
+      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Cry Wolf",
-        "url": "https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm"
-      },
-      "artists": [
-        {
-          "name": "Sundazer",
-          "url": "https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ"
-        }
-      ],
-      "duration_ms": 264403,
-      "name": "Cry Wolf",
-      "url": "https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "The Strange Case of...",
         "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 191333,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Cry Wolf",
+        "url": "https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm"
+      },
+      "artists": [
+        {
+          "name": "Sundazer",
+          "url": "https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ"
+        }
+      ],
+      "duration_ms": 264403,
+      "name": "Cry Wolf",
+      "url": "https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Why Worry",
-      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 150685,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Datura",
-        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 237359,
-      "name": "Crocus",
-      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Tired of Tomorrow (Deluxe Version)",
         "url": "https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 204975,
       "name": "Vertigo Flowers",
       "url": "https://open.spotify.com/track/3xvVuLA3YYZPd5mx8NOnN6"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Datura",
+        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 237359,
+      "name": "Crocus",
+      "url": "https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "S!CK",
-        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 192734,
-      "name": "S!CK",
-      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Got It Bad",
         "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 178804,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 211321,
-      "name": "Uzumaki",
-      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Pedals",
         "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 209000,
       "name": "Wring It Out",
       "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Poison The Parish",
-        "url": "https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 226898,
       "name": "JOY",
       "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Poison The Parish",
+        "url": "https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Shortest Fuse",
-        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Shortest Fuse",
-      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "All These Countless Nights (Reworked - Deluxe Version)",
         "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 258453,
       "name": "Cassiopeia - Bonus Track",
       "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Shortest Fuse",
+        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Shortest Fuse",
+      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
     }
   ],
   "unique_name": "Anger Management",

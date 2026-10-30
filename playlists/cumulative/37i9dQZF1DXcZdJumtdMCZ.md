@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Navz\-47
 
-397 songs - 20 hr 34 min
+398 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Showkali](https://open.spotify.com/track/3hHFVG2vcNfooKXgfLgCWd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8), [Sri Rascol](https://open.spotify.com/artist/7LSJ81kXzFkitlykHNm0tY) | [Achcham Yenbadhu Madamaiyada \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aqLIJUbfDODyEmvpi5Fni) | 4:38 | 2022-02-08 | 2024-12-29 |
 | [Showkali \(From "Achcham Yenbadhu Madamaiyada"\)](https://open.spotify.com/track/0e0OleITvXms6ngCfJMiDX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Sri Rascol](https://open.spotify.com/artist/7LSJ81kXzFkitlykHNm0tY) | [A.R\. Rahman Hits Vol.1](https://open.spotify.com/album/4L9emzda6toloFbMHaUHo7) | 4:38 | 2022-02-08 | 2023-11-11 |
 | [Showkali \(From "Achcham Yenbadhu Madamaiyada"\)](https://open.spotify.com/track/5RJck8e9eBWGwz0rxlmgcF) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Aditya Rao](https://open.spotify.com/artist/1R1TnxUWLvnOzsBChmemTa), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Sri Rascol](https://open.spotify.com/artist/7LSJ81kXzFkitlykHNm0tY) | [A.R\. Rahman Hits, Vol.1](https://open.spotify.com/album/5kLPwMhxebU9T49fxYNZhN) | 4:38 | 2022-02-08 | 2024-04-19 |
+| [Shu Shu](https://open.spotify.com/track/4xQhNOzQpUKhIpaMVrUftv) | [Sri Sudharsun](https://open.spotify.com/artist/3rEvzXb6i6OZsX184y3lY8), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu) | [Shu Shu](https://open.spotify.com/album/0fqsRmdMAMKA5nWnzbtoOK) | 3:17 | 2026-10-29 |  |
 | [Sigma Paiyan \- From "Think Indie"](https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Sigma Paiyan \(From "Think Indie"\)](https://open.spotify.com/album/4sTHhxgBEZifnSNjbmkyg6) | 2:29 | 2025-07-21 | 2026-04-11 |
 | [Sigma Style \(From "Sigma"\) \(Tamil\)](https://open.spotify.com/track/6Tzzr0w0qEUIYMXZctQLwr) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Smile Tupakeys](https://open.spotify.com/artist/43iTqp8IQG4uu2AurZiVbA), [Mc Rude](https://open.spotify.com/artist/6xS34wH493ApP7EgV76461) | [Sigma Style \(From "Sigma"\) \(Tamil\)](https://open.spotify.com/album/1C1AKtI8HRr75WEshOCDsG) | 3:26 | 2026-06-04 |  |
 | [Sikko Mode](https://open.spotify.com/track/3ku0mjWH9dTwAye983lMEQ) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [Silvan](https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw) | [Sikko Mode](https://open.spotify.com/album/6iWNhfwx401EJwuiH7zlr9) | 2:39 | 2025-02-17 | 2026-03-20 |

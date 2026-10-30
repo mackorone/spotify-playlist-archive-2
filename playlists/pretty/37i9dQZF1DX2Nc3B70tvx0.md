@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Nabihah Iqbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,902,510 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902,252 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 51 | [Worried Age](https://open.spotify.com/track/3wlhh0YM7QZncZezRwEOh2) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [It Goes On](https://open.spotify.com/album/3KA5QA2o7yMkCAbMQNq0oL) | 3:58 |
 | 52 | [Crab](https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Crab](https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B) | 3:15 |
 
-Snapshot ID: `AAAAAEhYmJWajFlGJYxM3C8VS8MZjt9+`
+Snapshot ID: `AAAAAHD1qUYDnHNeCWVKzJ6JWQWloaQZ`

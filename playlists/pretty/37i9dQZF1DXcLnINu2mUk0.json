@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Archie",
-  "num_followers": 56248,
+  "num_followers": 56256,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACUxPGMDqdCraWuA4hCu+ic3iDwg",
+  "snapshot_id": "AAAAALjtGfTdgYiTJdCZjK65T2nBl2q2",
   "tracks": [
     {
       "added_at": "2026-10-22 23:00:49",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
+        "name": "ouro na fenda",
+        "url": "https://open.spotify.com/album/6D3xhparAOF9w36MUZb61O"
+      },
+      "artists": [
+        {
+          "name": "cristo",
+          "url": "https://open.spotify.com/artist/3tH1vHtEt3cY1RB38z9uGd"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "bom fingidor",
+      "url": "https://open.spotify.com/track/5MtIN0uvqo0eofqxtKTT5Q"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
         "name": "+ Reservado",
         "url": "https://open.spotify.com/album/65EamwZnZsgVnompZedhm4"
       },
@@ -651,22 +667,18 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
       },
       "artists": [
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
         }
       ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -695,18 +707,22 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "Ser Feliz \u00e9 T\u00e3o Simples",
-        "url": "https://open.spotify.com/album/5tqdrs8Us3JHIS4H9gmvRN"
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 164524,
-      "name": "Ser Feliz \u00e9 T\u00e3o Simples",
-      "url": "https://open.spotify.com/track/38LpJeDS86RSIIc1NcdWEX"
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+        "name": "Ser Feliz \u00e9 T\u00e3o Simples",
+        "url": "https://open.spotify.com/album/5tqdrs8Us3JHIS4H9gmvRN"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
+      "duration_ms": 164524,
+      "name": "Ser Feliz \u00e9 T\u00e3o Simples",
+      "url": "https://open.spotify.com/track/38LpJeDS86RSIIc1NcdWEX"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -783,18 +799,18 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -819,18 +835,18 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -983,6 +999,22 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -1003,22 +1035,6 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "\u00c0 Janela",
-        "url": "https://open.spotify.com/album/1axhHB2sKWodQFnJHEnidG"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 175294,
-      "name": "\u00c0 Janela",
-      "url": "https://open.spotify.com/track/0xSMmvj8aQl9twNz7RQoEt"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
         "name": "Chamadas",
         "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 156672,
       "name": "Chamadas",
       "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
+        "name": "\u00c0 Janela",
+        "url": "https://open.spotify.com/album/1axhHB2sKWodQFnJHEnidG"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 175294,
+      "name": "\u00c0 Janela",
+      "url": "https://open.spotify.com/track/0xSMmvj8aQl9twNz7RQoEt"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
+        "name": "10 MINUTOS",
+        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
+      },
+      "artists": [
+        {
+          "name": "ATJ",
+          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
+        }
+      ],
+      "duration_ms": 300333,
+      "name": "10 MINUTOS",
+      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
         "name": "Sei-te de Cor",
         "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
       },
@@ -1167,6 +1199,22 @@
       "duration_ms": 219692,
       "name": "Sei-te de Cor",
       "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -1191,38 +1239,6 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "10 MINUTOS",
-        "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
-      },
-      "artists": [
-        {
-          "name": "ATJ",
-          "url": "https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG"
-        }
-      ],
-      "duration_ms": 300333,
-      "name": "10 MINUTOS",
-      "url": "https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
         "name": "Talvez",
         "url": "https://open.spotify.com/album/0oTPd2PPkUffseXHnoeHcF"
       },
@@ -1239,26 +1255,6 @@
       "duration_ms": 172800,
       "name": "Talvez",
       "url": "https://open.spotify.com/track/7HNgDJPrtkBhJ6SqUOMMyt"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -1283,6 +1279,26 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-10-22 23:00:49",
@@ -1339,26 +1355,6 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 216556,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
-    },
-    {
-      "added_at": "2026-10-22 23:00:49",
-      "album": {
         "name": "Flexin On U",
         "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
       },
@@ -1379,22 +1375,38 @@
     {
       "added_at": "2026-10-22 23:00:49",
       "album": {
-        "name": "Perigo",
-        "url": "https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH"
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 216556,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+    },
+    {
+      "added_at": "2026-10-22 23:00:49",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM"
       },
       "artists": [
         {
           "name": "Gama WNTD",
           "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        },
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z"
+      "duration_ms": 229661,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
     },
     {
       "added_at": "2026-10-22 23:00:49",

@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Adrian Younge",
-  "num_followers": 1050432,
+  "num_followers": 1050451,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIatiTFIp4TRC35rraCRmjpq0tqb",
+  "snapshot_id": "AAAAANfuBmvO0vPbUabCrPCb1wTRje5K",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:39",
@@ -79,6 +79,26 @@
       "duration_ms": 150069,
       "name": "Til It All Falls Down",
       "url": "https://open.spotify.com/track/7BE9JlC9cevFDNqyc3aiP0"
+    },
+    {
+      "added_at": "2026-10-23 04:01:39",
+      "album": {
+        "name": "The Game Changer",
+        "url": "https://open.spotify.com/album/5KmXBofsCg5Vpknnnva4G1"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        },
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 373653,
+      "name": "The Game Changer",
+      "url": "https://open.spotify.com/track/3bk46hQJ6RDwfe5YhaKQQl"
     },
     {
       "added_at": "2026-10-23 04:01:39",

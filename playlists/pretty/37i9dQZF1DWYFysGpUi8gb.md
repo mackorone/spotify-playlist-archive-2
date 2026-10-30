@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring purple pilgrims
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,212 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,180 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Buster](https://open.spotify.com/track/3aDbVibedUfG25q1PWD0Ay) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Shock Corridor](https://open.spotify.com/album/17gMcCILR3WdtxduhoSn98) | 4:22 |
 | 80 | [Tilapia](https://open.spotify.com/track/6SkdgDwXuQlLPRyFKbmr1n) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Oxis 9](https://open.spotify.com/album/5awexwsI3WGjVeU5TmhG7p) | 2:14 |
 
-Snapshot ID: `AAAAADpAIwtTtJr6Wm7Nb75mumVIjRsv`
+Snapshot ID: `AAAAALFuDOXiCgCwqVi48CwxFuTEq8xp`

@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Boots",
+        "url": "https://open.spotify.com/album/25MRumQqz0hmFKFYG7EJ7k"
+      },
+      "artists": [
+        {
+          "name": "Lenny Monsou",
+          "url": "https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207443,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/461y6RWo18JSORPAfVY1PH"
+    },
+    {
+      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -9301,6 +9319,24 @@
     },
     {
       "album": {
+        "name": "LY",
+        "url": "https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204249,
+      "name": "LY",
+      "url": "https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 Original Soundtrack (Extended Edition)",
         "url": "https://open.spotify.com/album/60vxf9FQqoBm0jafAK1oy5"
       },
@@ -10124,7 +10160,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 171415,
       "name": "My World",
       "url": "https://open.spotify.com/track/5tXv5cksD6D8l6HSP6xhoX"
@@ -10448,7 +10484,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 199245,
       "name": "Night of a 1000 Lights",
       "url": "https://open.spotify.com/track/4s9PmhAERYMhTLCwlIW45d"
@@ -11800,6 +11836,28 @@
       "duration_ms": 135145,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c"
+    },
+    {
+      "album": {
+        "name": "Real Life Rodeo",
+        "url": "https://open.spotify.com/album/66yxUKE7nUkFOISi8kwnau"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        },
+        {
+          "name": "Sam Bettens",
+          "url": "https://open.spotify.com/artist/0gyiTtRKu5DgzfxAWO8zmS"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169166,
+      "name": "Real Life Rodeo",
+      "url": "https://open.spotify.com/track/5wyx9hlHqJ0iAQpBjD5bkc"
     },
     {
       "album": {
@@ -14800,7 +14858,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 269936,
       "name": "The Ballad Of Terry Fox",
       "url": "https://open.spotify.com/track/1OvkfOMOTNHsnfgVgGWWbQ"
@@ -16488,7 +16546,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 233933,
       "name": "Violet",
       "url": "https://open.spotify.com/track/4U6J2RfAvrShW9OUsADVlX"
@@ -17244,6 +17302,28 @@
       "duration_ms": 189927,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7"
+    },
+    {
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316003,
+      "name": "Where Is Gone?",
+      "url": "https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D"
     },
     {
       "album": {

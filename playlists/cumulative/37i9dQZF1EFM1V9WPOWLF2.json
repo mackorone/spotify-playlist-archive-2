@@ -416,10 +416,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 158809,
       "name": "CERO",
       "url": "https://open.spotify.com/track/0ymJeUV9zr0f5qogiaxY4t"
+    },
+    {
+      "album": {
+        "name": "CERO",
+        "url": "https://open.spotify.com/album/2FjnyINbcWE5j2mNi17wRE"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158809,
+      "name": "CERO",
+      "url": "https://open.spotify.com/track/4ycIupIRDw18lls4NpCCAi"
     },
     {
       "album": {
@@ -496,6 +514,24 @@
     {
       "album": {
         "name": "COMPLICADO",
+        "url": "https://open.spotify.com/album/2nKSEefir65fF4OxUFYI9E"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "COMPLICADO",
+      "url": "https://open.spotify.com/track/16KkOGn6SG95AVo9WN89zd"
+    },
+    {
+      "album": {
+        "name": "COMPLICADO",
         "url": "https://open.spotify.com/album/34acwC6W2OjOMfEZXfUOFH"
       },
       "artists": [
@@ -506,7 +542,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 171111,
       "name": "COMPLICADO",
       "url": "https://open.spotify.com/track/2FKIbvksdWBHXe0KjF2Jdx"
@@ -1214,10 +1250,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 150620,
       "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
       "url": "https://open.spotify.com/track/1D0Uz2anDZW9s5Y0eiKC2H"
+    },
+    {
+      "album": {
+        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
+        "url": "https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
+      "url": "https://open.spotify.com/track/7Ewl0FFRxqJ673RQZ4wCpw"
     },
     {
       "album": {
@@ -1484,6 +1538,24 @@
     {
       "album": {
         "name": "Noches de Soledad",
+        "url": "https://open.spotify.com/album/4cGcu0eThCOanK1yMYq0Fp"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184651,
+      "name": "Noches de Soledad",
+      "url": "https://open.spotify.com/track/5zoqegmvrWnXdy0F9tsGee"
+    },
+    {
+      "album": {
+        "name": "Noches de Soledad",
         "url": "https://open.spotify.com/album/3HPJ0W9d8RSosSZeZfM7AE"
       },
       "artists": [
@@ -1494,7 +1566,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 184651,
       "name": "Noches de Soledad",
       "url": "https://open.spotify.com/track/6wYzqcXiX3orkFVkKZtZkF"
@@ -1897,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
+        "url": "https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161481,
+      "name": "SER ELLA",
+      "url": "https://open.spotify.com/track/05LrCe514iiTxv4gmBNghX"
+    },
+    {
+      "album": {
         "name": "SER ELLA",
         "url": "https://open.spotify.com/album/4FFg8qcpC0xPcvt6VSq9Hj"
       },
@@ -1908,7 +1998,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 161481,
       "name": "SER ELLA",
       "url": "https://open.spotify.com/track/7Aihd6Eq6qXoMSPmkR347Y"
@@ -2376,10 +2466,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 106046,
       "name": "VIP",
       "url": "https://open.spotify.com/track/5oDwlD8r5zNlVOE6i34tjH"
+    },
+    {
+      "album": {
+        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
+        "url": "https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106046,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/6yJhhzcle8QNb8LujNjSV6"
     },
     {
       "album": {
@@ -2544,10 +2652,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 152128,
       "name": "\u00bfCUANDO VIENES?",
       "url": "https://open.spotify.com/track/4Qbv62N6cq5pGuOVP8GvaF"
+    },
+    {
+      "album": {
+        "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
+        "url": "https://open.spotify.com/album/0nX3cwH62ZCDQpudTx8mRe"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152128,
+      "name": "\u00bfCUANDO VIENES?",
+      "url": "https://open.spotify.com/track/6MpRdshIVU8iOqXBpTzeUK"
     },
     {
       "album": {

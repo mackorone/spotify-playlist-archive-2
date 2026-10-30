@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6RZkiFMODT1nUffw6ABTvz">Dolly Parton</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-524 songs - 1 day 3 hr 9 min
+525 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Woke up in Love](https://open.spotify.com/track/5X9uEagpm3MeP8kvrvtaHZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Sylvester Stallone](https://open.spotify.com/artist/6EtVgLNZHcSfz4vl0vd9FZ) | [Rhinestone \(Soundtrack\)](https://open.spotify.com/album/6gHu4GfP2iUyWP933NCvko) | 3:23 | 2026-09-08 |  |
 | [Working Girl](https://open.spotify.com/track/5PQOIflzV81tWs1vU398cl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 3:21 | 2026-09-08 |  |
 | [World On Fire](https://open.spotify.com/track/6vBNb6u0uPFFHRiJvLwhMT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:21 | 2026-09-08 |  |
+| [Would You Believe](https://open.spotify.com/track/7nssL4JvfCuc0OKpV0ORSd) | [Bill Owens](https://open.spotify.com/artist/1Tf6cTjrIYFQ0DB3ewRGVU), [Louis Owens](https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns) | [The Owens Brothers \- Tomorrow's Tears Today \- Singles 1961 \- 1967](https://open.spotify.com/album/6aCkSUeG211DdQNv14Wwis) | 2:01 | 2026-10-29 |  |
 | [Would You Know Him \(If You Saw Him\)](https://open.spotify.com/track/77xpBknLjPnCi9vjAlEm0B) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Letter To Heaven: Songs Of Faith & Inspiration](https://open.spotify.com/album/4npUkzYHkjApymuifj0RsJ) | 2:53 | 2026-09-08 |  |
 | [Wrapped Up In You](https://open.spotify.com/track/2064iNeDMPgM6YJwqfYeoP) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Ultimate Deluxe Edition\)](https://open.spotify.com/album/0UKCFUDo5hCdAB4b6tPqQe) | 2:33 | 2026-09-08 |  |
 | [Wrong Direction Home](https://open.spotify.com/track/3avE0b4pu9NF2SLlimnaml) | [Margo](https://open.spotify.com/artist/7ICvA4kPyVEtDsNUCnlNAL), [Maura O'Connell](https://open.spotify.com/artist/2WkDGNlrAN48YIOi18jpEE), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Highway of My Life](https://open.spotify.com/album/6qzzvJR9sUnIlxnHAtAQIe) | 3:12 | 2026-09-08 |  |

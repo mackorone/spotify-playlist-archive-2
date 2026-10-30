@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,933 likes - 183 songs - 11 hr 37 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,940 likes - 186 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,5 +191,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 181 | [Lazy Days](https://open.spotify.com/track/4sGmBEwT2CWB2h8BvQvmfw) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [Lazy Days](https://open.spotify.com/album/0GI1FjoK3nO7BeagNEJG9I) | 3:04 |
 | 182 | [Shake Your Azz](https://open.spotify.com/track/10FkiRzgg9nHEpTlP6L7eC) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [Can't Touch the Ground](https://open.spotify.com/album/4V794UIh2kDa6zswsOQeEs) | 4:12 |
 | 183 | [BIG BAD KARMA](https://open.spotify.com/track/1tsUSGvb6Ke0UtUHed1r7K) | [ENGINES OF AGGRESSION](https://open.spotify.com/artist/3og8ID2UsKexUDeG3PVisc) | [Inhuman Nature](https://open.spotify.com/album/0dHm8MWZqeNVEFaULzQozs) | 3:37 |
+| 184 | [Summer Song](https://open.spotify.com/track/335hkAMBvAGPN0twltJ7TP) | [Violinista](https://open.spotify.com/artist/1q84ZVdHAOekvmWbMpP37h) | [Summer Song](https://open.spotify.com/album/6i1BkQpvNiDExqSfCKWo8H) | 4:32 |
+| 185 | [Punk Rock Changed My Life](https://open.spotify.com/track/61bqm8GBhy0uVX4486D6Z8) | [SMFC](https://open.spotify.com/artist/37AQAlwmPfdt7xlzv0Wbsm) | [Unadulterated](https://open.spotify.com/album/7FDUbUbgQCAro9FM5zCn13) | 2:49 |
+| 186 | [Fist full of lies](https://open.spotify.com/track/3KL4wNDzQV6Rk7TpyPIk2z) | [Moral Demise](https://open.spotify.com/artist/2aJD3abHtV67hSLPptMQgM) | [Stomp](https://open.spotify.com/album/5I8CHzZpprQpuqxp1BpbCt) | 2:10 |
 
-Snapshot ID: `AAAM5AqV5mSFP7321XUYQ6Bk6+YvYXk2`
+Snapshot ID: `AAAM5xObGyoUHKhCR/x/9ybRqTrGgoCC`

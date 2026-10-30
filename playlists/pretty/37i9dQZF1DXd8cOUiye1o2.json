@@ -1,12 +1,12 @@
 {
   "description": "Experience the magic of \"Do Din Ki Zindagi\" from Gunmaaster G9. Listen now.",
-  "num_followers": 1021866,
+  "num_followers": 1021953,
   "original_name": "New Music Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChy/lx0an7h66TWFkyC9LroDXKP",
+  "snapshot_id": "AAAAAGaT7Tz8b3AdydE3BSlVw1glFsym",
   "tracks": [
     {
       "added_at": "2026-10-14 07:57:48",
@@ -61,6 +61,30 @@
       "url": "https://open.spotify.com/track/2oxJR1QaLRhLMDVZGhf2y2"
     },
     {
+      "added_at": "2026-10-29 12:09:33",
+      "album": {
+        "name": "Main Ram (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/4xuHHa3JtBrjyDWMl88hXD"
+      },
+      "artists": [
+        {
+          "name": "Prateek Walia",
+          "url": "https://open.spotify.com/artist/2MwEyZ2IlU8PIyq5Px1aXC"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+        }
+      ],
+      "duration_ms": 221049,
+      "name": "Main Ram (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/4V3QFX0K1nK2ylf6X4yyFI"
+    },
+    {
       "added_at": "2026-10-15 07:08:22",
       "album": {
         "name": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
@@ -83,30 +107,6 @@
       "duration_ms": 286582,
       "name": "Jhumka Patola - From \"Yeh Prem Mol Liya\"",
       "url": "https://open.spotify.com/track/4utW1J8xYXo0aF0sHN5b0z"
-    },
-    {
-      "added_at": "2026-10-21 05:41:41",
-      "album": {
-        "name": "Ravana Tandav (From \"Ramayana\") [HINDI]",
-        "url": "https://open.spotify.com/album/05DEZAO57XaUpMMs15BveN"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Kumar Vishwas",
-          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
-        }
-      ],
-      "duration_ms": 194061,
-      "name": "Ravana Tandav (From \"Ramayana\") [HINDI]",
-      "url": "https://open.spotify.com/track/5Bks0fnpnmV4Tt0PzieAOL"
     },
     {
       "added_at": "2026-10-23 03:57:09",
@@ -203,6 +203,30 @@
       "duration_ms": 178954,
       "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
       "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
+    },
+    {
+      "added_at": "2026-10-21 05:41:41",
+      "album": {
+        "name": "Ravana Tandav (From \"Ramayana\") [HINDI]",
+        "url": "https://open.spotify.com/album/05DEZAO57XaUpMMs15BveN"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Kumar Vishwas",
+          "url": "https://open.spotify.com/artist/2LjhQ08HU3jmWljGsf5Z0Y"
+        }
+      ],
+      "duration_ms": 194061,
+      "name": "Ravana Tandav (From \"Ramayana\") [HINDI]",
+      "url": "https://open.spotify.com/track/5Bks0fnpnmV4Tt0PzieAOL"
     },
     {
       "added_at": "2026-10-27 06:00:12",
@@ -1687,30 +1711,6 @@
       "duration_ms": 277015,
       "name": "Shayad (From \"Main Na Raha Mera\")",
       "url": "https://open.spotify.com/track/1n2O9F2uNB7VPxbT3tlnyX"
-    },
-    {
-      "added_at": "2026-10-12 04:32:59",
-      "album": {
-        "name": "Beraham",
-        "url": "https://open.spotify.com/album/4V7bFmcb630xIvvb5kc7eB"
-      },
-      "artists": [
-        {
-          "name": "Stebin Ben",
-          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
-        },
-        {
-          "name": "Javed-Mohsin",
-          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
-        },
-        {
-          "name": "Rashmi Virag",
-          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
-        }
-      ],
-      "duration_ms": 214015,
-      "name": "Beraham",
-      "url": "https://open.spotify.com/track/0niwRGVIhJyBdvgpMtoQgK"
     }
   ],
   "unique_name": "New Music Hindi",

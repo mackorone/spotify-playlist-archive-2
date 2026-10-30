@@ -1,12 +1,12 @@
 {
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Otile Brown",
-  "num_followers": 54700,
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Bensoul",
+  "num_followers": 54703,
   "original_name": "Made In Kenya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMwMv9qMfdnoC8H3Ex0pqdBDoex7",
+  "snapshot_id": "AAAAANq1Fh1YHDrD5TgfqfudnKd23WJr",
   "tracks": [
     {
       "added_at": "2026-10-16 00:59:18",
@@ -23,6 +23,26 @@
       "duration_ms": 199591,
       "name": "I'll Be Okay",
       "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
+    },
+    {
+      "added_at": "2026-10-16 00:59:18",
+      "album": {
+        "name": "Flight 420",
+        "url": "https://open.spotify.com/album/252QK56qOf7nmIyZcICKa2"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Mike Kayihura",
+          "url": "https://open.spotify.com/artist/1e7dlKRUPBONWcKciTGE4I"
+        }
+      ],
+      "duration_ms": 274979,
+      "name": "Nobody Wins, Nobody Loses",
+      "url": "https://open.spotify.com/track/0lnKFCwc4gDI80UgPpHXZ8"
     },
     {
       "added_at": "2026-10-23 03:50:15",
@@ -81,6 +101,22 @@
       "url": "https://open.spotify.com/track/75z0PDyGgrN4VCkU2xiNvV"
     },
     {
+      "added_at": "2026-10-30 00:59:10",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/7K4HomSt1tScH0dQQ6D3Ff"
+      },
+      "artists": [
+        {
+          "name": "Genes1s",
+          "url": "https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e"
+        }
+      ],
+      "duration_ms": 149551,
+      "name": "International",
+      "url": "https://open.spotify.com/track/12yHc1NJuXHKoP64c8ctue"
+    },
+    {
       "added_at": "2026-10-16 00:59:18",
       "album": {
         "name": "Kijana Wa Ingo",
@@ -133,6 +169,22 @@
       "url": "https://open.spotify.com/track/5JZzQIx71SDZ4YtWXVCru5"
     },
     {
+      "added_at": "2026-10-30 00:59:10",
+      "album": {
+        "name": "Sherehe",
+        "url": "https://open.spotify.com/album/38GijG8A1qndX1QWurxPyG"
+      },
+      "artists": [
+        {
+          "name": "Shanariha Evans",
+          "url": "https://open.spotify.com/artist/1tiS9gycVIZc7IaRSzckRn"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Sherehe",
+      "url": "https://open.spotify.com/track/0LIGKZ120eaCvnAk3kdgyU"
+    },
+    {
       "added_at": "2026-10-16 00:59:18",
       "album": {
         "name": "Somebody's Daughter",
@@ -183,6 +235,22 @@
       "duration_ms": 220909,
       "name": "AIBU",
       "url": "https://open.spotify.com/track/0F4cIQyKeExJYLMrOk8OVT"
+    },
+    {
+      "added_at": "2026-10-30 00:59:10",
+      "album": {
+        "name": "Itisha Maji",
+        "url": "https://open.spotify.com/album/0pw4vEhi1PfNwDM1V1lKPa"
+      },
+      "artists": [
+        {
+          "name": "Tuku Kantu",
+          "url": "https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Itisha Maji",
+      "url": "https://open.spotify.com/track/1YeheG8uSeajtfrZKxHK5U"
     },
     {
       "added_at": "2026-10-16 00:59:18",
@@ -243,6 +311,22 @@
       "duration_ms": 162692,
       "name": "Tea",
       "url": "https://open.spotify.com/track/555suDHTjFiyCVa9KkqOVb"
+    },
+    {
+      "added_at": "2026-10-30 00:59:10",
+      "album": {
+        "name": "Mahiga",
+        "url": "https://open.spotify.com/album/4wDKpWJfovZ3IbDAvdx1SB"
+      },
+      "artists": [
+        {
+          "name": "Ayrosh",
+          "url": "https://open.spotify.com/artist/3eUpzhdVQkVaAKWn09Ka8l"
+        }
+      ],
+      "duration_ms": 153986,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/3yfYsCr4V9Ox6C6erZ8yrE"
     },
     {
       "added_at": "2026-10-23 03:50:15",
@@ -443,22 +527,6 @@
       "duration_ms": 181363,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/7tFWfxjtb0Rk2FYgTASHgL"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
-        "name": "Flight 420",
-        "url": "https://open.spotify.com/album/252QK56qOf7nmIyZcICKa2"
-      },
-      "artists": [
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/0lnKFCwc4gDI80UgPpHXZ8"
     },
     {
       "added_at": "2026-10-16 00:59:18",
@@ -995,46 +1063,6 @@
     {
       "added_at": "2026-10-16 00:59:18",
       "album": {
-        "name": "PM",
-        "url": "https://open.spotify.com/album/0r3S6mCeav8JDaUsFKuE0x"
-      },
-      "artists": [
-        {
-          "name": "Willy Paul",
-          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
-        },
-        {
-          "name": "Otile Brown",
-          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "PM",
-      "url": "https://open.spotify.com/track/4WadEom9ypAUL8a3Ppx5c3"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
-        "name": "FREAKY",
-        "url": "https://open.spotify.com/album/0sF7WtY3jzo2CHUlNWNOsK"
-      },
-      "artists": [
-        {
-          "name": "Genes1s",
-          "url": "https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e"
-        },
-        {
-          "name": "X.O",
-          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "FREAKY",
-      "url": "https://open.spotify.com/track/3BWjPv9oGKmmQxST6ygltl"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
         "name": "Chai ya saa kumi",
         "url": "https://open.spotify.com/album/6zo9fgnkIliVQoZLSB9Wh5"
       },
@@ -1155,26 +1183,6 @@
     {
       "added_at": "2026-10-16 00:59:18",
       "album": {
-        "name": "Wi Muthaka",
-        "url": "https://open.spotify.com/album/5We2OdnmfsWmIa3gw4gJAj"
-      },
-      "artists": [
-        {
-          "name": "Tuku Kantu",
-          "url": "https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24"
-        },
-        {
-          "name": "Muthaka",
-          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Wi Muthaka",
-      "url": "https://open.spotify.com/track/27fREfR29KgpnCGHQa658H"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
         "name": "Mali Safi",
         "url": "https://open.spotify.com/album/1jjH7CUkYpaTb7L2GY6dNW"
       },
@@ -1187,22 +1195,6 @@
       "duration_ms": 241188,
       "name": "Mali Safi",
       "url": "https://open.spotify.com/track/3dM8r9wO8bOGEJ6kE7Kx9y"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
-        "name": "All My Enemies Are Suffering",
-        "url": "https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 194805,
-      "name": "All My Enemies Are Suffering",
-      "url": "https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ"
     }
   ],
   "unique_name": "Made In Kenya",

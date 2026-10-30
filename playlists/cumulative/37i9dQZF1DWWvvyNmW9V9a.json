@@ -5190,7 +5190,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 242741,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/5q6cFFIklSDYN1f9Lijlak"
@@ -6218,7 +6218,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 131200,
       "name": "Bloody Paradise",
       "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
@@ -7750,6 +7750,32 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
+    },
+    {
+      "album": {
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191599,
+      "name": "CABBY",
+      "url": "https://open.spotify.com/track/22XqO0FrbFk2qJNlvCYU22"
     },
     {
       "album": {
@@ -11158,7 +11184,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 285973,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
@@ -15188,6 +15214,28 @@
       "duration_ms": 157960,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/5zsaIAuOp3SmeNV3ASmJMs"
+    },
+    {
+      "album": {
+        "name": "Face Card (The Kid LAROI Remix)",
+        "url": "https://open.spotify.com/album/7yeUtECMpr2lzo00a2mscy"
+      },
+      "artists": [
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "Face Card - The Kid LAROI Remix",
+      "url": "https://open.spotify.com/track/5DD7mEinRs7bMr6YvbyRXb"
     },
     {
       "album": {
@@ -20792,7 +20840,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
@@ -21528,7 +21576,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 212022,
       "name": "Hung Over (You)",
       "url": "https://open.spotify.com/track/6sunlQrapnlyDAafV14sRT"
@@ -32203,6 +32251,24 @@
     },
     {
       "album": {
+        "name": "Sensitive to the room, sensitive to the sound",
+        "url": "https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237292,
+      "name": "My Vice Is Misery",
+      "url": "https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn"
+    },
+    {
+      "album": {
         "name": "SIS (Soft Is Strong)",
         "url": "https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr"
       },
@@ -33240,6 +33306,24 @@
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
+    },
+    {
+      "album": {
+        "name": "NOBODY'S HERO",
+        "url": "https://open.spotify.com/album/3eYPVRi6W4fG3JyzAcHnAA"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199014,
+      "name": "NOBODY'S HERO",
+      "url": "https://open.spotify.com/track/4xK0It4Kdk80QGGVSW5ec9"
     },
     {
       "album": {
@@ -35170,7 +35254,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 123633,
       "name": "OUTTASIGHT",
       "url": "https://open.spotify.com/track/5IHMpQ31TkzT3Tv1SUPYOw"
@@ -43312,7 +43396,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 267159,
       "name": "Stay Gone",
       "url": "https://open.spotify.com/track/2arjC99T7tiLwCpSFklmmO"
@@ -47028,6 +47112,24 @@
       "duration_ms": 227373,
       "name": "The Heart Wants What It Wants",
       "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
+    },
+    {
+      "album": {
+        "name": "The Hope That Kills Me",
+        "url": "https://open.spotify.com/album/2zp1vr7BgZ7dIc1deKodmt"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "The Hope That Kills Me",
+      "url": "https://open.spotify.com/track/7lf9B6heWvYJ8Odgnki8uS"
     },
     {
       "album": {
@@ -50798,6 +50900,24 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN"
+      },
+      "artists": [
+        {
+          "name": "Bana",
+          "url": "https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143335,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk"
     },
     {
       "album": {

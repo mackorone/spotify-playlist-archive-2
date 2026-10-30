@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,284 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,283 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Pure Vice](https://open.spotify.com/track/2NF2GJ8rSAbirBnzBiF2ri) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [My World](https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9) | 4:19 |
 | 100 | [Roses](https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Roses](https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF) | 3:28 |
 
-Snapshot ID: `AAAAAEkfmUwzvvyGCjnltPNgTNEVSe0R`
+Snapshot ID: `AAAAAB3nB5KUwNkFz5War9NWS98IUUg8`

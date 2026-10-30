@@ -1,32 +1,60 @@
 {
-  "description": "100 % chill, 100 % Montr\u00e9al w/ Colin L\u00e9o",
+  "description": "100 % chill, 100 % Montr\u00e9al w/ Carla Chanelle",
   "num_followers": 143994,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAv3eADTx5inaFiLhd+wLImlq7/a",
+  "snapshot_id": "AAAAABmZfVIyIS75WRSwoPrA2ovv/gNe",
   "tracks": [
     {
       "added_at": "2026-10-16 04:03:10",
       "album": {
-        "name": "L\u00e9ger Stress",
-        "url": "https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU"
+        "name": "Oiseaux de Paradis",
+        "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
       },
       "artists": [
         {
-          "name": "Colin L\u00e9o",
-          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
-        },
-        {
-          "name": "Greg Beaudin",
-          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 188564,
-      "name": "S\u00e9rotonine",
-      "url": "https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB"
+      "duration_ms": 124214,
+      "name": "Oiseaux de Paradis",
+      "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
+    },
+    {
+      "added_at": "2026-10-30 04:02:49",
+      "album": {
+        "name": "Lilas",
+        "url": "https://open.spotify.com/album/6xviy5wTOx5znxeM5XNiH7"
+      },
+      "artists": [
+        {
+          "name": "Carla Chanelle",
+          "url": "https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil"
+        }
+      ],
+      "duration_ms": 169073,
+      "name": "Lilas",
+      "url": "https://open.spotify.com/track/09qJkXw2WhYbGcsqHr0xq4"
+    },
+    {
+      "added_at": "2026-10-30 04:02:49",
+      "album": {
+        "name": "Tout ce que tu fais c'est de la musique",
+        "url": "https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq"
+      },
+      "artists": [
+        {
+          "name": "Jay Essiambre",
+          "url": "https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Tout ce que tu fais c'est de la musique",
+      "url": "https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0"
     },
     {
       "added_at": "2026-10-23 04:03:19",
@@ -43,22 +71,6 @@
       "duration_ms": 217173,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/548eDc9ac21RjfoDK5pFYe"
-    },
-    {
-      "added_at": "2026-10-16 04:03:10",
-      "album": {
-        "name": "They/Them Summer",
-        "url": "https://open.spotify.com/album/5MhANPNQ5a1XVipxwtM7Do"
-      },
-      "artists": [
-        {
-          "name": "Chaude Chaleur",
-          "url": "https://open.spotify.com/artist/1mDSretn552shMdrXmhiuk"
-        }
-      ],
-      "duration_ms": 220448,
-      "name": "They/Them Summer",
-      "url": "https://open.spotify.com/track/6IcgYoQUJekZtAcobhgY19"
     },
     {
       "added_at": "2026-10-16 04:03:10",
@@ -115,22 +127,6 @@
     {
       "added_at": "2026-10-16 04:03:10",
       "album": {
-        "name": "Oiseaux de Paradis",
-        "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 124214,
-      "name": "Oiseaux de Paradis",
-      "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
-    },
-    {
-      "added_at": "2026-10-16 04:03:10",
-      "album": {
         "name": "Fek l\u00e0?",
         "url": "https://open.spotify.com/album/0heQVzMcGhF9LCWJooKCC7"
       },
@@ -143,6 +139,22 @@
       "duration_ms": 128333,
       "name": "R\u00e9ponse",
       "url": "https://open.spotify.com/track/0ST5Q5Iriex4aM9Xhi3HQm"
+    },
+    {
+      "added_at": "2026-10-30 04:02:49",
+      "album": {
+        "name": "Chaude Chaleur",
+        "url": "https://open.spotify.com/album/31l2G3mXDWRl3YZJnZ1aYM"
+      },
+      "artists": [
+        {
+          "name": "Chaude Chaleur",
+          "url": "https://open.spotify.com/artist/1mDSretn552shMdrXmhiuk"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Endorphine",
+      "url": "https://open.spotify.com/track/2COHOZm8EWjpmagCeaWWh1"
     },
     {
       "added_at": "2026-10-23 04:03:19",
@@ -295,6 +307,26 @@
       "duration_ms": 160680,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
+    },
+    {
+      "added_at": "2026-10-16 04:03:10",
+      "album": {
+        "name": "L\u00e9ger Stress",
+        "url": "https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU"
+      },
+      "artists": [
+        {
+          "name": "Colin L\u00e9o",
+          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
+        },
+        {
+          "name": "Greg Beaudin",
+          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+        }
+      ],
+      "duration_ms": 188564,
+      "name": "S\u00e9rotonine",
+      "url": "https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB"
     },
     {
       "added_at": "2026-10-16 04:03:10",
@@ -563,6 +595,22 @@
       "duration_ms": 177562,
       "name": "Take the time",
       "url": "https://open.spotify.com/track/17yQrqNuRgCqAgXPW4QsB6"
+    },
+    {
+      "added_at": "2026-10-16 04:03:10",
+      "album": {
+        "name": "They/Them Summer",
+        "url": "https://open.spotify.com/album/5MhANPNQ5a1XVipxwtM7Do"
+      },
+      "artists": [
+        {
+          "name": "Chaude Chaleur",
+          "url": "https://open.spotify.com/artist/1mDSretn552shMdrXmhiuk"
+        }
+      ],
+      "duration_ms": 220448,
+      "name": "They/Them Summer",
+      "url": "https://open.spotify.com/track/6IcgYoQUJekZtAcobhgY19"
     },
     {
       "added_at": "2026-10-16 04:03:10",
@@ -1063,26 +1111,6 @@
     {
       "added_at": "2026-10-16 04:03:10",
       "album": {
-        "name": "Cycle d\u00e9licat (Deluxe)",
-        "url": "https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy"
-      },
-      "artists": [
-        {
-          "name": "Simon Lachance",
-          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
-        },
-        {
-          "name": "\u00c9mile Bourgault",
-          "url": "https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi"
-        }
-      ],
-      "duration_ms": 170065,
-      "name": "Astronaute - Deluxe",
-      "url": "https://open.spotify.com/track/56DBXuNndPOxNfVYmX7mew"
-    },
-    {
-      "added_at": "2026-10-16 04:03:10",
-      "album": {
         "name": "Fais comme si",
         "url": "https://open.spotify.com/album/0i6j55j1PGM7P7uTVSnSCP"
       },
@@ -1179,22 +1207,6 @@
     {
       "added_at": "2026-10-16 04:03:10",
       "album": {
-        "name": "Don't Be Funny Without Me",
-        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Otherwise, I'm Fine",
-      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
-    },
-    {
-      "added_at": "2026-10-16 04:03:10",
-      "album": {
         "name": "Courtside",
         "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
       },
@@ -1204,7 +1216,7 @@
           "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
         }
       ],
-      "duration_ms": 182961,
+      "duration_ms": 180578,
       "name": "Courtside",
       "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },

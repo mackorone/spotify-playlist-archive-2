@@ -1,12 +1,12 @@
 {
-  "description": "The cream of today's country crop. Cover: Miranda Lambert, Ella Langley",
-  "num_followers": 433872,
+  "description": "The cream of today's country crop. Cover: Megan Moroney",
+  "num_followers": 433918,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0cIEjNQYTM8FSMOEomNlq+v7xD",
+  "snapshot_id": "AAAAAFQfpj1UIFHSXpSOm8CZZWHavfhH",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:31",
@@ -47,6 +47,38 @@
     {
       "added_at": "2026-10-16 04:00:31",
       "album": {
+        "name": "Steel Town (Deluxe)",
+        "url": "https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "duration_ms": 256299,
+      "name": "Ain\u2019t Going Down (\u2018Til the Sun Comes Up)",
+      "url": "https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O"
+    },
+    {
+      "added_at": "2026-10-29 13:00:13",
+      "album": {
+        "name": "Steady Flame",
+        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 181677,
+      "name": "Steady Flame",
+      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
+    },
+    {
+      "added_at": "2026-10-16 04:00:31",
+      "album": {
         "name": "Crisco",
         "url": "https://open.spotify.com/album/5jsWuuGmdHB9QFHYfukCng"
       },
@@ -63,22 +95,6 @@
       "duration_ms": 249613,
       "name": "Snakeskin Boots",
       "url": "https://open.spotify.com/track/5pjlXLbWn4VzmLUepF7729"
-    },
-    {
-      "added_at": "2026-10-16 04:00:31",
-      "album": {
-        "name": "Steel Town (Deluxe)",
-        "url": "https://open.spotify.com/album/4XPpgtY2stYfvC9QpSVcEy"
-      },
-      "artists": [
-        {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
-        }
-      ],
-      "duration_ms": 256299,
-      "name": "Ain\u2019t Going Down (\u2018Til the Sun Comes Up)",
-      "url": "https://open.spotify.com/track/681XdgnL0vhBhNyDvIc58O"
     },
     {
       "added_at": "2026-10-16 04:00:31",
@@ -117,6 +133,22 @@
       "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
     },
     {
+      "added_at": "2026-10-29 13:00:13",
+      "album": {
+        "name": "Clean Slate",
+        "url": "https://open.spotify.com/album/6ipgg8Ox8wlY6YEIMyMhMD"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 181453,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/0bQ2vLgoYgLnBrt2jnnxL9"
+    },
+    {
       "added_at": "2026-10-22 13:00:15",
       "album": {
         "name": "My Kinda Love (from the Netflix Series \"Nobody Wants This\" Season 3)",
@@ -135,22 +167,6 @@
       "duration_ms": 220931,
       "name": "My Kinda Love (from the Netflix Series \"Nobody Wants This\" Season 3)",
       "url": "https://open.spotify.com/track/6LCGa3pc4syhpx1EvGeaGA"
-    },
-    {
-      "added_at": "2026-10-16 04:00:31",
-      "album": {
-        "name": "What Do I Do If You Don't",
-        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174470,
-      "name": "What Do I Do If You Don't",
-      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
     },
     {
       "added_at": "2026-10-16 04:00:31",
@@ -587,22 +603,6 @@
       "duration_ms": 189224,
       "name": "TAKES ME BACK",
       "url": "https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:31",
-      "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu"
     },
     {
       "added_at": "2026-10-16 04:00:31",

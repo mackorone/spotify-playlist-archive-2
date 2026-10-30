@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 270549,
+  "num_followers": 270531,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvISjM5r8VMuwLy84CU/uF7+EhF",
+  "snapshot_id": "AAAAADJdEMY77zBndX+FMiuDKSFLi0TM",
   "tracks": [
     {
       "added_at": "2025-12-17 22:42:18",
@@ -539,18 +539,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+      "duration_ms": 258332,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -571,22 +575,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Christmas With You",
-        "url": "https://open.spotify.com/album/2cWrkknTj4squbs2aANuHp"
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
         }
       ],
-      "duration_ms": 258332,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/0OF3lDc1c9Ws1WyElEUnnW"
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1x3pOVjZvQ5cj7bjCNpgBf"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 182788,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/45Fz5fmd0Iogz63iJ3kLV7"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Learning to Crawl (US Release)",
         "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 217733,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
-        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
-      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Merry Xmas Everybody",
         "url": "https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 218706,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 95760,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "thank you wisdom angel i love you",
         "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
       },
@@ -1191,18 +1207,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Holly Macve",
+          "url": "https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V"
+        },
+        {
+          "name": "Laura-Mary Carter",
+          "url": "https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ"
         }
       ],
-      "duration_ms": 95760,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
+      "duration_ms": 181464,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1239,26 +1259,6 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "We Should Be Together",
-        "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
-      },
-      "artists": [
-        {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "We Should Be Together",
-      "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
     }
   ],
   "unique_name": "Indie Christmas",

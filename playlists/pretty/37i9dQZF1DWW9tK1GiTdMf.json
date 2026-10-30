@@ -1,13 +1,29 @@
 {
-  "description": "musica per un autunno non proprio felice (blanco in cover)",
-  "num_followers": 42036,
+  "description": "musica per un autunno non proprio felice (naska in cover)",
+  "num_followers": 42034,
   "original_name": "sanguegiovane \ud83e\ude78",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGj6uj/pExkjpJc3TyA/jemY+qlq",
+  "snapshot_id": "AAAAAICLmp2MJFJq74OqN6kiSfzR+by8",
   "tracks": [
+    {
+      "added_at": "2026-10-26 14:52:31",
+      "album": {
+        "name": "Nascondino",
+        "url": "https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Nascondino",
+      "url": "https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq"
+    },
     {
       "added_at": "2026-10-15 22:02:42",
       "album": {
@@ -61,22 +77,6 @@
       "url": "https://open.spotify.com/track/3DQiZPCHXrJgRc7P5C1N4G"
     },
     {
-      "added_at": "2026-10-26 14:52:31",
-      "album": {
-        "name": "Nascondino",
-        "url": "https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Nascondino",
-      "url": "https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq"
-    },
-    {
       "added_at": "2026-10-15 22:02:42",
       "album": {
         "name": "2001",
@@ -107,6 +107,22 @@
       "duration_ms": 157794,
       "name": "Capricci",
       "url": "https://open.spotify.com/track/2VXgwSL3jCwYrnTh47mes8"
+    },
+    {
+      "added_at": "2026-10-29 23:02:19",
+      "album": {
+        "name": "ti regaler\u00f2 una spada",
+        "url": "https://open.spotify.com/album/6BZIF37S4Ulv8zRkIOKblP"
+      },
+      "artists": [
+        {
+          "name": "ex rave",
+          "url": "https://open.spotify.com/artist/3M70Keb49O0MudT6kEERrB"
+        }
+      ],
+      "duration_ms": 155111,
+      "name": "ti regaler\u00f2 una spada",
+      "url": "https://open.spotify.com/track/6hZESvGRaVBXa3xgDW1o2P"
     },
     {
       "added_at": "2026-10-15 22:02:42",
@@ -173,36 +189,20 @@
       "url": "https://open.spotify.com/track/2RkVikOyJYSK262ZmpwiYa"
     },
     {
-      "added_at": "2026-10-15 22:02:42",
+      "added_at": "2026-10-29 23:02:19",
       "album": {
-        "name": "CARNE",
-        "url": "https://open.spotify.com/album/4KEALu0U5LbcNJZYPPh81J"
+        "name": "HORROR VITA",
+        "url": "https://open.spotify.com/album/0sGUpEqcChROXrEvWXE9hV"
       },
       "artists": [
         {
-          "name": "Decrow",
-          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+          "name": "Your Grave",
+          "url": "https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm"
         }
       ],
-      "duration_ms": 177129,
-      "name": "CARNE",
-      "url": "https://open.spotify.com/track/7ocThvkFpzpiWO4yglc5fJ"
-    },
-    {
-      "added_at": "2026-10-15 22:02:42",
-      "album": {
-        "name": "CATTIVA ABITUDINE",
-        "url": "https://open.spotify.com/album/286MAYqWTy8ecDh1WaZkUB"
-      },
-      "artists": [
-        {
-          "name": "Knfuzed",
-          "url": "https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "CATTIVA ABITUDINE",
-      "url": "https://open.spotify.com/track/79BsbconiWd05XNfFT9Hne"
+      "duration_ms": 184241,
+      "name": "SOLO (con i mostri)",
+      "url": "https://open.spotify.com/track/7EZHWTB0SzNqVPMdwW1WxA"
     },
     {
       "added_at": "2026-10-15 22:02:42",
@@ -1623,26 +1623,6 @@
       "duration_ms": 156200,
       "name": "acqua santa",
       "url": "https://open.spotify.com/track/0Adf7j9EB2GOmjfPW71fPk"
-    },
-    {
-      "added_at": "2026-10-15 22:02:42",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/2rkvFaR8ETNXlPfurc17hb"
-      },
-      "artists": [
-        {
-          "name": "Fiks",
-          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
-        },
-        {
-          "name": "The\u00f8",
-          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
-        }
-      ],
-      "duration_ms": 163168,
-      "name": "First time (feat. The\u00f8)",
-      "url": "https://open.spotify.com/track/6PnMjjtegErJqSCBSQG6Jd"
     },
     {
       "added_at": "2026-10-15 22:02:42",

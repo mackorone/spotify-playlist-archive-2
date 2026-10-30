@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-84 songs - 6 hr 19 min
+85 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,11 @@
 | [Ijigen BIGBANG](https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j) | [Uzuki Shimamura \(CV: Ayaka Ohashi\)](https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj), [Shizuka Mogami \(CV: Azusa Tadokoro\)](https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l), [KOGANE TSUKIOKA \(CV: Karin Isobe\)](https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1), [Chika Takami \(CV: Anju Inami\)](https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5), [Ayumu Uehara \(CV: Aguri Onishi\)](https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF), [Kanon Shibuya \(CV: Sayuri Date\)](https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR), [Kaho Hinoshita \(CV: Nozomi Nirei\)](https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy) | [Ijigen BIGBANG](https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH) | 5:16 | 2023-11-07 | 2024-04-19 |
 | [INNOCENT BIRD](https://open.spotify.com/track/69n3yUeRmkVZpZuyiZcXgR) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [GALAXY HidE and SeeK](https://open.spotify.com/album/4OJGTVA3WqZpl8cUK1zVuq) | 3:44 | 2023-06-13 |  |
 | [KA\-GA\-YA\-KI\-RA\-RI\-RA \(feat\. 初音ミク\)](https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 3:20 | 2022-10-04 | 2023-10-18 |
+| [KU\-RU\-KU\-RU Cruller! \- Rockabilly Ver.](https://open.spotify.com/track/5tS1J8iSdIOx0dJFCbJ9Se) | [Aqours](https://open.spotify.com/artist/0skYnmmPdMqEnyCYuvRmVe) | [The Blue Swell](https://open.spotify.com/album/6uivjYxBE4O20xklCg8FhY) | 4:07 | 2024-12-17 |  |
 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 | 2022-08-02 |  |
 | [Love is all, I sing love is all!](https://open.spotify.com/track/4FHxcdoJ0KfhQJUZz92zTF) | [小原鞠莉 \(CV.鈴木愛奈\) from Aqours](https://open.spotify.com/artist/5SLHumqNgWjbkFS95wlRGr) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Ohara Mari](https://open.spotify.com/album/4tZnuXnlf0Lcn8dMRHnL9a) | 5:10 | 2022-08-02 | 2025-08-22 |
 | [Main theme of Aqours 5th anniversary!!](https://open.spotify.com/track/3edVZvuk2Rm6YvbJpAyfki) | [浦の星交響楽団](https://open.spotify.com/artist/4GYeRiLpnmst5hKbKxeoBE) | [smile smile ship Start!](https://open.spotify.com/album/0oOZ8lcPPmAPo4iaPAnQOe) | 3:30 | 2022-08-02 | 2026-08-15 |
-| [Main theme of Lovelive! Sunshine!!](https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 | 2022-08-02 |  |
+| [Main theme of Lovelive! Sunshine!!](https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 | 2022-08-02 | 2026-10-30 |
 | [Misty Frosty Love](https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O) | [デュオトリオコレクション VOL.2 ～WINTER VACATION～](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:56 | 2022-08-02 |  |
 | [MY舞☆TONIGHT](https://open.spotify.com/track/0ldfDof0ijqXrfmbJmUpvo) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [MY舞☆TONIGHT/MIRACLE WAVE](https://open.spotify.com/album/3jSoK36oKfUXX7jvacGe2Z) | 4:25 | 2023-11-07 | 2024-10-25 |
 | [Never giving up!](https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92) | [高海千歌 \(CV.伊波杏樹\) from Aqours](https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno) | [LoveLive! Sunshine!! Takami Chika First Solo Concert Album 〜One More Sunshine Story〜](https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp) | 3:54 | 2022-08-02 | 2026-05-15 |

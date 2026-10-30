@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,566 likes - 200 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,605 likes - 200 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 199 | [A New Dawn](https://open.spotify.com/track/7qWzWxAIwZQxWA8AvhkOak) | [Slow Seconds](https://open.spotify.com/artist/6J3b3sOc6i6mi68u8SlN6l) | [A New Dawn](https://open.spotify.com/album/6RkgyMHBsXCx8sMVqffyxi) | 2:02 |
 | 200 | [Searching for Antarctica](https://open.spotify.com/track/34cI9Qb1fmz2eeckSmK0UC) | [Equilibrium](https://open.spotify.com/artist/59jQO7J3QjAagf5hmJDc6A) | [Searching for Antarctica](https://open.spotify.com/album/5dImHr9DzjaIrvb1wAr4DX) | 2:37 |
 
-Snapshot ID: `AAAAACVxGj9v0PHy+Gn4UU6Kp9gF34QJ`
+Snapshot ID: `AAAAAAXYXTHfk52+cybqrcMJNMsCkRjV`

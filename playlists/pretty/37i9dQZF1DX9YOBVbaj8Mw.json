@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20405,
+  "num_followers": 20404,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYLpF3ie/vYOlgXSjeLgS13z5b1",
+  "snapshot_id": "AAAAAAzY2L6gPrIUQEGdRg64FdD+GxpO",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Obywatelka K.L.",
+        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Sexy doll",
+      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Dziwna (feat. Artur Rojek)",
         "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 161724,
       "name": "Dziwna (feat. Artur Rojek)",
       "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Obywatelka K.L.",
-        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Sexy doll",
-      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Coma Live Pol'and'Rock Festival 2024",
         "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 207232,
       "name": "ZE SPRITE'EM",
       "url": "https://open.spotify.com/track/53c2HIUt4lNDN1W6tVrKBu"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fly High-Fi!",
-        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
-      },
-      "artists": [
-        {
-          "name": "Vavamuffin",
-          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "Dubbrat",
-      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
         "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 313226,
       "name": "KREW Z KRWI",
       "url": "https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Fly High-Fi!",
+        "url": "https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF"
+      },
+      "artists": [
+        {
+          "name": "Vavamuffin",
+          "url": "https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Dubbrat",
+      "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Tequila Songs & Desert Winds",
-        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
+        "name": "Romeo i Julia \u017cyj\u0105",
+        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
       },
       "artists": [
         {
-          "name": "Corruption",
-          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
+          "name": "Arek Jakubik",
+          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
         }
       ],
-      "duration_ms": 218193,
-      "name": "Tequila, Mezcal",
-      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
+      "duration_ms": 333250,
+      "name": "Sonda uliczna",
+      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Romeo i Julia \u017cyj\u0105",
-        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
-      },
-      "artists": [
-        {
-          "name": "Arek Jakubik",
-          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
-        }
-      ],
-      "duration_ms": 333250,
-      "name": "Sonda uliczna",
-      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "something holy?",
         "url": "https://open.spotify.com/album/2TRJ2XhmivmwX1maG1a08k"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 278771,
       "name": "i wrote a bad poem",
       "url": "https://open.spotify.com/track/7eOYJ0GY3meZ0GJ7Rkb5DL"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Tequila Songs & Desert Winds",
+        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
+      },
+      "artists": [
+        {
+          "name": "Corruption",
+          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Tequila, Mezcal",
+      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Looking Ahead",
-        "url": "https://open.spotify.com/album/60txM9aYiGsMyhNvIIOdB9"
+        "name": "Fryderyk LIS",
+        "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
       },
       "artists": [
         {
-          "name": "Alan Balcerowski Quintet",
-          "url": "https://open.spotify.com/artist/3HaJFX15XfR5A076i6H2ug"
+          "name": "LIS",
+          "url": "https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju"
+        },
+        {
+          "name": "Zuzanna Malisz",
+          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
         }
       ],
-      "duration_ms": 426280,
-      "name": "Give It a Rest",
-      "url": "https://open.spotify.com/track/1z2mOmCdvmLRkdBpj5QWVZ"
+      "duration_ms": 251447,
+      "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
+      "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
     }
   ],
   "unique_name": "Fryderyk 2026",

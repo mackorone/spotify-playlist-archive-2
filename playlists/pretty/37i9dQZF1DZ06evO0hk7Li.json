@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40398,
+  "num_followers": 40402,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADk1W4c7e7MnSBf6eEsrfqr",
+  "snapshot_id": "at/pgAAAAACCx2o1yqi98l4+A8almZxD",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Chainsmoking",
+      "url": "https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dotr",
         "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 219208,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Chainsmoking",
-      "url": "https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF"
     },
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Unknown (To You)",
+      "url": "https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blame",
         "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 251527,
       "name": "Blame",
       "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Unknown (To You)",
-      "url": "https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/6DcKXFtws2dtfwfhk15Bqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -267,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
       },
       "artists": [
         {
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 297026,
-      "name": "Slow Up",
-      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
+      "duration_ms": 210000,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/6DcKXFtws2dtfwfhk15Bqk"
     },
     {
       "added_at": null,
@@ -299,6 +283,22 @@
       "duration_ms": 233497,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 297026,
+      "name": "Slow Up",
+      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
     },
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
         }
       ],
-      "duration_ms": 197701,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
+      "duration_ms": 241573,
+      "name": "Kumbaya (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
     },
     {
       "added_at": null,
@@ -507,28 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        }
-      ],
-      "duration_ms": 241573,
-      "name": "Kumbaya (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+      "duration_ms": 197701,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
     },
     {
       "added_at": null,
@@ -583,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
     },
     {
       "added_at": null,
@@ -619,6 +599,26 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
       "duration_ms": 250826,
       "name": "Be Good To Me (feat. Seinabo Sey)",
       "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 94250,
+      "name": "Little Me",
+      "url": "https://open.spotify.com/track/2BMFAD4WXacofHYUrRwSUW"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 94250,
-      "name": "Little Me",
-      "url": "https://open.spotify.com/track/2BMFAD4WXacofHYUrRwSUW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 293244,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limerence",
         "url": "https://open.spotify.com/album/2M9nuz1rCUiuVYdA25of8F"
       },
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 220906,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
     },
     {
       "added_at": null,
@@ -855,6 +839,38 @@
       "duration_ms": 231213,
       "name": "Only Way Is Up",
       "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 160590,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 155624,
       "name": "Miles",
       "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder: Book I",
-        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 160590,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/2A9Pvf7B26rVgg6zE2rQ6v"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover: Chisway",
-  "num_followers": 45662,
+  "num_followers": 45782,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3pE320hEQmy6t/WRjoYmK9GTea",
+  "snapshot_id": "AAAAALcrha1/eqT5tF8KDRBnFDQOGz8e",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:01",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-10-23 00:01:01",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2026-10-23 00:01:01",
+      "album": {
         "name": "Chanel (feat. Asake)",
         "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 150260,
       "name": "Chanel (feat. Asake)",
       "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:01",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2026-10-23 00:01:01",
@@ -543,22 +543,22 @@
     {
       "added_at": "2026-10-23 00:01:01",
       "album": {
-        "name": "treat u right",
-        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 177565,
-      "name": "treat u right",
-      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
+      "duration_ms": 136036,
+      "name": "With You (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
     },
     {
       "added_at": "2026-10-23 00:01:01",
@@ -587,22 +587,22 @@
     {
       "added_at": "2026-10-23 00:01:01",
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 136036,
-      "name": "With You (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "added_at": "2026-10-23 00:01:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-10-23 00:01:01",
       "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
-    },
-    {
-      "added_at": "2026-10-23 00:01:01",
-      "album": {
         "name": "My Eyes Only - Flashback",
         "url": "https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 131439,
       "name": "J'PENSE \u00c0 TOI",
       "url": "https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx"
+    },
+    {
+      "added_at": "2026-10-23 00:01:01",
+      "album": {
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
     },
     {
       "added_at": "2026-10-23 00:01:01",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-10-23 00:01:01",
       "album": {
+        "name": "HateLove",
+        "url": "https://open.spotify.com/album/4cYksZWBKXTc7cTLaTYBwR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 175814,
+      "name": "CA$H",
+      "url": "https://open.spotify.com/track/1n4i6Wz1W0QIVy0XWjWf0p"
+    },
+    {
+      "added_at": "2026-10-23 00:01:01",
+      "album": {
         "name": "Bandela",
         "url": "https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1"
       },
@@ -1583,38 +1599,22 @@
     {
       "added_at": "2026-10-23 00:01:01",
       "album": {
-        "name": "HateLove",
-        "url": "https://open.spotify.com/album/4cYksZWBKXTc7cTLaTYBwR"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/1RtuCvuc1k2s9AeXYFiiDP"
       },
       "artists": [
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 175814,
-      "name": "CA$H",
-      "url": "https://open.spotify.com/track/1n4i6Wz1W0QIVy0XWjWf0p"
-    },
-    {
-      "added_at": "2026-10-23 00:01:01",
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "R. City",
+          "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+      "duration_ms": 236133,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/54PyFCyGbVvr6OgENl8QFf"
     }
   ],
   "unique_name": "Global Afrobeats",

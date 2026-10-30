@@ -1,12 +1,12 @@
 {
   "description": "Zo klinkt de herfst van 2026. ",
-  "num_followers": 687343,
+  "num_followers": 687274,
   "original_name": "Herfst 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMvp/cc7m2aPCn3ac1SFVaUNRZVL",
+  "snapshot_id": "AAAAAEgVs2j9aD99XXlwOxa9Qn83n56p",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:25",
@@ -59,6 +59,22 @@
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "added_at": "2026-10-28 14:00:01",
+      "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -153,6 +169,22 @@
       "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
     },
     {
+      "added_at": "2026-10-28 14:00:01",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 222478,
+      "name": "Lasso The Moon",
+      "url": "https://open.spotify.com/track/0ibJ83Ei65gTmiV0aHZg47"
+    },
+    {
       "added_at": "2026-10-15 22:00:25",
       "album": {
         "name": "Note To Self",
@@ -185,6 +217,22 @@
       "url": "https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii"
     },
     {
+      "added_at": "2026-10-28 14:00:01",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/1mEoulfEor7JTmthXbQiQN"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 250015,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/0mG4lEdqrxRj1B0KmpEffX"
+    },
+    {
       "added_at": "2026-10-15 22:00:25",
       "album": {
         "name": "Sorry Papi",
@@ -203,6 +251,22 @@
       "duration_ms": 170671,
       "name": "Sorry Papi",
       "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+    },
+    {
+      "added_at": "2026-10-22 22:00:54",
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 207984,
+      "name": "Feels Pt. 2",
+      "url": "https://open.spotify.com/track/3Qa2HE3GiMHIAvXIOosBiA"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -275,6 +339,22 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
+        "name": "Don't Forget (About Me)",
+        "url": "https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 171454,
+      "name": "Don't Forget (About Me)",
+      "url": "https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK"
+    },
+    {
+      "added_at": "2026-10-15 22:00:25",
+      "album": {
         "name": "Edge of Desire",
         "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
       },
@@ -335,22 +415,6 @@
       "duration_ms": 146086,
       "name": "Bare Minimum (Starboy)",
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
-    },
-    {
-      "added_at": "2026-10-22 22:00:54",
-      "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 207984,
-      "name": "Feels Pt. 2",
-      "url": "https://open.spotify.com/track/3Qa2HE3GiMHIAvXIOosBiA"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -499,18 +563,18 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
-        "name": "Don't Forget (About Me)",
-        "url": "https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc"
+        "name": "The Sun Will Never Settle",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 171454,
-      "name": "Don't Forget (About Me)",
-      "url": "https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK"
+      "duration_ms": 148000,
+      "name": "The Sun Will Never Settle",
+      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -565,20 +629,24 @@
       "url": "https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3"
     },
     {
-      "added_at": "2026-10-15 22:00:25",
+      "added_at": "2026-10-28 14:00:01",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 297262,
-      "name": "Willing and Able",
-      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -603,18 +671,18 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
-        "name": "The Sun Will Never Settle",
-        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
       "artists": [
         {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 148000,
-      "name": "The Sun Will Never Settle",
-      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
+      "duration_ms": 297262,
+      "name": "Willing and Able",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -751,22 +819,6 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
         "name": "Incredible",
         "url": "https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA"
       },
@@ -779,6 +831,22 @@
       "duration_ms": 177120,
       "name": "So Incredible",
       "url": "https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq"
+    },
+    {
+      "added_at": "2026-10-28 14:00:01",
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/6tXhwhNRi6rtIvbdvofSsD"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 170170,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/1OKcjiHEQK5ZAlI8XtAWOg"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -987,6 +1055,22 @@
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
+    },
+    {
+      "added_at": "2026-10-15 22:00:25",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 195285,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -1543,34 +1627,6 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
-        "name": "Se Le Ve",
-        "url": "https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Topboy TGR",
-          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Se Le Ve",
-      "url": "https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -1623,66 +1679,6 @@
       "duration_ms": 114103,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1nZz6nJgjcinLKZ40Ulrjj"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "PASSENGER",
-        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 159771,
-      "name": "PASSENGER",
-      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "Heartbreak Melody",
-        "url": "https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "FAANGS",
-          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
-        }
-      ],
-      "duration_ms": 191830,
-      "name": "Heartbreak Melody",
-      "url": "https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "One Night In Mykonos",
-        "url": "https://open.spotify.com/album/4BOGe2TvivqAd2J49tZPlJ"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        },
-        {
-          "name": "Toby Rose",
-          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
-        },
-        {
-          "name": "One Trick Pony",
-          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "One Night In Mykonos",
-      "url": "https://open.spotify.com/track/1yfKPKAFn1T0WyhsJr1835"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -1755,22 +1751,6 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
-      },
-      "artists": [
-        {
-          "name": "Paul Keen",
-          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "High",
-      "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
     },
     {
       "added_at": "2026-10-15 22:00:25",

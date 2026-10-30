@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7p9vfYXtARc.md) - [plain]
 
 > The official music from the Battlefield franchise
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,167 likes - 65 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,241 likes - 65 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7p9vfYXtARc.md) - [plain]
 | 64 | [Snowy Mountains](https://open.spotify.com/track/6aeyHJKrtWJsTLnc50ruwV) | [Mikael Karlsson](https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx) | [Battlefield: Bad Company 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Ng1Pl9BTKiPb8dPwzMpyY) | 3:03 |
 | 65 | [Battlefield V Legacy Theme](https://open.spotify.com/track/3LBzYSJzJVCyff1bLBOzcr) | [Johan Söderqvist](https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr), [Patrik Andrén](https://open.spotify.com/artist/6RgbIwWiBcHtDEk77uNjrA) | [Battlefield V \(Original Soundtrack\)](https://open.spotify.com/album/4SAV75H61yWLg3tiIwM2FX) | 3:35 |
 
-Snapshot ID: `AAAAAOztJ+YcAAjdwDMVuE47psKiRvsU`
+Snapshot ID: `AAAAAM18mk5HS1VTLl646pVClD4msGqx`

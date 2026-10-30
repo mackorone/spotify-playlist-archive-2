@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-724 songs - 1 day 16 hr 9 min
+725 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Thank You Lord](https://open.spotify.com/track/3bzFiK4uI7V9LBpZYJXXyc) | [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Thank You Lord](https://open.spotify.com/album/2x3ppzGnZuZQVEbSelnN4g) | 3:09 | 2025-05-30 | 2025-06-13 |
 | [Thankful](https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Thankful](https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh) | 2:44 | 2024-08-09 | 2024-10-25 |
 | [Thankful](https://open.spotify.com/track/4cl4l1Jmxg8NOAU2i4jKH0) | [Teddy krane](https://open.spotify.com/artist/22Qjyplj5Bih1Q4jpU0Ina) | [Thankful](https://open.spotify.com/album/3yViS17TbS3XSYrMm312jh) | 3:02 | 2024-11-22 | 2025-01-10 |
+| [THE DAY](https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [AFFIRMED](https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD) | 2:35 | 2026-10-30 |  |
 | [The Good News: TGN](https://open.spotify.com/track/1ZWqe0v7n342eT9fITFGb6) | [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Charis\-Rehoboth](https://open.spotify.com/artist/4oMf6vCW0Qe2xL4dNAu6yR), [Tobi Kay](https://open.spotify.com/artist/6PXX89E2IHh8zpEZ7o5129) | [The Good News: TGN](https://open.spotify.com/album/3fWacQIZnUl4SnAth4v9DO) | 3:21 | 2025-12-05 | 2025-12-12 |
 | [The Life](https://open.spotify.com/track/1Wp8BKu4JsFvUfHhyxaThS) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [The Life](https://open.spotify.com/album/0r83zIYgyDomUxX8zOTqPb) | 2:45 | 2024-07-19 | 2024-10-04 |
 | [The Light](https://open.spotify.com/track/6KQTXAGQoSxHMjd9xXIEtw) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Kingdom Mission](https://open.spotify.com/album/46hmWwofq4WLReMxBz5Ynw) | 1:37 | 2024-01-05 | 2024-02-02 |

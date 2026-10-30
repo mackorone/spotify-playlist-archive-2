@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Curated by human Spotify editors. ",
-  "num_followers": 133862,
+  "num_followers": 133927,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMstZRf06iGf6oiMlEiaa1yQC0iI",
+  "snapshot_id": "AAAAALuDbjI1gI0qASBwauf+A21zo9r+",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:40",
@@ -27,6 +27,22 @@
       "duration_ms": 348186,
       "name": "Like Pictures Part #2",
       "url": "https://open.spotify.com/track/2V9sKBuHEaw3sKuHOBl9zp"
+    },
+    {
+      "added_at": "2026-10-30 04:00:32",
+      "album": {
+        "name": "Steep Stims II",
+        "url": "https://open.spotify.com/album/067da27Ybeqaw6BlLcHwJv"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 141594,
+      "name": "Naiveventide",
+      "url": "https://open.spotify.com/track/6ESUwkFENvwh4GvKZHZPh1"
     },
     {
       "added_at": "2026-10-16 04:01:40",
@@ -81,6 +97,22 @@
       "url": "https://open.spotify.com/track/1UArL3p8ikilNaCMousXZ8"
     },
     {
+      "added_at": "2026-10-30 04:00:32",
+      "album": {
+        "name": "Cutting The Wings Off Of A Dove",
+        "url": "https://open.spotify.com/album/5eEwUvYLguvKORLQR1TcxQ"
+      },
+      "artists": [
+        {
+          "name": "Conrad Graham",
+          "url": "https://open.spotify.com/artist/4VyOhSga0eal2KlWPpiSlW"
+        }
+      ],
+      "duration_ms": 263312,
+      "name": "Cutting The Wings Off Of A Dove",
+      "url": "https://open.spotify.com/track/31IZ1UnoDP6ek8orC8UUWR"
+    },
+    {
       "added_at": "2026-10-16 04:01:40",
       "album": {
         "name": "Ebb + Flow",
@@ -129,6 +161,22 @@
       "url": "https://open.spotify.com/track/1ddZqlrZuRnfwPk0bw5iRg"
     },
     {
+      "added_at": "2026-10-30 04:00:32",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/0ljDc9ARGaWEzJxumCbPUQ"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 333853,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/48zEPitS2TVKU3MOZLj67Y"
+    },
+    {
       "added_at": "2026-10-16 04:01:40",
       "album": {
         "name": "OTONOMA",
@@ -159,6 +207,22 @@
       "duration_ms": 411500,
       "name": "Abiotic Factors",
       "url": "https://open.spotify.com/track/67zoX3gvQ1NRMAh7gcYwAU"
+    },
+    {
+      "added_at": "2026-10-30 04:00:32",
+      "album": {
+        "name": "a99",
+        "url": "https://open.spotify.com/album/6HaHlYbxc1nf6SnKTKqoVJ"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 270759,
+      "name": "a99",
+      "url": "https://open.spotify.com/track/2U2kcvgnU40L9WhyzOf6PW"
     },
     {
       "added_at": "2026-10-16 04:01:40",
@@ -2107,22 +2171,6 @@
     {
       "added_at": "2026-10-16 04:01:40",
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 531426,
-      "name": "#7",
-      "url": "https://open.spotify.com/track/3mqHljnbhJx3CsoJ2c7MSK"
-    },
-    {
-      "added_at": "2026-10-16 04:01:40",
-      "album": {
         "name": "Purranormal Cativities",
         "url": "https://open.spotify.com/album/5ngIkX0ora3vammwGvKDsR"
       },
@@ -2255,22 +2303,6 @@
     {
       "added_at": "2026-10-16 04:01:40",
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 414706,
-      "name": "#9",
-      "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
-    },
-    {
-      "added_at": "2026-10-16 04:01:40",
-      "album": {
         "name": "no floor",
         "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
       },
@@ -2303,22 +2335,6 @@
       "duration_ms": 433010,
       "name": "Plastic Glacier",
       "url": "https://open.spotify.com/track/7gvKRnMCQUpZ0fLPWKUutw"
-    },
-    {
-      "added_at": "2026-10-16 04:01:40",
-      "album": {
-        "name": "Xerrox Vol. 1 (reMASTER)",
-        "url": "https://open.spotify.com/album/3dIwxVTTOoVCLU2tQ43XCS"
-      },
-      "artists": [
-        {
-          "name": "Alva Noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 677840,
-      "name": "Haliod Xerrox Copy 3 (Paris) - reMASTER",
-      "url": "https://open.spotify.com/track/7aDqRNxPi6KkEN46MHMk5P"
     },
     {
       "added_at": "2026-10-16 04:01:40",
@@ -2427,26 +2443,6 @@
       "duration_ms": 461056,
       "name": "part ii - palace / illusion",
       "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
-    },
-    {
-      "added_at": "2026-10-16 04:01:40",
-      "album": {
-        "name": "BLCK SUN",
-        "url": "https://open.spotify.com/album/3xTbtTM3BSRIGxzWSMaEpc"
-      },
-      "artists": [
-        {
-          "name": "1100",
-          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
-        },
-        {
-          "name": "AMIANGELIKA",
-          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
-        }
-      ],
-      "duration_ms": 72296,
-      "name": "Outer Currents",
-      "url": "https://open.spotify.com/track/1ey3a7YdSqk6jMPKoqaWSB"
     },
     {
       "added_at": "2026-10-16 04:01:40",

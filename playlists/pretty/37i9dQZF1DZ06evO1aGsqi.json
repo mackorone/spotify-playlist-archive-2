@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16621,
+  "num_followers": 16630,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAC4hxRCC1IdNaupMc2ZUWvT",
+  "snapshot_id": "at/pgAAAAABgGO1p4w3uU+nUJAjyPDwj",
   "tracks": [
     {
       "added_at": null,
@@ -292,21 +292,13 @@
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 326909,
-      "name": "When I\u2019m Home",
-      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
+      "duration_ms": 111029,
+      "name": "Another Name",
+      "url": "https://open.spotify.com/track/0KebKJIyG9EzIaAldHPaRM"
     },
     {
       "added_at": null,
@@ -320,9 +312,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Groves",
-      "url": "https://open.spotify.com/track/1hAiPMWwuIqPDPu6UzFXMe"
+      "duration_ms": 214093,
+      "name": "A Lowly Shoe Salesman",
+      "url": "https://open.spotify.com/track/7nYZlOq4JtGeF9fs8Zs66j"
     },
     {
       "added_at": null,
@@ -376,13 +368,21 @@
       },
       "artists": [
         {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 111029,
-      "name": "Another Name",
-      "url": "https://open.spotify.com/track/0KebKJIyG9EzIaAldHPaRM"
+      "duration_ms": 326909,
+      "name": "When I\u2019m Home",
+      "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 214093,
-      "name": "A Lowly Shoe Salesman",
-      "url": "https://open.spotify.com/track/7nYZlOq4JtGeF9fs8Zs66j"
+      "duration_ms": 183413,
+      "name": "Groves",
+      "url": "https://open.spotify.com/track/1hAiPMWwuIqPDPu6UzFXMe"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 93603,
-      "name": "Rotta",
-      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tenet (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 316430,
       "name": "WINDMILLS",
       "url": "https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 93603,
+      "name": "Rotta",
+      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
     },
     {
       "added_at": null,

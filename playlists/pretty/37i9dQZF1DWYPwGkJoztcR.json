@@ -1,12 +1,12 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 398576,
+  "num_followers": 398592,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmqYnc5tgflcdmyTkWGsnouFMDI",
+  "snapshot_id": "AAAAAKVfLtvoATILWI1tNhuPG68BfClu",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:36",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
         }
       ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+      "duration_ms": 203264,
+      "name": "Last Goodbyes",
+      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Last Goodbyes",
-        "url": "https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk"
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
       "artists": [
         {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 203264,
-      "name": "Last Goodbyes",
-      "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -271,34 +271,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+      "duration_ms": 237000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -319,6 +303,22 @@
       "duration_ms": 228422,
       "name": "Call Me When You Get In",
       "url": "https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189136,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189136,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/5kIaUsVuxXBXZC5tBlzhPN"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        },
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Bigger Picture",
         "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
       },
@@ -463,22 +483,6 @@
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Guy From Outer Space",
-        "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
-      },
-      "artists": [
-        {
-          "name": "FENNE",
-          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
-        }
-      ],
-      "duration_ms": 163176,
-      "name": "Guy From Outer Space",
-      "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -499,22 +503,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/5kIaUsVuxXBXZC5tBlzhPN"
+        "name": "Guy From Outer Space",
+        "url": "https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        },
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+          "name": "FENNE",
+          "url": "https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo"
         }
       ],
-      "duration_ms": 236906,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD"
+      "duration_ms": 163176,
+      "name": "Guy From Outer Space",
+      "url": "https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 227408,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Morning Dawns Again",
         "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 238699,
       "name": "Morning Dawns Again",
       "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 227408,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "Same Heart",
+        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "Same Heart",
+      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 186079,
       "name": "Walls",
       "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Same Heart",
-        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
-      },
-      "artists": [
-        {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Same Heart",
-      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
       },
       "artists": [
         {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
         }
       ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
+      "duration_ms": 194675,
+      "name": "Last Forever - Acoustic",
+      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
       "artists": [
         {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 194675,
-      "name": "Last Forever - Acoustic",
-      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
         "name": "Save It For Later",
         "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
@@ -1003,6 +1019,22 @@
       "duration_ms": 208575,
       "name": "Not The One",
       "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1027,50 +1059,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
       },
       "artists": [
         {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
         }
       ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 245562,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
       },
       "artists": [
         {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+        "name": "I Wish It Was Me",
+        "url": "https://open.spotify.com/album/3YhWKkSuaPObtp05eAyM37"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
         }
       ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+      "duration_ms": 241456,
+      "name": "I Wish It Was Me",
+      "url": "https://open.spotify.com/track/38OxCvP1WuCYg9W1V4461M"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "I Wish It Was Me",
-        "url": "https://open.spotify.com/album/3YhWKkSuaPObtp05eAyM37"
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
       "artists": [
         {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 241456,
-      "name": "I Wish It Was Me",
-      "url": "https://open.spotify.com/track/38OxCvP1WuCYg9W1V4461M"
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
-      },
-      "artists": [
-        {
-          "name": "Sisy Fos",
-          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
-        }
-      ],
-      "duration_ms": 229347,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
+      },
+      "artists": [
+        {
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
+        }
+      ],
+      "duration_ms": 229347,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Hunter",
-        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "For A Minute",
         "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 215514,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
     },
     {
       "added_at": "2026-10-15 22:00:36",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-10-15 22:00:36",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Cape Forestier",
-      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
-    },
-    {
-      "added_at": "2026-10-15 22:00:36",
-      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 179054,
       "name": "Company Store",
       "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+    },
+    {
+      "added_at": "2026-10-15 22:00:36",
+      "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
     },
     {
       "added_at": "2026-10-15 22:00:36",

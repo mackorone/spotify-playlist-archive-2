@@ -198,7 +198,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 210499,
       "name": "B\u00c9SAME",
       "url": "https://open.spotify.com/track/3KlTDGWYHS5usD0EYYDeDo"
@@ -1346,6 +1346,28 @@
       "duration_ms": 226568,
       "name": "NO VOY A ODIARTE",
       "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
+    },
+    {
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250394,
+      "name": "OJITOS PERSAS",
+      "url": "https://open.spotify.com/track/3Wl5npqIERMVWTF5EySBOA"
     },
     {
       "album": {

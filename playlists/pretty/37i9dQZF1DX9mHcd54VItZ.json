@@ -1,12 +1,12 @@
 {
   "description": "The best new and classic South African Rock. Cover: Spoegwolf",
-  "num_followers": 28820,
+  "num_followers": 28830,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALySaAVr+H1La1egYDLmd45Ej6wd",
+  "snapshot_id": "AAAAAABQcTCTdOqeNCeNEaRfWGmQ2kav",
   "tracks": [
     {
       "added_at": "2026-10-16 08:01:36",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "duration_ms": 228804,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "F all ur Friends",
         "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 180011,
       "name": "Pikkewynstraat",
       "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "U Wanna?",
-        "url": "https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g"
-      },
-      "artists": [
-        {
-          "name": "Coasters",
-          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
-        }
-      ],
-      "duration_ms": 228804,
-      "name": "U Wanna?",
-      "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
     },
     {
       "added_at": "2026-08-27 22:01:29",

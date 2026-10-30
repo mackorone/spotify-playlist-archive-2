@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,252 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,356 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
 | 100 | [To The Sea](https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn) | [Jesse Taylor](https://open.spotify.com/artist/1xHNZLqKxllolDgthwlYbW) | [To The Sea](https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN) | 2:31 |
 
-Snapshot ID: `AAAAAD//cLzF+qigUvxiY3xBfzh4SPp2`
+Snapshot ID: `AAAAALi2ALf39voNMdgVGY+Bjw+q07VB`

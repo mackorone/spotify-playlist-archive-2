@@ -1,12 +1,12 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123592,
+  "num_followers": 123587,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMshgi24xumqA81Xg+hEHLxvyqDL",
+  "snapshot_id": "AAAAALAngnQaNMcoOZ2ZrJHGmZhpjt3m",
   "tracks": [
     {
       "added_at": "2026-10-19 16:00:13",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "i want war (BUT I NEED PEACE)",
+      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "i want war (BUT I NEED PEACE)",
-      "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
         "name": "Sweet Time",
         "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "Rose Rouge",
+        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 357960,
+      "name": "Rose Rouge",
+      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 251028,
       "name": "Late Night Feelings (feat. Lykke Li)",
       "url": "https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
-        "name": "Rose Rouge",
-        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 357960,
-      "name": "Rose Rouge",
-      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
-        "name": "Catch n' Release",
-        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+        "name": "Late Night Boogie",
+        "url": "https://open.spotify.com/album/2FpLY1mr3pzDju1ujqRJbA"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Hot Toddy",
+          "url": "https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW"
         }
       ],
-      "duration_ms": 167287,
-      "name": "Red Wine Holiday",
-      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
+      "duration_ms": 393666,
+      "name": "Down to Love",
+      "url": "https://open.spotify.com/track/1WJ96y5wT3gQdrDGXEU2ZP"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

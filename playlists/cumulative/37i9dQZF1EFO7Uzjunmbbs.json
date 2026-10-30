@@ -2674,10 +2674,28 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 205838,
       "name": "Play It by Heart",
       "url": "https://open.spotify.com/track/0NHoH0rIJkdS0WfH5l9CsI"
+    },
+    {
+      "album": {
+        "name": "Play It by Heart",
+        "url": "https://open.spotify.com/album/0CVEqKSdls4EYyZqtY96hJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205838,
+      "name": "Play It by Heart",
+      "url": "https://open.spotify.com/track/3PN9O9A0Mc6EMo7RyuyP50"
     },
     {
       "album": {

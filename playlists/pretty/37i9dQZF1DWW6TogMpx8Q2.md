@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Gareth.T
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,480 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,479 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 99 | [時辰未到](https://open.spotify.com/track/1nDmW1RYXrQmaM7JXcWAXG) | [Pakho Chau](https://open.spotify.com/artist/38t0Qk7AJg7YdrXmOC6TH1) | [時辰未到](https://open.spotify.com/album/5UqmcsRhJIr8uJzS03WDAj) | 4:28 |
 | 100 | [限量版](https://open.spotify.com/track/3sq56ILg4hSfVoz1Ypkaqy) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [限量版](https://open.spotify.com/album/0VgmIDyEqPnJGcCHLrdShB) | 4:12 |
 
-Snapshot ID: `AAAAAAKbKfdSGj/Yjxy8Sfs5attRYvUX`
+Snapshot ID: `AAAAAF/C+uFXizcJpmEyeg6+ynpwgG67`

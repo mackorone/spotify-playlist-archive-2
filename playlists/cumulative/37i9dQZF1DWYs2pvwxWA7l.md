@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover: Chella
 
-873 songs - 1 day 20 hr 2 min
+874 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 | 2024-10-18 | 2024-11-16 |
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 | 2023-05-05 |
 | [5AM](https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [5AM](https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN) | 3:01 | 2026-08-14 | 2026-09-25 |
+| [5am in Paris](https://open.spotify.com/track/0ZbFZwQD4tCeJd6aj5URJ1) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [5am in Paris](https://open.spotify.com/album/7tA8uKGR4lF3HJQ10sFDSP) | 1:53 | 2026-10-23 |  |
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-07-28 | 2022-08-23 |
 | [A Lot \(with Victony\)](https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [TRINITY](https://open.spotify.com/album/0BbA1RZELLNCFtzRkEEkyQ) | 2:41 | 2025-11-07 | 2026-01-23 |
 | [Abeg](https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 2:39 | 2021-11-25 | 2022-03-18 |
@@ -67,9 +68,9 @@
 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 | 2024-09-20 | 2025-01-03 |
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-01 | 2026-05-19 |
 | [Attention](https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/2dwAAJpNawqPDfoSQvjEKS) | 3:00 | 2022-03-03 | 2022-06-03 |
-| [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 | 2026-08-21 |  |
+| [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 | 2026-08-21 | 2026-10-30 |
 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-15 | 2025-09-27 |
-| [awade](https://open.spotify.com/track/1RTnTc6i3GZI7xvu8xYve0) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 3:05 | 2026-10-16 | 2026-10-23 |
+| [awade](https://open.spotify.com/track/1RTnTc6i3GZI7xvu8xYve0) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [9](https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm) | 3:05 | 2026-10-16 |  |
 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 | 2024-09-09 | 2026-05-22 |
 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 | 2024-11-08 | 2026-06-12 |
 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 | 2025-12-19 | 2026-01-15 |
@@ -211,7 +212,7 @@
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2021-09-27 | 2022-03-25 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2024-01-26 |
 | [DOINGZ](https://open.spotify.com/track/6RNP84XyE9eemCgWPVRni8) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [OFA: Deluxe Edition](https://open.spotify.com/album/5aV20I9N3dU2XvgBt6YaVB) | 2:41 | 2025-04-04 | 2025-06-20 |
-| [Don't Be Shy](https://open.spotify.com/track/3b58L7SFWVkp0fvmMJSbZa) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Don't Be Shy](https://open.spotify.com/album/1OWIwMVfsWicPlB58jooSc) | 2:50 | 2026-06-19 |  |
+| [Don't Be Shy](https://open.spotify.com/track/3b58L7SFWVkp0fvmMJSbZa) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Don't Be Shy](https://open.spotify.com/album/1OWIwMVfsWicPlB58jooSc) | 2:50 | 2026-06-19 | 2026-10-30 |
 | [Don't Leave](https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 3:05 | 2023-10-27 | 2024-04-19 |
 | [Don't Leave](https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 3:05 | 2024-04-12 | 2024-06-28 |
 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 | 2026-04-24 |

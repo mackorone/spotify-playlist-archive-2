@@ -2695,6 +2695,24 @@
     },
     {
       "album": {
+        "name": "Brokie",
+        "url": "https://open.spotify.com/album/4TpAHIAKmLrbn66UOmvu4c"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134752,
+      "name": "Brokie",
+      "url": "https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw"
+    },
+    {
+      "album": {
         "name": "BUENA ONDA",
         "url": "https://open.spotify.com/album/0l2Rjrl8uem6Dm5J9BT8K6"
       },
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 94285,
       "name": "district 11",
       "url": "https://open.spotify.com/track/7GY8iX73MIDjHR95l0Lx5q"
@@ -6372,7 +6390,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 162463,
       "name": "GO!",
       "url": "https://open.spotify.com/track/42sI53SPPbSRl2CsmmuNFG"
@@ -7984,7 +8002,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 126829,
       "name": "L.T.P",
       "url": "https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi"
@@ -10460,7 +10478,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186880,
       "name": "M\u00c9DICAMENT",
       "url": "https://open.spotify.com/track/2MFm3yQgt7hNkjP1ZYsI2u"
@@ -12689,6 +12707,24 @@
     },
     {
       "album": {
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/3aBWGrSwqmQwcEGpCvXXLu"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Prohib\u00e9",
+      "url": "https://open.spotify.com/track/7oNYzT2f496mdWLzE4J7XK"
+    },
+    {
+      "album": {
         "name": "Prot\u00e9ger et Servir",
         "url": "https://open.spotify.com/album/4J4K8pPTI4ruWL5wAhJv8e"
       },
@@ -13512,7 +13548,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169919,
       "name": "Roulez jeunesse",
       "url": "https://open.spotify.com/track/3JLYakBAUMSbLIR1gEdmPV"
@@ -16466,6 +16502,24 @@
       "duration_ms": 120000,
       "name": "X",
       "url": "https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO"
+    },
+    {
+      "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/4u1g17fxbFOwgKPtFkIKrx"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130985,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/5mtzwk6cwqNgxCS6TCtOrv"
     },
     {
       "album": {

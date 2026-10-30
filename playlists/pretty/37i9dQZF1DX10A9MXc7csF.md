@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Emmanuel Cortes 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,521 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,564 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Ay Les Va](https://open.spotify.com/track/1phpJXtmfCYClKiCSIwLrl) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Ay Les Va](https://open.spotify.com/album/2zXuq4hyK7GnMxkMsfDETI) | 2:27 |
 | 60 | [Me Refiero A Ti](https://open.spotify.com/track/7mJpjSIRck4aimoHmWbg5e) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Me Refiero A Ti](https://open.spotify.com/album/6LJI40e3KDN3ZmTZp9qYoS) | 3:17 |
 
-Snapshot ID: `AAAAAPgxt6d4tVZMs6fQa6/Lq5s2LLIG`
+Snapshot ID: `AAAAAEXC64UnIfLbHzGMELaTW/mPbUiP`

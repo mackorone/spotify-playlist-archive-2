@@ -1,12 +1,12 @@
 {
   "description": "The home for alternative electronic music. Cover: Sammy Virji",
-  "num_followers": 546785,
+  "num_followers": 546780,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALFkwUo1xzj+Bpi6/tq52p1EudsO",
+  "snapshot_id": "AAAAAPd+Qr/EzYHO8WPrANGp9MXSLZ/v",
   "tracks": [
     {
       "added_at": "2026-10-23 10:20:54",
@@ -35,18 +35,18 @@
     {
       "added_at": "2026-10-23 10:20:54",
       "album": {
-        "name": "Hold",
-        "url": "https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe"
+        "name": "Open Late",
+        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 265805,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/7ur4RYTN14JvdLZaW9k7rx"
+      "duration_ms": 236927,
+      "name": "Repeaty",
+      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -63,6 +63,22 @@
       "duration_ms": 217864,
       "name": "pull u right thru",
       "url": "https://open.spotify.com/track/75bDCmZPGwtOI4DAbpNRV8"
+    },
+    {
+      "added_at": "2026-10-23 10:20:54",
+      "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 265805,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7ur4RYTN14JvdLZaW9k7rx"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -89,22 +105,6 @@
       "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
     },
     {
-      "added_at": "2026-10-23 10:20:54",
-      "album": {
-        "name": "Open Late",
-        "url": "https://open.spotify.com/album/6SrOv99B12ZeggHewdjp56"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 236927,
-      "name": "Repeaty",
-      "url": "https://open.spotify.com/track/4PgcKyByDFEXm5RQA07WD2"
-    },
-    {
       "added_at": "2026-10-15 23:00:20",
       "album": {
         "name": "Signals",
@@ -119,22 +119,6 @@
       "duration_ms": 264466,
       "name": "Lab",
       "url": "https://open.spotify.com/track/6OglTLGpqa4DEwot6v0h7t"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Someone Like You",
-        "url": "https://open.spotify.com/album/6Vj4KgGZt2w18VE5AXKwb4"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 327151,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/34kzZyRcTKCDql0or0qKLS"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -155,38 +139,18 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "JOY (Shit You Make Me Feel)",
-        "url": "https://open.spotify.com/album/5ifEOf2h67SLAzkQyVQvhp"
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/6Vj4KgGZt2w18VE5AXKwb4"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
         }
       ],
-      "duration_ms": 190284,
-      "name": "JOY (Shit You Make Me Feel)",
-      "url": "https://open.spotify.com/track/5IHS5zIm7YG641JTXbwyJY"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Air / Lemonder / Viper",
-        "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "SOARR",
-          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
-        }
-      ],
-      "duration_ms": 262559,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY"
+      "duration_ms": 327151,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/34kzZyRcTKCDql0or0qKLS"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -215,6 +179,50 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
+        "name": "Air / Lemonder / Viper",
+        "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "SOARR",
+          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
+        }
+      ],
+      "duration_ms": 262559,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/4vqfsjZ6UQcc2VqI5hZP1z"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "OMG (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/31183C4ldHNA1d3lr9VBpB"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
         "name": "P \u2605 K I",
         "url": "https://open.spotify.com/album/2y1prRtwVuujlCVYcbcwEg"
       },
@@ -231,6 +239,22 @@
       "duration_ms": 208375,
       "name": "Koi Si",
       "url": "https://open.spotify.com/track/0xy2uyNdYhF6lI9ipDkiIA"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "JOY (Play Power)",
+        "url": "https://open.spotify.com/album/6MROzdeVgkGGaeRXJ7fM5E"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 285500,
+      "name": "JOY (Play Power)",
+      "url": "https://open.spotify.com/track/6LaPQWySsvuXfpFb2vt1CN"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -251,6 +275,58 @@
       "duration_ms": 262285,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/6pRl3q116U4k2xv2dR03r1"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Smoke 3 Tokes",
+        "url": "https://open.spotify.com/album/4dQzeBZREfXeNCrGB5wrVC"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 199842,
+      "name": "Smoke 3 Tokes",
+      "url": "https://open.spotify.com/track/58zFqJYFqk8fXrfRu2DadO"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "Waiting (ft S\u00f8lv)",
+        "url": "https://open.spotify.com/album/31GsJMn0d4fhH2cfJ4bJ7t"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "S\u00f8lv",
+          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
+        }
+      ],
+      "duration_ms": 236885,
+      "name": "Waiting - ft S\u00f8lv",
+      "url": "https://open.spotify.com/track/5rpZudKWR829NBM0PlC8GD"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "Slow Me Down / 4510",
+        "url": "https://open.spotify.com/album/1q83KNZRKZAz1nYmnXusiL"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "duration_ms": 239993,
+      "name": "4510",
+      "url": "https://open.spotify.com/track/6Jbjy3y0nH2c4E739q6TmC"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -293,28 +369,40 @@
       "url": "https://open.spotify.com/track/3oowIGctmBAAOLGi04Ysvo"
     },
     {
-      "added_at": "2026-10-15 23:00:20",
+      "added_at": "2026-10-30 00:00:18",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/4vqfsjZ6UQcc2VqI5hZP1z"
+        "name": "So High",
+        "url": "https://open.spotify.com/album/0WjpcXZeuSCRM85bJmexA1"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
         },
         {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Pollena",
+          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
         }
       ],
-      "duration_ms": 199148,
-      "name": "OMG (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/31183C4ldHNA1d3lr9VBpB"
+      "duration_ms": 197647,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1QV45rMzpdjnq32bkeWj36"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "JOY (Shit You Make Me Feel)",
+        "url": "https://open.spotify.com/album/5ifEOf2h67SLAzkQyVQvhp"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 190284,
+      "name": "JOY (Shit You Make Me Feel)",
+      "url": "https://open.spotify.com/track/5IHS5zIm7YG641JTXbwyJY"
     },
     {
       "added_at": "2026-10-23 10:20:54",
@@ -335,6 +423,42 @@
       "duration_ms": 192700,
       "name": "Skin To Skin",
       "url": "https://open.spotify.com/track/0Jx2lddkneaMPRH650RNMO"
+    },
+    {
+      "added_at": "2026-10-30 00:00:18",
+      "album": {
+        "name": "3AM+",
+        "url": "https://open.spotify.com/album/6GQwxHlfagukI1JCejREfE"
+      },
+      "artists": [
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "JD Cliffe",
+          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "3AM+",
+      "url": "https://open.spotify.com/track/5o57aD4b54U1LwOzNN38yW"
+    },
+    {
+      "added_at": "2026-10-15 23:00:20",
+      "album": {
+        "name": "lip service",
+        "url": "https://open.spotify.com/album/5hZNm3NEpofIg7WR7eI74S"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 208846,
+      "name": "lip service",
+      "url": "https://open.spotify.com/track/4jyrNEv8BTSLDnmv5GDSHE"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -507,22 +631,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "lip service",
-        "url": "https://open.spotify.com/album/5hZNm3NEpofIg7WR7eI74S"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 208846,
-      "name": "lip service",
-      "url": "https://open.spotify.com/track/4jyrNEv8BTSLDnmv5GDSHE"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4XU6CXzUW673zn5ncvBcAM"
       },
@@ -571,26 +679,6 @@
       "duration_ms": 224529,
       "name": "Breathin'",
       "url": "https://open.spotify.com/track/5NGzOvAnSbEjEhxd5WIRW7"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Waiting (ft S\u00f8lv)",
-        "url": "https://open.spotify.com/album/31GsJMn0d4fhH2cfJ4bJ7t"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        },
-        {
-          "name": "S\u00f8lv",
-          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
-        }
-      ],
-      "duration_ms": 236885,
-      "name": "Waiting - ft S\u00f8lv",
-      "url": "https://open.spotify.com/track/5rpZudKWR829NBM0PlC8GD"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -1431,22 +1519,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/5AeA3BwZYLPF4sZkseKaVd"
-      },
-      "artists": [
-        {
-          "name": "Luc Veermeer",
-          "url": "https://open.spotify.com/artist/1GQNSN0anKfRx96S1A4QIN"
-        }
-      ],
-      "duration_ms": 258593,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/7m5y7mIOWGABC04lL4acuD"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "Left / Right",
         "url": "https://open.spotify.com/album/1jJhyLEhXILMY5QoipDxaS"
       },
@@ -1467,26 +1539,6 @@
       "duration_ms": 218823,
       "name": "Left / Right",
       "url": "https://open.spotify.com/track/4uJPbf9BuWkMrq5922a0jm"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Get Me Down (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 194038,
-      "name": "Get Me Down (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
     },
     {
       "added_at": "2026-10-15 23:00:20",
@@ -1563,54 +1615,6 @@
     {
       "added_at": "2026-10-15 23:00:20",
       "album": {
-        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
-      },
-      "artists": [
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 199351,
-      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/57dp3wTJO7GspD9EqGXQPF"
-      },
-      "artists": [
-        {
-          "name": "Shafkkat",
-          "url": "https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd"
-        },
-        {
-          "name": "Jess Young",
-          "url": "https://open.spotify.com/artist/7mt5zMJCyOKmxPyDT0ihZK"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7k7LWZrsCic16PiZJidKdL"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
         "name": "Closer (Edit)",
         "url": "https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE"
       },
@@ -1679,22 +1683,6 @@
       "duration_ms": 236079,
       "name": "Ijoya",
       "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
-    },
-    {
-      "added_at": "2026-10-15 23:00:20",
-      "album": {
-        "name": "Young London",
-        "url": "https://open.spotify.com/album/0oOrh69HrDugr7QJ4l7llo"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 186870,
-      "name": "Young London",
-      "url": "https://open.spotify.com/track/5cwZWtLpAgDQXIFbRhUZcc"
     },
     {
       "added_at": "2026-10-15 23:00:20",

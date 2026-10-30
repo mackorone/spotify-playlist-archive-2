@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,386 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 26 | [Catching Glory](https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Catching Glory](https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E) | 1:46 |
 | 27 | [Faith](https://open.spotify.com/track/52lWCfra9Lh0O1Uv2GNj09) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:26 |
 | 28 | [Monarchy](https://open.spotify.com/track/27Lm0GV6qtmDnFEHkpo4sn) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Monarchy](https://open.spotify.com/album/4SDwtuq4DeKDpuWsLwOC17) | 2:30 |
-| 29 | [More bands](https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Jayduh](https://open.spotify.com/artist/4WDR1dWlBAX1cCYTWRbam3) | [Dolla](https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC) | 1:35 |
+| 29 | [More bands](https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [jayduh](https://open.spotify.com/artist/5pmGu9XaXIvaQEHBYOxhnG) | [Dolla](https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC) | 1:35 |
 | 30 | [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Saint Edrah](https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
 | 31 | [Someday Soon](https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:41 |
 | 32 | [Their Back](https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Their Back](https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6) | 2:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 89 | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9) | 3:00 |
 | 90 | [Odo Ankasa](https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Ankasa](https://open.spotify.com/album/7eeOwprfBvmURs63cD8DGy) | 3:52 |
 
-Snapshot ID: `AAAAAJoW9MAQlGpO/q8NcqUFD5ViFT/A`
+Snapshot ID: `AAAAAJd1VNbqyT4TWwsrtaXjYWVtycbg`

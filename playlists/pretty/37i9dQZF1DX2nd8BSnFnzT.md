@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Machete Bomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,590 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,446 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 58 | [Dispara](https://open.spotify.com/track/2P5FdfGXE9ADHzfBUGQ0M0) | [Viralata](https://open.spotify.com/artist/4nzGWvAnomcGsvVhNyZ0xn), [QuatroK](https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n) | [Dispara](https://open.spotify.com/album/7dklXVW4rVuMNIZ7RBNcIb) | 3:50 |
 | 59 | [o que você quiser](https://open.spotify.com/track/35NplPnYaCevijnRs2bmik) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr) | [o que você quiser](https://open.spotify.com/album/6np4eVJ5I9pzNHYN6ywEkX) | 3:15 |
 
-Snapshot ID: `AAAAAEOKyswQZVCyVEAXvHtDp9MZ4E+T`
+Snapshot ID: `AAAAAIvRgh2wG8GitUSi715ytqL9TvbL`

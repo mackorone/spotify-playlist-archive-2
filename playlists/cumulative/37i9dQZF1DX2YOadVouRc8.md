@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-863 songs - 1 day 17 hr 35 min
+864 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [4ever](https://open.spotify.com/track/2d1yqNf32Ngnr9Kh11xCNr) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:38 | 2023-12-15 | 2024-02-28 |
 | [4LYFE](https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [4LYFE](https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m) | 2:47 | 2023-10-27 | 2023-12-02 |
 | [5AM](https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [5AM](https://open.spotify.com/album/2BXUnadEqbiwqy5OUUUAdN) | 3:01 | 2026-08-14 | 2026-09-26 |
+| [5am in Paris](https://open.spotify.com/track/0ZbFZwQD4tCeJd6aj5URJ1) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [5am in Paris](https://open.spotify.com/album/7tA8uKGR4lF3HJQ10sFDSP) | 1:53 | 2026-10-23 |  |
 | [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 | 2023-07-14 | 2023-09-29 |
 | [\[escapism\]](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [\[escapism\]](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 | 2024-11-22 | 2025-01-31 |
 | [A LOT A LOT](https://open.spotify.com/track/13qqNFF4btUAEj352hwIKu) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [A LOT A LOT](https://open.spotify.com/album/3hGg2tQ8Z0zKkmaR4hlIVk) | 3:02 | 2026-09-11 |  |
@@ -215,7 +216,7 @@
 | [DANGEROUS](https://open.spotify.com/track/5xrMWjauz6o9VMkAv3IsEP) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [One Day It Will All Make Sense \(Deluxe\)](https://open.spotify.com/album/4rFNvwZ98K5d6fSdGi4vRE) | 3:11 | 2026-03-06 | 2026-03-20 |
 | [Darkest Secrets](https://open.spotify.com/track/1Mqcx741E3t5MRLGRfMKA8) | [Uncle Bubu](https://open.spotify.com/artist/4gO0Opw7pQGFwqRXlsdEnY), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [telz](https://open.spotify.com/artist/44HiOLrR3zuZqBdTALvQa9) | [darkest secrets / CHAKAM](https://open.spotify.com/album/5bPOkxU0VV6Zs36F4xyKMk) | 3:21 | 2026-06-05 | 2026-06-12 |
 | [Day n Nite](https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Day n Nite](https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J) | 2:22 | 2025-12-19 | 2026-03-09 |
-| [DEARLY](https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [DEARLY](https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w) | 3:01 | 2026-02-13 |  |
+| [DEARLY](https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [DEARLY](https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w) | 3:01 | 2026-02-13 | 2026-10-30 |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2024-10-05 |
 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 | 2025-03-07 | 2025-07-05 |
 | [Diamond](https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:04 | 2025-10-17 | 2025-12-19 |

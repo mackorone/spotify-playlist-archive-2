@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6o1HvE0HE1CZJSBIVyNcKg">Natalia Grosiak</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,034 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,040 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [SWOJE MIEJSCE](https://open.spotify.com/track/027y6mASZoOm9Fcqh6BUHU) | [Magda Paradziej](https://open.spotify.com/artist/5jme4FRjRz7RorRwwzC9yp) | [SWOJE MIEJSCE](https://open.spotify.com/album/3uqtmqgWuFrNuvuMoGnpJs) | 2:29 |
 | 60 | [wir](https://open.spotify.com/track/456zlfcYrUiU3vU9ObdOdB) | [misia horbatowska](https://open.spotify.com/artist/0AnhClvd0lTTUibEslLMAI) | [wir](https://open.spotify.com/album/4LM7UzucsCgtqcte3FIgCM) | 3:34 |
 
-Snapshot ID: `AAAAAKGvD8TWko1ddJs/+B0smlpKVjOR`
+Snapshot ID: `AAAAAJI584PQMUVJlmP5tMeOQCPysQHp`

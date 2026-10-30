@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,103 likes - 83 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,248 likes - 83 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 82 | [Daydream](https://open.spotify.com/track/0OqwcqfTHQbZ3LluIO2qUH) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Daydream](https://open.spotify.com/album/2g6pKr2JYfYNrG8dWh9mJm) | 3:12 |
 | 83 | [Drift \- slowed](https://open.spotify.com/track/2GlNSEWLhfJa6NlSCghTZM) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Drift](https://open.spotify.com/album/3gI1g8OX11EyMeKnK5cenO) | 3:27 |
 
-Snapshot ID: `AAAAAKCywtqJ4mqbhLSf2x2r6E9xfggM`
+Snapshot ID: `AAAAAPBrsxlqTCe37BJf/Eoe/nNqHpCe`

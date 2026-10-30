@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Madeline Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,663 likes - 98 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,635 likes - 98 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 97 | [Where You Call Home](https://open.spotify.com/track/7niP3sWsDhuiIx4nxeeMGW) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Where You Call Home](https://open.spotify.com/album/4KFSY7pXHXNemIER8APniU) | 3:42 |
 | 98 | [You Were Leaving](https://open.spotify.com/track/1P0oNMYScIjRlEl7fP47lO) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [You Were Leaving](https://open.spotify.com/album/45lhU3cV60r3J7BgmLupMu) | 4:30 |
 
-Snapshot ID: `AAAAANKwBmCQpiQDEtK742Bc2v80QjhI`
+Snapshot ID: `AAAAAEaPw9+HvH/zn6cg7JhIexyRTZDf`

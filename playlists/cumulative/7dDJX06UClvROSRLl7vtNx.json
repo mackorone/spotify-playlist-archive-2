@@ -23045,6 +23045,24 @@
     },
     {
       "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/0m5B6j6iel1RoIHeWcgR2T"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/7f4uV0NouzN0qOmnM4s3Hq"
+    },
+    {
+      "album": {
         "name": "Passionfruit",
         "url": "https://open.spotify.com/album/2qjUmUEFYVqbS2PwRrpKj6"
       },

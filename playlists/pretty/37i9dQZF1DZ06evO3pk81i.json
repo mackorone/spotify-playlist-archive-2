@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10586,
+  "num_followers": 10613,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADKSzDk58CxBGhBNo2R/rLX",
+  "snapshot_id": "at/pgAAAAACg9TikpMUTZWzqTk94ayj5",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 198639,
-      "name": "Baby - Version Norte\u00f1a",
-      "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
+      "duration_ms": 212013,
+      "name": "Quiero Ser - Version Norte\u00f1a",
+      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
     },
     {
       "added_at": null,
@@ -275,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 212013,
-      "name": "Quiero Ser - Version Norte\u00f1a",
-      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
+      "duration_ms": 198639,
+      "name": "Baby - Version Norte\u00f1a",
+      "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
     },
     {
       "added_at": null,
@@ -311,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
       "artists": [
-        {
-          "name": "Los Del North Texas",
-          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 165949,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
+      "duration_ms": 144981,
+      "name": "No Hay Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
     },
     {
       "added_at": null,
@@ -347,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
       },
       "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 144981,
-      "name": "No Hay Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
+      "duration_ms": 165949,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 144700,
-      "name": "ME TIENES LOCO",
-      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vicio Mi Adicci\u00f3n",
         "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
       },
@@ -611,6 +595,62 @@
       "duration_ms": 139685,
       "name": "Mi Vicio Mi Adicci\u00f3n",
       "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 144700,
+      "name": "ME TIENES LOCO",
+      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expectante",
+        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 154656,
+      "name": "Expectante",
+      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Julio LV",
+          "url": "https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S"
+        }
+      ],
+      "duration_ms": 209554,
+      "name": "Quiero Darte - Version Norte\u00f1a",
+      "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
     },
     {
       "added_at": null,
@@ -639,42 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+        "name": "Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/39Se4E53Lw1bQBFc2EW6e9"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Julio LV",
-          "url": "https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S"
-        }
-      ],
-      "duration_ms": 209554,
-      "name": "Quiero Darte - Version Norte\u00f1a",
-      "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expectante",
-        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
         },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 154656,
-      "name": "Expectante",
-      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+      "duration_ms": 150424,
+      "name": "Ni\u00f1a Fresa",
+      "url": "https://open.spotify.com/track/0DyL06mzg7WZrklk9z4WtH"
     },
     {
       "added_at": null,
@@ -807,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/39Se4E53Lw1bQBFc2EW6e9"
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
       },
       "artists": [
         {
-          "name": "Jorge Morales El Jilguero",
-          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 150424,
-      "name": "Ni\u00f1a Fresa",
-      "url": "https://open.spotify.com/track/0DyL06mzg7WZrklk9z4WtH"
+      "duration_ms": 173500,
+      "name": "NOCHE NEGRA",
+      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
     },
     {
       "added_at": null,
@@ -859,26 +879,6 @@
       "duration_ms": 178000,
       "name": "J\u00c1LATE CONMIGO",
       "url": "https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "NOCHE NEGRA",
-      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

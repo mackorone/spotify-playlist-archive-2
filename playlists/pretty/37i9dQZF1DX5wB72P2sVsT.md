@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Dimitri Vegas, Pat B & Sylver au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,796 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,743 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 | 40 | [Hollow](https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hollow](https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ) | 3:15 |
 
-Snapshot ID: `AAAAANOIBLE+K4U24rqGLOHaQHjSELhL`
+Snapshot ID: `AAAAAAMkatFb+kU/Pii1EkQuWC7u+VoN`

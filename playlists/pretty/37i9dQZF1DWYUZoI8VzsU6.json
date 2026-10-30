@@ -1,12 +1,12 @@
 {
   "description": "back roads up loud with Dexter and The Moonrocks and Avery Anna",
-  "num_followers": 47462,
+  "num_followers": 47563,
   "original_name": "GRAVEL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABoIB9HwKNr5mFta62bSmztnsiAH",
+  "snapshot_id": "AAAAALX6b3c9F9gngH9g7kqVmsKp0lg5",
   "tracks": [
     {
       "added_at": "2026-10-09 04:00:37",
@@ -147,6 +147,22 @@
       "duration_ms": 196970,
       "name": "My Fix",
       "url": "https://open.spotify.com/track/4VwxCRrx0uJdNH54YOfMQe"
+    },
+    {
+      "added_at": "2026-10-30 04:02:03",
+      "album": {
+        "name": "Reason to Leave",
+        "url": "https://open.spotify.com/album/1A3c7cs4gVo8GL8njxCp92"
+      },
+      "artists": [
+        {
+          "name": "Hayefield",
+          "url": "https://open.spotify.com/artist/4fRwwhu0woUKRMTs4RIRqt"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Reason to Leave",
+      "url": "https://open.spotify.com/track/3Twfd5ibjAI0UEkDsO9jtn"
     },
     {
       "added_at": "2026-10-09 04:00:37",

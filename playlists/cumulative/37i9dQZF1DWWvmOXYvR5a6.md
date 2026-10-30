@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: kaogaii\(가오가이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-856 songs - 1 day 21 hr 33 min
+857 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [GIRLFRIEND \(feat\. CAMO\)](https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [METAMORPHOSIS](https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4) | 3:06 | 2026-09-07 |  |
 | [Girls](https://open.spotify.com/track/0anCWbqkyJRgJ7c5PaPPQb) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [B.O.Y\. \(Because Of You\)](https://open.spotify.com/album/78qKsZIDGxJ21WM306NoIt) | 2:56 | 2022-04-21 | 2022-07-29 |
 | [GMK \(feat\. CHANGMO\)](https://open.spotify.com/track/0vTiOnO5rVakyOhAskGO9J) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 2:40 | 2025-06-27 | 2025-08-15 |
-| [GO WITH THE FLOW](https://open.spotify.com/track/4MJJYVj1YY6RPx37TR92yZ) | [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [MAZE](https://open.spotify.com/album/3yI9KqJ9rfDWCQWS0atdxx) | 2:43 | 2026-09-23 |  |
+| [GO WITH THE FLOW](https://open.spotify.com/track/4MJJYVj1YY6RPx37TR92yZ) | [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [MAZE](https://open.spotify.com/album/3yI9KqJ9rfDWCQWS0atdxx) | 2:43 | 2026-09-23 | 2026-10-30 |
 | [GOAT \(feat\. Verbal Jint\)](https://open.spotify.com/track/27gAX06r4vk8WpGmfKMF3U) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 4:09 | 2022-05-31 | 2022-07-03 |
 | [God Be My Witness](https://open.spotify.com/track/2mAAkW6RI7iQrT3OJRV4uP) | [Uzuhan](https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37), [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Flight Team Volume 1](https://open.spotify.com/album/3IdTIyAc77EYXjd3LJlHPW) | 3:27 | 2022-04-01 | 2022-07-26 |
 | [God Bless \(Feat\. Paul Blanco & Jay Park\)](https://open.spotify.com/track/7fkaOjdjqt5pPjOq4yOwjw) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:07 | 2022-04-01 | 2022-06-08 |
@@ -631,6 +631,7 @@
 | [ROWROW \(feat\. JAEHA & Street Baby\)](https://open.spotify.com/track/2jubtw4DrIUTwHRtlZxFxl) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 2:30 | 2022-07-14 | 2022-07-17 |
 | [Ruby \(Feat\. Gist\)](https://open.spotify.com/track/0Z3om4bmisjO5e97PQizEe) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [zillamode 4](https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF) | 2:22 | 2022-06-09 | 2022-07-01 |
 | [Run away](https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 2:25 | 2022-04-01 | 2026-03-14 |
+| [run it back](https://open.spotify.com/track/3W3ozTGLZNXEiLDtnuwOFB) | [rosy](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [run it back](https://open.spotify.com/album/37kq1v7lGL5TlF2wCWiUfI) | 2:22 | 2026-10-23 |  |
 | [Running Up \(feat\. Loopy\)](https://open.spotify.com/track/6IDUUvEtYdulauqCdCejXF) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:13 | 2023-03-22 | 2023-04-07 |
 | [S2 \(feat\. PUP\)](https://open.spotify.com/track/2YmLArTfOhxCnBfxbXMekK) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [PUP](https://open.spotify.com/artist/6FOvvhBeIv1hZxIWAMuWV6) | [S2 \(feat\. PUP\)](https://open.spotify.com/album/0318L0SYTl2AgyBCM8Ju5t) | 3:04 | 2022-06-18 | 2022-07-15 |
 | [SAD BOY](https://open.spotify.com/track/6QvZoyYSh7PkHQ3onJBjbr) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [A LOVE LETTER FROM THE SAD BOY](https://open.spotify.com/album/6vcTyikf0IfJ19LWAQBXdA) | 4:04 | 2022-04-21 | 2022-04-26 |

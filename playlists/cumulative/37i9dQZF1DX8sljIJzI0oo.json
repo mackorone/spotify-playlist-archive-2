@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Anuel AA is bringing the heat this week. Tap in every Thursday for a refresh  <a href=\"https://asheardonfuego.substack.com/p/issue-001-introducing-as-heard-on?r=8i1o2e&utm_campaign=post&utm_medium=web\">(and subscribe to our substack!)</a>  ",
+  "description": "Dei V is bringing the heat this week. Tap in every Thursday for a refresh  <a href=\"https://asheardonfuego.substack.com/p/issue-001-introducing-as-heard-on?r=8i1o2e&utm_campaign=post&utm_medium=web\">(and subscribe to our substack!)</a>  ",
   "name": "Fuego",
   "tracks": [
     {
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 353000,
       "name": "ALL WHITE REMIX (feat. Conep, VEI HABACHE)",
       "url": "https://open.spotify.com/track/1u8ISwHTmcb1eEr7xWuMtT"
@@ -16903,6 +16903,28 @@
     },
     {
       "album": {
+        "name": "DOGGY",
+        "url": "https://open.spotify.com/album/4drOTvsKMnP86CsBEl0qSk"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203467,
+      "name": "DOGGY",
+      "url": "https://open.spotify.com/track/04SQN01RkI50DEXQNJUiUa"
+    },
+    {
+      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -24282,7 +24304,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 260949,
       "name": "Gan\u00e9",
       "url": "https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4"
@@ -38118,7 +38140,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 164615,
       "name": "Modo Oculto",
       "url": "https://open.spotify.com/track/6Ao1OyTNFLE6czKtTsYFju"
@@ -38554,6 +38576,24 @@
       "duration_ms": 192750,
       "name": "MUCHACHA",
       "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"
+    },
+    {
+      "album": {
+        "name": "Muertx",
+        "url": "https://open.spotify.com/album/67a22KUm2NBwYBboyePyPh"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Muertx",
+      "url": "https://open.spotify.com/track/3D4rvMrYg4ccdXAOkGMKlb"
     },
     {
       "album": {
@@ -40268,6 +40308,24 @@
       "duration_ms": 151573,
       "name": "Nivel De Perreo",
       "url": "https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l"
+    },
+    {
+      "album": {
+        "name": "No Hay \u00c1ngeles Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3Vh4oQSFSokbfcuXy7HH2i"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219620,
+      "name": "Ni\u00f1a Mafia",
+      "url": "https://open.spotify.com/track/1Hbh9u1DbUm2RpcTqy3ELJ"
     },
     {
       "album": {
@@ -52370,7 +52428,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 166956,
       "name": "SATISFExXxO",
       "url": "https://open.spotify.com/track/1Uc4BPi4PTGFDTHzCj8Nst"
@@ -57110,6 +57168,24 @@
       "duration_ms": 229090,
       "name": "te imaginas?",
       "url": "https://open.spotify.com/track/5UiSlL2QwvR7WHWjMyDYWg"
+    },
+    {
+      "album": {
+        "name": "Te Imagino",
+        "url": "https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251639,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4"
     },
     {
       "album": {

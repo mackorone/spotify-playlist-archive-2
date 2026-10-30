@@ -1,13 +1,269 @@
 {
-  "description": "The best rock songs of the moment. Cover: Lambrini Girls",
-  "num_followers": 192137,
+  "description": "The best rock songs of the moment. Cover: Nickelback",
+  "num_followers": 192105,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKawxPGrd/CWPg+TQp8sFzuTjA8e",
+  "snapshot_id": "AAAAANaFqviY4lbWcpVTHxTV5EP9UxL/",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Everything Under The Sun",
+        "url": "https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 213624,
+      "name": "If I Don't Go",
+      "url": "https://open.spotify.com/track/5XXXFERLsHPaaO4TI4KC8b"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Perfecth",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Run Away From the Mob",
+      "url": "https://open.spotify.com/track/7zRC0N2InIb6GPP67gSD4L"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "you made me / skin on linen",
+        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
+      },
+      "artists": [
+        {
+          "name": "PISS",
+          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
+        }
+      ],
+      "duration_ms": 160435,
+      "name": "i wanted to be a singer",
+      "url": "https://open.spotify.com/track/39yGQhkMG9tQ4kd6wueLQK"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "In The Hollow",
+        "url": "https://open.spotify.com/album/7dR5ParwNZxaMbzPJGTMaM"
+      },
+      "artists": [
+        {
+          "name": "Bad Waitress",
+          "url": "https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb"
+        }
+      ],
+      "duration_ms": 209972,
+      "name": "45",
+      "url": "https://open.spotify.com/track/13fZdEPd81y0hZN2NOWL3F"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "ZIRP!",
+        "url": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 243105,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/7hXHa6zkI2g4UEe5LEN3fE"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "God Will Control The Werewolves",
+        "url": "https://open.spotify.com/album/5lLQpUdXL0WMzygm6OqSXf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 261497,
+      "name": "God Will Control The Werewolves",
+      "url": "https://open.spotify.com/track/63hixy83eOlSRb4JFnmnpg"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Reckless Attitude",
+        "url": "https://open.spotify.com/album/6DjsqpQ34YdWYOsYNYlLCS"
+      },
+      "artists": [
+        {
+          "name": "Ebril",
+          "url": "https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Reckless Attitude",
+      "url": "https://open.spotify.com/track/44Z18Nfxz3C3Pc8ConXFss"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "What's In Between",
+        "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "duration_ms": 222761,
+      "name": "The Intersection",
+      "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/0Otsjsv1DoFGwcmEzVk31D"
+      },
+      "artists": [
+        {
+          "name": "In Color",
+          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
+        }
+      ],
+      "duration_ms": 230275,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6dKm9TPP9w9UQ6Yb8zfPWc"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "I don\u2019t want to fall in love",
+        "url": "https://open.spotify.com/album/6nObkiIzpgeMgQiQxsS7Gl"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "I don\u2019t want to fall in love",
+      "url": "https://open.spotify.com/track/5oI4fVw2iCZQlWxD85hly8"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Always Watching",
+        "url": "https://open.spotify.com/album/19UAWMmopYUzFgj5IyszBQ"
+      },
+      "artists": [
+        {
+          "name": "Shiv and the Carvers",
+          "url": "https://open.spotify.com/artist/5FHs2oBdvd7FDLMIQ6ji06"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Daddy's Always Watching",
+      "url": "https://open.spotify.com/track/6M931xdkh5NHQdZQabYHXt"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Crownbreaker",
+        "url": "https://open.spotify.com/album/0rjxF7zHbvBTvyrngMbT1i"
+      },
+      "artists": [
+        {
+          "name": "Sierra Pilot",
+          "url": "https://open.spotify.com/artist/5TEUn6N83JzMY17QPa2Wfz"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Crownbreaker",
+      "url": "https://open.spotify.com/track/3Snb7iUSoI6vcdl5kYEOE8"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "The Burial",
+        "url": "https://open.spotify.com/album/4o2IZfSZRelycjwiog3MQ7"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "duration_ms": 202484,
+      "name": "The Burial",
+      "url": "https://open.spotify.com/track/6dxuWgHFHlg3FkQMckQw41"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Lake Ontario",
+        "url": "https://open.spotify.com/album/6z0y7JVqs7hL7hm8ZQbHJU"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "Lake Ontario",
+      "url": "https://open.spotify.com/track/5oCTpUSu18fKYHfRIsgX6d"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "Awesome",
+        "url": "https://open.spotify.com/album/57oQdezrz5wZM4nAJBVqmj"
+      },
+      "artists": [
+        {
+          "name": "Heathers",
+          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/787iEwjOYLfWLqHubGDyYR"
+    },
+    {
+      "added_at": "2026-10-30 04:02:43",
+      "album": {
+        "name": "PERFECT PRISON",
+        "url": "https://open.spotify.com/album/1olZUSra9CnexcQgsFZTsZ"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Perfect Prison",
+      "url": "https://open.spotify.com/track/7wggaAzPEeSHsZgsog98kT"
+    },
     {
       "added_at": "2026-10-23 04:03:26",
       "album": {
@@ -2243,282 +2499,6 @@
       "duration_ms": 214723,
       "name": "Dance Away",
       "url": "https://open.spotify.com/track/0t0bHrtoKf05PV83yV2snt"
-    },
-    {
-      "added_at": "2026-09-18 04:03:49",
-      "album": {
-        "name": "4:44",
-        "url": "https://open.spotify.com/album/5h07EXG1aajWczgFopJWvZ"
-      },
-      "artists": [
-        {
-          "name": "Land of Talk",
-          "url": "https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo"
-        }
-      ],
-      "duration_ms": 227820,
-      "name": "4:44",
-      "url": "https://open.spotify.com/track/4wolaaQd4beTvy82eFjqmS"
-    },
-    {
-      "added_at": "2026-09-18 04:03:49",
-      "album": {
-        "name": "easy rider",
-        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
-      },
-      "artists": [
-        {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
-        }
-      ],
-      "duration_ms": 234218,
-      "name": "easy rider",
-      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
-    },
-    {
-      "added_at": "2026-09-18 04:03:49",
-      "album": {
-        "name": "Rings Of Saturn",
-        "url": "https://open.spotify.com/album/3begTKcg8uLAIZuEZOWutR"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 179232,
-      "name": "Rings Of Saturn",
-      "url": "https://open.spotify.com/track/2nh2i8stFugX5PeT4MUavZ"
-    },
-    {
-      "added_at": "2026-09-18 04:03:49",
-      "album": {
-        "name": "Sheer Will",
-        "url": "https://open.spotify.com/album/17s8s3G6xAJsxkIIyCt0Is"
-      },
-      "artists": [
-        {
-          "name": "The Honest Heart Collective",
-          "url": "https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X"
-        }
-      ],
-      "duration_ms": 219218,
-      "name": "Sheer Will",
-      "url": "https://open.spotify.com/track/30HopKeFxDp8e22OJZvL41"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Mourning",
-        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 256024,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "lamb (feat. Kellin Quinn)",
-        "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 144906,
-      "name": "lamb (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Who's That",
-        "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 314733,
-      "name": "Who's That",
-      "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 112984,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Arsenal",
-        "url": "https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 221489,
-      "name": "Arsenal",
-      "url": "https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Dying In Reverse",
-        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 234276,
-      "name": "Dying In Reverse",
-      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "My Whole World",
-        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 247694,
-      "name": "My Whole World",
-      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Cayenne Flowerbed",
-        "url": "https://open.spotify.com/album/2zD27ATBaAbemALXPL6Hto"
-      },
-      "artists": [
-        {
-          "name": "Starpainter",
-          "url": "https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO"
-        }
-      ],
-      "duration_ms": 155555,
-      "name": "I Found a River",
-      "url": "https://open.spotify.com/track/5tYFDiCbYmdNJMDr7qccJ7"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "A Different Kind of Happiness",
-        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 246899,
-      "name": "A Different Kind of Happiness",
-      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "THANK GOD IT'S ALMOST MONDAY",
-        "url": "https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 214461,
-      "name": "french kids",
-      "url": "https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "what's up",
-        "url": "https://open.spotify.com/album/0Dc02bCpNyOfViWs4wvDxT"
-      },
-      "artists": [
-        {
-          "name": "Cam Kahin",
-          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
-        }
-      ],
-      "duration_ms": 159430,
-      "name": "what's up",
-      "url": "https://open.spotify.com/track/5Fq0OuIRjw6sDWojjTwYTF"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Devout",
-        "url": "https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS"
-      },
-      "artists": [
-        {
-          "name": "Working Men's Club",
-          "url": "https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc"
-        }
-      ],
-      "duration_ms": 217206,
-      "name": "Devout",
-      "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
-    },
-    {
-      "added_at": "2026-09-11 04:03:11",
-      "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/7qMUlZqsoGb8SSIxaqunWY"
-      },
-      "artists": [
-        {
-          "name": "Art d'Ecco",
-          "url": "https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J"
-        }
-      ],
-      "duration_ms": 231979,
-      "name": "Disappear Here",
-      "url": "https://open.spotify.com/track/4yyq8j5Isqyas6ygj4hd0r"
     }
   ],
   "unique_name": "Rock Now",

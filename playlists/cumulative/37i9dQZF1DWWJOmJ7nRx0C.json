@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Greta Van Fleet",
+  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Nickelback",
   "name": "VOLUME",
   "tracks": [
     {
@@ -4768,7 +4768,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 238106,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L"
@@ -4848,7 +4848,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 210910,
       "name": "Bright Lights, Big City (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2X67K1KTLBg9EU2dMUQC42"
@@ -7774,6 +7774,24 @@
       "duration_ms": 246000,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/70RmpH9F7edjr4Q31FYDGa"
+    },
+    {
+      "album": {
+        "name": "ZIRP!",
+        "url": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243105,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/7hXHa6zkI2g4UEe5LEN3fE"
     },
     {
       "album": {
@@ -12366,7 +12384,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 183465,
       "name": "Freaking Out",
       "url": "https://open.spotify.com/track/0DR7mYqiG81ZTQPct6AwpV"
@@ -13219,6 +13237,24 @@
     },
     {
       "album": {
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/17kdDVpDQpOZUPVQEhA4kN"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/6kefW3Y1dDyrGRiuzhCWqV"
+    },
+    {
+      "album": {
         "name": "Gladrags",
         "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
       },
@@ -13364,6 +13400,24 @@
       "duration_ms": 401146,
       "name": "God Terror",
       "url": "https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod"
+    },
+    {
+      "album": {
+        "name": "God Will Control The Werewolves",
+        "url": "https://open.spotify.com/album/5lLQpUdXL0WMzygm6OqSXf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261497,
+      "name": "God Will Control The Werewolves",
+      "url": "https://open.spotify.com/track/63hixy83eOlSRb4JFnmnpg"
     },
     {
       "album": {
@@ -15899,6 +15953,24 @@
     },
     {
       "album": {
+        "name": "I don\u2019t want to fall in love",
+        "url": "https://open.spotify.com/album/6nObkiIzpgeMgQiQxsS7Gl"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "I don\u2019t want to fall in love",
+      "url": "https://open.spotify.com/track/5oI4fVw2iCZQlWxD85hly8"
+    },
+    {
+      "album": {
         "name": "I EXIST",
         "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
       },
@@ -16523,6 +16595,24 @@
     },
     {
       "album": {
+        "name": "Everything Under The Sun",
+        "url": "https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213624,
+      "name": "If I Don't Go",
+      "url": "https://open.spotify.com/track/5XXXFERLsHPaaO4TI4KC8b"
+    },
+    {
+      "album": {
         "name": "IF IT DOESN'T HURT",
         "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
       },
@@ -16948,7 +17038,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 353666,
       "name": "Insignificant Other",
       "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
@@ -17312,7 +17402,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194205,
       "name": "Japan",
       "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
@@ -17682,7 +17772,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 205202,
       "name": "Katy Bar the Door",
       "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
@@ -21176,7 +21266,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 232605,
       "name": "Molecular Conversion",
       "url": "https://open.spotify.com/track/3H7xHy4qOTKYdBwE0secGZ"
@@ -21650,6 +21740,24 @@
       "duration_ms": 207670,
       "name": "My Condition",
       "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
+    },
+    {
+      "album": {
+        "name": "My Confession",
+        "url": "https://open.spotify.com/album/16gYpFpBFyxehLFAMLJCoz"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217837,
+      "name": "My Confession",
+      "url": "https://open.spotify.com/track/1Aj1LDKnOrcuI3YmKZ74pf"
     },
     {
       "album": {
@@ -23178,6 +23286,24 @@
       "duration_ms": 188160,
       "name": "Odd Behavior",
       "url": "https://open.spotify.com/track/4nOEsND95g9qDDxrkiQ7Ok"
+    },
+    {
+      "album": {
+        "name": "Off It",
+        "url": "https://open.spotify.com/album/3tpcAKCSWFWmOC4RvB67Lx"
+      },
+      "artists": [
+        {
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "Off It",
+      "url": "https://open.spotify.com/track/4Yb8otlM6n89NRvKpj3OTd"
     },
     {
       "album": {
@@ -26620,6 +26746,24 @@
       "duration_ms": 215362,
       "name": "Rotoscope",
       "url": "https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr"
+    },
+    {
+      "album": {
+        "name": "Perfecth",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Run Away From the Mob",
+      "url": "https://open.spotify.com/track/7zRC0N2InIb6GPP67gSD4L"
     },
     {
       "album": {
@@ -32046,7 +32190,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 205000,
       "name": "The Fountain",
       "url": "https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv"
@@ -37542,6 +37686,24 @@
       "duration_ms": 230573,
       "name": "Wurst Vacation",
       "url": "https://open.spotify.com/track/4KQ2u1ZypSQtb6HNKMnpxJ"
+    },
+    {
+      "album": {
+        "name": "Y.O.T.H.",
+        "url": "https://open.spotify.com/album/5QVdjD2cOEtSqYgAno5H6u"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Y.O.T.H.",
+      "url": "https://open.spotify.com/track/1GUBJKzZvNuZea7mnCirAe"
     },
     {
       "album": {

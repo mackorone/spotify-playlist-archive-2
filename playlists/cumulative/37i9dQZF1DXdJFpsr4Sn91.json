@@ -762,7 +762,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 190720,
       "name": "ainut joka tuntee mut",
       "url": "https://open.spotify.com/track/3kQWpGKLsAsbUD0QIdsZcX"
@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "BRATZIT",
+        "url": "https://open.spotify.com/album/2S610BWMRzl23pejgTQoXC"
+      },
+      "artists": [
+        {
+          "name": "Victor Nordis",
+          "url": "https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp"
+        },
+        {
+          "name": "S4RA",
+          "url": "https://open.spotify.com/artist/6UM1oztn0RG4yv1RBO2tJB"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141101,
+      "name": "BRATZIT",
+      "url": "https://open.spotify.com/track/5vDouridCzcpAacDJWOabI"
+    },
+    {
+      "album": {
         "name": "Breathe In, Breathe Out",
         "url": "https://open.spotify.com/album/6wTd2YI5fFfIaVVEbBWXXU"
       },
@@ -3390,7 +3412,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 200139,
       "name": "DANTE",
       "url": "https://open.spotify.com/track/2bUseeFwVu57CODQGPQML7"
@@ -4796,6 +4818,28 @@
       "duration_ms": 212613,
       "name": "En mieti sua",
       "url": "https://open.spotify.com/track/668C1J3OYfRqGRtdqu6QxH"
+    },
+    {
+      "album": {
+        "name": "En ole terapeutti, mutta voin kuunnella (feat. Ida Paul)",
+        "url": "https://open.spotify.com/album/7thuRe8swBOBt3UEgV6gbZ"
+      },
+      "artists": [
+        {
+          "name": "Keko Salata",
+          "url": "https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN"
+        },
+        {
+          "name": "Ida Paul",
+          "url": "https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "En ole terapeutti, mutta voin kuunnella (feat. Ida Paul)",
+      "url": "https://open.spotify.com/track/5VAsyawAir1oMpDVXhkoAg"
     },
     {
       "album": {
@@ -7208,6 +7252,28 @@
       "duration_ms": 175614,
       "name": "huijarisyndrooma",
       "url": "https://open.spotify.com/track/31wZNsGk852WmwyZY5SC9O"
+    },
+    {
+      "album": {
+        "name": "HULIGAANI (feat. Trebla)",
+        "url": "https://open.spotify.com/album/6RhZBIyjMVOKzBpdHHId1Z"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        },
+        {
+          "name": "Trebla",
+          "url": "https://open.spotify.com/artist/7ywfrzA0DtUdgXJLrjeVBE"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182128,
+      "name": "HULIGAANI (feat. Trebla)",
+      "url": "https://open.spotify.com/track/5rofcEhyrWzr3TOAjMLhGN"
     },
     {
       "album": {
@@ -12812,7 +12878,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 180000,
       "name": "Menett\u00e4\u00e4",
       "url": "https://open.spotify.com/track/0yiVrczxmpT6B12fG8Zhfw"
@@ -15135,6 +15201,28 @@
     },
     {
       "album": {
+        "name": "starseed",
+        "url": "https://open.spotify.com/album/0VUd4XVqLzcLlp6rez60Eb"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        },
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "oikees",
+      "url": "https://open.spotify.com/track/5PafEFpYfVg7SUNc8T8Bdq"
+    },
+    {
+      "album": {
         "name": "1432",
         "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
       },
@@ -15792,7 +15880,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 153320,
       "name": "Paina play paina stop",
       "url": "https://open.spotify.com/track/6qduNg6PErS5nVtOmL0sVb"
@@ -22105,6 +22193,24 @@
     },
     {
       "album": {
+        "name": "#YOLO (DELUXE)",
+        "url": "https://open.spotify.com/album/5qGkMcngv1e35X1leRj0Ht"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187900,
+      "name": "TOP TIER",
+      "url": "https://open.spotify.com/track/6sEMr6wCHGQcXdEuy2O8yQ"
+    },
+    {
+      "album": {
         "name": "Totuus sattuu",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
@@ -23086,7 +23192,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154651,
       "name": "Vaarallist",
       "url": "https://open.spotify.com/track/71PZP10jMrXgBHqAVG6dDz"

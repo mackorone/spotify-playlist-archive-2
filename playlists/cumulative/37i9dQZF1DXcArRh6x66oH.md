@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Sam Barber
+> roots run deep with Gabriella Rose
 
-507 songs - 1 day 6 hr 29 min
+508 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Save My Soul](https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6cmq4aPxeJBH9pCJMjIA4N) | 5:07 | 2024-06-03 |  |
 | [Save My Soul](https://open.spotify.com/track/7h7dOssdchfLK9GQ2NQBOT) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/0NOoxng1ibMGJQmSqr0uT3) | 5:07 | 2026-05-01 | 2026-06-27 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-18 |  |
+| [Scoreboard](https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [I Just Wanna Be Loved](https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg) | 3:24 | 2026-10-30 |  |
 | [Scornful Woman](https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Scornful Woman](https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq) | 2:55 | 2025-06-11 | 2026-01-17 |
 | [Seein' Straight](https://open.spotify.com/track/49mwxHq39VLr6fIoHN0e0t) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [We're Young, Alright](https://open.spotify.com/album/553gGSVuHart0wIB6lEC0n) | 3:53 | 2023-06-05 |  |
 | [Settling Things](https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:52 | 2024-10-10 |  |

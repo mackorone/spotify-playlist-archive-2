@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 477438,
+  "num_followers": 477457,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOjJqJ/J5ttb25q/Bt3Magf6nqrn",
+  "snapshot_id": "AAAAALG3iSymNYAmgGR/NTDcIZMWCsya",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Ritmo Mexicano",
-        "url": "https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv"
-      },
-      "artists": [
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 190354,
-      "name": "Ritmo Mexicano",
-      "url": "https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Os Muleke \u00c9 Liso",
         "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 232646,
       "name": "Os Muleke \u00c9 Liso",
       "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Ritmo Mexicano",
+        "url": "https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv"
+      },
+      "artists": [
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 190354,
+      "name": "Ritmo Mexicano",
+      "url": "https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Senta braba",
         "url": "https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 149615,
       "name": "Senta braba",
       "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1519,22 +1519,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Vai Embrazando",
-        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
+        "name": "Surtada (Remix Brega Funk)",
+        "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
       },
       "artists": [
         {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
         },
         {
-          "name": "MC Vigary",
-          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
+          "name": "Tati Zaqui",
+          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
+        },
+        {
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
         }
       ],
-      "duration_ms": 166060,
-      "name": "Vai Embrazando",
-      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
+      "duration_ms": 152783,
+      "name": "Surtada - Remix Brega Funk",
+      "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1563,26 +1567,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Surtada (Remix Brega Funk)",
-        "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
+        "name": "Vai Embrazando",
+        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
       },
       "artists": [
         {
-          "name": "Dad\u00e1 Bolad\u00e3o",
-          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
         },
         {
-          "name": "Tati Zaqui",
-          "url": "https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm"
-        },
-        {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+          "name": "MC Vigary",
+          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
         }
       ],
-      "duration_ms": 152783,
-      "name": "Surtada - Remix Brega Funk",
-      "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
+      "duration_ms": 166060,
+      "name": "Vai Embrazando",
+      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Kikadinha",
-        "url": "https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Kikadinha",
-      "url": "https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Espirra o Lan\u00e7a",
         "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Kikadinha",
+        "url": "https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Kikadinha",
+      "url": "https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy"
     },
     {
       "added_at": "2023-06-26 14:06:50",

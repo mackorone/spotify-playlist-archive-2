@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 393288,
+  "num_followers": 393379,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADQO9Y6cAmSFQqq7w8TTCrA",
+  "snapshot_id": "at/pgAAAAABjlCDmFAxZKCNJ5ttD3D8v",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Castle in Hollywood",
-      "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"
+      "duration_ms": 153666,
+      "name": "Castle in Hollywood",
+      "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched: The Goddess Edition",
-        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 127853,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/1pyfaPU3aw8JorXRJQf6cs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 239308,
       "name": "No One Knows (with Laufey)",
       "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched: The Goddess Edition",
+        "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/1pyfaPU3aw8JorXRJQf6cs"
     },
     {
       "added_at": null,

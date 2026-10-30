@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Glasswaves
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,072 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,195 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [Ritual](https://open.spotify.com/track/0aNXzn9u2RjgyZMMk8VswE) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [Ritual](https://open.spotify.com/album/2oPiyr0ALQq60yMc1ya498) | 3:57 |
 | 50 | [Bound and Strangled by a Black Snake](https://open.spotify.com/track/7bEpD7rGbV6xPVhvGQTNoy) | [Perpetual Paradox](https://open.spotify.com/artist/3vlyYDsqLobvIrmuaQjNWh) | [May Misery Befall You](https://open.spotify.com/album/4XCmynZVytsWhadbA3oGrq) | 4:35 |
 
-Snapshot ID: `AAAAAJZ/tTkFVWU5tpmra1XY/pfzmlD9`
+Snapshot ID: `AAAAAOeSd2Y7qyBCBDr16MfdSGGJM7Lx`

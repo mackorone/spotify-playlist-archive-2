@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "3 Dimensional",
+        "url": "https://open.spotify.com/album/7L0VEhDC8bBWnoukl9GuBn"
+      },
+      "artists": [
+        {
+          "name": "Cashen",
+          "url": "https://open.spotify.com/artist/3V45o0N6vMWhclV8v3jrJT"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197552,
+      "name": "3 Dimensional",
+      "url": "https://open.spotify.com/track/617d7MPXzPVaITqvUhTBtU"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/5celvKkIqMsgDGb4A3RUKX"
       },
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 160000,
       "name": "Baddies Going Out",
       "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
@@ -5084,6 +5102,28 @@
       "duration_ms": 115000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4soXgnLGNNHkrPfUouig5Z"
+    },
+    {
+      "album": {
+        "name": "CALL ME BABY (SAY MY NAME)",
+        "url": "https://open.spotify.com/album/1EDSqqCDWZafaumhltNONF"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176509,
+      "name": "CALL ME BABY (SAY MY NAME)",
+      "url": "https://open.spotify.com/track/7dM16TjujJwlQVQr47gipU"
     },
     {
       "album": {
@@ -8150,6 +8190,24 @@
       "duration_ms": 200944,
       "name": "Down",
       "url": "https://open.spotify.com/track/0amJfKONuoYGC8m9q4CkzG"
+    },
+    {
+      "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/5Va0Iqv8IO6fTFYunun5an"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/3zyAWDiicVIQAUl6woAWen"
     },
     {
       "album": {
@@ -16532,7 +16590,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 164307,
       "name": "louder",
       "url": "https://open.spotify.com/track/5ijihzkmqG2tnfwcKhRTyx"
@@ -19323,6 +19381,28 @@
     },
     {
       "album": {
+        "name": "No More Parties in LA",
+        "url": "https://open.spotify.com/album/0wusxmKyErWN8LrP6abI2P"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "Yona",
+          "url": "https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "No More Parties in LA",
+      "url": "https://open.spotify.com/track/5gcbic8XZPpOCSLc2sk5Q8"
+    },
+    {
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/3OcA0AvSNGLnvwLVHGA7Ei"
       },
@@ -20000,6 +20080,32 @@
       "duration_ms": 154384,
       "name": "Off The Hook",
       "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
+    },
+    {
+      "album": {
+        "name": "Off Your Mind (feat. Last Lights)",
+        "url": "https://open.spotify.com/album/4ktoV4yoXYmzjblrGQnBRm"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Last Lights",
+          "url": "https://open.spotify.com/artist/61RR77kYzFX0BnK7wbuYHh"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Off Your Mind (feat. Last Lights)",
+      "url": "https://open.spotify.com/track/35TcttWngjTFpUCO2VuTWX"
     },
     {
       "album": {
@@ -23117,6 +23223,28 @@
     },
     {
       "album": {
+        "name": "Rockin'",
+        "url": "https://open.spotify.com/album/0Mr5oQVgDuN7q930r2BDGK"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234843,
+      "name": "Rockin'",
+      "url": "https://open.spotify.com/track/7236T0SomATuqnT59Scqvi"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/6S7mPHW5b9ipL8Kaf56pn2"
       },
@@ -24766,7 +24894,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175805,
       "name": "SO HYPE",
       "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
@@ -27936,7 +28064,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194545,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"
@@ -28518,7 +28646,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 108398,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
@@ -30060,7 +30188,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181609,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/6Bthu3efq24dYsd5OvG34f"

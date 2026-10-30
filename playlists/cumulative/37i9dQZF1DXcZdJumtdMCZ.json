@@ -6937,6 +6937,28 @@
     },
     {
       "album": {
+        "name": "Shu Shu",
+        "url": "https://open.spotify.com/album/0fqsRmdMAMKA5nWnzbtoOK"
+      },
+      "artists": [
+        {
+          "name": "Sri Sudharsun",
+          "url": "https://open.spotify.com/artist/3rEvzXb6i6OZsX184y3lY8"
+        },
+        {
+          "name": "Vangal Pulla Vicky",
+          "url": "https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Shu Shu",
+      "url": "https://open.spotify.com/track/4xQhNOzQpUKhIpaMVrUftv"
+    },
+    {
+      "album": {
         "name": "Sigma Paiyan (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4sTHhxgBEZifnSNjbmkyg6"
       },

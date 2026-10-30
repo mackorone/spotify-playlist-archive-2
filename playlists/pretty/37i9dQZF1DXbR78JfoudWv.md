@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR78JfoudWv.md) - [plain]
 
 > Where happily ever after comes with a few horrifying complications.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAALPrNhZo3X81kVr/35son4I7Mwbr`
+Snapshot ID: `AAAAAK3VikxfZCRhhznY+GUbbUImM72v`

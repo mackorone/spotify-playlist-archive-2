@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,443 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,508 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 79 | [Sinner 2 Winner](https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j) | [Sinner 2 Winner](https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob) | 2:42 |
 | 80 | [IOU](https://open.spotify.com/track/4sx9iH87BCRWmvbvNLzjaQ) | [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [IOU](https://open.spotify.com/album/3AcRKbpD6MNJinpBx5v4dK) | 2:24 |
 
-Snapshot ID: `AAAAAMKQGY3BY29XkrhRH+/3O32QWgPY`
+Snapshot ID: `AAAAAEbAeLCkjExmWqZZLMrfdvaWni+F`

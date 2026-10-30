@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 
 > marrakech season
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,918 likes - 97 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,141 likes - 97 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 | 96 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
 | 97 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [tariq hmitti](https://open.spotify.com/artist/24TJV7vvRfbJhCeuDFTSEj) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
 
-Snapshot ID: `AAAAADD/GS6mM61umElLDXExM4rWLQOm`
+Snapshot ID: `AAAAADK5Jf82HzS0kFzLr8LgQBAGi8gV`

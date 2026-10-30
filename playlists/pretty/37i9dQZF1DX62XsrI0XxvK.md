@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,734 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,742 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 101 | [Kubuka Pintu](https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Kubuka Pintu](https://open.spotify.com/album/5IchrfWDYZmoJEaZKlUAcM) | 3:53 |
 | 102 | [Lika & Liku](https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Lika & Liku](https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v) | 2:21 |
 
-Snapshot ID: `AAAAAFNni1T6l5MT7FtZIgFClsePZYuh`
+Snapshot ID: `AAAAANXODOOrF7x+eJBsMDRzdXusGtC+`

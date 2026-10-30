@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: EWA KOC, B\u0142a\u017cej Kr\u00f3l, Dawid Tyszkowski",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Ofelia",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -726,6 +726,24 @@
       "duration_ms": 165417,
       "name": "ALERTY RCB",
       "url": "https://open.spotify.com/track/2HWPhvQLMVwhTLNVvLK3er"
+    },
+    {
+      "album": {
+        "name": "Wyprawy na...",
+        "url": "https://open.spotify.com/album/4dAP3luN7YPLLY8ZaxTqSo"
+      },
+      "artists": [
+        {
+          "name": "Natalia Agape",
+          "url": "https://open.spotify.com/artist/4QJc0E8zZk7MVzbYrWtakE"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214278,
+      "name": "Alfabet Morse'a",
+      "url": "https://open.spotify.com/track/5MTi0nJyXgS7BaK20p0DZ2"
     },
     {
       "album": {
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 158457,
       "name": "BESOS",
       "url": "https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv"
@@ -2648,6 +2666,32 @@
       "duration_ms": 220000,
       "name": "Bli\u017cej Ni\u017c Zwykle",
       "url": "https://open.spotify.com/track/1q4y9p21w6zhimnoC1ksiK"
+    },
+    {
+      "album": {
+        "name": "przedwczoraj, dzisiaj, pojutrze",
+        "url": "https://open.spotify.com/album/31SfUvVDbyFOdPUGNYqlh4"
+      },
+      "artists": [
+        {
+          "name": "Szczyl",
+          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
+        },
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Blok",
+      "url": "https://open.spotify.com/track/2828mIQarnzz6l22Gt4CAv"
     },
     {
       "album": {
@@ -5957,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "\u017b\u00d3\u0141TE OKNA",
+        "url": "https://open.spotify.com/album/0qBvNseXNXLauplqZJwCJQ"
+      },
+      "artists": [
+        {
+          "name": "JACKOWSKI",
+          "url": "https://open.spotify.com/artist/77cs27w0VN5UnR7tHNhxbe"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74842,
+      "name": "Czuj\u0119",
+      "url": "https://open.spotify.com/track/6ya5V4b6sX8V9WmQ5ikIUU"
+    },
+    {
+      "album": {
         "name": "Czuj\u0119",
         "url": "https://open.spotify.com/album/47zQOrpnpHRXigtzKd3yE4"
       },
@@ -6200,7 +6262,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186270,
       "name": "Dalej",
       "url": "https://open.spotify.com/track/1aOt3lO7XLsGMOOsjIHY7D"
@@ -14035,6 +14097,24 @@
     },
     {
       "album": {
+        "name": "krzy\u017c\u00f3wki",
+        "url": "https://open.spotify.com/album/1bxQy2mXvzH1ssaB085fLN"
+      },
+      "artists": [
+        {
+          "name": "Pulover",
+          "url": "https://open.spotify.com/artist/5OjfYJX7SuVKYKzpwqoxAq"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278999,
+      "name": "krzy\u017c\u00f3wki",
+      "url": "https://open.spotify.com/track/1niVrHWXYMUIyVALceTRuA"
+    },
+    {
+      "album": {
         "name": "Kr\u00f3l Ciszy",
         "url": "https://open.spotify.com/album/7DumU0N9nDUcJM0aojoLyG"
       },
@@ -16079,6 +16159,28 @@
     },
     {
       "album": {
+        "name": "Marz\u0119 o spokojnym \u015bnie",
+        "url": "https://open.spotify.com/album/6lMG2NjaO42A1nakWEsH1I"
+      },
+      "artists": [
+        {
+          "name": "Szymon Norkowski",
+          "url": "https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS"
+        },
+        {
+          "name": "La Venders",
+          "url": "https://open.spotify.com/artist/3t8kDrna1C3KDr8PleDQqy"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277763,
+      "name": "Marz\u0119 o spokojnym \u015bnie",
+      "url": "https://open.spotify.com/track/67TpaJx5GxcESD9wblw4Gp"
+    },
+    {
+      "album": {
         "name": "Masz czas",
         "url": "https://open.spotify.com/album/3Il2nxIPCyu26bdGr8Y2aC"
       },
@@ -16284,7 +16386,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 269241,
       "name": "Ma\u0142e serce",
       "url": "https://open.spotify.com/track/17peBJj8811NZZ9bnrUi2Y"
@@ -17138,7 +17240,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176805,
       "name": "Mistyka",
       "url": "https://open.spotify.com/track/6pxIcoiru1FZhvfBVSPsvl"
@@ -17210,7 +17312,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 279354,
       "name": "Mi\u0142o by\u0142o",
       "url": "https://open.spotify.com/track/2T2RaSqEW34rr5y1Eu4EUR"
@@ -18296,7 +18398,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 193846,
       "name": "M\u00f3zgu awaria",
       "url": "https://open.spotify.com/track/2I4124skW8zKKDor3rB7bd"
@@ -19074,7 +19176,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 249578,
       "name": "Nasze historie",
       "url": "https://open.spotify.com/track/3bkgBYavs4XiVq92R0t091"
@@ -19946,7 +20048,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 210325,
       "name": "Nie ma nas",
       "url": "https://open.spotify.com/track/5sFeeW8tQBe1FK5clZhTPl"
@@ -20378,6 +20480,24 @@
       "duration_ms": 177230,
       "name": "Nie Pytaj O Polsk\u0119",
       "url": "https://open.spotify.com/track/36exbaAVGfCwU6vYJtqZ2q"
+    },
+    {
+      "album": {
+        "name": "Lito\u015bci",
+        "url": "https://open.spotify.com/album/6ljqjZrlleZuSg8SWppEHy"
+      },
+      "artists": [
+        {
+          "name": "KO\u00d1",
+          "url": "https://open.spotify.com/artist/0AtOAJj8htHrSdMJAVnTI2"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152336,
+      "name": "Nie p\u00f3jd\u0119 na L4",
+      "url": "https://open.spotify.com/track/2O7JKTEoTTT54TGqqb3YfT"
     },
     {
       "album": {
@@ -23594,7 +23714,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 204000,
       "name": "Perseweracyjny loop",
       "url": "https://open.spotify.com/track/4StpqxJEl7U7lv1nHV8HQd"
@@ -25416,6 +25536,24 @@
       "duration_ms": 166607,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W"
+    },
+    {
+      "album": {
+        "name": "Problem Jednego Cia\u0142a",
+        "url": "https://open.spotify.com/album/5zWMFVmPRja3nFtYUWJ9zY"
+      },
+      "artists": [
+        {
+          "name": "Prometh",
+          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Problem Jednego Cia\u0142a",
+      "url": "https://open.spotify.com/track/5i09n6QrJKymJWIKvBebfQ"
     },
     {
       "album": {
@@ -28533,6 +28671,32 @@
     },
     {
       "album": {
+        "name": "Slow Release",
+        "url": "https://open.spotify.com/album/3Ny2mzMeWga0ogKldFcv7s"
+      },
+      "artists": [
+        {
+          "name": "Lowra",
+          "url": "https://open.spotify.com/artist/1xQFHbh6Ontj5Tud1eJ30o"
+        },
+        {
+          "name": "Rosalie.",
+          "url": "https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ"
+        },
+        {
+          "name": "2K88",
+          "url": "https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Slow Release",
+      "url": "https://open.spotify.com/track/17amToJZBzCuiRGttt6wyb"
+    },
+    {
+      "album": {
         "name": "1 2 3 4 5 R",
         "url": "https://open.spotify.com/album/0I9uo1TAbNsag4CKJgy0Xy"
       },
@@ -29578,7 +29742,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 198000,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/79A5CZWa6GAdUoD2GFY8gj"
@@ -30214,6 +30378,24 @@
       "duration_ms": 278986,
       "name": "Szum",
       "url": "https://open.spotify.com/track/3wlSDEpTLE2s7QtvEZrovH"
+    },
+    {
+      "album": {
+        "name": "szybko min\u0119\u0142o",
+        "url": "https://open.spotify.com/album/2o9d5xkaQjT8Sw3fiBgs45"
+      },
+      "artists": [
+        {
+          "name": "Runia",
+          "url": "https://open.spotify.com/artist/2H7QeqEBPdqQlJndh3s4sv"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209880,
+      "name": "szybko min\u0119\u0142o",
+      "url": "https://open.spotify.com/track/6LF5vinFe1PmvSQ6LGxJUL"
     },
     {
       "album": {
@@ -32290,7 +32472,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 156751,
       "name": "Troch\u0119 za Tob\u0105",
       "url": "https://open.spotify.com/track/4JM0dK80Ztbp57qFU9GfFs"
@@ -33362,6 +33544,24 @@
       "duration_ms": 239344,
       "name": "Uno Lovis Party",
       "url": "https://open.spotify.com/track/7JN8HL3x7FalMVRJmAO2B1"
+    },
+    {
+      "album": {
+        "name": "Unparalleled",
+        "url": "https://open.spotify.com/album/59fZTHbVmMp4cLEQMTpnGR"
+      },
+      "artists": [
+        {
+          "name": "Midsommar",
+          "url": "https://open.spotify.com/artist/5ATxYiYJM4gPcejF5Jevtg"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353408,
+      "name": "Unparalleled",
+      "url": "https://open.spotify.com/track/7vG4WgA7WKNLO4VsApRl9h"
     },
     {
       "album": {
@@ -35126,6 +35326,24 @@
       "duration_ms": 252444,
       "name": "Wo\u0142am",
       "url": "https://open.spotify.com/track/4R1UIrKh756uvuY3IPtOSU"
+    },
+    {
+      "album": {
+        "name": "Wpu\u015b\u0107 mnie",
+        "url": "https://open.spotify.com/album/5KiqiHn6IyeYnDIImSf8Ss"
+      },
+      "artists": [
+        {
+          "name": "Seweryn",
+          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Wpu\u015b\u0107 mnie",
+      "url": "https://open.spotify.com/track/1vAFkLXkFq9ZedsVYrzesg"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1451028,
+  "num_followers": 1451264,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAACavhZ/rVR2EcNlspfNA2/k",
+  "snapshot_id": "at/pgAAAAADcEVEK4SclHoOnc+Wdry8k",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
+        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 269045,
-      "name": "Was ich liebe",
-      "url": "https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu"
+      "duration_ms": 212800,
+      "name": "Waidmanns Heil",
+      "url": "https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Waidmanns Heil",
-      "url": "https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le"
+      "duration_ms": 269045,
+      "name": "Was ich liebe",
+      "url": "https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
+        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 273706,
-      "name": "Puppe",
-      "url": "https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F"
+      "duration_ms": 224906,
+      "name": "Haifisch",
+      "url": "https://open.spotify.com/track/5392GpKmAP3UvIAfHC8LAW"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Haifisch",
-      "url": "https://open.spotify.com/track/5392GpKmAP3UvIAfHC8LAW"
+      "duration_ms": 273706,
+      "name": "Puppe",
+      "url": "https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 
 > Our Rock editors' picks of the very best rock, alternative, metal and punk songs of last month\. Cover: Showing Teeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,736 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,788 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE5n0wXSmh.md) - [plain]
 | 54 | [Dissolve](https://open.spotify.com/track/2GtLJ75gxcW5LYiIIGc9Wb) | [Index](https://open.spotify.com/artist/3MFhkrjjpTsfXVTOvz6Ovu) | [Dissolve](https://open.spotify.com/album/6Geu19D7bKD8mOiChQ9zDQ) | 2:49 |
 | 55 | [Futuretripping](https://open.spotify.com/track/6dfJR3nbMqV3O1JwBqJ9DT) | [Ganser](https://open.spotify.com/artist/32ONqBogM4wH7VRbcMZYtE) | [Futuretripping](https://open.spotify.com/album/2X0SXf0xxE1lsJG9eZZcLv) | 3:22 |
 
-Snapshot ID: `AAAAAHb/8OLJHMWPoUeD6O8vCDCK4nDd`
+Snapshot ID: `AAAAAOD9AfKGnmZormkSBq5JqYEOymyI`

@@ -4,7 +4,7 @@
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 5 min
+71 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Meet Ze Monsta](https://open.spotify.com/track/29A28JjjELDyZL1mUekhkC) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:29 | 2025-10-28 |  |
 | [Missed](https://open.spotify.com/track/2tVMNPTbICJLm80kJP95aJ) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:25 | 2025-10-28 |  |
 | [My Beautiful Leah](https://open.spotify.com/track/6Z394DZLBLSbJYz1h6eVdK) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 1:59 | 2026-08-26 | 2026-08-27 |
+| [My Horse Named Dream](https://open.spotify.com/track/3BJK1smu2ZKBLVNxgSVmkC) | [Oliver Leith](https://open.spotify.com/artist/3oYfG3258SNid91d6wwGKJ), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj), [GBSR Duo](https://open.spotify.com/artist/5t9dwjh5i2wjq0nZ5923jD), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Doom and the Dooms](https://open.spotify.com/album/0qMtdEQAFu7eLqJ4ZkMsip) | 4:55 | 2026-10-30 |  |
 | [No Girl So Sweet](https://open.spotify.com/track/5RYCXmaVi9QEgWefZtL7bX) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 2:45 | 2026-08-26 | 2026-08-27 |
 | [Oh My Lover](https://open.spotify.com/track/4ALqvXasAmrEohxqHHo0r1) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:57 | 2026-08-26 | 2026-08-27 |
 | [Old Times Away](https://open.spotify.com/track/4EoriuWpmmo0bhckGuUjxY) | [Oliver Leith](https://open.spotify.com/artist/3oYfG3258SNid91d6wwGKJ), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj), [GBSR Duo](https://open.spotify.com/artist/5t9dwjh5i2wjq0nZ5923jD), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Doom and the Dooms](https://open.spotify.com/album/0qMtdEQAFu7eLqJ4ZkMsip) | 3:51 | 2026-10-25 |  |
@@ -53,7 +54,7 @@
 | [Send His Love To Me](https://open.spotify.com/track/1w4T78gf2IomS9eZR4cO7S) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 4:20 | 2025-10-28 |  |
 | [Shame](https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:31 | 2025-12-29 |  |
 | [Sheela\-na\-gig](https://open.spotify.com/track/4WTNdb4ivbpoFuEMrykehP) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:12 | 2025-10-28 |  |
-| [The Community Of Hope](https://open.spotify.com/track/1rHlc3clkZmCryFhGoRRXB) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 2:23 | 2025-10-28 |  |
+| [The Community Of Hope](https://open.spotify.com/track/1rHlc3clkZmCryFhGoRRXB) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 2:23 | 2025-10-28 | 2026-10-30 |
 | [The Dancer](https://open.spotify.com/track/1XXnKGbxitQMuOuzEoWKtj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 4:05 | 2025-10-28 |  |
 | [The Desperate Kingdom Of Love](https://open.spotify.com/track/3VaEfwrLPdKg9Tsk2VK9ot) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:42 | 2025-12-01 | 2026-01-01 |
 | [The Devil](https://open.spotify.com/track/3yQaqdN6WLrhBsigizCkW5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 2:55 | 2026-08-26 | 2026-08-27 |

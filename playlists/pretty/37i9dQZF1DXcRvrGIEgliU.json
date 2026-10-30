@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 20634,
+  "num_followers": 20667,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAvxWAebGnqGuuYV8XB58QEn7tNz",
+  "snapshot_id": "AAAAAE1sjuQZsDjlfV51GD2WzPOZot6e",
   "tracks": [
     {
       "added_at": "2025-05-19 03:00:14",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 157779,
+      "name": "G\u00ebt Busy",
+      "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Small Change",
         "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 157779,
-      "name": "G\u00ebt Busy",
-      "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
     },
     {
-      "added_at": "2025-05-29 17:04:18",
-      "album": {
-        "name": "Bed on Fire",
-        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
-    },
-    {
       "added_at": "2025-05-19 03:00:14",
       "album": {
         "name": "Food for the Soul",
@@ -1047,6 +1031,22 @@
       "duration_ms": 210562,
       "name": "Food for the Soul",
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
+    },
+    {
+      "added_at": "2025-05-29 17:04:18",
+      "album": {
+        "name": "Bed on Fire",
+        "url": "https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 228507,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
-        "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
-      },
-      "artists": [
-        {
-          "name": "buitruonglinh",
-          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
-        }
-      ],
-      "duration_ms": 233975,
-      "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
-      "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Bodhiria",
         "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Sensitive",
-        "url": "https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM"
+        "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
+        "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
       },
       "artists": [
         {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Sensitive",
-      "url": "https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB"
+      "duration_ms": 233975,
+      "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
+      "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1239,6 +1223,22 @@
       "duration_ms": 225600,
       "name": "Play God",
       "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/1KkWCmPdnd4Cv86DHNQctM"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/06DPYEqSX1jMaxvnXNVshB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
         "url": "https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/6azvhyagGek75gi0pLyl30"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "U\u00e7urum",
-        "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
-      },
-      "artists": [
-        {
-          "name": "M Lisa",
-          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "U\u00e7urum",
-      "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "U\u00e7urum",
+        "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "U\u00e7urum",
+      "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
-      },
-      "artists": [
-        {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
-        }
-      ],
-      "duration_ms": 94085,
-      "name": "nine thirty (the glow)",
-      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "fangirl",
         "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 174462,
       "name": "high school boy",
       "url": "https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 94085,
+      "name": "nine thirty (the glow)",
+      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Sunday (1994) [Deluxe]",
-        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Tired Boy",
-      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Sunday (1994) [Deluxe]",
+        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "H O M E",
-      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Can't Hide",
         "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
@@ -2259,18 +2243,34 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
       },
       "artists": [
         {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
+      "duration_ms": 231000,
+      "name": "H O M E",
+      "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Space Makes Me Sad",
+        "url": "https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 136419,
+      "name": "Space Makes Me Sad",
+      "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2291,18 +2291,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Space Makes Me Sad",
-        "url": "https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX"
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 136419,
-      "name": "Space Makes Me Sad",
-      "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
+      "duration_ms": 286000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 233750,
       "name": "Blue Eyed Constellation",
       "url": "https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
     },
     {
       "added_at": "2025-05-19 03:00:14",

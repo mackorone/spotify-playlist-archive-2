@@ -4,7 +4,7 @@
 
 > All the sunny surf rock you need.
 
-407 songs - 23 hr 5 min
+408 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2022-09-22 | 2024-04-19 |
 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 | 2025-02-07 |  |
 | [Braindrain](https://open.spotify.com/track/4WZ5B7olkCaTcmymLflInK) | [Sun Parade](https://open.spotify.com/artist/1lCZ4RSTbXbHeN5ZB8EPMr) | [Braindrain](https://open.spotify.com/album/45FgV7XuOG2NINZAhNJNqw) | 3:03 | 2021-02-05 | 2022-07-29 |
+| [Broke Man's Money](https://open.spotify.com/track/30HC4BglLHE6dDPhIKI6KT) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Fresher Than Daisies](https://open.spotify.com/album/6Nj1VZ44Sn6jDA1mxyMhJM) | 2:34 | 2026-10-22 |  |
 | [Broken Finger Blues](https://open.spotify.com/track/71FYSkmSyrEncuZDqBnPiS) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Hex](https://open.spotify.com/album/69OHkuXuh8djCi1LXdUCgr) | 4:20 | 2022-07-22 | 2022-12-13 |
 | [Broken Finger Blues](https://open.spotify.com/track/0O2WHAJUeYcElqNz8g2Q1V) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [The Hex](https://open.spotify.com/album/1T764WfpIEjIxme1YdUEzF) | 4:20 | 2021-02-05 | 2022-07-29 |
 | [Burning Tide](https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [No Chaser](https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU) | 2:40 | 2026-09-17 |  |
@@ -228,7 +229,7 @@
 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 | 2025-02-07 |  |
 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 | 2023-07-13 | 2026-10-23 |
 | [Natasha Lyonne](https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm) | [Fast Color](https://open.spotify.com/artist/7rUKNZlWNCbukbYpEBdEL5) | [Freaks Feel Like Divas](https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn) | 2:30 | 2023-07-13 | 2025-09-02 |
-| [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 | 2025-02-07 |  |
+| [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 | 2025-02-07 | 2026-10-30 |
 | [Never Going Home](https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/4tKnS9Q0lgN3i7SmXi4mGI) | 3:56 | 2021-02-05 | 2022-07-13 |
 | [No Worries](https://open.spotify.com/track/2AhPep6xcLbpqLwo4c0P6q) | [Unifya](https://open.spotify.com/artist/0oC2lJahrrjwTYF8DaI4HK) | [No Worries](https://open.spotify.com/album/1kkcMkmzB9DgT3ltUulZFh) | 3:41 | 2023-07-13 | 2025-07-20 |
 | [NOBO](https://open.spotify.com/track/1d150ahPbFUS7Cbe5hcJdn) | [Tijuana Panthers](https://open.spotify.com/artist/5XGoUe0WjmbOtppHlB7Taf) | [Wayne Interest](https://open.spotify.com/album/2v2fKCE9DMHnkg6dQqcaZl) | 4:07 | 2021-02-05 | 2022-04-21 |

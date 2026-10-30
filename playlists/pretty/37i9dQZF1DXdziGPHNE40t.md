@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,934 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,942 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 74 | [Mirabelle](https://open.spotify.com/track/5ZZUajubKFkpNW9eI8pedD) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Mirabelle](https://open.spotify.com/album/6svrhdbZqSWr6lUuoF16nV) | 3:42 |
 | 75 | [The Cage](https://open.spotify.com/track/0nshd6vK1OcwIeUFyniwes) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [The Cage](https://open.spotify.com/album/2N5dwzmK0uyhR9gTAFIZJk) | 4:59 |
 
-Snapshot ID: `AAAAAFkUjI/keAluuRSEeyWDzQQG1+lr`
+Snapshot ID: `AAAAAELjXI6S9W+2U72/xYGvv2RN0oqn`

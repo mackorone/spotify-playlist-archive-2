@@ -1723,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Beautiful Life (feat. Crooked Bangs)",
+        "url": "https://open.spotify.com/album/1j218GulOYLbdaxuflkt29"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        },
+        {
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "Beautiful Life (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/78hfRYGI7x8bKoWcOzoocf"
+    },
+    {
+      "album": {
         "name": "Little Love",
         "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
       },
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 215357,
       "name": "CAN'T FIND YOU",
       "url": "https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j"
@@ -4882,7 +4904,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 260353,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
@@ -7994,7 +8016,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194030,
       "name": "Holly",
       "url": "https://open.spotify.com/track/1xXHCKVvxbOWY7w4MNTabh"
@@ -8096,7 +8118,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 162750,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
@@ -8908,7 +8930,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 203478,
       "name": "I Still Remember",
       "url": "https://open.spotify.com/track/4IGuNhLfB8m1iLPX79qK8g"
@@ -13766,7 +13788,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 209577,
       "name": "Now That I Got You",
       "url": "https://open.spotify.com/track/4OXAFxJjeHjkg0wElaVPtT"
@@ -16052,7 +16074,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 244295,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/1Urif2vcnbYSMmeFWZFvb2"
@@ -17947,6 +17969,24 @@
     },
     {
       "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/43X6TZVig2360nHCauKFBc"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316097,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB"
+    },
+    {
+      "album": {
         "name": "Second Nature (Remixes)",
         "url": "https://open.spotify.com/album/4C4V7xWan1E9J5zC30ySqD"
       },
@@ -19350,6 +19390,24 @@
       "duration_ms": 217337,
       "name": "The Way",
       "url": "https://open.spotify.com/track/6xyCrIFJiZXmQgcGRrzXmU"
+    },
+    {
+      "album": {
+        "name": "Smiling Through The Pain",
+        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184790,
+      "name": "The Way It Goes",
+      "url": "https://open.spotify.com/track/0koayp1WcjhQjN5kS5JxoE"
     },
     {
       "album": {

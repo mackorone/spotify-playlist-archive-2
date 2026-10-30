@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,197 likes - 122 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,667 likes - 122 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 121 | [Open up](https://open.spotify.com/track/732AeYEiilADr0WSHFV9of) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 1:26 |
 | 122 | [Angelpoise](https://open.spotify.com/track/166zClVf5F2M9yX0etaDXR) | [Thatone](https://open.spotify.com/artist/4gYp1H6SThmNR4aMAYVOpM) | [Angelpoise](https://open.spotify.com/album/1y3ZtigWhu0CpWEAxNBD4v) | 3:12 |
 
-Snapshot ID: `AAAAAEDxfDxeXUU3ZdMPZMGK6+lmy0VX`
+Snapshot ID: `AAAAABMTZvUvdu+P2yqwfBNw9pmFRq/O`

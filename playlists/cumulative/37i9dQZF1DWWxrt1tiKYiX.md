@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-284 songs - 15 hr 45 min
+285 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Start Walking \- Acoustic Version](https://open.spotify.com/track/7gFoo5dFwUmy219QoPEjAR) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking \(Acoustic Version\)](https://open.spotify.com/album/2WtZ6nN30t7FmI4JXYAVAN) | 3:24 | 2022-01-28 | 2022-10-09 |
 | [State Of Grace \(Acoustic Version\) \(Taylor's Version\)](https://open.spotify.com/track/5jAIouBES8LWMiriuNq170) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:21 | 2022-01-28 | 2025-07-12 |
 | [Stay \- Acoustic](https://open.spotify.com/track/1EXxVBTTTzjgon6hWh3TuD) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay \(Acoustic\)](https://open.spotify.com/album/33I53O0BDLOUyecefvTf2R) | 3:15 | 2022-01-28 |  |
+| [Stop The Wedding! \(Original Piano Demo\)](https://open.spotify.com/track/6RWnO2rl6P66wa5OywrazI) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding! \(Original Piano Demo\)](https://open.spotify.com/album/6MuNWC2vhoBt2Pok2S6Eye) | 3:18 | 2026-10-30 |  |
 | [STRINGS \(feat\. JVKE & Bazzi\) \- Stripped Version](https://open.spotify.com/track/4VfnCDIo9jJpURfQ2mlImk) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [STRINGS \(feat\. JVKE & Bazzi\) \[Stripped Version\]](https://open.spotify.com/album/2WiZ4BUTVALB9f61XmI3cP) | 2:31 | 2023-08-18 | 2024-08-10 |
 | [Stupid Cupid \- Acoustic Version](https://open.spotify.com/track/5TwVQJeh2k2ED1LHrCUl50) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Stupid Cupid \(Acoustic Version\)](https://open.spotify.com/album/7la8OQJ5dzgJ5oQFSeeTzk) | 2:52 | 2023-04-14 | 2023-07-08 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \- Stripped Version](https://open.spotify.com/track/2ED71uZCYogHDMcYh7nTW2) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \[Stripped Version\]](https://open.spotify.com/album/5kuNl1xlnjBBkS4tv111qJ) | 2:49 | 2024-03-01 |  |

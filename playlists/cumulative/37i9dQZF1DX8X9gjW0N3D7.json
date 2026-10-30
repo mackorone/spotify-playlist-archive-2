@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "deux poissons",
+        "url": "https://open.spotify.com/album/09kAyG5EMRYbggv7WBT936"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207720,
+      "name": "deux poissons",
+      "url": "https://open.spotify.com/track/6ebKQrUCXpiy74GorQT55C"
+    },
+    {
+      "album": {
         "name": "Parce que ce soir",
         "url": "https://open.spotify.com/album/3HS1ynrc1o4iD1b9gpcLZx"
       },
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 218520,
       "name": "Haricots rouges",
       "url": "https://open.spotify.com/track/2gN3My6bhpndAvmqz0l4uC"
@@ -5099,7 +5117,7 @@
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178588,
+      "duration_ms": 177822,
       "name": "La course au plus beau jour de l'humanit\u00e9",
       "url": "https://open.spotify.com/track/7fNdgHkCtxO0kWaZz0vklV"
     },
@@ -6697,6 +6715,24 @@
     },
     {
       "album": {
+        "name": "Magan\u00e9",
+        "url": "https://open.spotify.com/album/5PBlB7kpvAKPcyXPJ7uQvH"
+      },
+      "artists": [
+        {
+          "name": "Orange Lessard",
+          "url": "https://open.spotify.com/artist/4Y7Z6989C1MbKYFpCVtvC6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123305,
+      "name": "Magan\u00e9",
+      "url": "https://open.spotify.com/track/4I5xQzIE8Bm2OJ9MOST2Gr"
+    },
+    {
+      "album": {
         "name": "Magicienne, Vol.2",
         "url": "https://open.spotify.com/album/1PfpS3Dw7oyvdAmRv0tDEj"
       },
@@ -6730,6 +6766,24 @@
       "duration_ms": 179980,
       "name": "Mal de peau",
       "url": "https://open.spotify.com/track/2Xmp4mmSVp2TUbM399n7FN"
+    },
+    {
+      "album": {
+        "name": "Marie C\u00e9leste",
+        "url": "https://open.spotify.com/album/46rS6BCpOhczqDDZ7dIOZh"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248458,
+      "name": "Marie C\u00e9leste",
+      "url": "https://open.spotify.com/track/2bER5iE2bOppib04Nmd49x"
     },
     {
       "album": {
@@ -7787,6 +7841,28 @@
     },
     {
       "album": {
+        "name": "On n'a pas chang\u00e9",
+        "url": "https://open.spotify.com/album/0QKWsKwco2RCn7nnZ1yINo"
+      },
+      "artists": [
+        {
+          "name": "Noir Silence",
+          "url": "https://open.spotify.com/artist/4JNWNjB0AE0aLIuG5GNdiR"
+        },
+        {
+          "name": "David Pineau",
+          "url": "https://open.spotify.com/artist/3n53aGeDfq4Vc3q7OpstmY"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "On n'a pas chang\u00e9",
+      "url": "https://open.spotify.com/track/38USzMzQnz8nlM4VQq5Koh"
+    },
+    {
+      "album": {
         "name": "On Part en Vacances",
         "url": "https://open.spotify.com/album/0SbnyJhzHmt63cZgjXUV2J"
       },
@@ -8130,7 +8206,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 139997,
       "name": "Parfait pays",
       "url": "https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM"
@@ -9240,7 +9316,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 235768,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF"
@@ -9832,7 +9908,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 193493,
       "name": "Si les bateaux",
       "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
@@ -10777,6 +10853,24 @@
     },
     {
       "album": {
+        "name": "Volume 1 : Origine",
+        "url": "https://open.spotify.com/album/0Ca5FfdvP0jxsvbcOcYe2v"
+      },
+      "artists": [
+        {
+          "name": "Valois Fauteux",
+          "url": "https://open.spotify.com/artist/3isJMJbCH8xMzvqF5QGQU7"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219693,
+      "name": "Toujours la roue",
+      "url": "https://open.spotify.com/track/0u6PUG1Kj52GhSI1mcdJd1"
+    },
+    {
+      "album": {
         "name": "Toujours les vacances",
         "url": "https://open.spotify.com/album/6BhQevzQw5GpC7SL8KgwFO"
       },
@@ -11572,7 +11666,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 184826,
       "name": "we were fire",
       "url": "https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG"

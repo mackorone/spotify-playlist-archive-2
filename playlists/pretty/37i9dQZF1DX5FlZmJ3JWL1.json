@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 773283,
+  "num_followers": 773290,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHoOdY3c44wvaFFNjUxaPangXVUW",
+  "snapshot_id": "AAAAAF1+8rBfQBJgC4vX9PFKDYRbRKEU",
   "tracks": [
     {
       "added_at": "2026-10-23 07:40:39",
@@ -127,30 +127,26 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "LET'S GET FKD UP (feat. Tribbs)",
-        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
         },
         {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         }
       ],
-      "duration_ms": 121500,
-      "name": "LET'S GET FKD UP",
-      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -187,26 +183,30 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
       "artists": [
         {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
         },
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
         }
       ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "Unfaithful",
-        "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        }
-      ],
-      "duration_ms": 231891,
-      "name": "Unfaithful",
-      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
+        "name": "Unfaithful",
+        "url": "https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 231891,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
         "name": "tell you straight (Speed Garage)",
         "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 94344,
       "name": "tell you straight - Sped Up",
       "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
-        "name": "Crusade",
-        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Crusade - Club Edit",
-      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
+        "name": "Breakin' Dishes",
+        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
         "name": "It's My Life (Techno Remix)",
         "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "Breakin' Dishes",
-        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/5kHtzdMxZ2ubNUktPtHRV1"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
         }
       ],
-      "duration_ms": 133517,
-      "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
+      "duration_ms": 127703,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5qlUx9z0dElbbWFP8VRz4p"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -967,22 +983,6 @@
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/5kHtzdMxZ2ubNUktPtHRV1"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 127703,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/5qlUx9z0dElbbWFP8VRz4p"
     },
     {
       "added_at": "2026-10-23 07:40:39",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-10-23 07:40:39",
       "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
-    },
-    {
-      "added_at": "2026-10-23 07:40:39",
-      "album": {
         "name": "Ex's & Oh's",
         "url": "https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR"
       },
@@ -1051,6 +1031,22 @@
       "duration_ms": 123504,
       "name": "Ex's & Oh's",
       "url": "https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT"
+    },
+    {
+      "added_at": "2026-10-23 07:40:39",
+      "album": {
+        "name": "call me back",
+        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Kid",
+          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
+        }
+      ],
+      "duration_ms": 114906,
+      "name": "call me back",
+      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
     }
   ],
   "unique_name": "Fit Beats ",

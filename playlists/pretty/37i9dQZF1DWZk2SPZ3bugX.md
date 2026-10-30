@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,078 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,073 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Your Lovin'](https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Your Lovin'](https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be) | 3:27 |
 | 60 | [Heartbeat](https://open.spotify.com/track/0LF31JzVi4GSthMthWoHIE) | [Plaisance](https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu), [Quiet Blue](https://open.spotify.com/artist/2Wid46wTM2efkNxWhmVqpf) | [Fallin'](https://open.spotify.com/album/2ckOSr74FyVnYd6a4nsXyY) | 4:00 |
 
-Snapshot ID: `AAAAAKdpNJpiLxDUrySadSKLiTW+4O12`
+Snapshot ID: `AAAAAO0XxdIV/+YE/IQOX4uLuBUWDdUP`

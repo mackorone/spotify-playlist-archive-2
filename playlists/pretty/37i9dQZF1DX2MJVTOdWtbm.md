@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Dalex
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,478 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,511 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 149 | [Quimica Divina](https://open.spotify.com/track/5ohBTUZkCiulRMgELnORaR) | [ELYSANIJ](https://open.spotify.com/artist/6xLvSuN3p2uD8IorXxYmHg) | [ELY](https://open.spotify.com/album/5JyPL5CuSIXPsxdfxjrAK7) | 2:59 |
 | 150 | [Krusty](https://open.spotify.com/track/7h8TjCOytFI0l1ZZnYfL0w) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [HANASHA](https://open.spotify.com/artist/1KebHbISUKPOuXBjjCs5N6) | [Krusty](https://open.spotify.com/album/2J7N9LFYEc6ftSDGEj45VF) | 3:25 |
 
-Snapshot ID: `AAAAAFw2BS7NdbUi6XOp65kTuA02mXpr`
+Snapshot ID: `AAAAAEP9eE2PI934wfWQATPmtXaUxy56`

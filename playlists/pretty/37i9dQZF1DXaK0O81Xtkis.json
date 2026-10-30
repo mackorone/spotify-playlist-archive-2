@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring OK MICKEY",
-  "num_followers": 228142,
+  "num_followers": 228106,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLCZDbMv3i19nx4lLFQ64rbu7O5",
+  "snapshot_id": "AAAAADO2N0JWbO5IJfj9lJkBZa0cQwsw",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:26",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
     },
     {
+      "added_at": "2026-10-30 04:00:38",
+      "album": {
+        "name": "could this be forever?",
+        "url": "https://open.spotify.com/album/3P9V0bvpHKtW4wlcyjzFVu"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/6pJzH5GrCZv7iCw3R2XDTp"
+    },
+    {
       "added_at": "2026-10-23 04:01:26",
       "album": {
         "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw"
     },
     {
+      "added_at": "2026-10-30 04:00:38",
+      "album": {
+        "name": "I BELIEVE IN GHOSTS",
+        "url": "https://open.spotify.com/album/6BYbERfjuYQ9bBv9wignHx"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "I BELIEVE IN GHOSTS",
+      "url": "https://open.spotify.com/track/4HMSZp8GPo07JE1OgMR92G"
+    },
+    {
       "added_at": "2026-10-23 04:01:26",
       "album": {
         "name": "oh well!",
@@ -55,6 +87,22 @@
       "duration_ms": 189088,
       "name": "oh well!",
       "url": "https://open.spotify.com/track/1WEIB44lAiiGxpmfCPDu2t"
+    },
+    {
+      "added_at": "2026-10-30 04:00:38",
+      "album": {
+        "name": "What Would I Do?",
+        "url": "https://open.spotify.com/album/5pQDZXu1UoG0052v3mOabg"
+      },
+      "artists": [
+        {
+          "name": "Tyler Miller",
+          "url": "https://open.spotify.com/artist/7tD6cGrcNPMfUl71KlFdBI"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "What Would I Do?",
+      "url": "https://open.spotify.com/track/09p59Cy2C4faahmKQGpnMU"
     },
     {
       "added_at": "2026-10-23 04:24:41",
@@ -87,6 +135,22 @@
       "duration_ms": 202137,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/3aCt1z9Hpj7ptFvo3BYbJW"
+    },
+    {
+      "added_at": "2026-10-30 04:00:38",
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN"
+      },
+      "artists": [
+        {
+          "name": "Bana",
+          "url": "https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM"
+        }
+      ],
+      "duration_ms": 143335,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk"
     },
     {
       "added_at": "2026-10-02 04:02:37",
@@ -597,22 +661,6 @@
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
     },
     {
-      "added_at": "2026-07-24 04:02:41",
-      "album": {
-        "name": "Head First",
-        "url": "https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Head First",
-      "url": "https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65"
-    },
-    {
       "added_at": "2026-08-21 04:00:21",
       "album": {
         "name": "Wet Cement",
@@ -771,22 +819,6 @@
     {
       "added_at": "2026-08-07 04:24:23",
       "album": {
-        "name": "Stunner",
-        "url": "https://open.spotify.com/album/1WOBDxDGuGF763HTh7YSEV"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Stunner",
-      "url": "https://open.spotify.com/track/5WPulnXHTJuGhdhMNg7KQN"
-    },
-    {
-      "added_at": "2026-08-07 04:24:23",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/6gIX1GpqaD5UMqrgmXqxXV"
       },
@@ -799,22 +831,6 @@
       "duration_ms": 175200,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/1jKBuqvBVcKaJWZOLqWyVF"
-    },
-    {
-      "added_at": "2026-07-24 04:02:41",
-      "album": {
-        "name": "If I Ever Talk To God",
-        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
-      },
-      "artists": [
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "If I Ever Talk To God",
-      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
     }
   ],
   "unique_name": "soda",

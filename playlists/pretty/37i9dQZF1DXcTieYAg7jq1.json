@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Bebe Stockwell",
-  "num_followers": 448688,
+  "num_followers": 448703,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzl87DrwMdyAjUQTdfTadhSdFri",
+  "snapshot_id": "AAAAAAG/BZLNYnlq6Bp4/Tj7R60ZeMtv",
   "tracks": [
     {
       "added_at": "2026-10-23 14:46:07",
@@ -23,6 +23,38 @@
       "duration_ms": 174554,
       "name": "Bad at Goodbyes",
       "url": "https://open.spotify.com/track/3SHM2RkG2IzMiU57KHuMQC"
+    },
+    {
+      "added_at": "2026-10-30 04:01:35",
+      "album": {
+        "name": "Something Kinda Strange",
+        "url": "https://open.spotify.com/album/00V5FnlwyJVDGIDgL6mJVm"
+      },
+      "artists": [
+        {
+          "name": "Benedict Cork",
+          "url": "https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv"
+        }
+      ],
+      "duration_ms": 178425,
+      "name": "Something Kinda Strange",
+      "url": "https://open.spotify.com/track/5VOLcjt7HsECg5lER5XTAx"
+    },
+    {
+      "added_at": "2026-10-02 04:02:16",
+      "album": {
+        "name": "Midnight Crisis",
+        "url": "https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "duration_ms": 207654,
+      "name": "Midnight Crisis",
+      "url": "https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk"
     },
     {
       "added_at": "2026-10-23 08:00:12",
@@ -119,22 +151,6 @@
       "duration_ms": 174321,
       "name": "Passing Faces",
       "url": "https://open.spotify.com/track/1jnOqvJZGqEJ921YiqeDbu"
-    },
-    {
-      "added_at": "2026-10-02 04:02:16",
-      "album": {
-        "name": "Midnight Crisis",
-        "url": "https://open.spotify.com/album/5NBylpmkOvFFlpF9Gx2mFl"
-      },
-      "artists": [
-        {
-          "name": "Paige Fish",
-          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
-        }
-      ],
-      "duration_ms": 207654,
-      "name": "Midnight Crisis",
-      "url": "https://open.spotify.com/track/2EKRvcVCzYfamZCUWdYBJk"
     },
     {
       "added_at": "2026-10-23 08:00:12",
@@ -1539,22 +1555,6 @@
       "duration_ms": 160538,
       "name": "Broke Bitch Boogie",
       "url": "https://open.spotify.com/track/2nvvVIj0PudeVXCjl7cXBm"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "Somersault Queen",
-        "url": "https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 245336,
-      "name": "My Endeavour",
-      "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
     },
     {
       "added_at": "2025-09-12 04:00:28",

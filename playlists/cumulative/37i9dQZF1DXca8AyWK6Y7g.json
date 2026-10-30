@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/0MHyfqEAWzYSAFIED3O29F"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180471,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/53xuXAfHpObt97KGswDalp"
+    },
+    {
+      "album": {
         "name": "Anime & Chardonnay",
         "url": "https://open.spotify.com/album/3axIWBZClmm8twTMfo4EmZ"
       },
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 192946,
       "name": "Average Joe",
       "url": "https://open.spotify.com/track/7rC6j8fRo2Sov5GX099XVv"
@@ -4668,6 +4686,24 @@
       "duration_ms": 145920,
       "name": "birds",
       "url": "https://open.spotify.com/track/1E1ADJa30a8uiG6vgvSnY4"
+    },
+    {
+      "album": {
+        "name": "late night swim",
+        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141339,
+      "name": "birds and butterflies",
+      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
     },
     {
       "album": {
@@ -7690,6 +7726,24 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH"
+    },
+    {
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/11QcHtHtbBiD0SHISXRUTL"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168506,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/60rDCiZ2OWfOi4hVEKxZup"
     },
     {
       "album": {
@@ -13216,7 +13270,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 193602,
       "name": "dream",
       "url": "https://open.spotify.com/track/7F8W8CzG7Q61v09z90rIAF"
@@ -15032,7 +15086,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 157960,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/5zsaIAuOp3SmeNV3ASmJMs"
@@ -18774,7 +18828,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169121,
       "name": "Good At Leaving",
       "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
@@ -20079,6 +20133,24 @@
     },
     {
       "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214335,
+      "name": "He Likes Boys",
+      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
+    },
+    {
+      "album": {
         "name": "petals",
         "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
       },
@@ -20344,6 +20416,24 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK (feat. lau.ra)",
       "url": "https://open.spotify.com/track/4esIFtCJ2RUFbJpDGluVG4"
+    },
+    {
+      "album": {
+        "name": "Plain Jane",
+        "url": "https://open.spotify.com/album/3d219WSRvmx2bMOjktulEK"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208453,
+      "name": "Heart Shaped Bed",
+      "url": "https://open.spotify.com/track/7gjOdGi8agj10BCbcKaiiw"
     },
     {
       "album": {
@@ -22495,6 +22585,24 @@
     },
     {
       "album": {
+        "name": "I BELIEVE IN GHOSTS",
+        "url": "https://open.spotify.com/album/6BYbERfjuYQ9bBv9wignHx"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "I BELIEVE IN GHOSTS",
+      "url": "https://open.spotify.com/track/4HMSZp8GPo07JE1OgMR92G"
+    },
+    {
+      "album": {
         "name": "I Bet She\u2019s Really Nice",
         "url": "https://open.spotify.com/album/5bNIHI6vTq0IBHjDXcBgE1"
       },
@@ -23634,7 +23742,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 196000,
       "name": "I Wish I Didn't Care",
       "url": "https://open.spotify.com/track/3m6ISq59EGnp4fHwxQsR5k"
@@ -24468,7 +24576,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 145573,
       "name": "If You Wanna Be Adored",
       "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
@@ -27870,6 +27978,24 @@
       "duration_ms": 163233,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/5xPqn733JeKtv7roQUEQb5"
+    },
+    {
+      "album": {
+        "name": "could this be forever?",
+        "url": "https://open.spotify.com/album/3P9V0bvpHKtW4wlcyjzFVu"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/6pJzH5GrCZv7iCw3R2XDTp"
     },
     {
       "album": {
@@ -32482,6 +32608,24 @@
       "duration_ms": 129641,
       "name": "My Sunny Day",
       "url": "https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx"
+    },
+    {
+      "album": {
+        "name": "Sensitive to the room, sensitive to the sound",
+        "url": "https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237292,
+      "name": "My Vice Is Misery",
+      "url": "https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn"
     },
     {
       "album": {
@@ -38360,7 +38504,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 151003,
       "name": "Question Of The Day",
       "url": "https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48"
@@ -45232,7 +45376,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 187265,
       "name": "Summer You Were Mine",
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
@@ -50624,7 +50768,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 184631,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/4BFvqk9rN8wA90Jh3IO12w"
@@ -54082,6 +54226,24 @@
       "duration_ms": 173195,
       "name": "YOUR GHOST",
       "url": "https://open.spotify.com/track/6X8NtXpTWAdHj01tn03LCz"
+    },
+    {
+      "album": {
+        "name": "your hand in mine",
+        "url": "https://open.spotify.com/album/4XapD00kJ6twsXysur20Jp"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177270,
+      "name": "your hand in mine",
+      "url": "https://open.spotify.com/track/77MB8bA6c2fUHVgUD2SeI5"
     },
     {
       "album": {

@@ -1,13 +1,77 @@
 {
-  "description": "Hand-picked releases from the new wave in soul. Cover: Shamis",
-  "num_followers": 493529,
+  "description": "Hand-picked releases from the new wave in soul. Cover: Mara Mandeau",
+  "num_followers": 493520,
   "original_name": "Soul Currents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGL0maUXYIqYdbDEL53HGa8Jh5mT",
+  "snapshot_id": "AAAAAPpG++JuexT7sr/zQNG6FtjUNwBF",
   "tracks": [
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/3qCOUaXCTrQO1clDhqV39C"
+      },
+      "artists": [
+        {
+          "name": "Mara Mandeau",
+          "url": "https://open.spotify.com/artist/2mpPr7r7njJQ7bC66bghCp"
+        }
+      ],
+      "duration_ms": 176976,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0s3Czbu8IxpmIgmKe3GGBE"
+    },
+    {
+      "added_at": "2026-09-28 12:28:37",
+      "album": {
+        "name": "All Okay",
+        "url": "https://open.spotify.com/album/3TybNP0JDEg1wsCblw2hB0"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sopacuwa",
+          "url": "https://open.spotify.com/artist/6DsCVmUQa4qFrh86EaMpzH"
+        }
+      ],
+      "duration_ms": 146803,
+      "name": "All Okay",
+      "url": "https://open.spotify.com/track/5gZwT7zUt45ouvt8dBtSJn"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "(Self) Therapy",
+        "url": "https://open.spotify.com/album/3opDWtbpgQFHKnmfmgxyrU"
+      },
+      "artists": [
+        {
+          "name": "Yas Mayou",
+          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "Check In",
+      "url": "https://open.spotify.com/track/4pietxRA7NhQXhgwhpNz2Q"
+    },
+    {
+      "added_at": "2026-09-28 12:28:37",
+      "album": {
+        "name": "I Am Human",
+        "url": "https://open.spotify.com/album/6hSE8OSbErozqIr5SEuFYs"
+      },
+      "artists": [
+        {
+          "name": "GeeJay",
+          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
+        }
+      ],
+      "duration_ms": 175136,
+      "name": "I Am Human",
+      "url": "https://open.spotify.com/track/0pI9nSJdUDgpG7rwc7B4CE"
+    },
     {
       "added_at": "2026-10-20 15:18:48",
       "album": {
@@ -35,42 +99,6 @@
     {
       "added_at": "2026-10-20 15:18:48",
       "album": {
-        "name": "(Self) Therapy",
-        "url": "https://open.spotify.com/album/3opDWtbpgQFHKnmfmgxyrU"
-      },
-      "artists": [
-        {
-          "name": "Yas Mayou",
-          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
-        }
-      ],
-      "duration_ms": 197198,
-      "name": "Check In",
-      "url": "https://open.spotify.com/track/4pietxRA7NhQXhgwhpNz2Q"
-    },
-    {
-      "added_at": "2026-10-20 15:18:48",
-      "album": {
-        "name": "OTHELLO",
-        "url": "https://open.spotify.com/album/29rKr796TYpcplFyDnynpN"
-      },
-      "artists": [
-        {
-          "name": "Orson Claeys",
-          "url": "https://open.spotify.com/artist/6STER3uvIa0CEBNDGWxfDu"
-        },
-        {
-          "name": "Helena Casella",
-          "url": "https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN"
-        }
-      ],
-      "duration_ms": 279546,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/5PldTvq0Oqx2L8J0ROhlcD"
-    },
-    {
-      "added_at": "2026-10-20 15:18:48",
-      "album": {
         "name": "Eyes On Me",
         "url": "https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG"
       },
@@ -87,22 +115,6 @@
       "duration_ms": 173922,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C"
-    },
-    {
-      "added_at": "2026-10-20 15:18:48",
-      "album": {
-        "name": "Before the Soil",
-        "url": "https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Fig Tree",
-      "url": "https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W"
     },
     {
       "added_at": "2026-10-20 15:18:48",
@@ -127,6 +139,42 @@
     {
       "added_at": "2026-10-20 15:18:48",
       "album": {
+        "name": "OTHELLO",
+        "url": "https://open.spotify.com/album/29rKr796TYpcplFyDnynpN"
+      },
+      "artists": [
+        {
+          "name": "Orson Claeys",
+          "url": "https://open.spotify.com/artist/6STER3uvIa0CEBNDGWxfDu"
+        },
+        {
+          "name": "Helena Casella",
+          "url": "https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/5PldTvq0Oqx2L8J0ROhlcD"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "Before the Soil",
+        "url": "https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
         "name": "Eyes On Us",
         "url": "https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz"
       },
@@ -139,22 +187,6 @@
       "duration_ms": 183762,
       "name": "Eyes On Us",
       "url": "https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "I Am Human",
-        "url": "https://open.spotify.com/album/6hSE8OSbErozqIr5SEuFYs"
-      },
-      "artists": [
-        {
-          "name": "GeeJay",
-          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
-        }
-      ],
-      "duration_ms": 175136,
-      "name": "I Am Human",
-      "url": "https://open.spotify.com/track/0pI9nSJdUDgpG7rwc7B4CE"
     },
     {
       "added_at": "2026-10-20 15:18:48",
@@ -171,22 +203,6 @@
       "duration_ms": 116136,
       "name": "Summer Interlude",
       "url": "https://open.spotify.com/track/7fqmdAlM5NZwml9LQbPXlo"
-    },
-    {
-      "added_at": "2026-10-20 15:18:48",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/3qCOUaXCTrQO1clDhqV39C"
-      },
-      "artists": [
-        {
-          "name": "Mara Mandeau",
-          "url": "https://open.spotify.com/artist/2mpPr7r7njJQ7bC66bghCp"
-        }
-      ],
-      "duration_ms": 176976,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/0s3Czbu8IxpmIgmKe3GGBE"
     },
     {
       "added_at": "2026-09-28 12:28:37",
@@ -235,22 +251,6 @@
       "duration_ms": 164826,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "All Okay",
-        "url": "https://open.spotify.com/album/3TybNP0JDEg1wsCblw2hB0"
-      },
-      "artists": [
-        {
-          "name": "Hannah Sopacuwa",
-          "url": "https://open.spotify.com/artist/6DsCVmUQa4qFrh86EaMpzH"
-        }
-      ],
-      "duration_ms": 146803,
-      "name": "All Okay",
-      "url": "https://open.spotify.com/track/5gZwT7zUt45ouvt8dBtSJn"
     },
     {
       "added_at": "2026-09-28 12:28:37",

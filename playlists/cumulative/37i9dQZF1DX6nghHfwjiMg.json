@@ -5085,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "PALABRAS DE MUJER",
+        "url": "https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE"
+      },
+      "artists": [
+        {
+          "name": "trouve feraud",
+          "url": "https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223616,
+      "name": "PALABRAS DE MUJER",
+      "url": "https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc"
+    },
+    {
+      "album": {
         "name": "Papi No Me Hagas Llorar",
         "url": "https://open.spotify.com/album/7nphArTieJ9uRNuQiH1sIL"
       },

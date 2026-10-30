@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Zeddy East",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Louis Ottley",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -8464,7 +8464,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 200574,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5h6egLpDakVbp8QnBIn8yD"
@@ -16002,6 +16002,24 @@
       "duration_ms": 195469,
       "name": "Does It Even",
       "url": "https://open.spotify.com/track/7FR2q7Ig8Avnc0XdYF17vD"
+    },
+    {
+      "album": {
+        "name": "maria",
+        "url": "https://open.spotify.com/album/2EG73KOEhUnJlY7FqBKaF5"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "does it still rain?",
+      "url": "https://open.spotify.com/track/6GeMUTDG5S3JAfKpmufn27"
     },
     {
       "album": {
@@ -35861,6 +35879,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/4qZf9jdFIs2DdiQcmKCPjD"
+      },
+      "artists": [
+        {
+          "name": "Ruby Aeron",
+          "url": "https://open.spotify.com/artist/6yaRQJMtG4zuH0qPme91xP"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146388,
+      "name": "Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2d8PoEif6i4ks29EvBTl6K"
+    },
+    {
+      "album": {
         "name": "lighthouse.",
         "url": "https://open.spotify.com/album/2yWU4bgd2lEW4u8ipJj9Oh"
       },
@@ -36440,6 +36476,24 @@
       "duration_ms": 142153,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/7wMaj44M4ZCHBJeJ4KEzYs"
+    },
+    {
+      "album": {
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/0aYfHIkw54BLXSZnqw6yI1"
+      },
+      "artists": [
+        {
+          "name": "jo from school",
+          "url": "https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182634,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/4ja1qfXr2DJFYzSxWhQQFp"
     },
     {
       "album": {
@@ -45160,7 +45214,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 208291,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/3eE5KGR1D2E3bROi9fivg7"
@@ -48084,6 +48138,24 @@
       "duration_ms": 190356,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/5xG8zZlNA77WAN2tOBeAfy"
+    },
+    {
+      "album": {
+        "name": "Ponder Neek",
+        "url": "https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155237,
+      "name": "Ponder Neek",
+      "url": "https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb"
     },
     {
       "album": {
@@ -66796,7 +66868,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 166752,
       "name": "Where the Fairies Lie",
       "url": "https://open.spotify.com/track/1v5F9Lf9UqhdGUasJF84EQ"
@@ -67312,7 +67384,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163080,
       "name": "whydoitry?",
       "url": "https://open.spotify.com/track/2jsUfrXac6zWH651dcSkzk"
@@ -67598,7 +67670,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 110400,
       "name": "wish u",
       "url": "https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl"

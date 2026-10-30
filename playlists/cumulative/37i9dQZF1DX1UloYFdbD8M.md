@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Eechuu
 
-569 songs - 1 day 11 hr 5 min
+570 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Thenale](https://open.spotify.com/track/2YIdkog2dUHyTg0WfswFD7) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Nikita Uday](https://open.spotify.com/artist/5A9ytymtQtfXM4Bwtyc9hw), [Farish Reheman](https://open.spotify.com/artist/0E6YR42PyjDhljhjkJ3rAC) | [Once Upon A Blue Moon](https://open.spotify.com/album/5eGRajC0k09pDYoUKBDfBy) | 6:01 | 2023-07-27 | 2024-07-02 |
 | [THEVU THEVADA](https://open.spotify.com/track/4mUuPcFwVTStX2A9ybj27Y) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Jayadevan Vasudevan Adoor](https://open.spotify.com/artist/1l6XkCmd6hRUzJfiEev2yb) | [THEVU THEVADA](https://open.spotify.com/album/20CuO9fPXfqUyvuxZlCB6f) | 3:21 | 2025-07-29 | 2025-12-19 |
 | [Thi Thi Thara \(Kuttanadan Dreams\)](https://open.spotify.com/track/3wglYnuFPhTCcQwaHir0h4) | [AOORA](https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [FRIDAYYY](https://open.spotify.com/artist/0Dj7QmvQwwiUeZfCGZR7M1), [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Thi Thi Thara \(Kuttanadan Dreams\)](https://open.spotify.com/album/3Xm0UCQtN6HV2AmTobKCEs) | 2:54 | 2024-07-29 | 2024-10-15 |
+| [Thira](https://open.spotify.com/track/6EKhe3n3iqvm667b2vMWkX) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [Prarthana Indrajith](https://open.spotify.com/artist/5mkX7ccHcwAwlgyLKEC5Yg) | [Thira](https://open.spotify.com/album/6y7Q8QgYAATpgRosdRSKN4) | 3:22 | 2026-10-29 |  |
 | [THIRIKE VAA](https://open.spotify.com/track/2eAXNx6jOhxgpJu8tZIY7o) | [MØNK](https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG) | [SEASON OF SOLITUDE](https://open.spotify.com/album/5MnKW5MwBx9w7fCsUbTroA) | 2:28 | 2025-01-13 | 2025-04-22 |
 | [Thirinjin](https://open.spotify.com/track/2TxrGGH6GEnt0MTsR9Xslw) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Thirinjin](https://open.spotify.com/album/44RR3s7UnD0gnnyZoGBiMX) | 3:02 | 2025-07-10 | 2026-06-17 |
 | [THOAZHI](https://open.spotify.com/track/4Ct2DqMV7J8Y2bhXhBAMAo) | [Joardean Ousepp](https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx), [Rickeysiva](https://open.spotify.com/artist/1HssdaUPj5IERhuMZGyxwK) | [THOAZHI](https://open.spotify.com/album/1batvPzz9HzbdBlb0aYP7Y) | 3:24 | 2026-02-23 | 2026-09-22 |

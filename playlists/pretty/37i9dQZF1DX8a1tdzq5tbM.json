@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1815522,
+  "num_followers": 1815775,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/e/Admxoihm7IOa0k2YNHOXVan",
+  "snapshot_id": "AAAAAEkDnI+TSGO+3cTbploWo6srQZ78",
   "tracks": [
     {
       "added_at": "2024-07-12 15:40:20",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+      },
+      "artists": [
+        {
+          "name": "Kim Leoni",
+          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 205920,
       "name": "Carry Me Away (feat. Emma Hewitt) - Radio Edit",
       "url": "https://open.spotify.com/track/3vVdNuzFHL0hmT8Xq4vbhY"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
-      },
-      "artists": [
-        {
-          "name": "Kim Leoni",
-          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
-      },
-      "artists": [
-        {
-          "name": "M.A.N.D.Y.",
-          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 438013,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Army Of Two",
         "url": "https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 184666,
       "name": "Army Of Two",
       "url": "https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/2iPHV0vUp2IoooYQXHIyI8"
+      },
+      "artists": [
+        {
+          "name": "M.A.N.D.Y.",
+          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 438013,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Come into My Life (10th Anniversary)",
+        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213305,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Playing In The Shadows",
         "url": "https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN"
       },
@@ -1347,18 +1363,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Come into My Life (10th Anniversary)",
-        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
       "artists": [
         {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Ashley Walters",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
         }
       ],
-      "duration_ms": 213305,
-      "name": "Freed from Desire",
-      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
+      "duration_ms": 253933,
+      "name": "Ready Steady Go - Extended Mix",
+      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1391,26 +1411,6 @@
       "duration_ms": 171360,
       "name": "Call On Me - Radio Edit",
       "url": "https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Ashley Walters",
-          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Ready Steady Go - Extended Mix",
-      "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Cry for You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Heartbroken - Edit",
+      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbroken",
-        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 178613,
-      "name": "Heartbroken - Edit",
-      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1583,18 +1599,38 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
         }
       ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1631,42 +1667,6 @@
       "duration_ms": 271586,
       "name": "Fire",
       "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1903,22 +1903,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
       },
       "artists": [
         {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1943,18 +1939,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
       },
       "artists": [
         {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
+      "duration_ms": 180906,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
     },
     {
       "added_at": "2024-07-12 15:40:20",

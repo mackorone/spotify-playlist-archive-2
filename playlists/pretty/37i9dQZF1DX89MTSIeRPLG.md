@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,676 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,693 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Cruise Control](https://open.spotify.com/track/6VUP0NVCY6m7enzUyf8MzY) | [El'teainte](https://open.spotify.com/artist/6XCFoVBRPN2ciV01d43q07) | [Fuego](https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2) | 3:24 |
 | 50 | [Paid to Rap](https://open.spotify.com/track/6KTYCE6x5a8HyPNiGKqYJt) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [Wizzle](https://open.spotify.com/album/2Vvrzgq8XHNAEE6RIfYADd) | 1:41 |
 
-Snapshot ID: `AAAAAG+QcPvEAx392tiCSHxvB/UikSg+`
+Snapshot ID: `AAAAAGjoP007yOXRL24sFrzYTsVbKeKJ`

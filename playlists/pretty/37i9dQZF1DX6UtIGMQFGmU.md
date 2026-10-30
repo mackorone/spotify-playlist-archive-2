@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UtIGMQFGmU.md) - [plain]
 
 > Gamma waves at 40 Hz and above\. For concentration and studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,933 likes - 90 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,215 likes - 90 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UtIGMQFGmU.md) - [plain]
 | 89 | [Gamma Ascension 41Hz](https://open.spotify.com/track/73z6cE39qklym7iY03HEGj) | [Lenny Ramone](https://open.spotify.com/artist/4YgQYvEw7JmR7WfQfY8kjj) | [Gamma Ascension 41Hz](https://open.spotify.com/album/5X3j1NlstpqejpXBKVPX0o) | 2:33 |
 | 90 | [Binaural Gamma Sinus 100 Hz Drone](https://open.spotify.com/track/3ZcqjY98vyCdhQb5VucIO3) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Gamma 30\-100 Hz Awareness Drones](https://open.spotify.com/album/4i46dwRwVDqhyhfv5z0780) | 3:20 |
 
-Snapshot ID: `AAAAAJ0fz4YSpy+1lMB/aD0dXsPY9E/j`
+Snapshot ID: `AAAAAPSF2Uq5XMJLswcOr3Hz7Qlh8uhR`

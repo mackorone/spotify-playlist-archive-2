@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. \nCover: beabadoobee",
+  "description": "Illuminating Asian artists everywhere. \nCover: Mei Semones",
   "name": "Jasmine",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 140000,
       "name": "1st Gen",
       "url": "https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA"
+    },
+    {
+      "album": {
+        "name": "2 Hands",
+        "url": "https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "2 Hands",
+      "url": "https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX"
     },
     {
       "album": {
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 224413,
       "name": "Black Hole Baby Bottom Feeder",
       "url": "https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0"
@@ -4014,6 +4032,24 @@
       "duration_ms": 182616,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT"
+    },
+    {
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/11QcHtHtbBiD0SHISXRUTL"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168506,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/60rDCiZ2OWfOi4hVEKxZup"
     },
     {
       "album": {
@@ -7304,7 +7340,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 248281,
       "name": "Endless Sundays",
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
@@ -13743,6 +13779,24 @@
     },
     {
       "album": {
+        "name": "Leave Me There",
+        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256538,
+      "name": "Leave Me There",
+      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
+    },
+    {
+      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -16268,7 +16322,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 192000,
       "name": "Molly",
       "url": "https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U"

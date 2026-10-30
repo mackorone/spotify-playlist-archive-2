@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 209836,
+  "num_followers": 209905,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAACnuPjcmUIFAst7+XRjsWBo",
+  "snapshot_id": "at/pgAAAAACr8uX+n/dIj4dLGGJ0UbL/",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+        "name": "AMOR PIRATA",
+        "url": "https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 190062,
-      "name": "Ainda Te Amo",
-      "url": "https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z"
+      "duration_ms": 172963,
+      "name": "AMOR PIRATA",
+      "url": "https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR PIRATA",
-        "url": "https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm"
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 172963,
-      "name": "AMOR PIRATA",
-      "url": "https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f"
+      "duration_ms": 190062,
+      "name": "Ainda Te Amo",
+      "url": "https://open.spotify.com/track/55GFbaI6W1laRMFdLdRw8Z"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 148548,
+      "name": "Escorpi\u00e3o",
+      "url": "https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mal",
         "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 166255,
       "name": "Mal",
       "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 148548,
-      "name": "Escorpi\u00e3o",
-      "url": "https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao"
     },
     {
       "added_at": null,

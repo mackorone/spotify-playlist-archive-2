@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Playlist Takeover by Bligg!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,831 likes - 49 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,830 likes - 49 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 20 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
 | 21 | [Schwiizchaschte](https://open.spotify.com/track/5Gnn8npKzj9KRhDTy4hgtN) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut und Tüütli](https://open.spotify.com/artist/77hbpDymWqmhlv7H2Mlrbu) | [Verdächtig](https://open.spotify.com/album/3VssVyEuKRopiVCwQZGy7m) | 4:46 |
 | 22 | [Wenn I läb, wenn I stirb](https://open.spotify.com/track/27L8ShIJ24kVv8r6obPFpO) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/5xW9MSLB8y46AzyZj9ccXf) | 3:03 |
-| 23 | [King Size \(feat\. Kool Savas\)](https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Odyssey](https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw) | 3:26 |
-| 24 | [8i Bahnhof](https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s) | [TAFS](https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS) | [8i Bahnhof](https://open.spotify.com/album/53nhR2JauB25narZk2hvED) | 4:04 |
+| 23 | [8i Bahnhof](https://open.spotify.com/track/1L8n2efxLsPqDWh2PHLc6s) | [TAFS](https://open.spotify.com/artist/390pqY5ZYgVMcSVQDsOJRS) | [8i Bahnhof](https://open.spotify.com/album/53nhR2JauB25narZk2hvED) | 4:04 |
+| 24 | [King Size \(feat\. Kool Savas\)](https://open.spotify.com/track/7h5jNXhlFhGwzsYDyeZFrZ) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Odyssey](https://open.spotify.com/album/5n7l9TK57xauDF3wvA7eZw) | 3:26 |
 | 25 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
 | 26 | [Teil Vom Problem](https://open.spotify.com/track/7uHvavuhl528f0aIUYrt7W) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/5E8Bj7SAPRdJWbXg3Jxce0) | 3:47 |
 | 27 | [Vollkontakt](https://open.spotify.com/track/5cG4Kg1sVifhxOiO48P6u1) | [Dynamic Duo](https://open.spotify.com/artist/2a29ulH524zPeiQkHsJ1qM) | [VollkontaktHipHop](https://open.spotify.com/album/6AAoWgx3qJV55wzfZmOTxo) | 4:49 |
 | 28 | [Dune ade Langstrass \(feat\. Tinguely dä Chnächt\)](https://open.spotify.com/track/4ZwZQKgPVuI2NpBETwWxyE) | [Radio 200000](https://open.spotify.com/artist/49zhWISKqWjhyI7hQ6EpwK), [Tinguely dä Chnächt](https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj) | [Aktuelle Hits](https://open.spotify.com/album/5dRO9HANhTc7cAqkkmmcF2) | 3:47 |
-| 29 | [Muetersprach](https://open.spotify.com/track/4WAn4IttWbxnDDbgXSYZjE) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 3:28 |
-| 30 | [From Hell to Heaven and Back](https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG) | [From Hell to Heaven and Back](https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz) | 3:46 |
+| 29 | [From Hell to Heaven and Back](https://open.spotify.com/track/6g936DAdwRwEhzq6ABxxEH) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG) | [From Hell to Heaven and Back](https://open.spotify.com/album/1vA38gyL67ps4S0Vqa8nHz) | 3:46 |
+| 30 | [Muetersprach](https://open.spotify.com/track/4WAn4IttWbxnDDbgXSYZjE) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 3:28 |
 | 31 | [Engel Vo Züri](https://open.spotify.com/track/5OETCdn1Y51cTsdWOVjWQg) | [Semantik](https://open.spotify.com/artist/2EMN6fOJ9EF6cUcd9pv7hE) | [Molotow](https://open.spotify.com/album/6E9o75YzTD5tJ5v3lWoGZR) | 4:00 |
 | 32 | [Immer No](https://open.spotify.com/track/7vkh4DsCJoQ4A63VwYvIov) | [Spooman](https://open.spotify.com/artist/4OwjOTYon9HEBN2Dijr8RB), [Shape](https://open.spotify.com/artist/3Bl22TVSVYUKkjFt1MJnYB), [Scarra Mucci](https://open.spotify.com/artist/3KZUIzgQU8D9fTdkS4nDvK) | [Casino](https://open.spotify.com/album/7wHzFREg5v4vxxJoAaSCoN) | 3:53 |
 | 33 | [Lauf Junge, Lauf!](https://open.spotify.com/track/0I5FCVJSDvLNtGAlIcr1nV) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 3:39 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 39 | [Brugg](https://open.spotify.com/track/1HjO1qlADcfS0B11LNMmww) | [Taz](https://open.spotify.com/artist/2aKdREOO8umyTjMapXmKbS) | [Introspektion](https://open.spotify.com/album/21S84n0cOoQmfDVUyD8TrO) | 4:11 |
 | 40 | [Läbenslauf](https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN) | [Wrecked Mob](https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3), [Dj Thomilla](https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx) | [Läbenslauf](https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh) | 4:02 |
 | 41 | [Meh bruuchtz nid \(feat\. Hobbitz\)](https://open.spotify.com/track/6CuNAwqvq6B6ikQi8MDKgq) | [Kaiser](https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC), [Hobbitz](https://open.spotify.com/artist/3wj1aGfnmu182aDhOH5C2z) | [Beetown Beetz, Vol\. 1](https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs) | 4:19 |
-| 42 | [Je t'aime](https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY) | [Double Pact](https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya) | [Au Revoir](https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm) | 3:01 |
+| 42 | [Bruch e Waag](https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr), [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:33 |
 | 43 | [Du & Ich](https://open.spotify.com/track/5jAylcCbJaBKmRHgRUTxQC) | [Bligg'N'Lexx](https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK), [Pete Penicka](https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN) | [Nahdisnah](https://open.spotify.com/album/6RRQcMVBLhYLGxGXIMhjj4) | 5:09 |
-| 44 | [Bruch e Waag](https://open.spotify.com/track/7xStlWtb0Wm9Brn2wCwMLj) | [Gleiszwei](https://open.spotify.com/artist/3NjptE7Yo7b2aruvzkCHpr), [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Jede Tag'n Gleiser](https://open.spotify.com/album/36TdZUObvdhSonV6NGNPQa) | 4:33 |
+| 44 | [Je t'aime](https://open.spotify.com/track/5RKhacxAckVl9ANlgdRJcY) | [Double Pact](https://open.spotify.com/artist/3owF80MhEn7JBB5JBUt4ya) | [Au Revoir](https://open.spotify.com/album/2prE2Na9j25aggFyWD9igm) | 3:01 |
 | 45 | [Schtei](https://open.spotify.com/track/6k8aQc63q9lMMgExoxrIyw) | [Primitive Lyrics](https://open.spotify.com/artist/0mHST0iQ6mlZkHKbYNIp9w) | [Halbinüni Chlorzicht](https://open.spotify.com/album/1vhjnI6bgYpV0NanFya7QQ) | 4:09 |
 | 46 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
 | 47 | [Beetown Dezibel \(feat\. LDeeP & Samurai\)](https://open.spotify.com/track/0ks6XbF8wiecG88jT4F1Oe) | [Kaiser](https://open.spotify.com/artist/7JbiFOh0wYpYJVfDX01rhC), [LDeep](https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S), [Samurai](https://open.spotify.com/artist/2WnTVg6V0OWYGjomR0xugm) | [Beetown Beetz, Vol\. 1](https://open.spotify.com/album/5jtnTxD9F5VAESPajW3hGs) | 4:12 |
 | 48 | [Possitrack](https://open.spotify.com/track/6M1X6qBmqWF741wjAL3fan) | [LDeep](https://open.spotify.com/artist/2Le7dOaOuETzbshaap0s5S) | [Rapresent](https://open.spotify.com/album/7CrQQyd97yHOZuhOpNayEN) | 4:20 |
 | 49 | [En Teil vo mir](https://open.spotify.com/track/1ok24DhWBTymmV6yKtjqrp) | [Drüklang](https://open.spotify.com/artist/0YKRAbXe2J0esSXB4c6xbh) | [Z'fridä](https://open.spotify.com/album/1VRqmJrU4iZfSDjZWo5seU) | 4:10 |
 
-Snapshot ID: `AAAAAB7egk7pJB3sE1MDntMGqlccsLvy`
+Snapshot ID: `AAAAALjInw4iFioWh4Vg9BdJwC/uqAG2`

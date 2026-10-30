@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Ichnus en Appel
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,460 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,546 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 99 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 |
 | 100 | [Ek Kom Jou Haal](https://open.spotify.com/track/2g6m72rfZ7XNIvmeyHBJos) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Ek Kom Jou Haal](https://open.spotify.com/album/2gpH0eRRT7eV3djITMrZAx) | 2:43 |
 
-Snapshot ID: `AAAAAM1tZrEmXTMaJxRUGAWMXD8tCKx1`
+Snapshot ID: `AAAAADYq5SCMq+8LQrDycqGArfGFH8wm`

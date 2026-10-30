@@ -1459,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "TEN: The Story Goes On",
+        "url": "https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "JEONGYEON",
+          "url": "https://open.spotify.com/artist/743jwFXhQU5MMGaEaAeX2s"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "FIX A DRINK (JEONGYEON)",
+      "url": "https://open.spotify.com/track/4x4cCV6mYMw1aJWyCQU9AT"
+    },
+    {
+      "album": {
         "name": "Halcyon Nights",
         "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
       },

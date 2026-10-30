@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,327 songs - 3 day 1 hr 27 min
+1,329 songs - 3 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Don't Stop](https://open.spotify.com/track/6FVi8am0wUrPVKte7uOhaj) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Don't Stop](https://open.spotify.com/album/6WPrb9Tj8DszFIUhnzjg2Y) | 2:51 | 2024-11-29 | 2025-03-08 |
 | [Don't Wanna Know](https://open.spotify.com/track/1OSrkd1JuVQXQJaGE5joFY) | [Ryan Case](https://open.spotify.com/artist/2MCUmcEXeY80S0aSucQsXn), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Don't Wanna Know](https://open.spotify.com/album/5iAqHK3ZuBqgcXaIDNCEjl) | 2:45 | 2024-02-22 | 2024-05-14 |
 | [Doorman](https://open.spotify.com/track/2Jb8KZOgoSCzbZ8oVKuOcV) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Doorman](https://open.spotify.com/album/6YPPtqhN5yMSXIt7py2808) | 3:37 | 2024-04-19 | 2024-07-12 |
+| [Dopamine](https://open.spotify.com/track/6Gwr4P9PsgTF2mzXpehVwi) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [Lewis Laite](https://open.spotify.com/artist/2b0vMnjRQjc7qi7y2lrCfb), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [Dopamine](https://open.spotify.com/album/2dau74BAlcFQwKuTSaWSWD) | 3:10 | 2026-10-29 |  |
 | [Doppelleben](https://open.spotify.com/track/7HF6q1y3zrvuB74VxOoZqP) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Doppelleben](https://open.spotify.com/album/0AFtfyQilo8jDVHssOtSE9) | 4:09 | 2021-11-19 | 2022-02-23 |
 | [Double Tap](https://open.spotify.com/track/4bc9Yk2C6ad3fAnTLfrBGZ) | [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Double Tap](https://open.spotify.com/album/4SDO9lDKGzIIBp9zubIvPo) | 3:21 | 2022-10-10 | 2022-12-10 |
 | [Downtown](https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Downtown](https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU) | 3:03 | 2026-04-16 | 2026-07-31 |
@@ -1032,6 +1033,7 @@
 | [Silk Road](https://open.spotify.com/track/545nphHUuiPLuiPIGT3Inn) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Silk Road](https://open.spotify.com/album/6mEFavBMsLDQQsbzzIzman) | 3:49 | 2022-04-27 | 2022-07-08 |
 | [Sinner](https://open.spotify.com/track/0GXj9WInusangBhti5jOwK) | [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Sinner](https://open.spotify.com/album/4MbuAILD2gfxF1OzD2mhIX) | 2:30 | 2026-08-20 |  |
 | [Sip On This](https://open.spotify.com/track/1mH6LCjX9SiM6rJEEz8jz4) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Sip On This](https://open.spotify.com/album/1hSSCKGzuuNbn9IZk8MN8k) | 3:20 | 2024-06-14 | 2024-09-07 |
+| [Siren Call](https://open.spotify.com/track/2hFOCvwpyhRuLf5WQJV1Uh) | [COSTA](https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Siren Call](https://open.spotify.com/album/24XIY7jCUUvipr0fioLJBx) | 2:36 | 2026-10-28 |  |
 | [Sky](https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Sky](https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi) | 3:36 | 2022-10-29 | 2023-01-24 |
 | [Skyline](https://open.spotify.com/track/1FmxHYqNEeMq6KBb3F5dlK) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Skyline](https://open.spotify.com/album/4U6Fs0ZXg4IgHXwNqZBOkb) | 3:37 | 2022-10-14 | 2022-12-14 |
 | [Slaughter](https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Slaughter](https://open.spotify.com/album/2FwvuABjqUv9FzLkt9DhAc) | 3:08 | 2024-07-26 | 2024-10-18 |

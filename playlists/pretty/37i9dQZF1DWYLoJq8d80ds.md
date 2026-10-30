@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,825 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,859 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 38 | [Que Pasó](https://open.spotify.com/track/0pGUeNK8sRrr6K6mt4jWmB) | [Paquito Ocaño El Dueño de la Bailanta](https://open.spotify.com/artist/0R3DEo6gzaZO8j5RWm3b0S), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Que Pasó](https://open.spotify.com/album/3LYIjlH1k8SG6Mrhu7eehs) | 2:57 |
 | 39 | [León Herido](https://open.spotify.com/track/1NozLbd1xBSHigq4yWbrJi) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [TERNURA FOLK](https://open.spotify.com/album/6JltHrY2RjHdorEy3bFwye) | 3:56 |
 
-Snapshot ID: `AAAAANvUwbkLCR1/puLllJzD+VfAO044`
+Snapshot ID: `AAAAAAOGtGSnezM/7N1LmP3KBXQfIF/G`

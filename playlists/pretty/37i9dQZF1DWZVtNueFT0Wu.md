@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVtNueFT0Wu.md) - [plain]
 
 > The rich, complex history of LGBTQ+ people and movements that shaped the world we live in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAALUJ6gLKhnumZ0HVRh2+4t9Mu0sJ`
+Snapshot ID: `AAAAAOkUxZ4ufndJ4OYQUMtKTNseXSCC`

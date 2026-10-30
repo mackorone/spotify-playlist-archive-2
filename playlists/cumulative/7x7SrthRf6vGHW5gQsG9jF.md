@@ -4,7 +4,7 @@
 
 > 
 
-987 songs - 2 day 15 hr 23 min
+988 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 | 2026-03-25 |  |
 | [Dogs and Ducks](https://open.spotify.com/track/3Xmkf8BENKXeHv38sUfUa6) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [上出来](https://open.spotify.com/album/1nUwhyn08TSd7Ibg6EWPmv) | 2:41 | 2023-07-29 |  |
 | [Don't spit to your pineapple](https://open.spotify.com/track/75kyOe3EVVozU8T64jCrb0) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [BLACK ALBUM](https://open.spotify.com/album/2OvrlddCYLMH7vUx6FLhrQ) | 4:06 | 2024-04-04 |  |
+| [Donut](https://open.spotify.com/track/5sm3W18LafD8LKsBZCE946) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [桜が咲く前に](https://open.spotify.com/album/27bjGMpmoHyg0bWJPjNKVE) | 6:35 | 2026-10-28 |  |
 | [Doors Of The City](https://open.spotify.com/track/04m4XteZlxElQlL7DWkY8P) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Abstract](https://open.spotify.com/album/0L6ZeVkoZHh3wyRcv7znTX) | 4:34 | 2024-05-04 | 2026-10-10 |
 | [DOSOKAI](https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [DOSOKAI](https://open.spotify.com/album/1adNWaG3EwYZU1QE8kCWAf) | 2:49 | 2026-03-08 |  |
 | [drama](https://open.spotify.com/track/02V0VD09eII3n57VFJxT7a) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [Someday, somewhere](https://open.spotify.com/album/0qVIJKZlzDWfc7WNeR8Kq7) | 1:14 | 2023-12-12 |  |

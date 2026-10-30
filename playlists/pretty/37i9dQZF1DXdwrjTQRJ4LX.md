@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,965 likes - 56 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,990 likes - 56 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 | 55 | [Sin \- Dub](https://open.spotify.com/track/4cp5f2RaD0OJEdxgDMr3e2) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Sin](https://open.spotify.com/album/7gcSPv2Gf9Y26PresUqwId) | 5:00 |
 | 56 | [Verschwende Deine Jugend](https://open.spotify.com/track/6WaVZgCZAnvXCzaTzYHGdB) | [DAF](https://open.spotify.com/artist/4KtyUYo9zaM9YggIVc7uxx) | [Gold Und Liebe](https://open.spotify.com/album/2GyDcwK4HsfVUqpgZKpyuo) | 3:49 |
 
-Snapshot ID: `AAAAAE/N1RVTEPGW1b0chFa3m0utqy9j`
+Snapshot ID: `AAAAAGrh75yNRfwloIqT8+mY/YabrGTO`

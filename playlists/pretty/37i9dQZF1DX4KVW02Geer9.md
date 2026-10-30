@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 梅井美咲
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,365 likes - 171 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,364 likes - 171 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 13 | [Searching](https://open.spotify.com/track/0jZnWxR0VHhh0Of49xORCW) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Searching](https://open.spotify.com/album/1iJDQ2KJKoy9aHH3PxR6uH) | 6:01 |
 | 14 | [images on loan](https://open.spotify.com/track/0P3UTIsPJnnf6b8b0QhgLl) | [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47), [Jan Urila Sas](https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Amid Kinos](https://open.spotify.com/album/1YODDYFqXVUWgGNb3ET3Hu) | 5:39 |
 | 15 | [Beast Mode](https://open.spotify.com/track/1AuoDWRc4SgCr1hwdQEZ0G) | [Jackson Box](https://open.spotify.com/artist/5r2CPcI6syOOzSvXemc0UE), [Aru\-2](https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0), [Asei Muraguchi](https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx) | [Jaz](https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY) | 3:26 |
-| 16 | [Madison Walk \(2026 Remastered\)](https://open.spotify.com/track/1n3JTEvNa5YEaxJwPghgDz) | [Dusko Goykovich](https://open.spotify.com/artist/5ioiWrUG3Eyd87RqFMbewh) | [須永辰緒の夜ジャズ：MPS編](https://open.spotify.com/album/5D7LDQ6O0HuJa6AdVJwtA7) | 10:31 |
+| 16 | [Madison Walk \- 2026 Remastered](https://open.spotify.com/track/1n3JTEvNa5YEaxJwPghgDz) | [Dusko Goykovich](https://open.spotify.com/artist/5ioiWrUG3Eyd87RqFMbewh) | [須永辰緒の夜ジャズ：MPS編](https://open.spotify.com/album/5D7LDQ6O0HuJa6AdVJwtA7) | 10:31 |
 | 17 | [Moving at Light Speed](https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Button Masher](https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3) | [Moving at Light Speed](https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L) | 1:47 |
 | 18 | [An Ordinary Dance for Ghosts](https://open.spotify.com/track/3eKnGdxblIEDh4undUyDBN) | [tsuqiyomu](https://open.spotify.com/artist/0hwEAShEVaObGI3FcfLx0b) | [An Ordinary Dance for Ghosts](https://open.spotify.com/album/6W8tZkgU76bNk6TnjTnmVX) | 4:35 |
 | 19 | [Rainy Harbor](https://open.spotify.com/track/4PFc9pO2CZz8oKDxk8v40c) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [SHIMONAKA](https://open.spotify.com/album/5pcwfegc4RVnoWDV5T8MUa) | 2:50 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 170 | [HOURS:AFTER](https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [HOURS:AFTER](https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI) | 3:50 |
 | 171 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 |
 
-Snapshot ID: `AAAAAKoqtV2l2gFP0kVym9V6vcAhkWMf`
+Snapshot ID: `AAAAALWrIZ93F4CIuqYcE8KJnfIQbleo`

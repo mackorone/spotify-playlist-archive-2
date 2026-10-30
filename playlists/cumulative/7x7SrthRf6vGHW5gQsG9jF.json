@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "\u685c\u304c\u54b2\u304f\u524d\u306b",
+        "url": "https://open.spotify.com/album/27bjGMpmoHyg0bWJPjNKVE"
+      },
+      "artists": [
+        {
+          "name": "Kinokoteikoku",
+          "url": "https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395400,
+      "name": "Donut",
+      "url": "https://open.spotify.com/track/5sm3W18LafD8LKsBZCE946"
+    },
+    {
+      "album": {
         "name": "Abstract",
         "url": "https://open.spotify.com/album/0L6ZeVkoZHh3wyRcv7znTX"
       },

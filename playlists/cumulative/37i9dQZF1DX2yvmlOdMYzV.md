@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-1,060 songs - 2 day 9 hr 51 min
+1,061 songs - 2 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Life](https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Life](https://open.spotify.com/album/78caTHJtZQmmxYWS6xRyzi) | 2:55 | 2023-03-10 | 2023-05-05 |
 | [Life \(feat\. Tirzah & Charlotte Dos Santos\)](https://open.spotify.com/track/4qrgSuZSO1mH2VFwEBKYtB) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 2:52 | 2025-09-07 |  |
 | [LIFE BEEN LIFIN'](https://open.spotify.com/track/1EYxckkllpkiJTDOLVR1FU) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 1:58 | 2024-01-19 | 2025-03-30 |
+| [lifeline](https://open.spotify.com/track/2oGOnKtxbh4AxxN9vLMbfD) | [Isaiah Mostafa](https://open.spotify.com/artist/38pMqxFHLBJ8g5RUVO8CTI) | [lifeline](https://open.spotify.com/album/2rV2WvMvViZEgNOfDxOATW) | 2:24 | 2024-03-01 |  |
 | [Lifethativebeenlivin](https://open.spotify.com/track/3W1M418LCdlDAUj1FQGMvN) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Lifethativebeenlivin](https://open.spotify.com/album/2lb4sntKtt0wZFWa6eePKE) | 2:55 | 2021-12-15 | 2022-04-07 |
 | [Light Your Light](https://open.spotify.com/track/1nJvndyJtILLvRKC428rAS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis](https://open.spotify.com/album/0EuclPLvAGjgMyVG9xkvoE) | 3:24 | 2023-06-09 | 2023-07-03 |
 | [Lil Mama Theme Song](https://open.spotify.com/track/0ZvdsKZ4pfXzqJDIX5z9NQ) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Lil Mama Theme Song](https://open.spotify.com/album/78oeiLjGLP80U0YbrQrLCe) | 3:18 | 2024-11-22 |  |
@@ -591,7 +592,7 @@
 | [L’Anthropofemme](https://open.spotify.com/track/5LDkPdCtlZpf5gWsFjghri) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [L’Anthropofemme](https://open.spotify.com/album/2rdk5oMRB4g6yBMxzXPv7I) | 3:10 | 2024-01-19 | 2024-03-09 |
 | [MAGIC](https://open.spotify.com/track/3XvLg5slzPY1EwJDmTliuB) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [MAGIC](https://open.spotify.com/album/5dhHgdAMdCJGNB12rZCQ3b) | 3:17 | 2025-07-13 | 2025-12-11 |
 | [MAGIC!](https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [MAGIC!](https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo) | 3:15 | 2023-05-12 | 2024-04-11 |
-| [Make Friends \- Pocket Size Radio Edit](https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:08 | 2024-03-29 |  |
+| [Make Friends \- Pocket Size Radio Edit](https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:08 | 2024-03-29 | 2026-10-30 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-12-15 | 2023-01-28 |
 | [Make Me Whole](https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [For You](https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC) | 2:55 | 2025-03-29 |  |
 | [Make Money \(feat\. Mereba\)](https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Make Money \(feat\. Mereba\)](https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui) | 3:51 | 2024-10-18 |  |

@@ -666,7 +666,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 272160,
       "name": "Asha",
       "url": "https://open.spotify.com/track/6FBea53GtV4F3S8bBkoPIb"
@@ -1000,6 +1000,24 @@
       "duration_ms": 224000,
       "name": "Binaural Ice",
       "url": "https://open.spotify.com/track/3I2GCwpYxeUgku3sJrrgnJ"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/1XPrbfiYB7OAvdGr22ndjA"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222563,
+      "name": "Bindweed",
+      "url": "https://open.spotify.com/track/4evSp8GvEqdl4FjwKfWhCy"
     },
     {
       "album": {
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 293306,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/2BAIjzrDADAWdYP6WH54Sv"
@@ -5761,6 +5779,24 @@
     },
     {
       "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/1XPrbfiYB7OAvdGr22ndjA"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "Never Forever",
+      "url": "https://open.spotify.com/track/2fye363yc0WyOaUaBDKomQ"
+    },
+    {
+      "album": {
         "name": "Texture EP",
         "url": "https://open.spotify.com/album/5zAbIU5iaQYdpARxZ5iUtP"
       },
@@ -6392,6 +6428,24 @@
       "duration_ms": 187428,
       "name": "Outro",
       "url": "https://open.spotify.com/track/1KhqgEhefduhFEIwUwMxMT"
+    },
+    {
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/413cZ9D5jlXeM7qN67v1hb"
+      },
+      "artists": [
+        {
+          "name": "Gollden",
+          "url": "https://open.spotify.com/artist/6ihCC4ynwJas1AbDb030Vy"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "p.m",
+      "url": "https://open.spotify.com/track/17mCeGB2pXP4NbYQiLuhep"
     },
     {
       "album": {
@@ -9264,7 +9318,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 151882,
       "name": "Yi\u00e1sou",
       "url": "https://open.spotify.com/track/38YbH3ZcbRHQeQZsP67E4Z"

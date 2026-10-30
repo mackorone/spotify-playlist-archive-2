@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 72 | [Steady Me](https://open.spotify.com/track/16uuHTbhOckbjo1mV77c0R) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 4:23 |
 | 73 | [One Desire](https://open.spotify.com/track/3EMJyAkW85BUNyv0g2uNBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 3:19 |
 | 74 | [Goodbye, Again](https://open.spotify.com/track/0uc49i27OzyaIapdIuYL3i) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:01 |
-| 75 | [Play It by Heart](https://open.spotify.com/track/0NHoH0rIJkdS0WfH5l9CsI) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Play It by Heart](https://open.spotify.com/album/7pnV2hDMjOh0fBRL9dirSY) | 3:25 |
+| 75 | [Play It by Heart](https://open.spotify.com/track/3PN9O9A0Mc6EMo7RyuyP50) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Play It by Heart](https://open.spotify.com/album/0CVEqKSdls4EYyZqtY96hJ) | 3:25 |
 | 76 | [Strong](https://open.spotify.com/track/3akedMTYQ5BBTuyQinbFYB) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:25 |
 | 77 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 |
 | 78 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcgGWAAAAAA1p9t9WSkF4ErbZpPCejpa`
+Snapshot ID: `AcgRmAAAAAB3QtD6+7ZWVnPuXmcM9F5T`

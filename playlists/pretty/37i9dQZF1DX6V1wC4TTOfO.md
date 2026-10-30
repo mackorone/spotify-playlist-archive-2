@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 
 > <a href="spotify:artist:249QVZLSwrDyleKNapaapm">SAFAR</a>'s favorite tracks\. Updated regularly\. Curated by SAFAR\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,684 likes - 51 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,775 likes - 51 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 | 50 | [Everybody Gets Down](https://open.spotify.com/track/1XH3pYS0DDJZIHpU5Yg4X5) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi) | [Everybody Gets Down](https://open.spotify.com/album/3aGpSLieUSLq9bpKvgq5dZ) | 3:03 |
 | 51 | [Trippy Yeah](https://open.spotify.com/track/3cgNZ61ftRTdwGAIDiZnu1) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Whisper To Me](https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv) | 3:58 |
 
-Snapshot ID: `AAAAALLq2UI1Ux+BGr76y6oJpCFvIQLk`
+Snapshot ID: `AAAAAHskxsPuzBKFJZW5r/rEmlZ7WKvK`

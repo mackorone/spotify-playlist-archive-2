@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 612709,
+  "num_followers": 612705,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACidJj7FK1dlKY0zmlcJn/WvfCv9",
+  "snapshot_id": "AAAAAMUV0aYhJu7otYmAGnya/7OZAkwt",
   "tracks": [
     {
       "added_at": "2026-02-08 16:59:41",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 189120,
       "name": "Legend",
       "url": "https://open.spotify.com/track/3SWqGa1J0M7hSBUDM0KePD"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2026-02-08 16:59:41",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205653,
       "name": "State of My Head",
       "url": "https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
     },
     {
       "added_at": "2026-02-08 16:59:41",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "Trip Switch",
-      "url": "https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "Gifts From The Holy Ghost",
         "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "Trip Switch",
+      "url": "https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8"
     },
     {
       "added_at": "2026-02-08 16:59:41",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Cold War Kids",
-        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 192654,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "Pretty Vicious",
         "url": "https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 310300,
       "name": "Pretty Vicious",
       "url": "https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Cold War Kids",
+        "url": "https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 192654,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs"
     },
     {
       "added_at": "2026-02-08 16:59:41",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Spiritual Cramp",
-        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "Talkin' On The Internet",
-      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "Wanting and Waiting",
         "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 255560,
       "name": "Wanting and Waiting",
       "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Spiritual Cramp",
+        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "Talkin' On The Internet",
+      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
     },
     {
       "added_at": "2026-02-08 16:59:41",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 313001,
+  "num_followers": 313050,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKIW1ptqYmzwEhlFPMExv56aaIBq",
+  "snapshot_id": "AAAAAM0Msjyf1+0rgzJ2maidhZvzSYoE",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Come Fly With Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 131693,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -411,6 +395,22 @@
       "duration_ms": 130305,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131693,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Buddy Knox",
-        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Knox",
-          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "Party Doll",
-      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Rama Lama Ding Dong EP",
         "url": "https://open.spotify.com/album/4GFU4iyAcfwWm1dYIL9m9Y"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 147720,
       "name": "Rama Lama Ding Dong (Original version 1958)",
       "url": "https://open.spotify.com/track/3MfO2eMTwf5LLyMqjwGXLl"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Buddy Knox",
+        "url": "https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "Party Doll",
+      "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rhino Hi-Five: The Coasters",
+        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 113040,
+      "name": "Yakety Yak",
+      "url": "https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "So Young / Right Behind You Baby",
         "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 138813,
       "name": "Come on Little Mama",
       "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rhino Hi-Five: The Coasters",
-        "url": "https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 113040,
-      "name": "Yakety Yak",
-      "url": "https://open.spotify.com/track/7demHL0GXA6YmTNqw3Btz8"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Ten Cats Down / Finders Keepers",
+        "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
+      },
+      "artists": [
+        {
+          "name": "The Miller Sisters",
+          "url": "https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP"
+        }
+      ],
+      "duration_ms": 137201,
+      "name": "Ten Cats Down",
+      "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Ain't That Right / Bring Your Love Back Home",
         "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 140826,
       "name": "Why Do Fools Fall In Love",
       "url": "https://open.spotify.com/track/6XAcmxPbCfMzLBvjBd2G0H"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Ten Cats Down / Finders Keepers",
-        "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
-      },
-      "artists": [
-        {
-          "name": "The Miller Sisters",
-          "url": "https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP"
-        }
-      ],
-      "duration_ms": 137201,
-      "name": "Ten Cats Down",
-      "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
     },
     {
       "added_at": "2022-06-07 05:25:13",

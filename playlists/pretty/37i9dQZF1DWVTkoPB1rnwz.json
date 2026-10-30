@@ -1,12 +1,12 @@
 {
   "description": "Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place \ud83c\udf24\ufe0f",
-  "num_followers": 297916,
+  "num_followers": 297965,
   "original_name": "Ambient Bliss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMoonpObHHFO+VY6oCCimZ4hAX9R",
+  "snapshot_id": "AAAAAAhKeRNVvomQSZSoh9q4L47GUVAS",
   "tracks": [
     {
       "added_at": "2026-09-14 12:30:29",
@@ -175,6 +175,22 @@
       "duration_ms": 137142,
       "name": "09:26",
       "url": "https://open.spotify.com/track/1LSwdZTx7nXBKEI4YVzJtG"
+    },
+    {
+      "added_at": "2026-10-28 17:40:22",
+      "album": {
+        "name": "While The Flood Rages",
+        "url": "https://open.spotify.com/album/5sZ0QkaVO3XjE41k8EuPc0"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Background Radiation",
+      "url": "https://open.spotify.com/track/2WHsmyXzyDas7bHiqap0sB"
     },
     {
       "added_at": "2026-09-14 12:30:29",
@@ -879,22 +895,6 @@
       "duration_ms": 294000,
       "name": "Tender of Land - Patrick's Version",
       "url": "https://open.spotify.com/track/2oDr5rqOCSiL4ZS6XLHCWq"
-    },
-    {
-      "added_at": "2026-09-14 12:30:29",
-      "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 121146,
-      "name": "Nord",
-      "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"
     },
     {
       "added_at": "2026-09-14 12:30:29",

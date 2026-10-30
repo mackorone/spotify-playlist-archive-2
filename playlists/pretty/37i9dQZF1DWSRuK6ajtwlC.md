@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 Los Del North Texas en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,167 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,184 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [Muchachita](https://open.spotify.com/track/52RycnT2T3bMWRF7ohgFfR) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU) | [Muchachita](https://open.spotify.com/album/7tBh5U1TtPqeqxtbVVgrzv) | 3:03 |
 | 75 | [Hipnotizado](https://open.spotify.com/track/6MMtcZyAUGDD5TKkxsZ9qQ) | [Los de la Marka](https://open.spotify.com/artist/0p6PG9EBHMF1JmPda9dg9y) | [Hipnotizado](https://open.spotify.com/album/6aAIGBBLRxTHc3Wutp8z4u) | 2:32 |
 
-Snapshot ID: `AAAAAO+x1DekvgKNkyegULHpNipts0fM`
+Snapshot ID: `AAAAAHjqZMbpdU0NGgJIy4OTbLjPLeo0`

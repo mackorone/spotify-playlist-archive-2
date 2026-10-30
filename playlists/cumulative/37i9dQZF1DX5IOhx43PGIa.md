@@ -2,9 +2,9 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\. <br/>Cover: beabadoobee
+> Illuminating Asian artists everywhere\. <br/>Cover: Mei Semones
 
-1,460 songs - 3 day 3 hr 56 min
+1,463 songs - 3 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-05 | 2024-06-22 |
 | [19 Underground](https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Ore](https://open.spotify.com/album/0SiGD27Z9eblEQQMdpBCLK) | 3:08 | 2026-02-27 | 2026-09-19 |
 | [1st Gen](https://open.spotify.com/track/3XQRNLKg7TiICuPpJCEVrA) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [1st Gen](https://open.spotify.com/album/5mjG6OSGmGU6hfnx8sIJIg) | 2:20 | 2023-08-04 | 2023-08-12 |
+| [2 Hands](https://open.spotify.com/track/0YrQ3IEz9gune1OWHEvwnX) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [2 Hands](https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l) | 3:52 | 2026-10-30 |  |
 | [2.0](https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [2.0](https://open.spotify.com/album/1hY1pkX1osKhUbdj3Wq0W2) | 2:46 | 2024-01-05 | 2024-07-13 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-24 | 2025-05-17 |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2022-05-27 | 2023-05-06 |
@@ -147,7 +148,7 @@
 | [BITE](https://open.spotify.com/track/7wcLxoDNmNx4WiABHJZrrU) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [BITE](https://open.spotify.com/album/4xKgTA0pfAL8OEvSRSiEoU) | 2:50 | 2025-06-06 | 2025-11-22 |
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-05-27 | 2023-06-06 |
 | [Black Hole](https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:20 | 2022-09-23 | 2022-10-08 |
-| [Black Hole Baby Bottom Feeder](https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Black Hole Baby Bottom Feeder](https://open.spotify.com/album/2e496nVHcmNZEZvR3BDj66) | 3:44 | 2026-09-18 |  |
+| [Black Hole Baby Bottom Feeder](https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Black Hole Baby Bottom Feeder](https://open.spotify.com/album/2e496nVHcmNZEZvR3BDj66) | 3:44 | 2026-09-18 | 2026-10-30 |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 | 2023-08-26 |
 | [Blacklist \(with Matisyahu\)](https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Mood Swing](https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY) | 3:26 | 2023-02-24 | 2023-08-12 |
 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 | 2026-05-15 | 2026-07-18 |
@@ -218,6 +219,7 @@
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-02-16 | 2024-08-03 |
 | [Care \(feat\. Bakar\)](https://open.spotify.com/track/28Irf1qUrZ3Dbw9rXmXxHN) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 2:32 | 2023-08-25 | 2024-04-13 |
 | [Carmen](https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Carmen](https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2) | 3:02 | 2025-05-23 | 2025-12-06 |
+| [Casual](https://open.spotify.com/track/60rDCiZ2OWfOi4hVEKxZup) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Casual](https://open.spotify.com/album/11QcHtHtbBiD0SHISXRUTL) | 2:48 | 2026-10-30 |  |
 | [Casual Crime](https://open.spotify.com/track/52Ww5RZpJuDWttqnIBeGr3) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Casual Crime](https://open.spotify.com/album/35q3NeLzH7VRKep6AtGFY1) | 2:35 | 2026-10-23 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2022-09-24 |
 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 | 2023-11-03 | 2024-04-19 |
@@ -388,7 +390,7 @@
 | [Emotion](https://open.spotify.com/track/68mCWJL6JLgiL1yc80Kx2N) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/4gvbVGjDrPt4Y51tmGpjy1) | 2:37 | 2022-08-19 | 2022-09-13 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-10-07 | 2023-08-12 |
 | [end of our story](https://open.spotify.com/track/7dTEt6AbWmx1EqLYDH7OuC) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [Sweet Timing](https://open.spotify.com/album/34rwqL1m13UDlJEhsAka4N) | 3:19 | 2024-08-30 | 2025-02-01 |
-| [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 | 2026-07-03 |  |
+| [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 | 2026-07-03 | 2026-10-30 |
 | [Enigami \(with Mei Semones\)](https://open.spotify.com/track/1WCDMaCfChlyJo6qD281x4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Enigami \(with Mei Semones\)](https://open.spotify.com/album/72uSrGrIdFXdzTLhsmU65O) | 2:30 | 2025-07-18 | 2025-08-09 |
 | [ENVY](https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ENVY](https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2) | 3:22 | 2024-02-16 | 2024-08-10 |
 | [epilogue](https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 3:59 | 2022-10-14 | 2023-01-07 |
@@ -721,6 +723,7 @@
 | [Lately](https://open.spotify.com/track/5DHncTNEtkj14A5JZ9f0oz) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [icecream](https://open.spotify.com/album/5Po4vHcEvcKP17j23ReHAa) | 2:27 | 2025-12-12 | 2026-08-01 |
 | [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 | 2024-04-26 | 2024-08-31 |
 | [learning](https://open.spotify.com/track/4C5e1xJvLrS1sGFnYReqjp) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [learning](https://open.spotify.com/album/5qZtdJShHqReYRroD3KE02) | 3:40 | 2024-12-20 | 2025-04-26 |
+| [Leave Me There](https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Leave Me There](https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk) | 4:16 | 2026-10-30 |  |
 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 | 2023-10-13 | 2024-06-15 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 | 2023-08-12 |
 | [LEFT OF ME](https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LEFT OF ME](https://open.spotify.com/album/2eBFKPAzMn0bHJWigIrRiV) | 3:14 | 2024-07-19 | 2025-01-11 |
@@ -850,7 +853,7 @@
 | [Miss Me Too](https://open.spotify.com/track/3yCf5wq33Tjd1aWjVHQ192) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1DxzjcYARjxOldyHkrX7sp) | 2:30 | 2023-02-07 | 2023-08-12 |
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |
 | [MOBBY MIYAZAKI](https://open.spotify.com/track/3JxPCjtpGAJb6zNKrddAz8) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [Young Bari](https://open.spotify.com/artist/0J3g9zJYrynvzchjVCeiO4) | [MOBBY MIYAZAKI](https://open.spotify.com/album/6VltGrp7oudLrlAJJWfWeg) | 2:55 | 2025-03-07 | 2025-07-19 |
-| [Molly](https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Molly](https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0) | 3:12 | 2026-10-02 |  |
+| [Molly](https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Molly](https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0) | 3:12 | 2026-10-02 | 2026-10-30 |
 | [MOLLY](https://open.spotify.com/track/0MS4GCNXVfBTaAnJOHE3zI) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [MOLLY](https://open.spotify.com/album/55JNFgRaT0CFt5FxCOFnJF) | 4:54 | 2024-08-02 | 2024-09-21 |
 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 | 2023-02-18 | 2023-08-12 |
 | [mon chéri…](https://open.spotify.com/track/4BWRbNcTnJpHL47hlY8Ntl) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [CANINES](https://open.spotify.com/album/7jRVnXlOfv9qoj5nM4OBOC) | 3:18 | 2026-07-31 |  |

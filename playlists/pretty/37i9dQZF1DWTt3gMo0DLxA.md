@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Basinga Basinga Balaaleee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,683 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,805 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Mamidi Konala Meena Mabbulemo Nilichinayi](https://open.spotify.com/track/59aZKkLRb9jopf2e8P4PRy) | [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY), [Nagavva chunchu](https://open.spotify.com/artist/6IlysKkSufCASwFwGTApJB), [Kalyan Keys](https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN) | [Mamidi Konala Meena Mabbulemo Nilichinayi](https://open.spotify.com/album/4r5KYA9NveiXPLJ3ISBMu0) | 4:03 |
 | 50 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 |
 
-Snapshot ID: `AAAAAJFmViKD49AC6aofGb6oMKaL6rZ9`
+Snapshot ID: `AAAAAAO5KSozGI2vTuQf7NlZAFxMNSsh`

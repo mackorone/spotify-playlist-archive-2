@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iTE0aXsNLG.md) - [plain]
 
 > Creditless Anime Openings / Endings of the 2010s\. Music videos only available on Premium\. 2010年代のノンクレジットアニメOP／EDを観よう。\(ミュージックビデオはSpotifyプレミアムユーザーのみご覧いただけます。\)  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 40 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 141 likes - 40 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iTE0aXsNLG.md) - [plain]
 | 39 | [青春のリバーブ\(女子高生の無駄づかい ノンクレED\)](https://open.spotify.com/track/2DOjTOhJBd5UHtM0jrjRgT) | [田中 望\(CV:赤﨑千夏\)](https://open.spotify.com/artist/0ijxY35FUR8rfCIO8wgetO), [菊池 茜\(CV:戸松 遥\)](https://open.spotify.com/artist/43o9cx7UQhDXHf2k3gwiqX), [鷺宮しおり\(CV:豊崎愛生\)](https://open.spotify.com/artist/3s6Cbb60lAgo6PJsjrjTBO) | [青春のリバーブ\(女子高生の無駄づかい ノンクレED\)](https://open.spotify.com/album/7uz7Ffbbz9Ls0KAd8iKX97) | 1:30 |
 | 40 | [TIT FOR TAT\(慎重勇者　～この勇者が俺TUEEEくせに慎重すぎる～ ノンクレOP\)](https://open.spotify.com/track/68QdjgnpqvsUuj0COnloxY) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [TIT FOR TAT\(慎重勇者　～この勇者が俺TUEEEくせに慎重すぎる～ ノンクレOP\)](https://open.spotify.com/album/0l2zAyV1AFc2BeM8b3225h) | 1:30 |
 
-Snapshot ID: `AAAAAA2ScG6Tm0ljWV7ZReURRjt1g2GL`
+Snapshot ID: `AAAAAGIcdrxB449w/B+JC9bxtW4e45LH`

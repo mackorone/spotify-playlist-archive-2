@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 360096,
+  "num_followers": 360204,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPWlLZo7mEt6+PSCS0wj9kHL2DS",
+  "snapshot_id": "AAAAAKpkeDlHlRhycL+3C3pelacMre0K",
   "tracks": [
     {
       "added_at": "2026-10-02 12:20:02",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
+        "name": "Psycho Killer",
+        "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "TEN TONNE SKELETON",
+          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Psycho Killer",
+      "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
         "name": "It Don\u2019t Matter - Spotify Singles",
         "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 173742,
       "name": "It Don\u2019t Matter - Spotify Singles",
       "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "TEN TONNE SKELETON",
-          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Psycho Killer",
-      "url": "https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -451,30 +451,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Never Be Alone (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 178670,
-      "name": "Never Be Alone (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "California Dreamin'",
         "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
       },
@@ -499,22 +475,26 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+        "name": "Never Be Alone (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 159500,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
+      "duration_ms": 178670,
+      "name": "Never Be Alone (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -535,6 +515,26 @@
       "duration_ms": 217920,
       "name": "Believe - Sevenn Remix",
       "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
-      },
-      "artists": [
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 125878,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "You & Me (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/1FOMConpwgbEszaYCh8O3y"
       },
@@ -631,22 +611,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "New Memories",
-        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW"
       },
       "artists": [
         {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 194655,
-      "name": "New Memories",
-      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
+      "duration_ms": 125878,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -667,6 +647,26 @@
       "duration_ms": 238124,
       "name": "Children",
       "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "New Memories",
+        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 194655,
+      "name": "New Memories",
+      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -711,22 +711,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "Doin Nottin",
-        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
       },
       "artists": [
         {
-          "name": "FatSync",
-          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
         },
         {
-          "name": "GIU",
-          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
         }
       ],
-      "duration_ms": 146538,
-      "name": "Doin Nottin",
-      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
+      "duration_ms": 185806,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -755,22 +755,22 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
+        "name": "Doin Nottin",
+        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
       },
       "artists": [
         {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
         }
       ],
-      "duration_ms": 185806,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
+      "duration_ms": 146538,
+      "name": "Doin Nottin",
+      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -967,6 +967,26 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
+        "name": "Stay Mine",
+        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "Stay Mine",
+      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
         "name": "Atomic Bomb (feat. Juan Alcasar)",
         "url": "https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
-        "name": "Stay Mine",
-        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "Stay Mine",
-      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
     },
     {
       "added_at": "2026-10-02 12:20:02",

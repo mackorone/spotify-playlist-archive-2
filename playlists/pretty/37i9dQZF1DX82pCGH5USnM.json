@@ -1,12 +1,12 @@
 {
   "description": "Soft house music for your laidback moments.",
-  "num_followers": 2533280,
+  "num_followers": 2533683,
   "original_name": "Soft Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIfEL0xhLTKuE83rWdNeB53rACG4",
+  "snapshot_id": "AAAAAJ9P31WQzE4y91XNlG3xu9G2XUCC",
   "tracks": [
     {
       "added_at": "2026-10-02 15:53:49",
@@ -23,22 +23,6 @@
       "duration_ms": 149433,
       "name": "Laidback",
       "url": "https://open.spotify.com/track/1VVTutag5cViM1EAxvzYBT"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "Pitanga",
-        "url": "https://open.spotify.com/album/3ZLMxRnwGcJPNS0buSGkaW"
-      },
-      "artists": [
-        {
-          "name": "Flamentone",
-          "url": "https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA"
-        }
-      ],
-      "duration_ms": 148611,
-      "name": "Pitanga",
-      "url": "https://open.spotify.com/track/5IqsEqudEHRwKk878X9xNB"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -91,6 +75,22 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
+        "name": "Sunset on Repeat",
+        "url": "https://open.spotify.com/album/69KjGfdNRCJsrxTMlE2oVe"
+      },
+      "artists": [
+        {
+          "name": "Bongo Percy",
+          "url": "https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Sunset on Repeat",
+      "url": "https://open.spotify.com/track/1e9uHKGFoECX1AB0Hg4pLJ"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
         "name": "The Whole Afternoon",
         "url": "https://open.spotify.com/album/0nmHsoFcku8B2P8ycplPoh"
       },
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
+        "name": "The Reef",
+        "url": "https://open.spotify.com/album/0vkFGfPiwHWRZaPrt2lKwi"
+      },
+      "artists": [
+        {
+          "name": "Terra Azul",
+          "url": "https://open.spotify.com/artist/0S8F8YxgukXxO7lcLyPqMf"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "The Reef",
+      "url": "https://open.spotify.com/track/6ej1YzS7qoH2n7vzIoe1lf"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
         "name": "Plentiful",
         "url": "https://open.spotify.com/album/5tNn5Rhx6lmpMfqb3yWcM3"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 145844,
       "name": "Plentiful",
       "url": "https://open.spotify.com/track/0dtDDV7wcSYBPiQqtRv0Tu"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/221QFiXWytGmoBWdEMTQR6"
+      },
+      "artists": [
+        {
+          "name": "Lynn Valley Forest Club",
+          "url": "https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/7N2owRWLVbvf6bUbjmhqMj"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -199,6 +231,22 @@
       "duration_ms": 144444,
       "name": "evolve",
       "url": "https://open.spotify.com/track/4hRI77Bb2TowMFo6Q6eAjx"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Warm Current",
+        "url": "https://open.spotify.com/album/4SDxEJhWfLdaFKlZ3mWwol"
+      },
+      "artists": [
+        {
+          "name": "Dune Studio",
+          "url": "https://open.spotify.com/artist/4YtDkagJkzBzlSRxRa7bau"
+        }
+      ],
+      "duration_ms": 125242,
+      "name": "Warm Current",
+      "url": "https://open.spotify.com/track/0nOIUZp9TmChLgNsf4D9pK"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -295,6 +343,22 @@
       "duration_ms": 124662,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/24lEmxq9Y1JE8fFD4gr3pl"
+    },
+    {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "Always smooth",
+        "url": "https://open.spotify.com/album/63utHvWja42TsZ6sCCTrrB"
+      },
+      "artists": [
+        {
+          "name": "Oldofredi",
+          "url": "https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l"
+        }
+      ],
+      "duration_ms": 137475,
+      "name": "Always smooth",
+      "url": "https://open.spotify.com/track/66X53CVLRQC7WgxjntMFRT"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -455,6 +519,22 @@
       "duration_ms": 134579,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/5kTIlE1UPaSpSAsF45q2Cm"
+    },
+    {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "rooftop chilling",
+        "url": "https://open.spotify.com/album/2ktinoxSkX9Qlbk9T1VffG"
+      },
+      "artists": [
+        {
+          "name": "Yelloo Hill",
+          "url": "https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke"
+        }
+      ],
+      "duration_ms": 135849,
+      "name": "rooftop chilling",
+      "url": "https://open.spotify.com/track/5oxK1nWYLELTiggVcv4MqT"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -633,6 +713,22 @@
       "url": "https://open.spotify.com/track/1i10HlHOcuqrzGbeR5z6XK"
     },
     {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "The most realistic",
+        "url": "https://open.spotify.com/album/0ybLjEDF2ziY5dFxTFnGgZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Tales",
+          "url": "https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "The most realistic",
+      "url": "https://open.spotify.com/track/5mcYyN2q2rN651mPvomiZ6"
+    },
+    {
       "added_at": "2026-10-02 15:53:49",
       "album": {
         "name": "Morning Hours",
@@ -763,22 +859,6 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
-        "name": "Lento Del Sol",
-        "url": "https://open.spotify.com/album/70krTfgUFvLJbkjmOF6pSC"
-      },
-      "artists": [
-        {
-          "name": "Coco Siesta",
-          "url": "https://open.spotify.com/artist/3iq6zztZJw1Ma8yHOEUYj5"
-        }
-      ],
-      "duration_ms": 141142,
-      "name": "Lento Del Sol",
-      "url": "https://open.spotify.com/track/7HK99Q3dUn9FUZPE1ecCOo"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
         "name": "Platoon",
         "url": "https://open.spotify.com/album/5aEMLOMJiw57EORRaOwvLQ"
       },
@@ -791,6 +871,22 @@
       "duration_ms": 179454,
       "name": "Platoon",
       "url": "https://open.spotify.com/track/0JVWhjQZxnU3cdFc2FETgZ"
+    },
+    {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "Settings",
+        "url": "https://open.spotify.com/album/4XSAqNAKHYkfMcxEpdtA9e"
+      },
+      "artists": [
+        {
+          "name": "frukks",
+          "url": "https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M"
+        }
+      ],
+      "duration_ms": 153276,
+      "name": "Settings",
+      "url": "https://open.spotify.com/track/01BR9SxbGyJy7pZEUUbhF1"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -823,22 +919,6 @@
       "duration_ms": 167231,
       "name": "Muted Edges",
       "url": "https://open.spotify.com/track/1hq70xSTH6Gx3SKmztJEYh"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "phoenix",
-        "url": "https://open.spotify.com/album/6WYYCYa1ooFd8Zd7W38Nae"
-      },
-      "artists": [
-        {
-          "name": "Koula",
-          "url": "https://open.spotify.com/artist/034RhN3Li8n0IrciAYGjSV"
-        }
-      ],
-      "duration_ms": 121636,
-      "name": "phoenix",
-      "url": "https://open.spotify.com/track/6KbHyQWKIkgkNbGop5y71H"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -905,6 +985,22 @@
       "url": "https://open.spotify.com/track/6q2LbTkc3ZM5i9UJQ9QIJW"
     },
     {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "upside down",
+        "url": "https://open.spotify.com/album/6EBpSaPnxbHjOAgSmG1ltS"
+      },
+      "artists": [
+        {
+          "name": "parasoller",
+          "url": "https://open.spotify.com/artist/1nOdk7rzRx6O6b62Q72FMa"
+        }
+      ],
+      "duration_ms": 129714,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/36jKL4TTQvZIuJJnZzglG0"
+    },
+    {
       "added_at": "2026-10-02 15:53:49",
       "album": {
         "name": "cookie crumbs",
@@ -967,6 +1063,22 @@
       "duration_ms": 142500,
       "name": "Sundowner",
       "url": "https://open.spotify.com/track/712GxNwbNuuF6ry702lqJ7"
+    },
+    {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4hT9b0dvPkFN1PXeL5gILt"
+      },
+      "artists": [
+        {
+          "name": "Edoardo M\u00e1s",
+          "url": "https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1oEQdAjrQ6Xc8qVHSJJkOa"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -1079,6 +1191,22 @@
       "duration_ms": 156581,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/5Fa0wakxlOE22drqTbzpjb"
+    },
+    {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/3UbKlBWJ9HqoZdnDzPi3wI"
+      },
+      "artists": [
+        {
+          "name": "Rivon",
+          "url": "https://open.spotify.com/artist/5mTbt45fb5EOK48Ah0KZ78"
+        }
+      ],
+      "duration_ms": 122352,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6GoiRU0rVdpckLQWL4NWQN"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -1207,6 +1335,22 @@
       "duration_ms": 157232,
       "name": "Out of a Box",
       "url": "https://open.spotify.com/track/4Io0zSIjz1qcZtjatpw2ER"
+    },
+    {
+      "added_at": "2026-10-30 04:01:07",
+      "album": {
+        "name": "Maria's Street",
+        "url": "https://open.spotify.com/album/1IVsCs5gsE1ZHcaeI8fDGJ"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Maria's Street",
+      "url": "https://open.spotify.com/track/5GOyIIlHiOHfU88NKCoJbT"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -1419,22 +1563,6 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
-        "name": "Fortunella",
-        "url": "https://open.spotify.com/album/6caqarK76FDpmIeJmU7TMH"
-      },
-      "artists": [
-        {
-          "name": "Baron Malice",
-          "url": "https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe"
-        }
-      ],
-      "duration_ms": 179454,
-      "name": "Fortunella",
-      "url": "https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
         "name": "Jungle Fever",
         "url": "https://open.spotify.com/album/3wGB1RxdEOnCUj1scakJW2"
       },
@@ -1639,22 +1767,6 @@
       "duration_ms": 148037,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/287adI8tjLSdMQbK5WEE86"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "The Reef",
-        "url": "https://open.spotify.com/album/0vkFGfPiwHWRZaPrt2lKwi"
-      },
-      "artists": [
-        {
-          "name": "Terra Azul",
-          "url": "https://open.spotify.com/artist/0S8F8YxgukXxO7lcLyPqMf"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "The Reef",
-      "url": "https://open.spotify.com/track/6ej1YzS7qoH2n7vzIoe1lf"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -2139,22 +2251,6 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/221QFiXWytGmoBWdEMTQR6"
-      },
-      "artists": [
-        {
-          "name": "Lynn Valley Forest Club",
-          "url": "https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/7N2owRWLVbvf6bUbjmhqMj"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
         "name": "Another Check-in",
         "url": "https://open.spotify.com/album/78sV1WjheF8guFyKPZkx3z"
       },
@@ -2515,22 +2611,6 @@
       "duration_ms": 144672,
       "name": "idol sol",
       "url": "https://open.spotify.com/track/4Kbr3dSXvljDxlz1Jxjkeh"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "Sunset on Repeat",
-        "url": "https://open.spotify.com/album/69KjGfdNRCJsrxTMlE2oVe"
-      },
-      "artists": [
-        {
-          "name": "Bongo Percy",
-          "url": "https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Sunset on Repeat",
-      "url": "https://open.spotify.com/track/1e9uHKGFoECX1AB0Hg4pLJ"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -2999,22 +3079,6 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
-        "name": "Free Refills",
-        "url": "https://open.spotify.com/album/7eXyltg9Gdm50FBvMCwFiw"
-      },
-      "artists": [
-        {
-          "name": "Cafe Juno",
-          "url": "https://open.spotify.com/artist/4YNKtLMm2rIchOD9vhevJc"
-        }
-      ],
-      "duration_ms": 152863,
-      "name": "Free Refills",
-      "url": "https://open.spotify.com/track/2sYW3QRltmeHiZRVhCsNJQ"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
         "name": "Give me a kiss",
         "url": "https://open.spotify.com/album/0cFTwNQJKeZerF5fFCqPVt"
       },
@@ -3143,22 +3207,6 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
-        "name": "Woodrose",
-        "url": "https://open.spotify.com/album/1KOkfwaRYQ6rso1A5WZ7zA"
-      },
-      "artists": [
-        {
-          "name": "Lagoa Verde",
-          "url": "https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Woodrose",
-      "url": "https://open.spotify.com/track/5JAoipyChFV4WRRgCvg1gF"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
         "name": "Velvet Booth",
         "url": "https://open.spotify.com/album/3VInFJGz32nL7s5aCWRxIa"
       },
@@ -3171,22 +3219,6 @@
       "duration_ms": 134482,
       "name": "Velvet Booth",
       "url": "https://open.spotify.com/track/7nr7FBOjNubyavoqhoRkMb"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "Chaconne",
-        "url": "https://open.spotify.com/album/2L8TQzEkwGUpaL8ePHShjf"
-      },
-      "artists": [
-        {
-          "name": "Hoboken",
-          "url": "https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH"
-        }
-      ],
-      "duration_ms": 150681,
-      "name": "Chaconne",
-      "url": "https://open.spotify.com/track/3v6xSvRJ8gj72jjfzXmixs"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -3239,22 +3271,6 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
-        "name": "In a different light",
-        "url": "https://open.spotify.com/album/5EnO4yqsKvpFsqZbielPTQ"
-      },
-      "artists": [
-        {
-          "name": "Phoenix Rouge",
-          "url": "https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM"
-        }
-      ],
-      "duration_ms": 147452,
-      "name": "In a different light",
-      "url": "https://open.spotify.com/track/2hc7WvRjUjAesaK8Yo5x2t"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
         "name": "Nuv\u00e9line",
         "url": "https://open.spotify.com/album/7xHCSFzBgZHK4MHDbcMSdz"
       },
@@ -3267,38 +3283,6 @@
       "duration_ms": 156999,
       "name": "Nuv\u00e9line",
       "url": "https://open.spotify.com/track/30Rcsy3YrqtKQ2emO4AaQ1"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "Lights Are Off",
-        "url": "https://open.spotify.com/album/1w70PAJlhO3FIC7c9JPpMn"
-      },
-      "artists": [
-        {
-          "name": "KD Simon",
-          "url": "https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe"
-        }
-      ],
-      "duration_ms": 179724,
-      "name": "Lights Are Off",
-      "url": "https://open.spotify.com/track/6qvQpLE2MdSOeKr4txhK1L"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "Signature Cocktail",
-        "url": "https://open.spotify.com/album/7cAGfyo2EnXdzRUQtKZxYv"
-      },
-      "artists": [
-        {
-          "name": "Dove Tales",
-          "url": "https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf"
-        }
-      ],
-      "duration_ms": 142155,
-      "name": "Signature Cocktail",
-      "url": "https://open.spotify.com/track/4iy1FbMDo193evf4NxcZ9R"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -3543,22 +3527,6 @@
     {
       "added_at": "2026-10-02 15:53:49",
       "album": {
-        "name": "Alcove",
-        "url": "https://open.spotify.com/album/7aOH7UHzIbWa9jeZ3O2Jol"
-      },
-      "artists": [
-        {
-          "name": "Hackney",
-          "url": "https://open.spotify.com/artist/7cdiUz1LNwYkklLniGmS1b"
-        }
-      ],
-      "duration_ms": 134311,
-      "name": "Alcove",
-      "url": "https://open.spotify.com/track/6AYTomZob9bIImQJfQTwyZ"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
         "name": "Freedom Banner",
         "url": "https://open.spotify.com/album/6zH54laZSKfWgwqHSVxGQT"
       },
@@ -3571,22 +3539,6 @@
       "duration_ms": 149196,
       "name": "Freedom Banner",
       "url": "https://open.spotify.com/track/4CRHD77j69bAf9D7ikl7qQ"
-    },
-    {
-      "added_at": "2026-10-02 15:53:49",
-      "album": {
-        "name": "Warm Current",
-        "url": "https://open.spotify.com/album/4SDxEJhWfLdaFKlZ3mWwol"
-      },
-      "artists": [
-        {
-          "name": "Dune Studio",
-          "url": "https://open.spotify.com/artist/4YtDkagJkzBzlSRxRa7bau"
-        }
-      ],
-      "duration_ms": 125242,
-      "name": "Warm Current",
-      "url": "https://open.spotify.com/track/0nOIUZp9TmChLgNsf4D9pK"
     },
     {
       "added_at": "2026-10-02 15:53:49",
@@ -3779,6 +3731,134 @@
       "duration_ms": 122863,
       "name": "frsh pow",
       "url": "https://open.spotify.com/track/0KQvfKa48pbZRx0ZJLPoZs"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Alcove",
+        "url": "https://open.spotify.com/album/7aOH7UHzIbWa9jeZ3O2Jol"
+      },
+      "artists": [
+        {
+          "name": "Hackney",
+          "url": "https://open.spotify.com/artist/7cdiUz1LNwYkklLniGmS1b"
+        }
+      ],
+      "duration_ms": 134311,
+      "name": "Alcove",
+      "url": "https://open.spotify.com/track/6AYTomZob9bIImQJfQTwyZ"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Woodrose",
+        "url": "https://open.spotify.com/album/1KOkfwaRYQ6rso1A5WZ7zA"
+      },
+      "artists": [
+        {
+          "name": "Lagoa Verde",
+          "url": "https://open.spotify.com/artist/2rj97Navn2jTJOZdsrwvWr"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Woodrose",
+      "url": "https://open.spotify.com/track/5JAoipyChFV4WRRgCvg1gF"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Lento Del Sol",
+        "url": "https://open.spotify.com/album/70krTfgUFvLJbkjmOF6pSC"
+      },
+      "artists": [
+        {
+          "name": "Coco Siesta",
+          "url": "https://open.spotify.com/artist/3iq6zztZJw1Ma8yHOEUYj5"
+        }
+      ],
+      "duration_ms": 141142,
+      "name": "Lento Del Sol",
+      "url": "https://open.spotify.com/track/7HK99Q3dUn9FUZPE1ecCOo"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "phoenix",
+        "url": "https://open.spotify.com/album/6WYYCYa1ooFd8Zd7W38Nae"
+      },
+      "artists": [
+        {
+          "name": "Koula",
+          "url": "https://open.spotify.com/artist/034RhN3Li8n0IrciAYGjSV"
+        }
+      ],
+      "duration_ms": 121636,
+      "name": "phoenix",
+      "url": "https://open.spotify.com/track/6KbHyQWKIkgkNbGop5y71H"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Chaconne",
+        "url": "https://open.spotify.com/album/2L8TQzEkwGUpaL8ePHShjf"
+      },
+      "artists": [
+        {
+          "name": "Hoboken",
+          "url": "https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH"
+        }
+      ],
+      "duration_ms": 150681,
+      "name": "Chaconne",
+      "url": "https://open.spotify.com/track/3v6xSvRJ8gj72jjfzXmixs"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Lights Are Off",
+        "url": "https://open.spotify.com/album/1w70PAJlhO3FIC7c9JPpMn"
+      },
+      "artists": [
+        {
+          "name": "KD Simon",
+          "url": "https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe"
+        }
+      ],
+      "duration_ms": 179724,
+      "name": "Lights Are Off",
+      "url": "https://open.spotify.com/track/6qvQpLE2MdSOeKr4txhK1L"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "Free Refills",
+        "url": "https://open.spotify.com/album/7eXyltg9Gdm50FBvMCwFiw"
+      },
+      "artists": [
+        {
+          "name": "Cafe Juno",
+          "url": "https://open.spotify.com/artist/4YNKtLMm2rIchOD9vhevJc"
+        }
+      ],
+      "duration_ms": 152863,
+      "name": "Free Refills",
+      "url": "https://open.spotify.com/track/2sYW3QRltmeHiZRVhCsNJQ"
+    },
+    {
+      "added_at": "2026-10-02 15:53:49",
+      "album": {
+        "name": "In a different light",
+        "url": "https://open.spotify.com/album/5EnO4yqsKvpFsqZbielPTQ"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rouge",
+          "url": "https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "In a different light",
+      "url": "https://open.spotify.com/track/2hc7WvRjUjAesaK8Yo5x2t"
     }
   ],
   "unique_name": "Soft Lounge",

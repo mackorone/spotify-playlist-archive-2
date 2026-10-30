@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 
 > This is Linkin Park\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,204,343 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,205,085 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47cwRq.md) - [plain]
 | 44 | [Iridescent](https://open.spotify.com/track/69ZEgPX0hxWXJIqkTlYz41) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ) | 4:56 |
 | 45 | [What I've Done \- Unshatter Film Soundtrack \- Live in São Paulo](https://open.spotify.com/track/043TnILbwnO6PsRcNTZ6cP) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter Film Soundtrack \(Live in São Paulo\)](https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw) | 3:31 |
 
-Snapshot ID: `at1GgAAAAABPgoO8xrLSO5Y1oYX3a6NW`
+Snapshot ID: `at/pgAAAAAAMs1a1HT6N7bvr6veBnr5e`

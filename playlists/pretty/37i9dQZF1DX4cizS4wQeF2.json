@@ -1,12 +1,12 @@
 {
   "description": "It's Meg Ryan season \ud83c\udf42. Cover: When Harry Met Sally",
-  "num_followers": 503746,
+  "num_followers": 504153,
   "original_name": "Romcom",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXSH7obneZdzjdB07gRyXSbfoqv",
+  "snapshot_id": "AAAAANhwxvV4UFTb405cV2mmRek2PitT",
   "tracks": [
     {
       "added_at": "2026-09-18 04:02:50",
@@ -75,6 +75,38 @@
     {
       "added_at": "2026-09-18 04:02:50",
       "album": {
+        "name": "The Very Best of Frankie Valli & The 4 Seasons",
+        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
+    },
+    {
+      "added_at": "2026-10-30 04:00:52",
+      "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
+    },
+    {
+      "added_at": "2026-09-18 04:02:50",
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
       },
@@ -89,20 +121,20 @@
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
     },
     {
-      "added_at": "2026-09-18 04:02:50",
+      "added_at": "2026-10-16 04:00:13",
       "album": {
-        "name": "The Very Best of Frankie Valli & The 4 Seasons",
-        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
+      "duration_ms": 204312,
+      "name": "Love Bomb",
+      "url": "https://open.spotify.com/track/6sENjF4RRIwYQM2BAcwavk"
     },
     {
       "added_at": "2026-09-18 04:02:50",
@@ -121,6 +153,22 @@
       "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
+      "added_at": "2026-10-30 04:00:52",
+      "album": {
+        "name": "Leave Me There",
+        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 256538,
+      "name": "Leave Me There",
+      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
+    },
+    {
       "added_at": "2026-09-18 04:02:50",
       "album": {
         "name": "First Band On The Moon",
@@ -135,6 +183,22 @@
       "duration_ms": 193893,
       "name": "Lovefool - Radio Edit",
       "url": "https://open.spotify.com/track/1eRqy8jW4ZLMJR6dl3xsgI"
+    },
+    {
+      "added_at": "2026-10-30 04:00:52",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "You & Me Time",
+      "url": "https://open.spotify.com/track/0zwYtowNHP3r9DUHjo6AZl"
     },
     {
       "added_at": "2026-09-18 04:02:50",
@@ -201,22 +265,6 @@
       "url": "https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX"
     },
     {
-      "added_at": "2026-10-16 04:00:13",
-      "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 204312,
-      "name": "Love Bomb",
-      "url": "https://open.spotify.com/track/6sENjF4RRIwYQM2BAcwavk"
-    },
-    {
       "added_at": "2026-09-18 04:02:50",
       "album": {
         "name": "Accidentally In Love",
@@ -263,6 +311,22 @@
       "duration_ms": 211280,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2"
+    },
+    {
+      "added_at": "2026-10-30 04:00:52",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "Burn Me Blue",
+      "url": "https://open.spotify.com/track/1BNeebWyMKE93hGYHPUGzo"
     },
     {
       "added_at": "2026-09-18 04:02:50",
@@ -351,22 +415,6 @@
     {
       "added_at": "2026-09-18 04:02:50",
       "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "City",
-      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
-    },
-    {
-      "added_at": "2026-09-18 04:02:50",
-      "album": {
         "name": "Kansas Anymore",
         "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
@@ -379,22 +427,6 @@
       "duration_ms": 169974,
       "name": "Writing's On The Wall",
       "url": "https://open.spotify.com/track/4mDTqEqt0QHQFPNkz8eHjr"
-    },
-    {
-      "added_at": "2026-09-18 04:02:50",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-09-18 04:02:50",
@@ -573,22 +605,6 @@
       "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     },
     {
-      "added_at": "2026-10-23 04:00:32",
-      "album": {
-        "name": "Pandora's Box",
-        "url": "https://open.spotify.com/album/3JOSUsNB0oYeWK9COxazfM"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 211203,
-      "name": "Pandora's Box",
-      "url": "https://open.spotify.com/track/0SHEM1zPDaagVOpetRvZEn"
-    },
-    {
       "added_at": "2026-09-18 04:02:50",
       "album": {
         "name": "Weezer",
@@ -683,22 +699,6 @@
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:50",
-      "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
       "added_at": "2026-09-18 04:02:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover: Stryper
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,195 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,330 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 72 | [Exile](https://open.spotify.com/track/5Wv0yx3Q5KrOzKQnxA46W6) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Exile](https://open.spotify.com/album/5Iu0iD1eNXus3IwYhc0m6R) | 4:23 |
 | 73 | [Dynamite](https://open.spotify.com/track/640VdPw2sCaTOB3pcwyIm5) | [Wonderstate](https://open.spotify.com/artist/2xOK3RqDm2UQv4cFIOXUS9) | [Dynamite](https://open.spotify.com/album/1BsxgPBJY5uEhTRArgsrgO) | 2:55 |
 
-Snapshot ID: `AAAAAH8w6Nfck4GI1+2X1k/kTVzx06wW`
+Snapshot ID: `AAAAADTGMAnPZ8zFha7QxBXCkoaQDylV`

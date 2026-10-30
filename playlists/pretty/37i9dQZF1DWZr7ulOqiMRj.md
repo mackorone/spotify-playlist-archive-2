@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla</a>'s favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,477 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,538 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 38 | [Mi Casa](https://open.spotify.com/track/3GQURTVhI9LRYy8Q8CCggN) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Mi Casa](https://open.spotify.com/album/2zSH8i7T0nR7jMvV17dnjO) | 3:49 |
 | 39 | [Fool Proof](https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Fool Proof](https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig) | 3:56 |
 
-Snapshot ID: `AAAAABRWwWN8sbbNwKHPdOTqJjU3oji2`
+Snapshot ID: `AAAAAP+t763HmcRrxXafLb/WbOD9oM1U`

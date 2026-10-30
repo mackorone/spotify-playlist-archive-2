@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 435258,
+  "num_followers": 435235,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHtWTOlED1H+kPorAAsDWDWzL0i1",
+  "snapshot_id": "AAAAANkh/mUWxOXIvEDr4uA7iiFr//yO",
   "tracks": [
     {
       "added_at": "2022-04-13 19:43:54",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2763,6 +2763,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/5nhoVKDcCXvi3AruUFJWnv"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 227423,
+      "name": "Something In The Way You Move",
+      "url": "https://open.spotify.com/track/3ZCDG0nujwGfxrEmZlZoEt"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "CRAZYTALK",
         "url": "https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny"
       },
@@ -2779,22 +2795,6 @@
       "duration_ms": 206373,
       "name": "Memorized",
       "url": "https://open.spotify.com/track/38LC7jHjifqs5EnYUv4BgG"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/5nhoVKDcCXvi3AruUFJWnv"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 227423,
-      "name": "Something In The Way You Move",
-      "url": "https://open.spotify.com/track/3ZCDG0nujwGfxrEmZlZoEt"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3127,6 +3127,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Greatest Hits...So Far!!!",
+        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "F**kin' Perfect",
+      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Skate",
         "url": "https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo"
       },
@@ -3149,22 +3165,6 @@
       "url": "https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Greatest Hits...So Far!!!",
-        "url": "https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "F**kin' Perfect",
-      "url": "https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Get To Know You",
@@ -3179,6 +3179,26 @@
       "duration_ms": 201666,
       "name": "Get To Know You",
       "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "A Second to Midnight",
+        "url": "https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "A Second to Midnight",
+      "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3223,26 +3243,6 @@
       "duration_ms": 148846,
       "name": "Sheesh!",
       "url": "https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
-        "name": "A Second to Midnight",
-        "url": "https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "A Second to Midnight",
-      "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
     },
     {
       "added_at": "2021-08-25 20:28:57",

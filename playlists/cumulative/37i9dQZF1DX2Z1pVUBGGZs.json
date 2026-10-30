@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83d\ude80 cover: cikho",
+  "description": "a playlist without boundaries \ud83d\ude80 cover: Chloe Qisha",
   "name": "Our Generation",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175612,
       "name": "A Confession (I'm broke)",
       "url": "https://open.spotify.com/track/4YDLXum9ibc7nIQ0Rgxwgb"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 332000,
       "name": "angels",
       "url": "https://open.spotify.com/track/5aErTHmtbhPX6CJXh5MPgz"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181880,
       "name": "Bone Structure",
       "url": "https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o"
@@ -5935,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/5pPx1xu0kLg6SLP6RvXona"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191851,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4AhOCTJYtVcCkftroo64VF"
+    },
+    {
+      "album": {
         "name": "Bottled Up",
         "url": "https://open.spotify.com/album/4IBQjiATivHcsHVvtfVvnp"
       },
@@ -7237,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "Gauzy",
+        "url": "https://open.spotify.com/album/1TN0wwvO5zwNTgPrO2uFg4"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194038,
+      "name": "Gauzy",
+      "url": "https://open.spotify.com/track/3MtUIbDLylrLtfWyAZJQ6t"
+    },
+    {
+      "album": {
         "name": "How dare you tryna love me?",
         "url": "https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW"
       },
@@ -8408,6 +8444,24 @@
       "duration_ms": 148579,
       "name": "He Dont Deserve You",
       "url": "https://open.spotify.com/track/16kKRH05VXrzXVmbWb8T60"
+    },
+    {
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214335,
+      "name": "He Likes Boys",
+      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
     },
     {
       "album": {
@@ -9635,6 +9689,24 @@
     },
     {
       "album": {
+        "name": "I Love (Badly)",
+        "url": "https://open.spotify.com/album/57xnJLgaHTWaO5cn2NyCau"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171990,
+      "name": "I Love (Badly)",
+      "url": "https://open.spotify.com/track/4bfort8Y7B2K2ZZfwm88nS"
+    },
+    {
+      "album": {
         "name": "I love being sad",
         "url": "https://open.spotify.com/album/2iAOojxL36gOF93qPbn36B"
       },
@@ -9956,7 +10028,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176520,
       "name": "i'm not yours",
       "url": "https://open.spotify.com/track/4lpBtva69uPgJYobeZDjom"
@@ -10494,6 +10566,24 @@
       "duration_ms": 106706,
       "name": "isla, darling",
       "url": "https://open.spotify.com/track/3pnJ2u8iLXtk56SwICBOMZ"
+    },
+    {
+      "album": {
+        "name": "It All Comes To End",
+        "url": "https://open.spotify.com/album/5j820r3qXPjho7Sehhlkr2"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249187,
+      "name": "It All Comes To End",
+      "url": "https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC"
     },
     {
       "album": {
@@ -14603,6 +14693,24 @@
     },
     {
       "album": {
+        "name": "or I could go to bed",
+        "url": "https://open.spotify.com/album/0KmTttklhl7uS3nxuScF1Y"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222189,
+      "name": "or i could go to bed",
+      "url": "https://open.spotify.com/track/0x3XZ0hqGR5o3JU7hxPkiS"
+    },
+    {
+      "album": {
         "name": "Orange Wine",
         "url": "https://open.spotify.com/album/1Y3SirSXiKgZMnrPQubauH"
       },
@@ -17370,6 +17478,24 @@
       "duration_ms": 198142,
       "name": "SHOW ME RIGHT!",
       "url": "https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE"
+    },
+    {
+      "album": {
+        "name": "bragger's rights",
+        "url": "https://open.spotify.com/album/0s03nwKLHEv1jcQ08nh7WW"
+      },
+      "artists": [
+        {
+          "name": "favourite daughter",
+          "url": "https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184756,
+      "name": "sick joke",
+      "url": "https://open.spotify.com/track/743frEh1dCzyFWNWay6wkx"
     },
     {
       "album": {
@@ -20360,7 +20486,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 207682,
       "name": "Through The Rain",
       "url": "https://open.spotify.com/track/6MTvGQ6OtlBd8vsb5bzZkq"
@@ -20844,7 +20970,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 147555,
       "name": "troubled man",
       "url": "https://open.spotify.com/track/1TXsIu8vBDn0vLQ1GteDUL"
@@ -20866,6 +20992,28 @@
       "duration_ms": 191000,
       "name": "Truck",
       "url": "https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK"
+    },
+    {
+      "album": {
+        "name": "true eyes",
+        "url": "https://open.spotify.com/album/7EELqUusIEDgRAwlv2H6Y9"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130160,
+      "name": "true eyes",
+      "url": "https://open.spotify.com/track/48RRZuWTjGh5lWNUsKcxvZ"
     },
     {
       "album": {
@@ -22346,7 +22494,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 208800,
       "name": "Wishing Bone",
       "url": "https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg"

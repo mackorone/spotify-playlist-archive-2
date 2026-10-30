@@ -2,9 +2,9 @@
 
 ### [Who We Be](https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg)
 
-> The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist\. Cover: EsDeeKid
+> The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist\. Cover: Skepta
 
-1,882 songs - 3 day 22 hr 5 min
+1,883 songs - 3 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-22 | 2023-09-01 |
 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-06-16 | 2023-07-14 |
 | [BATTY & BENCH \- Freestyle pt\. II](https://open.spotify.com/track/0V9pELwsLI9FrjrbZbjH9n) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who said drill’s dead?](https://open.spotify.com/album/2R5KHMrNkhNoFnlNvIo5AN) | 2:28 | 2022-06-16 | 2022-07-15 |
+| [BBBBBOOTER](https://open.spotify.com/track/68ywfZcVz9Hft1TDpMFtHV) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [The Buzz](https://open.spotify.com/album/0SV0P0JXQPAoplBVBIoAfs) | 1:57 | 2026-10-30 |  |
 | [BBK](https://open.spotify.com/track/1dbnMK6t2B51VCvgyUmBK1) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [BBK](https://open.spotify.com/album/1TgotWmUl0eqF8XGe9Deh2) | 2:20 | 2026-03-06 | 2026-06-19 |
 | [BE A HOE \(LUTON TING\) \[feat\. Lancey Foux\]](https://open.spotify.com/track/3eKuGFKP4U615jDc83lNLZ) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [BE A HOE \(LUTON TING\) \[feat\. Lancey Foux\] / WONDERFUL FEELING](https://open.spotify.com/album/3eB2IymMVOjQuVJiZAdEOs) | 3:08 | 2024-01-05 | 2024-02-02 |
 | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS) | 3:40 | 2022-03-08 | 2022-03-09 |
@@ -1792,7 +1793,7 @@
 | [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-18 | 2023-11-11 |
 | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/track/5LtoEVXMgxJPrXEncdUlFU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [WELCOME 2 MY STRIP \(FT\. ODUMODUBLVCK\)](https://open.spotify.com/album/0lVOUF1KxkIC6xgfMs20k3) | 2:23 | 2023-08-17 | 2023-08-19 |
 | [Welcome to E9](https://open.spotify.com/track/2ro147cSsJeFgdjBjOGGLZ) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Welcome to E9](https://open.spotify.com/album/2YBanvnPKrTGAIXZMa9NGk) | 2:00 | 2024-02-02 | 2024-02-16 |
-| [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/album/33tTOCJ1O1PJ8yVtmIDD5H) | 3:32 | 2026-07-10 |  |
+| [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Well Organised \(feat\. Lila Iké\)](https://open.spotify.com/album/33tTOCJ1O1PJ8yVtmIDD5H) | 3:32 | 2026-07-10 | 2026-10-30 |
 | [Wesh \(feat\. Unknown T\)](https://open.spotify.com/track/2dt9ds35KPCpDuihBrEpBj) | [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Wesh \(feat\. Unknown T\)](https://open.spotify.com/album/7oZJjss1yfY89KcMnnux6w) | 2:19 | 2024-12-13 | 2025-03-14 |
 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 | 2025-06-12 | 2025-11-07 |
 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-09-04 | 2026-03-20 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK and Ireland's biggest playlist\. Cover: Tate McRae
+> The UK and Ireland's biggest playlist\. Cover: Olivia Rodrigo, Chappell Roan
 
 523 songs - 1 day 3 hr 53 min
 

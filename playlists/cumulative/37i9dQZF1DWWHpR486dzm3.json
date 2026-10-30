@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 183611,
       "name": "DNA",
       "url": "https://open.spotify.com/track/2I5Ne7pq4adv8mLv6zye1U"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 233585,
       "name": "Economy",
       "url": "https://open.spotify.com/track/1CiIqoiQPZ9dLLRQ23dwes"
@@ -4108,6 +4108,24 @@
       "duration_ms": 207907,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/5EcIDakGLGize4iTVjCbhm"
+    },
+    {
+      "album": {
+        "name": "giljotiini/pahamainen",
+        "url": "https://open.spotify.com/album/3jvAIOMVLXqhhgEhbFmigO"
+      },
+      "artists": [
+        {
+          "name": "whereismike",
+          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "giljotiini",
+      "url": "https://open.spotify.com/track/09iitkUO6iIbZ0YTtA3u7L"
     },
     {
       "album": {
@@ -6822,7 +6840,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186901,
       "name": "Jossain toisaalla",
       "url": "https://open.spotify.com/track/53YPzF6uFbWBYqbzVmdKJC"
@@ -7940,6 +7958,28 @@
       "duration_ms": 191523,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/0wYu4KnJynIY8QxmeZoxv5"
+    },
+    {
+      "album": {
+        "name": "Visions Of Future",
+        "url": "https://open.spotify.com/album/6osC8Md0LLuUkuthy9yRQ9"
+      },
+      "artists": [
+        {
+          "name": "STINAKO",
+          "url": "https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s"
+        },
+        {
+          "name": "Njet Njet 9",
+          "url": "https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218524,
+      "name": "Keep My Dreams",
+      "url": "https://open.spotify.com/track/4VxKLlomW9SxcOzZ0KftgL"
     },
     {
       "album": {
@@ -12466,7 +12506,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181603,
       "name": "Muutos",
       "url": "https://open.spotify.com/track/6fkPDChgcdqRQI9rKvnFN3"
@@ -13316,6 +13356,28 @@
       "duration_ms": 143053,
       "name": "Oi dai, dai!",
       "url": "https://open.spotify.com/track/5fdc5iT6PTvF9etEHomUeJ"
+    },
+    {
+      "album": {
+        "name": "starseed",
+        "url": "https://open.spotify.com/album/0VUd4XVqLzcLlp6rez60Eb"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        },
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "oikees",
+      "url": "https://open.spotify.com/track/5PafEFpYfVg7SUNc8T8Bdq"
     },
     {
       "album": {
@@ -19623,6 +19685,24 @@
     },
     {
       "album": {
+        "name": "#YOLO (DELUXE)",
+        "url": "https://open.spotify.com/album/5qGkMcngv1e35X1leRj0Ht"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187900,
+      "name": "TOP TIER",
+      "url": "https://open.spotify.com/track/6sEMr6wCHGQcXdEuy2O8yQ"
+    },
+    {
+      "album": {
         "name": "Tottunut veteen",
         "url": "https://open.spotify.com/album/3LTSPBmn9dAs1hW5dWgAa0"
       },
@@ -20568,7 +20648,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 184400,
       "name": "Until it Sleeps",
       "url": "https://open.spotify.com/track/4d6uxhao07qO1XJD42bOSg"
@@ -21568,6 +21648,28 @@
       "duration_ms": 137531,
       "name": "Vuoristorata",
       "url": "https://open.spotify.com/track/2ED8kJtOHdRxtzMdlpbceC"
+    },
+    {
+      "album": {
+        "name": "vuoristorataa",
+        "url": "https://open.spotify.com/album/3Cnqs7JgTTOGP81j9QY6Co"
+      },
+      "artists": [
+        {
+          "name": "meik",
+          "url": "https://open.spotify.com/artist/3lWLx3XSIXTsTcWH30Xs95"
+        },
+        {
+          "name": "NCO",
+          "url": "https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "vuoristorataa",
+      "url": "https://open.spotify.com/track/32awoLFguOXRq1iv5U3hId"
     },
     {
       "album": {

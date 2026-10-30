@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 746053,
+  "num_followers": 746231,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWfqnY9R+Q9SThHCvqKoFFK3FEK",
+  "snapshot_id": "AAAAALKfxmvkQliqp+j62XJ/XgvszqBn",
   "tracks": [
     {
       "added_at": "2026-10-23 13:12:57",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
         "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
         "url": "https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 261176,
       "name": "What a Difference a Day Makes (from the Netflix Limited Series \"Black Rabbit\")",
       "url": "https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 236469,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 217172,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 236469,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
         "name": "Take on Me",
         "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 270000,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 283586,
-      "name": "First Song",
-      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -911,22 +927,6 @@
       "duration_ms": 229596,
       "name": "Lips Can Lie",
       "url": "https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
         "name": "Always Seem to Get Things Wrong",
         "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
         "name": "You Better Go Now",
         "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 170070,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1115,22 +1131,6 @@
       "duration_ms": 406554,
       "name": "Autumn Serenade",
       "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
-      },
-      "artists": [
-        {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
-        }
-      ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 171306,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
+        "name": "Make It Another Old Fashioned, Please",
+        "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Make It Another Old Fashioned, Please",
+      "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 444306,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
-        "name": "Make It Another Old Fashioned, Please",
-        "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Make It Another Old Fashioned, Please",
-      "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Over the Rainbow",
-        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
         }
       ],
-      "duration_ms": 251103,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+        "name": "Over the Rainbow",
+        "url": "https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo"
       },
       "artists": [
         {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+      "duration_ms": 251103,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1523,22 +1523,6 @@
       "duration_ms": 388114,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
-        "name": "Just a Little Lovin'",
-        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 289670,
-      "name": "Just a Little Lovin\u2019",
-      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1579,6 +1563,22 @@
       "duration_ms": 241413,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "Just a Little Lovin'",
+        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 289670,
+      "name": "Just a Little Lovin\u2019",
+      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Baby Won't You Please Come Home",
-        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
       },
@@ -1691,18 +1675,18 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "The Best of Blu",
-        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
       },
       "artists": [
         {
-          "name": "Jonny Blu",
-          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Girl from Ipanema",
-      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1723,6 +1707,22 @@
       "duration_ms": 280312,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/3f8XyknPqIZStelk8c04tE"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "The Best of Blu",
+        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
+      },
+      "artists": [
+        {
+          "name": "Jonny Blu",
+          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Girl from Ipanema",
+      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
+        "name": "Dreamers Ball",
+        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Poole",
+          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
+        }
+      ],
+      "duration_ms": 283960,
+      "name": "Dreamers Ball",
+      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
         "name": "My Ideal",
         "url": "https://open.spotify.com/album/0n9t4yvnjeYmTEbLamdn36"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 424173,
       "name": "It's the Talk of the Town",
       "url": "https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
-        "name": "Dreamers Ball",
-        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Poole",
-          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "Dreamers Ball",
-      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -2127,30 +2127,6 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Lemons",
-        "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
-      },
-      "artists": [
-        {
-          "name": "David Linard",
-          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
-        },
-        {
-          "name": "Jackie West",
-          "url": "https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np"
-        },
-        {
-          "name": "Adam Levy",
-          "url": "https://open.spotify.com/artist/3RHGiicVEm5Clr70D2O5dt"
-        }
-      ],
-      "duration_ms": 249541,
-      "name": "Lemons",
-      "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
-    },
-    {
-      "added_at": "2026-10-23 13:12:57",
-      "album": {
         "name": "Summer Wind",
         "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
       },
@@ -2183,8 +2159,32 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
+      },
+      "artists": [
+        {
+          "name": "David Linard",
+          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
+        },
+        {
+          "name": "Jackie West",
+          "url": "https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np"
+        },
+        {
+          "name": "Adam Levy",
+          "url": "https://open.spotify.com/artist/3RHGiicVEm5Clr70D2O5dt"
+        }
+      ],
+      "duration_ms": 249541,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
+    },
+    {
+      "added_at": "2026-10-23 13:12:57",
+      "album": {
+        "name": "Hilltop",
+        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
       },
       "artists": [
         {
@@ -2192,9 +2192,9 @@
           "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
         }
       ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+      "duration_ms": 272768,
+      "name": "Hilltop",
+      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
     },
     {
       "added_at": "2026-10-23 13:12:57",
@@ -2295,8 +2295,8 @@
     {
       "added_at": "2026-10-23 13:12:57",
       "album": {
-        "name": "Hilltop",
-        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
       },
       "artists": [
         {
@@ -2304,9 +2304,9 @@
           "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
         }
       ],
-      "duration_ms": 272768,
-      "name": "Hilltop",
-      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     },
     {
       "added_at": "2026-10-23 13:12:57",

@@ -4,7 +4,7 @@
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: Spider\-Man: Brand New Day.
 
-247 songs - 13 hr 58 min
+248 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Dirty Work](https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 3:10 | 2026-03-12 | 2026-04-06 |
 | [Dirty Work \(From Hacks Season 3\)](https://open.spotify.com/track/3nzR13bHUZQRNnWHuxEf2h) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Dirty Work \(From Hacks Season 3\)](https://open.spotify.com/album/1a4ly9vEHKWV34UnBKOpbH) | 3:12 | 2024-05-03 | 2024-09-14 |
 | [Disclaimer](https://open.spotify.com/track/0ynCHtvhUYkbcLB2mJ64x2) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Disclaimer \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7wRoNLFkn4AbAvOauKvHW8) | 0:49 | 2024-10-18 | 2025-02-25 |
-| [Don’t Dream It’s Over \- From The Movie “GOAT”](https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don’t Dream It’s Over \(From The Movie “GOAT”\)](https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf) | 3:13 | 2026-02-13 |  |
+| [Don’t Dream It’s Over \- From The Movie “GOAT”](https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don’t Dream It’s Over \(From The Movie “GOAT”\)](https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf) | 3:13 | 2026-02-13 | 2026-10-30 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/11VrJD8qYi3S0nPSVugSec) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Idol Episode 2 \(Music from the HBO Original Series\)](https://open.spotify.com/album/2SQvwkhFgWxdf2q0ZZvpQi) | 4:28 | 2024-01-13 | 2024-07-11 |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-14 | 2025-09-23 |
 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-02 |  |
@@ -233,6 +233,7 @@
 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 | 2024-06-14 | 2024-11-27 |
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-13 | 2024-11-23 |
 | [Vegas](https://open.spotify.com/track/7LUDHp9cSr6tkPJ0HUUbq5) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ALr56Pyvr5rAsDISSVLR6) | 3:03 | 2024-01-13 | 2024-06-15 |
+| [Villains Aren't Born \(They're Made\)](https://open.spotify.com/track/1vhcao02NoMFt9NjMMZhut) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [Villains Aren't Born \(They're Made\)](https://open.spotify.com/album/3U6vePfFaF7pUm75tDJ4IS) | 3:14 | 2026-10-30 |  |
 | [Vivo Sarai \(Staying Alive\)](https://open.spotify.com/track/2StLwKcI9wreel3XEzljbl) | [Eva Eva Eva](https://open.spotify.com/artist/6EQNQjeMslKvAI1NvxB7qw) | [Eva Eva Eva](https://open.spotify.com/album/0hWRLE6pFBfSYcblVhwjKP) | 4:02 | 2026-09-18 |  |
 | [Waiting On A Wish \- From "Disney's Snow White"](https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Waiting On A Wish \(From "Disney's Snow White"\)](https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS) | 4:51 | 2025-03-08 | 2025-07-03 |
 | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l) | 4:21 | 2025-09-06 | 2026-04-25 |

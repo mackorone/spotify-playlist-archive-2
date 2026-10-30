@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 79257,
+  "num_followers": 79293,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABafLzB2+OLYPlCYV99LlDo",
+  "snapshot_id": "at/pgAAAAAC5r0Mam1FFfnkbYxu0FRpJ",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 373026,
-      "name": "One Mo'Gin",
-      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx"
+      "duration_ms": 316306,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 316306,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt"
+      "duration_ms": 373026,
+      "name": "One Mo'Gin",
+      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx"
     },
     {
       "added_at": null,

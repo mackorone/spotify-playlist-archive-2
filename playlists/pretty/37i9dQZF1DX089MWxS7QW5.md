@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Zion.T\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,540 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,544 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Tiki Tiki](https://open.spotify.com/track/399Dr3vY1gjiaFoCZChSqP) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Tiki Tiki](https://open.spotify.com/album/2nUgb8UdZldKYGaWCF33I8) | 3:20 |
 | 50 | [Lucky](https://open.spotify.com/track/2BLGNwa2TilLNRVmRDMYlw) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr) | [Lucky](https://open.spotify.com/album/24Zn0QuP9VyAjUYHRarggi) | 2:38 |
 
-Snapshot ID: `AAAAANV/Wd4zXVuFsp3UydoGgedlAiRM`
+Snapshot ID: `AAAAAKdF7+EWN5Ggm3XqCk8TBDBAxHFb`

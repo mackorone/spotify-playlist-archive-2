@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 922 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 930 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 13 | [I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 3:23 |
 | 14 | [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [The Most Dear and The Future](https://open.spotify.com/album/51h6ahBtJWl7emcB5yDSuU) | 2:19 |
 | 15 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
-| 16 | [Ordinary Feelings](https://open.spotify.com/track/79rC6hgv09gnIRQGEqDNit) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Wide Eyed](https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn) | 3:52 |
-| 17 | [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 |
+| 16 | [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 |
+| 17 | [Ordinary Feelings](https://open.spotify.com/track/79rC6hgv09gnIRQGEqDNit) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Wide Eyed](https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn) | 3:52 |
 | 18 | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Caer](https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ) | 3:25 |
 | 19 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
 | 20 | [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 29 | [Oh, Memory](https://open.spotify.com/track/6rpvBoYmL0PThOjbW4s2of) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 3:47 |
 | 30 | [Stillness Blues](https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Magazine](https://open.spotify.com/album/5nT9mBH0yosh5yRuCqpKW3) | 1:18 |
 | 31 | [T00STEP](https://open.spotify.com/track/5MzR3ttkqFVCBkscYr7fFz) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [T00STEP](https://open.spotify.com/album/7FCTs0W90tv2y0i0UprCx4) | 3:56 |
-| 32 | [Vortex](https://open.spotify.com/track/5rrKhyZq8Rf5hWjkJUwuRG) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o) | 6:23 |
-| 33 | [Comet](https://open.spotify.com/track/3QGQjDVIX4pdaLku5p9pG6) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Horizon](https://open.spotify.com/album/2JcplFbFkf2GKnuhlIRi2n) | 6:13 |
+| 32 | [Comet](https://open.spotify.com/track/3QGQjDVIX4pdaLku5p9pG6) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Horizon](https://open.spotify.com/album/2JcplFbFkf2GKnuhlIRi2n) | 6:13 |
+| 33 | [Vortex](https://open.spotify.com/track/5rrKhyZq8Rf5hWjkJUwuRG) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o) | 6:23 |
 | 34 | [stupid prizes](https://open.spotify.com/track/4YZXIoOJbus69PEBfP1AF0) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [hooke’s law](https://open.spotify.com/album/2sTsH9vYQhIi60IYjE3hJp) | 3:11 |
 | 35 | [Over the Dune](https://open.spotify.com/track/3cHLDKI6zWPFtczejY5kGw) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [David Moore](https://open.spotify.com/artist/7xEnx9zeKaSs5WeZWPnpW8), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Let the Moon Be a Planet](https://open.spotify.com/album/3wFY9XEusAnyUY5GxTE6vu) | 6:44 |
 | 36 | [Needle Guy](https://open.spotify.com/track/5EfGtVw1Hpr8kgnDBJZ3Ar) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj) | 2:59 |
 | 37 | [Na Dem](https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Na Dem](https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui) | 4:29 |
 
-Snapshot ID: `AAAAAP0VXxE1cXK6O7q2ym6LGqPtn/Em`
+Snapshot ID: `AAAAALePAcilllhPwTz+QLudgaBR2l6b`

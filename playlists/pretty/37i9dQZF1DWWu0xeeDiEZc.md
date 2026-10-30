@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,403 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,444 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 19 | [Skidamarink](https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 2:16 |
 | 20 | [Bananaphone](https://open.spotify.com/track/2Uu4AnnMTJpevC0IrwAuOW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Bananaphone](https://open.spotify.com/album/1y772v6xDzzRWlaYWcNWHq) | 3:14 |
 | 21 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 |
-| 22 | [Looby Loo \- Toddler Version](https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Toddler Party](https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21) | 2:03 |
-| 23 | [Just Sing](https://open.spotify.com/track/4vUq9Q0kgdgy2YZr1ugqge) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI) | 3:41 |
+| 22 | [Just Sing](https://open.spotify.com/track/4vUq9Q0kgdgy2YZr1ugqge) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI) | 3:41 |
+| 23 | [Looby Loo \- Toddler Version](https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Toddler Party](https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21) | 2:03 |
 | 24 | [Five Little Monkeys](https://open.spotify.com/track/475LPQIUiT6SqfwuqWYtU2) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:05 |
 | 25 | [Boom Chicka Boom](https://open.spotify.com/track/3wwjGWZLyBv4SJwYxc9KZy) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Toddler Action Learning Songs](https://open.spotify.com/album/5MTRkg3C6Sk2am4AbN3h3F) | 2:34 |
 | 26 | [Under the Sea](https://open.spotify.com/track/79juTmh89v1xqOLYsr6wSq) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Cast \- The Little Mermaid](https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 49 | [Fruit Salad](https://open.spotify.com/track/7kDKvOxuIY4aiHdYgKP8gd) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 2:28 |
 | 50 | [Shoo\-Fly](https://open.spotify.com/track/69u6Wps4uQfwd2Jl4Jd3Ij) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6q0jz3n3Hk7XAir2AaqaaC) | 2:58 |
 
-Snapshot ID: `AAAAALcPkuXTeATb7mDv6ehZ778xkft9`
+Snapshot ID: `AAAAACQD29pw622VnweuAT9WsPXB+9uD`

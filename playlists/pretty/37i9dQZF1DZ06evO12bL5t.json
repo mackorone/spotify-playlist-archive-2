@@ -1,33 +1,13 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 146260,
+  "num_followers": 146315,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADjIQ9oEyvxOTUwWQMLRP3m",
+  "snapshot_id": "at/pgAAAAADaVtl5wLfggiKS0X5LQlpr",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Los Del Puerto",
-          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
-        }
-      ],
-      "duration_ms": 195545,
-      "name": "Ya No Me Preocupo",
-      "url": "https://open.spotify.com/track/0rfNRGojD9WukEeeL54Hct"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 191880,
       "name": "Ladeando (feat. Fuerza Regida)",
       "url": "https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+        }
+      ],
+      "duration_ms": 195545,
+      "name": "Ya No Me Preocupo",
+      "url": "https://open.spotify.com/track/0rfNRGojD9WukEeeL54Hct"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Los Que Conocen El Rollo",
-        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Piloto Filoso",
-      "url": "https://open.spotify.com/track/4b5ymWINeHuCTpRQAhvARL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Si Acaso",
         "url": "https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 198285,
       "name": "Por Si Acaso",
       "url": "https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Los Que Conocen El Rollo",
+        "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Piloto Filoso",
+      "url": "https://open.spotify.com/track/4b5ymWINeHuCTpRQAhvARL"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Historia De Los Barrios",
-      "url": "https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry For The Wait 2",
         "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 213265,
       "name": "Lo Que Pudo Ser",
       "url": "https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Historia De Los Barrios",
+      "url": "https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 146374,
-      "name": "Jarabe Con Sprite",
-      "url": "https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Versos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 253196,
       "name": "Versos del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "Se Sufre Pa Merecer",
+      "url": "https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "Se Sufre Pa Merecer",
-      "url": "https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Va Pa' Largo",
         "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 164925,
       "name": "Cupcake Factory",
       "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 146374,
+      "name": "Jarabe Con Sprite",
+      "url": "https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Line Up",
+        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "De La Calle (Remix)",
+      "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 155255,
       "name": "Risk Takers",
       "url": "https://open.spotify.com/track/2Ina8OxEQ3knMzWFRz9imx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Line Up",
-        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Puerto",
-          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 157909,
-      "name": "De La Calle (Remix)",
-      "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Ultimos Son Los Primeros",
-        "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
+        "name": "Amor Tirano (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
       },
       "artists": [
         {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "Grupo Triple L",
+          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 153384,
-      "name": "No Me Preocupo Tanto",
-      "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
+      "duration_ms": 186147,
+      "name": "Amor Tirano",
+      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
     },
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Tirano (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
+        "name": "Los Ultimos Son Los Primeros",
+        "url": "https://open.spotify.com/album/3drj9hFTaeneCFvq7yJKb4"
       },
       "artists": [
         {
-          "name": "Grupo Triple L",
-          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 186147,
-      "name": "Amor Tirano",
-      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
+      "duration_ms": 153384,
+      "name": "No Me Preocupo Tanto",
+      "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "Los Ultimos Son Los Primeros (Remix)",
-      "url": "https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 209911,
       "name": "Yo, Billetes y Damas",
       "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Los Ultimos Son Los Primeros (Remix)",
+      "url": "https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi"
     },
     {
       "added_at": null,
@@ -887,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L7X",
-        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+        "name": "The Line Up",
+        "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Grupo La Palma",
+          "url": "https://open.spotify.com/artist/72fFYDb78ITXU7qenHHFcQ"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 178368,
-      "name": "HASHERO",
-      "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
+      "duration_ms": 229227,
+      "name": "Asi Es Este Juego",
+      "url": "https://open.spotify.com/track/7BFfhLTWTZXpJB8R4aj6BF"
     }
   ],
   "unique_name": "This Is Herencia de Patrones",

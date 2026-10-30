@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: Toro y Moi",
+  "description": "The newest in Ambient music and the sounds it explores beyond. \nOn the cover: Jeremiah Chiu",
   "name": "New Ambient",
   "tracks": [
     {
@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Motorcycles and Cherry Wind",
+        "url": "https://open.spotify.com/album/1oPObJlxsNoFlR9NKrHGZ8"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Altinoluk",
+      "url": "https://open.spotify.com/track/0IqrfItQ6Bkyro8oiE3Jrb"
+    },
+    {
+      "album": {
         "name": "Altitude",
         "url": "https://open.spotify.com/album/2azlX4J7coSwGZiQtUjbc6"
       },
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175000,
       "name": "amber",
       "url": "https://open.spotify.com/track/0ZFYibnb5tlvtkPyT5dtGY"
@@ -4969,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Beneath the Earth",
+        "url": "https://open.spotify.com/album/7e35TQaHo17KGMudDCc0BA"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77346,
+      "name": "Beneath the Earth",
+      "url": "https://open.spotify.com/track/5gsWcO2bxkTpJBKhRntova"
+    },
+    {
+      "album": {
         "name": "Berlin-orbit 4",
         "url": "https://open.spotify.com/album/2ZRqva5xp4Fg7baxb6D32w"
       },
@@ -6435,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "Lignes",
+        "url": "https://open.spotify.com/album/6jQxqBgkTWRUI2Q7ulk8cv"
+      },
+      "artists": [
+        {
+          "name": "Zerolex",
+          "url": "https://open.spotify.com/artist/4T5oYJeywfyP4neAyNxSwh"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124067,
+      "name": "C'\u00e9tait un peu long comme chute",
+      "url": "https://open.spotify.com/track/5jEweyHC3HVag0IcJclXKs"
+    },
+    {
+      "album": {
         "name": "Time Indefinite",
         "url": "https://open.spotify.com/album/4EtYy5q77reAmSNvLkuyYq"
       },
@@ -7801,6 +7855,24 @@
     },
     {
       "album": {
+        "name": "EPILOGUE",
+        "url": "https://open.spotify.com/album/7lzGbvSuN81H7LjwhH5sFT"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Isoda",
+          "url": "https://open.spotify.com/artist/5kUr7ReGZPQYssNxaKjyAC"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289240,
+      "name": "Circulation 2",
+      "url": "https://open.spotify.com/track/7tuvkO1vgLsMdiBivNqT1R"
+    },
+    {
+      "album": {
         "name": "The Empty Bridge",
         "url": "https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6"
       },
@@ -8679,6 +8751,28 @@
     },
     {
       "album": {
+        "name": "Convalescence",
+        "url": "https://open.spotify.com/album/3uucqNcqI9T7knYZrB5A8n"
+      },
+      "artists": [
+        {
+          "name": "August Deen",
+          "url": "https://open.spotify.com/artist/2CETA5kvcUaOO9JZKOUCcB"
+        },
+        {
+          "name": "Chiccote's",
+          "url": "https://open.spotify.com/artist/0foOjHOe9AOklWwyrA4DR1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171052,
+      "name": "Convalescence",
+      "url": "https://open.spotify.com/track/5wTJluQ1qKtR4uHGG2HPiI"
+    },
+    {
+      "album": {
         "name": "12 Conversations",
         "url": "https://open.spotify.com/album/6Q6jtfzYCMmUz3h8xBo3Tm"
       },
@@ -8694,7 +8788,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 410393,
       "name": "Conversation 1",
       "url": "https://open.spotify.com/track/0bMixpUhrbM5gLI1QBwBDm"
@@ -8760,7 +8854,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 208000,
       "name": "cool girls go to heaven",
       "url": "https://open.spotify.com/track/4HkQtiWQC9VfeYZzfESHaS"
@@ -10190,7 +10284,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 233000,
       "name": "Distancia Necesaria",
       "url": "https://open.spotify.com/track/1GHxzj8KLRiUsVq5B9jgoY"
@@ -11391,6 +11485,36 @@
     },
     {
       "album": {
+        "name": "Edge Conditions",
+        "url": "https://open.spotify.com/album/40vbO3d4HIrO84F9ypWwdD"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        },
+        {
+          "name": "Patrick Shiroishi",
+          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
+        },
+        {
+          "name": "Resavoir",
+          "url": "https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265240,
+      "name": "Edge Conditions",
+      "url": "https://open.spotify.com/track/3cw8y00NHortEi81W05LuY"
+    },
+    {
+      "album": {
         "name": "Languid Gongue",
         "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
       },
@@ -11902,6 +12026,28 @@
       "duration_ms": 188000,
       "name": "Enough Grace",
       "url": "https://open.spotify.com/track/1j1IknlvyqlWymlU0utvxz"
+    },
+    {
+      "album": {
+        "name": "enter the void / the earth is blue",
+        "url": "https://open.spotify.com/album/6GlVAWXeFyq6q0sqoaMDMl"
+      },
+      "artists": [
+        {
+          "name": "Barney Ross-Smith",
+          "url": "https://open.spotify.com/artist/6vSiBs3kxTg2TdmrEIXOHp"
+        },
+        {
+          "name": "Domdat",
+          "url": "https://open.spotify.com/artist/5ctt6RMJwTGZvbyD0L6GiY"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297978,
+      "name": "enter the void",
+      "url": "https://open.spotify.com/track/3o3HR4UNWU6VzABKzfu0HL"
     },
     {
       "album": {
@@ -15969,6 +16115,24 @@
     },
     {
       "album": {
+        "name": "Grey Dawn",
+        "url": "https://open.spotify.com/album/0O0sANyY0TItKp73A178jW"
+      },
+      "artists": [
+        {
+          "name": "Sad Moses",
+          "url": "https://open.spotify.com/artist/1P8CXGQyUvvY7ctcSByX8i"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Grey Dawn",
+      "url": "https://open.spotify.com/track/4cN4nzaZIgOoDSGw1tPT8n"
+    },
+    {
+      "album": {
         "name": "Grey Interiors",
         "url": "https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB"
       },
@@ -17740,7 +17904,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 217731,
       "name": "I'm Writing a New Song Every Month from One Birthday til the Next: September",
       "url": "https://open.spotify.com/track/6JTR8aXjnTBzEyXZI3b3Wx"
@@ -17962,7 +18126,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 188269,
       "name": "II",
       "url": "https://open.spotify.com/track/5FFbaC1w8TyjreQwc3RGqe"
@@ -19876,6 +20040,24 @@
       "duration_ms": 161466,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/3R5x9txlpptjoRK3BSIXoL"
+    },
+    {
+      "album": {
+        "name": "Kotti",
+        "url": "https://open.spotify.com/album/0pE2hRMU6mvxM7owNPvRwp"
+      },
+      "artists": [
+        {
+          "name": "CQNZR.",
+          "url": "https://open.spotify.com/artist/6dT1iuw0RImGWEowCJhwNw"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457021,
+      "name": "Kotti",
+      "url": "https://open.spotify.com/track/4m87v7JDmqFJ2qmO0dml94"
     },
     {
       "album": {
@@ -21932,7 +22114,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 149546,
       "name": "LUMEN VITAE",
       "url": "https://open.spotify.com/track/4MeGnL213h17UL3FOM44lu"
@@ -22386,7 +22568,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 196800,
       "name": "Mangrove",
       "url": "https://open.spotify.com/track/1y328nE75zjvhLFYlXILHz"
@@ -22582,6 +22764,24 @@
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
+    },
+    {
+      "album": {
+        "name": "Wind (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Xt5HVVty2mFUckWfkKoHR"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198493,
+      "name": "Mathematic Of Light - Bonus Track",
+      "url": "https://open.spotify.com/track/1bVdQ99rJ01qlQucxrgPC4"
     },
     {
       "album": {
@@ -25742,7 +25942,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 286626,
       "name": "NUNC STANS",
       "url": "https://open.spotify.com/track/0eqzbjtMMgzi873cCrFMeq"
@@ -26536,7 +26736,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 256686,
       "name": "Open Ended",
       "url": "https://open.spotify.com/track/6V2Y3mohQ0ktuXES6EsKrm"
@@ -27146,6 +27346,24 @@
       "duration_ms": 286846,
       "name": "Overheard",
       "url": "https://open.spotify.com/track/0J1z9UlZERcqAqmW5m3yvh"
+    },
+    {
+      "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/2ZjREygZ7ZNKqydBm7HVdk"
+      },
+      "artists": [
+        {
+          "name": "ANNA Z",
+          "url": "https://open.spotify.com/artist/26E4vk1a31eBwdHPPKyMsN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220996,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/6hSRUKCDWuoh4LQxlqfwt0"
     },
     {
       "album": {
@@ -29158,7 +29376,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 223434,
       "name": "presence",
       "url": "https://open.spotify.com/track/6zuUbjk1vXvOoGv5TVdOa0"
@@ -30458,6 +30676,24 @@
       "duration_ms": 218554,
       "name": "Restart",
       "url": "https://open.spotify.com/track/1MNs6jT6pvV1KBmZcOCXdS"
+    },
+    {
+      "album": {
+        "name": "Resting Tide",
+        "url": "https://open.spotify.com/album/4RXUGTgO9xQquMiE68Tvks"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161344,
+      "name": "Resting Tide",
+      "url": "https://open.spotify.com/track/2li8ZF8b7wZVFG3cNEhDD7"
     },
     {
       "album": {
@@ -37557,6 +37793,40 @@
     },
     {
       "album": {
+        "name": "the twig",
+        "url": "https://open.spotify.com/album/1rUAfbTsRbGHg4WBvcUVRe"
+      },
+      "artists": [
+        {
+          "name": "al.so",
+          "url": "https://open.spotify.com/artist/2UzGCNmaCAKmITtDdjUBdL"
+        },
+        {
+          "name": "Moses Yoofee",
+          "url": "https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ"
+        },
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6w4kDiIXFWEtuLHLbd9zSC"
+        },
+        {
+          "name": "Marius Max",
+          "url": "https://open.spotify.com/artist/7ygCBdW9Lv5ujtijgMhUCs"
+        },
+        {
+          "name": "Miriam Adefris",
+          "url": "https://open.spotify.com/artist/6BgP6cMSLzjiRKwT098mev"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239546,
+      "name": "the twig",
+      "url": "https://open.spotify.com/track/4M8LWy2LXOpFnXbqElXR4y"
+    },
+    {
+      "album": {
         "name": "the ukimidou on the lake",
         "url": "https://open.spotify.com/album/0xaOKFIBwh8lxgDSzTqZ2f"
       },
@@ -37756,7 +38026,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 379801,
       "name": "Theme 1",
       "url": "https://open.spotify.com/track/2NrqLkS1x30MkwFrhM5X2F"
@@ -40138,7 +40408,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 165329,
       "name": "Vanguard",
       "url": "https://open.spotify.com/track/4RRk6OzWTk7WGcaHILSAiI"
@@ -40374,7 +40644,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 220665,
       "name": "Vertu",
       "url": "https://open.spotify.com/track/18J56UHyy92fn1QjNp9WsN"
@@ -40414,6 +40684,24 @@
       "duration_ms": 136438,
       "name": "VFXpeaksTWIN",
       "url": "https://open.spotify.com/track/0mPNo3zDtkOcZOzKbKxwTe"
+    },
+    {
+      "album": {
+        "name": "listen, the Pads are talking!",
+        "url": "https://open.spotify.com/album/6mXTI3Jqj7HagkNcqusqum"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211043,
+      "name": "VHS_Casette",
+      "url": "https://open.spotify.com/track/4i6k1N6TsnAg8On57Rt1MT"
     },
     {
       "album": {
@@ -42190,7 +42478,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186000,
       "name": "Wild At Heart",
       "url": "https://open.spotify.com/track/5w9WHq9dauE06RlxFEDEB1"
@@ -43550,6 +43838,24 @@
       "duration_ms": 276000,
       "name": "\u30bd\u30d5\u30a1\u3067\u5922\u3092\u898b\u308b",
       "url": "https://open.spotify.com/track/3sY2TmsgA8e1dx5ZyCyJt0"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u65e5\u304c\u9650\u308a\u306a\u304f\u9752\u3044\u306a\u3089",
+        "url": "https://open.spotify.com/album/0WrzqqgyZgCq2GfOwyhjww"
+      },
+      "artists": [
+        {
+          "name": "Exportion",
+          "url": "https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "\u4eca\u65e5\u304c\u9650\u308a\u306a\u304f\u9752\u3044\u306a\u3089",
+      "url": "https://open.spotify.com/track/3vcNFtEkNwRrHMbgxAUaiB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ⁺‧₊˚⋆a curated space for the avant\-garde⋆˚₊‧⁺ cover: The Avalanches
 
-2,081 songs - 4 day 16 hr 33 min
+2,084 songs - 4 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,6 +1065,7 @@
 | [Levia](https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM) | 4:28 | 2023-04-28 | 2023-05-27 |
 | [Leviticus](https://open.spotify.com/track/0BPeIQZGbxQcdNZ1b5A8Kg) | [Miley](https://open.spotify.com/artist/2HyX28Qfseedl5InpM6g63) | [Leviticus](https://open.spotify.com/album/6FfDntecIX4QxqCLCVgXWJ) | 1:22 | 2026-08-14 |  |
 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 | 2026-01-30 | 2026-04-04 |
+| [LIFE KEEPS GOING \- Normal Pleasure Remix](https://open.spotify.com/track/2EFCkzN3NFP3S9m7SIgrDe) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Normal Pleasure](https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI) | [LIFE KEEPS GOING \(Normal Pleasure Remix\)](https://open.spotify.com/album/24YxFy8bHQmefEydI7PuoB) | 4:19 | 2026-10-30 |  |
 | [life of the party](https://open.spotify.com/track/27ouJ1Nx8GHMeYTqGusY3W) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [perhaps!](https://open.spotify.com/album/36s79gCWJ9Nq1syJQ8gQY5) | 2:26 | 2023-05-05 | 2023-06-03 |
 | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/track/3G4jMkTLfEHQPipzLdYs53) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [LIFE'S WAAAAAAAY TOO FLEEEEETEEN'](https://open.spotify.com/album/7II2YgFx0bEccnK4MNLN0o) | 3:40 | 2026-01-09 | 2026-05-09 |
 | [Life's Worth Living](https://open.spotify.com/track/0u3xMeYhArooaaJJUWlnOJ) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Evening Star](https://open.spotify.com/album/0Ftxx3TRBVfcrWK4viWbOj) | 2:20 | 2022-12-02 | 2023-01-21 |
@@ -1559,6 +1560,7 @@
 | [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 3:20 | 2022-02-18 | 2022-03-18 |
 | [Sapling](https://open.spotify.com/track/3fHd7acEOwt3UsnDq6DEL2) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9), [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [Sapling](https://open.spotify.com/album/6LSNYbEy96o2niPlrkxTV8) | 4:48 | 2023-06-16 | 2023-07-22 |
 | [sapon](https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [sapon](https://open.spotify.com/album/1Dlo15YbEjGlLb0vTAfMBV) | 3:10 | 2023-11-24 | 2024-04-13 |
+| [Savage](https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE) | [IDHEM](https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa) | [Sérénade / Savage](https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF) | 1:49 | 2026-10-30 |  |
 | [save me](https://open.spotify.com/track/4lOz7B6WFBewHeRMcMBTX6) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [fun 2.](https://open.spotify.com/album/3ofQ0qdi2jIyjKNep5n1Kk) | 1:54 | 2026-04-10 | 2026-07-18 |
 | [SAVING GRACE](https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAVING GRACE](https://open.spotify.com/album/2MzlnjjIg4PDsIL8PgBuNr) | 2:52 | 2022-04-15 | 2022-05-28 |
 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 | 2023-01-27 | 2023-02-11 |
@@ -2013,6 +2015,7 @@
 | [White Lighter](https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [White Lighter](https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W) | 2:51 | 2025-10-17 | 2026-01-17 |
 | [White Limo Stuck in The Snow](https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:03 | 2023-09-29 | 2023-10-21 |
 | [white noise](https://open.spotify.com/track/58IH6tgJiZDCo2Ns1R3dE8) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [scaredy cat](https://open.spotify.com/album/5Ddn9NZA8N1JsdioylNJqe) | 2:27 | 2023-02-24 | 2023-04-15 |
+| [White widow](https://open.spotify.com/track/5Z3hqwmQ27u39JHhjIljAM) | [def sera](https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE) | [White widow](https://open.spotify.com/album/5aKs8lclD9k9E1v0MVywMu) | 1:57 | 2026-10-30 |  |
 | [white wine](https://open.spotify.com/track/0jgluhxUw9Karu8dGN6J2C) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [white wine](https://open.spotify.com/album/0nnes8RjTCvwCMDDjf2jmS) | 2:35 | 2023-03-17 | 2023-04-09 |
 | [WHO DAT](https://open.spotify.com/track/5cShPEpSbFcxGTtHvscJoH) | [Charbel](https://open.spotify.com/artist/4UENa19IKtHmTGXfnGUufo) | [WHO DAT](https://open.spotify.com/album/4CiUmJYJxaf44o4Ts6eSvo) | 2:24 | 2022-06-10 | 2022-08-27 |
 | [Who Let Him In](https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Who Let Him In](https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus) | 3:06 | 2023-09-29 | 2024-03-09 |

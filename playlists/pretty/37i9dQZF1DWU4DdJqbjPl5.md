@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,008 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,018 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 77 | [Shona Malanga](https://open.spotify.com/track/2FCETbbcUZBopUgQlyAJoV) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5), [K\-Zaka](https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR), [Deestar ZA](https://open.spotify.com/artist/5ZARmkqYyIt7cGbTJflwEI) | [Shona Malanga](https://open.spotify.com/album/4YemRJsDlgvqjghYmMEv6K) | 3:00 |
 | 78 | [Niwache](https://open.spotify.com/track/1LHYQ6x4I6DCbalbbyjBCP) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [The Lick Back](https://open.spotify.com/album/08DXRawHAxPzzamzypr5QU) | 2:52 |
 
-Snapshot ID: `AAAAAFqbZoUeRc6aK/TKDAGTKi/1w8pA`
+Snapshot ID: `AAAAAJCTvut5aBYeui/Oh97of+wjpftW`

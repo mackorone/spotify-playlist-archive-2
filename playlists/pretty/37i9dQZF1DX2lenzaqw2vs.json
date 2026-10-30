@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 133427,
+  "num_followers": 133415,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOTSjDXJnTPn6ZrChllLXuTq380",
+  "snapshot_id": "AAAAAN8LInSGyUChDqS/dSQZJT9jKoFq",
   "tracks": [
     {
       "added_at": "2026-05-19 00:14:35",
@@ -395,22 +395,18 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Fantas\u00eda",
-        "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
         }
       ],
-      "duration_ms": 149826,
-      "name": "Fantas\u00eda",
-      "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
+      "duration_ms": 511333,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -435,18 +431,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Las 30 grandes de Chavela Vargas",
-        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+        "name": "Fantas\u00eda",
+        "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
       },
       "artists": [
         {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 511333,
-      "name": "La llorona",
-      "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
+      "duration_ms": 149826,
+      "name": "Fantas\u00eda",
+      "url": "https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "El diablo en el cuerpo",
         "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 266875,
       "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 225879,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 186613,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 225879,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Clonazepamela",
         "url": "https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 130461,
       "name": "Clonazepamela",
       "url": "https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "La isla de Lesbos",
+        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "La isla de Lesbos",
+      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "t hice gay :$",
         "url": "https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "La isla de Lesbos",
-        "url": "https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "La isla de Lesbos",
-      "url": "https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Fugitivo",
-        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Fugitivo",
-      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "KONFESSION",
         "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
+        "name": "Fugitivo",
+        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Fugitivo",
+      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
         "name": "Lesbihonest",
         "url": "https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t"
       },
@@ -1479,6 +1479,26 @@
       "duration_ms": 207157,
       "name": "Besos",
       "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
+      },
+      "artists": [
+        {
+          "name": "Mon & Marz",
+          "url": "https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU"
+        },
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1511,26 +1531,6 @@
       "duration_ms": 147222,
       "name": "Todos Miran",
       "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
-      },
-      "artists": [
-        {
-          "name": "Mon & Marz",
-          "url": "https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU"
-        },
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
     },
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "The Early Years",
-        "url": "https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD"
-      },
-      "artists": [
-        {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "S\u00faper Hero\u00edna",
-      "url": "https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 195048,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "S\u00faper Hero\u00edna",
+      "url": "https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD"
     },
     {
       "added_at": "2026-05-19 00:14:35",

@@ -1,13 +1,165 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Lennon Stella",
-  "num_followers": 885365,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Jonah Kagen",
+  "num_followers": 885464,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXuNrVV0INQ3e3x0YPJ278ecw9L",
+  "snapshot_id": "AAAAAF6yd/hG/XR3zfDjTaObWYyo+5aZ",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 335367,
+      "name": "Favor - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Eternity of Anything",
+        "url": "https://open.spotify.com/album/4yz8xnbEvgbRvIjYzI9Oen"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Ain't Convinced",
+      "url": "https://open.spotify.com/track/6NWmsYEU3v4oTR9wIqsuuL"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Weakened (MJ Lenderman Version)",
+        "url": "https://open.spotify.com/album/0kTt4hTyVvqEUjDWsyec2V"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 352960,
+      "name": "Weakened - MJ Lenderman Version",
+      "url": "https://open.spotify.com/track/0O48nGAhdWJcz9o9W1BRz1"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Something Shameful",
+        "url": "https://open.spotify.com/album/45284BA83zp5esaMNPPyzk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Meth",
+          "url": "https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz"
+        }
+      ],
+      "duration_ms": 180544,
+      "name": "Something Shameful",
+      "url": "https://open.spotify.com/track/3vviRO0o1B2G9baJIQWnZD"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "IF: WE",
+        "url": "https://open.spotify.com/album/3MvpB44VRXJ35y9W7hWCSq"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 208233,
+      "name": "Don't Move",
+      "url": "https://open.spotify.com/track/5pAHU9NgSLrkakTpoR6R6s"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/27CWbDcD62kon4kfxCZT7e"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 243096,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/3z8sSWf3SxZ22xRJZ4CoX8"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Cat and Mouse",
+        "url": "https://open.spotify.com/album/3jVMWxDpaH6WwTehNKOTJc"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "duration_ms": 178603,
+      "name": "How to Say Goodbye",
+      "url": "https://open.spotify.com/track/3K2wBcxy5pokqKVip64nBw"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Holey Fence",
+        "url": "https://open.spotify.com/album/4lWnNIcqd7sTgHst1X2fbC"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 284620,
+      "name": "Holey Fence",
+      "url": "https://open.spotify.com/track/5raIuG7bPu4dfZcyl2NQAu"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/3C8B4YhjTstroxHTiP8Vqq"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/2tGR2aOhVgEhB6JF7W3p8h"
+    },
     {
       "added_at": "2026-10-23 04:01:19",
       "album": {

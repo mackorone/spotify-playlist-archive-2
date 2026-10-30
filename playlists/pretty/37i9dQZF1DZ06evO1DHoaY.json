@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2073296,
+  "num_followers": 2073275,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAY4VovGX3HTkP16PPHCa+D",
+  "snapshot_id": "at/pgAAAAACi3Y24ZUaPY+wJlYGaSNt9",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastaman Vibration",
         "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 216533,
       "name": "War",
       "url": "https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Them Belly Full (But We Hungry)",
-      "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kaya - Deluxe Edition",
         "url": "https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 205253,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/5AMy058KlCyQfHK6Mim42N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Them Belly Full (But We Hungry)",
+      "url": "https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Natty Dread",
-      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots, Rock, Reggae (Live At The Hammersmith Odeon, London, UK - June 1976)",
         "url": "https://open.spotify.com/album/7BOZnuMh0OXao3TRQrg8Dh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 248556,
       "name": "Trenchtown Rock - Live At The Hammersmith Odeon, London, UK - June, 1976",
       "url": "https://open.spotify.com/track/2tDAKitkEAzVCmiFRGYEj9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Natty Dread",
+      "url": "https://open.spotify.com/track/2fvi4GCSJn9XYdYrLGLX5f"
     },
     {
       "added_at": null,

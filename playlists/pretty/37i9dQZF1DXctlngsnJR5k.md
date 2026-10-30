@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 
 > Los mejores éxitos de hoy en Ecuador\. Foto: LATIN MAFIA, Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,040 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,063 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctlngsnJR5k.md) - [plain]
 | 49 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 50 | [Estoy Pa' Ti](https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Estoy Pa' Ti](https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu) | 3:10 |
 
-Snapshot ID: `AAAAAHv8b/Wkjm5ZLXckGOeP9AGLmjzH`
+Snapshot ID: `AAAAAJWUFX8RkaYWHeJHetJzPADZAae4`

@@ -11303,6 +11303,28 @@
     },
     {
       "album": {
+        "name": "Thira",
+        "url": "https://open.spotify.com/album/6y7Q8QgYAATpgRosdRSKN4"
+      },
+      "artists": [
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Prarthana Indrajith",
+          "url": "https://open.spotify.com/artist/5mkX7ccHcwAwlgyLKEC5Yg"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "Thira",
+      "url": "https://open.spotify.com/track/6EKhe3n3iqvm667b2vMWkX"
+    },
+    {
+      "album": {
         "name": "SEASON OF SOLITUDE",
         "url": "https://open.spotify.com/album/5MnKW5MwBx9w7fCsUbTroA"
       },

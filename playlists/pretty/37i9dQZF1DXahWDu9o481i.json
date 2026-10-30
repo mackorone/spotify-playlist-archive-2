@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Victony",
-  "num_followers": 121128,
+  "num_followers": 121158,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRdlQ4SwKn1nRDxq2Zhdfpb0i4R",
+  "snapshot_id": "AAAAAALdapZRU4+ckYyw8c0PMg0zWGwo",
   "tracks": [
     {
       "added_at": "2026-10-27 04:00:01",
@@ -223,86 +223,6 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
-        "name": "Wish Upon You",
-        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 277248,
-      "name": "Wish Upon You",
-      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Long Life Living for a Lover Boy",
-        "url": "https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8"
-      },
-      "artists": [
-        {
-          "name": "Joshua Slone",
-          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
-        }
-      ],
-      "duration_ms": 171752,
-      "name": "Are We Ever Gonna Work Out, Baby?",
-      "url": "https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Waiting Room",
-        "url": "https://open.spotify.com/album/4OTN6499OJjQcswppxk0lv"
-      },
-      "artists": [
-        {
-          "name": "Overgrown",
-          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
-        }
-      ],
-      "duration_ms": 182580,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/0g1yZo3wKgRtexXZzhZ98m"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 306397,
-      "name": "Jamie",
-      "url": "https://open.spotify.com/track/30LhXbIEA2tqqL0yHXIRu9"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "options",
-        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 212131,
-      "name": "options",
-      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
         "name": "Heavy Is The Crown",
         "url": "https://open.spotify.com/album/1pbMoqpMgCyjPefcJ9PKdq"
       },
@@ -323,6 +243,70 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "Wish Upon You",
+        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 277248,
+      "name": "Wish Upon You",
+      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/4OTN6499OJjQcswppxk0lv"
+      },
+      "artists": [
+        {
+          "name": "Overgrown",
+          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
+        }
+      ],
+      "duration_ms": 182580,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/0g1yZo3wKgRtexXZzhZ98m"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Long Life Living for a Lover Boy",
+        "url": "https://open.spotify.com/album/4lIiHjzHxg70JRERaRIqu8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
+        }
+      ],
+      "duration_ms": 171752,
+      "name": "Are We Ever Gonna Work Out, Baby?",
+      "url": "https://open.spotify.com/track/55cB2gvQbe5bmatXSNdOdp"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 306397,
+      "name": "Jamie",
+      "url": "https://open.spotify.com/track/30LhXbIEA2tqqL0yHXIRu9"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "The Girl Of Your Dreams",
         "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
@@ -335,6 +319,38 @@
       "duration_ms": 236600,
       "name": "Swan Lake",
       "url": "https://open.spotify.com/track/4EXi4kcNP02S4zUEqrqFuP"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "options",
+        "url": "https://open.spotify.com/album/3wOD00wiNi9ATlbCBR9Ugy"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 212131,
+      "name": "options",
+      "url": "https://open.spotify.com/track/7thqe7vYttYy5gY66AK1Ll"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -371,22 +387,6 @@
       "duration_ms": 216853,
       "name": "Guess",
       "url": "https://open.spotify.com/track/79N1to1hoaLfirS5M8H88A"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4BZGQnej0aqk97EEIwW7dM"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/20FuukFQQQfJO23T1ni18h"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "let's talk about it",
+        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 157810,
+      "name": "let\u2019s talk about it",
+      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "Punched In The Head",
         "url": "https://open.spotify.com/album/62V5yNNUirACiRWOXe4ydI"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 265505,
       "name": "Summer Clothes",
       "url": "https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "let's talk about it",
-        "url": "https://open.spotify.com/album/7aFjbfEQ4MyToGqH7zhX9A"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 157810,
-      "name": "let\u2019s talk about it",
-      "url": "https://open.spotify.com/track/27cxAnDyoYaR0pCbwTjFwX"
     },
     {
       "added_at": "2026-10-27 04:00:01",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-10-27 04:00:01",
       "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY"
+    },
+    {
+      "added_at": "2026-10-27 04:00:01",
+      "album": {
         "name": "We'll Never Be This Young Again",
         "url": "https://open.spotify.com/album/6FAKkmCP208V0ubSLJ6AXl"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 141622,
       "name": "We'll Never Be This Young Again",
       "url": "https://open.spotify.com/track/0cCyMQoRm3ofgJVb26APSn"
-    },
-    {
-      "added_at": "2026-10-27 04:00:01",
-      "album": {
-        "name": "Trillions",
-        "url": "https://open.spotify.com/album/3kiUaXYBALEztZZ6ujxKGw"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Trillions",
-      "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of October",

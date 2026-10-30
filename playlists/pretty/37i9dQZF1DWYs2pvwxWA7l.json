@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Chella",
-  "num_followers": 660179,
+  "num_followers": 660292,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgVhmd1zH8bWB/69CS4hgzz72H4",
+  "snapshot_id": "AAAAAIUY3t4vqqfM9T1g/2Hb+N0uNCYa",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:06",
@@ -359,26 +359,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Malaria",
-        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 171128,
-      "name": "Malaria",
-      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 146054,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Malaria",
+        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 171128,
+      "name": "Malaria",
+      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -543,8 +543,8 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "attention!",
-        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
+        "name": "9",
+        "url": "https://open.spotify.com/album/1fHRY61FCATcIMjN0DPtdm"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 155852,
-      "name": "attention!",
-      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
+      "duration_ms": 185364,
+      "name": "awade",
+      "url": "https://open.spotify.com/track/1RTnTc6i3GZI7xvu8xYve0"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "Oriad\u00e9",
         "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 150147,
       "name": "Tell Everybody (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Raining (O Dun Mi)",
-        "url": "https://open.spotify.com/album/795j20zTKent2xN94khVa9"
-      },
-      "artists": [
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        }
-      ],
-      "duration_ms": 192203,
-      "name": "Raining (O Dun Mi)",
-      "url": "https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "Raining (O Dun Mi)",
+        "url": "https://open.spotify.com/album/795j20zTKent2xN94khVa9"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "Raining (O Dun Mi)",
+      "url": "https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "ATOM II",
-        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 157487,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
         "name": "Your Body (Crazy)",
         "url": "https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
-        "name": "Cash Rules Everything Around Us",
-        "url": "https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK"
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
       },
       "artists": [
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 156314,
-      "name": "Cash Rules Everything Around Us",
-      "url": "https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT"
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
     },
     {
       "added_at": "2026-10-23 00:01:06",
@@ -1307,6 +1291,38 @@
     {
       "added_at": "2026-10-23 00:01:06",
       "album": {
+        "name": "Cash Rules Everything Around Us",
+        "url": "https://open.spotify.com/album/6mASGRJHEyle03SU3TVwQK"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 156314,
+      "name": "Cash Rules Everything Around Us",
+      "url": "https://open.spotify.com/track/2Z3vJVi7L0FJOfXoJP4MhT"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7tA8uKGR4lF3HJQ10sFDSP"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "duration_ms": 113780,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/0ZbFZwQD4tCeJd6aj5URJ1"
+    },
+    {
+      "added_at": "2026-10-23 00:01:06",
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
       },
@@ -1319,26 +1335,6 @@
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
-    },
-    {
-      "added_at": "2026-10-23 00:01:06",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/1OWIwMVfsWicPlB58jooSc"
-      },
-      "artists": [
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 170124,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/3b58L7SFWVkp0fvmMJSbZa"
     }
   ],
   "unique_name": "Afropop",

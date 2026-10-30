@@ -1,13 +1,29 @@
 {
-  "description": "We got you! Den bedste nye pop er samlet her. Tate McRae p\u00e5 cover \ud83e\udead",
-  "num_followers": 107704,
+  "description": "We got you! Den bedste nye pop er samlet her. Malte Ebert p\u00e5 cover \ud83e\udead",
+  "num_followers": 107690,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxA8UDO88MQr8STI7lr6Ggo8PNK",
+  "snapshot_id": "AAAAACwFpDSVOJLg58maf7MDR15zm8mL",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:01:35",
+      "album": {
+        "name": "En Ild Der Altid Br\u00e6nder",
+        "url": "https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "En Ild Der Altid Br\u00e6nder",
+      "url": "https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7"
+    },
     {
       "added_at": "2026-10-23 08:35:19",
       "album": {
@@ -23,6 +39,106 @@
       "duration_ms": 208810,
       "name": "Housewife",
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-29 23:01:35",
+      "album": {
+        "name": "Supernar",
+        "url": "https://open.spotify.com/album/1i2OXqXBPllKaX6uZJJojH"
+      },
+      "artists": [
+        {
+          "name": "Burhan G",
+          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
+        }
+      ],
+      "duration_ms": 158598,
+      "name": "Supernar",
+      "url": "https://open.spotify.com/track/1BurSvmpyb1lx32jmnuUBe"
+    },
+    {
+      "added_at": "2026-10-16 00:00:18",
+      "album": {
+        "name": "Sygt jeg stadig savner dig",
+        "url": "https://open.spotify.com/album/6o8QEdwfJKT01ZKLbVf2VK"
+      },
+      "artists": [
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "duration_ms": 158879,
+      "name": "Sygt jeg stadig savner dig",
+      "url": "https://open.spotify.com/track/3YT4FLkIGMuMzht3erEUWX"
+    },
+    {
+      "added_at": "2026-10-16 00:00:18",
+      "album": {
+        "name": "Hvis Jeg Er Uden Dig",
+        "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 187262,
+      "name": "Hvis Jeg Er Uden Dig",
+      "url": "https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei"
+    },
+    {
+      "added_at": "2026-10-29 23:01:35",
+      "album": {
+        "name": "Lucky Pige",
+        "url": "https://open.spotify.com/album/798E42cNi2Ze2SmURryhui"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "duration_ms": 132061,
+      "name": "Lucky Pige",
+      "url": "https://open.spotify.com/track/6e6dTvI52uvPCELtaEyCOc"
+    },
+    {
+      "added_at": "2026-10-23 08:35:19",
+      "album": {
+        "name": "se p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5uakZTtEb8o1QsZSFKYCQQ"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 140043,
+      "name": "se p\u00e5 mig",
+      "url": "https://open.spotify.com/track/0t2J4HDNDKgSy57JufNZQ3"
+    },
+    {
+      "added_at": "2026-10-29 23:01:35",
+      "album": {
+        "name": "mine venner hader dig :)",
+        "url": "https://open.spotify.com/album/1fWUD5TPiYvMJnKE6vyrUe"
+      },
+      "artists": [
+        {
+          "name": "Klara Vibeke",
+          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
+        }
+      ],
+      "duration_ms": 142452,
+      "name": "mine venner hader dig :)",
+      "url": "https://open.spotify.com/track/0Ho5wqdJQbhRhk96fhPUtl"
     },
     {
       "added_at": "2026-10-23 08:35:19",
@@ -113,56 +229,28 @@
       "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
     },
     {
-      "added_at": "2026-10-16 00:00:18",
+      "added_at": "2026-10-29 23:01:35",
       "album": {
-        "name": "Sygt jeg stadig savner dig",
-        "url": "https://open.spotify.com/album/6o8QEdwfJKT01ZKLbVf2VK"
+        "name": "Vill Ha Dig (Feat. Hanna Ferm)",
+        "url": "https://open.spotify.com/album/7tyhU3typ1tZg0dJjB9SdX"
       },
       "artists": [
         {
-          "name": "Karoline Mousing",
-          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
-        }
-      ],
-      "duration_ms": 158879,
-      "name": "Sygt jeg stadig savner dig",
-      "url": "https://open.spotify.com/track/3YT4FLkIGMuMzht3erEUWX"
-    },
-    {
-      "added_at": "2026-10-23 08:35:19",
-      "album": {
-        "name": "se p\u00e5 mig",
-        "url": "https://open.spotify.com/album/5uakZTtEb8o1QsZSFKYCQQ"
-      },
-      "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
         },
         {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 140043,
-      "name": "se p\u00e5 mig",
-      "url": "https://open.spotify.com/track/0t2J4HDNDKgSy57JufNZQ3"
-    },
-    {
-      "added_at": "2026-10-16 00:00:18",
-      "album": {
-        "name": "Hvis Jeg Er Uden Dig",
-        "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
-      },
-      "artists": [
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        },
         {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "Oochie",
+          "url": "https://open.spotify.com/artist/7Itlzo9sA5kksYPzEY8fhO"
         }
       ],
-      "duration_ms": 187262,
-      "name": "Hvis Jeg Er Uden Dig",
-      "url": "https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei"
+      "duration_ms": 160671,
+      "name": "Vill Ha Dig (Feat. Hanna Ferm)",
+      "url": "https://open.spotify.com/track/1vJTlLaXQ4eUmzSbodIgh7"
     },
     {
       "added_at": "2026-10-16 00:00:18",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-222 songs - 12 hr 26 min
+223 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Outlaw Love](https://open.spotify.com/track/0WdDt6MDfrsp7kVXhyKKhv) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Outlaw Love](https://open.spotify.com/album/4NWSNWO1EfJvB8Af7Gb0nu) | 2:55 | 2026-05-19 |  |
 | [Painless](https://open.spotify.com/track/0zfgx9mtkUWldh8z6qjo2i) | [Oscar Poulsen](https://open.spotify.com/artist/7ti8eq92aF5Btdfb8dM179) | [Movement EP](https://open.spotify.com/album/0PmHQBlnigsV1LV78pNv2n) | 7:50 | 2026-05-19 |  |
 | [Petty](https://open.spotify.com/track/0VUDQ0BEIhvSiYllWCsTaO) | [Taylor J](https://open.spotify.com/artist/3ZFQEgIoDzalXmEsl9LIPE) | [Petty](https://open.spotify.com/album/39rAhUM6mHM6uKSQ7wpfZH) | 2:21 | 2026-05-19 |  |
-| [Play It by Heart](https://open.spotify.com/track/0NHoH0rIJkdS0WfH5l9CsI) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Play It by Heart](https://open.spotify.com/album/7pnV2hDMjOh0fBRL9dirSY) | 3:25 | 2026-05-19 |  |
+| [Play It by Heart](https://open.spotify.com/track/0NHoH0rIJkdS0WfH5l9CsI) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Play It by Heart](https://open.spotify.com/album/7pnV2hDMjOh0fBRL9dirSY) | 3:25 | 2026-05-19 | 2026-10-30 |
+| [Play It by Heart](https://open.spotify.com/track/3PN9O9A0Mc6EMo7RyuyP50) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Play It by Heart](https://open.spotify.com/album/0CVEqKSdls4EYyZqtY96hJ) | 3:25 | 2026-10-29 |  |
 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 | 2026-05-19 |  |
 | [Potential](https://open.spotify.com/track/7cVN6hFZXum5NCtLHneeo2) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:37 | 2026-05-19 |  |
 | [Pretty](https://open.spotify.com/track/0WdsQ1ILFakXLpLu51aVnr) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 4:39 | 2026-05-19 |  |

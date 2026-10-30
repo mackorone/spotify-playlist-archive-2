@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 543586,
+  "num_followers": 543816,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABOXc5H3/QB7VqqoYwsglbK",
+  "snapshot_id": "at/pgAAAAABgSZw2srhbry7gAbC/Gg5U",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Vaya",
-        "url": "https://open.spotify.com/album/5o1z80S9I0tVQk9Qk2NA7H"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Que Se Vaya",
-      "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -163,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Se Vaya",
+        "url": "https://open.spotify.com/album/5o1z80S9I0tVQk9Qk2NA7H"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Que Se Vaya",
+      "url": "https://open.spotify.com/track/3uBksEvrCiVBRsBW0zSw2n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
+        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+      "duration_ms": 182598,
+      "name": "Tu Pasado y T\u00fa",
+      "url": "https://open.spotify.com/track/2F5LR4CswVxmU82WNAhhQC"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
-        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 182598,
-      "name": "Tu Pasado y T\u00fa",
-      "url": "https://open.spotify.com/track/2F5LR4CswVxmU82WNAhhQC"
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": null,
@@ -578,15 +578,11 @@
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 211116,
-      "name": "Un Bendito D\u00eda",
-      "url": "https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV"
+      "duration_ms": 182513,
+      "name": "Para Que Seas Feliz",
+      "url": "https://open.spotify.com/track/40b9whrBbp6y5DTs1QGXr2"
     },
     {
       "added_at": null,
@@ -654,11 +650,15 @@
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 182513,
-      "name": "Para Que Seas Feliz",
-      "url": "https://open.spotify.com/track/40b9whrBbp6y5DTs1QGXr2"
+      "duration_ms": 211116,
+      "name": "Un Bendito D\u00eda",
+      "url": "https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV"
     },
     {
       "added_at": null,
@@ -727,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Patricio Borghetti",
+          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
         }
       ],
-      "duration_ms": 174071,
-      "name": "Dime - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/3qLOy8BOZKF68TYNLJ8SAu"
+      "duration_ms": 324493,
+      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
     },
     {
       "added_at": null,
@@ -759,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habla el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Patricio Borghetti",
-          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
         }
       ],
-      "duration_ms": 324493,
-      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
-      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
+      "duration_ms": 174071,
+      "name": "Dime - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3qLOy8BOZKF68TYNLJ8SAu"
     },
     {
       "added_at": null,

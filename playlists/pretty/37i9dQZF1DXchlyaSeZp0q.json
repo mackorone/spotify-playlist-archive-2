@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 381297,
+  "num_followers": 381602,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOaJ9NJoy1U212s92aKYjJfHbo6g",
+  "snapshot_id": "AAAAAIdW5yFjzMT4r3VdyjC9y5XENdxZ",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -663,18 +663,18 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "The Best of Sam & Dave",
-        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+        "name": "The Jones Girls",
+        "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
+      "duration_ms": 210986,
+      "name": "This Feeling's Killing Me",
+      "url": "https://open.spotify.com/track/5gAMkPxCW7pB61JchjPKTd"
     }
   ],
   "unique_name": "Sad Soul",

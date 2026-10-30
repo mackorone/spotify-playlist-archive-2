@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83c\uddea\ud83c\uddfa Tech house operators, featuring Jay de Lys",
+  "description": "50% techno, 50% house \ud83d\udd1d Tech house operators, featuring Broken Hill",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -13868,7 +13868,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219692,
       "name": "Disco Jungle",
       "url": "https://open.spotify.com/track/70wyVfqk6mk7Y5PFN5fiOT"
@@ -19626,7 +19626,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 171968,
       "name": "Foot on the Gas",
       "url": "https://open.spotify.com/track/18V768rb4wOOamf39v1603"
@@ -20886,7 +20886,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194531,
       "name": "G0",
       "url": "https://open.spotify.com/track/1XJ8aKhIHPwJdsV3PB1wMh"
@@ -23036,7 +23036,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 216183,
       "name": "Groove Rosarino",
       "url": "https://open.spotify.com/track/1n6Ek6tHSiso1saHXdnqpx"
@@ -25186,7 +25186,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 200624,
       "name": "How About You",
       "url": "https://open.spotify.com/track/2Bio5yxecGH76lx77vCkFt"
@@ -27680,7 +27680,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 210461,
       "name": "Inside The Brain",
       "url": "https://open.spotify.com/track/1R351V4RX3SRomPcdEV54B"
@@ -28918,7 +28918,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 210236,
       "name": "Keep Workin'",
       "url": "https://open.spotify.com/track/5NJe4tTqytnpRDEZAEzZzw"
@@ -39857,6 +39857,24 @@
     },
     {
       "album": {
+        "name": "Nexus 003",
+        "url": "https://open.spotify.com/album/5tzTsoeqzZHGylVJOczpC0"
+      },
+      "artists": [
+        {
+          "name": "Broken Hill",
+          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/1g8dbGK7ZAWYioY0Ijbggs"
+    },
+    {
+      "album": {
         "name": "On Yo Head",
         "url": "https://open.spotify.com/album/1ly2NDDnNznsnioS4CgwrS"
       },
@@ -49397,6 +49415,32 @@
     },
     {
       "album": {
+        "name": "SILK SCARF (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/62A6IA2egW27EQFNsdqtIQ"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285962,
+      "name": "SILK SCARF - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7zaEgzOLvTbc33n5iyiK2K"
+    },
+    {
+      "album": {
         "name": "simple.",
         "url": "https://open.spotify.com/album/4ocXSpCLovLaAR6sVnDT8t"
       },
@@ -49894,6 +49938,24 @@
       "duration_ms": 161953,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/5jdSp3QthmtzUmc0pJtlMB"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/7ujLAdE3iZJDVf5tZlpZ3c"
+      },
+      "artists": [
+        {
+          "name": "Jake Bleu",
+          "url": "https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222102,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1bfYuDstqfvDy0dN0Hbm8V"
     },
     {
       "album": {
@@ -53477,6 +53539,24 @@
     },
     {
       "album": {
+        "name": "Takes Me",
+        "url": "https://open.spotify.com/album/5scm2yACuFl5yzHvsWvtVY"
+      },
+      "artists": [
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202846,
+      "name": "Takes Me",
+      "url": "https://open.spotify.com/track/67bFYf2med80JPPkf4rPoO"
+    },
+    {
+      "album": {
         "name": "Taki",
         "url": "https://open.spotify.com/album/274pH7bndWdA3YdBQz09g9"
       },
@@ -54660,7 +54740,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 205312,
       "name": "The City",
       "url": "https://open.spotify.com/track/6cRPrKsD1dgTEYhC7fc5VG"
@@ -55348,7 +55428,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 151384,
       "name": "THE MOB",
       "url": "https://open.spotify.com/track/6F2ckzsOmaog4Ho3S928X4"
@@ -58122,7 +58202,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 180000,
       "name": "u love me",
       "url": "https://open.spotify.com/track/6Rzuv63XeGB35jI0VjtA4W"

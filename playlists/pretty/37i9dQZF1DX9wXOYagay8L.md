@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Empro, Mlindo The Vocalist
+> Proudly Southern African Afropop gems\. Cover: Mawelele
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,018 likes - 95 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,199 likes - 95 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ola Sbali](https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Bayede](https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif) | 3:08 |
-| 2 | [Polo](https://open.spotify.com/track/63MqzVOUF0ktjRszQhNfpV) | [Empro](https://open.spotify.com/artist/7qW54SKGCLpQmny8mOL9wT), [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Polo](https://open.spotify.com/album/2dvWyrcer1aO9SroMQPhG2) | 4:06 |
-| 3 | [Intliziyo Yam \(feat\. ThandaMusic & Phila Madlingozi\)](https://open.spotify.com/track/08CUFo3F4Fyo2h88wis5ZR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [ThandaMusic](https://open.spotify.com/artist/1dLjf8moHgk7y4fyqLZwgm), [Phila Madlingozi](https://open.spotify.com/artist/4zPXgTnWEA519PcjqEAhho) | [Intliziyo Yam \(feat\. ThandaMusic & Phila Madlingozi\)](https://open.spotify.com/album/4vHigfoQ55jMrsZ9pTVpJe) | 4:46 |
-| 4 | [Ngiyaz'fela](https://open.spotify.com/track/4oXYR6jNzr0wVBye2rc2V4) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Ngiyaz'fela](https://open.spotify.com/album/2PPrNvYmx8iUQJMsLhS8Yn) | 3:48 |
+| 1 | [Ngiyaz'fela](https://open.spotify.com/track/3nCRclMVrtJI7dJuXuzRQW) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [PGLTM](https://open.spotify.com/album/2Vnbb1XXDLuipQm7ETvr1m) | 3:48 |
+| 2 | [Ola Sbali](https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Bayede](https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif) | 3:08 |
+| 3 | [Polo](https://open.spotify.com/track/63MqzVOUF0ktjRszQhNfpV) | [Empro](https://open.spotify.com/artist/7qW54SKGCLpQmny8mOL9wT), [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Polo](https://open.spotify.com/album/2dvWyrcer1aO9SroMQPhG2) | 4:06 |
+| 4 | [Intliziyo Yam \(feat\. ThandaMusic & Phila Madlingozi\)](https://open.spotify.com/track/08CUFo3F4Fyo2h88wis5ZR) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ), [ThandaMusic](https://open.spotify.com/artist/1dLjf8moHgk7y4fyqLZwgm), [Phila Madlingozi](https://open.spotify.com/artist/4zPXgTnWEA519PcjqEAhho) | [Intliziyo Yam \(feat\. ThandaMusic & Phila Madlingozi\)](https://open.spotify.com/album/4vHigfoQ55jMrsZ9pTVpJe) | 4:46 |
 | 5 | [Come Duze](https://open.spotify.com/track/5GgMTUIDwPuhAJrpqaHsZc) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Come Duze](https://open.spotify.com/album/6SdVs1UyZWW3B6mBVvT8wF) | 3:39 |
 | 6 | [I Choose You](https://open.spotify.com/track/0GUE9FYe401DkryTuUBS7b) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [I Choose You](https://open.spotify.com/album/23tkxRAF7cyv8rS6rGuUzl) | 3:24 |
 | 7 | [Idliso](https://open.spotify.com/track/7DmG8BsUL1PZRlrQNW9AgP) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Intando Kumnini](https://open.spotify.com/album/7y9ZTolHoLTcGuoJrk0PSR) | 3:43 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 94 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
 | 95 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 |
 
-Snapshot ID: `AAAAAD2wWhEt88z6o6nHsnaiNdlGc2EL`
+Snapshot ID: `AAAAABinlFtPcWvbhAPfGT3DMdhDoYec`

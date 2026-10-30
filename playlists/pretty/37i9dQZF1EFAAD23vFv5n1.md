@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079 likes - 198 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 198 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 | 198 | [Victoria's Secret](https://open.spotify.com/track/0qlfvwLYOxLs0pPktzqSmV) | [John's Saxophone](https://open.spotify.com/artist/5017jdzBcgvmdHLGkWwRZY) | [My Favorite Songs, International Hits 2025](https://open.spotify.com/album/6j1ufpqyRZqJp84UMigIXc) | 3:20 |
 
-Snapshot ID: `AcgGYgAAAACJEqCUvRHWG+2lTGvs3UDx`
+Snapshot ID: `AcgRogAAAAAgu1AwpnaXc+udu6Mg4+NK`

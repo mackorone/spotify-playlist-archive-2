@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-132 songs - 7 hr 26 min
+133 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Fly Away](https://open.spotify.com/track/4bRGn94aQGGzuVzhfmEy59) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P) | 2:42 | 2026-06-19 | 2026-07-12 |
 | [Fly Away](https://open.spotify.com/track/6xs9I4T0GwdEjROJyIut76) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Fly Away](https://open.spotify.com/album/2N6yTzMzP6GixwjmgQIi0q) | 2:42 | 2026-05-23 | 2026-06-19 |
 | [Forgiving You Was Easy](https://open.spotify.com/track/1uPV78WGj2AfJILdUBrwLs) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie Nelson \- 16 Biggest Hits](https://open.spotify.com/album/7IZ5H4tIiVSnbgdoE5OhuG) | 2:47 | 2026-03-12 | 2026-03-20 |
-| [From Here to the Moon and Back](https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Blue Smoke](https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm) | 4:02 | 2026-08-28 |  |
+| [From Here to the Moon and Back](https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Blue Smoke](https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm) | 4:02 | 2026-08-28 | 2026-10-30 |
+| [From Here to the Moon and Back \(feat\. Dolly Parton\)](https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:01 | 2026-10-30 |  |
 | [Funny How Time Slips Away](https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 3:05 | 2024-01-24 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:22 | 2023-04-28 |  |
 | [Georgia on My Mind](https://open.spotify.com/track/4Mckv604NWFSw11g4iCgG0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Made in the Usa Collection](https://open.spotify.com/album/2vwhPIDd0WnJO0yuL8vrku) | 4:17 | 2023-04-28 | 2023-09-26 |

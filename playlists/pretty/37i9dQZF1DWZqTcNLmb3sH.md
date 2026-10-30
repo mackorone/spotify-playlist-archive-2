@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Brindavihari
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,705 likes - 101 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,758 likes - 101 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 100 | [Amma Na Haadu \(From "Lakshmi Puthra"\)](https://open.spotify.com/track/6ARQEMYAyDyh3zG4unC0Ak) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [A.P\. Arjun](https://open.spotify.com/artist/1WmSed4rURzSyxwiETfssP), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Amma Na Haadu \(From "Lakshmi Puthra"\)](https://open.spotify.com/album/7yV9bZLlNGLZcKqQtsdLju) | 4:22 |
 | 101 | [Kottana Jaratari Seere \(From "Hulibeera"\)](https://open.spotify.com/track/5VMHayQfxKBgDOIRXpDvn7) | [Sangeetha Katti](https://open.spotify.com/artist/20K7c4KKuOy98zaujRNNTg), [Veer Samarth](https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb), [Madarangi Mallikarjun](https://open.spotify.com/artist/2ktFFkZNsfkZhUyombzw0Y) | [Kottana Jaratari Seere \(From "Hulibeera"\)](https://open.spotify.com/album/2PMEg7xjxCqjBneGAiSQ1k) | 2:31 |
 
-Snapshot ID: `AAAAAF49U6X3pgdcwly/g3w704gnSY2+`
+Snapshot ID: `AAAAAHXQhVvAJjP7icMdPO1OonFVh0hm`

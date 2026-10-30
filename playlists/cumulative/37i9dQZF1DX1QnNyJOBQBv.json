@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Alleh.",
+  "description": "Pop on the rise you should know, featuring Emilia.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -2587,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "BODYPAINTING",
+        "url": "https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153059,
+      "name": "BODYPAINTING",
+      "url": "https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
       },
@@ -2624,7 +2642,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 174893,
       "name": "BONSAI",
       "url": "https://open.spotify.com/track/5UFIoYQw6P0qUVjz8zFele"
@@ -3476,6 +3494,24 @@
       "duration_ms": 184040,
       "name": "Catira",
       "url": "https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE"
+    },
+    {
+      "album": {
+        "name": "CATIRA",
+        "url": "https://open.spotify.com/album/7jF5rAgT0vLc6P9iXlI6K2"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "CATIRA",
+      "url": "https://open.spotify.com/track/661rXAsu9bIXLjQd1Xl2HA"
     },
     {
       "album": {
@@ -4866,6 +4902,24 @@
       "duration_ms": 163770,
       "name": "De Bien a Mal",
       "url": "https://open.spotify.com/track/2TweCNUiC4VVceGtQ5LuTc"
+    },
+    {
+      "album": {
+        "name": "De Cero",
+        "url": "https://open.spotify.com/album/0hskREe3oBksLnJHnawkk6"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "De Cero",
+      "url": "https://open.spotify.com/track/3nr0sRIoRugpqeF1PUYt6k"
     },
     {
       "album": {
@@ -7035,6 +7089,28 @@
     },
     {
       "album": {
+        "name": "Felicidades (feat. Maluma)",
+        "url": "https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141441,
+      "name": "Felicidades (feat. Maluma)",
+      "url": "https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM"
+    },
+    {
+      "album": {
         "name": "Feliz Por Ti",
         "url": "https://open.spotify.com/album/27XAaGZpB9Rogg30c9g9As"
       },
@@ -8875,6 +8951,28 @@
     },
     {
       "album": {
+        "name": "La Explosi\u00f3n",
+        "url": "https://open.spotify.com/album/6QRUjD0riNlL9fvC8tgGdS"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189082,
+      "name": "La Explosi\u00f3n",
+      "url": "https://open.spotify.com/track/5VIxJkbmLsMgQg9W1MryoE"
+    },
+    {
+      "album": {
         "name": "La Falta",
         "url": "https://open.spotify.com/album/6ZEqDHzgAxGE7ZHOk75ZuX"
       },
@@ -10222,7 +10320,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 161300,
       "name": "los mismos",
       "url": "https://open.spotify.com/track/49ASTjrn5GshpsttKeCRSI"
@@ -14824,7 +14922,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219104,
       "name": "Qui\u00e9n Contra M\u00ed - Live From Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/03S2LrGw5dUtUitHOUWSLB"
@@ -17004,7 +17102,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 150944,
       "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
       "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
@@ -17164,7 +17262,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 159419,
       "name": "Tengo Ganas 2.0",
       "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"

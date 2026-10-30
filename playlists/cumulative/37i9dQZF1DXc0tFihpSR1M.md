@@ -2,9 +2,9 @@
 
 ### [Ny Pop](https://open.spotify.com/playlist/37i9dQZF1DXc0tFihpSR1M)
 
-> Det beste av ny pop akkurat nå! 🍭<br/>Cover: Anna Lille
+> Det beste av ny pop akkurat nå! 🍭<br/>Cover: Peder Elias
 
-737 songs - 1 day 14 hr 20 min
+739 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Goretex](https://open.spotify.com/track/4I6btu8kbGjGHPQ3jtY7l1) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Goretex](https://open.spotify.com/album/59mkzKZ3f4Wqg4F0qpmKYT) | 2:32 | 2025-04-10 | 2025-04-23 |
 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 | 2024-12-05 | 2025-01-08 |
 | [Great Expectation](https://open.spotify.com/track/5YcC8NpP56X2qQIEek9XVA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor \(Deluxe\)](https://open.spotify.com/album/2EAbXVmQUrylFiXVSQp6TJ) | 2:53 | 2026-07-02 |  |
+| [GROW ON TREES](https://open.spotify.com/track/7CjAKrGHRAYf3EBQphBZDW) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [GROW ON TREES](https://open.spotify.com/album/1xDCnrAtBvfFGJAwCtp002) | 2:32 | 2026-10-29 |  |
 | [Gråter \(over det som er over\)](https://open.spotify.com/track/5Cyue7Hv0fTY9JO8yK2Riv) | [Yngvil](https://open.spotify.com/artist/4uE77IUh7bzJzGZjRnKOOj) | [Gråter \(over det som er over\)](https://open.spotify.com/album/5kIlS4ElkjtfyspAUnKzhQ) | 2:33 | 2026-06-11 | 2026-06-19 |
 | [Grønne Flagg](https://open.spotify.com/track/23PIRIDgKogUZuggnRc0o4) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Grønne Flagg](https://open.spotify.com/album/14TfPmMTVIgyLHhY9IMjR6) | 2:10 | 2025-04-22 | 2025-05-09 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 | 2025-03-28 |
@@ -308,6 +309,7 @@
 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 | 2026-08-14 | 2026-08-21 |
 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 | 2025-10-23 | 2025-11-14 |
 | [hvem kan seile foruten vind?](https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [hvem kan seile foruten vind?](https://open.spotify.com/album/4qcCIJbTFJUNY88g9tuMo3) | 3:23 | 2025-03-06 | 2025-04-23 |
+| [Hvis han kjenner deg så godt](https://open.spotify.com/track/2ABRYmppRJ8RF9zzFm8ETo) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Drømmen jeg vil selge, holder meg våken.](https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh) | 2:42 | 2026-10-29 |  |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-02-20 | 2025-03-08 |
 | [Hånd i hånd](https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Hånd i hånd](https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY) | 4:18 | 2026-02-05 | 2026-05-08 |
 | [Håper at du ser meg nå](https://open.spotify.com/track/55n0sonmGqFrksxie8TK7m) | [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Håper at du ser meg nå](https://open.spotify.com/album/4VA4b3S1pYiTYuspfLYV1M) | 4:30 | 2026-09-17 | 2026-09-25 |
@@ -438,7 +440,7 @@
 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 | 2025-08-21 | 2025-09-12 |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-01-09 | 2025-11-28 |
 | [Metamorphosis](https://open.spotify.com/track/0ceif8GsGZ3C2gjqx3feud) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Metamorphosis](https://open.spotify.com/album/40zbHbbtU3HyfigfSkYpJN) | 3:33 | 2026-04-09 | 2026-04-24 |
-| [Middle Ground](https://open.spotify.com/track/2ztYk3o7ablJ2yOdBNcJF6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Middle Ground](https://open.spotify.com/album/53HQhzJCHzsnsshjAkYYrq) | 3:05 | 2026-10-22 |  |
+| [Middle Ground](https://open.spotify.com/track/2ztYk3o7ablJ2yOdBNcJF6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Middle Ground](https://open.spotify.com/album/53HQhzJCHzsnsshjAkYYrq) | 3:05 | 2026-10-22 | 2026-10-30 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-27 | 2025-03-28 |
 | [Milk and honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 | 2024-11-01 | 2024-11-15 |
 | [Min](https://open.spotify.com/track/36lRSnUiM2e2pNqPOEhgZg) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/0SlOVlA86frJaQXSMi75YQ) | 2:25 | 2025-09-11 | 2025-09-19 |
@@ -514,7 +516,7 @@
 | [Popcorn](https://open.spotify.com/track/0zV8lHOu8LmNAmsgtZsWxc) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [Popcorn](https://open.spotify.com/album/1FwcAj7ki63yzWNytK1Tf3) | 2:59 | 2026-04-23 | 2026-05-01 |
 | [Porcelain](https://open.spotify.com/track/7tmXnleWYIQozVJJQs3YFB) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Do You Feel Something Now?](https://open.spotify.com/album/7DBDQes1snYuK8T5DTkDz6) | 1:56 | 2026-09-24 | 2026-10-16 |
 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 | 2024-10-24 | 2024-11-02 |
-| [Porselen](https://open.spotify.com/track/25Z16WjIS1LxA4M1piaqfB) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Porselen](https://open.spotify.com/album/7cwWNDsesUUBSlVEC3E2xj) | 3:05 | 2026-10-22 |  |
+| [Porselen](https://open.spotify.com/track/25Z16WjIS1LxA4M1piaqfB) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Porselen](https://open.spotify.com/album/7cwWNDsesUUBSlVEC3E2xj) | 3:05 | 2026-10-22 | 2026-10-30 |
 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 | 2025-12-04 | 2025-12-11 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-18 | 2026-05-08 |
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-17 |  |
@@ -712,7 +714,7 @@
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2025-05-02 |
 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 | 2026-01-16 | 2026-04-11 |
 | [Wallflower](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Wallflower](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 | 2026-08-27 | 2026-10-02 |
-| [Want You More](https://open.spotify.com/track/09iNPNZu7z1WHtWn4l7CUk) | [Maria Petra](https://open.spotify.com/artist/7ozwKwvNxzQzlgsD1TNG65) | [Want You More](https://open.spotify.com/album/6wRhGRWh7mHerr3VT6x2mT) | 3:26 | 2026-10-22 |  |
+| [Want You More](https://open.spotify.com/track/09iNPNZu7z1WHtWn4l7CUk) | [Maria Petra](https://open.spotify.com/artist/7ozwKwvNxzQzlgsD1TNG65) | [Want You More](https://open.spotify.com/album/6wRhGRWh7mHerr3VT6x2mT) | 3:26 | 2026-10-22 | 2026-10-30 |
 | [Wasn't it sweet?](https://open.spotify.com/track/0NG405X61oF21s35JSI3Lf) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Wasn't it sweet?](https://open.spotify.com/album/3cUZDc9CYZxxB76Tbvtnpx) | 3:02 | 2026-09-17 | 2026-10-16 |
 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-07-09 |  |
 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 | 2024-10-10 | 2024-11-02 |

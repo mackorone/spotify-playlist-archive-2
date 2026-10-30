@@ -5960,7 +5960,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178262,
       "name": "Favorite Things",
       "url": "https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D"
@@ -7070,7 +7070,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 136193,
       "name": "Good Company",
       "url": "https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h"
@@ -8194,7 +8194,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 241169,
       "name": "Hollywood Sign",
       "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
@@ -10492,6 +10492,24 @@
       "duration_ms": 185019,
       "name": "Isolate Myself",
       "url": "https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU"
+    },
+    {
+      "album": {
+        "name": "It All Comes To End",
+        "url": "https://open.spotify.com/album/5j820r3qXPjho7Sehhlkr2"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249187,
+      "name": "It All Comes To End",
+      "url": "https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC"
     },
     {
       "album": {
@@ -14071,6 +14089,24 @@
     },
     {
       "album": {
+        "name": "Painter (Double-Edged Sword)",
+        "url": "https://open.spotify.com/album/09lj5YdwOYyPaIS5eWTh6f"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230593,
+      "name": "Painter (Double-Edged Sword)",
+      "url": "https://open.spotify.com/track/0fSKzFql99qPY9gOl7fFBa"
+    },
+    {
+      "album": {
         "name": "Spiderwebs",
         "url": "https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo"
       },
@@ -14896,6 +14932,24 @@
       "duration_ms": 187631,
       "name": "Pure",
       "url": "https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC"
+    },
+    {
+      "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/47aMHZJPLahpmq1dbSLOiD"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185138,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/5LFPBkSSKyT3rnP3iSAaQh"
     },
     {
       "album": {

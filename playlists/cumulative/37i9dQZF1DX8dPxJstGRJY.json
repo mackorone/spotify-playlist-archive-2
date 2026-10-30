@@ -1727,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "The Way We Were: My American Songbook",
+        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194947,
+      "name": "Some Enchanted Evening",
+      "url": "https://open.spotify.com/track/2WmifghEEOx5lJeClSAMDZ"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV"
       },

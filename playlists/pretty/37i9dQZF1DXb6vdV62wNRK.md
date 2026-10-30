@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 
 > Tus corridos favoritos, ahora en video\. Los Dos Carnales en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,642 likes - 63 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,699 likes - 63 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 62 | [Rigo Campos](https://open.spotify.com/track/2jT2fyu7c8sDNitb2c16FX) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Rigo Campos](https://open.spotify.com/album/3ZSZVBCVLURounkV8Hg1lh) | 4:00 |
 | 63 | [Yo Soy Rico](https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:35 |
 
-Snapshot ID: `AAAAAIMwz28j47POFNwK2k5xQEFE4NB2`
+Snapshot ID: `AAAAAEb3laR+CKRZkAAaAOj/YMG0WV9u`

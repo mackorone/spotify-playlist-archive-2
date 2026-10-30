@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Andersen
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,882 likes - 121 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,893 likes - 121 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 120 | [too slow \(feat\. LIL SOFT TENNIS\)](https://open.spotify.com/track/3C1XrJiSh1eZFyIANPzkqX) | [ISLND](https://open.spotify.com/artist/4DbadBusjLncsspxAI9AZi), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [too slow \(feat\. LIL SOFT TENNIS\)](https://open.spotify.com/album/4ZgdWRnBukcaEduwvzagcm) | 1:58 |
 | 121 | [WASSUP \(feat\. NORIKIYO\)](https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Get Litty? \(Deluxe\)](https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE) | 2:56 |
 
-Snapshot ID: `AAAAAASpPflAYwqXl7bi4hATxniRR48W`
+Snapshot ID: `AAAAAMIEqoCc3zfyRSPNryLxTh+460dn`

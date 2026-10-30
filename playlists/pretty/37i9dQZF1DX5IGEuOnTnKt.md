@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IGEuOnTnKt.md) - [plain]
 
 > Killer reads, coming to a screen near you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 245 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAN4D0syyE5gw/fSf3E+EIMP583GA`
+Snapshot ID: `AAAAADiUcMVqacR2xJDtz3QgChAzHnzJ`

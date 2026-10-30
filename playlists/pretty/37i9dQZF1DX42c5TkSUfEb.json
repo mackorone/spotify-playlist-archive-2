@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 1069583,
+  "num_followers": 1069460,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAECN6m4DFhbQDLVlASGxilfya/ql",
+  "snapshot_id": "AAAAAGhE7W1Pgb40w/nxXHw+gFRlbKhf",
   "tracks": [
     {
       "added_at": "2026-10-22 22:01:50",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 233552,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "MISS ME",
-        "url": "https://open.spotify.com/album/18QfFnvtg9l6VlBpgU5vkb"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "MISS ME",
-      "url": "https://open.spotify.com/track/6btmjh1p327BMAJAczq9Lf"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Ugly things",
-        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 209924,
-      "name": "Ugly things",
-      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Henry, come on",
         "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 311269,
       "name": "Henry, come on",
       "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "doing my best",
-        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "doing my best",
-      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -539,6 +523,22 @@
       "duration_ms": 236533,
       "name": "Anyone Who Loves Me",
       "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Sing",
-        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 371580,
-      "name": "Sing",
-      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Sing",
+        "url": "https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 371580,
+      "name": "Sing",
+      "url": "https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -675,6 +675,26 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 206463,
+      "name": "You (feat. Hermanos Guti\u00e9rrez)",
+      "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "The Meaning of Flowers",
         "url": "https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 194473,
       "name": "waiting for me",
       "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 206463,
-      "name": "You (feat. Hermanos Guti\u00e9rrez)",
-      "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "valley of my prime",
         "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
       },
@@ -1071,26 +1071,6 @@
       "duration_ms": 207702,
       "name": "the way you do",
       "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "Confirmation!",
-        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "FAUZIA",
-          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
-        }
-      ],
-      "duration_ms": 164611,
-      "name": "2Love (feat. FAUZIA)",
-      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1115,6 +1095,26 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
+        "name": "Confirmation!",
+        "url": "https://open.spotify.com/album/2eoLkddmrf8ZtNFAhluX0g"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "FAUZIA",
+          "url": "https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl"
+        }
+      ],
+      "duration_ms": 164611,
+      "name": "2Love (feat. FAUZIA)",
+      "url": "https://open.spotify.com/track/0aTchi7o5BEChVOmdAHrNW"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
         "name": "paradox",
         "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 309637,
       "name": "paradox",
       "url": "https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 174088,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1247,22 +1263,6 @@
       "duration_ms": 208031,
       "name": "Beautiful Thingz",
       "url": "https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6Kejsyo228m21v7dXRzIUb"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 174088,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/31V9azyPXN5ZObGGVXCHev"
     },
     {
       "added_at": "2026-10-22 22:01:50",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-10-22 22:01:50",
       "album": {
-        "name": "autumn",
-        "url": "https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo"
-      },
-      "artists": [
-        {
-          "name": "Silly Boy Blue",
-          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
-        }
-      ],
-      "duration_ms": 208735,
-      "name": "autumn",
-      "url": "https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB"
-    },
-    {
-      "added_at": "2026-10-22 22:01:50",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/7d05HveiLG4742vBLElcSE"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 186869,
       "name": "If Only",
       "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
+    },
+    {
+      "added_at": "2026-10-22 22:01:50",
+      "album": {
+        "name": "autumn",
+        "url": "https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "duration_ms": 208735,
+      "name": "autumn",
+      "url": "https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB"
     },
     {
       "added_at": "2026-10-22 22:01:50",

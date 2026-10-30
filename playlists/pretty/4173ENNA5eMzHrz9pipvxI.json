@@ -1,13 +1,29 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Cyndi Lauper, CYRIL, Tones And I ",
-  "num_followers": 117573,
+  "num_followers": 117562,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAiIC0sFWzlIWan9SJq7W6N1hiQmd6c",
+  "snapshot_id": "AAAiJCG/Jd/lioLil7KHiOCaZuTevPeZ",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:00:09",
+      "album": {
+        "name": "We Used To Dance Here",
+        "url": "https://open.spotify.com/album/3DsmScR385rdRLYzrwt1RW"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "We Used To Dance Here",
+      "url": "https://open.spotify.com/track/6vbgxOSyw64p5VzkQOHT8g"
+    },
     {
       "added_at": "2026-10-22 22:00:03",
       "album": {
@@ -89,6 +105,46 @@
       "url": "https://open.spotify.com/track/3EQjRvevOXHXG9LljcVyAP"
     },
     {
+      "added_at": "2026-10-29 23:00:12",
+      "album": {
+        "name": "Pyramid",
+        "url": "https://open.spotify.com/album/7teXHtBGsBRsB6c87mxNP9"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        }
+      ],
+      "duration_ms": 157288,
+      "name": "Pyramid",
+      "url": "https://open.spotify.com/track/5BsVyxAfJWeIG1iPTn0Rpj"
+    },
+    {
+      "added_at": "2026-10-29 23:00:13",
+      "album": {
+        "name": "Dopamine (feat. CERES) [EP]",
+        "url": "https://open.spotify.com/album/6y5RrrSo3XRR0r96lFcPr3"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Psychological (feat. CERES)",
+      "url": "https://open.spotify.com/track/0HHJhAg3DwNWQaFM4ZyYHc"
+    },
+    {
       "added_at": "2026-10-15 22:00:03",
       "album": {
         "name": "Hold On",
@@ -103,6 +159,26 @@
       "duration_ms": 180948,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2DyP03O6zbss0LUxrur45b"
+    },
+    {
+      "added_at": "2026-10-29 23:00:15",
+      "album": {
+        "name": "Babal\u00f9 (feat. KEL)",
+        "url": "https://open.spotify.com/album/59DPMQqWp8jExACNb4jKDT"
+      },
+      "artists": [
+        {
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Babal\u00f9 (feat. KEL)",
+      "url": "https://open.spotify.com/track/3DEcVvoxmZzQcVviXjhg4j"
     },
     {
       "added_at": "2026-10-01 22:00:05",

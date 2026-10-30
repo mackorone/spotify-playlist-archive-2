@@ -4,7 +4,7 @@
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 43 min
+70 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Me Elevé](https://open.spotify.com/track/6UCyJCjS5W8ta1LkQEzcbw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:40 | 2023-08-25 |  |
 | [Me Estoy Enamorando](https://open.spotify.com/track/4COvULULVKLsMKMRKIiXUa) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 4:46 | 2023-08-25 |  |
 | [Mi Auto Era Una Rana](https://open.spotify.com/track/6DHwQ01JVHHY8QEowRpDvv) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:58 | 2023-08-25 |  |
+| [Nadia](https://open.spotify.com/track/2ImoFJy6b3ovpai8LG4s2X) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg), [Juan Diego Flórez](https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT) | [30 Grandes Canciones](https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I) | 4:50 | 2026-10-30 |  |
 | [Nadia](https://open.spotify.com/track/4xYudpej4u6zZ7p797iICc) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg), [Juan Diego Flórez](https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:50 | 2025-09-10 | 2025-11-21 |
-| [Nadia \(feat\. Juan Diego Florez\)](https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:50 | 2023-08-25 |  |
+| [Nadia \(feat\. Juan Diego Florez\)](https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:50 | 2023-08-25 | 2026-10-30 |
 | [No Llores Más](https://open.spotify.com/track/6b99570f9AyRpALqusGu05) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:55 | 2023-08-25 |  |
 | [No Llores Más Morena](https://open.spotify.com/track/0cJhcc1wxaF9jXIH9zS615) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:31 | 2023-08-25 | 2025-12-01 |
 | [No Llores Más Morena](https://open.spotify.com/track/4SboPJcd0PeJ6afuTC72Wy) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 3:31 | 2025-12-01 |  |

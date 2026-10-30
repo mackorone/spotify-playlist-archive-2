@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-831 songs - 1 day 15 hr 11 min
+836 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2021-12-17 | 2024-05-12 |
 | [Dimensions](https://open.spotify.com/track/6Olw83T6VRcfwwkW3s9NH6) | [Mindful Meadow](https://open.spotify.com/artist/4FnCSHy49EAMadk6y6m4jJ) | [Dimensions](https://open.spotify.com/album/4ELRbH1u8okTpOo82zPsgk) | 3:02 | 2025-02-28 | 2026-03-06 |
 | [Dioptra](https://open.spotify.com/track/2G0bZcuTI7sRbVjNho9P0D) | [Tim Eshin](https://open.spotify.com/artist/0MIELhUkO2GlHsYfatULMO) | [Dioptra](https://open.spotify.com/album/6LCiJnd5pC4VzkN8gL4I1d) | 3:18 | 2024-03-14 | 2025-07-23 |
-| [Disappearance](https://open.spotify.com/track/0iq0Bxdc7HtX4aZGlcqKof) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Disappearance](https://open.spotify.com/album/1Hv39VMGCzFzTor9ypXUBz) | 2:39 | 2024-12-03 |  |
+| [Disappearance](https://open.spotify.com/track/0iq0Bxdc7HtX4aZGlcqKof) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Disappearance](https://open.spotify.com/album/1Hv39VMGCzFzTor9ypXUBz) | 2:39 | 2024-12-03 | 2026-10-30 |
 | [Dissolving Time](https://open.spotify.com/track/58YojDjLFFl3IddgvBwgNp) | [AstroAether](https://open.spotify.com/artist/1Sy04vJvcc5VSae7QTvFUn) | [Dissolving Time](https://open.spotify.com/album/1bIiVGTU5hdgf4Vayg6hDE) | 3:35 | 2024-04-04 | 2025-02-13 |
 | [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2021-12-17 | 2022-04-22 |
 | [Distant Land](https://open.spotify.com/track/0WlRx5eXGE4ApN1pPEQ8df) | [Tellus Gardens](https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT) | [Distant Land](https://open.spotify.com/album/421DNXioBJmrnl2XGA0l7j) | 3:02 | 2025-02-07 | 2025-03-12 |
@@ -388,6 +388,7 @@
 | [Into the mist](https://open.spotify.com/track/6FNB2HTHmWL04ZQryx1dLL) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Into the mist](https://open.spotify.com/album/7pB6OnkiFhPwDjlNwy0DwL) | 2:55 | 2025-12-02 | 2026-08-22 |
 | [Introspective](https://open.spotify.com/track/44ZDkrGJzbu7VcbNq3qzPd) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Introspective](https://open.spotify.com/album/2ztsFLfco6hLSskRWM92wo) | 2:15 | 2026-05-08 |  |
 | [Invicta](https://open.spotify.com/track/6dp53x1hi7iUSHsBI8oPMz) | [Ella Wass](https://open.spotify.com/artist/3eZTGNMGlHLHDZ5tSMsM2K) | [Somnium](https://open.spotify.com/album/5aty9Xj6OISEIv5Tn6Ik14) | 4:09 | 2022-09-30 | 2024-10-19 |
+| [Invisible Certainty](https://open.spotify.com/track/0pqBoWectM841KTgnmob7B) | [Stellian](https://open.spotify.com/artist/0J7ija5d6fGOPYGODzuRLq) | [Invisible Certainty](https://open.spotify.com/album/27f7Oag0cAoCpOn2va1UU1) | 2:28 | 2026-10-28 |  |
 | [Islands Above](https://open.spotify.com/track/0KJVIy0PAoldzsrzC96b8d) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Islands Above](https://open.spotify.com/album/3XoFd2HGKs63yw9EC4N2DX) | 2:36 | 2022-08-05 | 2025-02-13 |
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-12-17 | 2022-04-22 |
 | [Jocelyn](https://open.spotify.com/track/1Vv5St0rzB3054EvkADdQi) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 2:26 | 2021-12-17 | 2023-04-07 |
@@ -431,6 +432,7 @@
 | [Los Sueños](https://open.spotify.com/track/6EfUGhY6j99AjN6Q4LhwOW) | [Aarona](https://open.spotify.com/artist/1v4myR6ZDEKYmMlRqT48IS) | [Los Sueños](https://open.spotify.com/album/3gjRWFJ0czcex9ESBKsec0) | 2:36 | 2022-05-05 | 2025-02-08 |
 | [Lost In Thought](https://open.spotify.com/track/22vY259m2QQnjxjhW3cabS) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 1:55 | 2022-11-22 | 2023-07-29 |
 | [Low Gravity](https://open.spotify.com/track/13SqtGPaY05m4aKxauplPn) | [NOMA](https://open.spotify.com/artist/4cDZ9jfgpEZtLQkw0ITsMo) | [Low Gravity](https://open.spotify.com/album/3q52Xk52a9WiIYGeCeii3T) | 2:45 | 2026-03-20 | 2026-10-07 |
+| [Low Power](https://open.spotify.com/track/7nGZhtjR5IYulGlsew8r1s) | [Siestaphonic](https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap) | [Low Power](https://open.spotify.com/album/5XQ4C8WkZWt8XhYFlw4SYG) | 2:50 | 2026-10-28 |  |
 | [Lucens](https://open.spotify.com/track/4edGuyRO2A1u4fRekJm6NZ) | [Somniare](https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn) | [Lucens](https://open.spotify.com/album/15agCt7Hlvb2JhfH8FhcAH) | 2:40 | 2026-01-14 | 2026-05-09 |
 | [Lucent Dawn](https://open.spotify.com/track/0juX8bP0u09C1dTNzanItI) | [Slow Journey](https://open.spotify.com/artist/06N3WADuJNqKvKeX0XQgoW) | [Lucent Dawn](https://open.spotify.com/album/6tTbuxEpF0kMyNTLETgZiS) | 2:31 | 2025-06-04 | 2026-02-12 |
 | [Lucerne](https://open.spotify.com/track/023i4Phiw266d2OaRbudOg) | [Lorah Weber](https://open.spotify.com/artist/6KPIG4JnXUCcKZPGD8aE5R) | [Lucerne](https://open.spotify.com/album/5SvO1rgtXSxI44z0M53if2) | 3:17 | 2021-12-17 | 2024-03-27 |
@@ -679,6 +681,7 @@
 | [Softness](https://open.spotify.com/track/2aWJIRowX2FRrKWiZZ6TD7) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Softness](https://open.spotify.com/album/1Ph1MEBjnpFsucCBdTKGhK) | 2:11 | 2026-07-03 |  |
 | [Sognante](https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Sognante](https://open.spotify.com/album/1YztptUb03EHqZFNXyN47r) | 3:09 | 2022-02-01 | 2024-09-06 |
 | [Sogno eterno](https://open.spotify.com/track/0th3A703YVssZCiPxdj07r) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Sogno eterno](https://open.spotify.com/album/2wjNzOZ8X8QxDUY2aV5hb0) | 2:35 | 2023-01-09 | 2025-05-07 |
+| [Solace](https://open.spotify.com/track/7grINDu0QdO9ASJGEHtnbr) | [Alboran](https://open.spotify.com/artist/0pSHJFQEatQAHY3yOJpLAi) | [Solace](https://open.spotify.com/album/12HBHGWvMRQ8qpuSAra7Df) | 2:50 | 2026-10-28 |  |
 | [Solace](https://open.spotify.com/track/0AIQ3hRD42qwYTvIgSIZSt) | [Moon Whisperer](https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4) | [Solace](https://open.spotify.com/album/6XO692KvmydhD8pK8LQcfD) | 2:21 | 2025-01-29 |  |
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-17 | 2024-05-12 |
 | [Solice](https://open.spotify.com/track/3N6aR43odtge0M19ioCyga) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Solice](https://open.spotify.com/album/47J1aciEbGiCmSkGCuwOvL) | 2:40 | 2025-09-30 | 2026-02-12 |
@@ -726,6 +729,7 @@
 | [Swear on this Life](https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Swear on this Life](https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw) | 2:12 | 2021-12-17 | 2022-04-22 |
 | [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 | 2022-09-13 | 2025-05-07 |
 | [Swerving](https://open.spotify.com/track/67sHA0PewCor6HdDer5Nxv) | [Kinship Networks](https://open.spotify.com/artist/6JKJopFXDFKfLkA6rrgQQh) | [Swerving](https://open.spotify.com/album/1nwBBL77j2FBEip4k2fI4G) | 2:43 | 2021-12-17 | 2024-12-13 |
+| [Sylvan](https://open.spotify.com/track/24RpwvT2rVtoCpUJ9BNvSa) | [Joel Holm](https://open.spotify.com/artist/6PCsXNlCd3Nvo6zzGr5aEm) | [Sylvan](https://open.spotify.com/album/1GqqQifBiQBNfbyNmCNeW7) | 2:32 | 2026-10-28 |  |
 | [Sóra](https://open.spotify.com/track/60xh2M0EKXpmZkeoh5Snyo) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Sóra](https://open.spotify.com/album/6uex9td9znS58TGz8Vywfc) | 2:22 | 2025-05-20 |  |
 | [Tambo](https://open.spotify.com/track/1VSbOfZgq1QvuSg8s7F0tZ) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Tambo](https://open.spotify.com/album/2IBgAMSclg0n79MbD8a6sr) | 3:12 | 2022-09-30 | 2025-05-07 |
 | [Tandem Sway](https://open.spotify.com/track/3CxoLlNcM6EDcQ42ftPJzI) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Tandem Sway](https://open.spotify.com/album/2aBHBODMJHl2oMUWcADHdM) | 3:08 | 2026-07-31 |  |
@@ -790,6 +794,7 @@
 | [Vajar](https://open.spotify.com/track/3ussEoYwAJpdrdCffRL8Fy) | [Lejo](https://open.spotify.com/artist/5AK84Ka91VoQyA1CmwGbAf) | [Vajar](https://open.spotify.com/album/6CD5hcqXMpFXMAwCe1JRvA) | 2:21 | 2026-02-19 |  |
 | [Values Of Silence](https://open.spotify.com/track/1e3b9snZ8WCK3Ty1F9Fb0v) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Values Of Silence](https://open.spotify.com/album/7pkxfF84viQD0A2kWfvXIf) | 3:03 | 2023-10-06 | 2025-05-21 |
 | [Vanishing Light](https://open.spotify.com/track/0qd4mu1lWIUumPHcEwU6Yj) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Vanishing Light](https://open.spotify.com/album/38TkvyhOmfRqX8I7PhEOKV) | 2:10 | 2025-12-02 | 2026-03-21 |
+| [Velora](https://open.spotify.com/track/6OrYlioveEpXbTxEk9R7g1) | [Jón Sébastien](https://open.spotify.com/artist/5EdZ6qH0PAMhzaeWfEeC8A) | [Velora](https://open.spotify.com/album/421FvcnkoS2HuNR8EI6foH) | 2:34 | 2026-10-28 |  |
 | [Velvet Air](https://open.spotify.com/track/6w4tlJlyO1BUrs2Z4KNPQr) | [Deep Aphelion](https://open.spotify.com/artist/2MEIYAS5BjaUAenk3bALdo) | [Velvet Air](https://open.spotify.com/album/5QpMKcVp6Naee3QK4FSfuR) | 2:32 | 2026-03-05 |  |
 | [Vernal](https://open.spotify.com/track/3ZIKJyWSsS6yYdU3CMUieO) | [Fhye](https://open.spotify.com/artist/4OkwpFJVN2Zp05JhlkDnGb) | [Vernal](https://open.spotify.com/album/0xN7VLbL10RZCV4jBdaTtv) | 2:38 | 2026-07-03 |  |
 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2022-10-21 | 2025-05-07 |

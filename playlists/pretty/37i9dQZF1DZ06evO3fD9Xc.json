@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103842,
+  "num_followers": 103845,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAD3FuUm9WFnSlEcPu71IVrL",
+  "snapshot_id": "at/pgAAAAADL/3U7Y2ZRoySdrI9XJ0wR",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 148656,
-      "name": "La Mejor Versi\u00f3n de M\u00ed",
-      "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Me Quisiste",
         "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 152789,
       "name": "Nunca Me Quisiste",
       "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 148656,
+      "name": "La Mejor Versi\u00f3n de M\u00ed",
+      "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
     },
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/3MesSL4BYvkWxC5c6ZcOBf"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/7ANDTDlIAPivLtBrEm2JRx"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": null,
@@ -611,22 +607,6 @@
       "duration_ms": 226708,
       "name": "Siempre Te Voy a Querer",
       "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": null,
@@ -719,6 +699,46 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Salud Mental (Deluxe)",
+        "url": "https://open.spotify.com/album/2fwxl4SdfkEKQ2vqog4CLM"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/1qpEUr8HPiTfaJTNon7deM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Lo S\u00e9 Todo",
+        "url": "https://open.spotify.com/album/3ELow8rGPkFS4AyJj7sffv"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor De Arturo Rodriguez",
+          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Ya Lo S\u00e9 Todo",
+      "url": "https://open.spotify.com/track/1ErEKhh7Tro9hteuTewTLA"
     },
     {
       "added_at": null,
@@ -851,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intermedio (En Vivo)",
-        "url": "https://open.spotify.com/album/2CwfmIR8GCaAlkXNpbMG8g"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 248204,
-      "name": "Me dediqu\u00e9 a perderte - En Vivo",
-      "url": "https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -899,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brillas (En Vivo)",
-        "url": "https://open.spotify.com/album/5nzX5ZtWS9Du9fCZ0T2Fcl"
+        "name": "Intermedio (En Vivo)",
+        "url": "https://open.spotify.com/album/2CwfmIR8GCaAlkXNpbMG8g"
       },
       "artists": [
         {
@@ -908,9 +912,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Brillas - En Vivo",
-      "url": "https://open.spotify.com/track/7AYMtuw8bNMhFOX3aeHcDM"
+      "duration_ms": 248204,
+      "name": "Me dediqu\u00e9 a perderte - En Vivo",
+      "url": "https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ"
     }
   ],
   "unique_name": "This Is Carolina Ross",

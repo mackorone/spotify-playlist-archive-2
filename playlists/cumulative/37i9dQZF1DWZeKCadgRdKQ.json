@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/64dy0coqyMgGfXMEqXiqGb"
+      },
+      "artists": [
+        {
+          "name": "Milk E Way",
+          "url": "https://open.spotify.com/artist/1FpLDA8N2boR9fqwgaeY7H"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/2f1JlOL1dj1wBIrM0vofGw"
+    },
+    {
+      "album": {
         "name": "Var\u00f0a",
         "url": "https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH"
       },
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 120197,
       "name": "Changing Seas",
       "url": "https://open.spotify.com/track/535oulHWFKwAQv1L3OdLM3"
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154500,
       "name": "Depth of Field",
       "url": "https://open.spotify.com/track/45ksXjYsiVpBb6oybObxgH"
@@ -6084,6 +6102,24 @@
       "duration_ms": 217987,
       "name": "Essential Attitudes",
       "url": "https://open.spotify.com/track/3OLnW4hED8p9DnhiDA8FXX"
+    },
+    {
+      "album": {
+        "name": "Eternal Motion",
+        "url": "https://open.spotify.com/album/2pKHPYNks3esFSTEbCXNqd"
+      },
+      "artists": [
+        {
+          "name": "Calmist",
+          "url": "https://open.spotify.com/artist/4d7PnhvgHGxk7I9Yve1USM"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120953,
+      "name": "Eternal Motion",
+      "url": "https://open.spotify.com/track/7krzZK5qajSr1Efl6jDz2U"
     },
     {
       "album": {
@@ -9090,7 +9126,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 145969,
       "name": "Hilltop Embers",
       "url": "https://open.spotify.com/track/4rziF3IzJkSKLe3UxthEhf"
@@ -10084,6 +10120,24 @@
       "duration_ms": 158176,
       "name": "Ing\u00e9nue",
       "url": "https://open.spotify.com/track/6mgKP4yo57GTSMc3fJlyWm"
+    },
+    {
+      "album": {
+        "name": "initial echo",
+        "url": "https://open.spotify.com/album/0oNgUQAvr6u6WALA7o5GwR"
+      },
+      "artists": [
+        {
+          "name": "Starlace",
+          "url": "https://open.spotify.com/artist/7e8m8odnrGWfIc8Umasikb"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133440,
+      "name": "initial echo",
+      "url": "https://open.spotify.com/track/741NgACiS9sYaSIewagNeF"
     },
     {
       "album": {
@@ -15888,6 +15942,24 @@
       "duration_ms": 138574,
       "name": "Red Gold Yesterday",
       "url": "https://open.spotify.com/track/557iYakWWJQeKbJS3UYMxG"
+    },
+    {
+      "album": {
+        "name": "Red Rose",
+        "url": "https://open.spotify.com/album/5PqhYpCdilXfClvgUkjl7p"
+      },
+      "artists": [
+        {
+          "name": "Looming Peak",
+          "url": "https://open.spotify.com/artist/3emUOzWNNtDq70QXKfluWC"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "Red Rose",
+      "url": "https://open.spotify.com/track/6GgmIVOY632NqVvaeNPssC"
     },
     {
       "album": {
@@ -21728,7 +21800,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 123368,
       "name": "Unfolding Time",
       "url": "https://open.spotify.com/track/1oYpqbK53uY3DKS8bzFHgb"

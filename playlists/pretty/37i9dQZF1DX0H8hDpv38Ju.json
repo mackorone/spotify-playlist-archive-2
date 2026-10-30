@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 875800,
+  "num_followers": 875878,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7RYq5BQWx1XQk+gc3nQNz2xngI",
+  "snapshot_id": "AAAAAMbGcQBqhRuAyk4CVIy6srOxq9wI",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Word Up",
         "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 260000,
       "name": "Word Up",
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
     },
     {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Nights Over Egypt",
-      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
-    },
-    {
       "added_at": "2021-04-01 19:37:56",
       "album": {
         "name": "Do Me Baby",
@@ -535,6 +519,22 @@
       "duration_ms": 300733,
       "name": "Fool's Paradise",
       "url": "https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os"
+    },
+    {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
     },
     {
       "added_at": "2021-04-01 19:37:56",

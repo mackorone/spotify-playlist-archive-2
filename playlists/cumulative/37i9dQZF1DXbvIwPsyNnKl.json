@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: Bugoy Na Koykoy",
+  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: SCOOP DOGG",
   "name": "KALYE",
   "tracks": [
     {
@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Bisaya Excellence",
+        "url": "https://open.spotify.com/album/6eqHoDF3pHhwJqjwSY2JAf"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Society",
+          "url": "https://open.spotify.com/artist/4WUC1M0EpVDrx7xKILoLy6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124793,
+      "name": "Bisaya Excellence",
+      "url": "https://open.spotify.com/track/1MUl24ytWnIfk1Tcp1iRvN"
+    },
+    {
+      "album": {
         "name": "BLGBGN",
         "url": "https://open.spotify.com/album/6A2eoN2WIOChU8hKFPBgCH"
       },
@@ -1786,6 +1804,28 @@
       "duration_ms": 293723,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
+    },
+    {
+      "album": {
+        "name": "Buenos Dias",
+        "url": "https://open.spotify.com/album/47OBptQQJZdsSVRQXcTjzP"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225937,
+      "name": "Buenos Dias",
+      "url": "https://open.spotify.com/track/2gJ9yQunku9U74uOkWK2og"
     },
     {
       "album": {
@@ -2980,7 +3020,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 225512,
       "name": "FAMOUS RICH",
       "url": "https://open.spotify.com/track/23yRNRMM5BrsvKx7CCxfuZ"
@@ -3594,7 +3634,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 253440,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/02fy6llneoW7xbL97qHZoF"
@@ -8057,6 +8097,24 @@
     },
     {
       "album": {
+        "name": "SALINGPUSA",
+        "url": "https://open.spotify.com/album/2d93wVVEW72lW6oEEHgrwp"
+      },
+      "artists": [
+        {
+          "name": "Matt Habit",
+          "url": "https://open.spotify.com/artist/7DUHV9eV5ylOpADLzvISe4"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151363,
+      "name": "SALINGPUSA",
+      "url": "https://open.spotify.com/track/2Fsh0WRlXMWsc6PElFzvlo"
+    },
+    {
+      "album": {
         "name": "Sana Tumawag",
         "url": "https://open.spotify.com/album/3E4bbKeMTtno0hd0HKHAQF"
       },
@@ -8370,7 +8428,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 225428,
       "name": "Silly Hoes",
       "url": "https://open.spotify.com/track/45NuLJTJl0LYVEKeeNDDGS"

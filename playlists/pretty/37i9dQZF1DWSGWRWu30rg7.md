@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,973 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,974 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 99 | [Cakrawala](https://open.spotify.com/track/50wkkSJD0ZBvxRZWh3m15E) | [Orkes Bada Isya](https://open.spotify.com/artist/3r3Uir4USFn3eT6L76T0to) | [Cakrawala](https://open.spotify.com/album/7j8Mp7lkL4jvux0Ywa87O8) | 3:35 |
 | 100 | [Let Me Know When You Get Home](https://open.spotify.com/track/2xxKabGFfWwz1ScgpK20U1) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Let Me Know When You Get Home](https://open.spotify.com/album/3Joeu5aierqwOgX5w03uRR) | 3:24 |
 
-Snapshot ID: `AAAAAKQveliVusFWo0Q5sm9cUGGfSAIz`
+Snapshot ID: `AAAAAExRLykaRHOebGvgtWJvHtnifeWC`

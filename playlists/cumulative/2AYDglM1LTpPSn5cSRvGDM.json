@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/036WKyfHXlLX6wfV3JnxpT"
+      },
+      "artists": [
+        {
+          "name": "Martin Trevy",
+          "url": "https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6NKky2204YZNxUXO1F0X8h"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/5a5poTnu8nBevyPW37g0n8"
       },
@@ -2830,6 +2848,28 @@
       "duration_ms": 230481,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/5OkOxSTNPwXtvWcWPU1vup"
+    },
+    {
+      "album": {
+        "name": "In Your Mind",
+        "url": "https://open.spotify.com/album/7FWJmXuSq317xmTnj9yR2V"
+      },
+      "artists": [
+        {
+          "name": "L.GU.",
+          "url": "https://open.spotify.com/artist/5HLFjiA44P1kaJHdoOfhHt"
+        },
+        {
+          "name": "Jesabel",
+          "url": "https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/1GvxQXmlLhj0I0fu1rMoog"
     },
     {
       "album": {
@@ -5890,6 +5930,28 @@
       "duration_ms": 181580,
       "name": "To Be Mine (feat. Peonie)",
       "url": "https://open.spotify.com/track/4PVTXDKfhaozQRtWT6c5PN"
+    },
+    {
+      "album": {
+        "name": "To The Ground (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/25wCzBpRggPVzTXER7yUrs"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221612,
+      "name": "To The Ground - Helsloot Remix",
+      "url": "https://open.spotify.com/track/0fxltty8g5P61CxxdpAT4Z"
     },
     {
       "album": {

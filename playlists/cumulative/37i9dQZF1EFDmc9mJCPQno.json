@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201349,
+      "name": "SNAKESKIN",
+      "url": "https://open.spotify.com/track/7tDjrLRuMpK1gr3LrELy8t"
+    },
+    {
+      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
       },

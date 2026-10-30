@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Wantché
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,327 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,414 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [DAISHI RAGE : Act 1](https://open.spotify.com/track/5TrCYKoY7DO1UYDqJBhlrM) | [Zayi](https://open.spotify.com/artist/5lOHZ0aMfvWdJrFJNhgYzo) | [DAISHI RAGE : Act 1](https://open.spotify.com/album/7a3tuu9f1NAaeK6AnVwrsu) | 2:02 |
 | 50 | [DJAKOUTA](https://open.spotify.com/track/2AltaNAwyzcctgCMn8Vqth) | [Skizzo](https://open.spotify.com/artist/7LUDXjoc4vNLFzNSES0Kcm) | [DJAKOUTA](https://open.spotify.com/album/3JYhYoY6yk9pyxVNTGvNrF) | 3:08 |
 
-Snapshot ID: `AAAAABF4r0G9PMIXl7b7pFNT1e2u5oQn`
+Snapshot ID: `AAAAAInLC86s5vv41N/0lHxGbjIbijEa`

@@ -2,9 +2,9 @@
 
 ### [de mis pagos](https://open.spotify.com/playlist/37i9dQZF1DWUP9ynkqecOL)
 
-> tradición, modernidad y frescura\. Sonido argentino, del futuro.
+> tradición, modernidad y frescura\. Sonido argentino, del futuro 📸 Trouve Feraud
 
-167 songs - 11 hr 41 min
+170 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Despertar Del Anfibio \- Instrumental](https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH) | [Trickst4](https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY), [Tomás Pinkus](https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr) | [El Despertar Del Anfibio \(Instrumental\)](https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3) | 6:23 | 2023-08-11 | 2026-09-03 |
 | [El Hijo del Altiplano](https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 5:45 | 2023-08-11 | 2026-09-03 |
 | [El hijo del altiplano \- en vivo](https://open.spotify.com/track/6G02uWfhMgEg02iD7LJAV9) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [En vivo en Tilcara](https://open.spotify.com/album/77hyXFT3VFPCfOnP5LXfEr) | 5:20 | 2023-08-11 | 2023-11-11 |
+| [EL ORIGEN](https://open.spotify.com/track/242Y6AVZYXNWJop6vGdGQQ) | [Alba Best](https://open.spotify.com/artist/3io2vmi2Vopm50Gx7TsjvS), [Bisherop](https://open.spotify.com/artist/35M9AalZEGS9LRZafQ6VFo), [Fede Trips](https://open.spotify.com/artist/5SvADxWqbIFMCGJagZz5vp) | [EL ORIGEN](https://open.spotify.com/album/4rXk0oNHgQWp6aVy5GLnjp) | 3:00 | 2026-10-30 |  |
 | [El Quechua en Su Voz](https://open.spotify.com/track/5FybsNkOOFol6yA7ZrpCAZ) | [La Shiji](https://open.spotify.com/artist/6v70gSeSuMwlmBnDB9U5GO), [La Siete de Agosto](https://open.spotify.com/artist/108NAaFJAyXypSZwteqWg6) | [El Quechua en Su Voz](https://open.spotify.com/album/3ztmX744llimGwM6jgdjoH) | 4:47 | 2026-10-13 |  |
 | [El tiempo de las cosas que frenan](https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw) | [San Ignacio](https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [El tiempo de las cosas que frenan](https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY) | 5:00 | 2023-08-11 | 2026-09-03 |
 | [ENCANTO](https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [ENCANTO](https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy) | 3:14 | 2026-09-02 |  |
@@ -126,6 +127,7 @@
 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 | 2026-09-02 |  |
 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 | 2024-01-25 | 2026-09-03 |
 | [Nómade](https://open.spotify.com/track/5JKAic4y5UWRQwFOVkrhDB) | [Kazz Juglar](https://open.spotify.com/artist/4A8GoqVvPUSqA8yUtHEOtp), [Milagros Blanco](https://open.spotify.com/artist/4GDMljGJC2Oj2evwaulOOx) | [Despertar en el verde](https://open.spotify.com/album/4JaRQjr96eE4yG8TABViEY) | 4:03 | 2026-10-13 |  |
+| [PALABRAS DE MUJER](https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [PALABRAS DE MUJER](https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE) | 3:43 | 2026-10-30 |  |
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO) | 4:01 | 2024-03-29 | 2025-09-07 |
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/0zIiND609voPOWidaLjnYi) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO) | 4:01 | 2023-08-11 | 2024-04-19 |
 | [Perdonarte, ¿Para Qué? / Como lo Hizo](https://open.spotify.com/track/3lLziiZtnAHy0KFZ93hFZ4) | [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Perdonarte, ¿Para Qué? / Como lo Hizo](https://open.spotify.com/album/1GhKzvREoqRrG1gyEGwuy4) | 6:48 | 2026-09-02 |  |
@@ -156,6 +158,7 @@
 | [Telesita](https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK), [Natalia Schvartz](https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05) | [Telesita](https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI) | 4:24 | 2024-03-29 | 2026-09-03 |
 | [Templo Andino](https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR) | [Orgänica Elemental](https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD) | [Templo Andino](https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym) | 5:58 | 2023-08-11 | 2026-09-03 |
 | [Tepuy \- Original MIx](https://open.spotify.com/track/5PQkG8omxAwUbQiJ7ZXy45) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Intiche](https://open.spotify.com/artist/3YBTIccVS6dNVTYtMxBWli), [Timpana](https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0) | [Tepuy](https://open.spotify.com/album/35IAdhkuG1zLf8YdYElLSk) | 4:03 | 2024-03-29 | 2024-07-19 |
+| [tierra de uno](https://open.spotify.com/track/3hbzKo08OTVsU2sFRLpYlG) | [Shitstem](https://open.spotify.com/artist/1gYX86oU6Db846X9wHkjyo) | [idioma de infancia](https://open.spotify.com/album/5vy0PcPcBwwTS6dmftCwUE) | 2:31 | 2026-10-30 |  |
 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 | 2023-08-11 | 2026-09-03 |
 | [Tilcara](https://open.spotify.com/track/4ByBsOC6VsOfkg2SDBQT2q) | [Apuna](https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g) | [Tilcara](https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg) | 3:26 | 2024-03-29 | 2026-09-03 |
 | [Toca](https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Toca](https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs) | 3:30 | 2024-03-29 | 2025-03-24 |

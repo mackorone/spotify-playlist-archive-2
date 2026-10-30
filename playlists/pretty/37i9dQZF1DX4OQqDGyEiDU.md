@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: PinocchioP
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,366 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,365 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [えねみぃ \(feat\. 初音ミク & 重音テト\)](https://open.spotify.com/track/0hS31wkSGx2b5D7AQc0fYT) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [えねみぃ \(feat\. 初音ミク & 重音テト\)](https://open.spotify.com/album/5TpRHLrUSXcEPQvjV4WGcg) | 3:01 |
-| 2 | [ふたつの木馬 \(feat\. 初音ミク\)](https://open.spotify.com/track/4qwTW7FLLaXPf7rF7eZt7G) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [きくおミク7](https://open.spotify.com/album/6SBHOST42KWt5IiDsOkx94) | 0:39 |
+| 2 | [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL) | 3:43 |
 | 3 | [ワンダー](https://open.spotify.com/track/295kusLjoZwucB6oM2nKcS) | [r\-906](https://open.spotify.com/artist/7os1UVlIK50EAaP990Z8aE), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ワンダー](https://open.spotify.com/album/5KeW36xfTwJqtCqqOigEMe) | 3:00 |
 | 4 | [ループザルーム \(feat\. 初音ミク\)](https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF) | [ルシノ](https://open.spotify.com/artist/5gwVYKw4Bhbk1rGz37O3fy), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ループザルーム / ランベントアリア](https://open.spotify.com/album/2hslbovaWV2N1qxZJbZFiz) | 2:14 |
 | 5 | [フォーモ](https://open.spotify.com/track/4nfy4uNZASRTRyrmlLDoqW) | [東京真中](https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K) | [フォーモ](https://open.spotify.com/album/7HclLdzkh7w0xoLUvtqJh8) | 2:11 |
-| 6 | [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL) | 3:43 |
+| 6 | [ふたつの木馬 \(feat\. 初音ミク\)](https://open.spotify.com/track/4qwTW7FLLaXPf7rF7eZt7G) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [きくおミク7](https://open.spotify.com/album/6SBHOST42KWt5IiDsOkx94) | 0:39 |
 | 7 | [Miku\-Maxxing \(with Hatsune Miku, Grimes, & さたぱんP\)](https://open.spotify.com/track/5nODPwKJIZ9gY8aBKN43zW) | [BEYOND BORDERs](https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [さたぱんP](https://open.spotify.com/artist/7E811BDUJT2UvrpdNsF8tl) | [Miku\-Maxxing \(with Hatsune Miku, Grimes, & さたぱんP\)](https://open.spotify.com/album/5yD1foXGvYr9j2oACkXUzt) | 2:10 |
 | 8 | [ヤラララ](https://open.spotify.com/track/7fFkLGltPEHInEHoPfT0Jf) | [AnythingBecomeMoe](https://open.spotify.com/artist/4FCvsRjFCZQYBCq7NKUIjK) | [ヤラララ](https://open.spotify.com/album/4e75aI5UsN2ZrSVHGCBmdz) | 2:31 |
 | 9 | [MONTAGEM HIKARI](https://open.spotify.com/track/0XqgE9UN4MCo5ooIwUYm7l) | [BellyJay](https://open.spotify.com/artist/1AldIZRmNccuXCk2uoYcpv) | [MONTAGEM HIKARI](https://open.spotify.com/album/0anDjww4IXQWw3aeUO3PZG) | 1:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [童話になったらいいのに](https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw) | [電ǂ鯨](https://open.spotify.com/artist/6xcEdIK4pJTFHXLyvuUaXm) | [くらしアソート](https://open.spotify.com/album/15bUakbuDdhL0sHTLsli39) | 3:15 |
 | 50 | [いますぐ輪廻](https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [いますぐ輪廻](https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe) | 2:02 |
 
-Snapshot ID: `AAAAAMlM9IOOdJUrAT7xnXs0eqemCCgk`
+Snapshot ID: `AAAAAPHh9VClLAza/4si0L4ywC2BCXds`

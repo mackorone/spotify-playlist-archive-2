@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Alexandra Căpitănescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,115 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,123 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Anxietate](https://open.spotify.com/track/4B46QMuGcFVKzUZ4daOvoT) | [ELIA](https://open.spotify.com/artist/7s7DFrxMMHk3V3E9PmqxmI), [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [Anxietate](https://open.spotify.com/album/0zY8pN6UtzvQkt1uCOlGVw) | 3:29 |
 | 50 | [Vanilla](https://open.spotify.com/track/05sZuK3bPhfddoZ1U2HmH9) | [Celia](https://open.spotify.com/artist/5vd1DhtE6CTuv9pYlTliA2) | [Vanilla](https://open.spotify.com/album/0qhwOktE4vu7MxSitPowfH) | 2:33 |
 
-Snapshot ID: `AAAAAPWxeYNJpEvBzVRnTGIny6TB+YkY`
+Snapshot ID: `AAAAAHlYck2yDSAnh9GN1Ely8YO6eyGK`

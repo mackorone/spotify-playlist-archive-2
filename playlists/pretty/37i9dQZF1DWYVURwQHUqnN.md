@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Theodora
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,653 likes - 59 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,470 likes - 59 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 58 | [Mamacita](https://open.spotify.com/track/5HH2jUG1eNWuMbTxgomFAO) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT) | [Mamacita](https://open.spotify.com/album/4CxBHA9eYDIbAkwYETkVBJ) | 2:52 |
 | 59 | [Longue vie à nous](https://open.spotify.com/track/1IsosHLLJlLuCLsrIIhqfc) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Longue vie à nous](https://open.spotify.com/album/2fjVClEdcw6sFvssKcyinN) | 3:19 |
 
-Snapshot ID: `AAAAAB6A0yDzp4iUpEIDBDKTSjBa9XjG`
+Snapshot ID: `AAAAAMj9WuWwd/G798/i4nwx1oyctD8O`

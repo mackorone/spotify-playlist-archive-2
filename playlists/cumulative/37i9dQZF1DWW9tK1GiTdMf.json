@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un autunno non proprio felice (blanco in cover)",
+  "description": "musica per un autunno non proprio felice (naska in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 177129,
       "name": "CARNE",
       "url": "https://open.spotify.com/track/7ocThvkFpzpiWO4yglc5fJ"
@@ -5366,7 +5366,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 124615,
       "name": "CATTIVA ABITUDINE",
       "url": "https://open.spotify.com/track/79BsbconiWd05XNfFT9Hne"
@@ -11800,7 +11800,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163168,
       "name": "First time (feat. The\u00f8)",
       "url": "https://open.spotify.com/track/6PnMjjtegErJqSCBSQG6Jd"
@@ -29063,6 +29063,24 @@
     },
     {
       "album": {
+        "name": "HORROR VITA",
+        "url": "https://open.spotify.com/album/0sGUpEqcChROXrEvWXE9hV"
+      },
+      "artists": [
+        {
+          "name": "Your Grave",
+          "url": "https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184241,
+      "name": "SOLO (con i mostri)",
+      "url": "https://open.spotify.com/track/7EZHWTB0SzNqVPMdwW1WxA"
+    },
+    {
+      "album": {
         "name": "Solo come un cane",
         "url": "https://open.spotify.com/album/6CBCpUpGNwxz2pZpEDsnS9"
       },
@@ -32012,6 +32030,24 @@
       "duration_ms": 154570,
       "name": "Ti penso sempre",
       "url": "https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g"
+    },
+    {
+      "album": {
+        "name": "ti regaler\u00f2 una spada",
+        "url": "https://open.spotify.com/album/6BZIF37S4Ulv8zRkIOKblP"
+      },
+      "artists": [
+        {
+          "name": "ex rave",
+          "url": "https://open.spotify.com/artist/3M70Keb49O0MudT6kEERrB"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155111,
+      "name": "ti regaler\u00f2 una spada",
+      "url": "https://open.spotify.com/track/6hZESvGRaVBXa3xgDW1o2P"
     },
     {
       "album": {

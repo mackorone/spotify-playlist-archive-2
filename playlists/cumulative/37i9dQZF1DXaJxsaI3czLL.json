@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "forget me not",
+        "url": "https://open.spotify.com/album/68Od59mQPLHRWyXojgqqEC"
+      },
+      "artists": [
+        {
+          "name": "Kana Wakareno",
+          "url": "https://open.spotify.com/artist/2lSjSwANlxp3waNrFRogtb"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578000,
+      "name": "iolite",
+      "url": "https://open.spotify.com/track/6pp9TUd9YssG2YPiu75uSn"
+    },
+    {
+      "album": {
         "name": "Prema",
         "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
       },
@@ -4902,7 +4920,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 257105,
       "name": "The Rose (15th Anniversary Version\uff09",
       "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
@@ -8392,7 +8410,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 329666,
       "name": "\u661f\u660e\u304b\u308a\u306e\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS"
@@ -8446,7 +8464,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 376300,
       "name": "\u6642\u306e\u89e3\u6c7a",
       "url": "https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l"

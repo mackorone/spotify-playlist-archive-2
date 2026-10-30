@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Roosevelt Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,245 likes - 70 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,317 likes - 70 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 69 | [Abba is for me](https://open.spotify.com/track/7mTilXN91jQQWMvIkOH1nC) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Abba is for me](https://open.spotify.com/album/4ySfRBCswvnXCrHTbkb2rr) | 8:55 |
 | 70 | [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 |
 
-Snapshot ID: `AAAAAK8VFaEon2vfpdETyjJUrmSYAoa4`
+Snapshot ID: `AAAAAIGW++EOqjjf8aCyeYiUYIEOSmgW`

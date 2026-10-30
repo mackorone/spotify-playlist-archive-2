@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,661 likes - 210 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,717 likes - 210 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 209 | [Nomad Sunset](https://open.spotify.com/track/7i4vfxYPhQOAKhqx693w8U) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset](https://open.spotify.com/album/7cCqGm4KWivC0lbOR3X752) | 3:24 |
 | 210 | [Earth](https://open.spotify.com/track/5MiVwcz77IjPJ3v81lofEy) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Earth](https://open.spotify.com/album/6pnmHrY94xQ1kAM8r5iRlM) | 4:07 |
 
-Snapshot ID: `AAAAAPq2sJqvEtk9fyYQzNm2N/Snjej4`
+Snapshot ID: `AAAAAOhTf8O0AXes1K65xLt2y9EerbZ3`

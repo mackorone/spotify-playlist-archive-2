@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Freya Skye
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,337 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,352 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 49 | [A Merry Black Christmas](https://open.spotify.com/track/6Q4EmIGs7YyxvYf8h4eb9Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [A Merry Black Christmas](https://open.spotify.com/album/0oRWKHzcbEhDIzCsquUPzl) | 3:03 |
 | 50 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 |
 
-Snapshot ID: `AAAAAFmF2I9CeUYZRLTzTeFSNk50QflV`
+Snapshot ID: `AAAAAGaX9qFzks4PgM48t/k2leXYdjGE`

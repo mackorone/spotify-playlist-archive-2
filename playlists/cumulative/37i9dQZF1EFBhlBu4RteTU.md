@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-204 songs - 12 hr 3 min
+205 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Love Me Anyway](https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Love Me Anyway](https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj) | 3:53 | 2026-06-10 |  |
 | [Low](https://open.spotify.com/track/3K8NjgFk8pG7b1K5UwCN7Y) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Invocations, Conversations](https://open.spotify.com/album/4noglgV789j293sJ3ZHgG1) | 3:18 | 2026-06-10 |  |
 | [maggots for brains](https://open.spotify.com/track/6jfiwkcwt8iYCdkbLukxeI) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 4:00 | 2026-06-24 |  |
-| [Make A Wrong Thing Right](https://open.spotify.com/track/55OpD0QyDVt3WbjG1yAJY1) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Micah Powell](https://open.spotify.com/artist/3eDRato4k4YzdQ1hpYen7b) | [Make A Wrong Thing Right](https://open.spotify.com/album/4e9LOxXVet8ISPNk12TcYx) | 3:13 | 2026-08-25 |  |
+| [Make A Wrong Thing Right](https://open.spotify.com/track/55OpD0QyDVt3WbjG1yAJY1) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Micah Powell](https://open.spotify.com/artist/3eDRato4k4YzdQ1hpYen7b) | [Make A Wrong Thing Right](https://open.spotify.com/album/4e9LOxXVet8ISPNk12TcYx) | 3:13 | 2026-08-25 | 2026-10-30 |
+| [Make a Wrong Thing Right](https://open.spotify.com/track/6vojSjW8pJkwfmJ4GOHdmu) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Micah Powell](https://open.spotify.com/artist/3eDRato4k4YzdQ1hpYen7b) | [Make a Wrong Thing Right](https://open.spotify.com/album/3im6G8PS1YuMBevN8CKhuG) | 3:13 | 2026-10-29 |  |
 | [Make A Wrong Thing Right \(feat\. Micah Powell\)](https://open.spotify.com/track/0LMWZM8GzQGBNWGrsncEYU) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Micah Powell](https://open.spotify.com/artist/3eDRato4k4YzdQ1hpYen7b) | [Make A Wrong Thing Right \(feat\. Micah Powell\)](https://open.spotify.com/album/0BOKpJA92WO1AsdcxKsjrs) | 3:13 | 2026-06-10 | 2026-08-26 |
 | [Make You Better](https://open.spotify.com/track/7xlVyKDknb9NTThUOZg4SD) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Make You Better](https://open.spotify.com/album/1Gd9le0txR07vvRoIP6rb1) | 2:27 | 2026-06-10 |  |
 | [making the bed](https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:18 | 2026-06-10 |  |

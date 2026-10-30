@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,691 likes - 56 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,945 likes - 56 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 4 | [CEO](https://open.spotify.com/track/6IsX1rs9rcMd3wv93o6qfG) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [Taltesh](https://open.spotify.com/album/6aMnPHAhk61cqirNCy6pGi) | 2:19 |
 | 5 | [كاموفلاچ](https://open.spotify.com/track/3ModQsJjyPfW5hXRuGlNgz) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [كاموفلاچ](https://open.spotify.com/album/11ZwwJrK0azXgGZiplgBEu) | 2:34 |
 | 6 | [Chroma](https://open.spotify.com/track/0g2elefSy3GShR1ubYszF0) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [Chroma](https://open.spotify.com/album/5wMhz1w51hcKQtXnHM6tRh) | 2:38 |
-| 7 | [Keep Calm](https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1), [Keen](https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy) | [ElDalma x ElNoor](https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH) | 3:22 |
+| 7 | [Keep Calm](https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H) | [ALVIN](https://open.spotify.com/artist/38YDK0b1uiUFVPs7A1XLOK), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1), [Keen](https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy) | [ElDalma x ElNoor](https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH) | 3:22 |
 | 8 | [Tawahin](https://open.spotify.com/track/4zH77fwKdCc8dZCdNxQsbS) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Tawahin](https://open.spotify.com/album/03qf9rLrn0pFmghIBG5os0) | 2:48 |
 | 9 | [CHA CHA MATCHA](https://open.spotify.com/track/57dMVjmPjXVXGbbg5STyCb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [CHA CHA MATCHA](https://open.spotify.com/album/5TYiEK0q0nU8lXJWMerMKm) | 2:55 |
 | 10 | [2ool tany, tany, tany](https://open.spotify.com/track/69gEFN4VWAYXfTn1ThgYI9) | [ZAF](https://open.spotify.com/artist/5ECY1H5jJxfx7gEukvOAsU) | [elza3albeymawet.](https://open.spotify.com/album/072jQQUG4rdWd9eJMRJ570) | 1:25 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 55 | [Meen Ytafy Nary](https://open.spotify.com/track/2ifemK90i9fSrsbC2mx46q) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Kay](https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG) | [Meen Ytafy Nary](https://open.spotify.com/album/1F5IOenDkbPmF3NuVzyEH8) | 3:08 |
 | 56 | [WADINI](https://open.spotify.com/track/2NVujx5LgFAIWPshaI6IYM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:22 |
 
-Snapshot ID: `AAAAABqA32rQPhomHmKJcEDJny9ft5Ei`
+Snapshot ID: `AAAAAB0xviSaVI2jv11jpDEbhf6Kl4fN`

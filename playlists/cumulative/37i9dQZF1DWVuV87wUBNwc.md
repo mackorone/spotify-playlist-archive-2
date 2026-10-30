@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Tove Lo & Stromae au sommet de la première playlist de France.
+> TeddyBear au sommet de la première playlist de France.
 
 505 songs - 1 day 1 hr 32 min
 

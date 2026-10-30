@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276389,
+      "name": "Cowboys and Angels - Edit",
+      "url": "https://open.spotify.com/track/6dDYckwvmMGZO1qB1tiuWv"
+    },
+    {
+      "album": {
         "name": "Crazy For You",
         "url": "https://open.spotify.com/album/0LKaCSPTuHk2z1Pdntl5jG"
       },
@@ -6630,7 +6648,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 195657,
       "name": "you did not sign up for this",
       "url": "https://open.spotify.com/track/2ZSNhavgktBnpw28SPEy9b"

@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 69 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3vSogSk1GgB0D1V7r8nkEP) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Winter Wilderness EP](https://open.spotify.com/album/1iNaHBJANUPl2U84kSjogc) | 3:07 |
 | 70 | [All I Want For Christmas Is You](https://open.spotify.com/track/2KpS37udVvcVTP8lkKyYjG) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [All I Want For Christmas Is You](https://open.spotify.com/album/4yYRCfrUG8Ck6nkqOEJDtQ) | 3:27 |
 
-Snapshot ID: `AAAAAG9Chv5EvsQb+fseyhVZ5DR9RSNu`
+Snapshot ID: `AAAAAOo+/EUR+Pa3LXaE7gfVnjVYvUuC`

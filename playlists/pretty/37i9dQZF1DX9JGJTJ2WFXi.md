@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,884 likes - 130 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,979 likes - 130 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9JGJTJ2WFXi.md) - [plain]
 | 129 | [Beginnings 396 Hz](https://open.spotify.com/track/3Mwv16vRPUXI0zq6CId5R2) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Beginnings 396 Hz](https://open.spotify.com/album/3VvxL9vVrEcJjvy8jW5f1Z) | 2:37 |
 | 130 | [Bordunis 396 Hz](https://open.spotify.com/track/3kYWjk2L2MVIvx4Ntj6gby) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Bordunis 396 Hz](https://open.spotify.com/album/6ZxG83xswcprunwOjDuNyn) | 2:44 |
 
-Snapshot ID: `AAAAAK/UxTOlshR0JjDzjkaHabDB/tUf`
+Snapshot ID: `AAAAAPMgvLTp3uc4MIa/3x6AuD6+/gFR`

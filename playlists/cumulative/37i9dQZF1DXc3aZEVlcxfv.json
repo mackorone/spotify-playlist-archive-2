@@ -6685,6 +6685,28 @@
     },
     {
       "album": {
+        "name": "Ifeoma",
+        "url": "https://open.spotify.com/album/0BCRtgbPtUqOhxYn5ATK4s"
+      },
+      "artists": [
+        {
+          "name": "Kris Grant",
+          "url": "https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ifeoma",
+      "url": "https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1"
+    },
+    {
+      "album": {
         "name": "Ifunanya",
         "url": "https://open.spotify.com/album/57pEiJAqAL6uQ57jujKiFs"
       },
@@ -9406,7 +9428,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181232,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4VCD1SsPXnWv7B8e9Bv7TT"

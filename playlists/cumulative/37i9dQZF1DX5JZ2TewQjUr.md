@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Vincy 蘇詠淳
 
-1,768 songs - 4 day 3 hr 49 min
+1,770 songs - 4 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Burn and Shine](https://open.spotify.com/track/2ntAwOgGPVA1dJ3o82PR0x) | [Scarlett鍾熙彤](https://open.spotify.com/artist/4SLDZBVUKsfd3sLhPtG0zj) | [Burn and Shine](https://open.spotify.com/album/7afSby7pkqN1TmRBCaZBtl) | 3:26 | 2025-01-23 | 2025-03-14 |
 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 | 2024-02-01 | 2024-05-10 |
 | [Burned](https://open.spotify.com/track/711GptveXw2VEhk62Nvavf) | [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e), [Cyrus Gold](https://open.spotify.com/artist/2LtqzTCBiNGe269rMCWdYu), [HYLIA](https://open.spotify.com/artist/6zRFKufuh8CGgePzQeIzw8) | [Burned](https://open.spotify.com/album/2VhbyZxAlAPrmH9ZUMPfaU) | 3:18 | 2024-12-12 | 2025-02-14 |
+| [Burning Rose](https://open.spotify.com/track/4PfVHwyQRwA7WEJ3mI2Top) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [seven steps](https://open.spotify.com/album/6D7Y9MgOLNZxCuC7wsMV3s) | 3:26 | 2026-10-29 |  |
 | [But What I Need](https://open.spotify.com/track/392Cv3yNSJfzlJgnsvT1dQ) | [Clave](https://open.spotify.com/artist/5m5BbvIBUCGtqMSYTqvlxN) | [But What I Need](https://open.spotify.com/album/1GHwMev2JpMchhkP1BIQou) | 5:18 | 2025-10-09 | 2026-05-08 |
 | [BUTTERFLIES](https://open.spotify.com/track/4z5gS7C4LphtrMFHiQcDUu) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [BUTTERFLIES](https://open.spotify.com/album/2RNF3bStKxEkhbDRxe9IYF) | 3:01 | 2024-05-23 | 2024-11-15 |
 | [butterfly girl](https://open.spotify.com/track/2KmTq1OXdZIcEaHaNV1zUp) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [butterfly girl](https://open.spotify.com/album/3GL0FlvXkCofjH2HQUMzrU) | 4:04 | 2022-07-14 | 2022-11-04 |
@@ -1441,7 +1442,7 @@
 | [我鍾意](https://open.spotify.com/track/7hcU6wOdZjiga94yKQIp1A) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [我鍾意](https://open.spotify.com/album/698la8k5qbCH4s5nm1zTnY) | 5:44 | 2025-02-14 | 2025-05-30 |
 | [我，你](https://open.spotify.com/track/11mXntmb9Hpal79nKLKOmS) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK) | [我，你](https://open.spotify.com/album/6NAjq0o554ltClBUos7dXU) | 2:44 | 2023-12-21 | 2024-05-10 |
 | [打完\_我好傷心](https://open.spotify.com/track/47zMJPmgI95dUXSbTGYIUI) | [34 pessimists](https://open.spotify.com/artist/7CIc2EIGlSABfECh8nV4Li) | [食古不化 eat old no digest](https://open.spotify.com/album/05vlHajTdQIZbwLRt7Vu0X) | 3:16 | 2023-11-16 | 2024-01-05 |
-| [打工牛仔](https://open.spotify.com/track/1iNubMavbVtTtpjfUeYtID) | [F.JAE](https://open.spotify.com/artist/0U8QoUGD9K4oqoA5gaNTHC), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [打工牛仔](https://open.spotify.com/album/1jGPwUOAKii6qbvPjDuvCP) | 2:40 | 2026-04-30 |  |
+| [打工牛仔](https://open.spotify.com/track/1iNubMavbVtTtpjfUeYtID) | [F.JAE](https://open.spotify.com/artist/0U8QoUGD9K4oqoA5gaNTHC), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [打工牛仔](https://open.spotify.com/album/1jGPwUOAKii6qbvPjDuvCP) | 2:40 | 2026-04-30 | 2026-10-30 |
 | [扭擰雪糕屋](https://open.spotify.com/track/2SUceujK5Dbt7YV5DTAqP6) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [扭擰雪糕屋](https://open.spotify.com/album/4ThopgD9mOzGmWMVek31hV) | 3:18 | 2022-10-13 | 2023-03-18 |
 | [找亮點](https://open.spotify.com/track/4D1lfrvXWwLKOtmKzMgZaW) | [Little Albert](https://open.spotify.com/artist/6zn9ybM61TsLBdCVohb6I5) | [找亮點](https://open.spotify.com/album/6Kt2EIL8LGvYs9VvZF7y3y) | 3:01 | 2024-06-20 | 2024-11-15 |
 | [拔完智齒就忘記你 Wisdom Tooth \- Demo](https://open.spotify.com/track/3wSar7lVEA07eqFLZQpVR0) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM) | [拔完智齒就忘記你 Wisdom Tooth \(Demo\)](https://open.spotify.com/album/4ktIRZ37dUmTypNA7QhC01) | 2:03 | 2024-02-08 | 2024-05-10 |
@@ -1689,7 +1690,7 @@
 | [褐色的眼睛](https://open.spotify.com/track/2ih823m7ZUJg9omTJXlSJX) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [dy](https://open.spotify.com/artist/11dkaOJSGGuwn9QsItqyzm) | [褐色的眼睛](https://open.spotify.com/album/3A2uWD7yUHzoBmKHdu3Xud) | 3:22 | 2022-05-26 | 2022-06-10 |
 | [西方極樂](https://open.spotify.com/track/1BaWtTnOgSXSEaDzpFTU2p) | [Rawtrack](https://open.spotify.com/artist/2rtmiGX447uwtb0bcQ5bDE) | [西方極樂](https://open.spotify.com/album/1ZsJDmzCevkMRPZFs5NiXa) | 4:06 | 2022-06-30 | 2022-09-09 |
 | [要怎麼書寫](https://open.spotify.com/track/04lt7lHdDr1rrY4WclNxTp) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [如是我聞](https://open.spotify.com/album/65XUM0Ky3AYlOoLC62l1Du) | 2:29 | 2022-08-04 | 2022-11-04 |
-| [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 | 2026-04-30 |  |
+| [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 | 2026-04-30 | 2026-10-30 |
 | [說真的](https://open.spotify.com/track/5lImeKcFuPcoBGDLkUYgwC) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [說真的](https://open.spotify.com/album/3oFHKTGnyVz9qsi3swiBVj) | 3:50 | 2026-06-18 |  |
 | [誰不想當個chill人](https://open.spotify.com/track/1TtD7fk1GDIokj7qboMPAn) | [NatS](https://open.spotify.com/artist/367T9M6uiP4jr6u5DtMD1l) | [誰不想當個chill人](https://open.spotify.com/album/2gD4dEyvAPwowxvJ0kckYA) | 1:58 | 2025-01-16 | 2025-03-14 |
 | [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/track/2S0jex9nwUk6rRB0kByFjL) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m) | [談戀愛甚麽時候變成一場比賽](https://open.spotify.com/album/7FTK6VQCBzjwapvrZFU931) | 2:56 | 2022-08-04 | 2022-11-04 |
@@ -1739,6 +1740,7 @@
 | [雌雄同體](https://open.spotify.com/track/3Na1t47af57acgITAyL1AR) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [雌雄同體](https://open.spotify.com/album/1dWHXyNedi6Hn2F3nvUisP) | 3:16 | 2023-11-30 | 2024-01-05 |
 | [雙重標準](https://open.spotify.com/track/1OiklcoRnHkogk3CXZ5L5F) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [雙重標準](https://open.spotify.com/album/6zy9x4waP413cRXAGILBab) | 3:00 | 2022-10-06 | 2023-02-03 |
 | [雞蛋仔格仔餅](https://open.spotify.com/track/3shhAUfODtIk754wOX4drL) | [Ritchie Leong](https://open.spotify.com/artist/64Z9Y2gzSyj45yml0RNV4T), [Chit](https://open.spotify.com/artist/0zoxbSXMM8poZ2MOq4yKjs) | [雞蛋仔格仔餅](https://open.spotify.com/album/2nDRvEHuTF603Uv2flY5LK) | 3:35 | 2023-11-30 | 2024-01-05 |
+| [離苦](https://open.spotify.com/track/52jItSdc5UpiXn940qFl3w) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [離苦](https://open.spotify.com/album/1X5EcCUKddrOD6VAcel9fY) | 3:38 | 2026-10-29 |  |
 | [離開的感覺](https://open.spotify.com/track/2bzbEJY3xfGkFJdy509uRP) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [離開的感覺](https://open.spotify.com/album/3w8OUJKYhA2AAPhltni2QG) | 3:30 | 2022-10-27 | 2023-02-03 |
 | [雨散](https://open.spotify.com/track/5qByfyMcNKMwOCpA3WAYcU) | [iao](https://open.spotify.com/artist/01bPVcHqeIIRbO24DaywYR) | [雨散](https://open.spotify.com/album/5ecPzWFwacWhgXkKu3Wf4w) | 3:12 | 2026-09-03 |  |
 | [雪國](https://open.spotify.com/track/2ycEK1Haz9TXjNNwYs2Hgm) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [雪國](https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY) | 9:04 | 2025-12-07 | 2026-06-12 |

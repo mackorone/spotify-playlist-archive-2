@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Frezza in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Nabi e LILCR in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -15866,7 +15866,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 131142,
       "name": "NENA (feat. twentyone21)",
       "url": "https://open.spotify.com/track/4Wwor0dkbX1ShieJepIKox"
@@ -18988,6 +18988,52 @@
       "duration_ms": 168000,
       "name": "PUERTO RICO (feat. Hani)",
       "url": "https://open.spotify.com/track/31YOGd461wSGGepiCEQBIV"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Young Hash",
+          "url": "https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX"
+        },
+        {
+          "name": "Dari\u00e9 Baby",
+          "url": "https://open.spotify.com/artist/5WUPU4vX8WxHQzLreRXwLX"
+        },
+        {
+          "name": "Lil Parta",
+          "url": "https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP"
+        },
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        },
+        {
+          "name": "9x21",
+          "url": "https://open.spotify.com/artist/3K8CQ8sL2LsIcfVSTaUjMe"
+        },
+        {
+          "name": "LB GANG",
+          "url": "https://open.spotify.com/artist/20m7OA0skSZHQi2nLt29wV"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311090,
+      "name": "Puglia Crime (feat. RRARI DAL TACCO, Young Hash, Dari\u00e9 Baby, Lil Parta, Scaccia, 9x21, LB GANG)",
+      "url": "https://open.spotify.com/track/4inV3hMxNSRxY2gE5FIVMO"
     },
     {
       "album": {
@@ -25740,7 +25786,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 112708,
       "name": "Yuri Chechi",
       "url": "https://open.spotify.com/track/4mD5bGCPAwOSbpujjafFL0"
@@ -25912,6 +25958,36 @@
       "duration_ms": 128983,
       "name": "Zito (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/6ma8HWG078Nvkkic4GduNq"
+    },
+    {
+      "album": {
+        "name": "Zombieland (feat. Tony Boy, Capo Plaza & Skrilla)",
+        "url": "https://open.spotify.com/album/6AAzlNE5T2QMg70rrWt8Rc"
+      },
+      "artists": [
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Zombieland (feat. Tony Boy, Capo Plaza & Skrilla)",
+      "url": "https://open.spotify.com/track/0UEajqGMqE7K6ADUUprM1S"
     },
     {
       "album": {

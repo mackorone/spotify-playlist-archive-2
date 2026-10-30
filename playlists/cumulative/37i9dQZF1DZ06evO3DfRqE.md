@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-133 songs - 8 hr 40 min
+134 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [After The Rain](https://open.spotify.com/track/0jSys1dnOTYfW40et1Znx9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:44 | 2026-02-19 | 2026-03-27 |
 | [All You Need Is Love](https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 2:29 | 2024-01-29 |  |
 | [Aloha, E Komo Mai](https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:43 | 2024-01-29 | 2026-07-31 |
-| [Arigato](https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NASHVILLE SESSIONS](https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD) | 3:02 | 2026-01-25 |  |
+| [Arigato](https://open.spotify.com/track/6ONh5KkYlsOY6dHjNocc66) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [NASHVILLE SESSIONS](https://open.spotify.com/album/6dClr5PTCr6ohbK74jipdD) | 3:02 | 2026-01-25 | 2026-10-30 |
 | [Beauty and the Beast](https://open.spotify.com/track/6cC6Ij8tNKIJakvUNEOl4f) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 5:18 | 2026-09-10 |  |
 | [Beneath The Waves](https://open.spotify.com/track/36xDZNphTqQmOR7wrHQxdi) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves](https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF) | 3:13 | 2025-11-01 | 2026-02-03 |
 | [Beneath The Waves \- with nature](https://open.spotify.com/track/5tn6tOXfpnKJys5640lXPu) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:20 | 2026-03-27 | 2026-04-01 |
@@ -101,6 +101,7 @@
 | [Under The Sea](https://open.spotify.com/track/2APVreU7PPG721p8xte07l) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:49 | 2024-01-29 |  |
 | [Vampire](https://open.spotify.com/track/4eU4pp9ycpqnA6NYy9a9U9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 2:49 | 2026-07-28 | 2026-08-03 |
 | [Wai\` Alae](https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 2:28 | 2024-01-29 |  |
+| [Wailau](https://open.spotify.com/track/29F9g4sjiRzLcLuxtUQa3M) | [Bryan Tolentino](https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg), [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ʻUkulele Friends III: The Tertiary](https://open.spotify.com/album/1RzSUAa4j4AgYYb8mhn3nt) | 3:20 | 2026-10-30 |  |
 | [Wailau](https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:55 | 2026-02-01 |  |
 | [Waterfall](https://open.spotify.com/track/00Qj11ClumxCZEvfT7ZXnI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:08 | 2026-02-02 | 2026-03-24 |
 | [We Can't Be Friends](https://open.spotify.com/track/1QgG1FMeqMRKYdoeICpdg0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 2:38 | 2026-07-26 | 2026-07-31 |

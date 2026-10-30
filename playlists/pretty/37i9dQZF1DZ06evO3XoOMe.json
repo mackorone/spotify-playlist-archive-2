@@ -1,12 +1,12 @@
 {
   "description": "This is Chxrry. The essential tracks, all in one playlist.",
-  "num_followers": 830,
+  "num_followers": 831,
   "original_name": "This Is Chxrry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAT3IXmmkzDF3RgSEwMy7y9",
+  "snapshot_id": "at/pgAAAAAAtlKkVaO4HkkT32GrUm1p5",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
         }
       ],
-      "duration_ms": 235014,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7BF1cr6h98dIWhdXrBnRox"
+      "duration_ms": 170175,
+      "name": "The Falls",
+      "url": "https://open.spotify.com/track/1RM9s6AbvAwESHrOZxU3Vq"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
         }
       ],
-      "duration_ms": 170175,
-      "name": "The Falls",
-      "url": "https://open.spotify.com/track/1RM9s6AbvAwESHrOZxU3Vq"
+      "duration_ms": 235014,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7BF1cr6h98dIWhdXrBnRox"
     },
     {
       "added_at": null,

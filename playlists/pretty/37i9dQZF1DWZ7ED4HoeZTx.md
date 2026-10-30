@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,527 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,566 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [オレンジ](https://open.spotify.com/track/21htkjP5rYjD3CXG3y9wCT) | [7!!](https://open.spotify.com/artist/3rJbSZv98yyWLNOvD6MsAV) | [アニップス](https://open.spotify.com/album/4Uqxq3iwghdOrbDWNOo0rd) | 5:50 |
 | 50 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
 
-Snapshot ID: `AAAAAKS2f+2526WeC4JMIJcVGPNvDHY+`
+Snapshot ID: `AAAAAIW8A2zqoetYjZRn9U63iOWldr+r`

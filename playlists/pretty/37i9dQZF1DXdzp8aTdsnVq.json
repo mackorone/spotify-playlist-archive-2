@@ -1,12 +1,12 @@
 {
   "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Binomio de Oro de Am\u00e9rica",
-  "num_followers": 360536,
+  "num_followers": 360491,
   "original_name": "Lo + del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA2AeawQmkHZjILMYAOodYmRLOwN",
+  "snapshot_id": "AAAAAMgqwC1ZIuW0WIHpffzOtQumNnTV",
   "tracks": [
     {
       "added_at": "2026-10-02 04:57:08",
@@ -55,6 +55,22 @@
       "duration_ms": 296620,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
+    },
+    {
+      "added_at": "2026-10-30 04:59:36",
+      "album": {
+        "name": "Hay Amores",
+        "url": "https://open.spotify.com/album/6iaXzhvalK3rmFvcu0Ftof"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "Hay Amores",
+      "url": "https://open.spotify.com/track/6esW9v3oXe41QxiWl0Ydeo"
     },
     {
       "added_at": "2026-10-02 04:57:08",
@@ -131,6 +147,26 @@
       "duration_ms": 223943,
       "name": "El Picantico",
       "url": "https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy"
+    },
+    {
+      "added_at": "2026-10-30 04:59:36",
+      "album": {
+        "name": "Luchador",
+        "url": "https://open.spotify.com/album/4x79Wr6lGIOHiqOliL4bkF"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Luis Jose Villa",
+          "url": "https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8"
+        }
+      ],
+      "duration_ms": 237336,
+      "name": "Luchador",
+      "url": "https://open.spotify.com/track/4gh2vcEHQMLzLAYRuc4eIY"
     },
     {
       "added_at": "2026-10-02 04:57:08",
@@ -223,22 +259,6 @@
     {
       "added_at": "2026-10-02 04:57:08",
       "album": {
-        "name": "Loco X Volver",
-        "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 224335,
-      "name": "El Vallenato",
-      "url": "https://open.spotify.com/track/6CwFlUUT1Wmw5YCK2M1GVf"
-    },
-    {
-      "added_at": "2026-10-02 04:57:08",
-      "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/0AmnUsmcawbpizjGPWBIBH"
       },
@@ -291,22 +311,6 @@
       "duration_ms": 243000,
       "name": "La Familia Que So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/0UKFSqTGGgBrLmytmDjd4W"
-    },
-    {
-      "added_at": "2026-10-02 04:57:08",
-      "album": {
-        "name": "A Mi Tierra",
-        "url": "https://open.spotify.com/album/6GECy1dVAcB6J1uGjMnn03"
-      },
-      "artists": [
-        {
-          "name": "Adriana Lucia",
-          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
-        }
-      ],
-      "duration_ms": 205325,
-      "name": "A Mi Tierra",
-      "url": "https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5"
     },
     {
       "added_at": "2026-10-02 04:57:08",

@@ -1,13 +1,57 @@
 {
-  "description": "Motion & good vibes! Cover: Bokoesam & Yssi SB",
-  "num_followers": 333844,
+  "description": "Motion & good vibes! Cover: Idaly, Adje & CHO",
+  "num_followers": 333826,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADY3zHXtQFMiJaiKkT/OY7XTuOvf",
+  "snapshot_id": "AAAAAFAhpX+iZzkZhcifwHI5rRo1omlO",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:01:19",
+      "album": {
+        "name": "DOE HET",
+        "url": "https://open.spotify.com/album/2ET6qVidGj5s8wiao4JkHj"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "DOE HET",
+      "url": "https://open.spotify.com/track/6QVOdWVwR9pBio5aTCv7BK"
+    },
+    {
+      "added_at": "2026-10-29 23:01:19",
+      "album": {
+        "name": "Costa",
+        "url": "https://open.spotify.com/album/7Il0CZTpY5wuB6lbOewBC5"
+      },
+      "artists": [
+        {
+          "name": "2mochh",
+          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Costa",
+      "url": "https://open.spotify.com/track/1nVIYjo1h8ujEKYr3W5QLv"
+    },
     {
       "added_at": "2026-10-22 22:01:42",
       "album": {
@@ -59,6 +103,58 @@
     {
       "added_at": "2026-10-22 22:01:42",
       "album": {
+        "name": "Ewa Lieffie",
+        "url": "https://open.spotify.com/album/4GQ20hdYUtL0doxTwDlf7G"
+      },
+      "artists": [
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 95269,
+      "name": "Ewa Lieffie",
+      "url": "https://open.spotify.com/track/4zNlU1NpdaCr2EKjkguBmg"
+    },
+    {
+      "added_at": "2026-10-29 23:01:19",
+      "album": {
+        "name": "Gassan",
+        "url": "https://open.spotify.com/album/0IzZGWG359qUOXTTYdk9hL"
+      },
+      "artists": [
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Gassan",
+      "url": "https://open.spotify.com/track/075AuFWJHsixHuTGmuv3dA"
+    },
+    {
+      "added_at": "2026-10-22 22:01:42",
+      "album": {
         "name": "Ik wil je zien",
         "url": "https://open.spotify.com/album/6HzloqAyAV2NxiEzawVTsR"
       },
@@ -71,6 +167,22 @@
       "duration_ms": 133124,
       "name": "Ik wil je zien",
       "url": "https://open.spotify.com/track/5q6tO0ZKm9YlbLhY5cYkQa"
+    },
+    {
+      "added_at": "2026-10-29 23:01:19",
+      "album": {
+        "name": "NIET MEER",
+        "url": "https://open.spotify.com/album/1ZfPIviWyaUohJORBDznkD"
+      },
+      "artists": [
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "NIET MEER",
+      "url": "https://open.spotify.com/track/34jfwpytzPDiUqd3Q11NGz"
     },
     {
       "added_at": "2026-10-15 22:00:21",
@@ -121,30 +233,6 @@
       "url": "https://open.spotify.com/track/2fmkLZl2utQlqGZ7ycLJb1"
     },
     {
-      "added_at": "2026-10-22 22:01:42",
-      "album": {
-        "name": "Ewa Lieffie",
-        "url": "https://open.spotify.com/album/4GQ20hdYUtL0doxTwDlf7G"
-      },
-      "artists": [
-        {
-          "name": "Freddy Moreira",
-          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
-        },
-        {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        },
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 95269,
-      "name": "Ewa Lieffie",
-      "url": "https://open.spotify.com/track/4zNlU1NpdaCr2EKjkguBmg"
-    },
-    {
       "added_at": "2026-10-15 22:00:21",
       "album": {
         "name": "SLICK",
@@ -159,6 +247,30 @@
       "duration_ms": 106909,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
+    },
+    {
+      "added_at": "2026-10-29 23:01:19",
+      "album": {
+        "name": "Reposado",
+        "url": "https://open.spotify.com/album/0vRvXkGgUHtIiO6orwDAPH"
+      },
+      "artists": [
+        {
+          "name": "Vier1",
+          "url": "https://open.spotify.com/artist/66zBfJKGOsjwbPfq9KE1F7"
+        },
+        {
+          "name": "16'dls",
+          "url": "https://open.spotify.com/artist/6b1BvwljfJStnCGcSw4QBa"
+        },
+        {
+          "name": "Stampa",
+          "url": "https://open.spotify.com/artist/3jHKic0d8IkBCCWo59l7UH"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/0xZTfOA5eMVRNnycU8lUJN"
     },
     {
       "added_at": "2026-10-22 22:01:42",
@@ -179,6 +291,22 @@
       "duration_ms": 169103,
       "name": "Gass",
       "url": "https://open.spotify.com/track/5ZgPegQQqZquH6KZDCk8PG"
+    },
+    {
+      "added_at": "2026-10-29 23:01:19",
+      "album": {
+        "name": "TIKI TAKA",
+        "url": "https://open.spotify.com/album/1ShEy90a6CKKThdBMEjLll"
+      },
+      "artists": [
+        {
+          "name": "Venti",
+          "url": "https://open.spotify.com/artist/6SgOMDXLQKIiN15OrjOvGQ"
+        }
+      ],
+      "duration_ms": 143255,
+      "name": "TIKI TAKA",
+      "url": "https://open.spotify.com/track/35n8gJt7HNARNtiV5glpW9"
     },
     {
       "added_at": "2026-10-15 22:00:21",
@@ -237,48 +365,28 @@
       "url": "https://open.spotify.com/track/02w07PEgTDY7IiuGWhqBWM"
     },
     {
-      "added_at": "2026-10-15 22:00:21",
+      "added_at": "2026-10-29 23:01:19",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/6oYiQXxQB0vy3t53ctS6Jk"
+        "name": "Trill",
+        "url": "https://open.spotify.com/album/479gRCj2FOlvJic2w4kPE7"
       },
       "artists": [
         {
-          "name": "Elf",
-          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+          "name": "D-opss",
+          "url": "https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ"
         },
         {
-          "name": "Veertien",
-          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+          "name": "Megamaster",
+          "url": "https://open.spotify.com/artist/6F6Rak62iA2EkaBTg1hj7g"
         },
         {
-          "name": "RResstante",
-          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
-        },
-        {
-          "name": "Reimas",
-          "url": "https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl"
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
         }
       ],
-      "duration_ms": 178153,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5HXeCwmw49PWb9ufQyTWB9"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
-        "name": "Fijnproever",
-        "url": "https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "CC",
-      "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
+      "duration_ms": 144550,
+      "name": "Trill",
+      "url": "https://open.spotify.com/track/0c9MJB6sQm0s2vHfV87cL5"
     },
     {
       "added_at": "2026-10-22 22:01:42",
@@ -323,30 +431,6 @@
     {
       "added_at": "2026-10-15 22:00:21",
       "album": {
-        "name": "Gimme",
-        "url": "https://open.spotify.com/album/1uAChZyazVvnAmxXcIo4os"
-      },
-      "artists": [
-        {
-          "name": "JEA",
-          "url": "https://open.spotify.com/artist/7cqkDU4Ht0tY7xITt9TkiA"
-        },
-        {
-          "name": "Maya Shanti",
-          "url": "https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn"
-        },
-        {
-          "name": "Buckstar",
-          "url": "https://open.spotify.com/artist/5NssrjKqHNbdjC0awMBT3a"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Gimme",
-      "url": "https://open.spotify.com/track/2qL2ornN89hlwyVK74uPnf"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
         "name": "Laat Los",
         "url": "https://open.spotify.com/album/5S8wkK1ykrJf0LuuvOa5fi"
       },
@@ -367,6 +451,50 @@
     {
       "added_at": "2026-10-15 22:00:21",
       "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/6oYiQXxQB0vy3t53ctS6Jk"
+      },
+      "artists": [
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+        },
+        {
+          "name": "Veertien",
+          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "RResstante",
+          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
+        },
+        {
+          "name": "Reimas",
+          "url": "https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5HXeCwmw49PWb9ufQyTWB9"
+    },
+    {
+      "added_at": "2026-10-15 22:00:21",
+      "album": {
+        "name": "Fijnproever",
+        "url": "https://open.spotify.com/album/591QpdwbN0BYZb3rZEJcuQ"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/7oDTTCgG3SUhb1fhRftN4Q"
+    },
+    {
+      "added_at": "2026-10-15 22:00:21",
+      "album": {
         "name": "RMB (Ring My Bell) [Dutch Remix]",
         "url": "https://open.spotify.com/album/0eN66Qybkjf74fezPXrV5Y"
       },
@@ -383,26 +511,6 @@
       "duration_ms": 176000,
       "name": "RMB (Ring My Bell) - Dutch Remix",
       "url": "https://open.spotify.com/track/136gKCrEqngRWnuqhITjin"
-    },
-    {
-      "added_at": "2026-10-22 22:01:42",
-      "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 171436,
-      "name": "GODDESS (feat. Lojay)",
-      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
       "added_at": "2026-10-15 22:00:21",
@@ -463,30 +571,6 @@
     {
       "added_at": "2026-10-15 22:00:21",
       "album": {
-        "name": "So So Lobi",
-        "url": "https://open.spotify.com/album/79LmwYrXnsn3qB7b5LuCeK"
-      },
-      "artists": [
-        {
-          "name": "Yengi",
-          "url": "https://open.spotify.com/artist/3pOW6I20Pb4omyg8cSNGEX"
-        },
-        {
-          "name": "DEDE",
-          "url": "https://open.spotify.com/artist/79f0nOzkJo07E7dKrQUpVc"
-        },
-        {
-          "name": "Dane",
-          "url": "https://open.spotify.com/artist/6kSkiS3usGIXv9CTfNn4xu"
-        }
-      ],
-      "duration_ms": 112427,
-      "name": "So So Lobi",
-      "url": "https://open.spotify.com/track/4Lb0LSO0LEB2Un1HNK7syJ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
         "name": "Liqa",
         "url": "https://open.spotify.com/album/6U8XyKJg2m4jMQbUiSRO6C"
       },
@@ -507,6 +591,30 @@
       "duration_ms": 130285,
       "name": "Liqa",
       "url": "https://open.spotify.com/track/16z5mi7Gkomh7Cp0T7UYgD"
+    },
+    {
+      "added_at": "2026-10-15 22:00:21",
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/1uAChZyazVvnAmxXcIo4os"
+      },
+      "artists": [
+        {
+          "name": "JEA",
+          "url": "https://open.spotify.com/artist/7cqkDU4Ht0tY7xITt9TkiA"
+        },
+        {
+          "name": "Maya Shanti",
+          "url": "https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn"
+        },
+        {
+          "name": "Buckstar",
+          "url": "https://open.spotify.com/artist/5NssrjKqHNbdjC0awMBT3a"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/2qL2ornN89hlwyVK74uPnf"
     },
     {
       "added_at": "2026-10-15 22:00:21",
@@ -747,26 +855,6 @@
     {
       "added_at": "2026-10-15 22:00:21",
       "album": {
-        "name": "BOSSY",
-        "url": "https://open.spotify.com/album/3WAEhwVNpzqyGgo5kwjR1K"
-      },
-      "artists": [
-        {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
-        },
-        {
-          "name": "Bens",
-          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "BOSSY",
-      "url": "https://open.spotify.com/track/5fmz8sNeRYmlu1LqNhBweC"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
         "name": "Osso",
         "url": "https://open.spotify.com/album/0prA4VMDqiTs6pEr5pPoBA"
       },
@@ -887,66 +975,6 @@
       "duration_ms": 211200,
       "name": "DEMMI MARROKI",
       "url": "https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
-        "name": "L'undertaker, Pt.2",
-        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 145335,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/5K5nYUjeH3DUcAYTQpZT6o"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
-        "name": "CLUB IS BOM",
-        "url": "https://open.spotify.com/album/0Ny7MI5x5AJ28qfxxFjwM8"
-      },
-      "artists": [
-        {
-          "name": "Babel-Ish",
-          "url": "https://open.spotify.com/artist/1fVUzi8EF2oGNzPuP7g7EG"
-        },
-        {
-          "name": "LorryRast",
-          "url": "https://open.spotify.com/artist/5vjMyJWKTvMpRxR9XzQYqO"
-        }
-      ],
-      "duration_ms": 105831,
-      "name": "CLUB IS BOM",
-      "url": "https://open.spotify.com/track/0QZ9NyYRgNwXqeVahHnxvD"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
-        "name": "Babacan",
-        "url": "https://open.spotify.com/album/7djwdUEwFmuQMhDHjUnndN"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        },
-        {
-          "name": "Muti",
-          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
-        },
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 193237,
-      "name": "Babacan",
-      "url": "https://open.spotify.com/track/1Rivqj8NT6A37CMGSZywXA"
     },
     {
       "added_at": "2026-10-15 22:00:21",
@@ -1415,22 +1443,6 @@
       "duration_ms": 98657,
       "name": "Sensa - Remix",
       "url": "https://open.spotify.com/track/76yGv86zc8Jr62SKbpploW"
-    },
-    {
-      "added_at": "2026-10-15 22:00:21",
-      "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 131563,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
     },
     {
       "added_at": "2026-10-15 22:00:21",

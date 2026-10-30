@@ -1,12 +1,12 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407094,
+  "num_followers": 407098,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgKwkcnOexmZa+/boUG3ZvJQml8",
+  "snapshot_id": "AAAAAJZBO1zpJDe+wi8Qqkmr9EThIgqX",
   "tracks": [
     {
       "added_at": "2026-07-29 10:41:14",
@@ -307,22 +307,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
         },
         {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
         }
       ],
-      "duration_ms": 329228,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
+      "duration_ms": 234706,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -347,22 +347,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
       "artists": [
         {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
         },
         {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
         }
       ],
-      "duration_ms": 234706,
-      "name": "This Is Me",
-      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
+      "duration_ms": 329228,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
+        "name": "Mean Girls (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
+      },
+      "artists": [
+        {
+          "name": "Kate Rockwell",
+          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
+        },
+        {
+          "name": "Original Broadway Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
         "name": "Legally Blonde The Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 346813,
       "name": "Omigod You Guys",
       "url": "https://open.spotify.com/track/2av1BBGdN9DW1u7rvoRhMM"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Mean Girls (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
-      },
-      "artists": [
-        {
-          "name": "Kate Rockwell",
-          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
-        },
-        {
-          "name": "Original Broadway Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/4A1GfEVOELS3vo4tSa6bts"
     },
     {
       "added_at": "2026-07-29 10:41:14",

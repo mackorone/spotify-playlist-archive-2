@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:4Sr4lK1noNj4styLslt07Z">Sophia Hajduk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,918 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,942 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [How To Say Goodbye](https://open.spotify.com/track/0dmU9asldBCK3TkTjiTfQO) | [Metrosexual](https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb) | [How To Say Goodbye](https://open.spotify.com/album/3F5BbrMiMrjWONS3Mi42CB) | 3:19 |
 | 50 | [Sen dla dwóch](https://open.spotify.com/track/59Nqu8oQNdO3hYz54N0af2) | [Zuza Talkowska](https://open.spotify.com/artist/0DWqT2Rp7OdoZckWUQQvxa) | [Sen dla dwóch](https://open.spotify.com/album/1cXdBLJQ1iA42pYEVDyveo) | 3:12 |
 
-Snapshot ID: `AAAAAN+RXgUfNQBUg53nAijqDqTJGz5F`
+Snapshot ID: `AAAAAAgvpcpjJBoU0r4wgxoM6pS3M7Sm`

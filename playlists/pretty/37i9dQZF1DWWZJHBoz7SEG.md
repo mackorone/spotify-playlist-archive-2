@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Chocolate y pan de muerto listo para estos días de frio! Neton Vega y Fuerza Regida en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,648 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,761 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 94 | [Calma](https://open.spotify.com/track/6xfjE6dvANhJ9taimobHYN) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB), [Last Jerónimo](https://open.spotify.com/artist/0yaL0dzITk9aOWDeO2D3vW) | [A Morir a los Desiertos](https://open.spotify.com/album/59wWp5gVK7d0YCePs0byNr) | 4:14 |
 | 95 | [OCTUBRE](https://open.spotify.com/track/3prQuWUQBd9nQm1yDfr029) | [LEAX](https://open.spotify.com/artist/4VJ3WkiexwjtitmRbNRsz0) | [OCTUBRE](https://open.spotify.com/album/0mec0okajWAqQ2vtIwRoio) | 4:10 |
 
-Snapshot ID: `AAAAAFpy024ctzW/sb7zOyfbvXe5AjE2`
+Snapshot ID: `AAAAALnbgYpU/i+9L17btl2uaCgmoEjh`

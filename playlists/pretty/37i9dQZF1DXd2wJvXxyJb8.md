@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,145 likes - 63 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,260 likes - 63 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 62 | [The Fate of Ophelia \- Funk](https://open.spotify.com/track/17MvGpfj7w3ZXAYjBP1AlA) | [NovaX](https://open.spotify.com/artist/5WKQq5atrJyaOgZOXDfcVu), [Louffy](https://open.spotify.com/artist/13CLRpzYn8vvea8owycaQd) | [The Fate of Ophelia \(Funk\)](https://open.spotify.com/album/5Qia7PTBjT8i8SA2LMHuW6) | 2:29 |
 | 63 | [Me Apaixonei Nessa Morena](https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Me Apaixonei Nessa Morena](https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU) | 2:51 |
 
-Snapshot ID: `AAAAAIMe1pH2hy3L39FNOIYnDNA95Px2`
+Snapshot ID: `AAAAADHjDm5MlDqKrk02lZXdG1GAw8PM`

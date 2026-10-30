@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 1",
+        "url": "https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273802,
+      "name": "Em V\u1ec1 K\u1ebbo Tr\u1eddi M\u01b0a",
+      "url": "https://open.spotify.com/track/3xxkPR9RknzjZAxhMqHSlp"
+    },
+    {
+      "album": {
         "name": "Kh\u00fac T\u00ecnh X\u01b0a",
         "url": "https://open.spotify.com/album/1wVDUWmmUJaGPe60pX3t9h"
       },
@@ -3562,7 +3580,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 302466,
       "name": "Nh\u00e0 Anh Nh\u00e0 Em",
       "url": "https://open.spotify.com/track/7xsNkxqEmqfmd9cP9OdqSB"
@@ -4630,7 +4648,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 235266,
       "name": "Qua Ng\u00f5 Nh\u00e0 Anh",
       "url": "https://open.spotify.com/track/41t4yWDcIa4vQQ5NIwL7Rk"
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 282721,
       "name": "S\u1ea7u T\u00edm Thi\u1ec7p H\u1ed3ng",
       "url": "https://open.spotify.com/track/6p2VRU6XOQ9caoStaN446h"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 168958,
+  "num_followers": 168986,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHNLXLwVvg8Rmf5iSWWPZKzN9kjv",
+  "snapshot_id": "AAAAAPPikvbjwggcJBorTFSns86zeuSq",
   "tracks": [
     {
       "added_at": "2026-10-01 23:46:58",
@@ -343,26 +343,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "El Sano",
-        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Lex White",
-          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "El Sano",
-      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "Pa Que Escondernos (Remix)",
         "url": "https://open.spotify.com/album/7f0xsZHs2qaZA9C61W4rl7"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 254836,
       "name": "Pa Que Escondernos - Remix",
       "url": "https://open.spotify.com/track/3mX4eNCbBMFOXQuD5AbXsB"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "El Sano",
+        "url": "https://open.spotify.com/album/70vYsvr1Ob0IKzweSNuJpy"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Lex White",
+          "url": "https://open.spotify.com/artist/1RzvhumWtiuw4dJiiuD7Mr"
+        }
+      ],
+      "duration_ms": 199307,
+      "name": "El Sano",
+      "url": "https://open.spotify.com/track/3CsaEEDEFo6uwt7SwSyexu"
     },
     {
       "added_at": "2026-10-01 23:46:58",
@@ -879,34 +879,6 @@
     {
       "added_at": "2026-10-01 23:46:58",
       "album": {
-        "name": "POQUITICO",
-        "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
-      },
-      "artists": [
-        {
-          "name": "Zurdo Mc",
-          "url": "https://open.spotify.com/artist/2WPnRprqCgkxTrErb9xuqN"
-        },
-        {
-          "name": "Payaso x Ley",
-          "url": "https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        },
-        {
-          "name": "Wildey",
-          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "POQUITICO",
-      "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
-    },
-    {
-      "added_at": "2026-10-01 23:46:58",
-      "album": {
         "name": "10 \u00c9xitos Duros",
         "url": "https://open.spotify.com/album/1AQFotaUbgyNHEg7BzgGPo"
       },
@@ -935,6 +907,34 @@
       "duration_ms": 201000,
       "name": "Washypupa",
       "url": "https://open.spotify.com/track/2hjFPnrrbOk13flhIo2LuN"
+    },
+    {
+      "added_at": "2026-10-01 23:46:58",
+      "album": {
+        "name": "POQUITICO",
+        "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
+      },
+      "artists": [
+        {
+          "name": "Zurdo Mc",
+          "url": "https://open.spotify.com/artist/2WPnRprqCgkxTrErb9xuqN"
+        },
+        {
+          "name": "Payaso x Ley",
+          "url": "https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Wildey",
+          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "POQUITICO",
+      "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
     },
     {
       "added_at": "2026-10-01 23:46:58",

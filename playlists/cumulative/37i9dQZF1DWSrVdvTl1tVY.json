@@ -13985,6 +13985,24 @@
     },
     {
       "album": {
+        "name": "Inside Your Mind",
+        "url": "https://open.spotify.com/album/6dI1kaxUDI4ymKkB2mBOwv"
+      },
+      "artists": [
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186971,
+      "name": "Inside Your Mind",
+      "url": "https://open.spotify.com/track/4oxWz5iFpCZZyw8NEd9Guy"
+    },
+    {
+      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/5mqceu3UcobNLY0nJVcMTC"
       },
@@ -14240,7 +14258,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 195000,
       "name": "It's A Bomb",
       "url": "https://open.spotify.com/track/1CBPMauO4oFmhvlw3MY0Kx"
@@ -15540,6 +15558,24 @@
       "duration_ms": 184250,
       "name": "Lemon & Lime",
       "url": "https://open.spotify.com/track/3tJrMqKlgX81AkZnSUG8AO"
+    },
+    {
+      "album": {
+        "name": "Lemon Pepper Wet/I Got It",
+        "url": "https://open.spotify.com/album/22107GGVdE3riRbTMxn5qt"
+      },
+      "artists": [
+        {
+          "name": "Denham Audio",
+          "url": "https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Lemon Pepper Wet",
+      "url": "https://open.spotify.com/track/0zmigDNAsPFgZ8oEb0Xrb6"
     },
     {
       "album": {
@@ -18230,7 +18266,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219534,
       "name": "Mobile Groove",
       "url": "https://open.spotify.com/track/5dy1bdvVpdW62kizAWUACU"
@@ -25756,7 +25792,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 237084,
       "name": "Soul Makossa",
       "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
@@ -26730,7 +26766,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175348,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5rVIjomTZ8KdqC6o5F4qsF"
@@ -26890,6 +26926,24 @@
       "duration_ms": 266173,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/3eQ2o9qHlzsMPdgIzeT63f"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/3E3CpYj4ku2rHBxLqh9eBK"
+      },
+      "artists": [
+        {
+          "name": "Djammin",
+          "url": "https://open.spotify.com/artist/4jilFXy7RGLxKG6C1oju57"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166080,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/1vFiNSavuWFmpB1rCzRYoa"
     },
     {
       "album": {
@@ -27371,6 +27425,32 @@
     },
     {
       "album": {
+        "name": "Tell You Why",
+        "url": "https://open.spotify.com/album/3QA9mQkH5gjHjEe0XKx2cq"
+      },
+      "artists": [
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "VLAD",
+          "url": "https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj"
+        },
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153364,
+      "name": "Tell You Why",
+      "url": "https://open.spotify.com/track/00yg4F2H3joRtA2ptT3fwI"
+    },
+    {
+      "album": {
         "name": "Tempo (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/21ifLyXRj4EuSFjoNQs7ht"
       },
@@ -27664,7 +27744,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 217846,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 33017,
+  "num_followers": 33023,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAB6l0aUBc8FmHPkLXevOEGl",
+  "snapshot_id": "at/pgAAAAACh8k9XlbZ4QYmIyDoQfOW8",
   "tracks": [
     {
       "added_at": null,
@@ -75,30 +75,6 @@
       "duration_ms": 205482,
       "name": "Por Nada Te Cambio",
       "url": "https://open.spotify.com/track/4chVeYSaaPLrvjkgHoK6sT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FERRARI",
-        "url": "https://open.spotify.com/album/4qeJS5efEirQUYY10K5RvE"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 134181,
-      "name": "FERRARI",
-      "url": "https://open.spotify.com/track/4VZdDKX0uNAE3MuKwcqukl"
     },
     {
       "added_at": null,
@@ -246,11 +222,19 @@
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 145595,
-      "name": "Chamba Chamba",
-      "url": "https://open.spotify.com/track/1rZjkFYjU8FnPaki0aJ4vf"
+      "duration_ms": 134181,
+      "name": "FERRARI",
+      "url": "https://open.spotify.com/track/0cDHz3YH3Rb4IlcYc1Jgi7"
     },
     {
       "added_at": null,
@@ -275,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Que Prender",
-        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Hay Que Prender",
-      "url": "https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ME PORTO BONITO",
         "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
       },
@@ -307,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hay Que Prender",
+        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Hay Que Prender",
+      "url": "https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gemeliza",
         "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
       },
@@ -314,15 +298,11 @@
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 188167,
-      "name": "Tu Y Yo",
-      "url": "https://open.spotify.com/track/5YtRSfi24SaElF9LHKGWE8"
+      "duration_ms": 145595,
+      "name": "Chamba Chamba",
+      "url": "https://open.spotify.com/track/1rZjkFYjU8FnPaki0aJ4vf"
     },
     {
       "added_at": null,
@@ -355,6 +335,78 @@
       "duration_ms": 185808,
       "name": "Black Jack",
       "url": "https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 146659,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gemeliza",
+        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 188167,
+      "name": "Tu Y Yo",
+      "url": "https://open.spotify.com/track/5YtRSfi24SaElF9LHKGWE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II (En Vivo)",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 200125,
+      "name": "Pase De Pescado (En Vivo)",
+      "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M3",
+        "url": "https://open.spotify.com/album/1pODbLM3fXZejCgJfwLZ6T"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "M3",
+      "url": "https://open.spotify.com/track/4kRIAI3nKxGmbMycNohxPN"
     },
     {
       "added_at": null,
@@ -395,82 +447,6 @@
       "duration_ms": 148139,
       "name": "Chrome Hearts",
       "url": "https://open.spotify.com/track/54BlqxBGSZriKH09Luwdbe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 146659,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M3",
-        "url": "https://open.spotify.com/album/1pODbLM3fXZejCgJfwLZ6T"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 134570,
-      "name": "M3",
-      "url": "https://open.spotify.com/track/4kRIAI3nKxGmbMycNohxPN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORRIDOS CHAKALOSOS II (En Vivo)",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 200125,
-      "name": "Pase De Pescado (En Vivo)",
-      "url": "https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gemeliza",
-        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 194850,
-      "name": "Palm Springs (feat. Ovy On The Drums)",
-      "url": "https://open.spotify.com/track/0NHwue3JYhODro0rQYwCPd"
     },
     {
       "added_at": null,
@@ -571,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Que Prender",
-        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Jhonnie Walker",
-      "url": "https://open.spotify.com/track/30bz0ig7eM3zzppKa93BPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -599,6 +559,22 @@
       "duration_ms": 135223,
       "name": "JOHNNIE WALKER",
       "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hay Que Prender",
+        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Jhonnie Walker",
+      "url": "https://open.spotify.com/track/30bz0ig7eM3zzppKa93BPT"
     },
     {
       "added_at": null,
@@ -667,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Amor Que Duele",
+      "url": "https://open.spotify.com/track/72YHWAFpp6PTXlHsJ5wocb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Padre Nuestro",
         "url": "https://open.spotify.com/album/6MErFrcJuktzkFqjVZsYD9"
       },
@@ -683,22 +675,6 @@
       "duration_ms": 208213,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/4smyDUpUfEmAWdC4uHvsMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Amor Que Duele",
-      "url": "https://open.spotify.com/track/72YHWAFpp6PTXlHsJ5wocb"
     },
     {
       "added_at": null,
@@ -763,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Nadie Va Llorar",
-        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 195311,
-      "name": "Aqui Nadie Va Llorar",
-      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -791,6 +751,22 @@
       "duration_ms": 169598,
       "name": "POR TU CULPA",
       "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqui Nadie Va Llorar",
+        "url": "https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 195311,
+      "name": "Aqui Nadie Va Llorar",
+      "url": "https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3"
     },
     {
       "added_at": null,
@@ -815,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "130",
+        "url": "https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "130",
+      "url": "https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Cruz",
         "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
       },
@@ -835,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "130",
-        "url": "https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe"
+        "name": "Se Me Quedan Viendo Raro",
+        "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 183637,
-      "name": "130",
-      "url": "https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4"
+      "duration_ms": 197000,
+      "name": "Se Me Quedan Viendo Raro",
+      "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
     },
     {
       "added_at": null,
@@ -871,22 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Me Quedan Viendo Raro",
-        "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Se Me Quedan Viendo Raro",
-      "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
+      "duration_ms": 152981,
+      "name": "Contigo Hasta La Muerte",
+      "url": "https://open.spotify.com/track/76E5MUWqzxtO3YLuTAonlM"
     }
   ],
   "unique_name": "This Is Los Gemelos De Sinaloa",

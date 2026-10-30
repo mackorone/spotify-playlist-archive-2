@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,479 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,487 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 29 | [Thì Quá Khứ](https://open.spotify.com/track/1oZNazcfCI63Z49aSrZsTt) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Thì Quá Khứ](https://open.spotify.com/album/58ifGCU06y7FORQVEurObH) | 4:18 |
 | 30 | [NHƯ NGÀY ĐẦU](https://open.spotify.com/track/2j4HaRXYKVPbpcZIKh3BgZ) | [Anh Trai Vượt Ngàn Chông Gai](https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv), [Thai VG](https://open.spotify.com/artist/60866JeWZ2YP0iOF1obsqE), [Jun Phạm](https://open.spotify.com/artist/5bJcxnt5lkrDyKfPjtSBxP), [JGKiD \(Da LAB\)](https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD), [Huỳnh Lập](https://open.spotify.com/artist/0qLm3SxEV64WhTKTChH9Nb), [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Hồ Đông Quan](https://open.spotify.com/artist/29odnaxmCx4mwOKL4mjEFL) | [CÔNG DIỄN 5 \(Anh Trai Vượt Ngàn Chông Gai 2026\)](https://open.spotify.com/album/2EFRe5EWsKaDivV50cfCzW) | 4:03 |
 
-Snapshot ID: `AAAAAKWDcsODy5DR4rJBRikgI70fJPsF`
+Snapshot ID: `AAAAAISfNUevO1O6fssbmcvmvkQFEhK2`

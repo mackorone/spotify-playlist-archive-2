@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 145185,
       "name": "BEAR",
       "url": "https://open.spotify.com/track/5sO1DBiK8jg0emSCBn8qri"
@@ -5584,7 +5584,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178500,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua"
@@ -12521,6 +12521,24 @@
     },
     {
       "album": {
+        "name": "NEW GUY",
+        "url": "https://open.spotify.com/album/0VjSjbTL1vN0vyTSuA0ND7"
+      },
+      "artists": [
+        {
+          "name": "Asper",
+          "url": "https://open.spotify.com/artist/2AzND8PuroJtDBQ3S2OiJI"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "NEW GUY",
+      "url": "https://open.spotify.com/track/4y537xIzh1eCzOJtcBuOr5"
+    },
+    {
+      "album": {
         "name": "Next Up",
         "url": "https://open.spotify.com/album/7K7u6MSUnadC8QJIWig5rF"
       },
@@ -14200,6 +14218,24 @@
       "duration_ms": 183428,
       "name": "Raw Talent",
       "url": "https://open.spotify.com/track/0dsCsCrnuAhS3SfBhRZw8f"
+    },
+    {
+      "album": {
+        "name": "RAWWW",
+        "url": "https://open.spotify.com/album/494q4LouWhxZGIjr3wFkf1"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "RAWWW",
+      "url": "https://open.spotify.com/track/0LySaNLaiyr0bOEsKGgALN"
     },
     {
       "album": {
@@ -16386,7 +16422,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169799,
       "name": "SPEAK",
       "url": "https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M"
@@ -19118,6 +19154,32 @@
       "duration_ms": 182181,
       "name": "ULTRAMAGNET",
       "url": "https://open.spotify.com/track/5fz7jzEkp9Hxh9kZewWVCU"
+    },
+    {
+      "album": {
+        "name": "ULTRAVIOLET (feat. Shy Tea)",
+        "url": "https://open.spotify.com/album/3qvxKr74FqqKKTLxE2s1WB"
+      },
+      "artists": [
+        {
+          "name": "Acyan",
+          "url": "https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4"
+        },
+        {
+          "name": "eunki",
+          "url": "https://open.spotify.com/artist/62e8Pt6PRl1xRH8O2o0Ppf"
+        },
+        {
+          "name": "shy tea",
+          "url": "https://open.spotify.com/artist/0hxiA4ubuoSCS0jLrwnlVP"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "ULTRAVIOLET (feat. Shy Tea)",
+      "url": "https://open.spotify.com/track/1CRFLyHnlCwn5Jg5wTjZuZ"
     },
     {
       "album": {

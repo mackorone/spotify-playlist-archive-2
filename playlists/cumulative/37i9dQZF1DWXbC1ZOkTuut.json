@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 251162,
       "name": "Aqu\u00ed y Arriba",
       "url": "https://open.spotify.com/track/0wvAwfHWiKHEBsfMFcVcXC"
@@ -3916,6 +3916,28 @@
       "duration_ms": 178344,
       "name": "De Que Manera Te Olvido - En Vivo",
       "url": "https://open.spotify.com/track/5h6y85Pg7SmLvp4MsM4JgV"
+    },
+    {
+      "album": {
+        "name": "De Vuelta Al Redil",
+        "url": "https://open.spotify.com/album/2dExuubVhBWmljztOmUcKl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Reinado",
+          "url": "https://open.spotify.com/artist/3UBqBFSvUZ5l362usGNk0Q"
+        },
+        {
+          "name": "Con Ritmo Music",
+          "url": "https://open.spotify.com/artist/4EVLaDN05KZf6TJXhHoWUi"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202496,
+      "name": "De Vuelta Al Redil",
+      "url": "https://open.spotify.com/track/42G0FA4ITOeCpjS0ghAiRR"
     },
     {
       "album": {
@@ -6630,7 +6652,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 189778,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/6OormEp5Hd5Q1OV8d6PhRO"
@@ -8078,6 +8100,24 @@
       "duration_ms": 178575,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/65KYsmbRY9PgXbM1rpfNMQ"
+    },
+    {
+      "album": {
+        "name": "INTENCI\u00d3N",
+        "url": "https://open.spotify.com/album/7Avt0CAZAeIEx5OysiB5PZ"
+      },
+      "artists": [
+        {
+          "name": "Prop\u00f3sito Con Estilo",
+          "url": "https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "INTENCI\u00d3N",
+      "url": "https://open.spotify.com/track/3Cx0OoGN9xlTmyxgj3xSix"
     },
     {
       "album": {
@@ -10396,6 +10436,24 @@
       "duration_ms": 155891,
       "name": "Mandimbo",
       "url": "https://open.spotify.com/track/4q5nk12DGD09UgHGqmCsee"
+    },
+    {
+      "album": {
+        "name": "Manos Al Cielo",
+        "url": "https://open.spotify.com/album/5KmqgGg59XUEQ5EXRrxtqu"
+      },
+      "artists": [
+        {
+          "name": "Israel Pacheco",
+          "url": "https://open.spotify.com/artist/0CpT6Y3Z1q9CHky4sqNIo6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194032,
+      "name": "Manos Al Cielo",
+      "url": "https://open.spotify.com/track/2akrkShugAJpnMLVFX18dF"
     },
     {
       "album": {
@@ -12755,6 +12813,24 @@
     },
     {
       "album": {
+        "name": "No Me Rajo",
+        "url": "https://open.spotify.com/album/3cDMYoiwJhrQRCUZ7CSkdo"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos",
+          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "No Me Rajo",
+      "url": "https://open.spotify.com/track/4uEg7kSq103N3rkRAPSKT8"
+    },
+    {
+      "album": {
         "name": "Mas Me Rinde La Hielera",
         "url": "https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R"
       },
@@ -13922,7 +13998,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 182817,
       "name": "Pez Sin Agua",
       "url": "https://open.spotify.com/track/7zI0PqA07B5Sq60bdhboS5"
@@ -16902,7 +16978,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 260922,
       "name": "Sonr\u00edele",
       "url": "https://open.spotify.com/track/6LoaX1dAIBzC459JWHiV1b"
@@ -18216,7 +18292,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 256000,
       "name": "Tu Gracia Es Suficiente - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1LDQgT68SDxBVQIjjEDRMS"
@@ -18340,6 +18416,32 @@
       "duration_ms": 151570,
       "name": "TU TU TU",
       "url": "https://open.spotify.com/track/0L5gbpFGU06vqSHacOxgka"
+    },
+    {
+      "album": {
+        "name": "Tukituki-Lulu",
+        "url": "https://open.spotify.com/album/5KiWj4PRIbZERBLFxul6JC"
+      },
+      "artists": [
+        {
+          "name": "Habitazion",
+          "url": "https://open.spotify.com/artist/3f1Es2u7jA9MC0Q4mhQNz7"
+        },
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/4YaByyRJtUaL4dC1ka5hRX"
+        },
+        {
+          "name": "Miguel Vera",
+          "url": "https://open.spotify.com/artist/3aEU0r0K2DwZiQ5sfeC6AV"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205166,
+      "name": "Tukituki-Lulu",
+      "url": "https://open.spotify.com/track/4cqEWGO2kCmnBjS0xAiiMm"
     },
     {
       "album": {
@@ -18880,7 +18982,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 236169,
       "name": "Unidos",
       "url": "https://open.spotify.com/track/278eELypSRDIyGf6B81DrA"
@@ -19752,6 +19854,28 @@
       "duration_ms": 295967,
       "name": "Yo Te Extra\u00f1ar\u00e9",
       "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
+    },
+    {
+      "album": {
+        "name": "10Mo Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/57MFgUhpUfLjFxuhiNgGI5"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos",
+          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
+        },
+        {
+          "name": "Grupo Respaldo",
+          "url": "https://open.spotify.com/artist/4ETVNscBfQBhJaBtnUX93m"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249250,
+      "name": "Yo Tengo una Barquita, para Machacarle la Cabeza al Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/7gbRnE98l4RnZZA2HxHnZh"
     },
     {
       "album": {

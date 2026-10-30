@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/1kZDwzDcETd20Ho6uO9X2U"
+      },
+      "artists": [
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199389,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2hH7ojOvNK2E6VpVsD8ULB"
+    },
+    {
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/6qFTylBHt4F7Yv7TKnwxeF"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Wonjin)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: ADOY)  (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 213609,
       "name": "1+1 = 0 (feat. Jay Som)",
       "url": "https://open.spotify.com/track/5yS7TpHeZg96edy4KwTbKD"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 226901,
       "name": "As is",
       "url": "https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219294,
       "name": "Bird",
       "url": "https://open.spotify.com/track/2pTdkEv8ZdWlNN4xJ5OOZn"
@@ -9960,7 +9960,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 146000,
       "name": "I Can Do Anything 4u",
       "url": "https://open.spotify.com/track/5bqwVI8kbD0eihDggyIpji"
@@ -11166,6 +11166,24 @@
       "duration_ms": 185000,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/2TVS9pryzolWkSwPDp6yRe"
+    },
+    {
+      "album": {
+        "name": "IRIJEORI",
+        "url": "https://open.spotify.com/album/73pNxDixMMWRx4NzYes2Vh"
+      },
+      "artists": [
+        {
+          "name": "gongwon",
+          "url": "https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216256,
+      "name": "IRIJEORI",
+      "url": "https://open.spotify.com/track/2cAfb6rL7NcAm6DxxcOGRB"
     },
     {
       "album": {
@@ -22561,6 +22579,24 @@
     },
     {
       "album": {
+        "name": "Sweet Talk",
+        "url": "https://open.spotify.com/album/4sepkdtqlApKr1ggKZQgMV"
+      },
+      "artists": [
+        {
+          "name": "STUDIO360 GROUP",
+          "url": "https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Traces of Tomorrow",
+      "url": "https://open.spotify.com/track/6H6cDyr4etp1C2aPYD727x"
+    },
+    {
+      "album": {
         "name": "AoB Compilation Album Vol.1 : Mutant",
         "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
       },
@@ -25600,7 +25636,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 171000,
       "name": "You\u2019re my summer",
       "url": "https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY"

@@ -1,13 +1,29 @@
 {
-  "description": "pearl of the week \u2728DJ Suzy\u2728",
-  "num_followers": 170718,
+  "description": "pearl of the week \u2728waterbaby\u2728",
+  "num_followers": 170714,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfoAZET7vA6KkT4osTMu4c+ScyI",
+  "snapshot_id": "AAAAAKaQ90AKdrErftGnp9ymUXB7HWbL",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:00:45",
+      "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 113266,
+      "name": "Creek",
+      "url": "https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv"
+    },
     {
       "added_at": "2026-10-22 22:01:44",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 140616,
       "name": "Pretty Toes",
       "url": "https://open.spotify.com/track/4ATxKuVhO2m7TmvZsGy567"
+    },
+    {
+      "added_at": "2026-10-29 23:00:45",
+      "album": {
+        "name": "Powder / What I\u2019ll Become",
+        "url": "https://open.spotify.com/album/4OneD9e7aZZktGvKPmdosa"
+      },
+      "artists": [
+        {
+          "name": "NATHALIA",
+          "url": "https://open.spotify.com/artist/5NTS78KR2R1X37eRqtuEDE"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "What I'll Become",
+      "url": "https://open.spotify.com/track/0ODx0QdRtujSDPaFZpb4SG"
     },
     {
       "added_at": "2026-10-15 22:00:51",
@@ -101,6 +133,26 @@
       "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
     },
     {
+      "added_at": "2026-10-29 23:00:45",
+      "album": {
+        "name": "Torn - Apart",
+        "url": "https://open.spotify.com/album/0a9jlu0FI2g3T6N0MIQrgX"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Sign From God",
+      "url": "https://open.spotify.com/track/1xE8XCdFmG64QIqTplVLJm"
+    },
+    {
       "added_at": "2026-10-22 22:01:44",
       "album": {
         "name": "Goblin's Head",
@@ -115,6 +167,22 @@
       "duration_ms": 173333,
       "name": "Goblin's Head",
       "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
+    },
+    {
+      "added_at": "2026-10-29 23:00:45",
+      "album": {
+        "name": "If Nobody Knows, Does It Count?",
+        "url": "https://open.spotify.com/album/4X9Xm9PG1p4VWtUSIOF33C"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 186571,
+      "name": "If Nobody Knows, Does It Count?",
+      "url": "https://open.spotify.com/track/7l1ijteM7MuWzv9Be4PRpO"
     },
     {
       "added_at": "2026-10-22 22:01:44",
@@ -159,22 +227,6 @@
       "duration_ms": 243573,
       "name": "Castles In The Air",
       "url": "https://open.spotify.com/track/4eHkvzRG91mnjF1hNycZ4i"
-    },
-    {
-      "added_at": "2026-10-15 22:00:51",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4T88HTOoSPl71GxYd7gqgi"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 235529,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/6twMvsb4PyrBUOkgCYu1OX"
     },
     {
       "added_at": "2026-10-15 22:00:51",
@@ -227,22 +279,6 @@
     {
       "added_at": "2026-10-15 22:00:51",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/7fjdvyrAAPwqDoGEoW8Blr"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 136511,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/1Va3leaBTjd9HUGNbuI97i"
-    },
-    {
-      "added_at": "2026-10-15 22:00:51",
-      "album": {
         "name": "Sometimes I rush",
         "url": "https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B"
       },
@@ -255,6 +291,38 @@
       "duration_ms": 90867,
       "name": "Sometimes I rush",
       "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:51",
+      "album": {
+        "name": "Elastic",
+        "url": "https://open.spotify.com/album/5IuVkBn0X5N9swYnKqRFf8"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 133289,
+      "name": "Elastic",
+      "url": "https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr"
+    },
+    {
+      "added_at": "2026-10-15 22:00:51",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/7fjdvyrAAPwqDoGEoW8Blr"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 136511,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/1Va3leaBTjd9HUGNbuI97i"
     },
     {
       "added_at": "2026-10-15 22:00:51",
@@ -291,22 +359,6 @@
     {
       "added_at": "2026-10-15 22:00:51",
       "album": {
-        "name": "Elastic",
-        "url": "https://open.spotify.com/album/5IuVkBn0X5N9swYnKqRFf8"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 133289,
-      "name": "Elastic",
-      "url": "https://open.spotify.com/track/7xJ7KcJZth0qSyrkodu6Dr"
-    },
-    {
-      "added_at": "2026-10-15 22:00:51",
-      "album": {
         "name": "Greatest swamp hits",
         "url": "https://open.spotify.com/album/34OVcIAlr75Cni7d4nvUKb"
       },
@@ -335,6 +387,22 @@
       "duration_ms": 274618,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR"
+    },
+    {
+      "added_at": "2026-10-15 22:00:51",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4T88HTOoSPl71GxYd7gqgi"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 235529,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6twMvsb4PyrBUOkgCYu1OX"
     },
     {
       "added_at": "2026-10-15 22:00:51",
@@ -599,6 +667,30 @@
       "duration_ms": 321612,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7fjEHrSiTY4OzVI8oumkLi"
+    },
+    {
+      "added_at": "2026-10-29 23:00:45",
+      "album": {
+        "name": "Colombiance",
+        "url": "https://open.spotify.com/album/0YbrLCap3SczxdlpfJk9iO"
+      },
+      "artists": [
+        {
+          "name": "Ari Bald & CJ Scott",
+          "url": "https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG"
+        },
+        {
+          "name": "Ari Bald",
+          "url": "https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup"
+        },
+        {
+          "name": "CJ Scott",
+          "url": "https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl"
+        }
+      ],
+      "duration_ms": 391593,
+      "name": "Tippin' Totems",
+      "url": "https://open.spotify.com/track/3ZiDoL3Ho7lMXtxic0czfK"
     },
     {
       "added_at": "2026-10-15 22:00:51",
@@ -2983,22 +3075,6 @@
     {
       "added_at": "2026-10-15 22:00:51",
       "album": {
-        "name": "Piratebae",
-        "url": "https://open.spotify.com/album/3zvIXXx4TxO7px4sUq3IrA"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Baewatch",
-      "url": "https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T"
-    },
-    {
-      "added_at": "2026-10-15 22:00:51",
-      "album": {
         "name": "Be My Party",
         "url": "https://open.spotify.com/album/3CUEzet9ZFk7E9hMuSBUoN"
       },
@@ -3319,22 +3395,6 @@
     {
       "added_at": "2026-10-15 22:00:51",
       "album": {
-        "name": "can we just forget?",
-        "url": "https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG"
-      },
-      "artists": [
-        {
-          "name": "Baileyrp",
-          "url": "https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz"
-        }
-      ],
-      "duration_ms": 283255,
-      "name": "can we just forget?",
-      "url": "https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye"
-    },
-    {
-      "added_at": "2026-10-15 22:00:51",
-      "album": {
         "name": "Euro Dollar Yen",
         "url": "https://open.spotify.com/album/4q7Gg46v8LBTkKMyMZM1rf"
       },
@@ -3503,26 +3563,6 @@
       "duration_ms": 196156,
       "name": "Who's That Calling?",
       "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
-    },
-    {
-      "added_at": "2026-10-15 22:00:51",
-      "album": {
-        "name": "Night Blooming",
-        "url": "https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7"
-      },
-      "artists": [
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        },
-        {
-          "name": "pbeatgirl",
-          "url": "https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "Night Blooming",
-      "url": "https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi"
     }
   ],
   "unique_name": "Oyster",

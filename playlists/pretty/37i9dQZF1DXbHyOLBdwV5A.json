@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 134528,
+  "num_followers": 134546,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKYREQN4lY+zuOYvyyUf+h8gpfOf",
+  "snapshot_id": "AAAAAD9f4N7H4vlG7s+rhVRTnjqWaHo7",
   "tracks": [
     {
       "added_at": "2026-05-08 03:01:30",
@@ -255,26 +255,22 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
-        "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
+        "name": "Voc\u00ea Me Mudou",
+        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
       },
       "artists": [
         {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
         },
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
         }
       ],
-      "duration_ms": 168411,
-      "name": "Ruja o Le\u00e3o - M\u00cbDNA - Remix",
-      "url": "https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD"
+      "duration_ms": 183682,
+      "name": "Voc\u00ea Me Mudou",
+      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -303,22 +299,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Voc\u00ea Me Mudou",
-        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
+        "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
+        "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
       },
       "artists": [
         {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
         },
         {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 183682,
-      "name": "Voc\u00ea Me Mudou",
-      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
+      "duration_ms": 168411,
+      "name": "Ruja o Le\u00e3o - M\u00cbDNA - Remix",
+      "url": "https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -803,6 +783,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "O Le\u00e3o (Dj Del Mag Remix)",
         "url": "https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 211200,
       "name": "O Le\u00e3o - Dj Del Mag Remix",
       "url": "https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2026-05-08 03:01:30",

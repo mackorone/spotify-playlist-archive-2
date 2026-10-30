@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,807 songs - 9 day 23 hr 23 min
+3,808 songs - 9 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Burdens Down](https://open.spotify.com/track/0vEnFmphA8EoNwZDKlog5T) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:04 | 2024-03-01 | 2024-03-19 |
 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 | 2024-05-03 | 2024-05-18 |
 | [BURN](https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 1:51 | 2024-02-16 | 2024-02-23 |
+| [BURN \(feat\. Ava Max\)](https://open.spotify.com/track/1alX84LuLflUU7n4ow0aSM) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [BURN \(feat\. Ava Max\)](https://open.spotify.com/album/6zNke11RgaMOoQDruAYELb) | 2:56 | 2026-10-23 |  |
 | [Burn for You \- Extended Remix](https://open.spotify.com/track/6ZbVB0IaTWxNndZu2VIgGJ) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Burn for You \(Extended Remix\)](https://open.spotify.com/album/0SMzwGfocvgE2AhwudkhFe) | 6:08 | 2024-05-24 | 2024-06-23 |
 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 | 2024-12-27 | 2025-01-03 |
 | [Burning Down the House \(Metal Version\)](https://open.spotify.com/track/6fSdwqFqUEb6Db0vMf78mC) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Leo Metal, Vol\. 44](https://open.spotify.com/album/6bg7yvrUjIxcyWYI8svytn) | 3:21 | 2023-09-22 | 2023-09-26 |
@@ -889,7 +890,7 @@
 | [Dragonfly](https://open.spotify.com/track/2RKXaYI00vF1YpzRBWPpEd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Like Crying: The Songs of Danny Kirwan](https://open.spotify.com/album/0lSd1hZaG62VvH2XZSmWg6) | 2:45 | 2025-05-16 | 2025-06-14 |
 | [Drama](https://open.spotify.com/track/4MAecdSxsaqoU42m1XpdYH) | [Base Hollow](https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1), [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [LEOPARD](https://open.spotify.com/album/5CrbyV9qg9Lnl2INWAZNvF) | 1:57 | 2026-01-23 | 2026-01-31 |
 | [Drama Queen](https://open.spotify.com/track/5wCrP8GA3lRH3ppITSWaPU) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Drama Queen](https://open.spotify.com/album/3XdUhlpyGPHEGCNuI4InfH) | 2:11 | 2023-06-16 | 2023-07-16 |
-| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-23 |  |
+| [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 | 2026-10-23 | 2026-10-30 |
 | [Dream Drops](https://open.spotify.com/track/5ySdE6NWLnL5SsaDHzHt8B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [At Capolinea \(Remastered\)](https://open.spotify.com/album/0KoYmJEWsOq1kJ6Z6eSQ1r) | 4:26 | 2023-03-17 | 2023-04-16 |
 | [Dream State](https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Dream State](https://open.spotify.com/album/6KYn1PrwI7cV9BLiv6rBBK) | 8:39 | 2024-04-05 | 2024-04-13 |
 | [Dreamer](https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9) | [Elly Cooke](https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe) | [Dreamer](https://open.spotify.com/album/6LOA0Gl0GSJEaHykCpStXH) | 3:26 | 2023-06-16 | 2023-07-16 |

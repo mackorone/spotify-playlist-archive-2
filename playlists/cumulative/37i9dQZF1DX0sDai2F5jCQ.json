@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Utility",
+  "description": "Your shortcut to the best new Hip Hop. Cover:BigXthaPlug",
   "name": "A1",
   "tracks": [
     {
@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7vRrWAQVo694dxrzaXCJAT"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122890,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0ePDhKFen59WuvDXOD6mVf"
+    },
+    {
+      "album": {
         "name": "Bally On",
         "url": "https://open.spotify.com/album/583jyHPwmB25VqyEmKXD5l"
       },
@@ -1988,6 +2006,36 @@
       "duration_ms": 128535,
       "name": "Bally On",
       "url": "https://open.spotify.com/track/3YSeSm39soVKcmdmlrvCEZ"
+    },
+    {
+      "album": {
+        "name": "Balotelli",
+        "url": "https://open.spotify.com/album/5zpM9sQ7GmjkMvu8iugDkk"
+      },
+      "artists": [
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+        },
+        {
+          "name": "163Margs",
+          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        },
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103293,
+      "name": "Balotelli",
+      "url": "https://open.spotify.com/track/2xU4WLz2vh4nLUznAf7Hk5"
     },
     {
       "album": {
@@ -8244,7 +8292,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 141840,
       "name": "Honey N Lemon",
       "url": "https://open.spotify.com/track/5Jl0mPHioA6Vn9DPjVwY7A"
@@ -8482,6 +8530,28 @@
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123466,
+      "name": "I LIKE IT (feat. Loe Shimmy)",
+      "url": "https://open.spotify.com/track/27OOVdqE1aZI6scIxeES0T"
     },
     {
       "album": {
@@ -11820,7 +11890,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 143450,
       "name": "Negative",
       "url": "https://open.spotify.com/track/0RDb7mW6zljLNIzWwPbso9"
@@ -12406,7 +12476,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 168428,
       "name": "Not Many - Ganay Biralunbar",
       "url": "https://open.spotify.com/track/6ytpqi2XfBbtNguP5QsmN5"
@@ -13054,7 +13124,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 203910,
       "name": "Out My Face (My Baby) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/124asPU2FC370O180KQPQi"
@@ -13072,7 +13142,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 119670,
       "name": "Out The Blue",
       "url": "https://open.spotify.com/track/3dQ8MRBpgHLm2fKBkxLykd"
@@ -15604,7 +15674,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 121175,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/5zFEpchBYlRZKehXXez3O6"
@@ -16166,6 +16236,28 @@
       "duration_ms": 161353,
       "name": "SPINNIN",
       "url": "https://open.spotify.com/track/6V6RQJ85Xx7ebMGamKv4X3"
+    },
+    {
+      "album": {
+        "name": "Just Doin Me",
+        "url": "https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Spinnin (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6u82jr3MnmUbG1th452h4u"
     },
     {
       "album": {
@@ -17440,6 +17532,24 @@
       "duration_ms": 172375,
       "name": "There I Go (feat. J. Cole & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp"
+    },
+    {
+      "album": {
+        "name": "Tina Tuesday Freestyles",
+        "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146392,
+      "name": "Thin Ice",
+      "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"
     },
     {
       "album": {

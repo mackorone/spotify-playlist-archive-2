@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9757,
+  "num_followers": 9759,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABp50VzP81owo20V4Nohw4c",
+  "snapshot_id": "at/pgAAAAACS5wOR0nJsvO6F4xOzmXvT",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "booboo2",
         "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 219666,
       "name": "booboo2",
       "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+        "name": "What a Joy",
+        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
       },
       "artists": [
+        {
+          "name": "Ellie Herring",
+          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
+        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+      "duration_ms": 208173,
+      "name": "Swim Me",
+      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Joy",
-        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
       },
       "artists": [
-        {
-          "name": "Ellie Herring",
-          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 208173,
-      "name": "Swim Me",
-      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RAVE:N, The Remixes",
         "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 149982,
       "name": "Enough For Love - Yaeji heart+beat Remix",
       "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+      "duration_ms": 196923,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,

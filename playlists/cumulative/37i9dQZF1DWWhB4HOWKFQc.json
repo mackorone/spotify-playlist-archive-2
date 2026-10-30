@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: rumahsakit",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Rex Orange County",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -3392,6 +3392,24 @@
       "duration_ms": 268959,
       "name": "Bernafaslah Sejenak",
       "url": "https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx"
+    },
+    {
+      "album": {
+        "name": "Bernaung (From \"Setetes Embun Cinta Niyala\")",
+        "url": "https://open.spotify.com/album/753bObZFRMHb4cDlHtpzwz"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Bernaung - From \"Setetes Embun Cinta Niyala\"",
+      "url": "https://open.spotify.com/track/16Q9MOCDYgrgjEHx6Hx2rv"
     },
     {
       "album": {
@@ -10547,6 +10565,24 @@
     },
     {
       "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/6PS6r4GQ2hG1QtOVrKC31X"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/4cbiqQu0CPmSGggAItMrx0"
+    },
+    {
+      "album": {
         "name": "Hanya Lolongan",
         "url": "https://open.spotify.com/album/7nYVMupxePZbCAczopKbWr"
       },
@@ -10956,7 +10992,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186720,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
@@ -11224,6 +11260,24 @@
       "duration_ms": 245647,
       "name": "hey, i'm tired",
       "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
+    },
+    {
+      "album": {
+        "name": "Seperti Seharusnya",
+        "url": "https://open.spotify.com/album/4EneY8crCrt61L7siIXtkS"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322385,
+      "name": "Hidup Untukmu, Mati Tanpamu",
+      "url": "https://open.spotify.com/track/3mEoBjkivqArqpchxTDwJ7"
     },
     {
       "album": {
@@ -15335,6 +15389,28 @@
     },
     {
       "album": {
+        "name": "Laut Kidul",
+        "url": "https://open.spotify.com/album/181XnhD4Dwh0yTPABcBgFV"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311513,
+      "name": "Laut Kidul",
+      "url": "https://open.spotify.com/track/42gAkAF7lKGR1jP4oeE8mO"
+    },
+    {
+      "album": {
         "name": "Kontemplasi",
         "url": "https://open.spotify.com/album/1iNsJN7Q1BovnkrYNMpUnm"
       },
@@ -15602,7 +15678,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 235266,
       "name": "Lihat Dengar Rasakan",
       "url": "https://open.spotify.com/track/7ng9d85C7I3y6Ub3dqZ14N"
@@ -19814,7 +19890,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/1FnbkQ5WqapDIp0GOVufpO"
@@ -21126,7 +21202,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 217626,
       "name": "Pelangi",
       "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
@@ -21342,7 +21418,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 182468,
       "name": "PENYIHIR",
       "url": "https://open.spotify.com/track/6bwnZc3E6u1AMZcw0dRhpd"
@@ -23412,6 +23488,28 @@
       "duration_ms": 214681,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/5EBtIi8j2ARUCwxzB5gc82"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
       "album": {
@@ -25614,6 +25712,24 @@
       "duration_ms": 180822,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "album": {
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254863,
+      "name": "Sisa Rasa",
+      "url": "https://open.spotify.com/track/0R6KCq5TLJB3gi2ragMrXZ"
     },
     {
       "album": {
@@ -28692,7 +28808,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 252093,
       "name": "Terpukau",
       "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"
@@ -30319,6 +30435,24 @@
     },
     {
       "album": {
+        "name": "KODE?",
+        "url": "https://open.spotify.com/album/24AlWEGWxN9Y6NAnXopbpU"
+      },
+      "artists": [
+        {
+          "name": "Fani Rahmansyah",
+          "url": "https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228778,
+      "name": "typeku",
+      "url": "https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa"
+    },
+    {
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
       },
@@ -31802,7 +31936,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"

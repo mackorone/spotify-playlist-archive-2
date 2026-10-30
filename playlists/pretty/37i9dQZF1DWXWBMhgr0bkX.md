@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Bluegirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,576 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,583 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 79 | [Haunt Me](https://open.spotify.com/track/2LDLjL9TEy9HQqznnDaH3M) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Haunt Me](https://open.spotify.com/album/5egF45sAEJvROyvQlomzio) | 4:10 |
 | 80 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
 
-Snapshot ID: `AAAAAEsiLjoRp1dZi36D2zAzfCJfcqUc`
+Snapshot ID: `AAAAAFD33NCjqDJHgJHW/Y2dImo+ibbg`

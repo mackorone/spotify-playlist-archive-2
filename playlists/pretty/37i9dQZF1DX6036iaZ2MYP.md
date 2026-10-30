@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Chella
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,559 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,654 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Longue vie à nous](https://open.spotify.com/track/1IsosHLLJlLuCLsrIIhqfc) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Longue vie à nous](https://open.spotify.com/album/2fjVClEdcw6sFvssKcyinN) | 3:19 |
 | 49 | [Alhaja](https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [It's Yemi Alade](https://open.spotify.com/album/2c3m38ZFnMRkvp0jmJ7DDo) | 2:08 |
 
-Snapshot ID: `AAAAABc5V8DzA/G3ryXbm7b6n+h/yYji`
+Snapshot ID: `AAAAAPCu7l2Hvi017TbAHRZdgIF4Cj4H`

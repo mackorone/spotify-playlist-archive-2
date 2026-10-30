@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:playlist:37i9dQZF1EFNsJgooxLfdP">Victoria Monét</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,610 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,715 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 49 | [BIG MAD](https://open.spotify.com/track/6oMDe3x2Y37PivxOk083lg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BIG MAD](https://open.spotify.com/album/3Gz2fhi2vyQVGhTfyHyjQz) | 2:29 |
 | 50 | [Jesus Christ Supercar](https://open.spotify.com/track/04r5UBEwy0gJTmH4OzWMjS) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Adult DVD](https://open.spotify.com/album/17BEYcycElkLNpRbd85OT7) | 2:42 |
 
-Snapshot ID: `AAAAALmnIXt+8NsV+ygClDwWdirpxQ6j`
+Snapshot ID: `AAAAAMEYndEIqiujRCmgckJD/rZBbsdh`

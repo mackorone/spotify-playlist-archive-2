@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring KETTAMA and Prospa",
+  "description": "House music lives here. United under one roof, featuring Luuk van Dijk",
   "name": "Housewerk",
   "tracks": [
     {
@@ -5840,6 +5840,28 @@
       "duration_ms": 188085,
       "name": "CHICA 305",
       "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
+    },
+    {
+      "album": {
+        "name": "In The Night Again",
+        "url": "https://open.spotify.com/album/4WzFwh3MS7Jcrdf5hwlGcc"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Choice (feat. Kareen Lomax)",
+      "url": "https://open.spotify.com/track/2NP35GAj6usPBqYRV9fA3L"
     },
     {
       "album": {
@@ -23650,7 +23672,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154527,
       "name": "Obsession (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j"
@@ -25518,6 +25540,28 @@
       "duration_ms": 168000,
       "name": "Pressure (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/3qilJf4x402WUjcBJA060n"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/22t4kIkeFXe5tJfrMJo3my"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        },
+        {
+          "name": "Sierra Volt",
+          "url": "https://open.spotify.com/artist/41VHnv4oiwVogATh4zFsOj"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164538,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/3pDUobnmt1ZOQfSd7dbEOq"
     },
     {
       "album": {
@@ -31838,7 +31882,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 217846,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"

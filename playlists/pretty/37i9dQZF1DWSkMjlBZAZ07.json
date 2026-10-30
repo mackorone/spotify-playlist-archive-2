@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1864584,
+  "num_followers": 1864432,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzt6MTuFTW5CO6NZshx6wiSVJf5",
+  "snapshot_id": "AAAAAAEvKk5CUVlKaSBx0S1t3257Ie04",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:12",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "Here Goes Nothing",
+        "url": "https://open.spotify.com/album/59k3cmuaTlZ1Ei1T93zmeA"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "duration_ms": 236474,
+      "name": "Here Goes Nothing",
+      "url": "https://open.spotify.com/track/7vU4qjZlGitheGQBuGYOZY"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "True Sadness",
         "url": "https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 184560,
       "name": "In a Lake",
       "url": "https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "Here Goes Nothing",
-        "url": "https://open.spotify.com/album/59k3cmuaTlZ1Ei1T93zmeA"
-      },
-      "artists": [
-        {
-          "name": "Late Night Thoughts",
-          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
-        }
-      ],
-      "duration_ms": 236474,
-      "name": "Here Goes Nothing",
-      "url": "https://open.spotify.com/track/7vU4qjZlGitheGQBuGYOZY"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "Plant A Forest",
+        "url": "https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 164898,
+      "name": "Plant A Forest",
+      "url": "https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "Plant A Forest",
-        "url": "https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 164898,
-      "name": "Plant A Forest",
-      "url": "https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "All My Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
+      },
+      "artists": [
+        {
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
+        }
+      ],
+      "duration_ms": 224090,
+      "name": "All My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "Easy Street (Deluxe)",
         "url": "https://open.spotify.com/album/3k8p65VJ8hhAoPiNZ14AGR"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 210373,
       "name": "Is Joy Easy",
       "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
-        "name": "All My Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 224090,
-      "name": "All My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Mountain Girl",
-        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 162925,
-      "name": "Mountain Girl",
-      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "I Can See The Future",
         "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 289653,
       "name": "Point of View",
       "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "Mountain Girl",
+        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 162925,
+      "name": "Mountain Girl",
+      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
       "artists": [
         {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Saratoga",
-      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+      "duration_ms": 233333,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Saratoga",
+      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
         "name": "in defense of my own happiness (complete)",
         "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
-      },
-      "artists": [
-        {
-          "name": "Calder Allen",
-          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
+      },
+      "artists": [
+        {
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+        }
+      ],
+      "duration_ms": 298720,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
     },
     {
       "added_at": "2026-10-09 04:02:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-10-09 04:02:12",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
-    },
-    {
-      "added_at": "2026-10-09 04:02:12",
-      "album": {
         "name": "Love Love Love",
         "url": "https://open.spotify.com/album/09kk6sdd81BYJY5YFzV2uJ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 192826,
       "name": "Love Love Love",
       "url": "https://open.spotify.com/track/3e5Ee5GrNzSnCt2laIDm3S"
+    },
+    {
+      "added_at": "2026-10-09 04:02:12",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
     },
     {
       "added_at": "2026-10-09 04:02:12",

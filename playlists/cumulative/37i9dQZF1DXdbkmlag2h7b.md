@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-475 songs - 1 day 0 hr 36 min
+476 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Awakening](https://open.spotify.com/track/5MVVGFVHWhjGpg2ZKPxWHh) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Awakening](https://open.spotify.com/album/6G9t6knI1NlkFAYsNzGYLH) | 3:11 | 2021-12-09 | 2025-11-28 |
 | [Awakening Light](https://open.spotify.com/track/4FvHuFyCBDcQJEN50J5mhA) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Awakening Light](https://open.spotify.com/album/1CDrPH2ZlzCLhqPQJ7NKX9) | 2:24 | 2025-09-24 | 2026-04-16 |
 | [Azyr](https://open.spotify.com/track/2Qagd6kJEbLDdsDzvmRCav) | [Aethriel](https://open.spotify.com/artist/27ffx5RxFOqHGJ1KyYMAYA) | [Azyr](https://open.spotify.com/album/1SbGyO6OV8XvWdLVUjwx6M) | 3:15 | 2025-09-24 | 2026-04-16 |
+| [Background Radiation](https://open.spotify.com/track/2WHsmyXzyDas7bHiqap0sB) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [While The Flood Rages](https://open.spotify.com/album/5sZ0QkaVO3XjE41k8EuPc0) | 3:40 | 2026-10-28 |  |
 | [Backwaters](https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:27 | 2021-12-09 | 2025-01-29 |
 | [Balanced Mind](https://open.spotify.com/track/0QPVP4mQ8DVJ3EMEPfRbxw) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Balanced Mind](https://open.spotify.com/album/3MYO8c6J2mSgq8HzpbzVOn) | 2:41 | 2025-09-24 |  |
 | [Becker's](https://open.spotify.com/track/4HPiuEOyFCBZzp5mugj0o7) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Memory Canvas](https://open.spotify.com/album/5k803G97CKyWSiClt8UMnF) | 3:35 | 2022-11-22 | 2026-01-28 |

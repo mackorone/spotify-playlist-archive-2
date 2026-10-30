@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36727,
+  "num_followers": 36756,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAhjtb6fMn15SXRh/MkjJzx",
+  "snapshot_id": "at/pgAAAAAB9XSuXkC6Id2EjWSdGR0nK",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood Gold",
         "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 183653,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/1fOzume25bwRCzghPIWm2i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Sound City",
         "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 269533,
       "name": "'Til the End - Acoustic",
       "url": "https://open.spotify.com/track/5XuOK4ZuhRnJLg9QtHlpKm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/1fOzume25bwRCzghPIWm2i"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Galveston Bay",
-      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Sound City",
         "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 183106,
       "name": "One Less Mouth - Acoustic",
       "url": "https://open.spotify.com/track/40ZITrxVJNQASpJBh62j7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Galveston Bay",
+      "url": "https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Sound City",
         "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163080,
       "name": "Things Are Looking Up - Acoustic",
       "url": "https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+        "name": "Live From Sound City",
+        "url": "https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+      "duration_ms": 300466,
+      "name": "Kill Me Now - Acoustic",
+      "url": "https://open.spotify.com/track/1GHynpEMqAxdg9lTkloc2C"
     }
   ],
   "unique_name": "This Is Parker McCollum",

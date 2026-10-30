@@ -631,6 +631,40 @@
     },
     {
       "album": {
+        "name": "Doom and the Dooms",
+        "url": "https://open.spotify.com/album/0qMtdEQAFu7eLqJ4ZkMsip"
+      },
+      "artists": [
+        {
+          "name": "Oliver Leith",
+          "url": "https://open.spotify.com/artist/3oYfG3258SNid91d6wwGKJ"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        },
+        {
+          "name": "12 Ensemble",
+          "url": "https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj"
+        },
+        {
+          "name": "GBSR Duo",
+          "url": "https://open.spotify.com/artist/5t9dwjh5i2wjq0nZ5923jD"
+        },
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295333,
+      "name": "My Horse Named Dream",
+      "url": "https://open.spotify.com/track/3BJK1smu2ZKBLVNxgSVmkC"
+    },
+    {
+      "album": {
         "name": "Is This Desire?",
         "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
       },
@@ -878,7 +912,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 143573,
       "name": "The Community Of Hope",
       "url": "https://open.spotify.com/track/1rHlc3clkZmCryFhGoRRXB"

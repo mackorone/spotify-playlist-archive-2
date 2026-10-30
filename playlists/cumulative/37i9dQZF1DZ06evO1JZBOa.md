@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-185 songs - 14 hr 15 min
+186 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,12 +128,13 @@
 | [Nonto Sangoma](https://open.spotify.com/track/6kT24c1WVCsBxX0Jvy7Ma9) | [Moreira Chonguiça](https://open.spotify.com/artist/39IHtnX5EC2ge39XUftUle), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M & M](https://open.spotify.com/album/1NHrBasHmhaEvemj74DHPm) | 6:26 | 2022-10-28 | 2022-11-08 |
 | [Nostalgie](https://open.spotify.com/track/3Kn1HI0X47ydVVSHgPBoA7) | [Franck Chaleur](https://open.spotify.com/artist/3IVxFMLPR7oePD3DHpYvbp), [Moni Bile](https://open.spotify.com/artist/2uMATivHXNKTu89qctJZdg), [GUY LOBE](https://open.spotify.com/artist/5KkKfOmZ3Ku3jmbi1Vp7AS), [Ben Decca](https://open.spotify.com/artist/0167ut3NFs3TI8EGscI3aZ), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Sergeo Polo](https://open.spotify.com/artist/3d14xPEq0eQJDwxUKuZw0I) | [Le testament du makossa, Vol\. 8](https://open.spotify.com/album/0XUeMGRZi1SsVxmakzESw7) | 15:52 | 2022-10-18 | 2026-04-04 |
 | [Oa Na Mba](https://open.spotify.com/track/771KRxRmo7AEGH6ejUvV5h) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Collection légende](https://open.spotify.com/album/6rMBPfhfeKgauYnBQMCYso) | 3:47 | 2023-09-25 | 2023-10-02 |
+| [Oh Koh](https://open.spotify.com/track/7qBrCQwXefA3PKbZrvEkVf) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [M Boa Su](https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP) | 6:37 | 2026-10-30 |  |
 | [On Na Mba](https://open.spotify.com/track/1sJArh5M6tTRQgUCSXrcuI) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 3:48 | 2022-03-07 | 2022-03-31 |
 | [Ongele Mba](https://open.spotify.com/track/5W2DvkilFnTrmPZc5k36NN) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/7bfvTwvAo7ILbQgpmuH8Li) | 5:25 | 2021-12-28 | 2022-10-06 |
 | [Oriental Sunset](https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:47 | 2023-01-25 |  |
 | [Out of Score](https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:47 | 2022-07-04 | 2026-08-28 |
 | [Over the rainbow](https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:51 | 2022-06-30 | 2025-03-18 |
-| [Paris je t'aime d'amour](https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Paris je t'aime d'amour](https://open.spotify.com/album/63ecpqpAUf4EMpHn6DFlLQ) | 4:51 | 2021-12-28 |  |
+| [Paris je t'aime d'amour](https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Paris je t'aime d'amour](https://open.spotify.com/album/63ecpqpAUf4EMpHn6DFlLQ) | 4:51 | 2021-12-28 | 2026-10-30 |
 | [Percussion Storm](https://open.spotify.com/track/2eTftYReNs4X7x40zMUEDP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 1:54 | 2023-09-12 | 2025-02-07 |
 | [Perfidia](https://open.spotify.com/track/7AfMFFiBBucmgydjQIaO8R) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Balade en Saxo](https://open.spotify.com/album/4DJqtm93qTlJk2jEynoocr) | 3:17 | 2026-10-11 | 2026-10-13 |
 | [Petite fleur](https://open.spotify.com/track/0C27zKepJCdCS3FBhJTVHh) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango plays Sidney Bechet](https://open.spotify.com/album/1PqFghSbTgaiZsGHxdM2cI) | 3:42 | 2023-12-24 | 2026-01-23 |

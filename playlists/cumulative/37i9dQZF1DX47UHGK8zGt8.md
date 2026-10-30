@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-350 songs - 19 hr 37 min
+351 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 | 2023-04-16 |
 | [BOSSA \(feat\. Péricles\)](https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 3:25 | 2024-05-10 | 2024-07-12 |
 | [Bossinha](https://open.spotify.com/track/1gSKh4JqZ1odoPLK4d8SE4) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Bossinha](https://open.spotify.com/album/3Ejxw6TpFdEbiaVZrs0RK9) | 2:42 | 2022-03-11 | 2026-05-23 |
+| [Cada Lágrima](https://open.spotify.com/track/0TuWcYJZGXeujugmIJTvEm) | [Tom Ribeira](https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY) | [Cada Lágrima](https://open.spotify.com/album/7rT5RpfcPIKMps7iOOpJX3) | 3:38 | 2026-10-23 |  |
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [Café](https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Café](https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL) | 3:38 | 2023-11-10 |  |
 | [Cais](https://open.spotify.com/track/3d4Ve0MGsj6nJuu4gFgID1) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Cais](https://open.spotify.com/album/26Whcw57vCgEvwgUiWjt2q) | 3:07 | 2022-02-18 | 2022-07-20 |
@@ -117,7 +118,7 @@
 | [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 | 2024-11-29 |  |
 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 | 2022-02-18 |  |
 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 | 2022-04-01 | 2024-11-13 |
-| [Delírio do Calor \- Ao Vivo](https://open.spotify.com/track/60xXR5egjNbrlcpsRTzJU8) | [Pitiko](https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn) | [Delírio do Calor \(Ao Vivo\)](https://open.spotify.com/album/7Ci2JtEoi49lUOSwsq3Vpk) | 2:30 | 2026-08-21 |  |
+| [Delírio do Calor \- Ao Vivo](https://open.spotify.com/track/60xXR5egjNbrlcpsRTzJU8) | [Pitiko](https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn) | [Delírio do Calor \(Ao Vivo\)](https://open.spotify.com/album/7Ci2JtEoi49lUOSwsq3Vpk) | 2:30 | 2026-08-21 | 2026-10-30 |
 | [Dendê](https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [Tiné](https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz) | [Dendê](https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH) | 4:46 | 2023-10-23 | 2023-10-25 |
 | [Denso e Danço](https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:37 | 2026-04-24 |  |
 | [Depois](https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [O Que Você Quer Saber de Verdade](https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg) | 2:53 | 2022-06-24 | 2024-04-19 |

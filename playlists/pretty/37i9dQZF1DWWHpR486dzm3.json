@@ -1,13 +1,29 @@
 {
   "description": "Suomi-indien tuoreimpia helmi\u00e4. ",
-  "num_followers": 15925,
+  "num_followers": 15927,
   "original_name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFx6k+efncOW3X/toFVlQppxeWaE",
+  "snapshot_id": "AAAAAFhVjeaFIKIAYq54b/Kp18AFrfQ3",
   "tracks": [
+    {
+      "added_at": "2026-10-29 22:00:20",
+      "album": {
+        "name": "#YOLO (DELUXE)",
+        "url": "https://open.spotify.com/album/5qGkMcngv1e35X1leRj0Ht"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "duration_ms": 187900,
+      "name": "TOP TIER",
+      "url": "https://open.spotify.com/track/6sEMr6wCHGQcXdEuy2O8yQ"
+    },
     {
       "added_at": "2026-10-15 21:00:26",
       "album": {
@@ -23,6 +39,46 @@
       "duration_ms": 164642,
       "name": "Isosisko",
       "url": "https://open.spotify.com/track/1vRDoHBJzlpd9Vxviyb1Le"
+    },
+    {
+      "added_at": "2026-10-29 22:00:20",
+      "album": {
+        "name": "starseed",
+        "url": "https://open.spotify.com/album/0VUd4XVqLzcLlp6rez60Eb"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        },
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "oikees",
+      "url": "https://open.spotify.com/track/5PafEFpYfVg7SUNc8T8Bdq"
+    },
+    {
+      "added_at": "2026-10-29 22:00:20",
+      "album": {
+        "name": "vuoristorataa",
+        "url": "https://open.spotify.com/album/3Cnqs7JgTTOGP81j9QY6Co"
+      },
+      "artists": [
+        {
+          "name": "meik",
+          "url": "https://open.spotify.com/artist/3lWLx3XSIXTsTcWH30Xs95"
+        },
+        {
+          "name": "NCO",
+          "url": "https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "vuoristorataa",
+      "url": "https://open.spotify.com/track/32awoLFguOXRq1iv5U3hId"
     },
     {
       "added_at": "2026-10-15 21:00:26",
@@ -47,6 +103,42 @@
     {
       "added_at": "2026-10-15 21:00:26",
       "album": {
+        "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+        "url": "https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr"
+      },
+      "artists": [
+        {
+          "name": "viola",
+          "url": "https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
+      "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
+    },
+    {
+      "added_at": "2026-10-29 22:00:20",
+      "album": {
+        "name": "Visions Of Future",
+        "url": "https://open.spotify.com/album/6osC8Md0LLuUkuthy9yRQ9"
+      },
+      "artists": [
+        {
+          "name": "STINAKO",
+          "url": "https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s"
+        },
+        {
+          "name": "Njet Njet 9",
+          "url": "https://open.spotify.com/artist/7rNnHAMppjTUfTcoIQTJEQ"
+        }
+      ],
+      "duration_ms": 218524,
+      "name": "Keep My Dreams",
+      "url": "https://open.spotify.com/track/4VxKLlomW9SxcOzZ0KftgL"
+    },
+    {
+      "added_at": "2026-10-15 21:00:26",
+      "album": {
         "name": "Musta enkeli",
         "url": "https://open.spotify.com/album/30vYGPajd1RT9qBKfZackg"
       },
@@ -63,22 +155,6 @@
     {
       "added_at": "2026-10-15 21:00:26",
       "album": {
-        "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
-        "url": "https://open.spotify.com/album/1GIQL59f1EekF4EGiE5SUr"
-      },
-      "artists": [
-        {
-          "name": "viola",
-          "url": "https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "etk\u00f6 s\u00e4 n\u00e4\u00e4?",
-      "url": "https://open.spotify.com/track/0NGBbbo7fPs6tYvMy2uTGS"
-    },
-    {
-      "added_at": "2026-10-15 21:00:26",
-      "album": {
         "name": "Toiveuusintoja",
         "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
       },
@@ -91,6 +167,22 @@
       "duration_ms": 172344,
       "name": "Viimeinen kausi",
       "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
+    },
+    {
+      "added_at": "2026-10-29 22:00:20",
+      "album": {
+        "name": "giljotiini/pahamainen",
+        "url": "https://open.spotify.com/album/3jvAIOMVLXqhhgEhbFmigO"
+      },
+      "artists": [
+        {
+          "name": "whereismike",
+          "url": "https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "giljotiini",
+      "url": "https://open.spotify.com/track/09iitkUO6iIbZ0YTtA3u7L"
     },
     {
       "added_at": "2026-10-15 21:00:26",
@@ -1183,22 +1275,6 @@
     {
       "added_at": "2026-10-15 21:00:26",
       "album": {
-        "name": "Muutos",
-        "url": "https://open.spotify.com/album/2FqxRvkfDKLySk7OyROpJZ"
-      },
-      "artists": [
-        {
-          "name": "RUUSULLA",
-          "url": "https://open.spotify.com/artist/5xqRCbT1xi7QDYRPuR8vYt"
-        }
-      ],
-      "duration_ms": 181603,
-      "name": "Muutos",
-      "url": "https://open.spotify.com/track/6fkPDChgcdqRQI9rKvnFN3"
-    },
-    {
-      "added_at": "2026-10-15 21:00:26",
-      "album": {
         "name": "Yks ja yks",
         "url": "https://open.spotify.com/album/1diTF3GKfc7K5JomEzcbdy"
       },
@@ -1323,22 +1399,6 @@
       "duration_ms": 194000,
       "name": "The Call",
       "url": "https://open.spotify.com/track/4rEEj52J98cvZGY1tnKL9T"
-    },
-    {
-      "added_at": "2026-10-15 21:00:26",
-      "album": {
-        "name": "Economy",
-        "url": "https://open.spotify.com/album/1DdEqe9RgM3ftZrdRDABqZ"
-      },
-      "artists": [
-        {
-          "name": "Sin Cos Tan",
-          "url": "https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ"
-        }
-      ],
-      "duration_ms": 233585,
-      "name": "Economy",
-      "url": "https://open.spotify.com/track/1CiIqoiQPZ9dLLRQ23dwes"
     },
     {
       "added_at": "2026-10-15 21:00:26",
@@ -1471,38 +1531,6 @@
     {
       "added_at": "2026-10-15 21:00:26",
       "album": {
-        "name": "Until it Sleeps",
-        "url": "https://open.spotify.com/album/3ljzAtB9WNeFFwbaKTo9Ip"
-      },
-      "artists": [
-        {
-          "name": "Vauxdeville",
-          "url": "https://open.spotify.com/artist/3Nod7v4IbsfLrx99iPZfOp"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Until it Sleeps",
-      "url": "https://open.spotify.com/track/4d6uxhao07qO1XJD42bOSg"
-    },
-    {
-      "added_at": "2026-10-15 21:00:26",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/4kzIspUEy5FsEdT9ElD7gr"
-      },
-      "artists": [
-        {
-          "name": "Samuel Shipway",
-          "url": "https://open.spotify.com/artist/2dgvSwqsBBsIGxZjR3Qnn3"
-        }
-      ],
-      "duration_ms": 183611,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/2I5Ne7pq4adv8mLv6zye1U"
-    },
-    {
-      "added_at": "2026-10-15 21:00:26",
-      "album": {
         "name": "Sweetheart (feat. Topi Saha)",
         "url": "https://open.spotify.com/album/3cBuBd8Csq8AMb0m66SS9i"
       },
@@ -1619,22 +1647,6 @@
       "duration_ms": 238826,
       "name": "Ent\u00e4 jos en p\u00e4rj\u00e4\u00e4k\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar"
-    },
-    {
-      "added_at": "2026-10-15 21:00:26",
-      "album": {
-        "name": "Jossain toisaalla",
-        "url": "https://open.spotify.com/album/1v6Pfj7McUcuQFZkhQnPUa"
-      },
-      "artists": [
-        {
-          "name": "Varjokoodi",
-          "url": "https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv"
-        }
-      ],
-      "duration_ms": 186901,
-      "name": "Jossain toisaalla",
-      "url": "https://open.spotify.com/track/53YPzF6uFbWBYqbzVmdKJC"
     },
     {
       "added_at": "2026-10-15 21:00:26",

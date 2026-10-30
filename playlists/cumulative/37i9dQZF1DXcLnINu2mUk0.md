@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão, Archie
 
-941 songs - 2 day 1 hr 38 min
+942 songs - 2 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Boca Boca](https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Edson Mausse](https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw) | [Boca Boca](https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg) | 3:16 | 2024-06-27 | 2024-09-25 |
 | [Boleia](https://open.spotify.com/track/0wWEB45IdTC3g5q8vyfndR) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Boleia](https://open.spotify.com/album/2ssrcx3QOJafrZfE45cTfC) | 2:43 | 2025-06-13 | 2025-08-22 |
 | [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 | 2024-09-27 |
+| [bom fingidor](https://open.spotify.com/track/5MtIN0uvqo0eofqxtKTT5Q) | [cristo](https://open.spotify.com/artist/3tH1vHtEt3cY1RB38z9uGd) | [ouro na fenda](https://open.spotify.com/album/6D3xhparAOF9w36MUZb61O) | 2:43 | 2026-10-22 |  |
 | [Bon Vivan](https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bon Vivan](https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p) | 2:17 | 2026-04-02 |  |
 | [Bonnie & Claide](https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD) | [Mufvsza](https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y) | [Bonnie & Claide](https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9) | 2:56 | 2024-02-23 | 2024-03-15 |
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 | 2024-03-08 |
@@ -513,7 +514,7 @@
 | [Melodia](https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Melodia](https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P) | 2:55 | 2024-11-08 | 2025-03-27 |
 | [Menino da Mamã](https://open.spotify.com/track/12giMqnkKs2qruB6IVqshu) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/5lOZhbXTGbap6fbeqJhpDz) | 2:40 | 2025-03-21 | 2025-09-24 |
 | [Menino da Mamã](https://open.spotify.com/track/2xq85gu6lkuEa70LKm6NmX) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/4LS0OcPeBK2gJLneQv15l8) | 2:40 | 2026-05-14 | 2026-06-02 |
-| [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 | 2025-10-09 | 2026-03-14 |
+| [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 | 2025-10-09 |  |
 | [Mereces](https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK) | [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Mereces](https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw) | 3:18 | 2023-03-24 | 2023-04-14 |
 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 | 2023-06-22 | 2023-07-28 |
 | [Meu Tipo](https://open.spotify.com/track/2dRQYj6jjEqIgJBtUFE3bY) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Meu Tipo](https://open.spotify.com/album/39sbMlocyFsWvKbW33AsDc) | 3:24 | 2023-03-24 | 2023-04-10 |
@@ -661,7 +662,7 @@
 | [Perco\-me em Ti 2](https://open.spotify.com/track/0Zqgoi1rqZSeQQrVdI286S) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Perco\-me em Ti 2](https://open.spotify.com/album/5fB4mO73AQoAP4dIw1RNJq) | 3:06 | 2024-09-19 | 2024-09-21 |
 | [Perdidos num ride](https://open.spotify.com/track/7Bf3UJA5Dsg4egyw4VgVG2) | [Mellow.](https://open.spotify.com/artist/36NFsSn6M5LKMgg6spitOU) | [Perdidos num ride](https://open.spotify.com/album/0b8fBRFdog2EDrlKOpbeUi) | 3:27 | 2023-09-07 | 2023-09-15 |
 | [Perfume \- Ao Vivo](https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Perfume \(Ao Vivo\)](https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A) | 2:54 | 2024-10-03 |  |
-| [Perigo](https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Perigo](https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH) | 3:19 | 2026-04-02 |  |
+| [Perigo](https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Perigo](https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH) | 3:19 | 2026-04-02 | 2026-10-30 |
 | [Perto](https://open.spotify.com/track/5ZUmKYx06j9nfAFrQzLh7h) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4) | [Perto](https://open.spotify.com/album/1kBsaFJ5AdVxhw4riTq4C0) | 3:15 | 2026-02-13 | 2026-02-27 |
 | [PESO DA COROA](https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi) | [Don Kapa](https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR), [Dui MC](https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw) | [PESO DA COROA](https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7) | 2:38 | 2023-12-22 | 2024-01-13 |
 | [PESSOAS MUDAM](https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Raptorxy](https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [PESSOAS MUDAM](https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3) | 2:27 | 2024-04-18 | 2024-06-01 |

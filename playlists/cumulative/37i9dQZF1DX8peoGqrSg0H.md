@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: DICEBLUE
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: TACE
 
-1,011 songs - 2 day 11 hr 11 min
+1,013 songs - 2 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Breaking Heart Station \(สถานีอกหัก\)](https://open.spotify.com/track/4L0gbJHkKpGOlHousUBEDo) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [Breaking Heart Station \(สถานีอกหัก\)](https://open.spotify.com/album/6xg9H09J4PIKekePAdKgvd) | 3:48 | 2025-09-11 | 2025-09-26 |
 | [Burning Snow](https://open.spotify.com/track/2NS1rH1v9yTNVij2qoebQn) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [Burning Snow](https://open.spotify.com/album/70hIb1RNgIpEP42rkDrZCR) | 3:36 | 2026-10-02 | 2026-10-16 |
 | [Butterflies](https://open.spotify.com/track/06BpRg0JXjnUmjtOZjZT3U) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Butterflies](https://open.spotify.com/album/2lmihlrOT7fNGU0fDQsxmE) | 3:32 | 2026-09-10 | 2026-09-25 |
-| [butterfly effect \(บินบิน\)](https://open.spotify.com/track/6HMIWHvtWOFU7TwyrLTCvL) | [butterfliiii](https://open.spotify.com/artist/1bcnkGtaZZtiwwRYtXceZ9) | [butterfly effect \(บินบิน\)](https://open.spotify.com/album/5f1UdTC0XJEmiUmpQRQBJO) | 2:37 | 2026-10-22 |  |
+| [butterfly effect \(บินบิน\)](https://open.spotify.com/track/6HMIWHvtWOFU7TwyrLTCvL) | [butterfliiii](https://open.spotify.com/artist/1bcnkGtaZZtiwwRYtXceZ9) | [butterfly effect \(บินบิน\)](https://open.spotify.com/album/5f1UdTC0XJEmiUmpQRQBJO) | 2:37 | 2026-10-22 | 2026-10-30 |
 | [Bye](https://open.spotify.com/track/1dRGIAZOqJsaFgYpIMD1Hn) | [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F) | [Bye](https://open.spotify.com/album/0ivQgbDxfrPHOhj3RyqBD7) | 3:22 | 2026-09-10 | 2026-10-03 |
 | [CALL CENTER](https://open.spotify.com/track/2xo7Ch7kPAGMjKVm5aHuOw) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [CALL CENTER](https://open.spotify.com/album/5LGrEM15OQ0CbYY8506xuO) | 3:09 | 2023-10-05 | 2023-10-20 |
 | [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 | 2023-08-04 | 2023-08-19 |
@@ -171,7 +171,7 @@
 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 | 2024-09-12 | 2025-03-02 |
 | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/track/6PBIcQaSWsv3EBExPSk9H3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Life Boy \(พูดไปก็ไลฟ์บอย\)](https://open.spotify.com/album/5jteqptiESbFUa4kEPwiqK) | 3:20 | 2023-05-04 | 2024-07-27 |
 | [Light it up](https://open.spotify.com/track/5a3ahIUsesEbEpgglAG3Rz) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Light it up](https://open.spotify.com/album/2QwevYKKWJkQVqJ024I7or) | 2:50 | 2024-04-11 | 2024-04-26 |
-| [Like This](https://open.spotify.com/track/0rhRsXXkCfneqszIx9bLTj) | [Kiismet](https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ) | [Like This](https://open.spotify.com/album/0wLjOtLGxngWtCQfKUsR2C) | 3:12 | 2026-10-15 |  |
+| [Like This](https://open.spotify.com/track/0rhRsXXkCfneqszIx9bLTj) | [Kiismet](https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ) | [Like This](https://open.spotify.com/album/0wLjOtLGxngWtCQfKUsR2C) | 3:12 | 2026-10-15 | 2026-10-30 |
 | [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-12 | 2025-06-03 |
 | [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 | 2024-06-14 |
 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 | 2025-04-24 |  |
@@ -283,6 +283,7 @@
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 | 2025-03-13 |
 | [Tell Me Now \- Prod.by JAP The Richman Toy](https://open.spotify.com/track/1Bdg2Nu1T1DCTe8xmZNOcK) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [Tell Me Now \(Prod.by JAP The Richman Toy\)](https://open.spotify.com/album/1rC1VmprqZ7hvQA77toRiK) | 3:45 | 2026-05-07 | 2026-05-29 |
 | [Time Flies](https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Time Flies](https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX) | 4:01 | 2025-09-18 |  |
+| [Tippy](https://open.spotify.com/track/47IHdImbWol8u0WpVUgccT) | [TACE](https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5) | [Tippy](https://open.spotify.com/album/3PVcOMkCmZOnTKPTGJYN6T) | 2:58 | 2026-10-29 |  |
 | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/track/4XpxNZcQdqRk6MC6JtG1US) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/album/4LQh1EYtYbml9sNKr7lq4M) | 3:06 | 2025-09-11 | 2025-11-21 |
 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 | 2026-08-06 | 2026-08-28 |
 | [TOUCH](https://open.spotify.com/track/2w3yu5eVe9VdMwyMCfQSrl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [TOUCH](https://open.spotify.com/album/2BsXooxF3qdP8wiMlUqFae) | 3:08 | 2025-12-11 | 2026-02-13 |
@@ -541,6 +542,7 @@
 | [ทานโทษ \(ไม่ใช่เพื่อนเล่น\) \(Bored Game\)](https://open.spotify.com/track/2ZtLeaMjTeMitKA4ppxRax) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ทานโทษ \(ไม่ใช่เพื่อนเล่น\) \(Bored Game\) \- Single](https://open.spotify.com/album/2biFmVDIOGBXvKYDsmUEA9) | 3:57 | 2024-12-12 | 2024-12-27 |
 | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2023-05-26 | 2023-06-02 |
 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 | 2025-04-24 |  |
+| [ที่ชอบที่ชอบ \(Grief Eaters\)](https://open.spotify.com/track/62VsUDl6ZUzR8STxeeoXzB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ที่ชอบที่ชอบ \(Grief Eaters\)](https://open.spotify.com/album/6Xn7mE2Zfgs9Rj8VZl3glo) | 3:44 | 2026-10-29 |  |
 | [ที่ปรึกษา](https://open.spotify.com/track/3vJ6KgtaCKcfsLtQT6LoQ4) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ที่ปรึกษา](https://open.spotify.com/album/7Luok1GvB5cGOD4cQicI1D) | 3:31 | 2026-09-24 |  |
 | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 | 2024-11-07 | 2025-11-07 |
 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Zee Pruk](https://open.spotify.com/artist/57i3NWWeEZc5dtW2eqoYan) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 | 2022-06-16 | 2022-07-08 |

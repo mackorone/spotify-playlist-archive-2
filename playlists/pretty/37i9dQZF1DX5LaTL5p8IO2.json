@@ -1,12 +1,12 @@
 {
   "description": "Anime songs for a good-vibes drive. \u30a2\u30cb\u30bd\u30f3\u3067\u3054\u304d\u3052\u3093\u306a\u30c9\u30e9\u30a4\u30d6\u30bf\u30a4\u30e0\u3092\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 69,
+  "num_followers": 86,
   "original_name": "Anime Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGDHfpujj73/caax+eIjyG3DwcPl",
+  "snapshot_id": "AAAAAFPVcz4EKI6NnS47h5slkdY7sRCI",
   "tracks": [
     {
       "added_at": "2026-10-19 15:00:35",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
+        "name": "\u30aa\u30ce\u30ac\u30df",
+        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
+          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
+        }
+      ],
+      "duration_ms": 230875,
+      "name": "\u30aa\u30ce\u30ac\u30df",
+      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
         "name": "\u6ab8\u6aac",
         "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
       },
@@ -839,18 +855,18 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "\u30aa\u30ce\u30ac\u30df",
-        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
+        "name": "\u87ba\u65cb - RASEN",
+        "url": "https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3"
       },
       "artists": [
         {
-          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
-          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
         }
       ],
-      "duration_ms": 230875,
-      "name": "\u30aa\u30ce\u30ac\u30df",
-      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
+      "duration_ms": 190421,
+      "name": "\u87ba\u65cb - RASEN",
+      "url": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -867,22 +883,6 @@
       "duration_ms": 208906,
       "name": "\u51ac\u306e\u306f\u306a\u3057",
       "url": "https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
-        "name": "\u87ba\u65cb - RASEN",
-        "url": "https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3"
-      },
-      "artists": [
-        {
-          "name": "9Lana",
-          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
-        }
-      ],
-      "duration_ms": 190421,
-      "name": "\u87ba\u65cb - RASEN",
-      "url": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
         "name": "\u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc\u306f\u541b\u306b\u8a9e\u308a\u304b\u3051\u308b",
         "url": "https://open.spotify.com/album/7jOQKynuTihfn4eDgwhAav"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 286186,
       "name": "\u9752\u6625\u72c2\u9a12\u66f2",
       "url": "https://open.spotify.com/track/3zE6YLb2IBb8NriBuuXWQd"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "Invincible (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 155495,
-      "name": "Invincible - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
         "name": "\u30a6\u30e9\u30e9",
         "url": "https://open.spotify.com/album/3zS9R7KJTSgwfhcmL4ckjl"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 208299,
       "name": "Black Rover",
       "url": "https://open.spotify.com/track/04LCCxG3pbOYeENiyUc7Xb"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
+        "name": "Invincible (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 155495,
+      "name": "Invincible - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "UNISON SQUARE GARDEN The 1st Collection for streaming",
-        "url": "https://open.spotify.com/album/6Rm9rTuxsvukGVowLHP93c"
-      },
-      "artists": [
-        {
-          "name": "UNISON SQUARE GARDEN",
-          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "\u30b7\u30e5\u30ac\u30fc\u30bd\u30f3\u30b0\u3068\u30d3\u30bf\u30fc\u30b9\u30c6\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/6uR92injo4PDzSrOPRFfHt"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
         "name": "\u9650\u754c\u7a81\u7834\u00d7\u30b5\u30d0\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/2W0ziDXUUQ3FLV54fR5Vtd"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 232466,
       "name": "\u9650\u754c\u7a81\u7834\u00d7\u30b5\u30d0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/7K0hzTjRC0PCWXkBJuWcRH"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
+        "name": "UNISON SQUARE GARDEN The 1st Collection for streaming",
+        "url": "https://open.spotify.com/album/6Rm9rTuxsvukGVowLHP93c"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "\u30b7\u30e5\u30ac\u30fc\u30bd\u30f3\u30b0\u3068\u30d3\u30bf\u30fc\u30b9\u30c6\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/6uR92injo4PDzSrOPRFfHt"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
+        "name": "\u30a8\u30f3\u30d0\u30fc\u30c8\u30fc\u30c1",
+        "url": "https://open.spotify.com/album/6gOb9Jv6UpHGBK5rtRRsqY"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "duration_ms": 210353,
+      "name": "\u30a8\u30f3\u30d0\u30fc\u30c8\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
         "name": "\u5efb\u5efb\u5947\u8b5a / \u84bc\u306e\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 246813,
       "name": "PHOENIX",
       "url": "https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
-        "name": "\u300c\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN"
-      },
-      "artists": [
-        {
-          "name": "AKINO",
-          "url": "https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o"
-        }
-      ],
-      "duration_ms": 283633,
-      "name": "\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ"
     }
   ],
   "unique_name": "Anime Drive",

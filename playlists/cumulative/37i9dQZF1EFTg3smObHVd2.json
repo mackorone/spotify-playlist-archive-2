@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/21ViHJNHkd9N63CpbBTWoY"
+      },
+      "artists": [
+        {
+          "name": "Eden Golan",
+          "url": "https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159986,
+      "name": "Love's a (Monster)",
+      "url": "https://open.spotify.com/track/4lmAqAZ87ZjFpHk6FTpvjU"
+    },
+    {
+      "album": {
         "name": "Brave Enough (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4EBp4auyuzkB2Zl8IEdIai"
       },

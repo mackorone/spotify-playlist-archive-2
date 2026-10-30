@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 데이먼스 이어 Damons year\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: gongwon\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-701 songs - 1 day 17 hr 15 min
+702 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Indigo](https://open.spotify.com/track/57gU292uJXE0ur2697dQWJ) | [이봄](https://open.spotify.com/artist/5lsChpOwgH1pnjniKZLD8A) | [Indigo](https://open.spotify.com/album/3KQC1jKtj0o7BtK5siVNvd) | 3:40 | 2022-01-13 | 2022-01-18 |
 | [Inside](https://open.spotify.com/track/3SVvPN9zqICAetI0g9x5SN) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Inside](https://open.spotify.com/album/2jVzlkR05AEAzBAGdv1C4G) | 2:48 | 2022-03-31 | 2022-04-12 |
 | [invisible](https://open.spotify.com/track/7a3FZTbMXhvBHPK1gpA03u) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [invisible](https://open.spotify.com/album/1aG1R1Q706NZOhXVd4ZWSM) | 4:14 | 2022-03-31 | 2022-04-11 |
+| [IRIJEORI](https://open.spotify.com/track/2cAfb6rL7NcAm6DxxcOGRB) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [IRIJEORI](https://open.spotify.com/album/73pNxDixMMWRx4NzYes2Vh) | 3:36 | 2026-10-29 |  |
 | [Is It Fine? \(Feat\. Cha Woo Joo, Joob A\)](https://open.spotify.com/track/0ha7YfBJddjubCa4y9xoug) | [yowoon](https://open.spotify.com/artist/05Sc4rR9HIhRZrszKwynLk), [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4), [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Is It Fine? \(Feat\. Cha Woo Joo, Joob A\)](https://open.spotify.com/album/43KTTj2BtUePbWeQbhGmbM) | 3:00 | 2024-09-23 | 2024-10-16 |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-02-10 | 2022-05-28 |
 | [Isle in Waves](https://open.spotify.com/track/3WCqOxhcu9aqdYaIT8RpZP) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Isle in Waves](https://open.spotify.com/album/39XPD1xXFhXOdxmpt3DvVB) | 3:51 | 2025-09-08 | 2025-09-25 |
@@ -524,7 +525,7 @@
 | [Story](https://open.spotify.com/track/10xIDPlfoOPojv15gs4v5U) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [RADIO ROMANCE OST Part.5](https://open.spotify.com/album/39E5NxDaelO34UD2PuGcZh) | 3:45 | 2022-03-31 | 2022-04-17 |
 | [Strange Stroll](https://open.spotify.com/track/31T7mn1xbeV4G9JxP44koG) | [Yuna Bae](https://open.spotify.com/artist/69WlUWV5wRqG9YfRHe4pso) | [Strange Stroll](https://open.spotify.com/album/6CF7msQNpDwc6ZZN285Xl4) | 4:16 | 2024-02-07 | 2024-03-07 |
 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-12-10 |  |
-| [Summer Breeze](https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Summer Breeze](https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL) | 3:42 | 2026-07-08 |  |
+| [Summer Breeze](https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Summer Breeze](https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL) | 3:42 | 2026-07-08 | 2026-10-30 |
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
 | [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |

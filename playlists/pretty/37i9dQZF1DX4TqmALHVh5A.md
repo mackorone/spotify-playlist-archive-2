@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo: Philippe Katerine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,893 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,886 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Cœur](https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Cœur](https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ) | 3:40 |
 | 50 | [2 aliens](https://open.spotify.com/track/1yBUBwu0LBybD7IcqknClS) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [2 aliens](https://open.spotify.com/album/3JI8NmZtUifc8YPnaXCSMm) | 2:26 |
 
-Snapshot ID: `AAAAADV2kb9/G1anpUYMUL61Y4wSJ7M/`
+Snapshot ID: `AAAAAPQA+3Vn50xeFWBVsXYj5kUjBsy7`

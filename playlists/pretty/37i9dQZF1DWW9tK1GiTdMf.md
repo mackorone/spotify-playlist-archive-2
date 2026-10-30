@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un autunno non proprio felice \(blanco in cover\)
+> musica per un autunno non proprio felice \(naska in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,036 likes - 101 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,034 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 |
-| 2 | [Casa Mia / Casa Tua \(con Tredici Pietro\)](https://open.spotify.com/track/2J7LXXv5CfAZpDApmyJLfz) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:30 |
-| 3 | [Guardami](https://open.spotify.com/track/3DQiZPCHXrJgRc7P5C1N4G) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [La persona peggiore del mondo](https://open.spotify.com/album/4CdhuCmpUFGmzBw0gVqbDj) | 6:42 |
-| 4 | [Nascondino](https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Nascondino](https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy) | 3:01 |
+| 1 | [Nascondino](https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Nascondino](https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy) | 3:01 |
+| 2 | [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 |
+| 3 | [Casa Mia / Casa Tua \(con Tredici Pietro\)](https://open.spotify.com/track/2J7LXXv5CfAZpDApmyJLfz) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:30 |
+| 4 | [Guardami](https://open.spotify.com/track/3DQiZPCHXrJgRc7P5C1N4G) | [GIIN](https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM) | [La persona peggiore del mondo](https://open.spotify.com/album/4CdhuCmpUFGmzBw0gVqbDj) | 6:42 |
 | 5 | [Futuro](https://open.spotify.com/track/7crqSyRvbetPDRqCREnGdj) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [2001](https://open.spotify.com/album/3q8IwSG70YDBQQNxapkx1c) | 2:48 |
 | 6 | [Capricci](https://open.spotify.com/track/2VXgwSL3jCwYrnTh47mes8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:37 |
-| 7 | [PRENDI LA MIRA E BASTA](https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR) | [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [PRENDI LA MIRA E BASTA](https://open.spotify.com/album/0csK30chHho12GO4HfYrnm) | 2:26 |
-| 8 | [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 |
-| 9 | [IO E NESSUNO](https://open.spotify.com/track/1oxzMlIB9EIITn7XxDrhG0) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd) | [IO E NESSUNO](https://open.spotify.com/album/6ViNTLluA3cbysKc5gE4s6) | 2:51 |
-| 10 | [struccarti](https://open.spotify.com/track/2RkVikOyJYSK262ZmpwiYa) | [main](https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz) | [struccarti](https://open.spotify.com/album/2J4oTw2RBDbKoGPVNojjzj) | 2:43 |
-| 11 | [CARNE](https://open.spotify.com/track/7ocThvkFpzpiWO4yglc5fJ) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch) | [CARNE](https://open.spotify.com/album/4KEALu0U5LbcNJZYPPh81J) | 2:57 |
-| 12 | [CATTIVA ABITUDINE](https://open.spotify.com/track/79BsbconiWd05XNfFT9Hne) | [Knfuzed](https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB) | [CATTIVA ABITUDINE](https://open.spotify.com/album/286MAYqWTy8ecDh1WaZkUB) | 2:04 |
+| 7 | [ti regalerò una spada](https://open.spotify.com/track/6hZESvGRaVBXa3xgDW1o2P) | [ex rave](https://open.spotify.com/artist/3M70Keb49O0MudT6kEERrB) | [ti regalerò una spada](https://open.spotify.com/album/6BZIF37S4Ulv8zRkIOKblP) | 2:35 |
+| 8 | [PRENDI LA MIRA E BASTA](https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR) | [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [PRENDI LA MIRA E BASTA](https://open.spotify.com/album/0csK30chHho12GO4HfYrnm) | 2:26 |
+| 9 | [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 |
+| 10 | [IO E NESSUNO](https://open.spotify.com/track/1oxzMlIB9EIITn7XxDrhG0) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd) | [IO E NESSUNO](https://open.spotify.com/album/6ViNTLluA3cbysKc5gE4s6) | 2:51 |
+| 11 | [struccarti](https://open.spotify.com/track/2RkVikOyJYSK262ZmpwiYa) | [main](https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz) | [struccarti](https://open.spotify.com/album/2J4oTw2RBDbKoGPVNojjzj) | 2:43 |
+| 12 | [SOLO \(con i mostri\)](https://open.spotify.com/track/7EZHWTB0SzNqVPMdwW1WxA) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm) | [HORROR VITA](https://open.spotify.com/album/0sGUpEqcChROXrEvWXE9hV) | 3:04 |
 | 13 | [mutande](https://open.spotify.com/track/26MuN9CmRFGqmaRABesNai) | [LAMAKKINA](https://open.spotify.com/artist/5y7UpQXXHROmhQb85CzuQV) | [mutande](https://open.spotify.com/album/0V88zFzvGniui6mi33eU0i) | 3:03 |
 | 14 | [Morire È Niente](https://open.spotify.com/track/75Vw4uudpDQbD2piDx7KWM) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Morire È Niente](https://open.spotify.com/album/45wNzX4wMXPkHcxRqTFLmY) | 3:20 |
 | 15 | [bestia](https://open.spotify.com/track/0vrdXP9gEGviRVofZXwTuu) | [OTTOBRE](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [BESTIA](https://open.spotify.com/album/4wmGEqQ2W19TqB5iR4rBW2) | 3:04 |
@@ -103,11 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 93 | [UP&DOWN \(feat\. BNKR44\)](https://open.spotify.com/track/11C3GZQwGuGG5UT3FzyhXn) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [MALDIVITA](https://open.spotify.com/album/4blLRBo0nkLZE4t5EXyPbz) | 2:34 |
 | 94 | [BABY GODDAMN](https://open.spotify.com/track/37L7CN8VlbcLZIpWLG2QiU) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 2:29 |
 | 95 | [acqua santa](https://open.spotify.com/track/0Adf7j9EB2GOmjfPW71fPk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [acqua santa](https://open.spotify.com/album/4saZ2bZ4QrNo3KRhVk0Alj) | 2:36 |
-| 96 | [First time \(feat\. Theø\)](https://open.spotify.com/track/6PnMjjtegErJqSCBSQG6Jd) | [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd) | [CAOS](https://open.spotify.com/album/2rkvFaR8ETNXlPfurc17hb) | 2:43 |
-| 97 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
-| 98 | [Non serve un'età](https://open.spotify.com/track/7Lw2xTg8k0sUPhav3hTTho) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Non serve un'età](https://open.spotify.com/album/2p8Iuok8q40fhhKnpxPpcN) | 2:55 |
-| 99 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 |
-| 100 | [incandescente](https://open.spotify.com/track/68zUvet48ksuYWhAXGEg0A) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [incandescente](https://open.spotify.com/album/0GZMU5LlRwJp0XvkG2NuN8) | 2:29 |
-| 101 | [x te che mi conosci così bene](https://open.spotify.com/track/2r8Aj7dh7AJ9FLN2fXsiFZ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:07 |
+| 96 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
+| 97 | [Non serve un'età](https://open.spotify.com/track/7Lw2xTg8k0sUPhav3hTTho) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Non serve un'età](https://open.spotify.com/album/2p8Iuok8q40fhhKnpxPpcN) | 2:55 |
+| 98 | [tg1](https://open.spotify.com/track/2wHUZktOO8T1G9NNhytve4) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [tg1](https://open.spotify.com/album/5l3kHPbXM2pKXboLcganHn) | 2:46 |
+| 99 | [incandescente](https://open.spotify.com/track/68zUvet48ksuYWhAXGEg0A) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [incandescente](https://open.spotify.com/album/0GZMU5LlRwJp0XvkG2NuN8) | 2:29 |
+| 100 | [x te che mi conosci così bene](https://open.spotify.com/track/2r8Aj7dh7AJ9FLN2fXsiFZ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:07 |
 
-Snapshot ID: `AAAAAGj6uj/pExkjpJc3TyA/jemY+qlq`
+Snapshot ID: `AAAAAICLmp2MJFJq74OqN6kiSfzR+by8`

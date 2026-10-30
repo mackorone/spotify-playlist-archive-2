@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,242 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,239 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 98 | [Really Into You](https://open.spotify.com/track/6qs2mtkEUfTGAiNB4WqVsr) | [i\-COAST](https://open.spotify.com/artist/5pE7gWEZDFqXuXOoMji8vB) | [Really Into You](https://open.spotify.com/album/5nfciwr9LoDodsquTVSYxk) | 3:50 |
 | 99 | [Only One](https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Only One](https://open.spotify.com/album/5hyb010Cm1neU0k5l4zdSl) | 3:13 |
 
-Snapshot ID: `AAAAAAhlOkT4dYLMAUpEBi9jGEBgRj+i`
+Snapshot ID: `AAAAAGfrkZ40DojB0HAP3Wt/ilnSfe7Y`

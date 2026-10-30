@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: 2shots
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,948 likes - 52 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,926 likes - 52 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 51 | [ALL EYES ON ME](https://open.spotify.com/track/4B9ea9mEIpJFGu9EM9OT6r) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [ALL EYES ON ME](https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC) | 2:21 |
 | 52 | [APROVEITAR](https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [APROVEITAR](https://open.spotify.com/album/0tyHixYvJo5yJehmmrXLRn) | 2:36 |
 
-Snapshot ID: `AAAAAAthILSgpzN7zoCNi98TyNZIy8jc`
+Snapshot ID: `AAAAALJYxAoVKznKmsDVqwhq0yicL3og`

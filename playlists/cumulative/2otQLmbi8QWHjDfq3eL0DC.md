@@ -4,7 +4,7 @@
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-733 songs - 1 day 14 hr 22 min
+734 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 | 2023-12-15 | 2024-02-24 |
 | [Believe In Yourself](https://open.spotify.com/track/1wFW0fKAf4gEwdESW1cdqy) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Believe In Yourself](https://open.spotify.com/album/0rZzon6LLvzvNXeIhHoSSL) | 4:20 | 2026-07-17 | 2026-09-26 |
 | [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 | 2025-11-21 | 2025-12-06 |
-| [Beso](https://open.spotify.com/track/0PqAzlMrQmIW5GqiKFBfoY) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF) | [Beso](https://open.spotify.com/album/1pyz1y3vmDF0eE5eHSkLhP) | 2:47 | 2026-10-16 |  |
+| [Beso](https://open.spotify.com/track/0PqAzlMrQmIW5GqiKFBfoY) | [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF) | [Beso](https://open.spotify.com/album/1pyz1y3vmDF0eE5eHSkLhP) | 2:47 | 2026-10-16 | 2026-10-30 |
 | [Better \(feat\. Decades\)](https://open.spotify.com/track/0NLqDfoF5wlJZSsundDLki) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Decades](https://open.spotify.com/artist/2jNb4TNoYjSHsK5ONo6miz) | [Better \(feat\. Decades\)](https://open.spotify.com/album/2TyL6rwm8VVcKynf0PT3ft) | 2:46 | 2023-11-03 | 2025-05-03 |
 | [Better Me \(feat\. Lily Mckenzie\)](https://open.spotify.com/track/3aeqEyOCo9AaKboo37Wr8B) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Better Me \(feat\. Lily Mckenzie\)](https://open.spotify.com/album/6fQqgCDn84OWQZTSswLo6l) | 3:11 | 2023-11-03 | 2024-07-20 |
 | [Big FU](https://open.spotify.com/track/2vwCEQfnTQcOxOfmjGwafk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/63kj9Iju7Ww0sB3pTwBj4T) | 2:41 | 2023-11-03 | 2024-03-02 |
@@ -402,6 +402,7 @@
 | [Lovers Game](https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [Lovers Game / Game Over](https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f) | 3:33 | 2024-02-09 | 2024-07-20 |
 | [Loving You Ain't Hard](https://open.spotify.com/track/1USfoSvRBvyfDe1CvPshij) | [Gary Cronly](https://open.spotify.com/artist/2RXVp8GYpE06UmIqEARjug) | [Loving You Ain't Hard](https://open.spotify.com/album/6xYmlVJexo3ZECpAYpBfoC) | 3:26 | 2023-11-03 | 2023-12-09 |
 | [Lupita Latin](https://open.spotify.com/track/4hcPrGJGtf91rPgKinOg7U) | [Hector Dayz](https://open.spotify.com/artist/505OwSSuA9YLG77sQCE7po) | [Lupita Latin](https://open.spotify.com/album/1ttzLKbfHuteKfQS0l8RGz) | 4:20 | 2026-10-23 |  |
+| [Majboor \- Lost Frequencies Remix](https://open.spotify.com/track/4utpPOwM6U2LPCASKKp56n) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS), [Zoha Waseem](https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Majboor \- Lost Frequencies Remix](https://open.spotify.com/album/6hzzOoAhtPKdCK5netNVou) | 3:04 | 2026-10-29 |  |
 | [Make Believe](https://open.spotify.com/track/5iH81hIpxAYJKrominvxST) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/5rz0T4v8f8U8fdZeq93BhH) | 3:05 | 2025-11-21 | 2026-06-27 |
 | [Make Believe](https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy) | 3:05 | 2025-08-15 | 2025-11-22 |
 | [Make Love](https://open.spotify.com/track/31w6shAy30XOW089TFbb96) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Make Love](https://open.spotify.com/album/4qieawPRE14bqgLv8mwtk0) | 2:41 | 2026-10-22 |  |

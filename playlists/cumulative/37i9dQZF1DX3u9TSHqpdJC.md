@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: gleame\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Kaibrienne\. Artwork by Paola Saliby
 
-4,670 songs - 9 day 21 hr 52 min
+4,672 songs - 9 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2055,6 +2055,7 @@
 | [I'M GOOD \(HONEY\)](https://open.spotify.com/track/6aJPNvnIZHA6qgCdTJzh4k) | [CAFE TOKYO](https://open.spotify.com/artist/6O6iCYO5CrnzosokZM0Are) | [I'M GOOD \(HONEY\)](https://open.spotify.com/album/2CXy5p0KrvW81gZU5lHd6l) | 2:59 | 2025-02-19 | 2025-04-03 |
 | [I'M IN THE BAND](https://open.spotify.com/track/4kDpQhtAarLjq35TOG9K63) | [Max Rickun](https://open.spotify.com/artist/5vYA9ABGrLzyBA0bk55VLl) | [I'M IN THE BAND](https://open.spotify.com/album/4RYbnY33qSKP55guw0EsxI) | 3:19 | 2026-09-30 |  |
 | [i'm lonely](https://open.spotify.com/track/7v1AvHSQ9L3MHs16dLXJx3) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/43aZ0fzBFLHGEeIm7Id1b0) | 3:01 | 2020-12-08 | 2021-01-15 |
+| [I'm losing you](https://open.spotify.com/track/7IgwLaFZtyU78jW13d8qvL) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [I'm losing you](https://open.spotify.com/album/2UeE8xZZBWXovvhYmuA4d3) | 3:09 | 2026-10-30 |  |
 | [I'm Not A Boy](https://open.spotify.com/track/7GXkoQOJkiWngZMxEVb2pN) | [Tommi Aura](https://open.spotify.com/artist/0RPos3j6vQijjlI0X17k88) | [I'm Not A Boy](https://open.spotify.com/album/6jrqRAx4Ojvr6xGd3bjxlh) | 2:40 | 2024-01-17 | 2024-03-07 |
 | [I'm Not A Princess I'm A God](https://open.spotify.com/track/6eZlJmwcB18jRpf7XVUDwm) | [esmerelda](https://open.spotify.com/artist/4DhDDf2DoOm6wSTJtiKQ6A) | [I'm Not A Princess I'm A God](https://open.spotify.com/album/7zGMF3WFx2GjutLBdiM8zx) | 3:22 | 2021-11-19 | 2021-12-01 |
 | [I'm Not Going Anywhere](https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [I'm Not Going Anywhere](https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP) | 4:06 | 2025-09-24 | 2026-01-15 |
@@ -3678,7 +3679,7 @@
 | [Small Talk](https://open.spotify.com/track/6ooMgHFDY9L67Wo2FQf62u) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Small Talk](https://open.spotify.com/album/0n1GMdYHbiAwRU17H8rLRg) | 4:38 | 2021-04-01 | 2021-05-06 |
 | [Small Talks](https://open.spotify.com/track/5hrmGj3Tk3OS1TdJKwgXQo) | [Nightcars](https://open.spotify.com/artist/6tLxozROfaiZMoq2AL56d4) | [Small Talks](https://open.spotify.com/album/1tIL0phZRZlPUwYt3AoeCF) | 2:47 | 2023-04-26 | 2023-08-03 |
 | [Smile More](https://open.spotify.com/track/3cvxnOEMYkOWKKi3yJbZ1Y) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Smile More](https://open.spotify.com/album/641fN8nipBqleoXvyebEYl) | 3:48 | 2026-04-08 | 2026-05-21 |
-| [Smooth talker](https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Smooth talker](https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg) | 3:13 | 2026-08-26 |  |
+| [Smooth talker](https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Smooth talker](https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg) | 3:13 | 2026-08-26 | 2026-10-30 |
 | [Snow Globe](https://open.spotify.com/track/0mWpVVTgsYfjJqpQ5l77Q8) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Snow Globe](https://open.spotify.com/album/6uOLtRbmlN7054Wlit6zJ9) | 3:06 | 2025-08-27 | 2025-09-25 |
 | [Snow In July](https://open.spotify.com/track/1S8CwXd5wfmnxXgz3U9nEi) | [Maeve Zamuner](https://open.spotify.com/artist/6gPhmpiEhFK9kFHbEqA9UF) | [Snow In July](https://open.spotify.com/album/2l65rFNkyX0f0k2mIO707h) | 4:02 | 2024-11-06 | 2024-12-05 |
 | [So Bad Together](https://open.spotify.com/track/2S8YM7YkZuNrXuz84WqEoA) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [So Bad Together](https://open.spotify.com/album/337cy5h4uKBBHzD7TBv8e1) | 2:56 | 2023-03-22 | 2023-05-04 |
@@ -4440,6 +4441,7 @@
 | [We've Come So Far](https://open.spotify.com/track/6NPWhHGuKj5lHVOYCjqENO) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [We've Come So Far](https://open.spotify.com/album/6TdjKQw56ZFOExxjqQf7qo) | 3:58 | 2023-03-15 | 2023-03-18 |
 | [weak](https://open.spotify.com/track/4qRs2QpHrRLuK8c6qWMZPh) | [Emily Frost](https://open.spotify.com/artist/5drcSJLUY3bsvooLHN8UUv) | [weak](https://open.spotify.com/album/1Lqa6igDGVvAoMCT5Wk5cG) | 3:44 | 2021-06-03 | 2021-06-18 |
 | [Wear Me Down](https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL) | [Jordan Fuller](https://open.spotify.com/artist/6ek2AyxsyDe2KtbWkaICdK) | [Wear Me Down](https://open.spotify.com/album/3MIs4aujNJgDbFavDgD9xN) | 2:25 | 2022-09-28 | 2022-11-10 |
+| [Wear My Skin](https://open.spotify.com/track/2cUnXAHlbai6QSatIt30pA) | [Lilah Pate](https://open.spotify.com/artist/6nRNtZgO1Gw7sEYkduIN3I) | [Wear My Skin](https://open.spotify.com/album/0EvYYNZYMzwnQPxDf8hwvv) | 3:27 | 2026-10-30 |  |
 | [Weather](https://open.spotify.com/track/6jSyWPJ4nQIMlvBXZv9R09) | [Popcoin](https://open.spotify.com/artist/1319K2vYzvVgXjWmVr9alQ) | [Weather](https://open.spotify.com/album/1gUFG8gElsbQ4tGwt56EVL) | 2:08 | 2021-08-20 | 2021-09-10 |
 | [Weatherman](https://open.spotify.com/track/0LLIEzLgdD1zTswWEX0oHg) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Weatherman](https://open.spotify.com/album/2CsEExsgK8GD3CxkYKRCBV) | 3:24 | 2024-07-24 | 2024-08-08 |
 | [Wednesday's Child](https://open.spotify.com/track/0LAly6VAyxOtoVAj34oYFp) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Wednesday's Child](https://open.spotify.com/album/3S7MP5Msk1fyjsJoiH3RdX) | 3:16 | 2025-05-07 | 2025-07-03 |

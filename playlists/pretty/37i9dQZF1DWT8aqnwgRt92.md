@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538,880 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,780 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [Galaxy Mode](https://open.spotify.com/track/7dGSFYAVvLyVE0iS7m2ZVI) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [24/7 ～JSB FOREVER～](https://open.spotify.com/album/2GpzoaznnyKHSi0GFyRLRT) | 3:16 |
 | 100 | [NEVER SAY NEVER AGAIN](https://open.spotify.com/track/3G0mTzZwFHYvji44Nk4qdO) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [汚れた英雄](https://open.spotify.com/album/10T0AxbmorcVavRxLX7hPg) | 3:49 |
 
-Snapshot ID: `AAAAALvtI/A5QzuWcdYpoZ832jjYDum0`
+Snapshot ID: `AAAAALQ1YTA0N66fOpXSItXSiCK8iRE8`

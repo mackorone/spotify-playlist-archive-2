@@ -12961,6 +12961,24 @@
     },
     {
       "album": {
+        "name": "AFFIRMED",
+        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155089,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
+    },
+    {
+      "album": {
         "name": "The Good News: TGN",
         "url": "https://open.spotify.com/album/3fWacQIZnUl4SnAth4v9DO"
       },

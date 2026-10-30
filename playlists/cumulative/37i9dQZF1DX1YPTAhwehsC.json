@@ -4535,6 +4535,32 @@
     },
     {
       "album": {
+        "name": "Sailor Goon",
+        "url": "https://open.spotify.com/album/2YX2hNBXVZeZoTpGyTXRQ9"
+      },
+      "artists": [
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        },
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        },
+        {
+          "name": "MS HUSTLE",
+          "url": "https://open.spotify.com/artist/2nQcRubxUw48XFynmQneHw"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Been Wavy",
+      "url": "https://open.spotify.com/track/0v4la9ZzJjQJrBk17QgafM"
+    },
+    {
+      "album": {
         "name": "Beep Beep",
         "url": "https://open.spotify.com/album/5R6AzRUZMA5j38lpgrQ388"
       },
@@ -11015,6 +11041,24 @@
     },
     {
       "album": {
+        "name": "Diggwutumsayn!",
+        "url": "https://open.spotify.com/album/6zm7yNJgUnoZyDbEr492KR"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222603,
+      "name": "Diggwutumsayn!",
+      "url": "https://open.spotify.com/track/1RKACC4G0UnBrf3vMHgoEr"
+    },
+    {
+      "album": {
         "name": "USEE4YOURSELF (Deluxe)",
         "url": "https://open.spotify.com/album/34go0JAfH5nB2Ks15oek6e"
       },
@@ -11052,6 +11096,24 @@
       "duration_ms": 195200,
       "name": "DIP",
       "url": "https://open.spotify.com/track/6c37o1fgfwyUIhwFu58ics"
+    },
+    {
+      "album": {
+        "name": "Dirty Dan",
+        "url": "https://open.spotify.com/album/7ChXfVDvpK6QIJaSSDrlTz"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135878,
+      "name": "Dirty Dan",
+      "url": "https://open.spotify.com/track/6aHrHgjnK3amArpfPyGFTV"
     },
     {
       "album": {
@@ -28916,7 +28978,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 321132,
       "name": "Nu Devils",
       "url": "https://open.spotify.com/track/05LERuwwJC1kG4r9THLAah"
@@ -44596,7 +44658,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 165733,
       "name": "Why I Get Married?",
       "url": "https://open.spotify.com/track/0gcTazJ3gHWzXQcwG1fy89"
@@ -45460,7 +45522,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 214285,
       "name": "YERR",
       "url": "https://open.spotify.com/track/2UFfc6xThP1Nm80xTESyvb"

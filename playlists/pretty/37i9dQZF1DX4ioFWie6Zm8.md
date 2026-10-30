@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,607 likes - 107 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,672 likes - 107 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 106 | [Kadidja](https://open.spotify.com/track/1Pompu74i2TET5IUXQObTG) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 4:14 |
 | 107 | [Libambe Lingatshoni](https://open.spotify.com/track/4gvZ1qS1FPFrGBYAGMn3MQ) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Ndingubani](https://open.spotify.com/album/2gKgCmoD3I0QiSur9hT3eH) | 4:20 |
 
-Snapshot ID: `AAAAAE06JgkSy4YsGVS9tImYNaBNWaiF`
+Snapshot ID: `AAAAAPQpgvL8455Ul9KSJs4PFBnBfMHm`

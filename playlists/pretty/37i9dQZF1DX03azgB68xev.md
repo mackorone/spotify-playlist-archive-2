@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Colton Dixon
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,608 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,564 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 98 | [Stuck](https://open.spotify.com/track/790cNSMMXs4QDbykxSBPE7) | [Bailey Thompson](https://open.spotify.com/artist/3oGTF6rnMkY55O4XMsIu8U) | [Stuck](https://open.spotify.com/album/5mZf3zvhas2lyVRwiSD0UG) | 3:15 |
 | 99 | [The Hallway](https://open.spotify.com/track/7clIwUuQT6pKmx0GsulInQ) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [The Waiting](https://open.spotify.com/album/0Fr1J6gbNMkPYzfDcGO8G0) | 4:06 |
 
-Snapshot ID: `AAAAAJffr+LjuOu4gpReMqq+jJcEk27Q`
+Snapshot ID: `AAAAAAJCq7SJ+InKNGqoMCJjjLlUT0lV`

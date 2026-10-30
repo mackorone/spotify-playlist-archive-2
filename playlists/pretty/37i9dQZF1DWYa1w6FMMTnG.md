@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,995 likes - 83 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,389 likes - 83 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 82 | [Tales of Terror](https://open.spotify.com/track/1XhSdlXygbgLpxgbKsvJW1) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp) | [LEGO Star Wars: Terrifying Tales \(Original Soundtrack\)](https://open.spotify.com/album/1hs3FJ3Zp0pk90Zqs1gCcY) | 0:52 |
 | 83 | [Glowin'](https://open.spotify.com/track/2LsK9xmOBgjnFIn5C6TsYB) | [Kenzi Richardson](https://open.spotify.com/artist/6EUKdXuvTAln2S223FL9RX), [Shaun Dixon](https://open.spotify.com/artist/7bjSZryEMciJfMvOg2486e) | [Vampirina: Teenage Vampire: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6Nuo3cox11iIxkCHxgXprF) | 1:58 |
 
-Snapshot ID: `AAAAAHzz1NJVlSCyZOrfKq2761GS4Ccp`
+Snapshot ID: `AAAAAOdonLjtlKQymeNRs3Zxm4HwNpiD`

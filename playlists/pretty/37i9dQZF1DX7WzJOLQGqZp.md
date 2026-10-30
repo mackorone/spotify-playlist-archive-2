@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WzJOLQGqZp.md) - [plain]
 | 49 | [YSF](https://open.spotify.com/track/5DEl6NxLct9s2PyE8Ox9O6) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [YSF](https://open.spotify.com/album/39hhsdqU2byk9NTCmYokvv) | 2:32 |
 | 50 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/5uFVodx5ppCFWjyQXkgCrD) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/album/0ZD6PTKIZvp9cTlI0pjLvm) | 3:06 |
 
-Snapshot ID: `AAAAAEae2sefbejRVn0VKthsEtokSHOp`
+Snapshot ID: `AAAAADdP2L8W0F+L/NzGTHeil5BQ2a18`

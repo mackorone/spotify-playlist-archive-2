@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 7 hr 22 min
+128 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Light The Sky](https://open.spotify.com/track/6C3Q9rs5FsafL2VHNCCRqJ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:49 | 2024-02-27 |  |
 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 | 2024-02-27 |  |
 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 | 2024-02-27 |  |
+| [Love's a \(Monster\)](https://open.spotify.com/track/4lmAqAZ87ZjFpHk6FTpvjU) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Imperfections](https://open.spotify.com/album/21ViHJNHkd9N63CpbBTWoY) | 2:39 | 2026-10-29 |  |
 | [Love's Just A Feeling](https://open.spotify.com/track/1foYfeVd8HVex402aOJN4o) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough \(Deluxe Edition\)](https://open.spotify.com/album/4EBp4auyuzkB2Zl8IEdIai) | 3:49 | 2024-02-27 | 2025-06-27 |
 | [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/0uFwdpkVJzpyUxlu9reTWK) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/5EH0A5mhsGNCOPPpvi3RfF) | 3:49 | 2025-06-26 | 2026-08-20 |
 | [Love's Just a Feeling \(feat\. Rooty\)](https://open.spotify.com/track/1p7I3XF3L5zDhUhjfPViZ2) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Brave Enough](https://open.spotify.com/album/2pMSL1tl3hsr4SchKiCvwT) | 3:49 | 2026-08-19 |  |

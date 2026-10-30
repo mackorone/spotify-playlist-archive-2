@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: EsDeeKid",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Skepta",
   "name": "Who We Be",
   "tracks": [
     {
@@ -3342,6 +3342,24 @@
       "duration_ms": 148316,
       "name": "BATTY & BENCH - Freestyle pt. II",
       "url": "https://open.spotify.com/track/0V9pELwsLI9FrjrbZbjH9n"
+    },
+    {
+      "album": {
+        "name": "The Buzz",
+        "url": "https://open.spotify.com/album/0SV0P0JXQPAoplBVBIoAfs"
+      },
+      "artists": [
+        {
+          "name": "Booter Bee",
+          "url": "https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117551,
+      "name": "BBBBBOOTER",
+      "url": "https://open.spotify.com/track/68ywfZcVz9Hft1TDpMFtHV"
     },
     {
       "album": {
@@ -36684,7 +36702,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 212289,
       "name": "Well Organised (feat. Lila Ik\u00e9)",
       "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo beat e rime avvolgenti. Cover: Marracash",
+  "description": "Solo beat e rime avvolgenti. Cover: Sfera Ebbasta",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
     {
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176703,
       "name": "DIPENDE DA ME",
       "url": "https://open.spotify.com/track/4NQQ6OWPLDFcyPIkrNvvRT"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163512,
       "name": "HENTAI",
       "url": "https://open.spotify.com/track/78flthd91SpUADZy5PwNRS"
@@ -3466,6 +3466,28 @@
       "duration_ms": 142608,
       "name": "Il mio dawg",
       "url": "https://open.spotify.com/track/71juLZk9jMhOSsi1jcDwUa"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "Il mio posto nel Mondo (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2lFKJrz2JhquBuLcZsbvOu"
     },
     {
       "album": {
@@ -4068,7 +4090,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 148064,
       "name": "Limite",
       "url": "https://open.spotify.com/track/3MoRM9naSTxiDZ9imxnnfP"
@@ -5216,7 +5238,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 118153,
       "name": "niente x me (feat. Glocky)",
       "url": "https://open.spotify.com/track/4YROoJToHiBrwuLfKUMsEL"
@@ -6442,7 +6464,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163250,
       "name": "punto a capo (feat. Low-Red)",
       "url": "https://open.spotify.com/track/3kZRvhg9rrM7AFRMO8zAcb"
@@ -7694,7 +7716,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 196149,
       "name": "TI RICORDI",
       "url": "https://open.spotify.com/track/5L4sZUVdzypmbD1NhFK3mh"
@@ -7734,7 +7756,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154564,
       "name": "TOP MODEL (HEY MAMBO!)",
       "url": "https://open.spotify.com/track/1YvfAyh0iuMaQoOLgaPLYZ"
@@ -8084,6 +8106,28 @@
       "duration_ms": 169133,
       "name": "Up",
       "url": "https://open.spotify.com/track/55bbclV2CNma8iNwua3Ks5"
+    },
+    {
+      "album": {
+        "name": "VAFFANCULO",
+        "url": "https://open.spotify.com/album/0VdD10ddgdrGea9whypoBl"
+      },
+      "artists": [
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        },
+        {
+          "name": "N'Dreamer",
+          "url": "https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139866,
+      "name": "VAFFANCULO",
+      "url": "https://open.spotify.com/track/23Tust6sDp7d7OBTqOTE7p"
     },
     {
       "album": {

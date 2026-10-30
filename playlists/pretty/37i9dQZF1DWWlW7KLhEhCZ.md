@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Cryzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,330 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,335 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [FARTURA](https://open.spotify.com/track/3DS8RM0uC1w5CP86vh32kM) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [paniagonobeat](https://open.spotify.com/artist/3Z3KpO4RqycQD8f4hfnT3g) | [FARTURA](https://open.spotify.com/album/3ystrcJcLcjFpdhE0yq5kJ) | 2:27 |
 | 75 | [Fatos Reais](https://open.spotify.com/track/1bRZKPWiVdjC4jNQzJzk0f) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Fatos Reais](https://open.spotify.com/album/30lzqW1TGAtj0895NLmGb6) | 2:22 |
 
-Snapshot ID: `AAAAADB9aYxJt2SMEjSo6aU7PWat3f7j`
+Snapshot ID: `AAAAALhb0vA4kPrvKqLpIP3akKzrtWxZ`

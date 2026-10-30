@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 21686,
+  "num_followers": 21701,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZEW8dKaL/iPBPfSOVXiq9CmccR",
+  "snapshot_id": "AAAAAIOhHGuUt32KviotasWV9+Jci2eG",
   "tracks": [
     {
       "added_at": "2025-06-20 07:45:33",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "sundays",
-        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+        "name": "On My Life",
+        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
       },
       "artists": [
         {
-          "name": "\u00d8bed",
-          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
         }
       ],
-      "duration_ms": 174000,
-      "name": "sundays",
-      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
+      "duration_ms": 125607,
+      "name": "On My Life",
+      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -979,38 +979,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "On My Life",
-        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        }
-      ],
-      "duration_ms": 125607,
-      "name": "On My Life",
-      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
-        "name": "Lifesize Teddy",
-        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
-      },
-      "artists": [
-        {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
       },
@@ -1031,8 +999,40 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Call on Me",
-        "url": "https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb"
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Lifesize Teddy",
+        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Coconut Lips",
+        "url": "https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q"
       },
       "artists": [
         {
@@ -1042,15 +1042,11 @@
         {
           "name": "Tomi Thomas",
           "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        },
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
         }
       ],
-      "duration_ms": 180705,
-      "name": "Call on Me",
-      "url": "https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM"
+      "duration_ms": 215066,
+      "name": "Coconut Lips",
+      "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
     },
     {
       "added_at": "2025-06-20 07:45:33",

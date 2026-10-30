@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-918 songs - 1 day 21 hr 39 min
+919 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Can't Say No](https://open.spotify.com/track/3GjkAL654ijp5s8Xkh93wV) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q) | [Can't Say No](https://open.spotify.com/album/3ChgqHnbhZNKP8bzyKOyVX) | 3:35 | 2023-01-05 | 2023-04-28 |
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 | 2023-04-28 |
 | [Caramel](https://open.spotify.com/track/14StKF124FSjdGN5zizxeu) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Stahl](https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU), [RUD](https://open.spotify.com/artist/6IJyibMKpIZOeGR8FlxzBb) | [Caramel](https://open.spotify.com/album/1GaCDSNcfWizabEX3El1vl) | 4:02 | 2022-08-19 | 2023-04-28 |
+| [Caramel](https://open.spotify.com/track/2hH7ojOvNK2E6VpVsD8ULB) | [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA) | [Caramel](https://open.spotify.com/album/1kZDwzDcETd20Ho6uO9X2U) | 3:19 | 2026-10-29 |  |
 | [Carry On](https://open.spotify.com/track/0VnMDe98PwF1a2UIXoiTFR) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Carry On](https://open.spotify.com/album/6qFTylBHt4F7Yv7TKnwxeF) | 3:32 | 2025-03-20 |  |
 | [Cash Out](https://open.spotify.com/track/4VIhfUoqGVL67qzjGDecDX) | [Schrandy](https://open.spotify.com/artist/16DOlPH2Uh5OyntSN9qlxz) | [Cash Out](https://open.spotify.com/album/1bbedyCgIrSX1hQSfUALky) | 2:22 | 2026-01-15 |  |
 | [Castle](https://open.spotify.com/track/7tUToegtVh5dodpcqaYrHo) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Castle](https://open.spotify.com/album/3bxvt8vyLXAC0ioYQ2IixH) | 2:38 | 2023-08-08 | 2024-03-13 |

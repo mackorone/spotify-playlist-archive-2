@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 498883,
+  "num_followers": 498837,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIcNVpG3NRhWXr60MVH10M9Rrj24",
+  "snapshot_id": "AAAAAMK/nKDO4nifYiBHSsFV63x/x/kL",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:43",
@@ -299,22 +299,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Kembali Pulang",
-        "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
+        "name": "And the Story Continues...",
+        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
       },
       "artists": [
         {
-          "name": "Suara Kayu",
-          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
-        },
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
         }
       ],
-      "duration_ms": 207898,
-      "name": "Kembali Pulang",
-      "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
+      "duration_ms": 241763,
+      "name": "Takkan Terganti",
+      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -351,18 +347,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "And the Story Continues...",
-        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
+        "name": "Kembali Pulang",
+        "url": "https://open.spotify.com/album/3oCPm4IKeaWJy666uZPKih"
       },
       "artists": [
         {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        },
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
         }
       ],
-      "duration_ms": 241763,
-      "name": "Takkan Terganti",
-      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
+      "duration_ms": 207898,
+      "name": "Kembali Pulang",
+      "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "Bermuara",
+        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 287465,
+      "name": "Bermuara",
+      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Badai Telah Berlalu",
         "url": "https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 329865,
       "name": "Di Atas Meja",
       "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
-        "name": "Bermuara",
-        "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        },
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 287465,
-      "name": "Bermuara",
-      "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Ekspektasi",
-        "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
-      },
-      "artists": [
-        {
-          "name": "Aruma",
-          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
-        },
-        {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
-        }
-      ],
-      "duration_ms": 299210,
-      "name": "Ekspektasi",
-      "url": "https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 152000,
       "name": "Four Summers",
       "url": "https://open.spotify.com/track/4uqeKoMtmbl1FTlRMdXKx5"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Ekspektasi",
+        "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        },
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 299210,
+      "name": "Ekspektasi",
+      "url": "https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+        "name": "EXPLORE!",
+        "url": "https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba"
       },
       "artists": [
         {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Terdiam",
-      "url": "https://open.spotify.com/track/4YvFq4n1eTD2wqYEHWxo1i"
+      "duration_ms": 242961,
+      "name": "Kau Adalah (feat. Rayi Putra)",
+      "url": "https://open.spotify.com/track/2WoRw2nWZoj5ty0rOQP4FQ"
     }
   ],
   "unique_name": "Santai Sejenak",

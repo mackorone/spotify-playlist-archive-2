@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree with Fall Out Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,709 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,702 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 99 | [Let Me Sleep \(It's Christmas Time\)](https://open.spotify.com/track/2randpfoi4pRjpDx5difUk) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lost Dogs](https://open.spotify.com/album/55VNnWRkzLOLPcY28WxyUl) | 2:57 |
 | 100 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 |
 
-Snapshot ID: `AAAAAMS+9NmrcYKnRsXtWjnLPQQxLaYr`
+Snapshot ID: `AAAAAGP9+iYxIaGP5/IeRso4tKoCJyA6`

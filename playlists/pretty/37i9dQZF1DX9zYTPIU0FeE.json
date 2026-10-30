@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Pilani Bubu",
-  "num_followers": 14837,
+  "num_followers": 14839,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0gFIGO+6e/dvzM/lmkffMqJKNK",
+  "snapshot_id": "AAAAAB4wnq3DKmH9VZ/ugJYsxR2Zi1mQ",
   "tracks": [
     {
       "added_at": "2026-10-01 22:02:06",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Invitation 2",
-        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
+        "name": "Kumi Lach",
+        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
       },
       "artists": [
         {
-          "name": "Don Laka",
-          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
         }
       ],
-      "duration_ms": 258746,
-      "name": "Monate Ofedile",
-      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
+      "duration_ms": 244426,
+      "name": "Kumi Lach",
+      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Kumi Lach",
-        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
+        "name": "Invitation 2",
+        "url": "https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5"
       },
       "artists": [
         {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+          "name": "Don Laka",
+          "url": "https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Kumi Lach",
-      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
+      "duration_ms": 258746,
+      "name": "Monate Ofedile",
+      "url": "https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -723,38 +723,6 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Indlela",
-        "url": "https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Indlela",
-      "url": "https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
         "name": "kulungile",
         "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
       },
@@ -775,18 +743,34 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Ngoma",
-        "url": "https://open.spotify.com/album/6z90PwFcPKHcUDUEyqKFEL"
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
       },
       "artists": [
         {
-          "name": "SPARTZ",
-          "url": "https://open.spotify.com/artist/2SLukHg2sfRgdzJunl2Dt3"
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
         }
       ],
-      "duration_ms": 337500,
-      "name": "Ngoma",
-      "url": "https://open.spotify.com/track/21HJycogNkwu5A3oaNY1e2"
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Indlela",
+        "url": "https://open.spotify.com/album/1gcWKL3gQyUe03ussRKqNX"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Indlela",
+      "url": "https://open.spotify.com/track/324SBOfJSuYvIKs0vGLWh3"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -827,6 +811,22 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "Ngoma",
+        "url": "https://open.spotify.com/album/6z90PwFcPKHcUDUEyqKFEL"
+      },
+      "artists": [
+        {
+          "name": "SPARTZ",
+          "url": "https://open.spotify.com/artist/2SLukHg2sfRgdzJunl2Dt3"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Ngoma",
+      "url": "https://open.spotify.com/track/21HJycogNkwu5A3oaNY1e2"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "H.O.P.E (Holding On to Positive Expectations)",
         "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 365000,
       "name": "H.O.P.E",
       "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Bawo Ndi Xolele (Hymn)",
-      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Let The Sky Open Under Your Feet",
-        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
       "artists": [
         {
-          "name": "Skyjack",
-          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
         }
       ],
-      "duration_ms": 395213,
-      "name": "Let The Sky Open Under Your Feet",
-      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
+      "duration_ms": 210666,
+      "name": "Bawo Ndi Xolele (Hymn)",
+      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -931,6 +915,38 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
+        "name": "Let The Sky Open Under Your Feet",
+        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        }
+      ],
+      "duration_ms": 395213,
+      "name": "Let The Sky Open Under Your Feet",
+      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Journey of Gratitude",
+      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 349750,
-      "name": "Journey of Gratitude",
-      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -999,42 +999,18 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "Qalo",
-        "url": "https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep"
+        "name": "Modeh Ani",
+        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
       },
       "artists": [
         {
-          "name": "Bokang Ramatlapeng",
-          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
         }
       ],
-      "duration_ms": 260750,
-      "name": "Chant Song: Bakoena Ba Nkopane",
-      "url": "https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn"
-    },
-    {
-      "added_at": "2026-10-01 22:02:06",
-      "album": {
-        "name": "Water from an Ancient Well",
-        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Ibrahim",
-          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
-        },
-        {
-          "name": "Noah Jackson",
-          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
-        },
-        {
-          "name": "Cleave Guyton Jr.",
-          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
-        }
-      ],
-      "duration_ms": 244278,
-      "name": "Water from an Ancient Well - Single Edit",
-      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+      "duration_ms": 239107,
+      "name": "Modeh Ani",
+      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
     },
     {
       "added_at": "2026-10-01 22:02:06",
@@ -1067,22 +1043,42 @@
     {
       "added_at": "2026-10-01 22:02:06",
       "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
+        "name": "Water from an Ancient Well",
+        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
       "artists": [
         {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
         },
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Noah Jackson",
+          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
+        },
+        {
+          "name": "Cleave Guyton Jr.",
+          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
         }
       ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
+      "duration_ms": 244278,
+      "name": "Water from an Ancient Well - Single Edit",
+      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+    },
+    {
+      "added_at": "2026-10-01 22:02:06",
+      "album": {
+        "name": "Qalo",
+        "url": "https://open.spotify.com/album/0Tpgl8HOd2y6aWBGusFIep"
+      },
+      "artists": [
+        {
+          "name": "Bokang Ramatlapeng",
+          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+        }
+      ],
+      "duration_ms": 260750,
+      "name": "Chant Song: Bakoena Ba Nkopane",
+      "url": "https://open.spotify.com/track/48qf6rG6ixRciJJ2saRTDn"
     }
   ],
   "unique_name": "Jazz NEXT",

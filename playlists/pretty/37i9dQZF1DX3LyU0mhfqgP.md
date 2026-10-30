@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Joesef
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,934 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,835 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Call Me Babe](https://open.spotify.com/track/2st8BBJ0YcYi6eA5xOBv5U) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Call Me Babe](https://open.spotify.com/album/5UXzmRcanpxe6r8mVEcokz) | 2:41 |
 | 50 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 
-Snapshot ID: `AAAAAFX/X6Db6hXvZZ40ubpGI4x5OyFU`
+Snapshot ID: `AAAAAJDMbbKVcyOgezZdV5GBxSAl9mH3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 104 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 387 likes - 105 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,17 +100,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 90 | [Personal Heaven](https://open.spotify.com/track/09YBIWKOy5jQ9gqB1ODvaa) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:05 |
 | 91 | [Yes Please](https://open.spotify.com/track/1EwaalnuBxcBnbIqEK2yNQ) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Yes Please](https://open.spotify.com/album/5buJ1a0qjOxVvBcjdvmtgT) | 3:20 |
 | 92 | [Red](https://open.spotify.com/track/6cb0HhIz1h6MM9lZkH0Htp) | [Kiah Victoria](https://open.spotify.com/artist/2JqGe5yK5vhJSJb0wPa7J9) | [And Then We Wept](https://open.spotify.com/album/0Z0vBD9iro5c1YTUMy9OzN) | 3:57 |
-| 93 | [Water](https://open.spotify.com/track/3gj2Q4Y8XSnSuzccxvMDRt) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 |
-| 94 | [What Happened To Love?](https://open.spotify.com/track/28CDYI2Tnzj68DELVLvmqk) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:54 |
-| 95 | [Praise Dance](https://open.spotify.com/track/6erYOtEBmqmzd9zzIJ7Wry) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:02 |
-| 96 | [Sad Song](https://open.spotify.com/track/2WA4Xoft0dkYhwbluS9dXu) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:26 |
-| 97 | [Be Still](https://open.spotify.com/track/0pym5ohUSrSj2s3tEWVOAG) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 2:54 |
-| 98 | [Hand In Hand](https://open.spotify.com/track/5TyMCjuHEOb1H4zOhW6JrL) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:14 |
-| 99 | [Damn Good Life](https://open.spotify.com/track/0OHd0l2dXa5HFbuw9pu6TU) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:27 |
-| 100 | [I Got It](https://open.spotify.com/track/650YU5QbVUh9piLJlVVirQ) | [Jules Halpern](https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py) | [I Got It](https://open.spotify.com/album/6fZy2iKh3dvL0NUnSW5eVE) | 2:29 |
-| 101 | [Overture](https://open.spotify.com/track/54mkEjtwbCxboaylazkznr) | [Illinois Speed Press](https://open.spotify.com/artist/2PAoh4IMpWBjSOozxs6uaC) | [Illinois Speed Press](https://open.spotify.com/album/6B18D8NOyAPkNabk4k5Aav) | 3:26 |
-| 102 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
-| 103 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
-| 104 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
+| 93 | [Love's a \(Monster\)](https://open.spotify.com/track/4lmAqAZ87ZjFpHk6FTpvjU) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Imperfections](https://open.spotify.com/album/21ViHJNHkd9N63CpbBTWoY) | 2:39 |
+| 94 | [Water](https://open.spotify.com/track/3gj2Q4Y8XSnSuzccxvMDRt) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 |
+| 95 | [What Happened To Love?](https://open.spotify.com/track/28CDYI2Tnzj68DELVLvmqk) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:54 |
+| 96 | [Praise Dance](https://open.spotify.com/track/6erYOtEBmqmzd9zzIJ7Wry) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:02 |
+| 97 | [Sad Song](https://open.spotify.com/track/2WA4Xoft0dkYhwbluS9dXu) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:26 |
+| 98 | [Be Still](https://open.spotify.com/track/0pym5ohUSrSj2s3tEWVOAG) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 2:54 |
+| 99 | [Hand In Hand](https://open.spotify.com/track/5TyMCjuHEOb1H4zOhW6JrL) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 3:14 |
+| 100 | [Damn Good Life](https://open.spotify.com/track/0OHd0l2dXa5HFbuw9pu6TU) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:27 |
+| 101 | [I Got It](https://open.spotify.com/track/650YU5QbVUh9piLJlVVirQ) | [Jules Halpern](https://open.spotify.com/artist/7K5b86z7l451wp57waF0Py) | [I Got It](https://open.spotify.com/album/6fZy2iKh3dvL0NUnSW5eVE) | 2:29 |
+| 102 | [Overture](https://open.spotify.com/track/54mkEjtwbCxboaylazkznr) | [Illinois Speed Press](https://open.spotify.com/artist/2PAoh4IMpWBjSOozxs6uaC) | [Illinois Speed Press](https://open.spotify.com/album/6B18D8NOyAPkNabk4k5Aav) | 3:26 |
+| 103 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
+| 104 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
+| 105 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcgGYgAAAAC7nS2WfkiRJ53vERTEH5T9`
+Snapshot ID: `AcgRogAAAADnzT/McUshbaTznlz9ZBx/`

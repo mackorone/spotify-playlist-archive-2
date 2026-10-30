@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,267 likes - 149 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,326 likes - 149 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 148 | [Collecting Memories](https://open.spotify.com/track/6aFHghBSzxP3QPxS30qqp0) | [Aija Alsiņa](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [Collecting Memories](https://open.spotify.com/album/6VSobr1DUTShD75358fUps) | 2:47 |
 | 149 | [Linger](https://open.spotify.com/track/1dl9NpSOGc99QraGZDAzWx) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Linger](https://open.spotify.com/album/62b5qlDwAPMIrK3300tgOP) | 2:04 |
 
-Snapshot ID: `AAAAAMhfyj4fPOP1dzl1PbS4iiEFOPd7`
+Snapshot ID: `AAAAAKWbVEaHg+MVMn6nCZE/jc/K9nVB`

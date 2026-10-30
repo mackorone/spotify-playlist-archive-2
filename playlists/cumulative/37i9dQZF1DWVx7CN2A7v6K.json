@@ -901,6 +901,28 @@
     },
     {
       "album": {
+        "name": "\u305d\u3070\u306b\u3044\u308b\u306d",
+        "url": "https://open.spotify.com/album/69vgvtuEzB2P38An5eRSqu"
+      },
+      "artists": [
+        {
+          "name": "Thelma Aoyama",
+          "url": "https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD"
+        },
+        {
+          "name": "SoulJa",
+          "url": "https://open.spotify.com/artist/0wP8E9fUgYBHx1QRf3QLPT"
+        }
+      ],
+      "date_added": "2026-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302906,
+      "name": "\u305d\u3070\u306b\u3044\u308b\u306d",
+      "url": "https://open.spotify.com/track/1Rvh5RimhF3ndpclBmIdeJ"
+    },
+    {
+      "album": {
         "name": "\u305d\u308c\u306f\u30b8\u30e5\u30fc\u30b7\u30fc",
         "url": "https://open.spotify.com/album/79LronoW9pIfeNzRrljxWZ"
       },
@@ -2050,7 +2072,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 227469,
       "name": "\u6700\u9ad8\u5230\u9054\u70b9",
       "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"

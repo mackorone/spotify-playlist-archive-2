@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 682497,
+  "num_followers": 682474,
   "original_name": "daydreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxCfRs3Q40hqAK0aHl9EGzC13hH",
+  "snapshot_id": "AAAAAFAPwvrKlQaVdl3C++9GYhIEqIUK",
   "tracks": [
     {
       "added_at": "2026-10-26 19:37:37",
@@ -71,6 +71,22 @@
       "duration_ms": 210000,
       "name": "meta-lapse",
       "url": "https://open.spotify.com/track/5g2i0C15cB5EldHcKMBq4J"
+    },
+    {
+      "added_at": "2026-10-28 17:33:11",
+      "album": {
+        "name": "While The Flood Rages",
+        "url": "https://open.spotify.com/album/5sZ0QkaVO3XjE41k8EuPc0"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Background Radiation",
+      "url": "https://open.spotify.com/track/2WHsmyXzyDas7bHiqap0sB"
     },
     {
       "added_at": "2026-08-21 04:00:25",

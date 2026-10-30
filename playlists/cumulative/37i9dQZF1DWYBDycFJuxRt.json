@@ -1254,7 +1254,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277352,
-      "name": "100V \u30ea\u30ea\u30ab\u30eb \u30de\u30b8\u30ab\u30eb \u203b\u6545\u969c\u3067\u306f\u3042\u308a\u307e\u305b\u3093",
+      "name": "100V \u30ea\u30ea\u30ab\u30eb\u2661\u30de\u30b8\u30ab\u30eb \u203b\u6545\u969c\u3067\u306f\u3042\u308a\u307e\u305b\u3093",
       "url": "https://open.spotify.com/track/41gMfglq6jt5AIbQqfAphZ"
     },
     {
@@ -175914,6 +175914,10 @@
         {
           "name": "lili maua",
           "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
+        },
+        {
+          "name": "Nosh",
+          "url": "https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q"
         }
       ],
       "date_added": "2026-10-27",

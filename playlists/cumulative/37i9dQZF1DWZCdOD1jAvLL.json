@@ -1837,6 +1837,32 @@
     },
     {
       "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/5fKjpciLvybSZd9X8VVSpk"
+      },
+      "artists": [
+        {
+          "name": "Turbine",
+          "url": "https://open.spotify.com/artist/6dgkvmzy1qR5cK7ueTM47M"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        },
+        {
+          "name": "Clinton Sly",
+          "url": "https://open.spotify.com/artist/6hFygpQd0XtCwoZEePfC47"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/3cu4hQU8e9gBFFnqrorjtO"
+    },
+    {
+      "album": {
         "name": "Baila Conmigo",
         "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
       },
@@ -5136,7 +5162,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 196615,
       "name": "DNA",
       "url": "https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD"

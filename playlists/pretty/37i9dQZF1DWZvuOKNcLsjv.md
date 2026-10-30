@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,016 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,021 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 59 | [Soarin'](https://open.spotify.com/track/75Mt8bfob6tPmP3xdvgELu) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Soarin'](https://open.spotify.com/album/7DPc96w5fUdAK6X2dRKbRr) | 3:24 |
 | 60 | [New Journey](https://open.spotify.com/track/7dOWN2UK7jsmtnGAs8CcLr) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Beyond the Sea](https://open.spotify.com/album/7BAvGRf8ZBAtYmieJKCnO5) | 3:48 |
 
-Snapshot ID: `AAAAAM/GMw94deHr238XbnPNwzpiXFxO`
+Snapshot ID: `AAAAAD/eMaDYfvwT4bNLkz1nkE+DCeGh`

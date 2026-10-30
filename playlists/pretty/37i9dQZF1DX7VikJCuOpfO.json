@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Alberto Vazquez \ud83d\udcf8",
-  "num_followers": 368371,
+  "num_followers": 368390,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADblWeCrjtDY8poLWY2qDjKw1nL+",
+  "snapshot_id": "AAAAAGV2fbixP+TRjcMBuUOH5gJiTOwz",
   "tracks": [
     {
       "added_at": "2026-10-23 06:00:35",
@@ -327,18 +327,18 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Ya No Le Mientas",
-        "url": "https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf"
+        "name": "La Perra",
+        "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
       },
       "artists": [
         {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 159347,
-      "name": "Ya No Le Mientas",
-      "url": "https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI"
+      "duration_ms": 188640,
+      "name": "La Perra",
+      "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -375,18 +375,18 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "La Perra",
-        "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
+        "name": "Ya No Le Mientas",
+        "url": "https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
         }
       ],
-      "duration_ms": 188640,
-      "name": "La Perra",
-      "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
+      "duration_ms": 159347,
+      "name": "Ya No Le Mientas",
+      "url": "https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
+        "name": "Voz De Mi Sangre",
+        "url": "https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "Me Declaro Culpable",
+      "url": "https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
         "name": "D\u00f3nde y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 163058,
       "name": "D\u00f3nde y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
-        "name": "Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 210471,
-      "name": "Vives En M\u00ed",
-      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV"
-      },
-      "artists": [
-        {
-          "name": "Osbaldo Lopez",
-          "url": "https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Tu Eterno Enamorado",
-      "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Contigo Quiero (A Caballo)",
         "url": "https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5"
       },
@@ -563,6 +547,38 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
+        "name": "Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 210471,
+      "name": "Vives En M\u00ed",
+      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV"
+      },
+      "artists": [
+        {
+          "name": "Osbaldo Lopez",
+          "url": "https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Tu Eterno Enamorado",
+      "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 192928,
       "name": "Cas\u00ed 16",
       "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
-        "name": "Voz De Mi Sangre",
-        "url": "https://open.spotify.com/album/5NHM9KspGB52hSxbsJSTfa"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Me Declaro Culpable",
-      "url": "https://open.spotify.com/track/5pdJChOYdT3fbM3oCBWI0G"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Esclavo y Amo (Live)",
-        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 198675,
-      "name": "Esclavo y Amo - Live",
-      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
+        "name": "Esclavo y Amo (Live)",
+        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 198675,
+      "name": "Esclavo y Amo - Live",
+      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
         "name": "Mariachazo",
         "url": "https://open.spotify.com/album/6KoKbuvrKOwj6p2SvQUJbI"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 194401,
       "name": "Con un Polvo y Otro Polvo",
       "url": "https://open.spotify.com/track/5i8rqPKr4eK92GbScBVWT3"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
-        "name": "Jalisco",
-        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
-      },
-      "artists": [
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Cuando Ya No Me Quieras",
-      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -743,6 +727,38 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Jalisco",
+        "url": "https://open.spotify.com/album/1r0B4vJsMJZO9Px4T76h8f"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Cuando Ya No Me Quieras",
+      "url": "https://open.spotify.com/track/1iY4NtSxVzsjZzA9mMsoqS"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Ahora Si Quieres Querer",
-        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 173391,
-      "name": "Ahora Si Quieres Querer",
-      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "El Adi\u00f3s Ranchero",
         "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 170997,
       "name": "El Adi\u00f3s Ranchero",
       "url": "https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Ahora Si Quieres Querer",
+        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 173391,
+      "name": "Ahora Si Quieres Querer",
+      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Traigan Las Otras",
-        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "Traigan Las Otras",
-      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Angelito Sin Alas",
         "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 168238,
       "name": "Angelito Sin Alas",
       "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Traigan Las Otras",
+        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "Traigan Las Otras",
+      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Besitos Al Contado",
-        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "Besitos Al Contado",
-      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Esa Perra Ya Me Mordi\u00f3",
         "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 210592,
       "name": "Esa Perra Ya Me Mordi\u00f3",
       "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Besitos Al Contado",
+        "url": "https://open.spotify.com/album/2lsnbG5Ni6R8Xg7bf3p3Hk"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "Besitos Al Contado",
+      "url": "https://open.spotify.com/track/5SrgU1hxy0z7AOhGIEcFeB"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x"
-      },
-      "artists": [
-        {
-          "name": "Valerio Mela \u201cEl Charro De Florencia\u201d",
-          "url": "https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ"
-        }
-      ],
-      "duration_ms": 164457,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "El Target",
         "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 165693,
       "name": "El Target",
       "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/5iKkWymsKC6daUbogymJ2x"
+      },
+      "artists": [
+        {
+          "name": "Valerio Mela \u201cEl Charro De Florencia\u201d",
+          "url": "https://open.spotify.com/artist/5BFQpZXeqT75FmJ2cNvtCZ"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/0cDWTsuquJiwFq4PSXhssx"
     },
     {
       "added_at": "2026-10-23 06:00:35",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-10-23 06:00:35",
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        }
-      ],
-      "duration_ms": 168622,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
-    },
-    {
-      "added_at": "2026-10-23 06:00:35",
-      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 184167,
       "name": "Antes",
       "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
+    },
+    {
+      "added_at": "2026-10-23 06:00:35",
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        }
+      ],
+      "duration_ms": 168622,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
     },
     {
       "added_at": "2026-10-23 06:00:35",

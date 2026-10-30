@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 300591,
       "name": "Huya mweya mutsvene",
       "url": "https://open.spotify.com/track/0SrlRam7TYp0RK7wwV07TQ"
@@ -6737,6 +6737,28 @@
     },
     {
       "album": {
+        "name": "Size Kuwe (Live)",
+        "url": "https://open.spotify.com/album/3IN6LEwTuhVZkE8DMx7lur"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Sindi Ntombela",
+          "url": "https://open.spotify.com/artist/7cgnTBawtnmiIuatGdoQ0U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529453,
+      "name": "Size Kuwe - Live",
+      "url": "https://open.spotify.com/track/0cR1wFA3TEP8Hi9RUcs0hA"
+    },
+    {
+      "album": {
         "name": "Sizohlala",
         "url": "https://open.spotify.com/album/0K9gWWXqmdnvyGvjmHXRY3"
       },
@@ -7038,6 +7060,28 @@
       "duration_ms": 296414,
       "name": "The Lord Is My Sheperd",
       "url": "https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99"
+    },
+    {
+      "album": {
+        "name": "The Only God (Live at Rhema Church 2026)",
+        "url": "https://open.spotify.com/album/5shGgDPg5Mp6IzOsquiAmy"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        },
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611053,
+      "name": "The Only God (Live at Rhema Church 2026)",
+      "url": "https://open.spotify.com/track/2e0vyTPYRbjrngxnMgvu0a"
     },
     {
       "album": {
@@ -7590,7 +7634,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 226168,
       "name": "UKHULUMA OKUHLENGAMI",
       "url": "https://open.spotify.com/track/1s2J65siN4g62ctUjw5674"

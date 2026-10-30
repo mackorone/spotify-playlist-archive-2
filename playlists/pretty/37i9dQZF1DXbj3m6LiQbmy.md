@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Birthh in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,568 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,570 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 58 | [Guilty Pleasure](https://open.spotify.com/track/4PfEKbg8CrOOBimaK6OElN) | [Alo](https://open.spotify.com/artist/1hPkkQRvcVFnvB3Zo29UyF) | [OMO](https://open.spotify.com/album/4EyclYuGLRysghH6JVQ8D9) | 2:19 |
 | 59 | [Young Forever](https://open.spotify.com/track/0eU6ogqTZmNiARD4PGNaJo) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Young Forever](https://open.spotify.com/album/0GIZIsdYluq59vJolVAOfc) | 3:50 |
 
-Snapshot ID: `AAAAADP7tUEFftqdH/pnJWE8lKherEJt`
+Snapshot ID: `AAAAAI9IVr/5JnkQvjmzeTQd/4D5F8LW`

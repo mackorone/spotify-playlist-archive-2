@@ -1,12 +1,12 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover: FOLA",
-  "num_followers": 105288,
+  "num_followers": 105461,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdK6bYPTP4dJ3c5PtnRh3s8IVrx",
+  "snapshot_id": "AAAAAAp8SE5sNmXGTd4gr8bBcRE9Sfmc",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:47",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 147796,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 127565,
       "name": "Guide",
       "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 147796,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 207123,
-      "name": "I Alone",
-      "url": "https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 162063,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 207123,
+      "name": "I Alone",
+      "url": "https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
         "name": "Bhadriyun",
         "url": "https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 184000,
       "name": "Shkran Lak",
       "url": "https://open.spotify.com/track/1LI2n5x6htKLCAzc6lCN8k"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "My Light (with Llona)",
-      "url": "https://open.spotify.com/track/2Z6jDJCq9y8MxrIvEWfgwL"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
         "name": "Uzo Ano",
         "url": "https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 218181,
       "name": "Uzo Ano",
       "url": "https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "My Light (with Llona)",
+      "url": "https://open.spotify.com/track/2Z6jDJCq9y8MxrIvEWfgwL"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Lonely Road",
-        "url": "https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 157538,
-      "name": "Lonely Road",
-      "url": "https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/6NR3x6Epq5M7f07qkzaOMr"
       },
@@ -947,34 +927,22 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+        "name": "Lonely Road",
+        "url": "https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
         {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+      "duration_ms": 157538,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -1003,18 +971,18 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
       },
       "artists": [
         {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 146285,
-      "name": "1000 Thoughts",
-      "url": "https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5"
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -1051,18 +1019,18 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 171138,
-      "name": "MARIO KART",
-      "url": "https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U"
+      "duration_ms": 146285,
+      "name": "1000 Thoughts",
+      "url": "https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -1079,6 +1047,54 @@
       "duration_ms": 144100,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 171138,
+      "name": "MARIO KART",
+      "url": "https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -1115,22 +1131,6 @@
       "duration_ms": 150000,
       "name": "Motide",
       "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 206268,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
         "name": "Alafia (Peace)",
         "url": "https://open.spotify.com/album/4CRMVk2PII9z2xZQcGLcMF"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9"
+        "name": "Hope for Ghetto Youth",
+        "url": "https://open.spotify.com/album/40B4uYQBcRNEPGxwMFuSH9"
       },
       "artists": [
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Obedo PF",
+          "url": "https://open.spotify.com/artist/7k101dkUO2zeS4BDohLMvm"
         }
       ],
-      "duration_ms": 206268,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u"
+      "duration_ms": 145080,
+      "name": "Imperfect (R.I.P To The Money)",
+      "url": "https://open.spotify.com/track/7J1qawxA1ewz7syweC0FqK"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -1335,38 +1351,6 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Omo",
-        "url": "https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Omo",
-      "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
-        "name": "High Tension",
-        "url": "https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 154615,
-      "name": "Sho Mo Mi",
-      "url": "https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
         "name": "Adura",
         "url": "https://open.spotify.com/album/0Q4hbbDXyxsSQz5wWUNMe1"
       },
@@ -1387,18 +1371,34 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Hope for Ghetto Youth",
-        "url": "https://open.spotify.com/album/40B4uYQBcRNEPGxwMFuSH9"
+        "name": "High Tension",
+        "url": "https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1"
       },
       "artists": [
         {
-          "name": "Obedo PF",
-          "url": "https://open.spotify.com/artist/7k101dkUO2zeS4BDohLMvm"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 145080,
-      "name": "Imperfect (R.I.P To The Money)",
-      "url": "https://open.spotify.com/track/7J1qawxA1ewz7syweC0FqK"
+      "duration_ms": 154615,
+      "name": "Sho Mo Mi",
+      "url": "https://open.spotify.com/track/2jQuziL4jIUO8YhcRfTpZr"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Omo",
+        "url": "https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Omo",
+      "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"
     },
     {
       "added_at": "2026-10-23 00:01:47",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-10-23 00:01:47",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
-      },
-      "artists": [
-        {
-          "name": "Khid Ceejay",
-          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
-    },
-    {
-      "added_at": "2026-10-23 00:01:47",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4"
       },
@@ -1451,6 +1431,22 @@
       "duration_ms": 160824,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9"
+    },
+    {
+      "added_at": "2026-10-23 00:01:47",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
     }
   ],
   "unique_name": "afro adura ",

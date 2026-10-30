@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Anna Lille",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Peder Elias",
   "name": "Ny Pop",
   "tracks": [
     {
@@ -4439,6 +4439,24 @@
     },
     {
       "album": {
+        "name": "GROW ON TREES",
+        "url": "https://open.spotify.com/album/1xDCnrAtBvfFGJAwCtp002"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152160,
+      "name": "GROW ON TREES",
+      "url": "https://open.spotify.com/track/7CjAKrGHRAYf3EBQphBZDW"
+    },
+    {
+      "album": {
         "name": "Gr\u00e5ter (over det som er over)",
         "url": "https://open.spotify.com/album/5kIlS4ElkjtfyspAUnKzhQ"
       },
@@ -5702,6 +5720,24 @@
       "duration_ms": 203693,
       "name": "hvem kan seile foruten vind?",
       "url": "https://open.spotify.com/track/3UJSu6CRKFHPNZm0q387Mq"
+    },
+    {
+      "album": {
+        "name": "Dr\u00f8mmen jeg vil selge, holder meg v\u00e5ken.",
+        "url": "https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh"
+      },
+      "artists": [
+        {
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162946,
+      "name": "Hvis han kjenner deg s\u00e5 godt",
+      "url": "https://open.spotify.com/track/2ABRYmppRJ8RF9zzFm8ETo"
     },
     {
       "album": {
@@ -8172,7 +8208,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 185160,
       "name": "Middle Ground",
       "url": "https://open.spotify.com/track/2ztYk3o7ablJ2yOdBNcJF6"
@@ -9580,7 +9616,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 185000,
       "name": "Porselen",
       "url": "https://open.spotify.com/track/25Z16WjIS1LxA4M1piaqfB"
@@ -13292,7 +13328,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 206990,
       "name": "Want You More",
       "url": "https://open.spotify.com/track/09iNPNZu7z1WHtWn4l7CUk"

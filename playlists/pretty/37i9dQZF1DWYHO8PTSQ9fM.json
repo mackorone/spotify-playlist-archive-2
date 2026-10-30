@@ -1,12 +1,12 @@
 {
   "description": "The hottest hits right now. ",
-  "num_followers": 680081,
+  "num_followers": 680099,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQ5+MSE3qtRatb2SX2W8EgvJuSt",
+  "snapshot_id": "AAAAAP6KKBckE4aBYRoUfcOE6S7IKgnq",
   "tracks": [
     {
       "added_at": "2026-10-12 05:59:32",
@@ -69,6 +69,26 @@
       "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
     },
     {
+      "added_at": "2026-10-29 09:37:30",
+      "album": {
+        "name": "Risala",
+        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        },
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Risala",
+      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
+    },
+    {
       "added_at": "2026-10-12 05:59:32",
       "album": {
         "name": "DESPERADO",
@@ -83,6 +103,26 @@
       "duration_ms": 164000,
       "name": "KILOWAT",
       "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
+    },
+    {
+      "added_at": "2026-10-29 09:37:30",
+      "album": {
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 228769,
+      "name": "Sabor",
+      "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
     },
     {
       "added_at": "2026-10-12 05:59:32",
@@ -171,6 +211,22 @@
       "duration_ms": 217000,
       "name": "PRINCES DE LA VILLE",
       "url": "https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4"
+    },
+    {
+      "added_at": "2026-10-29 09:37:30",
+      "album": {
+        "name": "MAWALI",
+        "url": "https://open.spotify.com/album/04LTdusuEPGKOta19W7PAT"
+      },
+      "artists": [
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "duration_ms": 238030,
+      "name": "MAWALI",
+      "url": "https://open.spotify.com/track/08JmEOwdYsgqGIIHdHYFQW"
     },
     {
       "added_at": "2026-10-12 05:59:32",
@@ -687,26 +743,6 @@
     {
       "added_at": "2026-10-12 05:59:32",
       "album": {
-        "name": "SPA",
-        "url": "https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "SPA",
-      "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
         "name": "SALGOAT (Vol. 2)",
         "url": "https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF"
       },
@@ -867,26 +903,6 @@
     {
       "added_at": "2026-10-12 05:59:32",
       "album": {
-        "name": "SPLIT",
-        "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        },
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "TJENENY",
-      "url": "https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
         "name": "Quand elle danse",
         "url": "https://open.spotify.com/album/1AS846nygfxTVD46ahSeSX"
       },
@@ -907,38 +923,6 @@
     {
       "added_at": "2026-10-12 05:59:32",
       "album": {
-        "name": "HWASI",
-        "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "HWASI",
-      "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
-        "name": "Badadi",
-        "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
-      },
-      "artists": [
-        {
-          "name": "Douaa Lahyaoui",
-          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
-        }
-      ],
-      "duration_ms": 165057,
-      "name": "Badadi",
-      "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
-    },
-    {
-      "added_at": "2026-10-12 05:59:32",
-      "album": {
         "name": "D\u00e9g\u00e2t",
         "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
       },
@@ -955,6 +939,26 @@
       "duration_ms": 145512,
       "name": "Tout donner",
       "url": "https://open.spotify.com/track/6a5pKXuDODMRubAW7aXYOO"
+    },
+    {
+      "added_at": "2026-10-12 05:59:32",
+      "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "TJENENY",
+      "url": "https://open.spotify.com/track/15inJJqxM31I8sKAUxucEg"
     }
   ],
   "unique_name": "Hot Hits Morocco",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: MALIQ & D'Essentials",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: GANGGA",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 139842,
       "name": "#COWOBARU",
       "url": "https://open.spotify.com/track/45uoZjOMDsAcA7N6Hajd4W"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 284000,
       "name": "Adam",
       "url": "https://open.spotify.com/track/3GDr3vHPxSJT75J3r6JRlY"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 240833,
       "name": "Aku Bisa",
       "url": "https://open.spotify.com/track/3BC3irBN5RVAXtdU0f4b8p"
@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Ayo Senyumlah",
+        "url": "https://open.spotify.com/album/1cIQrZqp65UrwJsIAAAHqg"
+      },
+      "artists": [
+        {
+          "name": "JKT48",
+          "url": "https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Ayo Senyumlah",
+      "url": "https://open.spotify.com/track/6jGZMHV5ONeZZmITCTe34V"
+    },
+    {
+      "album": {
         "name": "Babak Terakhir",
         "url": "https://open.spotify.com/album/7oms6zH06xEyReTsPsuzWi"
       },
@@ -1524,6 +1542,24 @@
       "duration_ms": 205002,
       "name": "Bangga",
       "url": "https://open.spotify.com/track/1NajyXjwvpw1E9XTCWFSep"
+    },
+    {
+      "album": {
+        "name": "BATIH (From \"GAK ADA MATINYA\")",
+        "url": "https://open.spotify.com/album/3wAhHh79uF3GvikBVjIEhy"
+      },
+      "artists": [
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369822,
+      "name": "BATIH - From \"GAK ADA MATINYA\"",
+      "url": "https://open.spotify.com/track/0t7FNyXP6ByfGamJL43RVp"
     },
     {
       "album": {
@@ -3168,7 +3204,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 253848,
       "name": "Cinta Ini Membunuhku",
       "url": "https://open.spotify.com/track/0iV9bS13Ja9glvrpKUMveg"
@@ -3230,6 +3266,28 @@
       "duration_ms": 248832,
       "name": "Cinta Seperti Aku",
       "url": "https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG"
+    },
+    {
+      "album": {
+        "name": "Cinta Sudah Lewat",
+        "url": "https://open.spotify.com/album/1ZBXwCD86NrmKknf9DUuXf"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        },
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258480,
+      "name": "Cinta Sudah Lewat",
+      "url": "https://open.spotify.com/track/4w985nzznRdCPg3aIJPleZ"
     },
     {
       "album": {
@@ -6741,6 +6799,28 @@
     },
     {
       "album": {
+        "name": "Kera Sakti",
+        "url": "https://open.spotify.com/album/5GKaTDVdFAUiT8YVXFvara"
+      },
+      "artists": [
+        {
+          "name": "Akbar Chalay",
+          "url": "https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW"
+        },
+        {
+          "name": "Matta",
+          "url": "https://open.spotify.com/artist/1xq4dLQzXMqqtp0iPavQvw"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166970,
+      "name": "Kera Sakti",
+      "url": "https://open.spotify.com/track/5lgoIoqCAFyb1wkssCMpKX"
+    },
+    {
+      "album": {
         "name": "Hanya Figuran",
         "url": "https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy"
       },
@@ -7036,7 +7116,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 202000,
       "name": "Kita Ke Sana - NFT Remix",
       "url": "https://open.spotify.com/track/1azkTvPUSLkS7V22torHx6"
@@ -7312,7 +7392,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 289750,
       "name": "Kuingin Kau Tau",
       "url": "https://open.spotify.com/track/5BWHwIlnNoH4HYVe7Ysi7C"
@@ -7892,6 +7972,24 @@
       "duration_ms": 256946,
       "name": "Little Time For Love",
       "url": "https://open.spotify.com/track/3MlLMBQxcbhAToQvMYiRoB"
+    },
+    {
+      "album": {
+        "name": "lo gue end",
+        "url": "https://open.spotify.com/album/3xozstp26X9G8wgwu0J7jS"
+      },
+      "artists": [
+        {
+          "name": "dia",
+          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "lo gue end",
+      "url": "https://open.spotify.com/track/1UuYlhwwtVuiP0DJtkFGIC"
     },
     {
       "album": {
@@ -9317,6 +9415,28 @@
     },
     {
       "album": {
+        "name": "ALBUM.",
+        "url": "https://open.spotify.com/album/4NT2FhjZW6jqGaRJMjjptu"
+      },
+      "artists": [
+        {
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
+        },
+        {
+          "name": "Jessy Alexa",
+          "url": "https://open.spotify.com/artist/6JpwRqEtkOKFKBPT9viK1s"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203618,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/0soDvBVF4IlgLcdml9lale"
+    },
+    {
+      "album": {
         "name": "MMG (My Mine Gueh)",
         "url": "https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM"
       },
@@ -9332,6 +9452,24 @@
       "duration_ms": 193090,
       "name": "MMG (My Mine Gueh)",
       "url": "https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU"
+    },
+    {
+      "album": {
+        "name": "5 Hours Apart, 2017",
+        "url": "https://open.spotify.com/album/49Ube0mqrwNXM34eQNdeXo"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174705,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2YssforqRMPhhncRjoj1as"
     },
     {
       "album": {
@@ -10453,6 +10591,28 @@
     },
     {
       "album": {
+        "name": "Persetan Dunia",
+        "url": "https://open.spotify.com/album/2FzeYcyLoWVKS2H4Nn1QCa"
+      },
+      "artists": [
+        {
+          "name": "Adikara",
+          "url": "https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN"
+        },
+        {
+          "name": "Ave",
+          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133080,
+      "name": "Persetan Dunia",
+      "url": "https://open.spotify.com/track/0Xf3fUeaePv6ZpZqBPAKJu"
+    },
+    {
+      "album": {
         "name": "Pertiwi",
         "url": "https://open.spotify.com/album/3qYQ3T1B1kMHWvMeRtH25S"
       },
@@ -10468,6 +10628,24 @@
       "duration_ms": 228680,
       "name": "Pertiwi",
       "url": "https://open.spotify.com/track/0qaWprziAgg0suOirB3KEd"
+    },
+    {
+      "album": {
+        "name": "Pesona Rahasia",
+        "url": "https://open.spotify.com/album/4fgeQlMD0UMLKQya68HJDV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Pesona Rahasia",
+      "url": "https://open.spotify.com/track/7lRTISHzDAvEuYZct1NKL5"
     },
     {
       "album": {
@@ -12037,6 +12215,24 @@
     },
     {
       "album": {
+        "name": "Tutur Hayat",
+        "url": "https://open.spotify.com/album/1mfgNdtNyaxHBcg7pJ1PcR"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266884,
+      "name": "Semasa",
+      "url": "https://open.spotify.com/track/0PFqDqzBZrYyvJi5RHeZDf"
+    },
+    {
+      "album": {
         "name": "Sembuh Kembali",
         "url": "https://open.spotify.com/album/6V1lLksPRBbJejQPZmNSLp"
       },
@@ -13048,7 +13244,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 161379,
       "name": "Siapa Yang Salah",
       "url": "https://open.spotify.com/track/1zAvBONvnVO8JBW0kXGJcZ"
@@ -13604,7 +13800,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 170801,
       "name": "SURPRISE SURPRISE!",
       "url": "https://open.spotify.com/track/7jbV9eFuXrjWCTnNTaxtys"
@@ -14530,7 +14726,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 305741,
       "name": "terabas",
       "url": "https://open.spotify.com/track/1ImHE0IWsCbyMGun6wtujF"

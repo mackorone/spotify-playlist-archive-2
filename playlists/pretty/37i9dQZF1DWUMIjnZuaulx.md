@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: JJ Hairston
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,548 likes - 80 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,751 likes - 80 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [worship 101 \- the worship culture tour](https://open.spotify.com/track/5GCjjpNipaMG7z6Eegx3jv) | [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [worship 101 \(the worship culture tour\)](https://open.spotify.com/album/46kxeETDSztn44h2WPfd6E) | 3:45 |
 | 80 | [Made New \- Radio Edit](https://open.spotify.com/track/38GV2hTJoKJwhHsDRi9WbA) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Made New \(Radio Edit\)](https://open.spotify.com/album/00RBYgE7x0XFvLHCPZrPQq) | 3:39 |
 
-Snapshot ID: `AAAAAKfryFPXCn2ooq2PjW2TsdkQYarv`
+Snapshot ID: `AAAAAE/6HinaTVaPP0YE2+n2g3mB7jMc`

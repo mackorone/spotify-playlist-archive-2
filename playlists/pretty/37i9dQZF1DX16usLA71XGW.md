@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Victoria Kimani
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,452 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,475 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 49 | [Conquer](https://open.spotify.com/track/0KJI0836GUL4JT258Y5v4z) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Conquer](https://open.spotify.com/album/5qoAudHr7rBpuEH7Z8wlQt) | 3:36 |
 | 50 | [Wickedest Gurl](https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Wickedest Gurl](https://open.spotify.com/album/6S8KNgSLgHPQEMk4KI2iye) | 2:52 |
 
-Snapshot ID: `AAAAAIypbBjSX+b9XdRjTg/+6CQhOTFF`
+Snapshot ID: `AAAAAH7MUngnJEsyWwNA9G67wa/kjKR4`

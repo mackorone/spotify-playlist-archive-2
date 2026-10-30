@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,994 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,008 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [red weather](https://open.spotify.com/track/5pSC8KhubUzhy7039HDUOX) | [ONDA ANDAR](https://open.spotify.com/artist/2gGvBjb55mnnbQO2gNQSLo) | [red weather](https://open.spotify.com/album/2pkIle7FBzNvswhstCBztf) | 1:44 |
 | 50 | [порезы на руках](https://open.spotify.com/track/0EtY92q4WMdgY4nBQchLPt) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH), [elox1m](https://open.spotify.com/artist/0wmjDpXCckJ8zVOMWePyKh) | [порезы на руках](https://open.spotify.com/album/2IMxL0CBz4b6ZJVWspRESp) | 2:23 |
 
-Snapshot ID: `MnQmYAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MnbQaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

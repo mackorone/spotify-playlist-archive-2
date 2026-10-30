@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,601 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,642 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 49 | [Being the problem](https://open.spotify.com/track/2wJkGPUzUHcdDCPHe0bF4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Being the problem](https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T) | 2:56 |
 | 50 | [Airport Sadness](https://open.spotify.com/track/1GUq0NM1jtFvM092p9mSn6) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Airport Sadness](https://open.spotify.com/album/7MSn5r9bZi8PFkANlVqiRI) | 5:54 |
 
-Snapshot ID: `AAAAAHMLmqYsmHx1bqAp8C78+nWpknZE`
+Snapshot ID: `AAAAAGMUFxVdwsjZiljxThn2RroXHug+`

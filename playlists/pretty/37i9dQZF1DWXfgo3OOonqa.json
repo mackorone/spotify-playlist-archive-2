@@ -1,33 +1,13 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 332865,
+  "num_followers": 332818,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABkTCQl2Vl3aAIhCkkvcB1YY8fQh",
+  "snapshot_id": "AAAAAEjAxINOkQFBlJUCQkf44TKCRZTz",
   "tracks": [
-    {
-      "added_at": "2026-10-22 22:01:51",
-      "album": {
-        "name": "GUD SER ALLT",
-        "url": "https://open.spotify.com/album/4oUBBcyybAZgqhgtRfDD5n"
-      },
-      "artists": [
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "NBLNATION",
-          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
-        }
-      ],
-      "duration_ms": 139065,
-      "name": "GHETTO STARZ",
-      "url": "https://open.spotify.com/track/3cbLD0qAzfnZmVWcvJoiC6"
-    },
     {
       "added_at": "2026-10-22 22:01:51",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 143466,
       "name": "N\u00c4R VIE TV\u00c5",
       "url": "https://open.spotify.com/track/6NRUbUoqDviUVKKJpwcnPj"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "GUD SER ALLT",
+        "url": "https://open.spotify.com/album/4oUBBcyybAZgqhgtRfDD5n"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "duration_ms": 139065,
+      "name": "GHETTO STARZ",
+      "url": "https://open.spotify.com/track/3cbLD0qAzfnZmVWcvJoiC6"
     },
     {
       "added_at": "2026-10-22 22:01:51",
@@ -141,24 +141,20 @@
       "url": "https://open.spotify.com/track/2XpWB1Y9wjKKdpHgGsGUAa"
     },
     {
-      "added_at": "2026-10-22 22:01:51",
+      "added_at": "2026-10-29 23:00:30",
       "album": {
-        "name": "MINIMUM",
-        "url": "https://open.spotify.com/album/1Z0iPnzpFmoxogLJs18SlE"
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/55qRlhEeKoVzFTuDVKvcSw"
       },
       "artists": [
         {
-          "name": "Marti",
-          "url": "https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm"
-        },
-        {
-          "name": "K9",
-          "url": "https://open.spotify.com/artist/1VBKHbKfHBJgDPbfG8O1SA"
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
         }
       ],
-      "duration_ms": 144857,
-      "name": "MINIMUM",
-      "url": "https://open.spotify.com/track/1SMPGqY4zqdrawUrnOI6mJ"
+      "duration_ms": 119400,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/2TzjA3qHv43wyFsphWw5w6"
     },
     {
       "added_at": "2026-10-15 22:01:19",
@@ -191,6 +187,42 @@
       "duration_ms": 147187,
       "name": "LA LIGA",
       "url": "https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX"
+    },
+    {
+      "added_at": "2026-10-29 23:00:30",
+      "album": {
+        "name": "Faller",
+        "url": "https://open.spotify.com/album/0sOjCpAQWtNxP5H8seiYts"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Faller",
+      "url": "https://open.spotify.com/track/0wVzZTr0qDD20ttlcMjEr3"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "MINIMUM",
+        "url": "https://open.spotify.com/album/1Z0iPnzpFmoxogLJs18SlE"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm"
+        },
+        {
+          "name": "K9",
+          "url": "https://open.spotify.com/artist/1VBKHbKfHBJgDPbfG8O1SA"
+        }
+      ],
+      "duration_ms": 144857,
+      "name": "MINIMUM",
+      "url": "https://open.spotify.com/track/1SMPGqY4zqdrawUrnOI6mJ"
     },
     {
       "added_at": "2026-10-22 22:01:51",
@@ -1767,42 +1799,6 @@
       "duration_ms": 135671,
       "name": "ROBIN HOOD",
       "url": "https://open.spotify.com/track/6Ft3SAvmGhsyTA7M0vAcG9"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "Andiamo",
-        "url": "https://open.spotify.com/album/6f7CvwG32wORNujJ5wqcdK"
-      },
-      "artists": [
-        {
-          "name": "ROMANOS",
-          "url": "https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV"
-        },
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Andiamo",
-      "url": "https://open.spotify.com/track/32BRSCKjfaH74GeSKL6iHi"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/2BXF8rwTMRCHNBCie3TeSS"
-      },
-      "artists": [
-        {
-          "name": "Nabzz",
-          "url": "https://open.spotify.com/artist/7nGOvemHfv4AoYr6Gu3YLs"
-        }
-      ],
-      "duration_ms": 138285,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/0PEkgfUWADoS2GiibHSwdX"
     }
   ],
   "unique_name": "100",

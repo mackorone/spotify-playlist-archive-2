@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Milena Keimig
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,548 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,607 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Get to Know Me](https://open.spotify.com/track/4zh34E6Z93q8ZaS4AzQaz1) | [LOTTS](https://open.spotify.com/artist/2CCQ9gvSonrYi0dN6YKz49) | [Get to Know Me](https://open.spotify.com/album/5RGGbgHUhaOUdRij8WolO2) | 2:57 |
 | 50 | [Brauch Dich Nicht](https://open.spotify.com/track/1Um35IfeTi2tQw1TIavJaK) | [VANY](https://open.spotify.com/artist/438hcLBzFiTYwOffWeBkWj) | [Brauch Dich Nicht](https://open.spotify.com/album/5rIz3jjk5GPUBvPuuhPYsF) | 2:50 |
 
-Snapshot ID: `AAAAAASAh7FiDrQFQpKiN8kna/oY5CJu`
+Snapshot ID: `AAAAAPNY05Jrrvi9h5m9OdszZPDTm8zf`

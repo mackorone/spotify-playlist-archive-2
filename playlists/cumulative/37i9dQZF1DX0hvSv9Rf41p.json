@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Flux Pavilion",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring John Summit + Crankdat",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -382,7 +382,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 239562,
       "name": "A Little Bit",
       "url": "https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 183422,
       "name": "A.F.B.1.",
       "url": "https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 116392,
       "name": "All My",
       "url": "https://open.spotify.com/track/3P2kPkN22ANTYKuqmn3bz7"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 182422,
       "name": "ALL THE TIME - GorillaT Remix",
       "url": "https://open.spotify.com/track/11On2zeQqlgsZD2QwesDuo"
@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 234857,
       "name": "BENEATH THE NOISE",
       "url": "https://open.spotify.com/track/59IleznDfLCZszQbRX4rS4"
@@ -4190,7 +4190,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 198620,
       "name": "Birds Eye View",
       "url": "https://open.spotify.com/track/6YuxB2UdQl6feU3sgFsyix"
@@ -5062,7 +5062,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 241714,
       "name": "Booster Ignition",
       "url": "https://open.spotify.com/track/0ZsjHpMAheGfZCfn4eLhQU"
@@ -10099,6 +10099,24 @@
     },
     {
       "album": {
+        "name": "Disc Jockey",
+        "url": "https://open.spotify.com/album/1ulUmoJiH69rf9xhVLMxF7"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165521,
+      "name": "Disc Jockey",
+      "url": "https://open.spotify.com/track/3RpgrIc22vVhqkVYLe8IXH"
+    },
+    {
+      "album": {
         "name": "DISRESPECT",
         "url": "https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3"
       },
@@ -11482,6 +11500,24 @@
     {
       "album": {
         "name": "EARTHQUAKE",
+        "url": "https://open.spotify.com/album/6Ymu6SAHH5g8SuEW3zhzxt"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164528,
+      "name": "EARTHQUAKE",
+      "url": "https://open.spotify.com/track/0bGprkG9dD29L6fexeP0wH"
+    },
+    {
+      "album": {
+        "name": "EARTHQUAKE",
         "url": "https://open.spotify.com/album/6sUJYOeXRYPgAR24EpmD1H"
       },
       "artists": [
@@ -12722,7 +12758,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 243380,
       "name": "Eyes Cut Deeper - Crankdat Remix",
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
@@ -15411,6 +15447,24 @@
     },
     {
       "album": {
+        "name": "BassQuest Vol. 3",
+        "url": "https://open.spotify.com/album/6WJQhHQmGnpKOHsR5mothS"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108169,
+      "name": "Galactic Gas",
+      "url": "https://open.spotify.com/track/4gR5Cn1UOr9wYX2VaRMy4z"
+    },
+    {
+      "album": {
         "name": "GALACTICAL",
         "url": "https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa"
       },
@@ -17508,6 +17562,24 @@
       "duration_ms": 230400,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM"
+    },
+    {
+      "album": {
+        "name": "FROM DARKNESS, COMES LIGHT (ARCHIVE_COMPLETE)",
+        "url": "https://open.spotify.com/album/1flBDeacpSmZAzOWushfht"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "HEART SING",
+      "url": "https://open.spotify.com/track/5WxiFFAaDd5MXuNOV6FoUj"
     },
     {
       "album": {
@@ -19740,6 +19812,24 @@
       "duration_ms": 179144,
       "name": "IJUSTWANNA",
       "url": "https://open.spotify.com/track/7a0YkuVvfsSeJm8OaYUqRQ"
+    },
+    {
+      "album": {
+        "name": "BONEYARD",
+        "url": "https://open.spotify.com/album/4WGwcJAjNdRgOsX0Dc5TKt"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "ILFTR",
+      "url": "https://open.spotify.com/track/5V7y6mLUW3Gyu8IE3v2X3T"
     },
     {
       "album": {
@@ -24340,7 +24430,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154285,
       "name": "MAXIMUM SHELLA",
       "url": "https://open.spotify.com/track/3c3U56j8F1rb6yt3kKe40J"
@@ -26992,7 +27082,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 211862,
       "name": "NOISE COMPLAINT",
       "url": "https://open.spotify.com/track/6mh1IlyyKhqKDftgMyPyio"
@@ -28955,6 +29045,28 @@
     },
     {
       "album": {
+        "name": "PAPARAZZI",
+        "url": "https://open.spotify.com/album/4A9aQ0cv6eqJxLTecMzwFO"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/67cKUqNk98NmuwAhJQS83I"
+    },
+    {
+      "album": {
         "name": "HOLLOW WORLD",
         "url": "https://open.spotify.com/album/1X7hgRvsPzxBrc0Q3HC719"
       },
@@ -30183,6 +30295,24 @@
     },
     {
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/1oXH39KBBIUsRp3kAjGH8s"
+      },
+      "artists": [
+        {
+          "name": "HURTBOX",
+          "url": "https://open.spotify.com/artist/7rGhKsxlC6oLrCZmvh9rX6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171366,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/2riwfGhDGItxenftMpMYBT"
+    },
+    {
+      "album": {
         "name": "Shangri-La",
         "url": "https://open.spotify.com/album/4Wd709XzGV3CiZpX1ONSpM"
       },
@@ -31248,6 +31378,24 @@
       "duration_ms": 183400,
       "name": "RAW FLAVA (feat. Mississippi the Truth)",
       "url": "https://open.spotify.com/track/6zRitCK9PguydobQBX1IOW"
+    },
+    {
+      "album": {
+        "name": "RAWWW",
+        "url": "https://open.spotify.com/album/494q4LouWhxZGIjr3wFkf1"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "RAWWW",
+      "url": "https://open.spotify.com/track/0LySaNLaiyr0bOEsKGgALN"
     },
     {
       "album": {
@@ -32382,7 +32530,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 132000,
       "name": "ROWDY",
       "url": "https://open.spotify.com/track/6pXxxyrJFZm81EngAGY29W"
@@ -32748,7 +32896,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 161125,
       "name": "RUNthat",
       "url": "https://open.spotify.com/track/5X7NBJsmYirMl8AJuFJhUg"
@@ -33919,6 +34067,36 @@
     },
     {
       "album": {
+        "name": "SHADOWS [Remixes]",
+        "url": "https://open.spotify.com/album/3itXGuNVzwbba3TMi9VvVO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Kade Findley",
+          "url": "https://open.spotify.com/artist/6fGvNQ6DRR45Y2EPpiYPSD"
+        },
+        {
+          "name": "BLOOM",
+          "url": "https://open.spotify.com/artist/2kA3BETZAEoK6LOuydzp3Y"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "SHADOWS - Kade Findley x BLOOM Remix",
+      "url": "https://open.spotify.com/track/7yyf2ILh122qfx43v4Yp5p"
+    },
+    {
+      "album": {
         "name": "Shadows of Deceit",
         "url": "https://open.spotify.com/album/5Kwwwq1rtbhV8iKIRkss7M"
       },
@@ -34118,6 +34296,28 @@
       "duration_ms": 240000,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8"
+    },
+    {
+      "album": {
+        "name": "SHE LISTENS TO RIDDIM",
+        "url": "https://open.spotify.com/album/17fcTjXaBQVtMqy3NJwvxl"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "IANROCKS",
+          "url": "https://open.spotify.com/artist/7n0ETsJuv7yEsfPIriKIFy"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168939,
+      "name": "SHE LISTENS TO RIDDIM",
+      "url": "https://open.spotify.com/track/1XvfDsyFAQ6JSs8TXqUgDT"
     },
     {
       "album": {
@@ -34806,6 +35006,28 @@
       "duration_ms": 234331,
       "name": "Simulate",
       "url": "https://open.spotify.com/track/2yOvdhx6S0pmNQ0oYBpT0Z"
+    },
+    {
+      "album": {
+        "name": "Siren Call",
+        "url": "https://open.spotify.com/album/24XIY7jCUUvipr0fioLJBx"
+      },
+      "artists": [
+        {
+          "name": "COSTA",
+          "url": "https://open.spotify.com/artist/0QQK3NmM52eLrCMyPFdeVX"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156004,
+      "name": "Siren Call",
+      "url": "https://open.spotify.com/track/2hFOCvwpyhRuLf5WQJV1Uh"
     },
     {
       "album": {
@@ -42870,6 +43092,32 @@
       "duration_ms": 219428,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
+    },
+    {
+      "album": {
+        "name": "WITH ME [Crankdat Remix]",
+        "url": "https://open.spotify.com/album/3gHTcUva1zhO2SZHu6dxa8"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "WITH ME - Crankdat Remix",
+      "url": "https://open.spotify.com/track/0CNeSfSqaXGDkTKOG8soRk"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 470886,
+  "num_followers": 471041,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOvCYeDGm0LjJ0BtClfEvilvIULv",
+  "snapshot_id": "AAAAAEoVhZUhlIp8k3Ik/E3KXyg8roAa",
   "tracks": [
     {
       "added_at": "2025-12-02 09:29:59",
@@ -141,30 +141,6 @@
       "url": "https://open.spotify.com/track/2N96K0NT6IZ1f1OKrNoJZY"
     },
     {
-      "added_at": "2026-04-17 11:03:44",
-      "album": {
-        "name": "Andhra King Taluka",
-        "url": "https://open.spotify.com/album/1PV2P1dasOI3eRMUgn8NrM"
-      },
-      "artists": [
-        {
-          "name": "Vivek - Mervin",
-          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ram Pothineni",
-          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
-        }
-      ],
-      "duration_ms": 240101,
-      "name": "Nuvvunte Chaley",
-      "url": "https://open.spotify.com/track/5jK51FsM1NKphlwnFYBeKE"
-    },
-    {
       "added_at": "2023-01-11 20:52:12",
       "album": {
         "name": "V",
@@ -211,6 +187,30 @@
       "duration_ms": 275625,
       "name": "Urike Urike",
       "url": "https://open.spotify.com/track/3Chq3BCsBaK3VHX7yPtAC4"
+    },
+    {
+      "added_at": "2026-04-17 11:03:44",
+      "album": {
+        "name": "Andhra King Taluka",
+        "url": "https://open.spotify.com/album/1PV2P1dasOI3eRMUgn8NrM"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ram Pothineni",
+          "url": "https://open.spotify.com/artist/4yN1sB4NaGAgJhcSAH4fqq"
+        }
+      ],
+      "duration_ms": 240101,
+      "name": "Nuvvunte Chaley",
+      "url": "https://open.spotify.com/track/5jK51FsM1NKphlwnFYBeKE"
     },
     {
       "added_at": "2026-08-26 05:25:52",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
     },
     {
+      "added_at": "2023-12-15 08:53:49",
+      "album": {
+        "name": "Hi Nanna",
+        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Gaaju Bomma",
+      "url": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
+    },
+    {
       "added_at": "2022-10-17 05:05:06",
       "album": {
         "name": "Naa Madhi (From \"Thiru\")",
@@ -619,22 +635,6 @@
       "duration_ms": 174193,
       "name": "Naa Madhi (From \"Thiru\")",
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
-    },
-    {
-      "added_at": "2023-12-15 08:53:49",
-      "album": {
-        "name": "Hi Nanna",
-        "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Gaaju Bomma",
-      "url": "https://open.spotify.com/track/7xmkMdxtGt9jEQVyQK8TP8"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -893,26 +893,6 @@
       "url": "https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Petta (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4gtt8h7YGortJoVjb42k2H"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Mano",
-          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Massu Maranam - From \"Petta (Telugu)\"",
-      "url": "https://open.spotify.com/track/1Nh7gea2bnOt9i3HQI1JCB"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Radhe Shyam (Telugu)",
@@ -939,6 +919,26 @@
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
+    },
+    {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Petta (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4gtt8h7YGortJoVjb42k2H"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Massu Maranam - From \"Petta (Telugu)\"",
+      "url": "https://open.spotify.com/track/1Nh7gea2bnOt9i3HQI1JCB"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1737,22 +1737,6 @@
       "url": "https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Hemachandra Vedala",
-          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
-        }
-      ],
-      "duration_ms": 273181,
-      "name": "Oosupodu",
-      "url": "https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Agnyaathavaasi",
@@ -1769,6 +1753,22 @@
       "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        }
+      ],
+      "duration_ms": 273181,
+      "name": "Oosupodu",
+      "url": "https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV"
+    },
+    {
       "added_at": "2023-01-11 20:52:12",
       "album": {
         "name": "Hushaaru",
@@ -1783,22 +1783,6 @@
       "duration_ms": 173932,
       "name": "Undiporaadhey",
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Son Of Satyamurthy",
-        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 262488,
-      "name": "Seethakaalam",
-      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1821,6 +1805,22 @@
       "url": "https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Son Of Satyamurthy",
+        "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "duration_ms": 262488,
+      "name": "Seethakaalam",
+      "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
+    },
+    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Chalo",
@@ -1841,20 +1841,24 @@
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Jaanu",
-        "url": "https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG"
+        "name": "Srimanthudu",
+        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
       },
       "artists": [
         {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Suchitra",
+          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
         }
       ],
-      "duration_ms": 364375,
-      "name": "Life Of Ram",
-      "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
+      "duration_ms": 224194,
+      "name": "Jatha Kalise",
+      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1871,6 +1875,38 @@
       "duration_ms": 266715,
       "name": "Inkem Inkem Inkem Kaavaale",
       "url": "https://open.spotify.com/track/5JnXwEckWO0oFijOyTZDLf"
+    },
+    {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Jaanu",
+        "url": "https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "duration_ms": 364375,
+      "name": "Life Of Ram",
+      "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha Sniggy",
+          "url": "https://open.spotify.com/artist/7euN4DTRrzhKdldLOQEN7m"
+        }
+      ],
+      "duration_ms": 200772,
+      "name": "Choosa Choosa",
+      "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1913,6 +1949,22 @@
       "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Raahu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/708ZYfQX8GZEPozWVe0mqm"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 242412,
+      "name": "Emo Emo",
+      "url": "https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Amigos",
@@ -1949,42 +2001,6 @@
       "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Raahu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/708ZYfQX8GZEPozWVe0mqm"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 242412,
-      "name": "Emo Emo",
-      "url": "https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Srimanthudu",
-        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
-      },
-      "artists": [
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Suchitra",
-          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
-        }
-      ],
-      "duration_ms": 224194,
-      "name": "Jatha Kalise",
-      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Ala Vaikunthapurramuloo",
@@ -2019,6 +2035,22 @@
       "duration_ms": 237474,
       "name": "Gusa Gusa Lade",
       "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Pelli Choopulu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN"
+      },
+      "artists": [
+        {
+          "name": "Amritavarshini KC",
+          "url": "https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Chinuku Taake..",
+      "url": "https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -2067,6 +2099,26 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
+        },
+        {
+          "name": "Ramky",
+          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
+        }
+      ],
+      "duration_ms": 324546,
+      "name": "Vachinde",
+      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Son Of Satyamurthy",
         "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
       },
@@ -2091,26 +2143,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Madhu Priya",
-          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
-        },
-        {
-          "name": "Ramky",
-          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
-        }
-      ],
-      "duration_ms": 324546,
-      "name": "Vachinde",
-      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Shivam",
         "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
       },
@@ -2127,38 +2159,6 @@
       "duration_ms": 239372,
       "name": "Andamaina Lokam",
       "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Padmalatha Sniggy",
-          "url": "https://open.spotify.com/artist/7euN4DTRrzhKdldLOQEN7m"
-        }
-      ],
-      "duration_ms": 200772,
-      "name": "Choosa Choosa",
-      "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Aa Aaa",
-        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 215074,
-      "name": "Yellipoke Shyamala",
-      "url": "https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa"
     }
   ],
   "unique_name": "Tollywood Pearls",

@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis ",
-  "num_followers": 254105,
+  "num_followers": 254142,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM9cPGeXCX/AjdAB7LanigoVOdR/",
+  "snapshot_id": "AAAAAC0eunT2QPWn4yavwIWnfLYSOriT",
   "tracks": [
     {
       "added_at": "2026-10-09 04:01:53",
@@ -39,6 +39,38 @@
       "duration_ms": 337761,
       "name": "Scanners",
       "url": "https://open.spotify.com/track/5p9JMOuMlYLDtfWtzW23v6"
+    },
+    {
+      "added_at": "2026-10-09 04:01:53",
+      "album": {
+        "name": "Mnestic",
+        "url": "https://open.spotify.com/album/5XukSllCsOEZG7O1aWvTsn"
+      },
+      "artists": [
+        {
+          "name": "Teal Teal",
+          "url": "https://open.spotify.com/artist/7jG4HV4KgY0a4KAg02BEbu"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Mnestic",
+      "url": "https://open.spotify.com/track/5Iet1jqbp3MPveapghPI6l"
+    },
+    {
+      "added_at": "2026-10-30 04:00:44",
+      "album": {
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
     },
     {
       "added_at": "2026-10-09 04:01:53",
@@ -97,20 +129,20 @@
       "url": "https://open.spotify.com/track/1NNtxezHTDeOR9GPIhaUB0"
     },
     {
-      "added_at": "2026-10-09 04:01:53",
+      "added_at": "2026-10-30 04:00:44",
       "album": {
-        "name": "Mnestic",
-        "url": "https://open.spotify.com/album/5XukSllCsOEZG7O1aWvTsn"
+        "name": "Places Remember Events",
+        "url": "https://open.spotify.com/album/1yuH3TKLvw0ezuVNXYbYWQ"
       },
       "artists": [
         {
-          "name": "Teal Teal",
-          "url": "https://open.spotify.com/artist/7jG4HV4KgY0a4KAg02BEbu"
+          "name": "Eerie Enterprise",
+          "url": "https://open.spotify.com/artist/5tdZgtguZEwKtwSGqfSwDE"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Mnestic",
-      "url": "https://open.spotify.com/track/5Iet1jqbp3MPveapghPI6l"
+      "duration_ms": 192750,
+      "name": "Superradiance",
+      "url": "https://open.spotify.com/track/3GeOUH0OMzdluSCyPqqcUM"
     },
     {
       "added_at": "2026-10-09 04:01:53",
@@ -243,6 +275,22 @@
       "duration_ms": 509000,
       "name": "Bedside",
       "url": "https://open.spotify.com/track/3FMCzUaHUNx5frJHFkffRT"
+    },
+    {
+      "added_at": "2026-10-30 04:00:44",
+      "album": {
+        "name": "AQI",
+        "url": "https://open.spotify.com/album/0AeGNNGeL9UP0zW1IMNLGm"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "AQI",
+      "url": "https://open.spotify.com/track/0Tooubn4cVcxw7ip5klKm8"
     },
     {
       "added_at": "2026-10-09 04:01:53",
@@ -967,22 +1015,6 @@
     {
       "added_at": "2026-10-09 04:01:53",
       "album": {
-        "name": "Deception Dance",
-        "url": "https://open.spotify.com/album/7zKlprmx58m3HJxQnhfaHK"
-      },
-      "artists": [
-        {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
-        }
-      ],
-      "duration_ms": 456400,
-      "name": "Deception Dance",
-      "url": "https://open.spotify.com/track/2zDZE2b8jnciI2rnMmPlwD"
-    },
-    {
-      "added_at": "2026-10-09 04:01:53",
-      "album": {
         "name": "One Day (Polygonia Remix)",
         "url": "https://open.spotify.com/album/2OTDiJyHtlGAFfr03R1wHD"
       },
@@ -1351,22 +1383,6 @@
     {
       "added_at": "2026-10-09 04:01:53",
       "album": {
-        "name": "Moving The Center",
-        "url": "https://open.spotify.com/album/0w1AdhVZIcrNkhq2SaU0Q2"
-      },
-      "artists": [
-        {
-          "name": "Introspekt",
-          "url": "https://open.spotify.com/artist/31ykDn30Wy1xVAZJesUwgn"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "The Transmission",
-      "url": "https://open.spotify.com/track/0L8WK3gP0SWb7ZSFf6I3o6"
-    },
-    {
-      "added_at": "2026-10-09 04:01:53",
-      "album": {
         "name": "TRYNA",
         "url": "https://open.spotify.com/album/0GuYwUpt4B8ujqQTbSZTlO"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 353212,
       "name": "A Tune for Us",
       "url": "https://open.spotify.com/track/41Y0ch6R3jzpJOZv6nhf9Z"
-    },
-    {
-      "added_at": "2026-10-09 04:01:53",
-      "album": {
-        "name": "Mantis 17",
-        "url": "https://open.spotify.com/album/4gl2Xw4cIBgZHcAmKCNdGH"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 421967,
-      "name": "In Battere",
-      "url": "https://open.spotify.com/track/3tNFawmzOe0p2PzCd4gnQQ"
     },
     {
       "added_at": "2026-10-09 04:01:53",

@@ -1,12 +1,12 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29676,
+  "num_followers": 29672,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJnQTaqM4+plm+EsUEIjLFEr8J67",
+  "snapshot_id": "AAAAABXX1M4r+QN3ZAduB6pDg+qIDX8/",
   "tracks": [
     {
       "added_at": "2026-02-19 13:19:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "My Number One",
-        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
-      },
-      "artists": [
-        {
-          "name": "Helena Paparizou",
-          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "My Number One",
-      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Vem e som oss",
         "url": "https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 175604,
       "name": "Vem e som oss",
       "url": "https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "My Number One",
+        "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "My Number One",
+      "url": "https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Halcyon Days",
         "url": "https://open.spotify.com/album/69HuMCOG9mg3MkKY2fuYWg"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 204813,
       "name": "Temple of Love - Radio Edit",
       "url": "https://open.spotify.com/track/1cw6VQ7t4Wq4bIVKaLU768"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "A State Of Mind",
-        "url": "https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0"
-      },
-      "artists": [
-        {
-          "name": "E.M.D.",
-          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "Baby Goodbye",
-      "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Det blir vad du g\u00f6r det till",
         "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 190013,
       "name": "Efter solsken",
       "url": "https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "A State Of Mind",
+        "url": "https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0"
+      },
+      "artists": [
+        {
+          "name": "E.M.D.",
+          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
+        }
+      ],
+      "duration_ms": 174986,
+      "name": "Baby Goodbye",
+      "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
+        "name": "Den l\u00e5ngsamma blomman",
+        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Min k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
         "name": "X My Heart",
         "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 187520,
       "name": "Diggiloo Diggiley",
       "url": "https://open.spotify.com/track/43ZypSE73gRNdAySQTzyfs"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Den l\u00e5ngsamma blomman",
-        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Min k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
     },
     {
       "added_at": "2026-02-19 13:19:00",

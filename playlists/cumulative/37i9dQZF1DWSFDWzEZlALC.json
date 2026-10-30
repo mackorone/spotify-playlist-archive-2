@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JAS",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Baumgart",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -5892,7 +5892,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 141202,
       "name": "ciao bb",
       "url": "https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA"
@@ -6614,7 +6614,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 195123,
       "name": "Das Jahr War Schon Lang",
       "url": "https://open.spotify.com/track/6f76RjbZpibIhpUv0oWXMH"
@@ -7404,7 +7404,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 153912,
       "name": "Die Jugend hat Angst",
       "url": "https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w"
@@ -7534,7 +7534,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169640,
       "name": "Die sog. Liebe",
       "url": "https://open.spotify.com/track/6ro5sKrS43YAOjczUic4uq"
@@ -7896,6 +7896,28 @@
       "duration_ms": 213651,
       "name": "Drau\u00dfen ist Krieg",
       "url": "https://open.spotify.com/track/2uXqUQ4FlzcxmZZDJV9D41"
+    },
+    {
+      "album": {
+        "name": "drehen",
+        "url": "https://open.spotify.com/album/5LiqKApC2Z39nzO45sZZkV"
+      },
+      "artists": [
+        {
+          "name": "yuice",
+          "url": "https://open.spotify.com/artist/3HzRdBRqO4fYCxe50wLXx7"
+        },
+        {
+          "name": "beatsbythani",
+          "url": "https://open.spotify.com/artist/5IYGnwthwcA0aQqXFf6kfE"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "drehen",
+      "url": "https://open.spotify.com/track/3TDO3llzJlkT91Bycvmtpz"
     },
     {
       "album": {
@@ -8522,7 +8544,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 238218,
       "name": "Du verstehst mich nicht",
       "url": "https://open.spotify.com/track/6UfxmK9iMzRTxaCzPv8VMX"
@@ -9150,7 +9172,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 201821,
       "name": "einer dieser geister",
       "url": "https://open.spotify.com/track/3P8nXlkpxMasuwE2Gh1TfA"
@@ -14287,6 +14309,24 @@
     },
     {
       "album": {
+        "name": "Hat sie damals auch Nein gesagt?",
+        "url": "https://open.spotify.com/album/62YLtCcYqhAZXk5X6msLUa"
+      },
+      "artists": [
+        {
+          "name": "LIYO",
+          "url": "https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173316,
+      "name": "Hat sie damals auch Nein gesagt?",
+      "url": "https://open.spotify.com/track/2FpB9oB6I5K7liDo3Ln3GI"
+    },
+    {
+      "album": {
         "name": "Haus am Strand",
         "url": "https://open.spotify.com/album/31KAO9AGqHUIF3Ug8hTskl"
       },
@@ -15431,6 +15471,24 @@
     },
     {
       "album": {
+        "name": "Ich bin bereit",
+        "url": "https://open.spotify.com/album/53EJhWXIGFNP344vyerWIh"
+      },
+      "artists": [
+        {
+          "name": "TR\u00c4NEN",
+          "url": "https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140519,
+      "name": "Ich bin bereit",
+      "url": "https://open.spotify.com/track/6vUGqsRaRej1NzAr2lxtsx"
+    },
+    {
+      "album": {
         "name": "Heartbreakerei",
         "url": "https://open.spotify.com/album/5XUCJcBY0F7t9RCxdsnNTE"
       },
@@ -16142,6 +16200,24 @@
       "duration_ms": 171952,
       "name": "ICH WAR HIER",
       "url": "https://open.spotify.com/track/0Hiydp2FPlfsltfPgx3h14"
+    },
+    {
+      "album": {
+        "name": "Ich Werd Alt",
+        "url": "https://open.spotify.com/album/3dtIQikIeVzBwyDiwwwfyy"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242312,
+      "name": "Ich Werd Alt",
+      "url": "https://open.spotify.com/track/485QIGi2CuilVeLw8Sqzv4"
     },
     {
       "album": {
@@ -22493,6 +22569,42 @@
     },
     {
       "album": {
+        "name": "Meine Br\u00fcder fallen vom Himmel",
+        "url": "https://open.spotify.com/album/2lPyXbROQFFAjJroS4pMyV"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Meine Br\u00fcder fallen vom Himmel",
+      "url": "https://open.spotify.com/track/1gQkeYQQcxXv0fHUlE1HeJ"
+    },
+    {
+      "album": {
+        "name": "Meine Freunde haben Angst",
+        "url": "https://open.spotify.com/album/3RGzoFIBA5JIOW5CCVgYjr"
+      },
+      "artists": [
+        {
+          "name": "Baumgart",
+          "url": "https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Meine Freunde haben Angst",
+      "url": "https://open.spotify.com/track/08DB4EqP86GlnKUePmRgO5"
+    },
+    {
+      "album": {
         "name": "Meine Wohnung",
         "url": "https://open.spotify.com/album/7izhVupfvrvTSa4bxGbRi5"
       },
@@ -23430,6 +23542,24 @@
       "duration_ms": 206277,
       "name": "M\u00fcdes Herz",
       "url": "https://open.spotify.com/track/6Ozi2ap2IUpAv8UQzlnh0Y"
+    },
+    {
+      "album": {
+        "name": "Wellen",
+        "url": "https://open.spotify.com/album/4htFjNy3zuoaMYMIMvRy3U"
+      },
+      "artists": [
+        {
+          "name": "Taubenraucher",
+          "url": "https://open.spotify.com/artist/5S9ZXP1ahpEL15EhanRbKn"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239152,
+      "name": "Nach einem Traum",
+      "url": "https://open.spotify.com/track/62obwljLHf1rq96SvIoxQB"
     },
     {
       "album": {
@@ -28171,6 +28301,24 @@
     },
     {
       "album": {
+        "name": "schwarz/wei\u00df",
+        "url": "https://open.spotify.com/album/6dBtqyqYiwt4xY4HDplKOE"
+      },
+      "artists": [
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200460,
+      "name": "schwarz/wei\u00df",
+      "url": "https://open.spotify.com/track/57yrZVbGTTiGRrdCGhXFUu"
+    },
+    {
+      "album": {
         "name": "schwarze SUVs",
         "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
@@ -28280,7 +28428,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 126513,
       "name": "Schwerelos",
       "url": "https://open.spotify.com/track/2RM8WPg6KhG3SIxtzpYyr3"
@@ -28834,7 +28982,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 193200,
       "name": "September",
       "url": "https://open.spotify.com/track/6RbB86u66cgLu4SAbrbMLh"
@@ -29970,7 +30118,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 132758,
       "name": "Sommerregen",
       "url": "https://open.spotify.com/track/5obmQ5Xt3F7QcfboGtOusg"
@@ -32745,6 +32893,24 @@
     },
     {
       "album": {
+        "name": "Ullsteinhaus",
+        "url": "https://open.spotify.com/album/2KynymYoWHxZSz7rmqU3D2"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lia",
+          "url": "https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "Ullsteinhaus",
+      "url": "https://open.spotify.com/track/69Kia7OqbtvErb4OR4IeoW"
+    },
+    {
+      "album": {
         "name": "ultimate team",
         "url": "https://open.spotify.com/album/2tPPLrYM3yYqUWiiDZqk5p"
       },
@@ -33020,7 +33186,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 149055,
       "name": "unperfekt",
       "url": "https://open.spotify.com/track/5hOYOpPaZ0sfscHAV3NTZm"
@@ -37060,6 +37226,24 @@
       "duration_ms": 175093,
       "name": "Yipi",
       "url": "https://open.spotify.com/track/5zQxyCW84HkepYTAihUyEM"
+    },
+    {
+      "album": {
+        "name": "Zeit Teilen",
+        "url": "https://open.spotify.com/album/2zDh5DPVjPKrDRQ8VUijcv"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Yokohama",
+      "url": "https://open.spotify.com/track/0vRR1W6ckPBsQiDtkxxJFG"
     },
     {
       "album": {

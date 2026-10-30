@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Omagoqa
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,220 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,291 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 59 | [Ekhoneni](https://open.spotify.com/track/12YzvBC1XT9dJv0oPsJhJJ) | [Babes Wodumo](https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e), [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Unkle Ken](https://open.spotify.com/artist/0FIhhOCSXaGnRzcSR8dmyH), [Madanon](https://open.spotify.com/artist/0MnqNJsyaYr24L9bN7PpJQ), [Rifle Deep](https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J) | [Ekhoneni](https://open.spotify.com/album/0DihIQXz0N6Ddqb31ium2x) | 6:40 |
 | 60 | [Last](https://open.spotify.com/track/7dyEXpj9gLJNWt5QCUECAc) | [Samkelo Chiliza](https://open.spotify.com/artist/6OuhacnQJDIe3TK799VJ3U) | [Gqom Mafia](https://open.spotify.com/album/1CtwCXuUdEwSiqqnppEQl7) | 4:51 |
 
-Snapshot ID: `AAAAAC8hGB3CtmGSG6uwM7uQRAxG8G3I`
+Snapshot ID: `AAAAAAEeYVajr2uqy1B6Xevdp0jyy3br`

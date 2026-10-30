@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: Moonchild Sanelly",
+  "description": "The best dance hits in Africa. Cover: Mr Thela",
   "name": "mint Africa",
   "tracks": [
     {
@@ -27229,6 +27229,28 @@
     },
     {
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2U1BImeRjdMnMk22tdDVjd"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Sobuye Sbonane",
+      "url": "https://open.spotify.com/track/4EmvNiLeIZFKlmjm9TyE33"
+    },
+    {
+      "album": {
         "name": "Socotra",
         "url": "https://open.spotify.com/album/6FgFCDlhAGB5S1uBr5hBds"
       },
@@ -30686,7 +30708,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194000,
       "name": "Tropical Island (feat. Gee Skillz)",
       "url": "https://open.spotify.com/track/5xHyRPe2muEv4qU3k76TEF"
@@ -31516,6 +31538,28 @@
       "duration_ms": 269757,
       "name": "Umhle (Lebzin & Dr Feel AfroSoul Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q"
+    },
+    {
+      "album": {
+        "name": "INTSIKA (KING OF GQOM)",
+        "url": "https://open.spotify.com/album/3MBVuIGagxE9z2sGvQaAnc"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374220,
+      "name": "uMhleli Wami",
+      "url": "https://open.spotify.com/track/7LfYDobdWzYHFhV8EQLAN6"
     },
     {
       "album": {
@@ -34102,7 +34146,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 377170,
       "name": "Wololo",
       "url": "https://open.spotify.com/track/53ofZtLKRJZUT6KpviQsHX"

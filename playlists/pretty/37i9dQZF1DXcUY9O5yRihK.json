@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Mei Semones",
-  "num_followers": 187834,
+  "num_followers": 187844,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB9KIJP/hIZ4jl9tsk+cMDCRH+OH",
+  "snapshot_id": "AAAAAN4AvECiZi0ZFXycT2csjwa9u4+B",
   "tracks": [
     {
       "added_at": "2026-10-02 04:00:54",
@@ -23,6 +23,22 @@
       "duration_ms": 183960,
       "name": "Howl",
       "url": "https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq"
+    },
+    {
+      "added_at": "2026-10-30 04:01:06",
+      "album": {
+        "name": "Young And Dumb",
+        "url": "https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Young And Dumb",
+      "url": "https://open.spotify.com/track/4b3EgGk2hdOQwBHvFQUTmJ"
     },
     {
       "added_at": "2026-08-21 04:01:37",
@@ -1227,22 +1243,6 @@
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
-    },
-    {
-      "added_at": "2026-08-21 04:01:37",
-      "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT"
-      },
-      "artists": [
-        {
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
-        }
-      ],
-      "duration_ms": 185176,
-      "name": "I Hear a Symphony",
-      "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv"
     },
     {
       "added_at": "2026-08-21 04:01:37",

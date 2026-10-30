@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Akalex. Curated with love by human Spotify editors. \n",
-  "num_followers": 219254,
+  "num_followers": 219379,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIn5rGNvq7mdhrIw+BlbYQs7LWXl",
+  "snapshot_id": "AAAAAPnk0Mh/CMOvssbrZxJgAyX5fQK+",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:02",
@@ -31,6 +31,38 @@
     {
       "added_at": "2026-10-16 04:02:02",
       "album": {
+        "name": "DEBBIE",
+        "url": "https://open.spotify.com/album/5UHkP3ZGxO8xtpaOJHtMv8"
+      },
+      "artists": [
+        {
+          "name": "Luke Andy",
+          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "DEBBIE",
+      "url": "https://open.spotify.com/track/2AvDDoOiPGfGYgB9hfbbvJ"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "Weapon X",
+        "url": "https://open.spotify.com/album/6imruFmzHqk6PoLlfLbZOK"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Weapon X",
+      "url": "https://open.spotify.com/track/5vShG2bZbMpYWJ7EA4e3pp"
+    },
+    {
+      "added_at": "2026-10-16 04:02:02",
+      "album": {
         "name": "want you (if you want me)",
         "url": "https://open.spotify.com/album/7CAU87QeZgIjm0D8ezezjK"
       },
@@ -45,36 +77,40 @@
       "url": "https://open.spotify.com/track/1GKyj57DLCUZWQxDibeilO"
     },
     {
-      "added_at": "2026-10-15 14:53:00",
+      "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "People Are Angry (DPMO)",
-        "url": "https://open.spotify.com/album/6zAfEdVFMjmCToho2FarZH"
+        "name": "Inner Layers",
+        "url": "https://open.spotify.com/album/23E8BLT6UClPaYNVvTwww7"
       },
       "artists": [
         {
-          "name": "X & Ivy",
-          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
         }
       ],
-      "duration_ms": 243582,
-      "name": "People Are Angry (DPMO)",
-      "url": "https://open.spotify.com/track/2GldOS8ieY71YHIB1g4CwH"
+      "duration_ms": 182571,
+      "name": "Denim Skies",
+      "url": "https://open.spotify.com/track/3pxCawkhftUcRcNuiP427d"
     },
     {
-      "added_at": "2026-10-16 04:02:02",
+      "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "DEBBIE",
-        "url": "https://open.spotify.com/album/5UHkP3ZGxO8xtpaOJHtMv8"
+        "name": "All The Mess That You Made",
+        "url": "https://open.spotify.com/album/2OrSnHipQyOxtsE4UJO7Ly"
       },
       "artists": [
         {
-          "name": "Luke Andy",
-          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        },
+        {
+          "name": "Moa Lisa",
+          "url": "https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E"
         }
       ],
-      "duration_ms": 195000,
-      "name": "DEBBIE",
-      "url": "https://open.spotify.com/track/2AvDDoOiPGfGYgB9hfbbvJ"
+      "duration_ms": 188881,
+      "name": "All The Mess That You Made",
+      "url": "https://open.spotify.com/track/0elcoYxyHRPMcff9M8PC91"
     },
     {
       "added_at": "2026-10-16 04:02:02",
@@ -91,6 +127,22 @@
       "duration_ms": 223256,
       "name": "Like This Like That",
       "url": "https://open.spotify.com/track/7imJIqxGxGPl4GxKe0jj5I"
+    },
+    {
+      "added_at": "2026-10-15 14:53:00",
+      "album": {
+        "name": "People Are Angry (DPMO)",
+        "url": "https://open.spotify.com/album/6zAfEdVFMjmCToho2FarZH"
+      },
+      "artists": [
+        {
+          "name": "X & Ivy",
+          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+        }
+      ],
+      "duration_ms": 243582,
+      "name": "People Are Angry (DPMO)",
+      "url": "https://open.spotify.com/track/2GldOS8ieY71YHIB1g4CwH"
     },
     {
       "added_at": "2026-09-18 04:02:35",
@@ -141,6 +193,22 @@
       "url": "https://open.spotify.com/track/2uaK3EiYXxt3ovJvjBfVBL"
     },
     {
+      "added_at": "2026-09-17 01:08:14",
+      "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
       "added_at": "2026-10-15 14:53:00",
       "album": {
         "name": "Only one",
@@ -161,20 +229,20 @@
       "url": "https://open.spotify.com/track/2UbOssp0YwkiL73JTAJUd4"
     },
     {
-      "added_at": "2026-09-17 01:08:14",
+      "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "The Arrival",
-        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/3lFbZtsQeyRcgBpwBcV5ns"
       },
       "artists": [
         {
-          "name": "KDAY",
-          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+          "name": "Adult Woman",
+          "url": "https://open.spotify.com/artist/7EE9TBEkPAqCMgv3s6Penk"
         }
       ],
-      "duration_ms": 211363,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+      "duration_ms": 185000,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/1l5VVJ9Jpu0CQLvEgOm2Lc"
     },
     {
       "added_at": "2026-10-15 14:53:00",
@@ -239,6 +307,22 @@
       "duration_ms": 194558,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/6vzBjc6Ea6EkPwfNwgMUUx"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/5Z4YbFDgHvxFkVKQT0Go1A"
+      },
+      "artists": [
+        {
+          "name": "Luke DuBose",
+          "url": "https://open.spotify.com/artist/0fAIJgZWvKYPsitqdWWXDi"
+        }
+      ],
+      "duration_ms": 168872,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/7aA10fO2OsQc3HixtYrey2"
     },
     {
       "added_at": "2026-10-15 14:53:00",
@@ -477,7 +561,7 @@
         }
       ],
       "duration_ms": 191818,
-      "name": "I Got A Story From... - Edds Eddit",
+      "name": "I Got A Story From... - Edd's Eddit",
       "url": "https://open.spotify.com/track/28JJCpmvuGEmtKKrOEnCpo"
     },
     {
@@ -769,38 +853,6 @@
       "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
-      "added_at": "2026-09-23 21:31:26",
-      "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/2vq0TwPj3gAEXHCZV69DvM"
-      },
-      "artists": [
-        {
-          "name": "Preece",
-          "url": "https://open.spotify.com/artist/1bajsLluyeJpzaPoRB8uLQ"
-        }
-      ],
-      "duration_ms": 171701,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/6o77Iq2lw3KoLUwb5AuN84"
-    },
-    {
-      "added_at": "2026-10-02 04:02:43",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/5jALUp0DsafOVPQbsV3Fkw"
-      },
-      "artists": [
-        {
-          "name": "RICHE",
-          "url": "https://open.spotify.com/artist/7i3bUgmAXd9ACqmCX7nc8D"
-        }
-      ],
-      "duration_ms": 251811,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0nEMbv2Ui5tiMyoZVsJMej"
-    },
-    {
       "added_at": "2026-09-25 17:24:48",
       "album": {
         "name": "BOUNCIN",
@@ -815,38 +867,6 @@
       "duration_ms": 156893,
       "name": "BOUNCIN",
       "url": "https://open.spotify.com/track/2g8ld6HN07H8ylTJVbeazz"
-    },
-    {
-      "added_at": "2026-09-18 04:02:35",
-      "album": {
-        "name": "YAAA!!!",
-        "url": "https://open.spotify.com/album/4L2GPeIbO96czj0QJm0DbE"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "YAAA!!!",
-      "url": "https://open.spotify.com/track/3zyKPdknVPhtZDj9shmexP"
-    },
-    {
-      "added_at": "2026-09-17 01:08:14",
-      "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1yw9QRhC3aj8PBgMWQ8ihz"
-      },
-      "artists": [
-        {
-          "name": "ACA (YU)",
-          "url": "https://open.spotify.com/artist/2sBmYkeeOmp0pIU3M4fMfH"
-        }
-      ],
-      "duration_ms": 347076,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/42sh19iYGReVErKTOKaAJy"
     },
     {
       "added_at": "2026-09-17 01:08:14",
@@ -915,22 +935,6 @@
       "duration_ms": 197169,
       "name": "SHE DOESN'T KNOW",
       "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
-    },
-    {
-      "added_at": "2026-09-17 18:08:05",
-      "album": {
-        "name": "i keep falling in love",
-        "url": "https://open.spotify.com/album/6qngY4agNcz8iS1QcBd4oz"
-      },
-      "artists": [
-        {
-          "name": "Tiiva",
-          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "i keep falling in love",
-      "url": "https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz"
     },
     {
       "added_at": "2026-09-18 04:02:35",

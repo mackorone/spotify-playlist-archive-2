@@ -1,12 +1,12 @@
 {
   "description": "A collection of feel-good songs from your favorite anime. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 100,
+  "num_followers": 121,
   "original_name": "Anime Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLE+4zVMjSuAscrPRUCJ7zTW+/Q",
+  "snapshot_id": "AAAAACWCR6MlvnpI/aNXvIit3oO7gQqH",
   "tracks": [
     {
       "added_at": "2026-10-19 15:00:36",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-10-19 15:00:36",
       "album": {
-        "name": "\u6ab8\u6aac",
-        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
+        "name": "\u30aa\u30ce\u30ac\u30df",
+        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
       },
       "artists": [
         {
-          "name": "BURNOUT SYNDROMES",
-          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
+          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
         }
       ],
-      "duration_ms": 244493,
-      "name": "FLY HIGH!!",
-      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
+      "duration_ms": 230875,
+      "name": "\u30aa\u30ce\u30ac\u30df",
+      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
     },
     {
       "added_at": "2026-10-19 15:00:36",
@@ -551,6 +551,22 @@
       "duration_ms": 191493,
       "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!)",
       "url": "https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj"
+    },
+    {
+      "added_at": "2026-10-19 15:00:36",
+      "album": {
+        "name": "\u6ab8\u6aac",
+        "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "FLY HIGH!!",
+      "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
     },
     {
       "added_at": "2026-10-19 15:00:36",
@@ -583,22 +599,6 @@
       "duration_ms": 359346,
       "name": "You See Big Girl / T:T",
       "url": "https://open.spotify.com/track/4dHOnPucB5VBYq3gjRtYy9"
-    },
-    {
-      "added_at": "2026-10-19 15:00:36",
-      "album": {
-        "name": "\u30aa\u30ce\u30ac\u30df",
-        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
-      },
-      "artists": [
-        {
-          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
-          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
-        }
-      ],
-      "duration_ms": 230875,
-      "name": "\u30aa\u30ce\u30ac\u30df",
-      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
     },
     {
       "added_at": "2026-10-19 15:00:36",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-19 15:00:36",
       "album": {
-        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
-        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
-      },
-      "artists": [
-        {
-          "name": "Sawano Hiroyuki",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "duration_ms": 236253,
-      "name": "Bauklotze",
-      "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm"
-    },
-    {
-      "added_at": "2026-10-19 15:00:36",
-      "album": {
         "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
         "url": "https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
+    },
+    {
+      "added_at": "2026-10-19 15:00:36",
+      "album": {
+        "name": "TV Anime \"Attack on Titan\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa"
+      },
+      "artists": [
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Bauklotze",
+      "url": "https://open.spotify.com/track/6oh6pyBUaJWZbhQKsq0iAm"
     },
     {
       "added_at": "2026-10-19 15:00:36",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-10-19 15:00:36",
       "album": {
-        "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai - My Hero Academia: Vigilantes Opening Theme Song",
-        "url": "https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0"
-      },
-      "artists": [
-        {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
-        }
-      ],
-      "duration_ms": 172550,
-      "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai",
-      "url": "https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6"
-    },
-    {
-      "added_at": "2026-10-19 15:00:36",
-      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/6MOiPzaRFngumUQFF4qG1A"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 206500,
       "name": "Period",
       "url": "https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0"
+    },
+    {
+      "added_at": "2026-10-19 15:00:36",
+      "album": {
+        "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai - My Hero Academia: Vigilantes Opening Theme Song",
+        "url": "https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "duration_ms": 172550,
+      "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai",
+      "url": "https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6"
     },
     {
       "added_at": "2026-10-19 15:00:36",

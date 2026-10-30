@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 265788,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
@@ -604,6 +604,24 @@
     {
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230624,
+      "name": "It's Okay To Cry",
+      "url": "https://open.spotify.com/track/0QA1xpUuqHDHWZhi0eAbH7"
+    },
+    {
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
       },
       "artists": [
@@ -614,7 +632,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 230624,
       "name": "It's Okay To Cry",
       "url": "https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 327093,
       "name": "Push Emission (Whore Moans)",
       "url": "https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF"

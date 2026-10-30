@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > romanticonas y fresonas, pero norteñonas\. Grupo Feroz en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,587 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,605 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 59 | [Hasta que me olvides](https://open.spotify.com/track/2pLeKStYmINcU3wZQyyYuk) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Hasta que me olvides](https://open.spotify.com/album/0IjT4iqJB64n8jvSChXERE) | 3:42 |
 | 60 | [No Me Eseñaste](https://open.spotify.com/track/0xsftBBEHpKurWaBmNdwPd) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [SUBJETIVO](https://open.spotify.com/album/4PCTH95BjGMBfSXXxbcBOT) | 3:11 |
 
-Snapshot ID: `AAAAAO/OtwXXsH5USx8HQ4w/o2YYUXpx`
+Snapshot ID: `AAAAAHLeK50Uvbg/lewjxlgI0Xik2HHb`

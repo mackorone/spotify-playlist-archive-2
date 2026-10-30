@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,506 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,503 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 89 | [finally out](https://open.spotify.com/track/0bNofMXhvYKmjoWXucYVMM) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [finally out](https://open.spotify.com/album/4oESUR3cDT50Gshm4Ef6jY) | 2:10 |
 | 90 | [JALSA](https://open.spotify.com/track/6U9u32BeswErszKG7mBOAj) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [JALSA](https://open.spotify.com/album/4dKVRp7yPmLsbQQwT1upW7) | 2:17 |
 
-Snapshot ID: `AAAAAEcFFIyy9sEul59PMw7yQvHRIqJT`
+Snapshot ID: `AAAAAJ18YzLbkOksu6wMzOQhTel5sAP+`

@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176413,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd"
@@ -9683,6 +9683,24 @@
     },
     {
       "album": {
+        "name": "misses independent",
+        "url": "https://open.spotify.com/album/6L2JFEfsVnzPyPcMahSJ5O"
+      },
+      "artists": [
+        {
+          "name": "Harris Hills",
+          "url": "https://open.spotify.com/artist/1dSuARb1qCtlxBWAObmCCW"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172428,
+      "name": "misses independent",
+      "url": "https://open.spotify.com/track/5SrEfnGeY0Ip8m8WUG5OQd"
+    },
+    {
+      "album": {
         "name": "mistakes",
         "url": "https://open.spotify.com/album/069zTIsdWb6aEsBb5Hmxp0"
       },
@@ -9882,7 +9900,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 180000,
       "name": "moving on",
       "url": "https://open.spotify.com/track/56kplWYajG9mIypjY8cVn4"
@@ -11295,6 +11313,24 @@
     },
     {
       "album": {
+        "name": "out west",
+        "url": "https://open.spotify.com/album/7xQLhBdFIRteAoJWmnWPrC"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161037,
+      "name": "out west",
+      "url": "https://open.spotify.com/track/5wmtWS6aHkZHQ4kBtpoyFf"
+    },
+    {
+      "album": {
         "name": "Over & Done",
         "url": "https://open.spotify.com/album/1202C1Z8kSjcCgfz33mCeu"
       },
@@ -12280,7 +12316,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163160,
       "name": "RAYA",
       "url": "https://open.spotify.com/track/5XvkekIwf8FnuJrRZN5uuC"
@@ -16050,6 +16086,24 @@
       "duration_ms": 141835,
       "name": "Waste Ur Time",
       "url": "https://open.spotify.com/track/6c7YABBOLl7jB6F0bntYcy"
+    },
+    {
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN"
+      },
+      "artists": [
+        {
+          "name": "Bana",
+          "url": "https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143335,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,193 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,349 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 49 | [Como, Cuando y Donde](https://open.spotify.com/track/0nDMe9fzaxuzGUfwnFgeWT) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [KOMP 104.9 Radio Compa \(International Version\)](https://open.spotify.com/album/6xwo7OlLx9OqM5CAlDaYpT) | 4:18 |
 | 50 | [Solo Como Amigos](https://open.spotify.com/track/0BgY6O6G7EtsneY6dAKZeI) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/59HfislZ5AH1pHZLUPy0Dm) | 4:33 |
 
-Snapshot ID: `AAAAAOOMmnWHq2vrEgeN1ae+ENm68Ll6`
+Snapshot ID: `AAAAAMaVIDLny+5BgvS4ejKoFtR26i7v`

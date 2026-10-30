@@ -1,12 +1,12 @@
 {
   "description": "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2026 official playlist. Cover: Chappell Roan.",
-  "num_followers": 18856,
+  "num_followers": 18855,
   "original_name": "New Year's Rockin' Eve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANloK9RaZaVpLhLcgWLbBQXfBful",
+  "snapshot_id": "AAAAAEgBJjpACKPeXWkzO+GImDSxHF9h",
   "tracks": [
     {
       "added_at": "2025-12-29 17:14:31",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-12-29 17:14:31",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
-    },
-    {
-      "added_at": "2025-12-29 17:14:31",
-      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "added_at": "2025-12-29 17:14:31",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": "2025-12-29 17:14:31",

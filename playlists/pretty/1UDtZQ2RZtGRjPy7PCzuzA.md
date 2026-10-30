@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,629 songs - 3 day 22 hr 8 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,656 songs - 3 day 23 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1637,5 +1637,32 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1627 | [Don't Move](https://open.spotify.com/track/1BeNZQORyV0jEF2toAmrsA) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/1O2FPFDjmyEOSTfqNuuuNG) | 4:18 |
 | 1628 | [Suddenly Seymour](https://open.spotify.com/track/1qXO4TSlXbCqh3VvSrqqd2) | [Hunter Foster](https://open.spotify.com/artist/43BnUJBWDZs1vEHVIStQRR) | [Little Shop Of Horrors \- New Broadway Cast](https://open.spotify.com/album/2NM95wJDobLrXFo3BTu7yL) | 3:37 |
 | 1629 | [Andria](https://open.spotify.com/track/4CvejJIsZNEzxrTGm6FoX9) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 4:20 |
+| 1630 | [Everybody Here Wants You](https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 4:46 |
+| 1631 | [Candy Darling](https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 1:55 |
+| 1632 | [Happy Birthday, Johnny](https://open.spotify.com/track/0pY9xoiH9hNo166spIpQWt) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:58 |
+| 1633 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
+| 1634 | [Smoking Section](https://open.spotify.com/track/2Kkg6KwQDY6hOHIoTxFL8d) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:37 |
+| 1635 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 |
+| 1636 | [Thinking About You](https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 6:36 |
+| 1637 | [But Not Kiss](https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:42 |
+| 1638 | [Wanna Quit All the Time](https://open.spotify.com/track/3w3seawXfQGat9yH2B8Tge) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 4:35 |
+| 1639 | [Lego Ring](https://open.spotify.com/track/2pcv2nqfX9zWYNm1iAfHKK) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 2:43 |
+| 1640 | [Feeling Good Today](https://open.spotify.com/track/4cuj3hgXjsSgvCuwFWNuKJ) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 1:26 |
+| 1641 | [Lifetime](https://open.spotify.com/track/34UJXh0z65NvqCtHA9Qe49) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 5:05 |
+| 1642 | [He Loves Me Yeah!](https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 2:50 |
+| 1643 | [eBay Purchase History](https://open.spotify.com/track/42106BG4Tc9SxIrDFBziXE) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:44 |
+| 1644 | [Tttttime](https://open.spotify.com/track/53xj4nMCGtcFV2kieeI5pk) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 2:30 |
+| 1645 | [The Elevator](https://open.spotify.com/track/5q1D86tncyZcURAKmD1M3d) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 1:40 |
+| 1646 | [Come Down Soon](https://open.spotify.com/track/3I91UEnb3zKGH9dmh0Pzop) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:44 |
+| 1647 | [Movie Star](https://open.spotify.com/track/7kUU6PNRwhYsGxnz5CdoKd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 1:32 |
+| 1648 | [You Forced Me To](https://open.spotify.com/track/2GpT8VsAJ5kB33Jy9JuIjT) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:03 |
+| 1649 | [Better Than This](https://open.spotify.com/track/4xh5KbVvdmvZhEt9ASuLTN) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:34 |
+| 1650 | [Drunk, Running](https://open.spotify.com/track/4cUrQm7Gq0kb7ISy7VQbXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 4:05 |
+| 1651 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
+| 1652 | [All Falls Down](https://open.spotify.com/track/4qngJdqe1xReKVBiehG1qs) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 2:51 |
+| 1653 | [Like It Tends To Do](https://open.spotify.com/track/0SJ2lNFuRMb2WeaFKYt3dw) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:25 |
+| 1654 | [Staying](https://open.spotify.com/track/6Jp9tZ8NrwXcrhSIriiwAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 2:31 |
+| 1655 | [I Guess](https://open.spotify.com/track/4CJpN2itULOBs95ltiSjbd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:44 |
+| 1656 | [Broken Glass](https://open.spotify.com/track/5Pm5OI224uMuOpxb3dWGAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:40 |
 
-Snapshot ID: `AAAOd+oLwC6e9WE4hwDiLRRBAEeWBVJv`
+Snapshot ID: `AAAOiu50DIBriMLSEjnDCmh5SixT1iuV`

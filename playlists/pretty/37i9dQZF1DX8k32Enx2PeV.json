@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17646,
+  "num_followers": 17658,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACr/7KQ3FyCWN3b802iRzTZoHj9O",
+  "snapshot_id": "AAAAABTwJ0/UjhXvp6Hi0ZM8J53l5rTT",
   "tracks": [
     {
       "added_at": "2026-10-23 04:59:37",
@@ -247,8 +247,8 @@
     {
       "added_at": "2026-10-23 04:59:37",
       "album": {
-        "name": "Segunda Cita",
-        "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
       "artists": [
         {
@@ -256,17 +256,17 @@
           "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         },
         {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 170013,
-      "name": "Segunda Cita",
-      "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
+      "duration_ms": 232149,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
     },
     {
       "added_at": "2026-10-23 04:59:37",
@@ -347,8 +347,8 @@
     {
       "added_at": "2026-10-23 04:59:37",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
+        "name": "Segunda Cita",
+        "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2"
       },
       "artists": [
         {
@@ -356,17 +356,17 @@
           "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
         }
       ],
-      "duration_ms": 232149,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
+      "duration_ms": 170013,
+      "name": "Segunda Cita",
+      "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
     },
     {
       "added_at": "2026-10-23 04:59:37",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-23 04:59:37",
       "album": {
-        "name": "PorquE Si Te QuedAs",
-        "url": "https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "PorquE Si Te QuedAs",
-      "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
-    },
-    {
-      "added_at": "2026-10-23 04:59:37",
-      "album": {
         "name": "AFRO RED 2",
         "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 143914,
       "name": "Linda",
       "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
+    },
+    {
+      "added_at": "2026-10-23 04:59:37",
+      "album": {
+        "name": "PorquE Si Te QuedAs",
+        "url": "https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "PorquE Si Te QuedAs",
+      "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
     },
     {
       "added_at": "2026-10-23 04:59:37",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-10-23 04:59:37",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
-    },
-    {
-      "added_at": "2026-10-23 04:59:37",
-      "album": {
         "name": "Aqu\u00ed Me Tienes",
         "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 157259,
       "name": "Aqu\u00ed Me Tienes",
       "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
+    },
+    {
+      "added_at": "2026-10-23 04:59:37",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2026-10-23 04:59:37",

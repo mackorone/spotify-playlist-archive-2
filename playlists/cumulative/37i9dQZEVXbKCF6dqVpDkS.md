@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-2,628 songs - 5 day 15 hr 22 min
+2,629 songs - 5 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-08-09 | 2023-02-12 |
 | [Baddie](https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Baddie](https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il) | 2:38 | 2023-02-04 | 2023-03-30 |
 | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/track/7KF8mOuWc31dUxtPyUng1c) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA) | 2:38 | 2025-06-21 | 2025-06-28 |
-| [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 | 2026-09-26 |  |
+| [BADDIES IN BELGICA](https://open.spotify.com/track/2OefqbXZLaLID6XFSHklYE) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/0qrQbpZvjTBhtASj7nFf1k) | 2:05 | 2026-09-26 | 2026-10-30 |
+| [BADDIES IN BELGICA](https://open.spotify.com/track/5t9FkbfKGL5c9tyjkacCeW) | [Issah](https://open.spotify.com/artist/59ZjXKy0c97P7681qe7Tsq) | [BADDIES IN BELGICA](https://open.spotify.com/album/6AISwJYc792a5rKs00ORWD) | 2:05 | 2026-10-29 |  |
 | [Baila bailalaa](https://open.spotify.com/track/3giTSv6iUSgwRxS7Op9Liv) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Baila bailalaa](https://open.spotify.com/album/3zMc3qEDZNtlrqlrZ9jKuH) | 2:56 | 2025-04-10 | 2025-04-30 |
 | [Baila bailalaa](https://open.spotify.com/track/0s0GNwEFTBE1cXezAyrmUi) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [46 \- Vol avontuur](https://open.spotify.com/album/1YGnCuWsBhzrFBBWwEeBku) | 2:57 | 2025-10-27 | 2025-10-29 |
 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 | 2025-06-07 | 2026-10-27 |

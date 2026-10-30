@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130622,
+  "num_followers": 130642,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJwNs7DWf7Hh70bpnGU2fOnDWGxy",
+  "snapshot_id": "AAAAAFg9dMXlisIS/84FumruR9dogObj",
   "tracks": [
     {
       "added_at": "2026-02-12 16:00:30",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u5922\u60f3\u5bb6 The Dreamer",
-        "url": "https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD"
-      },
-      "artists": [
-        {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
-        }
-      ],
-      "duration_ms": 236343,
-      "name": "\u56de\u7559",
-      "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Face II \u771f\u30fb\u88cf",
         "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 269990,
       "name": "\u6700\u7f8e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u5922\u60f3\u5bb6 The Dreamer",
+        "url": "https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        }
+      ],
+      "duration_ms": 236343,
+      "name": "\u56de\u7559",
+      "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
+        "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
+          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
+        }
+      ],
+      "duration_ms": 300215,
+      "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
+      "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
         "url": "https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 164658,
       "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
       "url": "https://open.spotify.com/track/552mGoI859GSkBonycZohA"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
-        "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb \u96de\u4e01",
-          "url": "https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon"
-        }
-      ],
-      "duration_ms": 300215,
-      "name": "\u7fd2\u6163\u4e0d\u7fd2\u6163",
-      "url": "https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
+        }
+      ],
+      "duration_ms": 232984,
+      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
+      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
-        "url": "https://open.spotify.com/album/1MIKDnwDgu4B74rZkF7nrl"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u82b7\u5a77",
-          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
-        }
-      ],
-      "duration_ms": 232984,
-      "name": "\u7fd2\u6163\u5f8c\u5c31\u5225\u8aaa\u75db\u4e86",
-      "url": "https://open.spotify.com/track/43U1WsvhsRjldPfFgWfj5e"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
         "url": "https://open.spotify.com/album/06tHgjx8kTP2HE9S49o6YN"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 202913,
       "name": "\u6211\u7684\u5b58\u5728\u5c31\u662f\u611b\u4f60",
       "url": "https://open.spotify.com/track/1emjanb16SqthPUn27rUCp"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "!!!!",
-        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
-      },
-      "artists": [
-        {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
-        }
-      ],
-      "duration_ms": 216689,
-      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
-      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -655,18 +639,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
+        "name": "!!!!",
+        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
         }
       ],
-      "duration_ms": 221073,
-      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
+      "duration_ms": 216689,
+      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
+      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -683,6 +667,22 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 221073,
+      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u4e00\u6a23\u7f8e\u9e97 (\u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 276559,
+      "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u5b64\u7368\u60a3\u8005",
         "url": "https://open.spotify.com/album/1LAyTXJCnxLzOxnKVLjvl4"
       },
@@ -767,34 +783,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4e00\u6a23\u7f8e\u9e97 (\u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH"
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
       "artists": [
         {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 276559,
-      "name": "\u4e00\u6a23\u7f8e\u9e97 - \u7c89\u7d05\u7d72\u5e36\u5ba3\u5c0e\u6d3b\u52d5\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4"
-      },
-      "artists": [
-        {
-          "name": "Olivia Ong",
-          "url": "https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "\u6d77\u67af\u77f3\u721b",
-      "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Olivia Ong",
+          "url": "https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 232693,
+      "name": "\u6d77\u67af\u77f3\u721b",
+      "url": "https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

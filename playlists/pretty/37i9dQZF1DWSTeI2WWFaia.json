@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Busta Rhymes",
-  "num_followers": 1549365,
+  "num_followers": 1549110,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3GO6jLQ/S8lR63IyapgWJADOvo",
+  "snapshot_id": "AAAAANsIaJWW11YXULmEmeeWtAYEOtr9",
   "tracks": [
     {
       "added_at": "2026-10-23 17:39:37",
@@ -979,26 +979,30 @@
     {
       "added_at": "2026-10-23 17:39:37",
       "album": {
-        "name": "DILLAGENCE II",
-        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
         },
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
         }
       ],
-      "duration_ms": 261426,
-      "name": "This Woman (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+      "duration_ms": 265527,
+      "name": "Community (with Clipse, Pusha T & Malice)",
+      "url": "https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ"
     },
     {
       "added_at": "2026-10-23 17:39:37",
@@ -1023,22 +1027,26 @@
     {
       "added_at": "2026-10-23 17:39:37",
       "album": {
-        "name": "IT'S BEEN AWFUL",
-        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+        "name": "DILLAGENCE II",
+        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         },
         {
-          "name": "Julian Sintonia",
-          "url": "https://open.spotify.com/artist/0a4bUi9F2GFCQkOYBESJKY"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 182718,
-      "name": "DO I LOOK HIGH?",
-      "url": "https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL"
+      "duration_ms": 261426,
+      "name": "This Woman (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
     }
   ],
   "unique_name": "Spilled Ink",

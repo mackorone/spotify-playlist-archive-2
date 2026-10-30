@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: SALVALAI",
-  "num_followers": 33576,
+  "num_followers": 33586,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5C0mtyWuuoeIuQnHRIcAxgxpAs",
+  "snapshot_id": "AAAAAEvZymmT+xbS1lkbFOP9r6dqbHwu",
   "tracks": [
     {
       "added_at": "2026-09-15 15:00:16",
@@ -215,18 +215,26 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
+        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "BimBomBam Orchestra",
+          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
+        },
+        {
+          "name": "\u5143\u6674",
+          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
+        },
+        {
+          "name": "\u67f4\u7530\u4eae",
+          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+      "duration_ms": 427000,
+      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
+      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -267,46 +275,6 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
-        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
-      },
-      "artists": [
-        {
-          "name": "BimBomBam Orchestra",
-          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
-        },
-        {
-          "name": "\u5143\u6674",
-          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
-        },
-        {
-          "name": "\u67f4\u7530\u4eae",
-          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
-      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
-    },
-    {
-      "added_at": "2026-09-15 15:00:16",
-      "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
-    },
-    {
-      "added_at": "2026-09-15 15:00:16",
-      "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
@@ -319,6 +287,38 @@
       "duration_ms": 247893,
       "name": "Moonlight Syndrome",
       "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+    },
+    {
+      "added_at": "2026-09-15 15:00:16",
+      "album": {
+        "name": "C",
+        "url": "https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW"
+      },
+      "artists": [
+        {
+          "name": "a picture of her",
+          "url": "https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT"
+        }
+      ],
+      "duration_ms": 327160,
+      "name": "The bell tolls",
+      "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
+    },
+    {
+      "added_at": "2026-09-15 15:00:16",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "C",
-        "url": "https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW"
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "a picture of her",
-          "url": "https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 327160,
-      "name": "The bell tolls",
-      "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS ACOUSTIC",
+          "url": "https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2"
+        }
+      ],
+      "duration_ms": 415733,
+      "name": "WOLF",
+      "url": "https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P"
+    },
+    {
+      "added_at": "2026-09-15 15:00:16",
+      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/02eKXgRieK4rSCYLlyLY5y"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 281346,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/0xgAMhn7qqKrQcACbIEPoa"
-    },
-    {
-      "added_at": "2026-09-15 15:00:16",
-      "album": {
-        "name": "Telepathy",
-        "url": "https://open.spotify.com/album/3qKAQlG3pTQ2dXi9Qg6tPe"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS ACOUSTIC",
-          "url": "https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2"
-        }
-      ],
-      "duration_ms": 415733,
-      "name": "WOLF",
-      "url": "https://open.spotify.com/track/2xsyDwq9ZYm9kKYZF8gD4P"
     },
     {
       "added_at": "2026-09-15 15:00:16",

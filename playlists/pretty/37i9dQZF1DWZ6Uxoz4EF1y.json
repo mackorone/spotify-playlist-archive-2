@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 243619,
+  "num_followers": 243602,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqU3DR09LrO/IyLUQ5vDioO47Us",
+  "snapshot_id": "AAAAAPxONFKN0SjAVSZKUevkXvjCY8gq",
   "tracks": [
     {
       "added_at": "2026-04-04 05:56:44",
@@ -63,6 +63,26 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 299706,
+      "name": "Preciosa Sangre",
+      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 299706,
-      "name": "Preciosa Sangre",
-      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Porque \u00c9l Vive",
-        "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
-      },
-      "artists": [
-        {
-          "name": "Rudy P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv"
-        }
-      ],
-      "duration_ms": 259700,
-      "name": "Porque \u00c9l Vive",
-      "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Yo Navegar\u00e9",
         "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
       },
@@ -823,22 +807,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Esto Es Jesus Culture",
-        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+        "name": "Porque \u00c9l Vive",
+        "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Rudy P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Amor Imparable",
-      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
+      "duration_ms": 259700,
+      "name": "Porque \u00c9l Vive",
+      "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -855,6 +835,26 @@
       "duration_ms": 296316,
       "name": "Encontr\u00e9 Mi Lugar",
       "url": "https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Esto Es Jesus Culture",
+        "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Amor Imparable",
+      "url": "https://open.spotify.com/track/3VkvPeQbdwEYNTs20CJq6U"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "De Vuelta En Casa",
+        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 295862,
+      "name": "Su Vida Me Dio",
+      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 264906,
       "name": "Glorioso Eres T\u00fa",
       "url": "https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "De Vuelta En Casa",
-        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 295862,
-      "name": "Su Vida Me Dio",
-      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310231,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -1203,6 +1187,42 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310231,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 447491,
+      "name": "Lo Unico Que Quiero",
+      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1239,42 +1259,6 @@
       "duration_ms": 241933,
       "name": "Me Dice Que Me Ama",
       "url": "https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 372767,
-      "name": "Eres Tu",
-      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 447491,
-      "name": "Lo Unico Que Quiero",
-      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1327,6 +1311,62 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 372767,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Mi Casa Y Yo",
+        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 223735,
+      "name": "Mi Casa Y Yo",
+      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "El Poder De Tu Amor",
         "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
       },
@@ -1359,46 +1399,6 @@
       "duration_ms": 360229,
       "name": "Por Su Gracia",
       "url": "https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Mi Casa Y Yo",
-        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 223735,
-      "name": "Mi Casa Y Yo",
-      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
     },
     {
       "added_at": "2026-04-04 05:56:44",

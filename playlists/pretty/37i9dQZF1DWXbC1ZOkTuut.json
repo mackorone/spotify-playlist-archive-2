@@ -1,13 +1,29 @@
 {
   "description": "Fe con sabor a M\u00e9xico. Foto: Alex Campos",
-  "num_followers": 27334,
+  "num_followers": 27381,
   "original_name": "M\u00fasica Mexicana Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANcTlQgy0ObMAUFOnCB3GTq/f2J0",
+  "snapshot_id": "AAAAAE+qfg+BLOu2macrf9cMoTZFTKlK",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:00:51",
+      "album": {
+        "name": "INTENCI\u00d3N",
+        "url": "https://open.spotify.com/album/7Avt0CAZAeIEx5OysiB5PZ"
+      },
+      "artists": [
+        {
+          "name": "Prop\u00f3sito Con Estilo",
+          "url": "https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "INTENCI\u00d3N",
+      "url": "https://open.spotify.com/track/3Cx0OoGN9xlTmyxgj3xSix"
+    },
     {
       "added_at": "2026-09-25 04:00:25",
       "album": {
@@ -151,6 +167,22 @@
       "duration_ms": 174174,
       "name": "Me Met\u00ed en el Ruedo - Remix",
       "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
+    },
+    {
+      "added_at": "2026-10-30 04:00:51",
+      "album": {
+        "name": "No Me Rajo",
+        "url": "https://open.spotify.com/album/3cDMYoiwJhrQRCUZ7CSkdo"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos",
+          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "No Me Rajo",
+      "url": "https://open.spotify.com/track/4uEg7kSq103N3rkRAPSKT8"
     },
     {
       "added_at": "2026-09-25 04:00:25",
@@ -367,26 +399,6 @@
     {
       "added_at": "2026-09-25 04:00:25",
       "album": {
-        "name": "Sonr\u00edele",
-        "url": "https://open.spotify.com/album/37PgJRb7PnUeSQO1ZhpxhD"
-      },
-      "artists": [
-        {
-          "name": "Inspiracion Cristiana",
-          "url": "https://open.spotify.com/artist/3uV9bRr6eupLx9tSzNLfEQ"
-        },
-        {
-          "name": "Los Herederos",
-          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
-        }
-      ],
-      "duration_ms": 260922,
-      "name": "Sonr\u00edele",
-      "url": "https://open.spotify.com/track/6LoaX1dAIBzC459JWHiV1b"
-    },
-    {
-      "added_at": "2026-09-25 04:00:25",
-      "album": {
         "name": "Momento",
         "url": "https://open.spotify.com/album/5pA4DcnuaEQ6enPjuGc3vX"
       },
@@ -423,6 +435,26 @@
       "duration_ms": 232495,
       "name": "C\u00f3mo No Voy a Creer",
       "url": "https://open.spotify.com/track/1pUIYZYqeEVEcMUWjJQX7c"
+    },
+    {
+      "added_at": "2026-10-30 04:00:51",
+      "album": {
+        "name": "De Vuelta Al Redil",
+        "url": "https://open.spotify.com/album/2dExuubVhBWmljztOmUcKl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Reinado",
+          "url": "https://open.spotify.com/artist/3UBqBFSvUZ5l362usGNk0Q"
+        },
+        {
+          "name": "Con Ritmo Music",
+          "url": "https://open.spotify.com/artist/4EVLaDN05KZf6TJXhHoWUi"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "De Vuelta Al Redil",
+      "url": "https://open.spotify.com/track/42G0FA4ITOeCpjS0ghAiRR"
     },
     {
       "added_at": "2026-09-25 04:00:25",
@@ -465,6 +497,22 @@
       "url": "https://open.spotify.com/track/6Nkd32xGViN4Q95xHkQ4RT"
     },
     {
+      "added_at": "2026-10-30 04:00:51",
+      "album": {
+        "name": "Manos Al Cielo",
+        "url": "https://open.spotify.com/album/5KmqgGg59XUEQ5EXRrxtqu"
+      },
+      "artists": [
+        {
+          "name": "Israel Pacheco",
+          "url": "https://open.spotify.com/artist/0CpT6Y3Z1q9CHky4sqNIo6"
+        }
+      ],
+      "duration_ms": 194032,
+      "name": "Manos Al Cielo",
+      "url": "https://open.spotify.com/track/2akrkShugAJpnMLVFX18dF"
+    },
+    {
       "added_at": "2026-09-25 04:00:25",
       "album": {
         "name": "Relicario",
@@ -479,26 +527,6 @@
       "duration_ms": 184454,
       "name": "Relicario",
       "url": "https://open.spotify.com/track/42na5GNNjAf5h4YfqMhrkB"
-    },
-    {
-      "added_at": "2026-09-25 04:00:25",
-      "album": {
-        "name": "Aqu\u00ed y Arriba",
-        "url": "https://open.spotify.com/album/0DmBU7WB5vLAXn5Z80Nkgx"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos",
-          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
-        },
-        {
-          "name": "Hueste Celestial",
-          "url": "https://open.spotify.com/artist/6spBmym7k4tjsxGXVFg52S"
-        }
-      ],
-      "duration_ms": 251162,
-      "name": "Aqu\u00ed y Arriba",
-      "url": "https://open.spotify.com/track/0wvAwfHWiKHEBsfMFcVcXC"
     },
     {
       "added_at": "2026-09-25 04:00:25",
@@ -567,6 +595,30 @@
       "duration_ms": 240000,
       "name": "En Su Nombre Vencer\u00e9",
       "url": "https://open.spotify.com/track/4sAlXHMsWxrRNu2V5LEyZJ"
+    },
+    {
+      "added_at": "2026-10-30 04:00:51",
+      "album": {
+        "name": "Tukituki-Lulu",
+        "url": "https://open.spotify.com/album/5KiWj4PRIbZERBLFxul6JC"
+      },
+      "artists": [
+        {
+          "name": "Habitazion",
+          "url": "https://open.spotify.com/artist/3f1Es2u7jA9MC0Q4mhQNz7"
+        },
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/4YaByyRJtUaL4dC1ka5hRX"
+        },
+        {
+          "name": "Miguel Vera",
+          "url": "https://open.spotify.com/artist/3aEU0r0K2DwZiQ5sfeC6AV"
+        }
+      ],
+      "duration_ms": 205166,
+      "name": "Tukituki-Lulu",
+      "url": "https://open.spotify.com/track/4cqEWGO2kCmnBjS0xAiiMm"
     },
     {
       "added_at": "2026-09-25 04:00:25",
@@ -689,6 +741,26 @@
       "url": "https://open.spotify.com/track/42ONbP7j05lCPzAeAdFRiI"
     },
     {
+      "added_at": "2026-10-30 04:00:51",
+      "album": {
+        "name": "10Mo Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/57MFgUhpUfLjFxuhiNgGI5"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos",
+          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
+        },
+        {
+          "name": "Grupo Respaldo",
+          "url": "https://open.spotify.com/artist/4ETVNscBfQBhJaBtnUX93m"
+        }
+      ],
+      "duration_ms": 249250,
+      "name": "Yo Tengo una Barquita, para Machacarle la Cabeza al Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/7gbRnE98l4RnZZA2HxHnZh"
+    },
+    {
       "added_at": "2026-09-25 04:00:25",
       "album": {
         "name": "Ca\u00eddas",
@@ -799,22 +871,6 @@
     {
       "added_at": "2026-09-25 04:00:25",
       "album": {
-        "name": "Los Orantes Unidos",
-        "url": "https://open.spotify.com/album/2dzhZuiUnZqwHm8dKfbAa2"
-      },
-      "artists": [
-        {
-          "name": "Francisco Orantes",
-          "url": "https://open.spotify.com/artist/7glAmfFJ7UecnLwNApqKGE"
-        }
-      ],
-      "duration_ms": 236169,
-      "name": "Unidos",
-      "url": "https://open.spotify.com/track/278eELypSRDIyGf6B81DrA"
-    },
-    {
-      "added_at": "2026-09-25 04:00:25",
-      "album": {
         "name": "Z99",
         "url": "https://open.spotify.com/album/6wzZhAOHtBq0bKvU9nrMqn"
       },
@@ -919,30 +975,6 @@
     {
       "added_at": "2026-09-25 04:00:25",
       "album": {
-        "name": "Pez Sin Agua",
-        "url": "https://open.spotify.com/album/2kt45pTOT03oZ9D7FaeAi0"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Sarabia",
-          "url": "https://open.spotify.com/artist/1JcjbdKrIEm48kgBTSZm36"
-        },
-        {
-          "name": "Lirikeo Music",
-          "url": "https://open.spotify.com/artist/2iKfgNOLo2q4pJxFN6aesS"
-        },
-        {
-          "name": "Corridos Cristianos",
-          "url": "https://open.spotify.com/artist/2N79MqDGTAmXDop8kHtLHQ"
-        }
-      ],
-      "duration_ms": 182817,
-      "name": "Pez Sin Agua",
-      "url": "https://open.spotify.com/track/7zI0PqA07B5Sq60bdhboS5"
-    },
-    {
-      "added_at": "2026-09-25 04:00:25",
-      "album": {
         "name": "Alabado Sea Mi Dios",
         "url": "https://open.spotify.com/album/4aNICGYn64bpCVjaZMPeao"
       },
@@ -1023,22 +1055,6 @@
       "duration_ms": 144892,
       "name": "LAS BENDICIONES",
       "url": "https://open.spotify.com/track/3VbBooTonSObJxRI7SxWGq"
-    },
-    {
-      "added_at": "2026-09-25 04:00:25",
-      "album": {
-        "name": "Reavivando el Alma",
-        "url": "https://open.spotify.com/album/5OohqEV04vTFlyF1dXFMwc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hesed",
-          "url": "https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA"
-        }
-      ],
-      "duration_ms": 189778,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/6OormEp5Hd5Q1OV8d6PhRO"
     },
     {
       "added_at": "2026-09-25 04:00:25",
@@ -1299,30 +1315,6 @@
       "duration_ms": 196260,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/4b7UzypVHQknf6NYHGGK66"
-    },
-    {
-      "added_at": "2026-09-25 04:00:25",
-      "album": {
-        "name": "Tu Gracia Es Suficiente (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/04mRkLiCWEigk9RJnw6AHC"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos",
-          "url": "https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx"
-        },
-        {
-          "name": "Benjamin Meraz",
-          "url": "https://open.spotify.com/artist/3vnOXWuhbVeCkMjLfTHaYC"
-        },
-        {
-          "name": "Francisco Nevarez",
-          "url": "https://open.spotify.com/artist/7o8z5AdLczQ1LrTN38f8j7"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Tu Gracia Es Suficiente - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1LDQgT68SDxBVQIjjEDRMS"
     },
     {
       "added_at": "2026-09-25 04:00:25",

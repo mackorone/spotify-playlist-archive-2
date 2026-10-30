@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57nndGwPY0Y.md) - [plain]
 
 > Today's R&B hits only\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,650 likes - 58 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,703 likes - 58 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57nndGwPY0Y.md) - [plain]
 | 57 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
 | 58 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 
-Snapshot ID: `AAAAAN+plsM6qeRUtSZtU3kDnShGVa57`
+Snapshot ID: `AAAAAKtTTS04eXXtztMMwvs9/2KBZT41`

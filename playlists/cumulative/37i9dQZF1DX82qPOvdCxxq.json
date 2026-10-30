@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Sinmidele",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Leslie Perez",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 125280,
       "name": "Amen",
       "url": "https://open.spotify.com/track/5NisISY5N8H32buAIZKUeD"
@@ -5483,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "dulce sentencia",
+        "url": "https://open.spotify.com/album/6kzHf3dtFyk2LbMttSVpKT"
+      },
+      "artists": [
+        {
+          "name": "Genock Gabriel",
+          "url": "https://open.spotify.com/artist/5g25JYxFKsH3nKaycuSodP"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "dulce sentencia",
+      "url": "https://open.spotify.com/track/4I21ggxl4PLkvzXzFkQIye"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0"
       },
@@ -5714,7 +5732,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "enough",
       "url": "https://open.spotify.com/track/1ajvWQ22Iu420eQkFix6ge"
@@ -6176,6 +6194,24 @@
       "duration_ms": 184247,
       "name": "fair weather!",
       "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
+    },
+    {
+      "album": {
+        "name": "Free People",
+        "url": "https://open.spotify.com/album/6UP9fH7MrEgVzqxaVYP1kY"
+      },
+      "artists": [
+        {
+          "name": "Holy Gather",
+          "url": "https://open.spotify.com/artist/70azCnnO6hKm23SflJHzdR"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121773,
+      "name": "Faith Not By Sight",
+      "url": "https://open.spotify.com/track/6P8NgL2qmodGNr5KMxd1kv"
     },
     {
       "album": {
@@ -7198,7 +7234,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 158142,
       "name": "FREE",
       "url": "https://open.spotify.com/track/5GWXshlOl3XsngVUGVNbIX"
@@ -7216,10 +7252,28 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 161142,
       "name": "FREE",
       "url": "https://open.spotify.com/track/6m2PoI1uab7HSlRLdpTiE9"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5K2vTpujgKWvx4qJNYpxYW"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/18fGxP6u7Nz8IGI2fdcD1D"
     },
     {
       "album": {
@@ -7342,7 +7396,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 221116,
       "name": "freefall",
       "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
@@ -8730,7 +8784,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 213938,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/2prxVbNBYsu5jj44QfqVbb"
@@ -9504,6 +9558,24 @@
       "duration_ms": 190553,
       "name": "Him",
       "url": "https://open.spotify.com/track/0u0XHTFjpQ3DYhWsreYxtQ"
+    },
+    {
+      "album": {
+        "name": "Him.",
+        "url": "https://open.spotify.com/album/1sAqCGN94wI2X1oJhYexfI"
+      },
+      "artists": [
+        {
+          "name": "Olivia King",
+          "url": "https://open.spotify.com/artist/1ueZy4kOgGzs9qRwTziSoL"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155765,
+      "name": "Him.",
+      "url": "https://open.spotify.com/track/5BUpqynBaABLY9kEVbNXDK"
     },
     {
       "album": {
@@ -11266,7 +11338,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 232333,
       "name": "In-Between",
       "url": "https://open.spotify.com/track/46PTcQtkLdI6SLK55RNTkY"
@@ -12975,6 +13047,24 @@
     },
     {
       "album": {
+        "name": "Little More",
+        "url": "https://open.spotify.com/album/1thQozEl7Eivy50ztuSu2C"
+      },
+      "artists": [
+        {
+          "name": "Gabby Poli",
+          "url": "https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131681,
+      "name": "Little More",
+      "url": "https://open.spotify.com/track/1BCErD45YsgewBWRDCM2BH"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/3XzoRMHTxWgefpNqGnWzM9"
       },
@@ -13092,6 +13182,24 @@
       "duration_ms": 211756,
       "name": "Lo Que Ayer Fue",
       "url": "https://open.spotify.com/track/1OU7IvGJ9VxghWrCQCpJtY"
+    },
+    {
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
     },
     {
       "album": {
@@ -14160,7 +14268,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 241977,
       "name": "Melodies Over Me",
       "url": "https://open.spotify.com/track/7DtWTMIyCmACFzsxtY5HhL"
@@ -14764,7 +14872,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 249714,
       "name": "My Forever",
       "url": "https://open.spotify.com/track/1R8I3H65pxDY4t9ujP0huO"
@@ -14840,7 +14948,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 206451,
       "name": "My Life",
       "url": "https://open.spotify.com/track/1XUntqbeTEwWgaG8NxlyQD"
@@ -20797,6 +20905,24 @@
     },
     {
       "album": {
+        "name": "Take It Away",
+        "url": "https://open.spotify.com/album/5NPV9L1VQfeOEie5Dboc5M"
+      },
+      "artists": [
+        {
+          "name": "Dasia Gorbea",
+          "url": "https://open.spotify.com/artist/6b1qAr7cGWlzpvsEHbwidS"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150113,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/4ifeRX8qHCWhdplu4LfW1A"
+    },
+    {
+      "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/7qnXQlNoUT5mZhdX6N1R9P"
       },
@@ -20812,7 +20938,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154585,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/21yNrcEHo9vFSbuByDgHeg"
@@ -20928,7 +21054,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 123076,
       "name": "TALK ABOUT IT",
       "url": "https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM"
@@ -21364,6 +21490,24 @@
       "duration_ms": 156521,
       "name": "That's My Yahweh",
       "url": "https://open.spotify.com/track/6WaCSMumfofdh0l5O8cgEo"
+    },
+    {
+      "album": {
+        "name": "That's When",
+        "url": "https://open.spotify.com/album/2VFQjS1wIJEPITEWXFcwer"
+      },
+      "artists": [
+        {
+          "name": "Laura Williams",
+          "url": "https://open.spotify.com/artist/6TPP02V7gyAIVrTGsyEVxb"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186552,
+      "name": "That's When",
+      "url": "https://open.spotify.com/track/0k314xawGXkgWd6317RfT7"
     },
     {
       "album": {
@@ -23294,7 +23438,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 184440,
       "name": "Waiting On The Shore",
       "url": "https://open.spotify.com/track/0FHwsCuCi8ret2CJ62wIfR"
@@ -24924,7 +25068,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178347,
       "name": "YAHWEH (YA TU SABES)",
       "url": "https://open.spotify.com/track/4eZ9GNAuWI14tI2Al1Ebul"
@@ -25384,7 +25528,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 208978,
       "name": "you say you know about jesus",
       "url": "https://open.spotify.com/track/3IkKKaQEl8YpPwKuEN7MJ6"
@@ -25576,6 +25720,24 @@
       "duration_ms": 175241,
       "name": "Your Love Won't Give Up",
       "url": "https://open.spotify.com/track/3B5ISJUnLCAis7MjBu22LR"
+    },
+    {
+      "album": {
+        "name": "Your Promises Will Come",
+        "url": "https://open.spotify.com/album/4Xind0zqudjVnrQ0WSRSmW"
+      },
+      "artists": [
+        {
+          "name": "Landon Forbes",
+          "url": "https://open.spotify.com/artist/07Y4FLIt4oUI1aUZsUDOM9"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Your Promises Will Come",
+      "url": "https://open.spotify.com/track/1rwMEGREaIM61KgWaORgve"
     },
     {
       "album": {

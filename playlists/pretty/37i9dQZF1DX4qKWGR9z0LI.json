@@ -1,12 +1,12 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f Lo nuevo y lo mejor de la salsa.",
-  "num_followers": 1850931,
+  "num_followers": 1850690,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWb/auqynpsGw/S8HR+pJNOkUkv",
+  "snapshot_id": "AAAAAIQKAjCPIYexL2AtfYZmqdm0QXFG",
   "tracks": [
     {
       "added_at": "2026-10-02 04:02:46",
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "32 Ca\u00f1onazos",
-        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 312480,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "CAMBIAR\u00c9",
         "url": "https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 181237,
       "name": "CAMBIAR\u00c9",
       "url": "https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 312480,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Caer y Levantarse",
-        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
+        "name": "Si T\u00fa Me Besas",
+        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
       },
       "artists": [
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 270925,
-      "name": "Caer y Levantarse",
-      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
+      "duration_ms": 260920,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -703,6 +703,22 @@
       "duration_ms": 186047,
       "name": "1+1",
       "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Caer y Levantarse",
+        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 270925,
+      "name": "Caer y Levantarse",
+      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -739,22 +755,6 @@
       "duration_ms": 289293,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Si T\u00fa Me Besas",
-        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 260920,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Pan",
         "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 221656,
       "name": "Tikiri",
       "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 262641,
-      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+      "duration_ms": 262641,
+      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
         "name": "Por Tu Placer",
         "url": "https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 220746,
       "name": "Me Espera (La Salsa del Nonno) - Esp. Vesion",
       "url": "https://open.spotify.com/track/5WXqJIriE5tbaRiXtVE2lo"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Salsa At It's Best",
+        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 304946,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
-        "name": "Salsa At It's Best",
-        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
+        "name": "Mi Propiedad Privada",
+        "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
       },
       "artists": [
         {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 304946,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+      "duration_ms": 252986,
+      "name": "Mi Propiedad Privada",
+      "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1607,22 +1623,6 @@
       "duration_ms": 304640,
       "name": "Juguete de Nadie",
       "url": "https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Mi Propiedad Privada",
-        "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Mi Propiedad Privada",
-      "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
     },
     {
       "added_at": "2026-10-02 04:02:46",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-10-02 04:02:46",
       "album": {
+        "name": "Llorar Bonito",
+        "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 235951,
+      "name": "Llorar Bonito",
+      "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
+    },
+    {
+      "added_at": "2026-10-02 04:02:46",
+      "album": {
         "name": "No Me Lo Creo",
         "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 268175,
       "name": "No Me Lo Creo",
       "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
-    },
-    {
-      "added_at": "2026-10-02 04:02:46",
-      "album": {
-        "name": "Llorar Bonito",
-        "url": "https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 235951,
-      "name": "Llorar Bonito",
-      "url": "https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz"
     },
     {
       "added_at": "2026-10-02 04:02:46",

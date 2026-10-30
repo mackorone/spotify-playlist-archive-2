@@ -1,12 +1,12 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 922,
+  "num_followers": 930,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0VXxE1cXK6O7q2ym6LGqPtn/Em",
+  "snapshot_id": "AAAAALePAcilllhPwTz+QLudgaBR2l6b",
   "tracks": [
     {
       "added_at": "2026-08-06 16:00:19",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "Wide Eyed",
-        "url": "https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 232972,
-      "name": "Ordinary Feelings",
-      "url": "https://open.spotify.com/track/79rC6hgv09gnIRQGEqDNit"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "shut the fuck up talking to me",
         "url": "https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 158466,
       "name": "fafo",
       "url": "https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "Wide Eyed",
+        "url": "https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 232972,
+      "name": "Ordinary Feelings",
+      "url": "https://open.spotify.com/track/79rC6hgv09gnIRQGEqDNit"
     },
     {
       "added_at": "2026-08-06 16:00:19",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 383631,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5rrKhyZq8Rf5hWjkJUwuRG"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2JcplFbFkf2GKnuhlIRi2n"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 373000,
       "name": "Comet",
       "url": "https://open.spotify.com/track/3QGQjDVIX4pdaLku5p9pG6"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5gD3tPSWfnzu1XWpKwiB0o"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 383631,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5rrKhyZq8Rf5hWjkJUwuRG"
     },
     {
       "added_at": "2026-08-06 16:00:19",

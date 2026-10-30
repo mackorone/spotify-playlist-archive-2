@@ -1,12 +1,12 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 583296,
+  "num_followers": 583536,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAORaMX1B+VcArcXNBS3MMOXDnbRP",
+  "snapshot_id": "AAAAAL5sk4vlxkeHzvfJXf5ntBH+84ql",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:13",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 140915,
-      "name": "Casualty",
-      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 304596,
       "name": "Blind And Frozen",
       "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 140915,
+      "name": "Casualty",
+      "url": "https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "rehearsed",
-        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
+        "name": "critic",
+        "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 110346,
-      "name": "rehearsed",
-      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
+      "duration_ms": 146058,
+      "name": "critic",
+      "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "The Sword That Never Bends",
-        "url": "https://open.spotify.com/album/1hw6fav6T9LRREMG3HRInR"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 226796,
-      "name": "The Sword That Never Bends",
-      "url": "https://open.spotify.com/track/4Rxlwrod7V5fN1blhkhzq7"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "War Eternal",
         "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
@@ -1143,22 +1127,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "critic",
-        "url": "https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 146058,
-      "name": "critic",
-      "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Blood of the Saints",
         "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
       },
@@ -1171,6 +1139,38 @@
       "duration_ms": 265720,
       "name": "Sanctified with Dynamite",
       "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "rehearsed",
+        "url": "https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 110346,
+      "name": "rehearsed",
+      "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "The Sword That Never Bends",
+        "url": "https://open.spotify.com/album/1hw6fav6T9LRREMG3HRInR"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 226796,
+      "name": "The Sword That Never Bends",
+      "url": "https://open.spotify.com/track/4Rxlwrod7V5fN1blhkhzq7"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Marrow Deep",
-        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 297619,
-      "name": "Snakes for Dinner",
-      "url": "https://open.spotify.com/track/3FEEsBpTwblEPqoraW8N4p"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 349869,
       "name": "The Sin and the Sentence",
       "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Marrow Deep",
+        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 297619,
+      "name": "Snakes for Dinner",
+      "url": "https://open.spotify.com/track/3FEEsBpTwblEPqoraW8N4p"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "512",
-      "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "SAVIOR",
         "url": "https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 186453,
       "name": "SAVIOR",
       "url": "https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "512",
+      "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/33GWdWCPIm84t9DYJefufO"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 396736,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/27oqpECc2wygxRAIBCgxHa"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/33GWdWCPIm84t9DYJefufO"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Graceless",
-        "url": "https://open.spotify.com/album/4SusDW04vQsSdhT0yt06ek"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 113558,
-      "name": "Graceless",
-      "url": "https://open.spotify.com/track/6hmDWLpg9foHG9duUBpDyd"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
@@ -1403,18 +1387,34 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "CUT_it",
-        "url": "https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz"
+        "name": "Graceless",
+        "url": "https://open.spotify.com/album/4SusDW04vQsSdhT0yt06ek"
       },
       "artists": [
         {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
         }
       ],
-      "duration_ms": 194597,
-      "name": "CUT_it",
-      "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
+      "duration_ms": 113558,
+      "name": "Graceless",
+      "url": "https://open.spotify.com/track/6hmDWLpg9foHG9duUBpDyd"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "SEASONS // SPRING",
+        "url": "https://open.spotify.com/album/6QubHleIMHGWgb1JNjU8E2"
+      },
+      "artists": [
+        {
+          "name": "Her Last Sight",
+          "url": "https://open.spotify.com/artist/1KbA9fRxHiOCFESxSaM29p"
+        }
+      ],
+      "duration_ms": 264727,
+      "name": "Hit Me Like a Pi\u00f1ata (...One More Time)",
+      "url": "https://open.spotify.com/track/1QEmLduasloSw5RlGTvP3l"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "SEASONS // SPRING",
-        "url": "https://open.spotify.com/album/6QubHleIMHGWgb1JNjU8E2"
+        "name": "CUT_it",
+        "url": "https://open.spotify.com/album/3wnXc6Rid7z6wGO0XYeVAz"
       },
       "artists": [
         {
-          "name": "Her Last Sight",
-          "url": "https://open.spotify.com/artist/1KbA9fRxHiOCFESxSaM29p"
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
         }
       ],
-      "duration_ms": 264727,
-      "name": "Hit Me Like a Pi\u00f1ata (...One More Time)",
-      "url": "https://open.spotify.com/track/1QEmLduasloSw5RlGTvP3l"
+      "duration_ms": 194597,
+      "name": "CUT_it",
+      "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "At My Worst",
-        "url": "https://open.spotify.com/album/6KVbiYizZt0zso0y52yIug"
-      },
-      "artists": [
-        {
-          "name": "Downswing",
-          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "At My Worst",
-      "url": "https://open.spotify.com/track/5r2o9tvg0iGQDBPKXJb2Rg"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Atoma",
         "url": "https://open.spotify.com/album/3N5vYy8vIFgpvtrIbFtvvG"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 259959,
       "name": "Atoma",
       "url": "https://open.spotify.com/track/4HlVUapocBDBqkPtET2knz"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "A Fate Worse Than Loneliness",
+        "url": "https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM"
+      },
+      "artists": [
+        {
+          "name": "Showing Teeth",
+          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "Bad Exchanges",
+      "url": "https://open.spotify.com/track/0krBJhbE1uJtILlT2Z6ISx"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "A Fate Worse Than Loneliness",
-        "url": "https://open.spotify.com/album/05Le7pf7KPD3PzN060P8KM"
+        "name": "At My Worst",
+        "url": "https://open.spotify.com/album/6KVbiYizZt0zso0y52yIug"
       },
       "artists": [
         {
-          "name": "Showing Teeth",
-          "url": "https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv"
+          "name": "Downswing",
+          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
         }
       ],
-      "duration_ms": 164083,
-      "name": "Bad Exchanges",
-      "url": "https://open.spotify.com/track/0krBJhbE1uJtILlT2Z6ISx"
+      "duration_ms": 178252,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/5r2o9tvg0iGQDBPKXJb2Rg"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 217847,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/1wF63HajppiUOdcAbp7YHh"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
         "name": "Season of Surrender",
         "url": "https://open.spotify.com/album/0mVE3llKm6n3I41bbwjIus"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 253673,
       "name": "Sonic Salvation (feat. Jamie Hails)",
       "url": "https://open.spotify.com/track/2r6aSb1laKFyjGeiJEulqQ"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
-        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 217847,
-      "name": "Burn MF",
-      "url": "https://open.spotify.com/track/1wF63HajppiUOdcAbp7YHh"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Highbrow Thieves",
-        "url": "https://open.spotify.com/album/4WS65KHoj7JtkMEZqlnqzn"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Highbrow Thieves",
-      "url": "https://open.spotify.com/track/4oXj2jUtvxIqnFAG76ufry"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -2259,22 +2243,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "MEGATONS",
-        "url": "https://open.spotify.com/album/6eweLuC9bnuSoFk1hlu1C2"
-      },
-      "artists": [
-        {
-          "name": "The Barbarians of California",
-          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
-        }
-      ],
-      "duration_ms": 116146,
-      "name": "THE GNARLYCORE CLASS",
-      "url": "https://open.spotify.com/track/7aAOKVniZGcnmfNyLanCdv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Found In Far Away Places",
         "url": "https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL"
       },
@@ -2291,6 +2259,38 @@
       "duration_ms": 289188,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/6pvtHYK8YwNDbfmKPljvIo"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Highbrow Thieves",
+        "url": "https://open.spotify.com/album/4WS65KHoj7JtkMEZqlnqzn"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Highbrow Thieves",
+      "url": "https://open.spotify.com/track/4oXj2jUtvxIqnFAG76ufry"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "MEGATONS",
+        "url": "https://open.spotify.com/album/6eweLuC9bnuSoFk1hlu1C2"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "duration_ms": 116146,
+      "name": "THE GNARLYCORE CLASS",
+      "url": "https://open.spotify.com/track/7aAOKVniZGcnmfNyLanCdv"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
-        "name": "Blood Oath",
-        "url": "https://open.spotify.com/album/7rJ0TEl4npNhzTC8GHaZBV"
-      },
-      "artists": [
-        {
-          "name": "DOWN",
-          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Blood Oath - Edit",
-      "url": "https://open.spotify.com/track/1xEX1oeaTTGcAqeV2TZ3Vx"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
         "name": "Blood of the Saints",
         "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
       },
@@ -2363,6 +2347,22 @@
     {
       "added_at": "2026-09-25 04:03:13",
       "album": {
+        "name": "Blood Oath",
+        "url": "https://open.spotify.com/album/7rJ0TEl4npNhzTC8GHaZBV"
+      },
+      "artists": [
+        {
+          "name": "DOWN",
+          "url": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Blood Oath - Edit",
+      "url": "https://open.spotify.com/track/1xEX1oeaTTGcAqeV2TZ3Vx"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq"
       },
@@ -2375,26 +2375,6 @@
       "duration_ms": 261573,
       "name": "Rats",
       "url": "https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx"
-    },
-    {
-      "added_at": "2026-09-25 04:03:13",
-      "album": {
-        "name": "Flying Monkey",
-        "url": "https://open.spotify.com/album/0HeIdMhGYCF98wetun128f"
-      },
-      "artists": [
-        {
-          "name": "Blue Medusa",
-          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 249281,
-      "name": "Flying Monkey",
-      "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
     },
     {
       "added_at": "2026-09-25 04:03:13",
@@ -2427,6 +2407,26 @@
       "duration_ms": 230887,
       "name": "The Anomaly",
       "url": "https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2"
+    },
+    {
+      "added_at": "2026-09-25 04:03:13",
+      "album": {
+        "name": "Flying Monkey",
+        "url": "https://open.spotify.com/album/0HeIdMhGYCF98wetun128f"
+      },
+      "artists": [
+        {
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 249281,
+      "name": "Flying Monkey",
+      "url": "https://open.spotify.com/track/5sJIi9JFuNhj3JBwFVVHAI"
     },
     {
       "added_at": "2026-09-25 04:03:13",

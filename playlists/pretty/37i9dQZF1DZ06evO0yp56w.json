@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 846630,
+  "num_followers": 846801,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABg8Ew4J0mMFRunR+P2Xja9",
+  "snapshot_id": "at/pgAAAAAAV5xb9s1eQWiMKRoREsYtR",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 246093,
       "name": "MK Ultra",
       "url": "https://open.spotify.com/track/0MrkZz4D3fGlEkhebjPPrh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Exo-Politics",
-      "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 231973,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Exo-Politics",
+      "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neutron Star Collision [Love Is Forever]",
-        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 230256,
-      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
-      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 273760,
       "name": "The Handler",
       "url": "https://open.spotify.com/track/6xq3Bd7MvZVa7pda9tC4MW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neutron Star Collision [Love Is Forever]",
+        "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 230256,
+      "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
+      "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
     },
     {
       "added_at": null,

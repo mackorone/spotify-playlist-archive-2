@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.",
-  "num_followers": 41485,
+  "num_followers": 41472,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABPsAXdhENkGSTymdd/oSjaoBc8jxch",
+  "snapshot_id": "AABPsaShYqWXOKkoq878L48Lei1reI45",
   "tracks": [
     {
       "added_at": "2026-10-27 18:29:47",
@@ -1735,6 +1735,22 @@
       "duration_ms": 196204,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
+    },
+    {
+      "added_at": "2026-10-29 16:10:09",
+      "album": {
+        "name": "there's no easy way to put this...",
+        "url": "https://open.spotify.com/album/6rlGBIOV37DbGtL3Ijvx5J"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 226624,
+      "name": "there's no easy way to put this...",
+      "url": "https://open.spotify.com/track/6OCCNtYX4xH5CHe3ey2jsB"
     }
   ],
   "unique_name": "Trending Now",

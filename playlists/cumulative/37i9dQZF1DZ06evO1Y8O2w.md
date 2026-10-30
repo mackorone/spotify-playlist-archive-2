@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-112 songs - 8 hr 40 min
+113 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Can't We Fall in Love Again](https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Slingshot](https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x) | 3:44 | 2022-05-25 | 2026-08-27 |
 | [Can't We Fall In Love Again](https://open.spotify.com/track/1Opr3F3OnGPjzi1LeZSdd0) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv), [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 5:16 | 2026-09-02 |  |
 | [Can't We Fall in Love Again](https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv), [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 5:17 | 2022-05-25 | 2026-09-02 |
+| [Caught Between Your Love](https://open.spotify.com/track/5bXP7quYU2QwbuWdx6IzL0) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Caught Between Your Love](https://open.spotify.com/album/0PCtP0GgBhhb7oTVpNIYVa) | 2:46 | 2026-10-30 |  |
 | [Come Right or Not at All](https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:37 | 2022-05-25 | 2026-05-30 |
 | [Complete Me](https://open.spotify.com/track/5lupAu4HExs57LXI0YrZzQ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 5:23 | 2024-12-26 | 2025-01-14 |
 | [Deliver the Love](https://open.spotify.com/track/5dM31CDbVHA2Tj6OBRDegY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 3:59 | 2022-06-01 | 2025-08-17 |
@@ -71,7 +72,7 @@
 | [Living Inside Your Love](https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 6:14 | 2023-12-18 |  |
 | [Lookin' For a Lovin'](https://open.spotify.com/track/0PchjcyeTdQ9wkbbjMnzXy) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Somewhere In My Lifetime \(Expanded Edition\)](https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw) | 2:55 | 2022-09-24 | 2022-09-26 |
 | [Love Is Here \(feat\. Phyllis Hyman\)](https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Love Will Find a Way \(Expanded Edition\)](https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW) | 4:42 | 2022-05-27 |  |
-| [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 | 2022-05-25 |  |
+| [Loving You \- Losing You](https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 7:30 | 2022-05-25 | 2026-10-30 |
 | [Mask of Gold](https://open.spotify.com/track/2TAnqVBJRz9iQZZO49YYCP) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Mask of Gold](https://open.spotify.com/album/192O1kJvidIIH2V4cdnbRq) | 3:59 | 2026-10-18 | 2026-10-27 |
 | [Meet Me On The Moon](https://open.spotify.com/track/3oJh3bfR18qSOb9ss4uVHm) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 6:44 | 2022-05-25 |  |
 | [Never Say Never Again](https://open.spotify.com/track/79czZJbXxF4IH2ZKlfplwe) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [One More Night](https://open.spotify.com/album/2b6rslI1UbzrU7SszsgXH3) | 3:32 | 2022-05-25 | 2026-08-27 |

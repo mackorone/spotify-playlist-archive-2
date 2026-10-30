@@ -1,12 +1,12 @@
 {
   "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Fine",
-  "num_followers": 89538,
+  "num_followers": 91497,
   "original_name": "Cph+",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN52SBwSngc8mPYxpgYnPWX+0dAL",
+  "snapshot_id": "AAAAAOJ67zm4yHCS4YOWCByICPWVMRTd",
   "tracks": [
     {
       "added_at": "2026-10-23 04:02:05",
@@ -43,54 +43,6 @@
     {
       "added_at": "2026-10-23 04:02:05",
       "album": {
-        "name": "Mark William Lewis (Deluxe)",
-        "url": "https://open.spotify.com/album/34iEW5XY1mGgjhzvKsMo0h"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/3W2VOvLDPks8RE02dRr63O"
-    },
-    {
-      "added_at": "2026-10-23 04:02:05",
-      "album": {
-        "name": "Goblin's Head",
-        "url": "https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq"
-      },
-      "artists": [
-        {
-          "name": "Horse Vision",
-          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Goblin's Head",
-      "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "We'll Make Our Beds When We Get Home",
-        "url": "https://open.spotify.com/album/6uaGeylNaoK6G74Ysng4ho"
-      },
-      "artists": [
-        {
-          "name": "Headaches",
-          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
-        }
-      ],
-      "duration_ms": 96641,
-      "name": "Don't Cry For Me Now",
-      "url": "https://open.spotify.com/track/3kOXHlqHeuhke4tNk0MhmM"
-    },
-    {
-      "added_at": "2026-10-23 04:02:05",
-      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC"
       },
@@ -121,6 +73,70 @@
       "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
     },
     {
+      "added_at": "2026-10-30 04:00:57",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/4z8yhlcw6JOGNBWXkOIA7B"
+      },
+      "artists": [
+        {
+          "name": "thredd",
+          "url": "https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC"
+        }
+      ],
+      "duration_ms": 177068,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/4G31I9jhPh5STbtqNKaA7k"
+    },
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Mark William Lewis (Deluxe)",
+        "url": "https://open.spotify.com/album/34iEW5XY1mGgjhzvKsMo0h"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3W2VOvLDPks8RE02dRr63O"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "We'll Make Our Beds When We Get Home",
+        "url": "https://open.spotify.com/album/6uaGeylNaoK6G74Ysng4ho"
+      },
+      "artists": [
+        {
+          "name": "Headaches",
+          "url": "https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl"
+        }
+      ],
+      "duration_ms": 96641,
+      "name": "Don't Cry For Me Now",
+      "url": "https://open.spotify.com/track/3kOXHlqHeuhke4tNk0MhmM"
+    },
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Goblin's Head",
+        "url": "https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq"
+      },
+      "artists": [
+        {
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Goblin's Head",
+      "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
+    },
+    {
       "added_at": "2026-10-16 04:00:27",
       "album": {
         "name": "Sometimes I rush",
@@ -135,6 +151,58 @@
       "duration_ms": 90867,
       "name": "Sometimes I rush",
       "url": "https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Better Than Mine",
+        "url": "https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu"
+      },
+      "artists": [
+        {
+          "name": "Deer park",
+          "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
+        },
+        {
+          "name": "Valeria Litvakov",
+          "url": "https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q"
+        }
+      ],
+      "duration_ms": 216021,
+      "name": "Better Than Mine",
+      "url": "https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/3Ls1DQnwtBk8mgRVfx9xi4"
+      },
+      "artists": [
+        {
+          "name": "Sekko",
+          "url": "https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y"
+        }
+      ],
+      "duration_ms": 113544,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2q4qACl01mufqdrQEuWkL4"
+    },
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Kira Krash",
+        "url": "https://open.spotify.com/album/0KjWCA2RXBWeD7X2GU370p"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "dream",
+      "url": "https://open.spotify.com/track/4Xjw8z313o5PuU1qXTn4Bq"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -171,70 +239,18 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/3Ls1DQnwtBk8mgRVfx9xi4"
+        "name": "Fountain Edits",
+        "url": "https://open.spotify.com/album/47YCO51avOV38XM0KmmEKg"
       },
       "artists": [
         {
-          "name": "Sekko",
-          "url": "https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y"
+          "name": "True Blue",
+          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
         }
       ],
-      "duration_ms": 113544,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2q4qACl01mufqdrQEuWkL4"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Better Than Mine",
-        "url": "https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu"
-      },
-      "artists": [
-        {
-          "name": "Deer park",
-          "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
-        },
-        {
-          "name": "Valeria Litvakov",
-          "url": "https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q"
-        }
-      ],
-      "duration_ms": 216021,
-      "name": "Better Than Mine",
-      "url": "https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF"
-    },
-    {
-      "added_at": "2026-10-23 04:02:05",
-      "album": {
-        "name": "Kira Krash",
-        "url": "https://open.spotify.com/album/0KjWCA2RXBWeD7X2GU370p"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "dream",
-      "url": "https://open.spotify.com/track/4Xjw8z313o5PuU1qXTn4Bq"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Bleeding Love",
-        "url": "https://open.spotify.com/album/32gUPqoTPUDDhU24umDtBG"
-      },
-      "artists": [
-        {
-          "name": "Lorien Well",
-          "url": "https://open.spotify.com/artist/3hiyw1zl4FPYlUTn3nMUae"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Bleeding Love",
-      "url": "https://open.spotify.com/track/7dp9Qx4m621G9Re70JfRQi"
+      "duration_ms": 291034,
+      "name": "Proof Shes Picked Her Poison",
+      "url": "https://open.spotify.com/track/4Lz7BSQtqLFX1witSjvOJ0"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -271,6 +287,38 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
+        "name": "Bleeding Love",
+        "url": "https://open.spotify.com/album/32gUPqoTPUDDhU24umDtBG"
+      },
+      "artists": [
+        {
+          "name": "Lorien Well",
+          "url": "https://open.spotify.com/artist/3hiyw1zl4FPYlUTn3nMUae"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7dp9Qx4m621G9Re70JfRQi"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Puddle",
+        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 117489,
+      "name": "Puddle",
+      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
         "name": "Va Va Voom",
         "url": "https://open.spotify.com/album/2vgsOwnFTQyJRbLLnt3xEJ"
       },
@@ -301,22 +349,6 @@
       "url": "https://open.spotify.com/track/04KeNT4krk7FCBoGV1j1jh"
     },
     {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Fountain Edits",
-        "url": "https://open.spotify.com/album/47YCO51avOV38XM0KmmEKg"
-      },
-      "artists": [
-        {
-          "name": "True Blue",
-          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
-        }
-      ],
-      "duration_ms": 291034,
-      "name": "Proof Shes Picked Her Poison",
-      "url": "https://open.spotify.com/track/4Lz7BSQtqLFX1witSjvOJ0"
-    },
-    {
       "added_at": "2026-10-23 04:02:05",
       "album": {
         "name": "Round and round",
@@ -339,22 +371,6 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Puddle",
-        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 117489,
-      "name": "Puddle",
-      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
         "name": "A Dream Like This",
         "url": "https://open.spotify.com/album/6BAaLrkBWD3ZJzjfhDfRya"
       },
@@ -367,6 +383,22 @@
       "duration_ms": 229500,
       "name": "Flood (Dream Edition)",
       "url": "https://open.spotify.com/track/363HUqJ7iNbJvf9VJZ6Q8F"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "curbstone",
+        "url": "https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "duration_ms": 199330,
+      "name": "curbstone",
+      "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -407,38 +439,6 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "Black bear",
-        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
-      },
-      "artists": [
-        {
-          "name": "Blue Mena",
-          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
-        }
-      ],
-      "duration_ms": 156413,
-      "name": "Black bear",
-      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Iftangible,",
-        "url": "https://open.spotify.com/album/3B1DzVTzy0k99K6NH5ZAlY"
-      },
-      "artists": [
-        {
-          "name": "Jespfur",
-          "url": "https://open.spotify.com/artist/7uPZzaOXKtwltRGEgeQN0r"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "(blanket)",
-      "url": "https://open.spotify.com/track/4m6obtYQsheYGZhgkXWJST"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
         "name": "Everything in the shade",
         "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 187173,
       "name": "Big Spender",
       "url": "https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
+        "name": "Iftangible,",
+        "url": "https://open.spotify.com/album/3B1DzVTzy0k99K6NH5ZAlY"
+      },
+      "artists": [
+        {
+          "name": "Jespfur",
+          "url": "https://open.spotify.com/artist/7uPZzaOXKtwltRGEgeQN0r"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "(blanket)",
+      "url": "https://open.spotify.com/track/4m6obtYQsheYGZhgkXWJST"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -503,6 +519,22 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
+        "name": "Black bear",
+        "url": "https://open.spotify.com/album/2az6UXQ2PLchS5UlSZWxyv"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Black bear",
+      "url": "https://open.spotify.com/track/4vRzckhYru1wgfdTG2Fllu"
+    },
+    {
+      "added_at": "2026-10-16 04:00:27",
+      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 177230,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3nxbdIkJfC2OKx4EM57xGd"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "curbstone",
-        "url": "https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt"
-      },
-      "artists": [
-        {
-          "name": "mikey",
-          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
-        }
-      ],
-      "duration_ms": 199330,
-      "name": "curbstone",
-      "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -3251,22 +3267,6 @@
     {
       "added_at": "2026-10-16 04:00:27",
       "album": {
-        "name": "To trust you",
-        "url": "https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 147280,
-      "name": "To trust you",
-      "url": "https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
         "name": "together",
         "url": "https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q"
       },
@@ -3311,22 +3311,6 @@
       "duration_ms": 137633,
       "name": "Rivet Gun",
       "url": "https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Still Above",
-      "url": "https://open.spotify.com/track/01jtoPWy6B49NfXtI51JIq"
     },
     {
       "added_at": "2026-10-16 04:00:27",
@@ -3423,22 +3407,6 @@
       "duration_ms": 141176,
       "name": "dog-tired",
       "url": "https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH"
-    },
-    {
-      "added_at": "2026-10-16 04:00:27",
-      "album": {
-        "name": "Lay down",
-        "url": "https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "Lay down",
-      "url": "https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO"
     },
     {
       "added_at": "2026-10-16 04:00:27",

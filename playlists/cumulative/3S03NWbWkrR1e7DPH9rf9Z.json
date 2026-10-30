@@ -889,6 +889,28 @@
     },
     {
       "album": {
+        "name": "Camera Flash",
+        "url": "https://open.spotify.com/album/58c8uH9Hz690KI5gVxtPtY"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        },
+        {
+          "name": "2ACES",
+          "url": "https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165521,
+      "name": "Camera Flash",
+      "url": "https://open.spotify.com/track/02Jp00dHUFueWTKKhNgEPB"
+    },
+    {
+      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/15U4ntA3zZQSfyjJT8EGbJ"
       },

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by: <a href="https://artists.spotify.com/songwriter/34YzezAI3nKTv5PilX7qGn">Sasha Alex Sloan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,462 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,499 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cloudbusting](https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 5:10 |
 | 2 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 3 | [Hey Jupiter \- 2016 Remaster](https://open.spotify.com/track/2Nq5FAdFD2GOWH3l04kBWB) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Boys for Pele \(Deluxe Edition\)](https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ) | 5:11 |
-| 4 | [Rocky Mountains](https://open.spotify.com/track/46onaZFYtcf0JDnLggx7yT) | [Wendy Carlos](https://open.spotify.com/artist/53MmKrtEp4WjTg5yavKBqq), [Rachel Elkind](https://open.spotify.com/artist/3upw7LeLuCjuLPywNdkUHY) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 2:53 |
+| 4 | [Rocky Mountains](https://open.spotify.com/track/46onaZFYtcf0JDnLggx7yT) | [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB), [Rachel Elkind](https://open.spotify.com/artist/3upw7LeLuCjuLPywNdkUHY) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 2:53 |
 | 5 | [Goodnight and Go](https://open.spotify.com/track/4lJjVASVLA8m4RJUCD6MPL) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:52 |
 | 6 | [It's Okay To Cry](https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:50 |
 | 7 | [Iimfama Ziyabona](https://open.spotify.com/track/3VgwgAGGZT7SZ3Z1z5ayZe) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Zaneliza: How the Water Moves](https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Limoncello](https://open.spotify.com/track/1MzrmkSpQO3z0xBIWkh9s0) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [XO, My Cyberlove](https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q) | 2:39 |
 | 50 | [to know you](https://open.spotify.com/track/4PewY42ebXnwFJPZ3CaxPu) | [Melissa Kadas](https://open.spotify.com/artist/3eOzCx1fs3vuE0K2R4x29C) | [to know you](https://open.spotify.com/album/6ANeh0U9ijUC8W32tIETrp) | 2:28 |
 
-Snapshot ID: `AAAAAPZ1VA9tlhH0kfS2NY9P1S/7fcsX`
+Snapshot ID: `AAAAAFgCziXSaQvnlD7ItP9x6+15keni`

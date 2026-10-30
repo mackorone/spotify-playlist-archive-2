@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-816 songs - 3 day 6 hr 21 min
+817 songs - 3 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Always On Time \- Worship Together Sessions](https://open.spotify.com/track/0NYWZoPNjHEZhJ1qQ0Wcis) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Burn In Us](https://open.spotify.com/album/7M3sEIVLaX8JLBvw6IBGII) | 6:57 | 2026-07-31 |  |
 | [Always Only Jesus \- Live](https://open.spotify.com/track/6QrPuYUc3eyCQs9ZFvJPgB) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Always Only Jesus \(Live\)](https://open.spotify.com/album/26Wg4OsrpI3V5C6FkRd2YO) | 5:13 | 2024-07-23 | 2024-08-08 |
 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/56SvYdddE1igvBFZn17hRx) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:26 | 2023-03-31 | 2025-03-21 |
+| [AMAZING!](https://open.spotify.com/track/6xDqS8pVe30KNHnsPVG5DT) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [AMAZING!](https://open.spotify.com/album/3ArEjyeSUTYhrAgB4CYh13) | 4:22 | 2026-10-29 |  |
 | [Amen \(Simple Gospel\) \- Live](https://open.spotify.com/track/1sURYSxg7O18nm4UcxfsaB) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 7:24 | 2024-03-22 | 2025-03-21 |
 | [Another In The Fire](https://open.spotify.com/track/2Wh5hmw4afibksDICDu2ge) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [\(in the meantime\)](https://open.spotify.com/album/4Slh7GOXCskT0v8WDe7pjo) | 4:21 | 2024-01-11 | 2025-03-21 |
 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 | 2022-02-17 | 2023-01-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 354628,
+  "num_followers": 354520,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALMqVLD1XlOJmt2lWg10kg74EQqQ",
+  "snapshot_id": "AAAAAH87A3y60cFfO3SG+IIPP5BtT6CC",
   "tracks": [
     {
       "added_at": "2026-10-16 14:02:19",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
       },
       "artists": [
         {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
         }
       ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+      "duration_ms": 187578,
+      "name": "A Estrela",
+      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/7rqbuDl2LJx0ebJUWDKjsJ"
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
       },
       "artists": [
         {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
         }
       ],
-      "duration_ms": 187578,
-      "name": "A Estrela",
-      "url": "https://open.spotify.com/track/4ccQhtL76jcpLcPoIMiMnq"
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "GRAZI",
         "url": "https://open.spotify.com/album/74GvKHIQvNFg7cDOWIJf1l"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 171428,
       "name": "L\u00c1 DE CIMA (1999)",
       "url": "https://open.spotify.com/track/7nCQ8BbP2uCHWqiYJJzex9"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Flerte",
-        "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 186532,
-      "name": "Flerte",
-      "url": "https://open.spotify.com/track/7dyZtAHEQAxyDt1CIZ3GJZ"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "F\u00faria",
         "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Vida de Rei, Vida de C\u00e3o",
-        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+        "name": "Flerte",
+        "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
         }
       ],
-      "duration_ms": 164833,
-      "name": "Vida de Rei, Vida de C\u00e3o",
-      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
+      "duration_ms": 186532,
+      "name": "Flerte",
+      "url": "https://open.spotify.com/track/7dyZtAHEQAxyDt1CIZ3GJZ"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -867,6 +851,22 @@
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "Vida de Rei, Vida de C\u00e3o",
+        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 164833,
+      "name": "Vida de Rei, Vida de C\u00e3o",
+      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "A Minha Flor",
         "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Caipiranhas",
-        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 116097,
-      "name": "Caipiranhas",
-      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -963,6 +947,22 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "Caipiranhas",
+        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        }
+      ],
+      "duration_ms": 116097,
+      "name": "Caipiranhas",
+      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Tudo Pelo Show",
-        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 152232,
-      "name": "Os Mo\u00e7os da R\u00e1dio",
-      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "PASSARINHO",
         "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 201783,
       "name": "PASSARINHO",
       "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "No Mar",
         "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 171194,
       "name": "No Mar",
       "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
     },
     {
       "added_at": "2026-10-16 14:02:19",

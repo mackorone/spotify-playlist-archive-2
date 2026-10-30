@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. Touching Ice on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,840 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,889 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 74 | [Juaduddanya](https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 4:07 |
 | 75 | [there](https://open.spotify.com/track/1kbwqllGBF4FgfqEGQ7Xpz) | [helllhound](https://open.spotify.com/artist/77CMAtaujdujKGpGIp7kZE), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Here In the Valley](https://open.spotify.com/album/7uQnFNA4qNdkHl4NcDmRfZ) | 2:17 |
 
-Snapshot ID: `AAAAAOXgJdQ+It4qVuEKcL1ci/aF/zfe`
+Snapshot ID: `AAAAAIElc9+3MplvMp9hUoDgODL+e28n`

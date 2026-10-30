@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: RinRin
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,167 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,219 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 53 | [Row Zero](https://open.spotify.com/track/4TgJdKhrwTpRPNpUHMIfMm) | [Rabbit Cult](https://open.spotify.com/artist/3nv8z7TDLduEcN9mhGURA1) | [Row Zero](https://open.spotify.com/album/44MfCXXTJEEh6Bh7ZGbGN1) | 3:44 |
 | 54 | [To the Spoils of Faith](https://open.spotify.com/track/6iblhpFZohZYLTOmzAG5Xy) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [To the Spoils of Faith](https://open.spotify.com/album/4FsISzhUmQLLdakTy5So6J) | 3:02 |
 
-Snapshot ID: `AAAAAH0rkgQviGt6a7U5yes/gtoHAmmY`
+Snapshot ID: `AAAAAJunVCjnF+Beb14GLQp7DAIqjWlC`

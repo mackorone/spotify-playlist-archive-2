@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65mTEy33PMBRsfVtpwexlc.md) - [plain]
 
 > Best of 90s alternative rock music including iconic throwback alt rock songs from Red Hot Chili Peppers, The Goo Goo Dolls, Blur, blink\-182, Nirvana, and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 56,509 likes - 119 songs - 7 hr 59 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 56,501 likes - 119 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/65mTEy33PMBRsfVtpwexlc.md) - [plain]
 | 111 | [Play It Cool](https://open.spotify.com/track/0W40KCdjxlWkl9ymCEgYPl) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Radiator](https://open.spotify.com/album/4QF2Eg1fVxr0jx2tLVcusI) | 3:17 |
 | 112 | [Can't Stand It](https://open.spotify.com/track/1QBbFLiBCOElhEJVhsMNcl) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 3:46 |
 | 113 | [Animal Nitrate](https://open.spotify.com/track/6xbqbG8quMT88zadubrWtl) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [The Best Of](https://open.spotify.com/album/6IKWPpfzzSqLSgbIfvCrhO) | 3:28 |
-| 114 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |
+| 114 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 5:29 |
 | 115 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 116 | [How's It Going to Be](https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:13 |
 | 117 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |

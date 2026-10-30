@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,899 likes - 155 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,817 likes - 155 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 154 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
 | 155 | [Blue Fairy](https://open.spotify.com/track/0tTfzkTDrCO9iX5hiBHjl7) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Blue Fairy](https://open.spotify.com/album/2TtrqrgTpOPInXcj9FmcCl) | 2:39 |
 
-Snapshot ID: `AAAAAJwHm8eSv3WEAR0ZVW9h7EethGjT`
+Snapshot ID: `AAAAABH4vh73TvxibnSsOl2e9gVzM3/j`

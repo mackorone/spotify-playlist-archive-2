@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: L'morphine",
+  "description": "Cover: Bo9al",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "THUGCLUB x 9OWA",
+        "url": "https://open.spotify.com/album/4lDnrD66KUn4cURbXktMgc"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155640,
+      "name": "9OWA",
+      "url": "https://open.spotify.com/track/3vWP59HuuZOgpsd834VKbt"
+    },
+    {
+      "album": {
         "name": "ABC\u00c8S",
         "url": "https://open.spotify.com/album/4zvlxTPmMfSguMeIpeyjbj"
       },
@@ -418,7 +436,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 228617,
       "name": "Action",
       "url": "https://open.spotify.com/track/4TY8DyDlVgN0Bl2AZO5afl"
@@ -1864,6 +1882,24 @@
       "duration_ms": 166556,
       "name": "CAPABLE",
       "url": "https://open.spotify.com/track/7CSLJOKj4LuDlBMYArB2x1"
+    },
+    {
+      "album": {
+        "name": "Capitaine",
+        "url": "https://open.spotify.com/album/3PHuqQWmUGJrQ51F9yCoGV"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz"
     },
     {
       "album": {
@@ -3549,6 +3585,28 @@
     },
     {
       "album": {
+        "name": "flou",
+        "url": "https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX"
+      },
+      "artists": [
+        {
+          "name": "Jbiina",
+          "url": "https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR"
+        },
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129772,
+      "name": "flou",
+      "url": "https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC"
+    },
+    {
+      "album": {
         "name": "Flouka",
         "url": "https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA"
       },
@@ -3794,6 +3852,28 @@
       "duration_ms": 178000,
       "name": "Gelato",
       "url": "https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5"
+    },
+    {
+      "album": {
+        "name": "GENIUS",
+        "url": "https://open.spotify.com/album/5ePSnrvivC8ydE5eguINUY"
+      },
+      "artists": [
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        },
+        {
+          "name": "GELLO 4031",
+          "url": "https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "GENIUS",
+      "url": "https://open.spotify.com/track/5HmAymmymqouGgacg9ZDHK"
     },
     {
       "album": {
@@ -5020,7 +5100,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 198333,
       "name": "KIYA",
       "url": "https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3"
@@ -7564,7 +7644,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178203,
       "name": "PASADENA",
       "url": "https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy"
@@ -9256,7 +9336,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 113684,
       "name": "Star Dancer",
       "url": "https://open.spotify.com/track/4TthkvS9RNTZwTYlT0gvg3"
@@ -9506,7 +9586,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 192013,
       "name": "T3EQDNA",
       "url": "https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc"

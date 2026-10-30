@@ -1,12 +1,12 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Karen Lizarazo",
-  "num_followers": 104988,
+  "num_followers": 104960,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAL3Y2DUw/4fxhgmaP3O+yKjONyN",
+  "snapshot_id": "AAAAAIgWf5PIj8Y30GT328X+zR0PC8pX",
   "tracks": [
     {
       "added_at": "2025-05-30 05:03:05",
@@ -615,18 +615,22 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+        "name": "Tequila Con Cerveza",
+        "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
       },
       "artists": [
         {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 285546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
+      "duration_ms": 143000,
+      "name": "Tequila Con Cerveza",
+      "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
     },
     {
       "added_at": "2025-05-30 05:03:05",
@@ -671,22 +675,18 @@
     {
       "added_at": "2025-05-30 05:03:05",
       "album": {
-        "name": "Tequila Con Cerveza",
-        "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
       "artists": [
         {
-          "name": "Luis Alfonso",
-          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Tequila Con Cerveza",
-      "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
+      "duration_ms": 285546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
     },
     {
       "added_at": "2025-05-30 05:03:05",

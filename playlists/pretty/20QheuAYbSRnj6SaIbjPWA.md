@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 3 likes - 179 songs - 12 hr 23 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 3 likes - 180 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,5 +187,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 177 | [Between Two Points](https://open.spotify.com/track/1xQ4BNf4nXPWtBFdJPknYJ) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8), [Romany Gilmour](https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD) | [Luck and Strange](https://open.spotify.com/album/2j2jOwKnbrXv5UpEU5fWrn) | 5:46 |
 | 178 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
 | 179 | [Little Earl](https://open.spotify.com/track/3BcTsjEYRe0mzkatVfDqo1) | [The Delines](https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg) | [The Sea Drift](https://open.spotify.com/album/5oA73lOwAKHlSlCM4gemet) | 4:16 |
+| 180 | [Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 5:42 |
 
-Snapshot ID: `AAABNP4LLeEiCVIoQ1CvxGyzfV2qacmQ`
+Snapshot ID: `AAABNa3aI71o7x8gWLjEZwLQjTSHDtaM`

@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Caught Between Your Love",
+        "url": "https://open.spotify.com/album/0PCtP0GgBhhb7oTVpNIYVa"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166004,
+      "name": "Caught Between Your Love",
+      "url": "https://open.spotify.com/track/5bXP7quYU2QwbuWdx6IzL0"
+    },
+    {
+      "album": {
         "name": "Forever with You",
         "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
       },
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 450306,
       "name": "Loving You - Losing You",
       "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"

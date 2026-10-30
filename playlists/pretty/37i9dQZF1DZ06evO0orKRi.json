@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25948,
+  "num_followers": 25951,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAABXcxZOc51zsnUftXx813m",
+  "snapshot_id": "at/pgAAAAADa0uQoOaRy5850jN9d2kbi",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Leave Him In The Long Yard",
-      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 192533,
       "name": "Looking Forward Looking Back",
       "url": "https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Leave Him In The Long Yard",
+      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Duncan",
-      "url": "https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ringer From The Top End",
         "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 186533,
       "name": "Charleville",
       "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Duncan",
+      "url": "https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "A Pub With No Beer - 1979 Version",
-      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trucks On The Track",
         "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 203666,
       "name": "Dieseline Dreams",
       "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "A Pub With No Beer - 1979 Version",
+      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
     },
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Highway Fever - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 50 - The Golden Anniversary Album",
         "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
@@ -271,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
       "artists": [
         {
@@ -280,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 169666,
-      "name": "Highway Fever - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
+      "duration_ms": 245613,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
     },
     {
       "added_at": null,
@@ -339,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 245613,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/0LAF0bcPsvdtrwYTARzDzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 50 - The Golden Anniversary Album",
-        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Walk A Country Mile",
-      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makin' A Mile",
         "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
@@ -419,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trucks On The Track",
-        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
       "artists": [
         {
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 201573,
-      "name": "I'm Married To My Bulldog Mack",
-      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
+      "duration_ms": 172000,
+      "name": "Walk A Country Mile",
+      "url": "https://open.spotify.com/track/48aOpQt8DsYnCgWeSDAqqU"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trucks On The Track",
+        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "I'm Married To My Bulldog Mack",
+      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gotta Keep Moving",
-      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makin' A Mile",
         "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 198720,
       "name": "Mechanised Swaggie",
       "url": "https://open.spotify.com/track/4UEmxVxIln6Lcpk5NxljFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Whom It May Concern",
-        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "And The Band Played Waltzing Matilda - 1992 Digital Remaster",
-      "url": "https://open.spotify.com/track/4O9L3Uau0ZbjMhXcnGrJCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best Of Slim Dusty (Remastered)",
         "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
       },
       "artists": [
         {
@@ -676,25 +660,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 463800,
-      "name": "The Man From Snowy River",
-      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Paddy William",
-      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
+      "duration_ms": 266706,
+      "name": "And The Band Played Waltzing Matilda - 1992 Digital Remaster",
+      "url": "https://open.spotify.com/track/4O9L3Uau0ZbjMhXcnGrJCy"
     },
     {
       "added_at": null,
@@ -715,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
@@ -724,9 +692,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 174333,
-      "name": "Give Me Room",
-      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+      "duration_ms": 272093,
+      "name": "Paddy William",
+      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 463800,
+      "name": "The Man From Snowy River",
+      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
     },
     {
       "added_at": null,
@@ -751,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights On The Hill (Remastered)",
-        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Bent-Axle Bob",
-      "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
+      "duration_ms": 174333,
+      "name": "Give Me Room",
+      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
     },
     {
       "added_at": null,
@@ -787,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 162026,
-      "name": "Haulin' For The Double 'T'",
-      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+      "duration_ms": 165826,
+      "name": "Bent-Axle Bob",
+      "url": "https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 178760,
       "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
       "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
     },
     {
       "added_at": null,

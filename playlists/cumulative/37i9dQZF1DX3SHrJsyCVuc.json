@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: lil ket / David Grey",
+  "description": "A new world of alternative noise. Cover: xiao xiao",
   "name": "Wire",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194160,
       "name": "BIG NOTER (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "ZIRP!",
+        "url": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243105,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/7hXHa6zkI2g4UEe5LEN3fE"
+    },
+    {
+      "album": {
         "name": "Deer In The Headlights",
         "url": "https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2"
       },
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 179026,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
@@ -2151,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "you made me / skin on linen",
+        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
+      },
+      "artists": [
+        {
+          "name": "PISS",
+          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160435,
+      "name": "i wanted to be a singer",
+      "url": "https://open.spotify.com/track/39yGQhkMG9tQ4kd6wueLQK"
+    },
+    {
+      "album": {
         "name": "the machinist",
         "url": "https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa"
       },
@@ -2707,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "LIFE KEEPS GOING (Normal Pleasure Remix)",
+        "url": "https://open.spotify.com/album/24YxFy8bHQmefEydI7PuoB"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        },
+        {
+          "name": "Normal Pleasure",
+          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259090,
+      "name": "LIFE KEEPS GOING - Normal Pleasure Remix",
+      "url": "https://open.spotify.com/track/2EFCkzN3NFP3S9m7SIgrDe"
+    },
+    {
+      "album": {
         "name": "Light Over There",
         "url": "https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n"
       },
@@ -2862,7 +2920,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175508,
       "name": "Make It Stop",
       "url": "https://open.spotify.com/track/6Ziu9cDGafW7oESEuu4Bvt"
@@ -3534,7 +3592,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 218856,
       "name": "Poles",
       "url": "https://open.spotify.com/track/0RUVO780hvunl7IZBgbc01"
@@ -3889,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Rorschach",
+        "url": "https://open.spotify.com/album/5XJFLRWs6wJIqUphi5FXbq"
+      },
+      "artists": [
+        {
+          "name": "The Engine",
+          "url": "https://open.spotify.com/artist/5i3cjWes0xYvWVPH6R2Fah"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "Rorschach",
+      "url": "https://open.spotify.com/track/4f4ntEIVYrpmlouRs8BoS3"
+    },
+    {
+      "album": {
         "name": "Rule 31",
         "url": "https://open.spotify.com/album/2SMWUV7fij4YwtmQqYiJjx"
       },
@@ -4182,7 +4258,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 212907,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/75LdIYSLqY9kBXZIHnqf9U"
@@ -4330,7 +4406,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 159426,
       "name": "Something's Different",
       "url": "https://open.spotify.com/track/3yXLnMwKAxaXYzvJJ84VJs"
@@ -4803,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "What's In Between",
+        "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222761,
+      "name": "The Intersection",
+      "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
+    },
+    {
+      "album": {
         "name": "The New VR Ted Bundy Biopic",
         "url": "https://open.spotify.com/album/6hIG5n4UxQV6Dqtu5QNWUd"
       },
@@ -5222,6 +5316,24 @@
       "duration_ms": 254168,
       "name": "Violet - YHWH Nailgun Remix",
       "url": "https://open.spotify.com/track/2kbKNHVudgXof9wjHE133Z"
+    },
+    {
+      "album": {
+        "name": "Virtual Lover",
+        "url": "https://open.spotify.com/album/14WobYbgG7aNhM09C7np58"
+      },
+      "artists": [
+        {
+          "name": "xiao xiao",
+          "url": "https://open.spotify.com/artist/4oiBay4ATBcD4ujBsLobCK"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Virtual Lover",
+      "url": "https://open.spotify.com/track/2PpCKWp67hO4NKvQr10Q8o"
     },
     {
       "album": {

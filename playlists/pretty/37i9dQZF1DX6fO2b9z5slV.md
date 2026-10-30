@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO2b9z5slV.md) - [plain]
 
 > You can't miss out on these\. Music videos only available on Premium\. Cover: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 67 likes - 15 songs - 45 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 15 songs - 45 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO2b9z5slV.md) - [plain]
 | 14 | [Me Mata](https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Me Mata](https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C) | 3:06 |
 | 15 | [KINKY](https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [KINKY](https://open.spotify.com/album/2P3o7T3rBrFKd5i8wkIssO) | 2:03 |
 
-Snapshot ID: `AAAAAHewTB0f/F9OTMoRtRI+x9HFKTf8`
+Snapshot ID: `AAAAADgM6VJQ8EvsaMrkKefHDtVjOaRR`

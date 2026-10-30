@@ -1,12 +1,12 @@
 {
   "description": "Sweet sounds and welcoming vibes",
-  "num_followers": 240449,
+  "num_followers": 240450,
   "original_name": "Front Porch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGxevDSqSlfgMF+9WylRUHDskHs",
+  "snapshot_id": "AAAAADrOvNnTIjyjYs0m5AXiPxZkPadX",
   "tracks": [
     {
       "added_at": "2026-10-23 19:17:17",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/558wd4W4cpsbgcRmpmRYEh"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/5W0PNMx7FmjiyAUaoOBVSm"
-    },
-    {
-      "added_at": "2026-10-23 19:17:17",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 171460,
       "name": "East of Anything",
       "url": "https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n"
+    },
+    {
+      "added_at": "2026-10-23 19:17:17",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/558wd4W4cpsbgcRmpmRYEh"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/5W0PNMx7FmjiyAUaoOBVSm"
     },
     {
       "added_at": "2026-10-23 19:17:17",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
+        "name": "Little Birds",
+        "url": "https://open.spotify.com/album/3eBCf9wkFfycV9am64MYVa"
+      },
+      "artists": [
+        {
+          "name": "The Wildwoods",
+          "url": "https://open.spotify.com/artist/2wPWBhOid8BNr5lgEf8GKe"
+        }
+      ],
+      "duration_ms": 263669,
+      "name": "Little Birds",
+      "url": "https://open.spotify.com/track/68QocdDNclivXB1TmfkTLY"
+    },
+    {
+      "added_at": "2026-10-23 19:17:17",
+      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -999,6 +1015,22 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
+        "name": "Days Of You",
+        "url": "https://open.spotify.com/album/62qmLB2dXwppJXzYh8Fm0f"
+      },
+      "artists": [
+        {
+          "name": "Lennon VanderDoes",
+          "url": "https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30"
+        }
+      ],
+      "duration_ms": 227687,
+      "name": "Days Of You",
+      "url": "https://open.spotify.com/track/56FfcCAWjPgyZeTX66NElO"
+    },
+    {
+      "added_at": "2026-10-23 19:17:17",
+      "album": {
         "name": "Lean On Me EP",
         "url": "https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe"
       },
@@ -1011,22 +1043,6 @@
       "duration_ms": 242885,
       "name": "It Knows Me - Alt Version",
       "url": "https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu"
-    },
-    {
-      "added_at": "2026-10-23 19:17:17",
-      "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2026-10-23 19:17:17",
@@ -1063,6 +1079,22 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "added_at": "2026-10-23 19:17:17",
+      "album": {
         "name": "Thomas Csorba",
         "url": "https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4"
       },
@@ -1079,38 +1111,6 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2026-10-23 19:17:17",
-      "album": {
-        "name": "Little Birds",
-        "url": "https://open.spotify.com/album/3eBCf9wkFfycV9am64MYVa"
-      },
-      "artists": [
-        {
-          "name": "The Wildwoods",
-          "url": "https://open.spotify.com/artist/2wPWBhOid8BNr5lgEf8GKe"
-        }
-      ],
-      "duration_ms": 263669,
-      "name": "Little Birds",
-      "url": "https://open.spotify.com/track/68QocdDNclivXB1TmfkTLY"
-    },
-    {
-      "added_at": "2026-10-23 19:17:17",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 209426,
       "name": "When Creation Was Young",
       "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
-    },
-    {
-      "added_at": "2026-10-23 19:17:17",
-      "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 235593,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
     },
     {
       "added_at": "2026-10-23 19:17:17",
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
-        "name": "Days Of You",
-        "url": "https://open.spotify.com/album/62qmLB2dXwppJXzYh8Fm0f"
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
       },
       "artists": [
         {
-          "name": "Lennon VanderDoes",
-          "url": "https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 227687,
-      "name": "Days Of You",
-      "url": "https://open.spotify.com/track/56FfcCAWjPgyZeTX66NElO"
+      "duration_ms": 235593,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
+    },
+    {
+      "added_at": "2026-10-23 19:17:17",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
     },
     {
       "added_at": "2026-10-23 19:17:17",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
+    },
+    {
+      "added_at": "2026-10-23 19:17:17",
+      "album": {
         "name": "Windless Day",
         "url": "https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 294974,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE"
-    },
-    {
-      "added_at": "2026-10-23 19:17:17",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
     },
     {
       "added_at": "2026-10-23 19:17:17",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-10-23 19:17:17",
       "album": {
+        "name": "Freedom for Your Soul",
+        "url": "https://open.spotify.com/album/6az4x5KWY3mQ1PpQWDdC05"
+      },
+      "artists": [
+        {
+          "name": "Paul Greene",
+          "url": "https://open.spotify.com/artist/189CwQJhg4MhnnqhdSAnZD"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/58lbaLOsFcMKVCzvFZKnJh"
+    },
+    {
+      "added_at": "2026-10-23 19:17:17",
+      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 213080,
       "name": "Sundown (feat. Beth Orton)",
       "url": "https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf"
-    },
-    {
-      "added_at": "2026-10-23 19:17:17",
-      "album": {
-        "name": "Freedom for Your Soul",
-        "url": "https://open.spotify.com/album/6az4x5KWY3mQ1PpQWDdC05"
-      },
-      "artists": [
-        {
-          "name": "Paul Greene",
-          "url": "https://open.spotify.com/artist/189CwQJhg4MhnnqhdSAnZD"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/58lbaLOsFcMKVCzvFZKnJh"
     },
     {
       "added_at": "2026-10-23 19:17:17",

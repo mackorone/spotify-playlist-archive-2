@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: REGENT \u6797\u6690\u7ae3",
+  "description": "2026 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: PAULA \u5340\u5b50\u7433",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -358,6 +358,24 @@
       "duration_ms": 215016,
       "name": "Break The Wall (ViuTV \u7bc0\u76ee\u300a\u516c\u53f8\u903c\u6211\u6253\u7c43\u7403\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/6F5wzLRCz2kuWutggrcoDc"
+    },
+    {
+      "album": {
+        "name": "seven steps",
+        "url": "https://open.spotify.com/album/6D7Y9MgOLNZxCuC7wsMV3s"
+      },
+      "artists": [
+        {
+          "name": "Paula \u5340\u5b50\u7433",
+          "url": "https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206505,
+      "name": "Burning Rose",
+      "url": "https://open.spotify.com/track/4PfVHwyQRwA7WEJ3mI2Top"
     },
     {
       "album": {
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176682,
       "name": "Twinkle Twinkle Little Love",
       "url": "https://open.spotify.com/track/3g7TMIVAUWJBhXzLpUVdoc"
@@ -4389,6 +4407,24 @@
     },
     {
       "album": {
+        "name": "\u5b87\u5b99\u53ea\u7d66\u6211\u534a\u65e5",
+        "url": "https://open.spotify.com/album/7LyLL1ugvVJTneBPjxNCEg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Fan",
+          "url": "https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199726,
+      "name": "\u5b87\u5b99\u53ea\u7d66\u6211\u534a\u65e5",
+      "url": "https://open.spotify.com/track/0EdZ9illPDJOHvhX5iAoAw"
+    },
+    {
+      "album": {
         "name": "\u5bc6\u53cb\u5708\u4e4b\u8b0e",
         "url": "https://open.spotify.com/album/1CntcnUkxUxnr4pwwgkhdR"
       },
@@ -5032,6 +5068,24 @@
       "duration_ms": 207000,
       "name": "\u6642\u9593\u8a08",
       "url": "https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0"
+    },
+    {
+      "album": {
+        "name": "\u665a\u00b7\u5b89\u6b4c",
+        "url": "https://open.spotify.com/album/1CymVq4NlMFTefEAYKSIDs"
+      },
+      "artists": [
+        {
+          "name": "\u665a\u5b89\u8389\u8389",
+          "url": "https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249566,
+      "name": "\u665a\u00b7\u5b89\u6b4c",
+      "url": "https://open.spotify.com/track/29jjQRtVgkH155sCmtCuUE"
     },
     {
       "album": {
@@ -6414,6 +6468,24 @@
       "duration_ms": 180513,
       "name": "\u96d9\u91cd\u6a19\u6e96",
       "url": "https://open.spotify.com/track/2T8F5UEJvJn9ppTyvcoC07"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u82e6",
+        "url": "https://open.spotify.com/album/1X5EcCUKddrOD6VAcel9fY"
+      },
+      "artists": [
+        {
+          "name": "REGENT \u6797\u6690\u7ae3",
+          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "\u96e2\u82e6",
+      "url": "https://open.spotify.com/track/52jItSdc5UpiXn940qFl3w"
     },
     {
       "album": {

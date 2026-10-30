@@ -1,44 +1,84 @@
 {
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Josiah Queen",
-  "num_followers": 1666691,
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Kirk Franklin",
+  "num_followers": 1667257,
   "original_name": "Top Christian & Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/yY3weMMrccYRS1QvTEmxn1DXH",
+  "snapshot_id": "AAAAAEuDoWNl/V01JYUnUuV4WoBXq6HW",
   "tracks": [
     {
-      "added_at": "2026-10-23 04:00:06",
+      "added_at": "2026-10-30 04:00:34",
       "album": {
-        "name": "Damascus Road",
-        "url": "https://open.spotify.com/album/4X7OVZ40bdXlArLiO2PYUY"
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
       },
       "artists": [
         {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 164213,
-      "name": "out of breath",
-      "url": "https://open.spotify.com/track/54REGEH2eXUz959sUIEmwb"
+      "duration_ms": 207400,
+      "name": "Hope In You (with Davido)",
+      "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
     },
     {
-      "added_at": "2026-10-23 04:00:06",
+      "added_at": "2026-10-16 04:39:23",
       "album": {
-        "name": "Soon The Streets Of Gold",
-        "url": "https://open.spotify.com/album/7ufnY8WFPIPW9Jra85UMZa"
+        "name": "Jamie MacDonald (Deluxe)",
+        "url": "https://open.spotify.com/album/0e9azjS6Hpyz4iMIgp1ANq"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
         }
       ],
-      "duration_ms": 199937,
-      "name": "Heaven Here I Come",
-      "url": "https://open.spotify.com/track/41ZH0iMu6Ix0d5t9bf6Qzm"
+      "duration_ms": 206125,
+      "name": "A Million Chances (with Tori Kelly)",
+      "url": "https://open.spotify.com/track/1e1o6Io33r70Y2i6JnOtin"
+    },
+    {
+      "added_at": "2026-10-30 04:00:34",
+      "album": {
+        "name": "The Hard Times",
+        "url": "https://open.spotify.com/album/74qr1pGo49YJ7nvCagAKiY"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 202994,
+      "name": "The Hard Times",
+      "url": "https://open.spotify.com/track/4JJ5RFoHXO0pOh2Xk9GbCN"
+    },
+    {
+      "added_at": "2026-10-09 04:04:30",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/1EGLxrX13pQItu7b9kjASi"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/2SEKMZuNE4e3sckh8WUo1K"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -73,40 +113,36 @@
       "url": "https://open.spotify.com/track/3teC9tCB847HFQW2Evh1SW"
     },
     {
-      "added_at": "2026-10-16 04:39:23",
+      "added_at": "2026-10-23 04:00:06",
       "album": {
-        "name": "Jamie MacDonald (Deluxe)",
-        "url": "https://open.spotify.com/album/0e9azjS6Hpyz4iMIgp1ANq"
+        "name": "Soon The Streets Of Gold",
+        "url": "https://open.spotify.com/album/7ufnY8WFPIPW9Jra85UMZa"
       },
       "artists": [
         {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 206125,
-      "name": "A Million Chances (with Tori Kelly)",
-      "url": "https://open.spotify.com/track/1e1o6Io33r70Y2i6JnOtin"
+      "duration_ms": 199937,
+      "name": "Heaven Here I Come",
+      "url": "https://open.spotify.com/track/41ZH0iMu6Ix0d5t9bf6Qzm"
     },
     {
-      "added_at": "2026-10-09 04:04:30",
+      "added_at": "2026-10-23 04:00:06",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/1EGLxrX13pQItu7b9kjASi"
+        "name": "Damascus Road",
+        "url": "https://open.spotify.com/album/4X7OVZ40bdXlArLiO2PYUY"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
         }
       ],
-      "duration_ms": 234400,
-      "name": "Beautiful Life",
-      "url": "https://open.spotify.com/track/2SEKMZuNE4e3sckh8WUo1K"
+      "duration_ms": 164213,
+      "name": "out of breath",
+      "url": "https://open.spotify.com/track/54REGEH2eXUz959sUIEmwb"
     },
     {
       "added_at": "2026-10-23 04:00:06",
@@ -303,6 +339,22 @@
       "duration_ms": 379146,
       "name": "Let There Be Light - in lieu of me",
       "url": "https://open.spotify.com/track/5X3vJE1gKlTDRIcgHkOAGP"
+    },
+    {
+      "added_at": "2026-10-30 04:00:34",
+      "album": {
+        "name": "Make Me Willing",
+        "url": "https://open.spotify.com/album/1BYPDmXbofH29ev7fMEY9E"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "duration_ms": 222057,
+      "name": "Make Me Willing",
+      "url": "https://open.spotify.com/track/2i44EncbCf54yDm4vBWKSy"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -791,26 +843,6 @@
     {
       "added_at": "2026-10-09 04:04:30",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/6fAX2TmUpd8O1JZigfprdS"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 166633,
-      "name": "This Time (with GloRilla)",
-      "url": "https://open.spotify.com/track/3eh1p3kv2cQa2vBWqLSiV5"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
         "name": "THIS CANNOT BE SOLD",
         "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
       },
@@ -823,6 +855,30 @@
       "duration_ms": 218018,
       "name": "TOO UNFAZED",
       "url": "https://open.spotify.com/track/6MPfLZFTmkhtRsEkPtrkWq"
+    },
+    {
+      "added_at": "2026-10-30 04:00:34",
+      "album": {
+        "name": "SEVEN TRUMPETS",
+        "url": "https://open.spotify.com/album/3u7jThyNYHSpzijEwahB7U"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "NEW HEAVEN",
+      "url": "https://open.spotify.com/track/0tfXcHME27daKjcHe6qtST"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -1427,26 +1483,6 @@
     {
       "added_at": "2026-10-09 04:04:30",
       "album": {
-        "name": "Heaven On My Mind (Guest List Edition)",
-        "url": "https://open.spotify.com/album/0rRNnqI6YHTdLW4htwJz6U"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 171621,
-      "name": "Lord It Feels Good (with gio.)",
-      "url": "https://open.spotify.com/track/361XvZ74ZV7iS1L7M12Ehs"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
         "name": "OKAY!",
         "url": "https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7"
       },
@@ -1531,22 +1567,6 @@
     {
       "added_at": "2026-10-09 04:04:30",
       "album": {
-        "name": "Runs In The Blood",
-        "url": "https://open.spotify.com/album/6HCas9eBOoKYeYJeK1Blaa"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 230180,
-      "name": "Eastern Sky",
-      "url": "https://open.spotify.com/track/0KemsPPbGm2AfB3vd9nGnZ"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/7B1U2uA3G7XhvbYWZ0Kevh"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 209913,
       "name": "Alleluia - Radio Version",
       "url": "https://open.spotify.com/track/7fVwB1a0nAl0s6Itwj2wIY"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
-        "name": "The Resurrection Of A King",
-        "url": "https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 355068,
-      "name": "We Turn Our Eyes",
-      "url": "https://open.spotify.com/track/0FmXi9DmlwfA15LKO47Dp1"
     },
     {
       "added_at": "2026-10-09 04:04:30",

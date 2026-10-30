@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADYxYMX8DrmidWrTotZB2TCTSPsu",
+  "snapshot_id": "AAAAAOtiuMYfy0BPvp/gr/8NwVfePuDN",
   "tracks": [
     {
       "added_at": "2026-10-23 04:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 173382,
       "name": "Weekend In Texas",
       "url": "https://open.spotify.com/track/7LBCgoUHyu8ITKLzalD0Ea"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "I Put A Spell On You (Goes Metal)",
-        "url": "https://open.spotify.com/album/2pF39pYMmq0NZLuIsgGezU"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 194737,
-      "name": "I Put A Spell On You (Goes Metal)",
-      "url": "https://open.spotify.com/track/6RUGWw76svRBq6YCHr4gC0"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -99,22 +83,6 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Say When (from Netflix Series \"Nobody Wants This\" Season 3)",
-        "url": "https://open.spotify.com/album/1sAOV9vKM60TBvhDbcGjvP"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 227399,
-      "name": "Say When - from Netflix Series \"Nobody Wants This\" Season 3",
-      "url": "https://open.spotify.com/track/0WOITRgSeNeY0ZGxn1vkJc"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
         "name": "Phish: Live In Savannah 2026",
         "url": "https://open.spotify.com/album/73SBKxw3R4IZzqDm0uciUQ"
       },
@@ -151,6 +119,54 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
+        "name": "Say When (from Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/1sAOV9vKM60TBvhDbcGjvP"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 227399,
+      "name": "Say When - from Netflix Series \"Nobody Wants This\" Season 3",
+      "url": "https://open.spotify.com/track/0WOITRgSeNeY0ZGxn1vkJc"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "I Put A Spell On You (Goes Metal)",
+        "url": "https://open.spotify.com/album/2pF39pYMmq0NZLuIsgGezU"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 194737,
+      "name": "I Put A Spell On You (Goes Metal)",
+      "url": "https://open.spotify.com/track/6RUGWw76svRBq6YCHr4gC0"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Who You Callin' Crazy",
+        "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 249425,
+      "name": "Who You Callin' Crazy",
+      "url": "https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
         "name": "Dooley Wap",
         "url": "https://open.spotify.com/album/0N7M20RMx526EAJ9VZ9dqZ"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Who You Callin' Crazy",
-        "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ"
+        "name": "Me Holdin' On",
+        "url": "https://open.spotify.com/album/0CfmoFfZjzHz9ISbvDJ54n"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 249425,
-      "name": "Who You Callin' Crazy",
-      "url": "https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk"
+      "duration_ms": 207997,
+      "name": "Me Holdin' On",
+      "url": "https://open.spotify.com/track/4B6n9OdoJKMQ2jpO05nVCn"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -207,18 +223,38 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Me Holdin' On",
-        "url": "https://open.spotify.com/album/0CfmoFfZjzHz9ISbvDJ54n"
+        "name": "L\u00e6knisgaldr",
+        "url": "https://open.spotify.com/album/0EUqyG3KOFsBdduECPmGmw"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
         }
       ],
-      "duration_ms": 207997,
-      "name": "Me Holdin' On",
-      "url": "https://open.spotify.com/track/4B6n9OdoJKMQ2jpO05nVCn"
+      "duration_ms": 375285,
+      "name": "L\u00e6knisgaldr",
+      "url": "https://open.spotify.com/track/1YVEvH42tBvNZHnheYvTny"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "BURN (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/6zNke11RgaMOoQDruAYELb"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "BURN (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/1alX84LuLflUU7n4ow0aSM"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -235,26 +271,6 @@
       "duration_ms": 276706,
       "name": "The Allfather Awakes",
       "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Draw You Out",
-        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "The Hunger Games",
-          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
-        }
-      ],
-      "duration_ms": 255984,
-      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
-      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -367,22 +383,6 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "Palace for the People",
-        "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 279576,
-      "name": "Heya",
-      "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
         "name": "Atlantic Jazz Legends",
         "url": "https://open.spotify.com/album/0PeNWCIJ8l76tEuowSBk7F"
       },
@@ -395,6 +395,26 @@
       "duration_ms": 387400,
       "name": "Blues to You",
       "url": "https://open.spotify.com/track/0p7oqSNpmZ9GSJGSJ9f4UY"
+    },
+    {
+      "added_at": "2026-10-23 04:00:00",
+      "album": {
+        "name": "Verve Remixed // Nina Simone",
+        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 242029,
+      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
+      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
     },
     {
       "added_at": "2026-10-23 04:00:00",
@@ -419,38 +439,18 @@
     {
       "added_at": "2026-10-23 04:00:00",
       "album": {
-        "name": "L\u00e6knisgaldr",
-        "url": "https://open.spotify.com/album/0EUqyG3KOFsBdduECPmGmw"
+        "name": "Palace for the People",
+        "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
       },
       "artists": [
         {
-          "name": "Heilung",
-          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
         }
       ],
-      "duration_ms": 375285,
-      "name": "L\u00e6knisgaldr",
-      "url": "https://open.spotify.com/track/1YVEvH42tBvNZHnheYvTny"
-    },
-    {
-      "added_at": "2026-10-23 04:00:00",
-      "album": {
-        "name": "Verve Remixed // Nina Simone",
-        "url": "https://open.spotify.com/album/5MeGOVG3JoxTzYmgtBuZY5"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 242029,
-      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
-      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b"
+      "duration_ms": 279576,
+      "name": "Heya",
+      "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
     },
     {
       "added_at": "2026-10-23 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 361238,
+  "num_followers": 361300,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEICASgsawstDlJTf09MgJMuxwoG",
+  "snapshot_id": "AAAAAJ2/snFd3ATrBOxnOPtVVTUsmion",
   "tracks": [
     {
       "added_at": "2019-09-04 23:38:38",
@@ -219,6 +219,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Tesoros De Colecci\u00f3n - Solo Para Enamorados",
+        "url": "https://open.spotify.com/album/2VJGuUziW86OlMjaL9p5JX"
+      },
+      "artists": [
+        {
+          "name": "Los So\u00f1adores",
+          "url": "https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i"
+        }
+      ],
+      "duration_ms": 137853,
+      "name": "Vida",
+      "url": "https://open.spotify.com/track/47BX8KEYwLKHHjssDYfmZy"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Adicto al Rock N Roll",
         "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Tesoros De Colecci\u00f3n - Solo Para Enamorados",
-        "url": "https://open.spotify.com/album/2VJGuUziW86OlMjaL9p5JX"
-      },
-      "artists": [
-        {
-          "name": "Los So\u00f1adores",
-          "url": "https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i"
-        }
-      ],
-      "duration_ms": 137853,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/47BX8KEYwLKHHjssDYfmZy"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Mano A Mano Volumen 1",
         "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Antolog\u00eda. . . Los Freddy's",
-        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "D\u00e9jenme llorar - Con banda",
-      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 172466,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Antolog\u00eda. . . Los Freddy's",
+        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "D\u00e9jenme llorar - Con banda",
+      "url": "https://open.spotify.com/track/3O41vXTFcrULtbGFZXIe1B"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Los Muecas",
-        "url": "https://open.spotify.com/album/3ZtJgoGA73bI1lrtmpdf43"
-      },
-      "artists": [
-        {
-          "name": "Los Muecas",
-          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Qu\u00e9 Iron\u00eda",
-      "url": "https://open.spotify.com/track/4GFDdDaSwSkJEhPjGfksxM"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 162666,
       "name": "Dilo Tu",
       "url": "https://open.spotify.com/track/6fdat2u9c3swGdh5YEgJoV"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Los Muecas",
+        "url": "https://open.spotify.com/album/3ZtJgoGA73bI1lrtmpdf43"
+      },
+      "artists": [
+        {
+          "name": "Los Muecas",
+          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/4GFDdDaSwSkJEhPjGfksxM"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -779,6 +779,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Las N\u00famero 1 de Manoella Torres",
+        "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
         "url": "https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 176173,
       "name": "Corazon de roca",
       "url": "https://open.spotify.com/track/7gZsYjASjfykZdB8ncVJvI"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Las N\u00famero 1 de Manoella Torres",
-        "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr"
     },
     {
       "added_at": "2019-09-04 23:38:38",

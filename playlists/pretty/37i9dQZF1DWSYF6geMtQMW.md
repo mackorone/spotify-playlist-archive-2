@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אודיה
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,004 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,083 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [שרקי](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 |
 | 50 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 
-Snapshot ID: `AAAAAEmZN9dKO+cAnwq7WRlabeDfYvuQ`
+Snapshot ID: `AAAAALULrNa5bhYCsxPhJT9ZR6NN2SI6`

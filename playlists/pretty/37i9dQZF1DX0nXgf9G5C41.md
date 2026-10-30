@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 
 > A dive into the females expanding the spiritual borders of country
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,938 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,966 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 | 29 | [Neon Cross](https://open.spotify.com/track/4t7uW1oI98j6c2IUy5LbYb) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/3JyedWfUdeBW9ZJ435YEfQ) | 4:24 |
 | 30 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 
-Snapshot ID: `AAAAANfuH1SoY+iAjBg6KY2e+BX5uyfn`
+Snapshot ID: `AAAAAAiV1bYc4vjKx+tPPEN/DfsmJlYj`

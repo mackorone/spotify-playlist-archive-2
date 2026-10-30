@@ -4,7 +4,7 @@
 
 > The sound of Afrobeats echoing around the world\. Cover: Chisway
 
-250 songs - 12 hr 38 min
+251 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9) | 2:28 | 2026-08-14 |  |
 | [Halo](https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Halo](https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4) | 3:11 | 2025-12-03 | 2026-01-16 |
 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 | 2025-10-24 | 2026-09-11 |
-| [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2025-10-10 |  |
+| [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2025-10-10 | 2026-10-30 |
 | [HOLY GHOST](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [HOLY GHOST](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2025-10-10 |  |
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-10-10 |  |
 | [Hypocrite \(deux visages\)](https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Hypocrite \(deux visages\)](https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D) | 2:07 | 2026-01-16 | 2026-02-20 |
@@ -185,6 +185,7 @@
 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-20 |  |
 | [POPULAIR](https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [POPULAIR](https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj) | 3:12 | 2026-05-29 |  |
 | [POSITION](https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [POSITION](https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu) | 2:51 | 2026-10-23 |  |
+| [Pray](https://open.spotify.com/track/54PyFCyGbVvr6OgENl8QFf) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Pray](https://open.spotify.com/album/1RtuCvuc1k2s9AeXYFiiDP) | 3:56 | 2026-10-23 |  |
 | [PRESSURE](https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [PRESSURE](https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4) | 2:16 | 2026-08-07 | 2026-08-30 |
 | [Pressure \(feat\. Leon Thomas\)](https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:24 | 2026-08-14 |  |
 | [Private Chef \(feat\. Mc Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 | 2026-08-07 | 2026-09-13 |

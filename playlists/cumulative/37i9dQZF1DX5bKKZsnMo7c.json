@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dramatic, theatrical pop: Emily Bear it's your moment!",
+  "description": "Dramatic, theatrical pop: Mollie Elizabeth it's your moment!",
   "name": "Limelight",
   "tracks": [
     {
@@ -900,6 +900,24 @@
       "duration_ms": 213804,
       "name": "BAD LUCK!",
       "url": "https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP"
+    },
+    {
+      "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/6vYVu3wSl9OedjOU8n8pVX"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150070,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u"
     },
     {
       "album": {
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 190410,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/601V6Cr1UYkR8qaRtrSDzl"
@@ -5270,6 +5288,24 @@
       "duration_ms": 229813,
       "name": "If Only",
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
+    },
+    {
+      "album": {
+        "name": "IMITATE",
+        "url": "https://open.spotify.com/album/4Q2vZIVKADXCKegHeyDCAC"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "IMITATE",
+      "url": "https://open.spotify.com/track/42GoMVuTK8BXAMpJXDxg9d"
     },
     {
       "album": {
@@ -10036,7 +10072,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 125698,
       "name": "The Mirror",
       "url": "https://open.spotify.com/track/3afTokYq5ULFPgMF7bU8cP"

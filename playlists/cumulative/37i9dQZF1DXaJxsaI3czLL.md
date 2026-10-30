@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-531 songs - 1 day 13 hr 37 min
+532 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 | 2023-11-28 |  |
 | [intersolid](https://open.spotify.com/track/21gAd3WVNMqP0mSaM04CdZ) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [intersolid](https://open.spotify.com/album/31BTiDOOBfmQldZdl6vQgz) | 3:54 | 2022-11-08 | 2023-04-19 |
 | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w) | [Kei Owada](https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Into The Night \(feat\. ZIN & 黒田卓也\)](https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP) | 4:47 | 2023-08-10 | 2024-04-26 |
+| [iolite](https://open.spotify.com/track/6pp9TUd9YssG2YPiu75uSn) | [Kana Wakareno](https://open.spotify.com/artist/2lSjSwANlxp3waNrFRogtb) | [forget me not](https://open.spotify.com/album/68Od59mQPLHRWyXojgqqEC) | 9:38 | 2026-04-17 |  |
 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 | 2025-09-05 |  |
 | [It's OK](https://open.spotify.com/track/2cLSA6zzwBAkqncRpS3q5A) | [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [It's OK](https://open.spotify.com/album/5bwtyDdH57JJbkD3e8W6eJ) | 4:35 | 2023-06-20 | 2023-07-19 |
 | [ITAI](https://open.spotify.com/track/5Yz2Y881nKY5RXCwVflW67) | [Super Climbing Club](https://open.spotify.com/artist/34lmZs4w84HbiKjzknM3ab) | [ITAI](https://open.spotify.com/album/25ctr2SZq7WCsLUNWH7vkL) | 4:16 | 2024-01-30 | 2024-02-28 |
@@ -265,7 +266,7 @@
 | [The Only](https://open.spotify.com/track/73MYkkIHGjN2tNmSH7xe0z) | [Yoshio Inoue](https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM) | [天使も悪魔も / The Only](https://open.spotify.com/album/6zoeqwoyAmNN0TV9cIZrzJ) | 6:15 | 2023-03-21 | 2023-03-29 |
 | [the pyre](https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [the pyre](https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f) | 2:40 | 2024-02-06 | 2024-02-28 |
 | [The Rose \(15th Anniversary Version\)](https://open.spotify.com/track/0XWlisVINXUSp2iEh4we66) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3g19wLo3HUI5Jk6gCAf4JF) | 4:17 | 2023-04-04 | 2023-08-09 |
-| [The Rose \(15th Anniversary Version）](https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj) | 4:17 | 2024-09-27 | 2026-10-28 |
+| [The Rose \(15th Anniversary Version）](https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj) | 4:17 | 2024-09-27 |  |
 | [There is Nothing More to Say](https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:06 | 2023-11-02 | 2024-04-19 |
 | [Through The Deep](https://open.spotify.com/track/6kziDNrJFdAjTFgXKYteIs) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Through The Deep \- EP](https://open.spotify.com/album/3mBVZsyITr12QIAg9n0jlV) | 2:33 | 2023-01-31 | 2023-03-15 |
 | [Tokeru](https://open.spotify.com/track/5hbBM9teSxGwhWfU6EuSAn) | [ken uegane](https://open.spotify.com/artist/0H2bJji0sgqCVPxaPu5r35) | [Tokeru](https://open.spotify.com/album/7pitGTL1P2FIGfgCkD2xZ8) | 2:31 | 2023-05-30 | 2023-06-01 |
@@ -452,10 +453,10 @@
 | [旅立つ秋](https://open.spotify.com/track/6hXPsuOa4suL5A6NgdqIEX) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:07 | 2022-11-01 |  |
 | [明日への手紙](https://open.spotify.com/track/2dUYxBbmtmNfanhSLbRcry) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Ren'dez\-vous](https://open.spotify.com/album/51M0Y7HBSSD6SggyRqGMFH) | 4:51 | 2022-10-20 |  |
 | [星の生まれる日](https://open.spotify.com/track/6StKzYvWvt5A3ikyfs8dd2) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ブーゲンビリア](https://open.spotify.com/album/0HOWtosBU69PMyuIJs3gRZ) | 5:02 | 2023-07-18 | 2023-08-09 |
-| [星明かりのトロイメライ](https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [ただいま](https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB) | 5:29 | 2024-03-05 |  |
+| [星明かりのトロイメライ](https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [ただいま](https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB) | 5:29 | 2024-03-05 | 2026-10-30 |
 | [星空のクリスマス](https://open.spotify.com/track/6Ma1w1UOKocjW1qDiDZfMk) | [Akane Irihi](https://open.spotify.com/artist/2N0lFQ7S1GpMvmTxamY0Ww) | [星空のクリスマス](https://open.spotify.com/album/0EAps7DuInxzcYl3oGRDgY) | 4:08 | 2022-12-20 | 2022-12-28 |
 | [春にして君を想う \- 2023 Remaster](https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [春にして君を想う \(2023 Remaster\)](https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B) | 4:33 | 2023-06-20 | 2023-08-27 |
-| [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 | 2023-10-17 |  |
+| [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 | 2023-10-17 | 2026-10-30 |
 | [時の道標](https://open.spotify.com/track/1PJwg7N6psEi0XUHei8lZP) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [時の道標](https://open.spotify.com/album/30sM6PpUwOD3RAU32h3Ajm) | 5:36 | 2023-12-12 | 2023-12-14 |
 | [時計は眠い](https://open.spotify.com/track/4rkqxglseRrle9pYAw0mdv) | [Beautiful Hummingbird](https://open.spotify.com/artist/3arFktQQIVQR0QL2HiYrD4) | [時計は眠い](https://open.spotify.com/album/7a2bho1Rns2X9K3ec6WBKB) | 4:28 | 2022-12-13 | 2022-12-21 |
 | [景色一空](https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu) | 4:47 | 2023-10-10 | 2023-12-02 |

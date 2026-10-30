@@ -1,13 +1,45 @@
 {
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Horse Vision",
-  "num_followers": 48609,
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Elise Elvira",
+  "num_followers": 48606,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfe+p9XcfyO5U+Nv19PzTIqz03Z",
+  "snapshot_id": "AAAAAJSUegHO8/0Bd/0IkMvNJcMdcBUH",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "If Nobody Knows, Does It Count?",
+        "url": "https://open.spotify.com/album/4X9Xm9PG1p4VWtUSIOF33C"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 186571,
+      "name": "If Nobody Knows, Does It Count?",
+      "url": "https://open.spotify.com/track/7l1ijteM7MuWzv9Be4PRpO"
+    },
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Bakom oss bara dimma",
+        "url": "https://open.spotify.com/album/4lGirLEjaDsZzYjpIItB9Y"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 249812,
+      "name": "Bakom oss bara dimma (Filmversion fr\u00e5n J\u00e4vla karlar)",
+      "url": "https://open.spotify.com/track/2EfcQOJiJBtoN4zYghioen"
+    },
     {
       "added_at": "2026-10-22 22:00:14",
       "album": {
@@ -23,6 +55,38 @@
       "duration_ms": 173333,
       "name": "Goblin's Head",
       "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
+    },
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Creek",
+        "url": "https://open.spotify.com/album/4ZHCgrvfu9ayQNQ0agDrVO"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 113266,
+      "name": "Creek",
+      "url": "https://open.spotify.com/track/6pahtfyWIYs5qYHNrx9Yjv"
+    },
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Bury The Dust",
+        "url": "https://open.spotify.com/album/3WOhSyMmAD8Q0bevvMtr8p"
+      },
+      "artists": [
+        {
+          "name": "Atli",
+          "url": "https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Bury The Dust",
+      "url": "https://open.spotify.com/track/2kbm5u3IUnhIxVWBqHT54r"
     },
     {
       "added_at": "2026-10-23 08:55:12",
@@ -53,6 +117,26 @@
       "url": "https://open.spotify.com/track/4eHkvzRG91mnjF1hNycZ4i"
     },
     {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Solen",
+        "url": "https://open.spotify.com/album/0CYBceyCn54dpx1hOwLhUf"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Solen",
+      "url": "https://open.spotify.com/track/6bjkdtQ8CD9zil8oXEsSeF"
+    },
+    {
       "added_at": "2026-10-15 22:00:55",
       "album": {
         "name": "Spaghetti Soul",
@@ -69,6 +153,22 @@
       "url": "https://open.spotify.com/track/2YwCkmDnYrQPfSooF6SeLZ"
     },
     {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Blau Hajmel",
+        "url": "https://open.spotify.com/album/3DIvFNXorFGjJEJ4A0aTDL"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 250725,
+      "name": "Blau hajmel",
+      "url": "https://open.spotify.com/track/2ReNW98lO8s37jZvETSlMA"
+    },
+    {
       "added_at": "2026-10-23 08:55:12",
       "album": {
         "name": "Hereditary",
@@ -83,6 +183,22 @@
       "duration_ms": 135555,
       "name": "Hereditary",
       "url": "https://open.spotify.com/track/3vbg2bb0fNXJcaIBQa7J6i"
+    },
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "JUNK",
+        "url": "https://open.spotify.com/album/3J58f9xRouHdBl1xfKxKiu"
+      },
+      "artists": [
+        {
+          "name": "garbagepink",
+          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
+        }
+      ],
+      "duration_ms": 171932,
+      "name": "tears will never dry",
+      "url": "https://open.spotify.com/track/03h7h9HJnBKuqPjNIV6OSi"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -105,6 +221,38 @@
       "url": "https://open.spotify.com/track/4d9xUor9LZdf7uHU7gbeSH"
     },
     {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Powder / What I\u2019ll Become",
+        "url": "https://open.spotify.com/album/4OneD9e7aZZktGvKPmdosa"
+      },
+      "artists": [
+        {
+          "name": "NATHALIA",
+          "url": "https://open.spotify.com/artist/5NTS78KR2R1X37eRqtuEDE"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "What I'll Become",
+      "url": "https://open.spotify.com/track/0ODx0QdRtujSDPaFZpb4SG"
+    },
+    {
+      "added_at": "2026-10-15 22:00:55",
+      "album": {
+        "name": "Himmel helvete",
+        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Himmel helvete",
+      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
+    },
+    {
       "added_at": "2026-10-23 08:55:12",
       "album": {
         "name": "Honest",
@@ -123,6 +271,22 @@
       "duration_ms": 161613,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2yUVMHKF3azj3uqfoLOWdc"
+    },
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Din horisont",
+        "url": "https://open.spotify.com/album/1EPCOQ22UxPUd5r5a4lhao"
+      },
+      "artists": [
+        {
+          "name": "Josef Slunge",
+          "url": "https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd"
+        }
+      ],
+      "duration_ms": 157613,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/0b95Am6J1IFfHmsEu1xlbt"
     },
     {
       "added_at": "2026-10-22 22:00:14",
@@ -157,6 +321,22 @@
       "url": "https://open.spotify.com/track/0CmOjLIwPdMqS5VELlU45j"
     },
     {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "I Don't Wanna Figure You Out",
+        "url": "https://open.spotify.com/album/7h4vl8OM2Su4kBF0DfTNMZ"
+      },
+      "artists": [
+        {
+          "name": "tigerstate",
+          "url": "https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "I Don't Wanna Figure You Out",
+      "url": "https://open.spotify.com/track/5OaUFWR7ISrCAA4OYiBUVx"
+    },
+    {
       "added_at": "2026-10-22 22:00:14",
       "album": {
         "name": "Heaven Can Wait",
@@ -187,22 +367,6 @@
       "duration_ms": 205673,
       "name": "Kolm\u00e5rden",
       "url": "https://open.spotify.com/track/6cnnQYWX1oe4pGabrvqxVg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "Himmel helvete",
-        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
-      },
-      "artists": [
-        {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Himmel helvete",
-      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
     },
     {
       "added_at": "2026-10-23 08:55:12",
@@ -267,6 +431,22 @@
       "duration_ms": 256651,
       "name": "redstar",
       "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
+    },
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "I Gotta Believe",
+        "url": "https://open.spotify.com/album/5TUIFr2Tb5C0YMfs0XT7P0"
+      },
+      "artists": [
+        {
+          "name": "MYKKE",
+          "url": "https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX"
+        }
+      ],
+      "duration_ms": 226535,
+      "name": "I Gotta Believe",
+      "url": "https://open.spotify.com/track/6t56q2oSxyEHHjNSFcwO8R"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -559,6 +739,22 @@
       "duration_ms": 117489,
       "name": "Puddle",
       "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
+    },
+    {
+      "added_at": "2026-10-29 23:00:44",
+      "album": {
+        "name": "Unsatiated & You can escape the rat race, but you will always be a rat",
+        "url": "https://open.spotify.com/album/7gF8seUOQwFh6uomXwFzxP"
+      },
+      "artists": [
+        {
+          "name": "Busu",
+          "url": "https://open.spotify.com/artist/0dO6OEk896aswa3orK3zVG"
+        }
+      ],
+      "duration_ms": 198404,
+      "name": "You can escape the rat race, but you will always be a rat",
+      "url": "https://open.spotify.com/track/3hlwxYQ1uEVao9M2XQppDe"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -1623,22 +1819,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "Medvind",
-        "url": "https://open.spotify.com/album/7HvlnnMQdOGxJLKY5ANWLH"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 176447,
-      "name": "Medvind",
-      "url": "https://open.spotify.com/track/56JIOBuj4LfhgcjNfKkMkl"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "For Your Eyes Only",
         "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
       },
@@ -2083,22 +2263,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "N\u00e4mndeman - om medelklassens dilemma",
-        "url": "https://open.spotify.com/album/1lSK4DtV2KBJqZz8R0tsXW"
-      },
-      "artists": [
-        {
-          "name": "\u00c5ret Var",
-          "url": "https://open.spotify.com/artist/1IuIAS0zkKRpITz8IMNa3i"
-        }
-      ],
-      "duration_ms": 352893,
-      "name": "N\u00e4mndeman - om medelklassens dilemma",
-      "url": "https://open.spotify.com/track/3wbgRz2v0P0HB5h8V5yEUY"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "Ventura (Hang Me Out to Dry)",
         "url": "https://open.spotify.com/album/0Kcc83ICaX5IMfw6dr7I3B"
       },
@@ -2179,22 +2343,6 @@
       "duration_ms": 127438,
       "name": "INVINCIBLE",
       "url": "https://open.spotify.com/track/5Q097UCJdfPaC6Io9AXjQ9"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "TIKI BAR",
-        "url": "https://open.spotify.com/album/4zznVzEKYJwwtaSHfy7cv3"
-      },
-      "artists": [
-        {
-          "name": "garbagepink",
-          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
-        }
-      ],
-      "duration_ms": 197743,
-      "name": "TIKI BAR",
-      "url": "https://open.spotify.com/track/1XHUuxEU1jRWaB2on1nxM9"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -2295,22 +2443,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "Other People, Other Wedding Songs (Music from the book 'Songs For Other People\u2019s Weddings\u2019)",
-        "url": "https://open.spotify.com/album/4YAxMlAUUlAmwlBRxm62iR"
-      },
-      "artists": [
-        {
-          "name": "Jens Lekman",
-          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
-        }
-      ],
-      "duration_ms": 216054,
-      "name": "CHAPTER 02 - Still In Love With You",
-      "url": "https://open.spotify.com/track/1skIxsgpd535U2HZoThUOc"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/4yacoDhN5ktZ9rNl4NdfQd"
       },
@@ -2355,22 +2487,6 @@
       "duration_ms": 158181,
       "name": "Marlow first",
       "url": "https://open.spotify.com/track/48f31aoDxpekF9fCCMGSqx"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "No Hard Feelings (Deluxe)",
-        "url": "https://open.spotify.com/album/0FMucdda0oSSMZndaJR8Uc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 171067,
-      "name": "Perfect 10",
-      "url": "https://open.spotify.com/track/6yhUgDXbFmmzKyET26xsqE"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -2487,22 +2603,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "KL + SA",
-        "url": "https://open.spotify.com/album/0QgrQo647alLMVlGIRGIMz"
-      },
-      "artists": [
-        {
-          "name": "Sibille Attar",
-          "url": "https://open.spotify.com/artist/4hCWXPfrkKQKDVVbRUmkTq"
-        }
-      ],
-      "duration_ms": 154663,
-      "name": "KL + SA",
-      "url": "https://open.spotify.com/track/2AZYXYN34XOfspp4g6uXp6"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "Musik f\u00f6r alla",
         "url": "https://open.spotify.com/album/5yuu4qCXp8PieAJgGAQKUz"
       },
@@ -2563,22 +2663,6 @@
       "duration_ms": 242248,
       "name": "Meet Me In Love",
       "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "Essex_Honey.mp3",
-        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 289075,
-      "name": "Essex_Honey.mp3",
-      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -2847,22 +2931,6 @@
       "duration_ms": 208216,
       "name": "eeelluminagee",
       "url": "https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "I'm Fine",
-        "url": "https://open.spotify.com/album/0KrkqXQ7SfG1siefSnXPUo"
-      },
-      "artists": [
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/6sJEtAvb5P0Q2NII6ynUNa"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -3147,22 +3215,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "Lust // Tiger\u00f6ga",
-        "url": "https://open.spotify.com/album/2Q1C8ASSUHdI7si0nSFy1w"
-      },
-      "artists": [
-        {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/52Gd1OK0WZS13KZgPleUiD"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "IT'S BEEN AWFUL",
         "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
       },
@@ -3195,22 +3247,6 @@
       "duration_ms": 215454,
       "name": "I'd love to be a star",
       "url": "https://open.spotify.com/track/1iSXI8IPkPMxtITODa0mTg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205812,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -3267,22 +3303,6 @@
       "duration_ms": 244000,
       "name": "Onenon",
       "url": "https://open.spotify.com/track/7Aw5qQy9zeg9ZGtsOQAcQA"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "Spring summer",
-        "url": "https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 128012,
-      "name": "Spring summer",
-      "url": "https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4"
     },
     {
       "added_at": "2026-10-15 22:00:55",

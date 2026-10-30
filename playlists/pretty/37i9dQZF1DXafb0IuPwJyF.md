@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,057 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,107 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Period](https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Period](https://open.spotify.com/album/6MOiPzaRFngumUQFF4qG1A) | 3:26 |
 | 50 | [I Got Your Back](https://open.spotify.com/track/7rDleP2IpI5dpyzEcXcAUr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [I Got Your Back](https://open.spotify.com/album/6vw2GCTaDdPhzCvgMRcIjW) | 2:22 |
 
-Snapshot ID: `AAAAAMpeJzsh76MGkscQwHGwQHx/ulwS`
+Snapshot ID: `AAAAANZ2ghxkf+e+MyjcRVk6wiMirFjN`

@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un autunno non proprio felice \(blanco in cover\)
+> musica per un autunno non proprio felice \(naska in cover\)
 
-1,796 songs - 3 day 10 hr 34 min
+1,798 songs - 3 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [CAPOLAVORO](https://open.spotify.com/track/0UoPFBZ7t9uFCm9Psc3QCR) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [CAPOLAVORO](https://open.spotify.com/album/7uQQpjGiucTujRmX6uc5TM) | 3:18 | 2025-03-06 | 2025-10-10 |
 | [Capricci](https://open.spotify.com/track/2VXgwSL3jCwYrnTh47mes8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:37 | 2026-10-01 |  |
 | [Capricciosa](https://open.spotify.com/track/2P1AC53kSURlj342HDX22p) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [Capricciosa](https://open.spotify.com/album/4tZFrbYWhRO3WTm8daaRz5) | 2:22 | 2024-10-17 | 2025-05-09 |
-| [CARNE](https://open.spotify.com/track/7ocThvkFpzpiWO4yglc5fJ) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch) | [CARNE](https://open.spotify.com/album/4KEALu0U5LbcNJZYPPh81J) | 2:57 | 2026-10-15 |  |
+| [CARNE](https://open.spotify.com/track/7ocThvkFpzpiWO4yglc5fJ) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch) | [CARNE](https://open.spotify.com/album/4KEALu0U5LbcNJZYPPh81J) | 2:57 | 2026-10-15 | 2026-10-30 |
 | [Carrello di SHEIN](https://open.spotify.com/track/1T0Tdb0AfVIzbDfnuyJpGC) | [Hydra Shinigami](https://open.spotify.com/artist/3GyMWEA5C0XEa7CxhaO7jY) | [Carrello di SHEIN](https://open.spotify.com/album/3kg8uZIHCjGWZw0XHi0URV) | 2:09 | 2022-10-13 | 2022-11-25 |
 | [casa mia](https://open.spotify.com/track/4asnXnpnLxhaLyNpbqHLRA) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [casa mia](https://open.spotify.com/album/1CPXTkrON4AeyNEiwbngQk) | 3:28 | 2026-03-19 | 2026-04-03 |
 | [Casa Mia / Casa Tua \(con Tredici Pietro\)](https://open.spotify.com/track/2J7LXXv5CfAZpDApmyJLfz) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Tutti Tornano A Casa](https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ) | 2:30 | 2026-10-01 |  |
@@ -279,7 +279,7 @@
 | [Castelli di sabbia](https://open.spotify.com/track/1HoirfLvjjje24l0YMwYwe) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [Castelli di sabbia](https://open.spotify.com/album/2duOqCoQYTAkaaIkMJe6Q5) | 2:23 | 2026-05-07 | 2026-06-26 |
 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 | 2023-02-02 | 2023-10-06 |
 | [Cattiva \- + Cattiva](https://open.spotify.com/track/4qUcT5VpqM756hIUylvL4y) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:06 | 2023-10-05 | 2024-03-01 |
-| [CATTIVA ABITUDINE](https://open.spotify.com/track/79BsbconiWd05XNfFT9Hne) | [Knfuzed](https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB) | [CATTIVA ABITUDINE](https://open.spotify.com/album/286MAYqWTy8ecDh1WaZkUB) | 2:04 | 2026-10-15 |  |
+| [CATTIVA ABITUDINE](https://open.spotify.com/track/79BsbconiWd05XNfFT9Hne) | [Knfuzed](https://open.spotify.com/artist/0iLJo0Dem6c216e2jQjQBB) | [CATTIVA ABITUDINE](https://open.spotify.com/album/286MAYqWTy8ecDh1WaZkUB) | 2:04 | 2026-10-15 | 2026-10-30 |
 | [CATTIVERIA](https://open.spotify.com/track/55dav2WUGS1o4ECUHoOT0x) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [CATTIVERIA](https://open.spotify.com/album/5mD8AIHmJAL5PT7o96XwXV) | 2:53 | 2024-03-28 | 2024-06-01 |
 | [Cause Perse](https://open.spotify.com/track/2KTkK87bVywhsBfgsXOQ0Q) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/7wuqjRiVDHVE2LLO1gAKqf) | 2:21 | 2023-02-09 | 2023-02-16 |
 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 | 2023-02-15 | 2023-06-23 |
@@ -598,7 +598,7 @@
 | [Fiori d'arancio](https://open.spotify.com/track/1xEC3MRBTPdgLmMXNylGx7) | [Def](https://open.spotify.com/artist/0KxwYP84fvKoG9dVGvAmRM) | [Fiori d'arancio](https://open.spotify.com/album/3QXWTYx0SMw2C0G47R7jXY) | 2:34 | 2025-11-20 | 2025-12-19 |
 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 | 2022-05-06 | 2022-06-28 |
 | [Fire](https://open.spotify.com/track/1SjoSaKU4s8KXmJeqRCkyc) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Vitamina Life +](https://open.spotify.com/album/2NSkdzq4A0wzIde4IXIF7o) | 1:30 | 2024-11-07 | 2025-10-24 |
-| [First time \(feat\. Theø\)](https://open.spotify.com/track/6PnMjjtegErJqSCBSQG6Jd) | [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd) | [CAOS](https://open.spotify.com/album/2rkvFaR8ETNXlPfurc17hb) | 2:43 | 2025-12-18 |  |
+| [First time \(feat\. Theø\)](https://open.spotify.com/track/6PnMjjtegErJqSCBSQG6Jd) | [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd) | [CAOS](https://open.spotify.com/album/2rkvFaR8ETNXlPfurc17hb) | 2:43 | 2025-12-18 | 2026-10-30 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-06-27 | 2022-09-02 |
 | [FLOP](https://open.spotify.com/track/73H7bKyGXhGCtNnK1ZsfWI) | [Frambo x Scicchi](https://open.spotify.com/artist/3G2C9oYXg0Pwvr3BiarZNB), [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27), [SCICCHI](https://open.spotify.com/artist/1RZTru4OtYVGVs0EsX3639) | [FLOP](https://open.spotify.com/album/4yVQKGeqVqiPNZY1KPPkrm) | 2:55 | 2023-06-08 | 2023-06-23 |
 | [Flowers](https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Flowers](https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x) | 2:28 | 2026-02-19 | 2026-03-20 |
@@ -1467,6 +1467,7 @@
 | [Sole sulla pelle](https://open.spotify.com/track/5xjCqy6vv3Gl1hl5XnBrFo) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Sole sulla pelle](https://open.spotify.com/album/63mjUjh1BXqhNrysvuuPMI) | 2:56 | 2025-01-16 | 2025-05-23 |
 | [soli//sobri](https://open.spotify.com/track/5EO2pVWLkUryTWfvMN15sz) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [soli//sobri](https://open.spotify.com/album/0UstAXxQcjpzo43POijkVE) | 2:30 | 2024-12-12 | 2025-01-31 |
 | [solite cose](https://open.spotify.com/track/5q49W8e8ZOy1wO9MIpL8RR) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 3:00 | 2025-02-27 | 2026-05-22 |
+| [SOLO \(con i mostri\)](https://open.spotify.com/track/7EZHWTB0SzNqVPMdwW1WxA) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm) | [HORROR VITA](https://open.spotify.com/album/0sGUpEqcChROXrEvWXE9hV) | 3:04 | 2026-10-29 |  |
 | [Solo come un cane](https://open.spotify.com/track/7uqxz5qUAtgugvxlpQ0EA2) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Solo come un cane](https://open.spotify.com/album/6CBCpUpGNwxz2pZpEDsnS9) | 3:23 | 2022-12-13 | 2023-02-24 |
 | [Solo Come Un Cane](https://open.spotify.com/track/5r76Fuoa3FT0QN8ThQj92T) | [ventitrevoltemario](https://open.spotify.com/artist/6w0NvwmzOqPi8nvb7URfdo) | [Solo Come Un Cane](https://open.spotify.com/album/5ZvpsYYYgynV2B6ui4Hh3s) | 2:32 | 2025-04-17 | 2025-05-09 |
 | [Solo Noi](https://open.spotify.com/track/7JCcVAZytTNniXxvw3N4mT) | [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Indaco](https://open.spotify.com/album/00ALxUXwprONphiPixCN0l) | 1:16 | 2023-03-23 | 2023-05-26 |
@@ -1613,6 +1614,7 @@
 | [TI HO PORTATO LA LUNA](https://open.spotify.com/track/07xoC8VuSn5ExWMuHsAV6h) | [pablo murphy](https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB) | [TI HO PORTATO LA LUNA](https://open.spotify.com/album/7h8cDINcwdo0bzhG35aVMJ) | 2:51 | 2024-01-25 | 2024-04-05 |
 | [Ti Odio Ti Amo](https://open.spotify.com/track/4fl8dbgqMNVZfWqh1KWOfw) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Rhen](https://open.spotify.com/artist/3I5A4K9cZSEYMrlR0A184k) | [Ti Odio Ti Amo](https://open.spotify.com/album/6laZ3qCsoOOpomSuj2mGQd) | 2:38 | 2023-05-18 | 2023-07-28 |
 | [Ti penso sempre](https://open.spotify.com/track/15RaJcxk9ng0GahyzI6q3g) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Ti penso sempre](https://open.spotify.com/album/1BmNw1cvb6dJCKWoB2KlFs) | 2:34 | 2026-02-25 |  |
+| [ti regalerò una spada](https://open.spotify.com/track/6hZESvGRaVBXa3xgDW1o2P) | [ex rave](https://open.spotify.com/artist/3M70Keb49O0MudT6kEERrB) | [ti regalerò una spada](https://open.spotify.com/album/6BZIF37S4Ulv8zRkIOKblP) | 2:35 | 2026-10-29 |  |
 | [Ti voglio richiamare](https://open.spotify.com/track/2QV3CdSjJEEXY1koTLZ30q) | [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW), [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [Ti voglio richiamare](https://open.spotify.com/album/0sS1aj3RamIlXyCGkTxzde) | 2:28 | 2022-10-13 | 2023-03-18 |
 | [Ti vuoi mettere con me?](https://open.spotify.com/track/7j8w8CcQTkYI6ME4ulz2u3) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [Ti vuoi mettere con me?](https://open.spotify.com/album/6zfSzvSNBPaMDx7crWaAIg) | 2:15 | 2023-01-26 | 2023-03-18 |
 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:49 | 2026-01-01 | 2026-01-30 |

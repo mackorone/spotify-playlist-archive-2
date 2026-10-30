@@ -1,18 +1,18 @@
 {
   "description": "Agir, HeartLess, quintasz entram na zona. ",
-  "num_followers": 192332,
+  "num_followers": 192333,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9aIDkgGfM5z40KeJDZQRjk9v62",
+  "snapshot_id": "AAAAAOTJ1hv9q71RQWkz2pod90imgRS+",
   "tracks": [
     {
-      "added_at": "2026-10-15 23:00:25",
+      "added_at": "2026-10-30 00:00:26",
       "album": {
-        "name": "Isaltino",
-        "url": "https://open.spotify.com/album/5pAN7IqUrjblw2lq4nCBP0"
+        "name": "Gra\u00e7as a Deus",
+        "url": "https://open.spotify.com/album/5AKUkiFMNtrtHoN4tmuVpb"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 222257,
-      "name": "Isaltino",
-      "url": "https://open.spotify.com/track/50iakLZIlmMPjJlye2Fc84"
+      "duration_ms": 204195,
+      "name": "Gra\u00e7as a Deus",
+      "url": "https://open.spotify.com/track/4jbGAIetgUMoUjKTt5QUFR"
     },
     {
       "added_at": "2026-10-22 23:00:48",
@@ -83,6 +83,22 @@
       "duration_ms": 153600,
       "name": "VIENI QUI",
       "url": "https://open.spotify.com/track/4eDwVzsgbwJGUGytEzU47a"
+    },
+    {
+      "added_at": "2026-10-15 23:00:25",
+      "album": {
+        "name": "Isaltino",
+        "url": "https://open.spotify.com/album/5pAN7IqUrjblw2lq4nCBP0"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 222257,
+      "name": "Isaltino",
+      "url": "https://open.spotify.com/track/50iakLZIlmMPjJlye2Fc84"
     },
     {
       "added_at": "2026-10-15 23:00:25",
@@ -1339,50 +1355,6 @@
       "duration_ms": 436149,
       "name": "Tr\u00e1fico n\u00b02 / Dama da Noite",
       "url": "https://open.spotify.com/track/6srwAFrvqjV4tt0rkzzHRw"
-    },
-    {
-      "added_at": "2026-10-15 23:00:25",
-      "album": {
-        "name": "Tr\u00e1fico n\u00b01 / Kataleya",
-        "url": "https://open.spotify.com/album/5CXJjjRHTXWCKW5sAV3vis"
-      },
-      "artists": [
-        {
-          "name": "Traficante D'Arte",
-          "url": "https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF"
-        },
-        {
-          "name": "Vado M\u00e1s Ki \u00c1s",
-          "url": "https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG"
-        },
-        {
-          "name": "Elji Beatzkilla",
-          "url": "https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ"
-        },
-        {
-          "name": "Pempas",
-          "url": "https://open.spotify.com/artist/6l7kK18m55OXGv2bDbkf7X"
-        },
-        {
-          "name": "Lil Star",
-          "url": "https://open.spotify.com/artist/2SgPIGR7IhSl4nK76cKBAj"
-        },
-        {
-          "name": "Sass\u00e1",
-          "url": "https://open.spotify.com/artist/0338A7A7HSYIKVjAB69LiI"
-        },
-        {
-          "name": "DENNYH",
-          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
-        },
-        {
-          "name": "Gang Mka",
-          "url": "https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3"
-        }
-      ],
-      "duration_ms": 476337,
-      "name": "Tr\u00e1fico n\u00b01 / Kataleya",
-      "url": "https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI"
     }
   ],
   "unique_name": "Na Zona",

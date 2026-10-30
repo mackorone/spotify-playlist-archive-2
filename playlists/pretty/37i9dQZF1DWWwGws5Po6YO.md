@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Kayla Pichichero
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,588 likes - 175 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,658 likes - 175 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 174 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
 | 175 | [Home](https://open.spotify.com/track/1mOygnZoGodamv4VcqSK3T) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Home](https://open.spotify.com/album/3A908hjy2xnvD9DuoF9t3j) | 3:42 |
 
-Snapshot ID: `AAAAAIsAclXnWCTAWK+63yQlmhm1LoUw`
+Snapshot ID: `AAAAACbMyDtV5JTKVPNT9Lo/sXdPyKtE`

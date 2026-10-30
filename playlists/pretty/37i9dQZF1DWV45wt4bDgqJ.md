@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,441 likes - 30 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,449 likes - 30 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV45wt4bDgqJ.md) - [plain]
 | 29 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 |
 | 30 | [Secreto](https://open.spotify.com/track/5LGl6AkddNBdd8Rt4uunHV) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/10E2xFStkL2uqXkiXiQEoH) | 4:17 |
 
-Snapshot ID: `AAAAACe74lZqWnId5Xhov7a1o9BQZEFl`
+Snapshot ID: `AAAAAAvS6CrxIvEn8T827fBzi+jyqkKP`

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35474,
+  "num_followers": 35480,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAA1wp3GIWaK4FjTUjYv5Amz",
+  "snapshot_id": "at/pgAAAAABUHRrCdfk1d/9L1Kn1kL3+",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jetta Preto",
+        "url": "https://open.spotify.com/album/20RSmavBmlUIx9yB9NNWD7"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Aleeh Marley",
+          "url": "https://open.spotify.com/artist/2V6qQAXPdopmmQFREzbG9n"
+        }
+      ],
+      "duration_ms": 155271,
+      "name": "Jetta Preto",
+      "url": "https://open.spotify.com/track/1ZCh7vpZWgkPN96jC1kt2b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Empurra Empurra",
         "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
       },
@@ -939,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jetta Preto",
-        "url": "https://open.spotify.com/album/20RSmavBmlUIx9yB9NNWD7"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Aleeh Marley",
-          "url": "https://open.spotify.com/artist/2V6qQAXPdopmmQFREzbG9n"
-        }
-      ],
-      "duration_ms": 155271,
-      "name": "Jetta Preto",
-      "url": "https://open.spotify.com/track/1ZCh7vpZWgkPN96jC1kt2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se o Port\u00e3o Tiver Trancado",
         "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/2zo4C4eJ9yjBjT34j8r156"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1075,6 +1055,26 @@
       "duration_ms": 435565,
       "name": "Festa Linda 2",
       "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJBHBHDJ",
+          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
+        }
+      ],
+      "duration_ms": 103384,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1175,26 +1175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mtg Que Chega Me Machucou",
         "url": "https://open.spotify.com/album/64VU2rCPsKnCrW4oyQRS97"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 151389,
       "name": "Mtg Que Chega Me Machucou",
       "url": "https://open.spotify.com/track/7JXxmpfV4tMKjx71JWHLk8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,

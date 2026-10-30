@@ -39295,6 +39295,28 @@
     },
     {
       "album": {
+        "name": "The Game Changer",
+        "url": "https://open.spotify.com/album/5KmXBofsCg5Vpknnnva4G1"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        },
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373653,
+      "name": "The Game Changer",
+      "url": "https://open.spotify.com/track/3bk46hQJ6RDwfe5YhaKQQl"
+    },
+    {
+      "album": {
         "name": "The Garden Path",
         "url": "https://open.spotify.com/album/3JDjkBLJicW3ViAuzVxpvA"
       },

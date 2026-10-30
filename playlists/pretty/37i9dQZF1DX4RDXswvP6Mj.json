@@ -1,13 +1,45 @@
 {
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: JEONGHAN, JOSHUA) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 1208181,
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: XLOV) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "num_followers": 1207991,
   "original_name": "K-Pop Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHKtXOjTxxBi1PvrrwBgXTUWQb4",
+  "snapshot_id": "AAAAAOq+/VsgR73ksmxBeW+iMA9M/8lk",
   "tracks": [
+    {
+      "added_at": "2026-10-28 10:01:50",
+      "album": {
+        "name": "i=!",
+        "url": "https://open.spotify.com/album/0aon1QIkvHxoqo4TCoaIUE"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4gZq0LX1vEGAHJXitARTUV"
+    },
+    {
+      "added_at": "2026-10-28 10:01:50",
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+    },
     {
       "added_at": "2026-10-21 05:01:33",
       "album": {
@@ -823,38 +855,6 @@
       "duration_ms": 177587,
       "name": "STARSTRUCK",
       "url": "https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M"
-    },
-    {
-      "added_at": "2026-10-07 04:53:07",
-      "album": {
-        "name": "Motto",
-        "url": "https://open.spotify.com/album/4wDsCQv9qslV6MmlcWuCe9"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Motto",
-      "url": "https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn"
-    },
-    {
-      "added_at": "2026-10-07 04:53:07",
-      "album": {
-        "name": "QUINTESSENCE",
-        "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 180112,
-      "name": "LIVE FAST DIE SLOW",
-      "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
     }
   ],
   "unique_name": "K-Pop Dance Party",

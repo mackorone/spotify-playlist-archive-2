@@ -1,13 +1,53 @@
 {
-  "description": "tradici\u00f3n, modernidad y frescura. Sonido argentino, del futuro.",
-  "num_followers": 26810,
+  "description": "tradici\u00f3n, modernidad y frescura. Sonido argentino, del futuro \ud83d\udcf8 Trouve Feraud",
+  "num_followers": 26811,
   "original_name": "de mis pagos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP41rwNdSWPrWvt+4yUjZILR4BlW",
+  "snapshot_id": "AAAAAPVQwF04HnOrA7i3ePQbtDzquSlR",
   "tracks": [
+    {
+      "added_at": "2026-10-30 03:00:15",
+      "album": {
+        "name": "PALABRAS DE MUJER",
+        "url": "https://open.spotify.com/album/3bzgEsh07nAlXHAuKWDuzE"
+      },
+      "artists": [
+        {
+          "name": "trouve feraud",
+          "url": "https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o"
+        }
+      ],
+      "duration_ms": 223616,
+      "name": "PALABRAS DE MUJER",
+      "url": "https://open.spotify.com/track/52HITJzRmsa4yL9ViYRPQc"
+    },
+    {
+      "added_at": "2026-10-30 03:00:15",
+      "album": {
+        "name": "EL ORIGEN",
+        "url": "https://open.spotify.com/album/4rXk0oNHgQWp6aVy5GLnjp"
+      },
+      "artists": [
+        {
+          "name": "Alba Best",
+          "url": "https://open.spotify.com/artist/3io2vmi2Vopm50Gx7TsjvS"
+        },
+        {
+          "name": "Bisherop",
+          "url": "https://open.spotify.com/artist/35M9AalZEGS9LRZafQ6VFo"
+        },
+        {
+          "name": "Fede Trips",
+          "url": "https://open.spotify.com/artist/5SvADxWqbIFMCGJagZz5vp"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "EL ORIGEN",
+      "url": "https://open.spotify.com/track/242Y6AVZYXNWJop6vGdGQQ"
+    },
     {
       "added_at": "2026-10-02 13:01:30",
       "album": {
@@ -143,6 +183,22 @@
       "duration_ms": 237152,
       "name": "Zamba del Desamorado",
       "url": "https://open.spotify.com/track/7C9X3tmTebuvEjWNyquIAF"
+    },
+    {
+      "added_at": "2026-10-30 03:00:15",
+      "album": {
+        "name": "idioma de infancia",
+        "url": "https://open.spotify.com/album/5vy0PcPcBwwTS6dmftCwUE"
+      },
+      "artists": [
+        {
+          "name": "Shitstem",
+          "url": "https://open.spotify.com/artist/1gYX86oU6Db846X9wHkjyo"
+        }
+      ],
+      "duration_ms": 151010,
+      "name": "tierra de uno",
+      "url": "https://open.spotify.com/track/3hbzKo08OTVsU2sFRLpYlG"
     },
     {
       "added_at": "2026-10-02 13:01:30",

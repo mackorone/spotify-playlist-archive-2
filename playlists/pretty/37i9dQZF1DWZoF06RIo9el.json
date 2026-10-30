@@ -1,12 +1,12 @@
 {
   "description": "Las favoritas de octubre 2026. Cover: Judeline",
-  "num_followers": 1540495,
+  "num_followers": 1540124,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALh7Sahvspa6yDkFM3EaPhYKiEm1",
+  "snapshot_id": "AAAAAKPIcmVW/J9SxvsUCSJIENpEv3oF",
   "tracks": [
     {
       "added_at": "2026-10-21 21:02:34",
@@ -63,6 +63,26 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "Suzuki (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 111655,
+      "name": "Suzuki (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "VAMO A VEL",
         "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 200653,
       "name": "COMPA COLETO (uy_como)",
       "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "Suzuki (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/3hKreIX64Q2003E8m74Plp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 111655,
-      "name": "Suzuki (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -203,26 +203,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "CAPCANA COCOA",
-        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "CAPCANA COCOA",
-      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "D\u00f3nde est\u00e1s",
         "url": "https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 159130,
       "name": "D\u00f3nde est\u00e1s",
       "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "CAPCANA COCOA",
+        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "CAPCANA COCOA",
+      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "si",
+        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 151624,
+      "name": "si",
+      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "CALLA\u00cdTO SAFARI",
         "url": "https://open.spotify.com/album/5mRmMCVz0LKdAmpeumvpZo"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "si",
-        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+        "name": "62 GANG",
+        "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu"
       },
       "artists": [
         {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
         }
       ],
-      "duration_ms": 151624,
-      "name": "si",
-      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+      "duration_ms": 87058,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -791,22 +807,6 @@
       "duration_ms": 162333,
       "name": "La gravedad y el tiempo.",
       "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "62 GANG",
-        "url": "https://open.spotify.com/album/3lq6BbV7iqzrC50JTzs9Pu"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 87058,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/5ZJPlwaqxs7yX7Aqe0TTgJ"
     },
     {
       "added_at": "2026-10-21 21:02:34",
@@ -843,6 +843,38 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
+        "name": "perd\u00f3n",
+        "url": "https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 163567,
+      "name": "perd\u00f3n",
+      "url": "https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw"
+    },
+    {
+      "added_at": "2026-10-21 21:02:34",
+      "album": {
         "name": "Bashiata",
         "url": "https://open.spotify.com/album/52B2HnetcclvWedmBU9aQc"
       },
@@ -875,22 +907,6 @@
     {
       "added_at": "2026-10-21 21:02:34",
       "album": {
-        "name": "perd\u00f3n",
-        "url": "https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 163567,
-      "name": "perd\u00f3n",
-      "url": "https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
         "name": "Te Caigo",
         "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
-    },
-    {
-      "added_at": "2026-10-21 21:02:34",
-      "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
-      },
-      "artists": [
-        {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
-        }
-      ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-10-21 21:02:34",

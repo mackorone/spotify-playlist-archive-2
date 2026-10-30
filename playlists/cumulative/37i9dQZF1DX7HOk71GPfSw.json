@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "N5ON",
+        "url": "https://open.spotify.com/album/5tUymTDVSwVGC1fV8sPo04"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172079,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2J2WCxTJqGCWo8huHHnXUf"
+    },
+    {
+      "album": {
         "name": "COA",
         "url": "https://open.spotify.com/album/6OA2c3w8XjpOPeyfNcAUSq"
       },
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 159537,
       "name": "Activa",
       "url": "https://open.spotify.com/track/5CD5ZtaCukObMsFAPs10eR"
@@ -5058,7 +5076,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 168333,
       "name": "Bathroom Bitch - 6arelyhuman Remix",
       "url": "https://open.spotify.com/track/5qLE9apyPgYYD4bYtuLSa0"
@@ -7973,6 +7991,24 @@
     },
     {
       "album": {
+        "name": "BULLIES",
+        "url": "https://open.spotify.com/album/4FUh0X1pHqWMnHtI25PNl9"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147172,
+      "name": "BULLIES",
+      "url": "https://open.spotify.com/track/1aEGO4wZSK6zgESQiPjmAO"
+    },
+    {
+      "album": {
         "name": "bunnyland",
         "url": "https://open.spotify.com/album/68YRvz1h96Ve5M3zHE8ife"
       },
@@ -8682,6 +8718,24 @@
       "duration_ms": 201927,
       "name": "CANDY CRUSHING",
       "url": "https://open.spotify.com/track/7lRoeQiX59PnZLCWhpN4dc"
+    },
+    {
+      "album": {
+        "name": "Candy On My Tastebuds",
+        "url": "https://open.spotify.com/album/1e9rL7ytowljdFVOkJsr9a"
+      },
+      "artists": [
+        {
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117480,
+      "name": "Candy On My Tastebuds",
+      "url": "https://open.spotify.com/track/6dxAnyHqH35yQKxfCW4fLY"
     },
     {
       "album": {
@@ -11782,6 +11836,28 @@
       "duration_ms": 197862,
       "name": "darkage",
       "url": "https://open.spotify.com/track/2jAGD9wgFRad8RCrUi9dY5"
+    },
+    {
+      "album": {
+        "name": "DARKETONA",
+        "url": "https://open.spotify.com/album/5U7arsRat7uevXpKNcgHoA"
+      },
+      "artists": [
+        {
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174589,
+      "name": "DARKETONA",
+      "url": "https://open.spotify.com/track/7qq0umaWWPcMQuQ9XjMz3e"
     },
     {
       "album": {
@@ -15140,7 +15216,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 152365,
       "name": "Error",
       "url": "https://open.spotify.com/track/0RrwVrlkomHDZDkCbaGMNu"
@@ -17649,6 +17725,24 @@
     },
     {
       "album": {
+        "name": "For Me / The Principle",
+        "url": "https://open.spotify.com/album/40qVKGh58oLwUxyViNT0jx"
+      },
+      "artists": [
+        {
+          "name": "iKeda",
+          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202042,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/2gWIeHVzV6NoVcQ8M8oXdD"
+    },
+    {
+      "album": {
         "name": "For Two",
         "url": "https://open.spotify.com/album/6LckbMkAspa3A4UJC7ACcN"
       },
@@ -18938,7 +19032,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 128321,
       "name": "gaslight",
       "url": "https://open.spotify.com/track/0n9XvYQPrp6TAskFlrJHAN"
@@ -21617,6 +21711,28 @@
     },
     {
       "album": {
+        "name": "HARDCORE HEALING",
+        "url": "https://open.spotify.com/album/6PSdMCidiUE3pvFKA9HTmp"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        },
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174917,
+      "name": "have u eva (feat. Cannelle)",
+      "url": "https://open.spotify.com/track/04Vr0uQLZ9pQbCRhXZP0db"
+    },
+    {
+      "album": {
         "name": "havefun",
         "url": "https://open.spotify.com/album/24p67ENiw4sPj6f2diJqD9"
       },
@@ -22935,6 +23051,24 @@
     },
     {
       "album": {
+        "name": "Hooves",
+        "url": "https://open.spotify.com/album/1ygCcvWb90Nmn1ySI4SY4I"
+      },
+      "artists": [
+        {
+          "name": "Luna Morgenstern",
+          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138504,
+      "name": "Hooves",
+      "url": "https://open.spotify.com/track/1zhMSR3ocV1XDCmRq5HgCa"
+    },
+    {
+      "album": {
         "name": "Hope That You Know",
         "url": "https://open.spotify.com/album/7spvHspcAR3gji9Yf54zdD"
       },
@@ -23174,6 +23308,28 @@
       "duration_ms": 167300,
       "name": "Hot Night",
       "url": "https://open.spotify.com/track/4mhssP1J0vF8nlvjm54Z3y"
+    },
+    {
+      "album": {
+        "name": "hot online",
+        "url": "https://open.spotify.com/album/6f09xo1Mv8cvAtyVDIJyqQ"
+      },
+      "artists": [
+        {
+          "name": "TEO.x3",
+          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
+        },
+        {
+          "name": "V4L",
+          "url": "https://open.spotify.com/artist/2Te4rU5e874aV5ISUQPm7b"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115537,
+      "name": "hot online",
+      "url": "https://open.spotify.com/track/3m4XX0eedFB99HnxAvt1ey"
     },
     {
       "album": {
@@ -24246,7 +24402,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175853,
       "name": "i keep falling in love",
       "url": "https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz"
@@ -28002,7 +28158,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 139760,
       "name": "Kiss Me Better",
       "url": "https://open.spotify.com/track/1i2yBcqPzkXjhdmqh6lvR1"
@@ -28600,6 +28756,28 @@
       "duration_ms": 343000,
       "name": "LAKE OF LOVE",
       "url": "https://open.spotify.com/track/7MZRh424fSUsjmUYEebcvK"
+    },
+    {
+      "album": {
+        "name": "lalalalala",
+        "url": "https://open.spotify.com/album/1wpB6e4J6uy6XRgEvrM4OB"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        },
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "lalalalala",
+      "url": "https://open.spotify.com/track/2thc5F5x0tRomE9bIQT8hd"
     },
     {
       "album": {
@@ -30750,7 +30928,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 173680,
       "name": "Lucky - Spotify Singles",
       "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
@@ -49134,7 +49312,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169440,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/1czpZmVrqg1lsql8qnB9eT"
@@ -49408,7 +49586,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 198750,
       "name": "that's my beach!",
       "url": "https://open.spotify.com/track/5Wshn1HCkONGNXAJ9zg0x5"
@@ -50442,7 +50620,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 165708,
       "name": "Tiger Tiger",
       "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
@@ -52240,7 +52418,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 252461,
       "name": "Unlimited Love",
       "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
@@ -55519,6 +55697,24 @@
     },
     {
       "album": {
+        "name": "Ypsilanti",
+        "url": "https://open.spotify.com/album/0bS64cH87A4vrTSPBO9eC7"
+      },
+      "artists": [
+        {
+          "name": "Nares",
+          "url": "https://open.spotify.com/artist/7yyh1F6YwLXV2wa7xYdcoP"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Ypsilanti",
+      "url": "https://open.spotify.com/track/4tEP8ZsPLXWqEwg0qag16R"
+    },
+    {
+      "album": {
         "name": "Renegade Lullaby",
         "url": "https://open.spotify.com/album/4fQphKV6ae83l1CaTwr2JX"
       },
@@ -55622,6 +55818,28 @@
       "duration_ms": 156857,
       "name": "Yung Piece of Shit Shut Up",
       "url": "https://open.spotify.com/track/1n70lAjFBTpa3LTPKJ2pVf"
+    },
+    {
+      "album": {
+        "name": "Z-List Girl (Perfectworld Version)",
+        "url": "https://open.spotify.com/album/5SwM46mpmbxyWiWSJI4GCy"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        },
+        {
+          "name": "Perfectworld",
+          "url": "https://open.spotify.com/artist/0Eqo2NKrst9Oz5O8FfUc8T"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190376,
+      "name": "Z-List Girl - Perfectworld Version",
+      "url": "https://open.spotify.com/track/50QMaE7Q4AyadQkN8C5bYD"
     },
     {
       "album": {

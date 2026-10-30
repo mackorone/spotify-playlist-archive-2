@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,683 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,712 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 79 | [To You](https://open.spotify.com/track/7FNgOiBfotP5tjfu7kf9KD) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [To You](https://open.spotify.com/album/1bzajEjhpNpvxqcFZVzbzD) | 5:21 |
 | 80 | [Show Me](https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Prodigal](https://open.spotify.com/album/2Ia0jrSaVw8Xu5AmsZQCM5) | 4:05 |
 
-Snapshot ID: `AAAAAMlh7HE+P9pFl7b4wABKphDcVTL3`
+Snapshot ID: `AAAAALWFWRO3/0dtlvGQRvoz8nMkViZD`

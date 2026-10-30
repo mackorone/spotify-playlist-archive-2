@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-376 songs - 2 day 3 hr 26 min
+377 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Good God \- Live](https://open.spotify.com/track/2EczWzXO2XGE0vaHjhbWlH) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Live from London](https://open.spotify.com/album/4tP9md1Ssy4bnaSWjffDey) | 4:14 | 2025-05-09 | 2025-08-22 |
 | [Goodness Of God \- Live at Doxa Deo Tshwane Central](https://open.spotify.com/track/5hmLPjr3EWRHL4IAzFoCKw) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Goodness Of God \(Live at Doxa Deo Tshwane Central\)](https://open.spotify.com/album/6Heb3VsVtgKyc6dwG4FTmw) | 4:27 | 2025-11-14 | 2026-02-06 |
 | [Grateful \- Live](https://open.spotify.com/track/6EhxiCqTYkJvLoZ1014BCt) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Grateful \(Live\)](https://open.spotify.com/album/2WyQNQd0bG0yHlwXs80S2x) | 9:44 | 2026-01-23 | 2026-04-17 |
-| [Greatest name \- Live](https://open.spotify.com/track/4oMI1r0wNKINdh1GqJVgLf) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Greatest name \(Live\)](https://open.spotify.com/album/2ScRQB9l8EzJxBqYUMKqay) | 9:43 | 2026-09-25 |  |
+| [Greatest name \- Live](https://open.spotify.com/track/4oMI1r0wNKINdh1GqJVgLf) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Greatest name \(Live\)](https://open.spotify.com/album/2ScRQB9l8EzJxBqYUMKqay) | 9:43 | 2026-09-25 | 2026-10-30 |
 | [Habadiliki \- Live](https://open.spotify.com/track/3QWUUdnGaIpsiJIDdTgT4x) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Habadiliki \(Live\)](https://open.spotify.com/album/0d6dkI00atJmMDl21u8G55) | 4:20 | 2025-01-17 | 2025-02-14 |
 | [Hagiazo \- Live](https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hagiazo \(Live\)](https://open.spotify.com/album/06ZexGDl7IkbHEcxD8nvWw) | 15:01 | 2025-04-18 |  |
 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-02-23 |  |
@@ -372,6 +372,7 @@
 | [You Are The One \(Live at Heartfelt Arena, December 2025\) \(feat\. Yanga & Ntokozo Mbambo\)](https://open.spotify.com/track/7bLdVqTgfe3BPBHj7Q6Roi) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Yanga](https://open.spotify.com/artist/6hYAMcoLpV4o9xxjXrPfsr), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [The Holy One \(Live at Heartfelt Arena, December 2025\)](https://open.spotify.com/album/3oFcMU3vxJdkZhOYn67iWG) | 9:32 | 2026-03-27 | 2026-08-14 |
 | [You Are Worthy](https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 6:45 | 2024-02-23 | 2024-04-19 |
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2024-02-23 |  |
+| [You Are Worthy \- Live](https://open.spotify.com/track/6ZTsQQt8hgTLyKH50hvaeS) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [We Feel Heaven \(Live\)](https://open.spotify.com/album/2sc99XQsr6JpXx1Iv2pNAn) | 6:09 | 2026-10-30 |  |
 | [You Deserve All \(Live\)](https://open.spotify.com/track/5dQVku9OfaRNBRhL8RFibt) | [Makolad Praise](https://open.spotify.com/artist/4iKN36t379Qhxl3wSPs9iU) | [You Deserve All \(Live\)](https://open.spotify.com/album/6cvbMzsOjxRzZmqfSibb4Z) | 8:21 | 2025-11-28 | 2026-01-02 |
 | [You found me \- Live](https://open.spotify.com/track/45JPGqqlfGH0WnGNfx6o1a) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Winifred Afimoni](https://open.spotify.com/artist/00Poc6DBc5Gpu8m8lJhsZ5), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW), [Rejoice Eweama](https://open.spotify.com/artist/7rosDzthN2cvfKH3O9Hokg), [Victoria Israel](https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [You found me \(Live\)](https://open.spotify.com/album/0aPgkRpWiYigQo79LPgwZk) | 7:10 | 2024-07-26 | 2024-11-15 |
 | [You I Live For \- Live at Bliss Experience](https://open.spotify.com/track/2lgTUPSsNM3okBb4mZ7Nx1) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 7:22 | 2024-02-23 | 2026-07-31 |

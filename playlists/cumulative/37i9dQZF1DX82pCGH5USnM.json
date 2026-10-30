@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Always smooth",
+        "url": "https://open.spotify.com/album/63utHvWja42TsZ6sCCTrrB"
+      },
+      "artists": [
+        {
+          "name": "Oldofredi",
+          "url": "https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137475,
+      "name": "Always smooth",
+      "url": "https://open.spotify.com/track/66X53CVLRQC7WgxjntMFRT"
+    },
+    {
+      "album": {
         "name": "Ambit",
         "url": "https://open.spotify.com/album/795vMgJmRkbAw4pNvDPOeZ"
       },
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 179454,
       "name": "Fortunella",
       "url": "https://open.spotify.com/track/2jrkuEIxCZjB4Q8nazTCBN"
@@ -8063,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/3UbKlBWJ9HqoZdnDzPi3wI"
+      },
+      "artists": [
+        {
+          "name": "Rivon",
+          "url": "https://open.spotify.com/artist/5mTbt45fb5EOK48Ah0KZ78"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122352,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6GoiRU0rVdpckLQWL4NWQN"
+    },
+    {
+      "album": {
         "name": "Jungle Fever",
         "url": "https://open.spotify.com/album/3wGB1RxdEOnCUj1scakJW2"
       },
@@ -9215,6 +9251,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4hT9b0dvPkFN1PXeL5gILt"
+      },
+      "artists": [
+        {
+          "name": "Edoardo M\u00e1s",
+          "url": "https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1oEQdAjrQ6Xc8qVHSJJkOa"
+    },
+    {
+      "album": {
         "name": "Lofi Nights",
         "url": "https://open.spotify.com/album/2dhHvSNxPaA9laI6oyAHaC"
       },
@@ -9918,6 +9972,24 @@
       "duration_ms": 224482,
       "name": "Marbella Sun",
       "url": "https://open.spotify.com/track/4RiHR70ysOr82n2d5cAq8q"
+    },
+    {
+      "album": {
+        "name": "Maria's Street",
+        "url": "https://open.spotify.com/album/1IVsCs5gsE1ZHcaeI8fDGJ"
+      },
+      "artists": [
+        {
+          "name": "Gidde",
+          "url": "https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Maria's Street",
+      "url": "https://open.spotify.com/track/5GOyIIlHiOHfU88NKCoJbT"
     },
     {
       "album": {
@@ -12594,7 +12666,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 148611,
       "name": "Pitanga",
       "url": "https://open.spotify.com/track/5IqsEqudEHRwKk878X9xNB"
@@ -13725,6 +13797,24 @@
     },
     {
       "album": {
+        "name": "rooftop chilling",
+        "url": "https://open.spotify.com/album/2ktinoxSkX9Qlbk9T1VffG"
+      },
+      "artists": [
+        {
+          "name": "Yelloo Hill",
+          "url": "https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135849,
+      "name": "rooftop chilling",
+      "url": "https://open.spotify.com/track/5oxK1nWYLELTiggVcv4MqT"
+    },
+    {
+      "album": {
         "name": "Rooftop Sun",
         "url": "https://open.spotify.com/album/7otFqV5bvG65ADW65pk6Eg"
       },
@@ -14629,6 +14719,24 @@
     },
     {
       "album": {
+        "name": "Settings",
+        "url": "https://open.spotify.com/album/4XSAqNAKHYkfMcxEpdtA9e"
+      },
+      "artists": [
+        {
+          "name": "frukks",
+          "url": "https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153276,
+      "name": "Settings",
+      "url": "https://open.spotify.com/track/01BR9SxbGyJy7pZEUUbhF1"
+    },
+    {
+      "album": {
         "name": "Sex Appeal",
         "url": "https://open.spotify.com/album/7pjPDrp1UtFNXhyyIPEIm5"
       },
@@ -14946,7 +15054,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 142155,
       "name": "Signature Cocktail",
       "url": "https://open.spotify.com/track/4iy1FbMDo193evf4NxcZ9R"
@@ -17379,6 +17487,24 @@
     },
     {
       "album": {
+        "name": "The most realistic",
+        "url": "https://open.spotify.com/album/0ybLjEDF2ziY5dFxTFnGgZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Tales",
+          "url": "https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "The most realistic",
+      "url": "https://open.spotify.com/track/5mcYyN2q2rN651mPvomiZ6"
+    },
+    {
+      "album": {
         "name": "The Next Morning",
         "url": "https://open.spotify.com/album/2rT4qP0xxhTpow4brUeUau"
       },
@@ -18414,6 +18540,24 @@
       "duration_ms": 149651,
       "name": "Uphills",
       "url": "https://open.spotify.com/track/4d3TNDKyQuHKla1p56aLeG"
+    },
+    {
+      "album": {
+        "name": "upside down",
+        "url": "https://open.spotify.com/album/6EBpSaPnxbHjOAgSmG1ltS"
+      },
+      "artists": [
+        {
+          "name": "parasoller",
+          "url": "https://open.spotify.com/artist/1nOdk7rzRx6O6b62Q72FMa"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129714,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/36jKL4TTQvZIuJJnZzglG0"
     },
     {
       "album": {

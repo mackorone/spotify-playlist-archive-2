@@ -2,13 +2,13 @@
 
 ### [Evolver](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> pushing pop forwards <3!! <br/>cover: kim petras
+> pushing pop forwards <3!! <br/>cover: girl group
 
-2,447 songs - 5 day 2 hr 19 min
+2,451 songs - 5 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\( ╥﹏╥ \)](https://open.spotify.com/track/4mMW7j3QfSOAR2MSsTKnaq) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [trinket](https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co) | 2:41 | 2026-07-09 |  |
+| [\( ╥﹏╥ \)](https://open.spotify.com/track/4mMW7j3QfSOAR2MSsTKnaq) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [trinket](https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co) | 2:41 | 2026-07-09 | 2026-10-30 |
 | [\(L\)only Child](https://open.spotify.com/track/22lJaG2yxlSjIwdUIddcFk) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/2dNtoOVqFNhA8SM7563kQh) | 2:24 | 2021-03-19 | 2021-04-24 |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-21 | 2025-03-21 |
 | [.5 OF ME](https://open.spotify.com/track/3lmznpzLjYggvFY9cVMzbh) | [Juliet Daniel](https://open.spotify.com/artist/4zdPlubDFPnv9nUjXWK6au) | [.5 OF ME](https://open.spotify.com/album/1KPk8XuaL0CXd2Houf9iIJ) | 2:16 | 2026-02-27 | 2026-05-22 |
@@ -828,7 +828,7 @@
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-06 | 2024-01-19 |
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 | 2025-01-24 |
 | [Godspeed](https://open.spotify.com/track/2nrUtbYTSqCqVIsuqdhuim) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [I Am Digital, I Am Divine](https://open.spotify.com/album/1x83gHUZAFBw28GmqaCTtm) | 3:07 | 2025-04-24 | 2025-05-16 |
-| [Gold](https://open.spotify.com/track/5s7xCUGbNucmHPiR1Wa6bs) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Château Brute](https://open.spotify.com/album/2mOz0X4LF1VPrNZJyM4ldQ) | 2:45 | 2026-07-09 |  |
+| [Gold](https://open.spotify.com/track/5s7xCUGbNucmHPiR1Wa6bs) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Château Brute](https://open.spotify.com/album/2mOz0X4LF1VPrNZJyM4ldQ) | 2:45 | 2026-07-09 | 2026-10-30 |
 | [Gold](https://open.spotify.com/track/6Ij2LBj4OaPtcl1M2u4GQu) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Gold](https://open.spotify.com/album/0OcRYga5YnflYN3oLWas5w) | 3:26 | 2026-05-14 | 2026-06-19 |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-07-11 | 2025-08-22 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-07 | 2022-10-22 |
@@ -957,6 +957,7 @@
 | [HONEST](https://open.spotify.com/track/5uKF2xt6rVWjgBOS7uUpif) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [HONEST](https://open.spotify.com/album/36333qaoBySSvF9KHOoGPz) | 2:57 | 2021-07-24 | 2021-10-02 |
 | [HONEST](https://open.spotify.com/track/77lKjgtQzjKFvezHUmpSPL) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [MIDNIGHT MIMOSAS](https://open.spotify.com/album/1ShwSgt82rK9bqbFw0Zdee) | 2:51 | 2021-07-04 | 2021-09-25 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-05-03 | 2024-10-05 |
+| [Hooves](https://open.spotify.com/track/1zhMSR3ocV1XDCmRq5HgCa) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Hooves](https://open.spotify.com/album/1ygCcvWb90Nmn1ySI4SY4I) | 2:18 | 2026-10-30 |  |
 | [Hope It Hurts](https://open.spotify.com/track/3bUoP1n0LAHDW7SE7dtgtY) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:29 | 2025-04-17 | 2025-05-23 |
 | [Hopeless Romantic](https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hopeless Romantic](https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2) | 3:01 | 2021-10-16 | 2022-02-05 |
 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 | 2025-09-26 | 2026-02-06 |
@@ -1192,7 +1193,7 @@
 | [Keep You](https://open.spotify.com/track/0Zt8JqvafNeQGJhRdqT5ul) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Keep You](https://open.spotify.com/album/79aDYwPjnX36HH3pXTusEO) | 2:57 | 2025-04-24 | 2025-05-16 |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-08-12 | 2022-12-17 |
 | [KEY TO THE CASTLE](https://open.spotify.com/track/3Low5wYPYQGcwDHvSQRw9H) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 2:48 | 2025-10-23 | 2026-01-16 |
-| [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 | 2026-04-16 |  |
+| [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 | 2026-04-16 | 2026-10-30 |
 | [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 | 2025-07-17 | 2025-08-02 |
 | [Kids](https://open.spotify.com/track/3uWuQ4TyNDY63aQbppYcyc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Kids](https://open.spotify.com/album/0xrQGzEnAjzDt55xG4L56w) | 2:08 | 2026-05-08 | 2026-06-12 |
 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 | 2022-07-01 | 2022-10-08 |
@@ -1205,6 +1206,7 @@
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-03 | 2024-03-05 |
 | [Killing the Game](https://open.spotify.com/track/4uKMuSSz5efdaVKZINX0Mi) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/52IVBszkmihtHkZ1QQqjki) | 4:01 | 2025-02-21 | 2025-03-21 |
 | [KILLSWITCH](https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [KILLSWITCH](https://open.spotify.com/album/2UXXrsBmLTvy63ZD9o6YuX) | 2:18 | 2026-04-16 | 2026-06-26 |
+| [kind of blue](https://open.spotify.com/track/13wt2hWvyty8BtBqq3RF7v) | [pager](https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl), [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [kind of blue](https://open.spotify.com/album/0pmV897tvUkgOt76M9xuCk) | 3:31 | 2026-10-30 |  |
 | [Kinda Girl](https://open.spotify.com/track/5o2OVQ9Nq8NGWDQO3KDuSi) | [Kyra Machida](https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6) | [Kinda Girl](https://open.spotify.com/album/23BFVAPstnw3wXqaqwJmRb) | 2:24 | 2025-09-11 | 2025-09-20 |
 | [Kinda Need You Here Tonight](https://open.spotify.com/track/5ziWVtpaMQpamDelzU6JjH) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [helluvatime](https://open.spotify.com/album/43Xi4B35iPsIUur05EtTFn) | 3:13 | 2021-06-19 | 2021-09-18 |
 | [Kindness](https://open.spotify.com/track/5ovV1imGX3ATM8XKGgX7jx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Kindness](https://open.spotify.com/album/2VoxSOHKT7eqshVMv4bEfE) | 3:14 | 2021-07-31 | 2021-10-16 |
@@ -1489,6 +1491,7 @@
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-02-11 | 2022-04-09 |
 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-08-06 |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-03 | 2023-05-20 |
+| [mrs brightside](https://open.spotify.com/track/0AkoqnejiMuGx0MzNNq53B) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [mrs brightside](https://open.spotify.com/album/2FQM0yX3Q15A4lspfYuvnT) | 2:49 | 2026-10-30 |  |
 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-06-04 | 2024-09-06 |
 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 | 2024-06-21 | 2024-11-09 |
 | [Muscles](https://open.spotify.com/track/6rpesd4NarFsD61skCLwqI) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Muscles](https://open.spotify.com/album/72x1fUJ0Jse93hMTKDrEoC) | 3:05 | 2025-11-07 | 2026-02-27 |
@@ -2239,6 +2242,7 @@
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2023-01-06 | 2023-05-27 |
 | [Toothmarks](https://open.spotify.com/track/1gXxefA7Oc4bWtxiGH8NI1) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [Toothmarks](https://open.spotify.com/album/2NeuIvri7hfMmuMKpRcPhS) | 2:55 | 2026-04-09 | 2026-05-22 |
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
+| [Touch of an Angel](https://open.spotify.com/track/68EONb3R2tW8LyJrmZh40n) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Torn \- Apart](https://open.spotify.com/album/0a9jlu0FI2g3T6N0MIQrgX) | 3:04 | 2026-10-30 |  |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |

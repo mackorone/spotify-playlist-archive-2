@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,843 likes - 11 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,844 likes - 11 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 10 | [F\(I\)AQ 1/2](https://open.spotify.com/episode/5rne6WlTYWxLBAbvAjOrgh) | [Femmes au bord de la crise de nerfs](https://open.spotify.com/show/3duaATT2IJo31MFmyxv0Nf) | [Femmes au bord de la crise de nerfs](https://open.spotify.com/album/3duaATT2IJo31MFmyxv0Nf) | 41:20 |
 | 11 | [ANNULEZ CES DEUX P\*\*FFIASSES](https://open.spotify.com/episode/2RwX8AB78uIIfhp7guVxij) | [Femmes au bord de la crise de nerfs](https://open.spotify.com/show/3duaATT2IJo31MFmyxv0Nf) | [Femmes au bord de la crise de nerfs](https://open.spotify.com/album/3duaATT2IJo31MFmyxv0Nf) | 45:09 |
 
-Snapshot ID: `AAAAAK/GkkJkyiJG+3OPsC1u2Oa+NhMf`
+Snapshot ID: `AAAAAGIqtfFhyLCkB7XDHdh2SW4k+8Vp`

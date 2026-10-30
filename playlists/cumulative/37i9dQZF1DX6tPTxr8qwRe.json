@@ -3397,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/11QcHtHtbBiD0SHISXRUTL"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168506,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/60rDCiZ2OWfOi4hVEKxZup"
+    },
+    {
+      "album": {
         "name": "CASUALTY",
         "url": "https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q"
       },
@@ -6720,7 +6738,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181370,
       "name": "FMTYLM",
       "url": "https://open.spotify.com/track/6RxY1X4Zzh1K3u8ihzbvrZ"
@@ -9221,6 +9239,24 @@
     },
     {
       "album": {
+        "name": "I BELIEVE IN GHOSTS",
+        "url": "https://open.spotify.com/album/6BYbERfjuYQ9bBv9wignHx"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "I BELIEVE IN GHOSTS",
+      "url": "https://open.spotify.com/track/4HMSZp8GPo07JE1OgMR92G"
+    },
+    {
+      "album": {
         "name": "I Dare You",
         "url": "https://open.spotify.com/album/26IkVnsFMO6WiWat5WYV4f"
       },
@@ -10012,6 +10048,24 @@
       "duration_ms": 200568,
       "name": "Imitate",
       "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
+    },
+    {
+      "album": {
+        "name": "IMITATE",
+        "url": "https://open.spotify.com/album/4Q2vZIVKADXCKegHeyDCAC"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "IMITATE",
+      "url": "https://open.spotify.com/track/42GoMVuTK8BXAMpJXDxg9d"
     },
     {
       "album": {
@@ -12644,7 +12698,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 172400,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/4V5MKIbOWMNrMA63qDZzZD"
@@ -13160,7 +13214,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 149869,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/3iecnkddipTVKwQdxz41FW"
@@ -13553,6 +13607,24 @@
     },
     {
       "album": {
+        "name": "NOBODY'S HERO",
+        "url": "https://open.spotify.com/album/3eYPVRi6W4fG3JyzAcHnAA"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199014,
+      "name": "NOBODY'S HERO",
+      "url": "https://open.spotify.com/track/4xK0It4Kdk80QGGVSW5ec9"
+    },
+    {
+      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7"
       },
@@ -13582,7 +13654,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 182819,
       "name": "NOSTALGIA BABY",
       "url": "https://open.spotify.com/track/3lfT9Id6tVOFqSWpJEnQZA"
@@ -13770,6 +13842,24 @@
       "duration_ms": 183750,
       "name": "Obsessed (feat. Ashley Sienna)",
       "url": "https://open.spotify.com/track/2fWVflATzWBQm6qQNmaRIH"
+    },
+    {
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/5Btjb9tqDyQ8vUHQgfLdM0"
+      },
+      "artists": [
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "OBSESSION",
+      "url": "https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: bed
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,049 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,157 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Swimming](https://open.spotify.com/track/2S0pu11hiDpyxvapmxZbvW) | [Growing Pains](https://open.spotify.com/artist/7gs3Tf4aBE9fD2bS9TzoGc) | [Swimming](https://open.spotify.com/album/43HPezMT31iXB1IoX6ZGkN) | 3:03 |
 | 75 | [Fresh Start](https://open.spotify.com/track/2M6Bn5Eh8sJuUWpKi82Faa) | [FFO: Chillin](https://open.spotify.com/artist/38WvayVX9Fd5CmQwSIAVWL) | [Fresh Start](https://open.spotify.com/album/7fj8A9zvMFWJmpmwhwFvIX) | 1:25 |
 
-Snapshot ID: `AAAAAHhGWoOpoYpkuwAGhpFNIFE86RvE`
+Snapshot ID: `AAAAANfxg6NbSvszLF9m36Bish+QQNEq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 
 > Get ready for JANNABI's upcoming concert \[Sweat & Stardust\] by listening to the band's best songs! \(잔나비 베스트곡과 함께 다가오는 \[스웨트 앤 스타더스트\] 서울 공연을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,123 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,147 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 | 26 | [A thought on an autumn night](https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [JANNABI's Small Pieces l](https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk) | 3:07 |
 | 27 | [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 |
 
-Snapshot ID: `AAAAAKtyOpcjXf3UoibfD7XOPQSu9eyB`
+Snapshot ID: `AAAAAC1gvYTzhbcBCmVm8VN1AOeXA4Xp`

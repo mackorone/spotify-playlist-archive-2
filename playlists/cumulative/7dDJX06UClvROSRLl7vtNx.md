@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,527 songs - 2 day 17 hr 43 min
+1,528 songs - 2 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1026,6 +1026,7 @@
 | [Paradise](https://open.spotify.com/track/6cWY6Pf6zFEvp0wODVAlfy) | [Cristian Bloom](https://open.spotify.com/artist/07PrOjp8RXbGnWZTv1KxxN), [Madom](https://open.spotify.com/artist/0IenaxU3u6R2sQPWHStOrM), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [Paradise](https://open.spotify.com/album/00eK45UA2gGmeuqD2kb7Ru) | 2:24 | 2026-03-15 | 2026-04-27 |
 | [Paradise](https://open.spotify.com/track/5yAcox3tS3c78EMvZ8Gi1u) | [The Sunnefield](https://open.spotify.com/artist/4P7JaW9EVJx1r4XMsRP7A7), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Paradise](https://open.spotify.com/album/30fSRYFX3Gbnwb2Y3ySGyD) | 3:11 | 2023-09-22 | 2025-08-09 |
 | [Paradise](https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ) | [Paradise](https://open.spotify.com/album/2KnmXGIW5lO2EBx8vgSKy3) | 2:12 | 2023-09-22 | 2024-07-29 |
+| [Part Of Me](https://open.spotify.com/track/7f4uV0NouzN0qOmnM4s3Hq) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Part Of Me](https://open.spotify.com/album/0m5B6j6iel1RoIHeWcgR2T) | 1:57 | 2026-10-29 |  |
 | [Passionfruit](https://open.spotify.com/track/1nr7No98YB7Uj7RS7oVzQW) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Passionfruit](https://open.spotify.com/album/2qjUmUEFYVqbS2PwRrpKj6) | 2:38 | 2025-01-25 | 2026-03-16 |
 | [Pay The Price](https://open.spotify.com/track/33ngsrZaAkWQAfVe9lpamN) | [Rayasa](https://open.spotify.com/artist/5hYGtyMCQoHCd7FOjyKxZN), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Pay The Price](https://open.spotify.com/album/5StGqZWZpObGbDoZCnVcRG) | 2:48 | 2025-04-21 | 2025-04-28 |
 | [Peace](https://open.spotify.com/track/6VE0207fSX9EYwClssdZlh) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Peace](https://open.spotify.com/album/3NUOhqj8jEaE8ZLTI8mqP1) | 2:27 | 2026-05-07 | 2026-09-07 |

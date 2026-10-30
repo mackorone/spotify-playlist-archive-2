@@ -7136,7 +7136,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 149103,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2vIHtrFAd3jN18N7pSjp3I"
@@ -7154,7 +7154,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 150973,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/1zjMf1Yyc50rDTpI7atdFY"
@@ -7809,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4eR5Zykyx7BECodK8QRErQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Teagarden",
+          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4YHfaT2iRObFxIn5TsstEz"
+    },
+    {
+      "album": {
         "name": "The Confession",
         "url": "https://open.spotify.com/album/3sZp5hb612Jtep9boCwAS6"
       },
@@ -7820,7 +7838,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 166813,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3CbzB08iYPfTB4qhkMN4Gg"

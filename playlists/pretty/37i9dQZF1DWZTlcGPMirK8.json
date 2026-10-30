@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73913,
+  "num_followers": 73925,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7yyiZ72YTKwocAArNSF4xxqE/Q",
+  "snapshot_id": "AAAAACpdbKYOnKaGV9+iwZ3FbWvonwjO",
   "tracks": [
     {
       "added_at": "2024-08-05 06:00:58",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/4LTW34gTQI9N3f5zq6uMV2"
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t"
+      "duration_ms": 255360,
+      "name": "Untouched",
+      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Hook Me Up",
-        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/4LTW34gTQI9N3f5zq6uMV2"
       },
       "artists": [
         {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
         }
       ],
-      "duration_ms": 255360,
-      "name": "Untouched",
-      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
+      "duration_ms": 236333,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Divinyls",
+        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
+      },
+      "artists": [
+        {
+          "name": "Divinyls",
+          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/6EMxWaM803hd4sPsJ6PkcA"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 244893,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/1qk9ujVgudgU8CyhKOx8ji"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Divinyls",
-        "url": "https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv"
-      },
-      "artists": [
-        {
-          "name": "Divinyls",
-          "url": "https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "I Touch Myself",
-      "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Innocent Eyes",
+        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 203120,
       "name": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
       "url": "https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Innocent Eyes",
-        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
-      },
-      "artists": [
-        {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Watching Angels Mend",
-        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
-      },
-      "artists": [
-        {
-          "name": "Alex Lloyd",
-          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Sneaky Sound System",
         "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 196946,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Watching Angels Mend",
+        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
+      },
+      "artists": [
+        {
+          "name": "Alex Lloyd",
+          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Feeler",
+        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "So Beautiful - Single Version",
+      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Two Degrees",
         "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 255889,
       "name": "Papercuts (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Feeler",
-        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 279520,
-      "name": "So Beautiful - Single Version",
-      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Thirty One",
         "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Whispering Jack",
-        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Pressure Down",
-      "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Better in Blak",
         "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 192466,
       "name": "Better in Blak",
       "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Whispering Jack",
+        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Pressure Down",
+      "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1075,22 +1091,6 @@
       "duration_ms": 264146,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/0NLEDUOmZQ4dvh0mIa7iQe"
+        "name": "Somewhere Over The Radio",
+        "url": "https://open.spotify.com/album/4hXYUtljaHhnvkzUIkDDq6"
       },
       "artists": [
         {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+          "name": "Deadstar",
+          "url": "https://open.spotify.com/artist/1SyEBlvc4XJL7C41bDlt3R"
         }
       ],
-      "duration_ms": 262133,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/397sjadktaQXJbur7QFdNO"
+      "duration_ms": 264866,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/2nIVheVpEYNABxmWsltzX1"
     }
   ],
   "unique_name": "Aussie Pop Classics",

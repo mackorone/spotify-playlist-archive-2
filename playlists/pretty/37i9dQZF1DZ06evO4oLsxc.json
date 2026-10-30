@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADXxRlqPRaq+X++4Vx3Y10d",
+  "snapshot_id": "at/pgAAAAADG+dowZaMNgMB6BBHd7umK",
   "tracks": [
     {
       "added_at": null,
@@ -278,11 +278,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 213394,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj"
+      "duration_ms": 293040,
+      "name": "Eternal Reflections (feat. Yussef Dayes)",
+      "url": "https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm"
     },
     {
       "added_at": null,
@@ -350,15 +354,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 293040,
-      "name": "Eternal Reflections (feat. Yussef Dayes)",
-      "url": "https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm"
+      "duration_ms": 213394,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj"
     },
     {
       "added_at": null,

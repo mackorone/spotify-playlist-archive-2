@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201025,
+      "name": "No S\u00e9 T\u00fa, Pero Yo",
+      "url": "https://open.spotify.com/track/2MvSnwFjJLr5oF92Ymb25k"
+    },
+    {
+      "album": {
         "name": "Palo De Amigos",
         "url": "https://open.spotify.com/album/1zbXamrDZJjEbKv1iKkwIF"
       },
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 225978,
       "name": "Vive La Vida",
       "url": "https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj"

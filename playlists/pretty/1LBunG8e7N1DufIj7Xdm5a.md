@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,001 songs - 11 day 7 hr 33 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,006 songs - 11 day 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5009,5 +5009,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4999 | [Única](https://open.spotify.com/track/3QkToPJWfDhqbnNwlvVgo9) | [Billie Biga](https://open.spotify.com/artist/0C1QgILnumDpTCcwKJ0xS2) | [...O De Ángel?](https://open.spotify.com/album/2yqc6lH2F5Wq9gBDd0WnYj) | 3:52 |
 | 5000 | [We Are One](https://open.spotify.com/track/5EJArM3d1zEcaRulcMKBhm) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [We Are One](https://open.spotify.com/album/6ugBw0ebik6icjDzr9nCzm) | 6:05 |
 | 5001 | [The Garden \(Acoustic\)](https://open.spotify.com/track/5mfhbzVu9X6bRpldnGbmoj) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [The Garden \(Acoustic\)](https://open.spotify.com/album/5VT4Vw4PHu3Pv9GtpZfdZI) | 2:28 |
+| 5002 | [Love you darling mine](https://open.spotify.com/track/4MjiwveuTtjNt1zSSLMEwh) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Love you darling mine](https://open.spotify.com/album/5LU3K3DtZo6RMtTLEpb5RU) | 5:03 |
+| 5003 | [Elevator to heaven](https://open.spotify.com/track/01FoJGwwclkzA17TLIerPP) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Elevator to heaven](https://open.spotify.com/album/0SbOsAxfJMBfD1VW7lRv0p) | 4:48 |
+| 5004 | [Tap Your Toe And Follow Me](https://open.spotify.com/track/4RO7kDpQwMVzjpYmpRZuiu) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:52 |
+| 5005 | [Dyin 2 Liv](https://open.spotify.com/track/544q7U2gM6eSJQtfcoXkw8) | [The Purple Helmets](https://open.spotify.com/artist/6BGEohHczI6MUGmg4bG76N) | [Dyin 2 Liv](https://open.spotify.com/album/0cQWCCHCNzgkjCtEd76ePx) | 3:54 |
+| 5006 | [Can we start again](https://open.spotify.com/track/16fZgUAyy2xWXlymwJ6eaU) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Can we start again?](https://open.spotify.com/album/4Q345WTjwHW2UbuXyQ7Ims) | 4:58 |
 
-Snapshot ID: `AAAK0f6M6qKN6fGXy2IpnxeZ2WzKma++`
+Snapshot ID: `AAAK1rAka9fI4vVkkavfTwDkFnhd2KAM`

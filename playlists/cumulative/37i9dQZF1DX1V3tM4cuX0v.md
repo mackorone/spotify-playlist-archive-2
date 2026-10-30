@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: NAZVA
+> 50 найгарячіших пісень в Україні\. Обкладинка: SKYLERR & kavabanga Depo kolibri
 
 234 songs - 11 hr 53 min
 

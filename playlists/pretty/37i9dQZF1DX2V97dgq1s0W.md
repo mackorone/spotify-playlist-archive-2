@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The voices shaping R&B\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,742 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,794 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 69 | [IT'S OK](https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [IT'S OK](https://open.spotify.com/album/58ESrwQBQHLys9cC5qd6uE) | 2:19 |
 | 70 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
 
-Snapshot ID: `AAAAAB08ajlWIGx6Umsfq0nbu3evJzvM`
+Snapshot ID: `AAAAAAj7iePkXeIYHUNubmvn7EnzcdGX`

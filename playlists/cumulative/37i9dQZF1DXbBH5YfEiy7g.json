@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Nonthando Hlope",
+  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Benjamin Dube",
   "name": "South African Gospel",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 324047,
       "name": "Ebukhoneni",
       "url": "https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 311280,
       "name": "Galalela - Live",
       "url": "https://open.spotify.com/track/2GE8CsW01WAlA0RGdYIdAS"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 955989,
       "name": "Ndi na o Maanda (feat. Takie Ndou & Rofhiwa Manyaga)",
       "url": "https://open.spotify.com/track/4o96oxKtDcOfUYY8nrGPun"
@@ -3806,7 +3806,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 373333,
       "name": "Siyabonga",
       "url": "https://open.spotify.com/track/7agNMxkB0YK4Th4shl17OU"
@@ -3836,6 +3836,28 @@
       "duration_ms": 175555,
       "name": "Siza Bawo",
       "url": "https://open.spotify.com/track/6onm77NipOKjurj1kG9Qyh"
+    },
+    {
+      "album": {
+        "name": "Size Kuwe (Live)",
+        "url": "https://open.spotify.com/album/3IN6LEwTuhVZkE8DMx7lur"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Sindi Ntombela",
+          "url": "https://open.spotify.com/artist/7cgnTBawtnmiIuatGdoQ0U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529453,
+      "name": "Size Kuwe - Live",
+      "url": "https://open.spotify.com/track/0cR1wFA3TEP8Hi9RUcs0hA"
     },
     {
       "album": {
@@ -4164,7 +4186,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175753,
       "name": "Ufanelwe",
       "url": "https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u"

@@ -1,13 +1,85 @@
 {
-  "description": "Cover: L'morphine",
-  "num_followers": 446628,
+  "description": "Cover: Bo9al",
+  "num_followers": 446761,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH+3lZkuD3I0lIIGx9ZJ5JXdvPkW",
+  "snapshot_id": "AAAAAMZ6k5UEBOozvQyYPHiZA7zn3KTF",
   "tracks": [
+    {
+      "added_at": "2026-10-30 00:01:20",
+      "album": {
+        "name": "Capitaine",
+        "url": "https://open.spotify.com/album/3PHuqQWmUGJrQ51F9yCoGV"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/4a45XN9EpVDakADKfAW5iz"
+    },
+    {
+      "added_at": "2026-10-23 00:01:29",
+      "album": {
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 228769,
+      "name": "Sabor",
+      "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
+    },
+    {
+      "added_at": "2026-10-10 07:56:22",
+      "album": {
+        "name": "UFUL",
+        "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Couci Couca",
+      "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
+    },
+    {
+      "added_at": "2026-10-10 07:56:22",
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "KILOWAT",
+      "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
+    },
     {
       "added_at": "2026-10-23 00:01:29",
       "album": {
@@ -41,24 +113,40 @@
       "url": "https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6"
     },
     {
-      "added_at": "2026-10-10 07:56:22",
+      "added_at": "2026-10-21 10:17:22",
       "album": {
-        "name": "UFUL",
-        "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
+        "name": "Risala",
+        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
       },
       "artists": [
         {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
         },
         {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
         }
       ],
-      "duration_ms": 185663,
-      "name": "Couci Couca",
-      "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
+      "duration_ms": 196000,
+      "name": "Risala",
+      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
+    },
+    {
+      "added_at": "2026-10-30 00:01:20",
+      "album": {
+        "name": "THUGCLUB x 9OWA",
+        "url": "https://open.spotify.com/album/4lDnrD66KUn4cURbXktMgc"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "duration_ms": 155640,
+      "name": "9OWA",
+      "url": "https://open.spotify.com/track/3vWP59HuuZOgpsd834VKbt"
     },
     {
       "added_at": "2026-10-23 00:01:29",
@@ -95,62 +183,6 @@
       "duration_ms": 184512,
       "name": "Zone De Confort",
       "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
-    },
-    {
-      "added_at": "2026-10-23 00:01:29",
-      "album": {
-        "name": "Sabor",
-        "url": "https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU"
-      },
-      "artists": [
-        {
-          "name": "Gustavo 51",
-          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 228769,
-      "name": "Sabor",
-      "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "DESPERADO",
-        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "KILOWAT",
-      "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
-    },
-    {
-      "added_at": "2026-10-21 10:17:22",
-      "album": {
-        "name": "Risala",
-        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
-      },
-      "artists": [
-        {
-          "name": "Kira7",
-          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
-        },
-        {
-          "name": "FRIZZY",
-          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Risala",
-      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -297,22 +329,6 @@
       "url": "https://open.spotify.com/track/3cUcxgPW9sVomnspNZbaHA"
     },
     {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "SPLIT",
-        "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 183043,
-      "name": "DFN",
-      "url": "https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n"
-    },
-    {
       "added_at": "2026-10-12 07:45:12",
       "album": {
         "name": "OLYMPICS",
@@ -331,6 +347,22 @@
     {
       "added_at": "2026-10-10 07:56:22",
       "album": {
+        "name": "SPLIT",
+        "url": "https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "DFN",
+      "url": "https://open.spotify.com/track/17iZsqaEjJzADt8utMl80n"
+    },
+    {
+      "added_at": "2026-10-10 07:56:22",
+      "album": {
         "name": "MOVETA",
         "url": "https://open.spotify.com/album/7oPdq0spIZzvMv8EoTC7A1"
       },
@@ -343,6 +375,26 @@
       "duration_ms": 234718,
       "name": "Uber Driver",
       "url": "https://open.spotify.com/track/5Sz23m2mG79tygWLURPjTC"
+    },
+    {
+      "added_at": "2026-10-30 00:01:20",
+      "album": {
+        "name": "GENIUS",
+        "url": "https://open.spotify.com/album/5ePSnrvivC8ydE5eguINUY"
+      },
+      "artists": [
+        {
+          "name": "VALEN",
+          "url": "https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz"
+        },
+        {
+          "name": "GELLO 4031",
+          "url": "https://open.spotify.com/artist/04ffSHpIyY6Wv4nhiEhSwW"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "GENIUS",
+      "url": "https://open.spotify.com/track/5HmAymmymqouGgacg9ZDHK"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -429,24 +481,24 @@
       "url": "https://open.spotify.com/track/7aNFirYDjpSjQlZhAmAPtD"
     },
     {
-      "added_at": "2026-10-10 07:56:22",
+      "added_at": "2026-10-30 00:01:20",
       "album": {
-        "name": "Action",
-        "url": "https://open.spotify.com/album/6YfQZWv94Zrt4EO7FkpsPM"
+        "name": "flou",
+        "url": "https://open.spotify.com/album/6x1UxTIQK7m8DIC2wm5tBX"
       },
       "artists": [
         {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+          "name": "Jbiina",
+          "url": "https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR"
         },
         {
-          "name": "Dollypran",
-          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
         }
       ],
-      "duration_ms": 228617,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/4TY8DyDlVgN0Bl2AZO5afl"
+      "duration_ms": 129772,
+      "name": "flou",
+      "url": "https://open.spotify.com/track/7MYuqLsIpMLtmmPaIeq8GC"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -525,26 +577,6 @@
       "url": "https://open.spotify.com/track/2QLoTIh5d3mWAiAnvg9Yw8"
     },
     {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "PASADENA",
-        "url": "https://open.spotify.com/album/5VqUIAfpED1w5lmy98VowY"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "SativaMusic",
-          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
-        }
-      ],
-      "duration_ms": 178203,
-      "name": "PASADENA",
-      "url": "https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy"
-    },
-    {
       "added_at": "2026-10-21 10:17:22",
       "album": {
         "name": "OLYMPICS",
@@ -587,22 +619,6 @@
       "duration_ms": 131160,
       "name": "Bubbaloo",
       "url": "https://open.spotify.com/track/3aWMmAZJnkcSrB3vTuJtGQ"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "Star Dancer",
-        "url": "https://open.spotify.com/album/76lmEinGtpVfIKd2YxQdQt"
-      },
-      "artists": [
-        {
-          "name": "ISSAM",
-          "url": "https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "Star Dancer",
-      "url": "https://open.spotify.com/track/4TthkvS9RNTZwTYlT0gvg3"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -887,38 +903,6 @@
       "duration_ms": 153595,
       "name": "Machi M3ana",
       "url": "https://open.spotify.com/track/7gD7d2dcr6kcftmLBHSZWs"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "SILENT BATTLES",
-        "url": "https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY"
-      },
-      "artists": [
-        {
-          "name": "ELHAFIDY",
-          "url": "https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "T3EQDNA",
-      "url": "https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "KIYA",
-        "url": "https://open.spotify.com/album/2ifKpv86aGp7T5k5fxUmPW"
-      },
-      "artists": [
-        {
-          "name": "Khtek",
-          "url": "https://open.spotify.com/artist/5l9OXfeq4VgBHZZWmkJrvN"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "KIYA",
-      "url": "https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3"
     }
   ],
   "unique_name": "ABAT\u2211RA",

@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Emre Fel
 
-775 songs - 1 day 15 hr 32 min
+776 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Bitmiş Bir Rüya](https://open.spotify.com/track/6P33rZwtWdm5kYqdOG63GT) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv) | [Bitmiş Bir Rüya](https://open.spotify.com/album/0mI8DhOeoZrg44NWlWQihk) | 3:15 | 2026-01-15 | 2026-01-23 |
 | [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2024-06-27 | 2024-12-22 |
 | [Bitti](https://open.spotify.com/track/3UZH755lCjb6DY1hJq8RA4) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Kırlar](https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc) | 3:01 | 2025-08-21 | 2025-12-19 |
-| [Bitti](https://open.spotify.com/track/0KN5jobcA3qEwvqeuboHEy) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bitti](https://open.spotify.com/album/0wUm99URRLXqjgvH1w5aP0) | 2:52 | 2026-08-13 |  |
+| [Bitti](https://open.spotify.com/track/0KN5jobcA3qEwvqeuboHEy) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bitti](https://open.spotify.com/album/0wUm99URRLXqjgvH1w5aP0) | 2:52 | 2026-08-13 | 2026-10-30 |
 | [Bizden Olmaz](https://open.spotify.com/track/0xdFiVaZwbkJlar6bHjCAF) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Bizden Olmaz](https://open.spotify.com/album/65Jp9aA1HSGAzttr8Xayj6) | 2:17 | 2024-09-05 | 2024-10-14 |
 | [Bizim Oralar](https://open.spotify.com/track/0mHtZvJsOcxrQRVFUQf7ID) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Bizim Oralar](https://open.spotify.com/album/5Yr8iU8VsrHysoTQVRpaFr) | 2:44 | 2025-07-31 | 2025-08-08 |
 | [BİR GECE VARDIN](https://open.spotify.com/track/0zlxX5IzpBZtxhvpQgKAe5) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn), [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [BİR GECE VARDIN](https://open.spotify.com/album/4CWZ8JSxm1QLkXTAqlZYLJ) | 2:13 | 2025-09-04 | 2025-10-28 |
@@ -395,6 +395,7 @@
 | [Kal Be Gönlüm](https://open.spotify.com/track/1iUjRhPKgom5k4WgIquaXT) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kal Be Gönlüm](https://open.spotify.com/album/7CmGX5rBFbAy14XBz8yNHy) | 4:22 | 2026-10-20 |  |
 | [Kalbim Ağlama](https://open.spotify.com/track/60dY0X3oT8s8DF5ZOsJ8zJ) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Kalbim Ağlama](https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H) | 2:10 | 2024-06-27 | 2024-11-19 |
 | [Kalbimde Dikenli Teller](https://open.spotify.com/track/5JsV7S997H4gqUZJ7U0yow) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [Kalbimde Dikenli Teller](https://open.spotify.com/album/25ETW3eOPgdB6NypuzOpeX) | 4:17 | 2024-11-14 | 2025-08-12 |
+| [Kalmam \- Akustik](https://open.spotify.com/track/50JOgk0tfbKstWcIV20w1x) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Kalmam \(Akustik\)](https://open.spotify.com/album/5bw9nQcpWkQleE8S6mIej7) | 3:33 | 2026-10-20 |  |
 | [Kandım](https://open.spotify.com/track/3LuedX2S05DG0Cq5wwVxBX) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Kandım](https://open.spotify.com/album/1mvy62Xu6egls3dS6StBcB) | 2:51 | 2025-08-15 | 2025-08-29 |
 | [Kandırma](https://open.spotify.com/track/1I7HW3rzJtaQaPVHNFbbsY) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kandırma](https://open.spotify.com/album/3aPOHYpcqG87zC7xTLfxRm) | 3:14 | 2025-08-07 | 2025-08-28 |
 | [Kapına Dayandım](https://open.spotify.com/track/0ba1gp7kIBwvcHPwKRGVe5) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Kapına Dayandım](https://open.spotify.com/album/6rrafkaUVL19kzgfRSw4VB) | 2:45 | 2024-07-25 | 2024-08-02 |

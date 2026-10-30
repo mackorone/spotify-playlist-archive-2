@@ -1,33 +1,13 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor",
-  "num_followers": 121594,
+  "num_followers": 121623,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADOPE1UHUWnN+zyPYmBCTCZAQnsZ",
+  "snapshot_id": "AAAAADs7pq5ry0LZ89wQYXt9UeK67SMV",
   "tracks": [
-    {
-      "added_at": "2026-10-23 00:01:13",
-      "album": {
-        "name": "Jesus is Life (JIL)",
-        "url": "https://open.spotify.com/album/7shBQ7fCgyMPcApzz5HBu9"
-      },
-      "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 263810,
-      "name": "Jesus is Life (JIL)",
-      "url": "https://open.spotify.com/track/1mSEK1rRQoejMU2ckPVoXf"
-    },
     {
       "added_at": "2025-09-05 00:01:24",
       "album": {
@@ -51,6 +31,22 @@
       "duration_ms": 507306,
       "name": "The Blessing (Live)",
       "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
+    },
+    {
+      "added_at": "2026-10-30 00:01:15",
+      "album": {
+        "name": "AFFIRMED",
+        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 155089,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
     },
     {
       "added_at": "2025-02-21 00:01:30",
@@ -89,6 +85,74 @@
       "url": "https://open.spotify.com/track/4Hok7MEtFhetV6SKDtxGSv"
     },
     {
+      "added_at": "2026-10-30 00:01:15",
+      "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/324NqJ7OSzDJ9JIV3lTYI3"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 191581,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/0eZSUz1xFLKJ0lzru0bkpB"
+    },
+    {
+      "added_at": "2026-10-30 00:01:15",
+      "album": {
+        "name": "House Of The Lord",
+        "url": "https://open.spotify.com/album/714KbWg7JpcVZfq6ukjQRw"
+      },
+      "artists": [
+        {
+          "name": "O'Tims",
+          "url": "https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "duration_ms": 284536,
+      "name": "House Of The Lord",
+      "url": "https://open.spotify.com/track/7HHBbeQoCaiqnKdnbNk9gi"
+    },
+    {
+      "added_at": "2026-10-23 00:01:13",
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
+    },
+    {
+      "added_at": "2026-10-30 00:01:15",
+      "album": {
+        "name": "Sofri Sofri",
+        "url": "https://open.spotify.com/album/07hSwtYeFxIzQj8MshWTFa"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "duration_ms": 130485,
+      "name": "Sofri Sofri",
+      "url": "https://open.spotify.com/track/5NcrAC3Wf8XdSwRGwSFzrd"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
@@ -117,36 +181,24 @@
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
     },
     {
-      "added_at": "2026-09-25 00:01:23",
+      "added_at": "2026-09-04 00:01:09",
       "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/5eZaaV8aS4B1whJNQGxrCi"
+        "name": "Gimme That",
+        "url": "https://open.spotify.com/album/4ZvUCGzodC3vReNYMwieBF"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 585806,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/2dBSHcsj2hLjUXs7XC0L3b"
-    },
-    {
-      "added_at": "2026-10-23 00:01:13",
-      "album": {
-        "name": "Locked In",
-        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
-      },
-      "artists": [
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
         {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
         }
       ],
-      "duration_ms": 180923,
-      "name": "Locked In",
-      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
+      "duration_ms": 175542,
+      "name": "Gimme That",
+      "url": "https://open.spotify.com/track/0VXBzkmEvAdPkd1NwogcK5"
     },
     {
       "added_at": "2025-06-06 00:01:28",
@@ -169,134 +221,6 @@
       "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
-      "added_at": "2026-10-23 00:01:13",
-      "album": {
-        "name": "GAZE",
-        "url": "https://open.spotify.com/album/33JN4Luwa29wqD4OFWXtzf"
-      },
-      "artists": [
-        {
-          "name": "TheTEMI",
-          "url": "https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace"
-        },
-        {
-          "name": "Lois Onyamedea",
-          "url": "https://open.spotify.com/artist/6ynxkvN4t3or4RtcuQRnsY"
-        }
-      ],
-      "duration_ms": 173700,
-      "name": "GAZE",
-      "url": "https://open.spotify.com/track/0QgqVa3pOh6HGKHHUXK0Xk"
-    },
-    {
-      "added_at": "2026-09-04 00:01:09",
-      "album": {
-        "name": "Gimme That",
-        "url": "https://open.spotify.com/album/4ZvUCGzodC3vReNYMwieBF"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "A Tribe Apart",
-          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
-        }
-      ],
-      "duration_ms": 175542,
-      "name": "Gimme That",
-      "url": "https://open.spotify.com/track/0VXBzkmEvAdPkd1NwogcK5"
-    },
-    {
-      "added_at": "2026-10-02 00:01:21",
-      "album": {
-        "name": "My Testimony Go Loud",
-        "url": "https://open.spotify.com/album/6CXTrb9JJQ0iv6HiTS6Esh"
-      },
-      "artists": [
-        {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
-        }
-      ],
-      "duration_ms": 254571,
-      "name": "My Testimony Go Loud",
-      "url": "https://open.spotify.com/track/3ofRw6SN27rtuPYerPDuIz"
-    },
-    {
-      "added_at": "2026-10-23 00:01:13",
-      "album": {
-        "name": "PURIFY ME",
-        "url": "https://open.spotify.com/album/3jTUXzEPc6Jsni8Te5J9xN"
-      },
-      "artists": [
-        {
-          "name": "Mjay Songs",
-          "url": "https://open.spotify.com/artist/0ZGInZUfgQlp846hVP5wnc"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "PURIFY ME",
-      "url": "https://open.spotify.com/track/0tOgEmQt3mWPbXzBCPWmb8"
-    },
-    {
-      "added_at": "2026-08-28 00:01:37",
-      "album": {
-        "name": "Yesu Zo",
-        "url": "https://open.spotify.com/album/1kuzURR3iwERa90A2D5Vgn"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Ahonen",
-          "url": "https://open.spotify.com/artist/2qDngxRoJC05fBkcOhDyq9"
-        },
-        {
-          "name": "Amasah",
-          "url": "https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1"
-        }
-      ],
-      "duration_ms": 244976,
-      "name": "Yesu Zo",
-      "url": "https://open.spotify.com/track/2H1NNsPwGDt9yHJ3Unt3KR"
-    },
-    {
-      "added_at": "2026-09-25 00:01:23",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5QYIlDbYC0H0iUZIXLKDHD"
-      },
-      "artists": [
-        {
-          "name": "Segun Adigun",
-          "url": "https://open.spotify.com/artist/3QqGBnmFHm7tAksGgrLGdj"
-        },
-        {
-          "name": "Danad",
-          "url": "https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/6gtxLRZsQib7h4e4sVRp6v"
-    },
-    {
-      "added_at": "2026-09-11 00:01:53",
-      "album": {
-        "name": "Own My Heart",
-        "url": "https://open.spotify.com/album/6YHQLvNus91WD5IZrwOPtx"
-      },
-      "artists": [
-        {
-          "name": "Delight Munachy",
-          "url": "https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P"
-        }
-      ],
-      "duration_ms": 189288,
-      "name": "Own My Heart",
-      "url": "https://open.spotify.com/track/5GsOzVAnoCNpkhwZEF0i5p"
-    },
-    {
       "added_at": "2026-01-02 00:01:24",
       "album": {
         "name": "THIS YEAR (Blessings)",
@@ -315,22 +239,6 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2026-10-23 00:01:13",
-      "album": {
-        "name": "MY TIME",
-        "url": "https://open.spotify.com/album/5dNwbBQ8QaFlbB1M0U1hJt"
-      },
-      "artists": [
-        {
-          "name": "Macjosh",
-          "url": "https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "MY TIME",
-      "url": "https://open.spotify.com/track/6WWAm7CghPd9tUVrGrZNt3"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -367,6 +275,74 @@
       "duration_ms": 808677,
       "name": "Worthy of My Praise",
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+    },
+    {
+      "added_at": "2026-09-11 00:01:53",
+      "album": {
+        "name": "Own My Heart",
+        "url": "https://open.spotify.com/album/6YHQLvNus91WD5IZrwOPtx"
+      },
+      "artists": [
+        {
+          "name": "Delight Munachy",
+          "url": "https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P"
+        }
+      ],
+      "duration_ms": 189288,
+      "name": "Own My Heart",
+      "url": "https://open.spotify.com/track/5GsOzVAnoCNpkhwZEF0i5p"
+    },
+    {
+      "added_at": "2026-10-30 00:01:15",
+      "album": {
+        "name": "Gods' Got Me",
+        "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
+      },
+      "artists": [
+        {
+          "name": "KobbySalm",
+          "url": "https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB"
+        },
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Gods' Got Me",
+      "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
+    },
+    {
+      "added_at": "2026-10-23 00:01:13",
+      "album": {
+        "name": "MY TIME",
+        "url": "https://open.spotify.com/album/5dNwbBQ8QaFlbB1M0U1hJt"
+      },
+      "artists": [
+        {
+          "name": "Macjosh",
+          "url": "https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "MY TIME",
+      "url": "https://open.spotify.com/track/6WWAm7CghPd9tUVrGrZNt3"
+    },
+    {
+      "added_at": "2026-10-30 00:01:15",
+      "album": {
+        "name": "Blow My Mind Pro Max",
+        "url": "https://open.spotify.com/album/0dh6LqcVjnbXpxd070Almj"
+      },
+      "artists": [
+        {
+          "name": "Delight Munachy",
+          "url": "https://open.spotify.com/artist/4HHLYB6bM6IuVvr2uOKj3P"
+        }
+      ],
+      "duration_ms": 210576,
+      "name": "Blow My Mind Pro Max",
+      "url": "https://open.spotify.com/track/5QjjIdM4FokCzT7tnIJTDq"
     },
     {
       "added_at": "2025-05-16 00:01:33",
@@ -473,6 +449,42 @@
       "url": "https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2025-09-19 00:01:03",
+      "album": {
+        "name": "Oluwatosin II",
+        "url": "https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc"
+      },
+      "artists": [
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        },
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 656000,
+      "name": "Oluwatosin II",
+      "url": "https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY"
+    },
+    {
       "added_at": "2024-06-28 00:01:00",
       "album": {
         "name": "E Dey Flow",
@@ -511,42 +523,6 @@
       "duration_ms": 156108,
       "name": "E Dey Flow",
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2025-09-19 00:01:03",
-      "album": {
-        "name": "Oluwatosin II",
-        "url": "https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc"
-      },
-      "artists": [
-        {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
-        },
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 656000,
-      "name": "Oluwatosin II",
-      "url": "https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -869,6 +845,26 @@
       "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
+      "added_at": "2026-07-17 00:01:13",
+      "album": {
+        "name": "Good Day",
+        "url": "https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Good Day",
+      "url": "https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx"
+    },
+    {
       "added_at": "2026-01-09 00:01:28",
       "album": {
         "name": "With My Name",
@@ -905,26 +901,6 @@
       "url": "https://open.spotify.com/track/0DOc9cCC5j07CXIAC02onH"
     },
     {
-      "added_at": "2026-07-17 00:01:13",
-      "album": {
-        "name": "Good Day",
-        "url": "https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Good Day",
-      "url": "https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Better Me",
@@ -939,22 +915,6 @@
       "duration_ms": 505147,
       "name": "Be Lifted (Live)",
       "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
-    },
-    {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Tamuno",
-        "url": "https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs"
-      },
-      "artists": [
-        {
-          "name": "Mera Owili",
-          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
-        }
-      ],
-      "duration_ms": 256148,
-      "name": "Tamuno",
-      "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -975,6 +935,22 @@
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Tamuno",
+        "url": "https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        }
+      ],
+      "duration_ms": 256148,
+      "name": "Tamuno",
+      "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
     },
     {
       "added_at": "2026-07-17 00:01:13",
@@ -1113,6 +1089,22 @@
       "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
+      "added_at": "2026-09-25 00:01:23",
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/5eZaaV8aS4B1whJNQGxrCi"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 585806,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/2dBSHcsj2hLjUXs7XC0L3b"
+    },
+    {
       "added_at": "2024-05-10 00:01:00",
       "album": {
         "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
@@ -1165,6 +1157,26 @@
       "url": "https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq"
     },
     {
+      "added_at": "2026-10-02 00:01:21",
+      "album": {
+        "name": "NO WEAPON",
+        "url": "https://open.spotify.com/album/4AL9RAMDeyI71r8D09jOlj"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 611560,
+      "name": "NO WEAPON",
+      "url": "https://open.spotify.com/track/6N6HfrP1uSQUKrRDbKr8eF"
+    },
+    {
       "added_at": "2024-09-13 00:01:00",
       "album": {
         "name": "Umbrella",
@@ -1211,26 +1223,6 @@
       "duration_ms": 188727,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
-    },
-    {
-      "added_at": "2026-10-02 00:01:21",
-      "album": {
-        "name": "NO WEAPON",
-        "url": "https://open.spotify.com/album/4AL9RAMDeyI71r8D09jOlj"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 611560,
-      "name": "NO WEAPON",
-      "url": "https://open.spotify.com/track/6N6HfrP1uSQUKrRDbKr8eF"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -1445,6 +1437,22 @@
       "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
     },
     {
+      "added_at": "2026-10-16 00:01:33",
+      "album": {
+        "name": "pilgrim",
+        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 221116,
+      "name": "freefall",
+      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
+    },
+    {
       "added_at": "2026-05-22 00:01:30",
       "album": {
         "name": "Want to Grow",
@@ -1463,18 +1471,18 @@
     {
       "added_at": "2026-10-16 00:01:33",
       "album": {
-        "name": "pilgrim",
-        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
+        "name": "Lazy Man",
+        "url": "https://open.spotify.com/album/44Hpk1LpKPDLGHBwCPM7ij"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
         }
       ],
-      "duration_ms": 221116,
-      "name": "freefall",
-      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
+      "duration_ms": 129391,
+      "name": "Lazy Man",
+      "url": "https://open.spotify.com/track/5ybg7689HmX4tY8sWao3y0"
     },
     {
       "added_at": "2025-10-03 00:01:16",
@@ -1531,26 +1539,6 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
-    },
-    {
-      "added_at": "2025-05-30 00:01:31",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/5AsA1NMG6xLATViBJyQRMH"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Praise Umali",
-          "url": "https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
     }
   ],
   "unique_name": "Be Lifted ",

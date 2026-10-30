@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,753 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,775 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Malandro Erudito](https://open.spotify.com/track/25HLJoNerrT00EMH6VL8qc) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [Jadidi](https://open.spotify.com/artist/7yPkvzo4E7WYddcfECrK7f), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [Do Suburbio à Central](https://open.spotify.com/album/6mqBX9NdvQnkw4sHEB2b2N) | 2:32 |
 | 75 | [Canto Alto](https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 3:03 |
 
-Snapshot ID: `AAAAAAarBJBAHeaxq9JGgl4cq1LemR+5`
+Snapshot ID: `AAAAAENsOjhgYFOwVxhpiqksNAq+DSCI`

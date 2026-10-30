@@ -914,7 +914,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 200000,
       "name": "All We Do Is Dance",
       "url": "https://open.spotify.com/track/5kAc1kyicFH5rqH6pksl2K"
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 213180,
       "name": "Beat On My Drum",
       "url": "https://open.spotify.com/track/5rQTAm1XAm7UKdejGZAkZF"
@@ -3178,6 +3178,28 @@
       "duration_ms": 202758,
       "name": "Body Bags",
       "url": "https://open.spotify.com/track/1RlZkdmdRztVfaixVFFzEE"
+    },
+    {
+      "album": {
+        "name": "Body Cage",
+        "url": "https://open.spotify.com/album/6MyQ3VTalouW5kXnTrFPeT"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Bloom Twins",
+          "url": "https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Body Cage",
+      "url": "https://open.spotify.com/track/0RgXwG9y19wNuCfadaPyB2"
     },
     {
       "album": {
@@ -8874,7 +8896,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 160465,
       "name": "Fingerprints",
       "url": "https://open.spotify.com/track/0DcJIz0MnMqpGNXsbAbh9Y"
@@ -10969,6 +10991,24 @@
     },
     {
       "album": {
+        "name": "Gunfinger",
+        "url": "https://open.spotify.com/album/5F2FL72YN3VzCVidp5HOe1"
+      },
+      "artists": [
+        {
+          "name": "DJ Rap",
+          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247542,
+      "name": "Gunfinger",
+      "url": "https://open.spotify.com/track/5JSMTk4ZJJbgjVxoZSWnwS"
+    },
+    {
+      "album": {
         "name": "Gunfinger (Salute)",
         "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
       },
@@ -13045,6 +13085,24 @@
     },
     {
       "album": {
+        "name": "In The Night",
+        "url": "https://open.spotify.com/album/2bkF5wvo01Us5qJRgwHtXH"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "In The Night",
+      "url": "https://open.spotify.com/track/6XXfhXHRiI75xMe7CPmCsG"
+    },
+    {
+      "album": {
         "name": "In The Wild",
         "url": "https://open.spotify.com/album/3RWogqgYqXE2o8KNUQvBuc"
       },
@@ -13575,6 +13633,32 @@
     },
     {
       "album": {
+        "name": "Jungle Siren",
+        "url": "https://open.spotify.com/album/3M7jk8GJya8SJq67eAZyWE"
+      },
+      "artists": [
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "DJ Nay",
+          "url": "https://open.spotify.com/artist/33IvznwmMLiGyGg5pcrTqb"
+        },
+        {
+          "name": "Lost Souljah",
+          "url": "https://open.spotify.com/artist/1scL25i7KFBr1uQZ4YKuOU"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178253,
+      "name": "Jungle Siren",
+      "url": "https://open.spotify.com/track/2qQ6N7nfLxhVZlu34dzYXC"
+    },
+    {
+      "album": {
         "name": "Junglist (DJ KARA Remix)",
         "url": "https://open.spotify.com/album/7mYzziNhV3cTAiyMldCwxg"
       },
@@ -13642,7 +13726,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 183922,
       "name": "Just Love",
       "url": "https://open.spotify.com/track/7cOUAzSxknlzBK3nc8zbvQ"
@@ -16503,6 +16587,32 @@
     },
     {
       "album": {
+        "name": "Messed Up",
+        "url": "https://open.spotify.com/album/5lnTtWSd9nFA6eCjWy7zal"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156342,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/5B7tYgOD3Fuf9ld9WKdqzX"
+    },
+    {
+      "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
       },
@@ -17166,7 +17276,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 246825,
       "name": "Music Is The Answer",
       "url": "https://open.spotify.com/track/0EuxlShp4pAKc4mORZ55MK"
@@ -17812,7 +17922,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 170157,
       "name": "New Life",
       "url": "https://open.spotify.com/track/4kChQPTV6rUnbRcFXK5Deg"
@@ -22788,6 +22898,24 @@
       "duration_ms": 147234,
       "name": "Sexy Money",
       "url": "https://open.spotify.com/track/3V86nh7BVSfSU2v306NRph"
+    },
+    {
+      "album": {
+        "name": "Shadow Reign",
+        "url": "https://open.spotify.com/album/7mZ8hnwE151WQ2QHqdWJkL"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159085,
+      "name": "Shadow Reign",
+      "url": "https://open.spotify.com/track/17l0gx7CDNlExrTIZh1xmJ"
     },
     {
       "album": {

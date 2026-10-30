@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,110 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 939,118 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 74 | [Deserve To Die](https://open.spotify.com/track/2DesZQFkwZ1OSKIi9e9n1t) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Deserve To Die](https://open.spotify.com/album/2NGea7ZwsdQZssZb8K4dIj) | 2:44 |
 | 75 | [Everybody Ate](https://open.spotify.com/track/2AOPRnFQGqUdtEvGuU7fGs) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Everybody Ate](https://open.spotify.com/album/6rBBpdKbdlGhbXoaXP0FNi) | 1:52 |
 
-Snapshot ID: `AAAAAMRE4RS+JONQJFn5XT7DkA8yUrf7`
+Snapshot ID: `AAAAAJLSryKHEkKzK6zJOlxLdMrtM3C9`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 70536,
+  "num_followers": 70589,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKWk847gs7fO6pFgA4taBImLCdNu",
+  "snapshot_id": "AAAAAHu+t0VPItkwDmwp8j81NOOFmuhE",
   "tracks": [
     {
       "added_at": "2024-06-24 17:38:16",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+        "name": "El Jilguero de Huascar\u00e1n",
+        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
       },
       "artists": [
         {
-          "name": "Flor Sinque\u00f1a",
-          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
+          "name": "Ernesto Sanchez Fajardo",
+          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
         }
       ],
-      "duration_ms": 160640,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
+      "duration_ms": 181186,
+      "name": "Benditas las Madres",
+      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "El Jilguero de Huascar\u00e1n",
-        "url": "https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5"
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
       },
       "artists": [
         {
-          "name": "Ernesto Sanchez Fajardo",
-          "url": "https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC"
+          "name": "Flor Sinque\u00f1a",
+          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
         }
       ],
-      "duration_ms": 181186,
-      "name": "Benditas las Madres",
-      "url": "https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz"
+      "duration_ms": 160640,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Bodas de Plata: Concierto en Vivo",
         "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Sobreviviendo",
         "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 377280,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Mis \u00c9xitos Eternos Vol. 2",
-        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
-      },
-      "artists": [
-        {
-          "name": "Edwin Montoya",
-          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Enlazando Cantos II",
         "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 249155,
       "name": "Clavel de mi pecho",
       "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Mis \u00c9xitos Eternos Vol. 2",
+        "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
+      },
+      "artists": [
+        {
+          "name": "Edwin Montoya",
+          "url": "https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
-      },
-      "artists": [
-        {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Madre Andina",
         "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 238889,
       "name": "Koka kintucha",
       "url": "https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+      },
+      "artists": [
+        {
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Angel Bedrillana (Mestizo)",
-        "url": "https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngel Bedrillana",
-          "url": "https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR"
-        }
-      ],
-      "duration_ms": 237506,
-      "name": "Bella Mestiza",
-      "url": "https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Madre Andina",
         "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 264855,
       "name": "Expreso Puquio",
       "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Angel Bedrillana (Mestizo)",
+        "url": "https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Bedrillana",
+          "url": "https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR"
+        }
+      ],
+      "duration_ms": 237506,
+      "name": "Bella Mestiza",
+      "url": "https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h"
     },
     {
       "added_at": "2024-06-24 17:38:16",

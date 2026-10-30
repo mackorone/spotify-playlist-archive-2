@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 270600,
+  "num_followers": 270651,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADum23oyH5s8Ex1yGylzdnz",
+  "snapshot_id": "at/pgAAAAACH8baF6GPNLnBMYCJqNGVj",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Season",
-        "url": "https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "pick up the phone (feat. Quavo)",
         "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WOAH",
-        "url": "https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM"
+        "name": "Slime Season",
+        "url": "https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt"
       },
       "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
         {
           "name": "Young Thug",
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 145454,
-      "name": "WOAH",
-      "url": "https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2"
+      "duration_ms": 195373,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/2KztZVOEdCkJJHIXcdy6lM"
     },
     {
       "added_at": null,
@@ -707,6 +687,26 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Her Nothing",
+        "url": "https://open.spotify.com/album/23GqCmiLqpRumFdxcHJnp6"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 224078,
+      "name": "Tell Her Nothing",
+      "url": "https://open.spotify.com/track/5NIFj42IEueGwtG3AfGbcI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Thugger Girls",
         "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Her Nothing",
-        "url": "https://open.spotify.com/album/23GqCmiLqpRumFdxcHJnp6"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 224078,
-      "name": "Tell Her Nothing",
-      "url": "https://open.spotify.com/track/5NIFj42IEueGwtG3AfGbcI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 230253,
       "name": "City Girls",
       "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/0wVlws1JGleYZSVRWjj9B7"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "With That (feat. Duke)",
+      "url": "https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd"
     },
     {
       "added_at": null,
@@ -847,26 +867,6 @@
       "duration_ms": 212658,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/0wVlws1JGleYZSVRWjj9B7"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "With That (feat. Duke)",
-      "url": "https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd"
     },
     {
       "added_at": null,

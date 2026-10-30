@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 55900,
+  "num_followers": 55898,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDRtFs+SpCgs31fYBlyENC8Ce1v",
+  "snapshot_id": "AAAAAPXFK2fwbfkehvpYdCA+kVg4hODN",
   "tracks": [
     {
       "added_at": "2026-04-04 06:06:32",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Blessed By Association",
         "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 299586,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "One Church",
-        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
-      },
-      "artists": [
-        {
-          "name": "Kurt Carr",
-          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
-        }
-      ],
-      "duration_ms": 399400,
-      "name": "They Didn't Know",
-      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -631,6 +615,22 @@
       "duration_ms": 113013,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "One Church",
+        "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
+      },
+      "artists": [
+        {
+          "name": "Kurt Carr",
+          "url": "https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH"
+        }
+      ],
+      "duration_ms": 399400,
+      "name": "They Didn't Know",
+      "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Worth Fighting For - 1 Mic 1 Take",
-      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "The Ultimate Playlist",
         "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 250160,
       "name": "I Need You Now",
       "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Worth Fighting For - 1 Mic 1 Take",
+      "url": "https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 505120,
-      "name": "If God / Nothing But the Blood",
-      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 505120,
+      "name": "If God / Nothing But the Blood",
+      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Bishop Paul Morton - Let It Rain",
         "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 509466,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Common Hymnal (Live)",
+        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        }
+      ],
+      "duration_ms": 471217,
+      "name": "The Cross Made The Change - Live",
+      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Common Hymnal (Live)",
-        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        }
-      ],
-      "duration_ms": 471217,
-      "name": "The Cross Made The Change - Live",
-      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6G5FJu3cYMwyPH4cuqU4as"
       },
@@ -1707,6 +1707,30 @@
       "duration_ms": 229753,
       "name": "He Got Up",
       "url": "https://open.spotify.com/track/1Ycueu5MMATUueY3aziiFj"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Unproduced",
+        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+        }
+      ],
+      "duration_ms": 290432,
+      "name": "Heaven's Here - Live",
+      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1759,30 +1783,6 @@
       "duration_ms": 286040,
       "name": "O the Blood",
       "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "Unproduced",
-        "url": "https://open.spotify.com/album/6dwg7MLMXEBpX1ArYnPJYW"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        },
-        {
-          "name": "Kierre Bjorn",
-          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
-        }
-      ],
-      "duration_ms": 290432,
-      "name": "Heaven's Here - Live",
-      "url": "https://open.spotify.com/track/5B6mBys5g0csgDoBuKF1tZ"
     },
     {
       "added_at": "2026-04-04 06:06:32",

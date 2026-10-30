@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Kim Walker\-Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,915 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,910 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Meet Me In The Valley \(I Surrender All\)](https://open.spotify.com/track/5WhDzkgyQJN1eaJxXFQ6Ho) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Meet Me In The Valley \(I Surrender All\)](https://open.spotify.com/album/4k2R4uwafkVx72GVjTBcDQ) | 4:24 |
 | 80 | [ICONIC](https://open.spotify.com/track/1GGiKExc0Nftj3nV19vV0u) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [ICONIC](https://open.spotify.com/album/5yyJ6mcoT0EJEhs8XsyJfr) | 2:06 |
 
-Snapshot ID: `AAAAAEbIZdN8pfU4qrZWP4QZZstZfwz2`
+Snapshot ID: `AAAAAM70rrM13EbPPTCN265Oa2hk+lkS`

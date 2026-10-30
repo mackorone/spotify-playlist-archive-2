@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11969771,
+  "num_followers": 11972083,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALMaZqrUIn7NTjh78NKsGYffcJ2O",
+  "snapshot_id": "AAAAAJWwTUwpBG6qaUSRgLqyl/StzR4V",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:29",
@@ -2048,16 +2048,16 @@
       },
       "artists": [
         {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
           "name": "DJ SILVER ZN",
           "url": "https://open.spotify.com/artist/5Tw17pvNrZXqQdR9mS2iwf"
         },
         {
           "name": "DJ MZK 07",
           "url": "https://open.spotify.com/artist/1gmTz8LJrWE1de6mXsmOnT"
-        },
-        {
-          "name": "DJ Raulipues",
-          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
         }
       ],
       "duration_ms": 71025,

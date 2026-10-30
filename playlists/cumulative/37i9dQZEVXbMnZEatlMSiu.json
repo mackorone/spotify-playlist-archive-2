@@ -7528,7 +7528,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 173000,
       "name": "GGUN",
       "url": "https://open.spotify.com/track/09qDfTzRZ0bM8joSzQ0uLF"
@@ -8364,7 +8364,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -15562,7 +15562,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 160000,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX"
@@ -18516,7 +18516,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 218000,
       "name": "Sweet Rain",
       "url": "https://open.spotify.com/track/4EYRsQWjtGmiqS2jUAsLsa"
@@ -18868,7 +18868,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 171104,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
@@ -19128,7 +19128,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 156000,
       "name": "The Answer Is Yes",
       "url": "https://open.spotify.com/track/5l7D7feCXQZgCPolpVgmCN"
@@ -25090,7 +25090,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 217720,
       "name": "\u591a\u9060\u90fd\u8981\u5728\u4e00\u8d77",
       "url": "https://open.spotify.com/track/55d0jw269HE9pbOt5ntCo8"
@@ -27358,7 +27358,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 284466,
       "name": "\u611b\u6211\u5225\u8d70",
       "url": "https://open.spotify.com/track/2fc2vUA5H3mTAr9rQoBDKt"
@@ -29310,6 +29310,24 @@
       "duration_ms": 277026,
       "name": "\u6953",
       "url": "https://open.spotify.com/track/2lIb7a074DL4RLCPAaGdnu"
+    },
+    {
+      "album": {
+        "name": "\u6b32\u843d\u672a\u843d",
+        "url": "https://open.spotify.com/album/355n1THOAzpsZh4R8crspO"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255182,
+      "name": "\u6b32\u843d\u672a\u843d",
+      "url": "https://open.spotify.com/track/25rKfmSz9QTVtilqZU9f8D"
     },
     {
       "album": {
@@ -32550,7 +32568,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 209760,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"

@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 107621,
+  "num_followers": 107735,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOlS7Z/qxyY7EyP977rNxB/isC2",
+  "snapshot_id": "AAAAAIxOd+s+14mKKh4jdqJtfEAw08qT",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:20",
@@ -607,6 +607,30 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "Thanda (Tshwala) 10.0",
+        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Loony Q",
+          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
+        },
+        {
+          "name": "Senzo02",
+          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
+        }
+      ],
+      "duration_ms": 271737,
+      "name": "Thanda (Tshwala) 10.0",
+      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
         "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
       },
@@ -635,30 +659,6 @@
       "duration_ms": 480000,
       "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
-        "name": "Thanda (Tshwala) 10.0",
-        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
-      },
-      "artists": [
-        {
-          "name": "Bukzin Keyz",
-          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
-        },
-        {
-          "name": "Loony Q",
-          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
-        },
-        {
-          "name": "Senzo02",
-          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
-        }
-      ],
-      "duration_ms": 271737,
-      "name": "Thanda (Tshwala) 10.0",
-      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
     },
     {
       "added_at": "2026-09-10 22:02:20",

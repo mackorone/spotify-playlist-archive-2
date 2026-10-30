@@ -1,12 +1,12 @@
 {
-  "description": "Solo beat e rime avvolgenti. Cover: Marracash",
-  "num_followers": 356247,
+  "description": "Solo beat e rime avvolgenti. Cover: Sfera Ebbasta",
+  "num_followers": 356236,
   "original_name": "Mezzanotte Chill Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMawHM4t0eiPzgzT6ozXF4Hr9bA1",
+  "snapshot_id": "AAAAANXEgB60U2IIbNkGMPJ9yFPjqdv4",
   "tracks": [
     {
       "added_at": "2026-10-15 23:01:04",
@@ -63,34 +63,22 @@
     {
       "added_at": "2026-10-15 23:01:04",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
       "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
         {
           "name": "Marracash",
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 234446,
-      "name": "DUBBI",
-      "url": "https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
-        "name": "100 MESSAGGI",
-        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 244096,
-      "name": "100 MESSAGGI",
-      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
+      "duration_ms": 206896,
+      "name": "15 Piani",
+      "url": "https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -107,6 +95,22 @@
       "duration_ms": 215309,
       "name": "Polvere Rosa",
       "url": "https://open.spotify.com/track/0fR79MubHtwcEiGJzUw8Au"
+    },
+    {
+      "added_at": "2026-10-15 23:01:04",
+      "album": {
+        "name": "100 MESSAGGI",
+        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -147,6 +151,22 @@
       "duration_ms": 156137,
       "name": "STARE BENE",
       "url": "https://open.spotify.com/track/00tJHfshl9hn6SdrdCvSdH"
+    },
+    {
+      "added_at": "2026-10-15 23:01:04",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 234446,
+      "name": "DUBBI",
+      "url": "https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -243,6 +263,26 @@
       "duration_ms": 162969,
       "name": "CANZONE D'ODIO (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
+    },
+    {
+      "added_at": "2026-10-29 23:02:23",
+      "album": {
+        "name": "Anche gli Eroi Muoiono Post Mortem",
+        "url": "https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "Il mio posto nel Mondo (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2lFKJrz2JhquBuLcZsbvOu"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -363,6 +403,26 @@
       "duration_ms": 286528,
       "name": "Una bara per due",
       "url": "https://open.spotify.com/track/570IsK8rePxeYM5SZpGCkW"
+    },
+    {
+      "added_at": "2026-10-29 23:02:23",
+      "album": {
+        "name": "VAFFANCULO",
+        "url": "https://open.spotify.com/album/0VdD10ddgdrGea9whypoBl"
+      },
+      "artists": [
+        {
+          "name": "Latrelle",
+          "url": "https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV"
+        },
+        {
+          "name": "N'Dreamer",
+          "url": "https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8"
+        }
+      ],
+      "duration_ms": 139866,
+      "name": "VAFFANCULO",
+      "url": "https://open.spotify.com/track/23Tust6sDp7d7OBTqOTE7p"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -583,26 +643,6 @@
     {
       "added_at": "2026-10-15 23:01:04",
       "album": {
-        "name": "quore",
-        "url": "https://open.spotify.com/album/3jTdiZNoaP6aVyCavTS2to"
-      },
-      "artists": [
-        {
-          "name": "Quest",
-          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
-        },
-        {
-          "name": "Low-Red",
-          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "punto a capo (feat. Low-Red)",
-      "url": "https://open.spotify.com/track/3kZRvhg9rrM7AFRMO8zAcb"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
         "name": "NON \u00c8 SOLO SWAG",
         "url": "https://open.spotify.com/album/6ctBV0IbZtYcCdN6ypbSic"
       },
@@ -659,26 +699,6 @@
       "duration_ms": 205591,
       "name": "whereimat (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/3tTY52nqC2AHVgAoaThfe6"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
-        "name": "Limite",
-        "url": "https://open.spotify.com/album/101b4k5g4gnYQmP8sRVg8k"
-      },
-      "artists": [
-        {
-          "name": "Fandino",
-          "url": "https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju"
-        },
-        {
-          "name": "4TheNight",
-          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "Limite",
-      "url": "https://open.spotify.com/track/3MoRM9naSTxiDZ9imxnnfP"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -771,26 +791,6 @@
       "duration_ms": 206510,
       "name": "Bella",
       "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
-        "name": "TI RICORDI",
-        "url": "https://open.spotify.com/album/7cXVsjHvgWqXeHFS6VsEV4"
-      },
-      "artists": [
-        {
-          "name": "Aske",
-          "url": "https://open.spotify.com/artist/4iE1YKxP7jqkyNRQN98dVo"
-        },
-        {
-          "name": "Dr. Cream",
-          "url": "https://open.spotify.com/artist/1Infwqx3BhCS1iVbJxWdKw"
-        }
-      ],
-      "duration_ms": 196149,
-      "name": "TI RICORDI",
-      "url": "https://open.spotify.com/track/5L4sZUVdzypmbD1NhFK3mh"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2026-10-15 23:01:04",
       "album": {
-        "name": "NO REGULAR MUSIC 2.5",
-        "url": "https://open.spotify.com/album/7jfo9OmUMjGCPM2Ad0SS6n"
-      },
-      "artists": [
-        {
-          "name": "Sadturs",
-          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
-        },
-        {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
-        },
-        {
-          "name": "Glocky",
-          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "niente x me (feat. Glocky)",
-      "url": "https://open.spotify.com/track/4YROoJToHiBrwuLfKUMsEL"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
         "name": "Fenice",
         "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },
@@ -1287,42 +1263,6 @@
     {
       "added_at": "2026-10-15 23:01:04",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "15 Piani",
-      "url": "https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
-        "name": "HENTAI",
-        "url": "https://open.spotify.com/album/42ShFYmtP5FERkIYZOrMPq"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 163512,
-      "name": "HENTAI",
-      "url": "https://open.spotify.com/track/78flthd91SpUADZy5PwNRS"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
         "name": "PER SOLDI E PER AMORE",
         "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
       },
@@ -1407,22 +1347,6 @@
       "duration_ms": 192905,
       "name": "Cicatrici (feat. Tedua)",
       "url": "https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
-        "name": "YACHT CLUB",
-        "url": "https://open.spotify.com/album/3pDBHEcKJYylqjOvRlP2yU"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 154564,
-      "name": "TOP MODEL (HEY MAMBO!)",
-      "url": "https://open.spotify.com/track/1YvfAyh0iuMaQoOLgaPLYZ"
     },
     {
       "added_at": "2026-10-15 23:01:04",
@@ -2135,22 +2059,6 @@
       "duration_ms": 177280,
       "name": "INVIDIOSA",
       "url": "https://open.spotify.com/track/0IlzQAJto4settbYqRONHP"
-    },
-    {
-      "added_at": "2026-10-15 23:01:04",
-      "album": {
-        "name": "DIPENDE DA ME",
-        "url": "https://open.spotify.com/album/16U7q1DfJO1ztNnr02sEVb"
-      },
-      "artists": [
-        {
-          "name": "Quentin40",
-          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "DIPENDE DA ME",
-      "url": "https://open.spotify.com/track/4NQQ6OWPLDFcyPIkrNvvRT"
     }
   ],
   "unique_name": "Mezzanotte Chill Rap",

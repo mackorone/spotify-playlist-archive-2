@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Equipo HC en portada.",
-  "num_followers": 532356,
+  "num_followers": 532354,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP3i5Gfan2G/GZbk6DtGrYDR8EjC",
+  "snapshot_id": "AAAAAG/P1PiJj0EEhddf3mRr1dnnSqyR",
   "tracks": [
     {
       "added_at": "2026-10-16 05:41:28",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 153745,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Cuando Casi Te Olvidaba",
         "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 177750,
       "name": "Cuando Casi Te Olvidaba",
       "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 153745,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -627,26 +627,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Noche Perfecta",
-        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 204321,
-      "name": "Noche Perfecta",
-      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "UNO PARA EL OTRO",
         "url": "https://open.spotify.com/album/2HWYoPP10xV4KD68P4T6kw"
       },
@@ -679,22 +659,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Y C\u00f3mo Es El",
-        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exclusivo",
-          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
-        }
-      ],
-      "duration_ms": 269072,
-      "name": "Y C\u00f3mo Es El",
-      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Me Consulto El Padrino",
         "url": "https://open.spotify.com/album/2osy2NXRGldVelrNmv0GcH"
       },
@@ -707,6 +671,26 @@
       "duration_ms": 175034,
       "name": "Me Consulto El Padrino",
       "url": "https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Noche Perfecta",
+        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 204321,
+      "name": "Noche Perfecta",
+      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -731,18 +715,34 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Las Filtradas",
-        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
+        "name": "Y C\u00f3mo Es El",
+        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
       },
       "artists": [
         {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
         }
       ],
-      "duration_ms": 147799,
-      "name": "El Rubio",
-      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
+      "duration_ms": 269072,
+      "name": "Y C\u00f3mo Es El",
+      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Tras del Dolor",
+        "url": "https://open.spotify.com/album/3lITpzSz4nIoLvn5oK0wLQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "duration_ms": 254717,
+      "name": "Tras del Dolor",
+      "url": "https://open.spotify.com/track/5MhzgiRcnmK2ihDfJUx7IK"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Tras del Dolor",
-        "url": "https://open.spotify.com/album/3lITpzSz4nIoLvn5oK0wLQ"
+        "name": "Las Filtradas",
+        "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
       },
       "artists": [
         {
-          "name": "Los Hnos Rodriguez",
-          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 254717,
-      "name": "Tras del Dolor",
-      "url": "https://open.spotify.com/track/5MhzgiRcnmK2ihDfJUx7IK"
+      "duration_ms": 147799,
+      "name": "El Rubio",
+      "url": "https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Qu\u00e9 Mal",
-        "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
-        }
-      ],
-      "duration_ms": 175105,
-      "name": "Qu\u00e9 Mal",
-      "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "El Scrappy",
         "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "Qu\u00e9 Mal",
+        "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA"
+        }
+      ],
+      "duration_ms": 175105,
+      "name": "Qu\u00e9 Mal",
+      "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "De M\u00e9xico Soy",
         "url": "https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp"
       },
@@ -871,26 +871,6 @@
       "duration_ms": 162112,
       "name": "De M\u00e9xico Soy",
       "url": "https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "TMS",
-        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Villegas",
-          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
-        }
-      ],
-      "duration_ms": 161824,
-      "name": "TMS",
-      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -915,18 +895,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Pluma Fina",
-        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
+        "name": "TMS",
+        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
       },
       "artists": [
         {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Villegas",
+          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
         }
       ],
-      "duration_ms": 172705,
-      "name": "Pluma Fina",
-      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
+      "duration_ms": 161824,
+      "name": "TMS",
+      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -947,6 +931,22 @@
       "duration_ms": 156361,
       "name": "Amigazo",
       "url": "https://open.spotify.com/track/693i3LEysJ9hk15mlFODy0"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Pluma Fina",
+        "url": "https://open.spotify.com/album/5SJ6wwR1WRckUPNcIoNsie"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 172705,
+      "name": "Pluma Fina",
+      "url": "https://open.spotify.com/track/1PVN87HfRm8brKAvZgrXx0"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "The Magic Man",
-        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 218235,
-      "name": "Mi Bonita",
-      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Cuando No Estoy",
         "url": "https://open.spotify.com/album/1LFdrxDKu84elIyzZR6TXg"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 162066,
       "name": "Cuando No Estoy",
       "url": "https://open.spotify.com/track/4uSbOaDtyIZIj0CUmmjbDk"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "The Magic Man",
+        "url": "https://open.spotify.com/album/0x0LOk2wUSdCNmvqAbW8WV"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 218235,
+      "name": "Mi Bonita",
+      "url": "https://open.spotify.com/track/7quwBiFkOey16ztjee9kSL"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        }
-      ],
-      "duration_ms": 182593,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/2jWBsJ2aMzmxNMMNBQOpfN"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 182692,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/6NyYYcxBRWqQgKKEVnCLWm"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        }
+      ],
+      "duration_ms": 182593,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad"
     },
     {
       "added_at": "2026-10-16 05:41:28",

@@ -4,7 +4,7 @@
 
 > 
 
-50 songs - 3 hr 46 min
+50 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [One More Try](https://open.spotify.com/track/54KOZ6Ivk9Aj599agfNTcf) | [Timmy T](https://open.spotify.com/artist/5gqcLXiJcBVEduXVle7JN1) | [Hot Latin Pop](https://open.spotify.com/album/3oZwKEJvFfgsYB3KUA12NG) | 3:30 | 2013-06-27 |  |
 | [Power of Love / Love Power](https://open.spotify.com/track/5r0v9CyX7CblZkQUltCUX3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Love, Luther](https://open.spotify.com/album/4WuUrS1xAamOUSmov8UBc3) | 6:42 | 2013-06-27 |  |
 | [Rhythm of My Heart \- 2008 Remaster](https://open.spotify.com/track/0fLgxhfATkNRJGca4rCu9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 4:15 | 2013-06-27 |  |
-| [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 | 2013-06-27 |  |
+| [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 5:29 | 2013-06-27 |  |
 | [Romantic](https://open.spotify.com/track/4WmCoqweV6nXrSogoAo12a) | [Karyn White](https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F) | [Billboard: \#1 Hits Of The 90's](https://open.spotify.com/album/3UTqjsuiNuQ9uxxXyS8qa1) | 3:56 | 2013-06-27 |  |
 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 | 2013-06-27 |  |
 | [Sensitivity](https://open.spotify.com/track/4DiUxQNvWZUSH92yfF17GU) | [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [Gold](https://open.spotify.com/album/7r7Vb7w9Fc3kUDNgIlPIxk) | 4:40 | 2013-06-27 |  |

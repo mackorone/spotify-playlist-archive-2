@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 16 min
+86 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Rattlesnakes](https://open.spotify.com/track/4c3BGa7Epnb2X2t5jLRU0x) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:28 | 2022-10-12 | 2022-10-17 |
 | [River, River](https://open.spotify.com/track/76lBOu42eQNLIKLTnpN4MX) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:32 | 2025-05-14 | 2025-11-02 |
 | [Science](https://open.spotify.com/track/4Tlaoj0PUbheFVOfyifb1N) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:23 | 2025-12-11 | 2026-01-15 |
+| [So Nearly](https://open.spotify.com/track/3Mx7QsWnJ3LTH3OusGnLBo) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [So Nearly](https://open.spotify.com/album/4QpGsAa7vOTxSrQyMDcp0Y) | 3:16 | 2026-10-30 |  |
 | [Something I Said](https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:12 | 2022-09-21 |  |
 | [Strange Like I](https://open.spotify.com/track/0xdXfcvcx12RJ54EQDxorp) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/1hy5WzaH6D17BwcMm1sdET) | 3:04 | 2026-10-10 |  |
 | [Strange Like I](https://open.spotify.com/track/63CSuwy6bDo1Q8sODWuoBq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:04 | 2023-12-13 | 2026-10-10 |

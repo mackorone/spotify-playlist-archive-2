@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Scene",
-  "num_followers": 769037,
+  "num_followers": 769146,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdn5HR30JpsYP6jhoc9MaNkZmk/",
+  "snapshot_id": "AAAAAMpG4VdRpxNTV8UtROae+1LPocx0",
   "tracks": [
     {
       "added_at": "2026-10-19 12:33:02",
@@ -79,6 +79,22 @@
     {
       "added_at": "2026-10-26 15:39:52",
       "album": {
+        "name": "Roddy Theme (From \"Jailer 2\")",
+        "url": "https://open.spotify.com/album/5jT7IJGZZP7sTvkOjgkGBa"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 111130,
+      "name": "Roddy Theme (From \"Jailer 2\")",
+      "url": "https://open.spotify.com/track/1qVgZG8xB1nctGT3Hc6M3Y"
+    },
+    {
+      "added_at": "2026-10-26 15:39:52",
+      "album": {
         "name": "Killin' 'em (From \"Scene\")",
         "url": "https://open.spotify.com/album/5ejYA3qu5qvaOtsvYcmEg3"
       },
@@ -145,6 +161,30 @@
       "url": "https://open.spotify.com/track/4evA3itYJjye3xAru81Jdv"
     },
     {
+      "added_at": "2026-10-29 16:33:35",
+      "album": {
+        "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ihy9K60zEJ4olLHEcROop"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        }
+      ],
+      "duration_ms": 170362,
+      "name": "Kolaar Max",
+      "url": "https://open.spotify.com/track/3SxDLSday8vhnVH9HcNGTQ"
+    },
+    {
       "added_at": "2026-10-22 09:50:59",
       "album": {
         "name": "Tiger Muthuvel Pandian (From \"Jailer 2\")",
@@ -201,20 +241,32 @@
       "url": "https://open.spotify.com/track/6jJHYbJReFfR2ieGzRP5bq"
     },
     {
-      "added_at": "2026-10-26 15:39:52",
+      "added_at": "2026-10-29 16:33:35",
       "album": {
-        "name": "Roddy Theme (From \"Jailer 2\")",
-        "url": "https://open.spotify.com/album/5jT7IJGZZP7sTvkOjgkGBa"
+        "name": "Kannum Kannum (From \"Hello Kadhal\")",
+        "url": "https://open.spotify.com/album/70EYVexbhq68CwbDkexTNn"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sivaangi Krishnakumar",
+          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 111130,
-      "name": "Roddy Theme (From \"Jailer 2\")",
-      "url": "https://open.spotify.com/track/1qVgZG8xB1nctGT3Hc6M3Y"
+      "duration_ms": 184583,
+      "name": "Kannum Kannum - From \"Hello Kadhal\"",
+      "url": "https://open.spotify.com/track/6yDTncrJuFg5pIyLS2UwkW"
     },
     {
       "added_at": "2026-10-07 15:34:52",
@@ -237,6 +289,30 @@
       "url": "https://open.spotify.com/track/3NUPNRGkCsvyJMN6nQZBLM"
     },
     {
+      "added_at": "2026-10-29 16:33:35",
+      "album": {
+        "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ihy9K60zEJ4olLHEcROop"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Aruna Ravindran",
+          "url": "https://open.spotify.com/artist/0OK2JsLtwUSPTGHMd2jncy"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        }
+      ],
+      "duration_ms": 176889,
+      "name": "Mahashakthi Trance",
+      "url": "https://open.spotify.com/track/73d76sIVtFMnATaay6XzAY"
+    },
+    {
       "added_at": "2026-09-30 17:51:13",
       "album": {
         "name": "Jailer 2 (Original Motion Picture Soundtrack)",
@@ -255,6 +331,34 @@
       "duration_ms": 152674,
       "name": "Veramaari",
       "url": "https://open.spotify.com/track/3QMfo44lz1oGmZY2wWAQb5"
+    },
+    {
+      "added_at": "2026-10-29 16:33:35",
+      "album": {
+        "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ihy9K60zEJ4olLHEcROop"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Aruna Ravindran",
+          "url": "https://open.spotify.com/artist/0OK2JsLtwUSPTGHMd2jncy"
+        },
+        {
+          "name": "Chinnaponnu",
+          "url": "https://open.spotify.com/artist/7ERzMk9y0QtjLEWEKoINnb"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        }
+      ],
+      "duration_ms": 211338,
+      "name": "Amman Song",
+      "url": "https://open.spotify.com/track/7hH9d4XyHxgNJ0CzDG9q7O"
     },
     {
       "added_at": "2026-10-05 15:59:02",
@@ -313,6 +417,26 @@
       "url": "https://open.spotify.com/track/5ZWZ0zGL5nYaqzBlzLGLqQ"
     },
     {
+      "added_at": "2026-10-29 16:33:35",
+      "album": {
+        "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ihy9K60zEJ4olLHEcROop"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Kharesma Ravichandran",
+          "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        }
+      ],
+      "duration_ms": 128318,
+      "name": "Bhairaa\u2019s Rebirth",
+      "url": "https://open.spotify.com/track/1E2Oa0irgwbvDsbm2eIO2I"
+    },
+    {
       "added_at": "2026-10-16 09:37:36",
       "album": {
         "name": "Ranabaali [TAMIL]",
@@ -339,6 +463,30 @@
       "duration_ms": 270009,
       "name": "Kaalangaalama",
       "url": "https://open.spotify.com/track/6gxVlAlihxRjDjYRSpIVhd"
+    },
+    {
+      "added_at": "2026-10-29 16:33:35",
+      "album": {
+        "name": "Respectaa (From \"Scene\")",
+        "url": "https://open.spotify.com/album/4YGj5hsuUDn0OSZ39KGMTP"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Vaasi",
+          "url": "https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ"
+        }
+      ],
+      "duration_ms": 125192,
+      "name": "Respectaa (From \"Scene\")",
+      "url": "https://open.spotify.com/track/0naACJgwftBol3K99PqMrU"
     },
     {
       "added_at": "2026-10-07 15:34:52",
@@ -417,6 +565,26 @@
       "url": "https://open.spotify.com/track/2pYpxchYV6cBgqlNLK1l1X"
     },
     {
+      "added_at": "2026-10-29 16:33:35",
+      "album": {
+        "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ihy9K60zEJ4olLHEcROop"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        }
+      ],
+      "duration_ms": 68549,
+      "name": "Raatchasa Raja",
+      "url": "https://open.spotify.com/track/0CYJM5BUrtRjDUUDIaXGkj"
+    },
+    {
       "added_at": "2026-10-19 12:33:02",
       "album": {
         "name": "Thala Suthudhey (From \"Drones\")",
@@ -443,6 +611,22 @@
       "duration_ms": 195797,
       "name": "Thala Suthudhey (From \"Drones\")",
       "url": "https://open.spotify.com/track/1SkS7E4FOxLucwGYWqYhLe"
+    },
+    {
+      "added_at": "2026-10-29 16:33:35",
+      "album": {
+        "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ihy9K60zEJ4olLHEcROop"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "duration_ms": 41915,
+      "name": "Rise of Mahasakthi",
+      "url": "https://open.spotify.com/track/0tNYOyLqZh0vttsvNggdSR"
     },
     {
       "added_at": "2026-10-07 15:34:52",
@@ -625,26 +809,6 @@
       "url": "https://open.spotify.com/track/19wVdiE7ukNcEuRUHIwboZ"
     },
     {
-      "added_at": "2026-10-19 12:33:02",
-      "album": {
-        "name": "Song of First Love (From \"Bhayankara Preeti (Tamil)\")",
-        "url": "https://open.spotify.com/album/3OJDSV4nqKS373bfdzF49a"
-      },
-      "artists": [
-        {
-          "name": "Shibi Srinivasan",
-          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
-        },
-        {
-          "name": "V.U.M Ayshwarya",
-          "url": "https://open.spotify.com/artist/2goxZVkNxYA5dzrvZ1VNDS"
-        }
-      ],
-      "duration_ms": 223743,
-      "name": "Song of First Love (From \"Bhayankara Preeti (Tamil)\")",
-      "url": "https://open.spotify.com/track/37DdVMWOEF7RDQrFfoghGx"
-    },
-    {
       "added_at": "2026-10-12 05:20:31",
       "album": {
         "name": "Nandhini (From \"Gods and Soldiers\") (Tamil)",
@@ -733,26 +897,6 @@
       "url": "https://open.spotify.com/track/3eAkEPkm3KWzfHdLKA1hMk"
     },
     {
-      "added_at": "2026-10-26 15:39:52",
-      "album": {
-        "name": "Appava Pola (From ''Appa Kutti\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/436KIJyjR3ul91G4vR2Gmz"
-      },
-      "artists": [
-        {
-          "name": "Vijay Antony",
-          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
-        },
-        {
-          "name": "Meenakshi Elayaraja",
-          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
-        }
-      ],
-      "duration_ms": 247734,
-      "name": "Appava Pola (From ''Appa Kutti\") - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/74CJAA9OwdM31GJ595F8Bk"
-    },
-    {
       "added_at": "2026-10-04 14:46:41",
       "album": {
         "name": "Rathinamo (Female Version)",
@@ -801,30 +945,6 @@
       "url": "https://open.spotify.com/track/3qoYI2NADoZpJUTuF926sh"
     },
     {
-      "added_at": "2026-10-16 09:37:36",
-      "album": {
-        "name": "Yeppa Yesapppa (From \"Haiku\") (Tamil)",
-        "url": "https://open.spotify.com/album/6sPww7Wj3o0QjGlf3b43cA"
-      },
-      "artists": [
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Yeppa Yesapppa (From \"Haiku\") (Tamil)",
-      "url": "https://open.spotify.com/track/1Ig31PWYFTBoyCdW5mtEtk"
-    },
-    {
       "added_at": "2026-10-14 06:13:36",
       "album": {
         "name": "Officer On Duty (From \"Vidiyum Kaathiru\")",
@@ -867,30 +987,6 @@
       "duration_ms": 147246,
       "name": "Rama Theme",
       "url": "https://open.spotify.com/track/72I8d5x79WDD9eT4QkNXJ0"
-    },
-    {
-      "added_at": "2026-10-16 09:37:36",
-      "album": {
-        "name": "Ranabaali [TAMIL]",
-        "url": "https://open.spotify.com/album/2iAx2GAYV9WKsrpaLJtM8B"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        },
-        {
-          "name": "Madhurakavi",
-          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
-        }
-      ],
-      "duration_ms": 247029,
-      "name": "Dheeram Dheeram",
-      "url": "https://open.spotify.com/track/3fI1WjvB61Pgw9nrMywnHI"
     },
     {
       "added_at": "2026-10-13 09:17:46",
@@ -2247,110 +2343,6 @@
       "duration_ms": 186551,
       "name": "Kannakuzhiya",
       "url": "https://open.spotify.com/track/7M26jsZqOWgBb4nNoLF8XY"
-    },
-    {
-      "added_at": "2026-08-21 12:40:12",
-      "album": {
-        "name": "Modha Rathri",
-        "url": "https://open.spotify.com/album/1CqwCNWgUTlLWihioHcuPe"
-      },
-      "artists": [
-        {
-          "name": "Bharath Sankar",
-          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
-        },
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        },
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 252127,
-      "name": "Mudhala Mudiva",
-      "url": "https://open.spotify.com/track/5ZmRlfJ9EKYVbSXD6QgbgX"
-    },
-    {
-      "added_at": "2026-08-21 12:40:12",
-      "album": {
-        "name": "Modha Rathri",
-        "url": "https://open.spotify.com/album/1CqwCNWgUTlLWihioHcuPe"
-      },
-      "artists": [
-        {
-          "name": "Bharath Sankar",
-          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 182024,
-      "name": "Modha Rathri Title Track",
-      "url": "https://open.spotify.com/track/69agsgcdG0z3bAcIfzG5p3"
-    },
-    {
-      "added_at": "2026-08-13 15:35:28",
-      "album": {
-        "name": "Vishwanath & Sons (Tamil)",
-        "url": "https://open.spotify.com/album/02Q2na8YaByZ3tiYT5BtDM"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Suriya",
-          "url": "https://open.spotify.com/artist/5jyOS8L5CughATUjhDX8GP"
-        },
-        {
-          "name": "Ken Karunaas",
-          "url": "https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "The Wedding Song (Tamil)",
-      "url": "https://open.spotify.com/track/6ZfFjht9xqBOZP6Xi7EcW8"
-    },
-    {
-      "added_at": "2026-08-21 12:40:12",
-      "album": {
-        "name": "Once More (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54iAtq2jHnwTVJv6zmwTXy"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Hanan Shaah",
-          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
-        },
-        {
-          "name": "Vignesh Srikanth",
-          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
-        },
-        {
-          "name": "Arun Alat",
-          "url": "https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "INDRA",
-      "url": "https://open.spotify.com/track/0KrKOh5pXDWzdQwUzSE1eA"
     }
   ],
   "unique_name": "Latest Tamil",

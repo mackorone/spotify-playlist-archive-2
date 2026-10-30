@@ -1,12 +1,12 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 125370,
+  "num_followers": 125392,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACW3Z5BIzd9XOGBABOD+Axj/w108",
+  "snapshot_id": "AAAAADsLaAzJbCWSf5rG3OszvPnXobV2",
   "tracks": [
     {
       "added_at": "2025-05-23 06:00:30",
@@ -275,6 +275,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Patrullando",
+        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Patrullando",
+      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 213097,
       "name": "Tributos",
       "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Patrullando",
-        "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Patrullando",
-      "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Rap da Rap quita",
-        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 289649,
-      "name": "Rap da Rap quita",
-      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Amor Puro (feat. La Banda Baston)",
         "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 215373,
       "name": "Amor Puro (feat. La Banda Baston)",
       "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Rap da Rap quita",
+        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 289649,
+      "name": "Rap da Rap quita",
+      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -679,18 +679,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Punchline City, Vol. 1",
-        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
       },
       "artists": [
         {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 76660,
-      "name": "NueveOnce",
-      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -715,22 +719,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+        "name": "Punchline City, Vol. 1",
+        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
       },
       "artists": [
         {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
         }
       ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
+      "duration_ms": 76660,
+      "name": "NueveOnce",
+      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -767,6 +767,26 @@
       "duration_ms": 286673,
       "name": "Esto Es M\u00e9xico",
       "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -811,26 +831,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Benedicto",
         "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 194666,
       "name": "Benedicto",
       "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Callejones",
+        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Callejones",
+      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -867,26 +887,6 @@
       "duration_ms": 213334,
       "name": "El eslab\u00f3n perdido",
       "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Callejones",
-        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Callejones",
-      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Psicofonia",
+        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 184255,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Hombre (One Shot) [Remix]",
         "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 194042,
       "name": "Flow Leyenda",
       "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Psicofonia",
-        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 184255,
-      "name": "Matar o Morir",
-      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Relojito",
+        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Striptease",
         "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 221826,
       "name": "R\u00ede Cuando Puedas",
       "url": "https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Kase.O Jazz Magnetism",
-        "url": "https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4"
-      },
-      "artists": [
-        {
-          "name": "Kase.O",
-          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
-        }
-      ],
-      "duration_ms": 210813,
-      "name": "Libertad",
-      "url": "https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Relojito",
-        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
+        "name": "Kase.O Jazz Magnetism",
+        "url": "https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Kase.O",
+          "url": "https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux"
         }
       ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
+      "duration_ms": 210813,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1739,22 +1739,6 @@
       "duration_ms": 316784,
       "name": "Chico Problem\u00e1tico",
       "url": "https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Inedito",
-        "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1787,6 +1771,22 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Inedito",
+        "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq"
     },
     {
       "added_at": "2025-05-23 06:00:30",

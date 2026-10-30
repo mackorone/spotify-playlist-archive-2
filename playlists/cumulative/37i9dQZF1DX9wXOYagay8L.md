@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Empro, Mlindo The Vocalist
+> Proudly Southern African Afropop gems\. Cover: Mawelele
 
-784 songs - 2 day 7 hr 36 min
+785 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,8 @@
 | [Ngiyamthatha](https://open.spotify.com/track/0jzUaaXQEE793mRSsF93GR) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ) | [Ngiyamthatha](https://open.spotify.com/album/76xTChVJN12e7NXOMvkGUS) | 3:28 | 2026-03-27 |  |
 | [Ngiyathandaza](https://open.spotify.com/track/0MuZgvvbykSdfKPMgtLUx3) | [Mr\. Music](https://open.spotify.com/artist/1tl67Z3qyJYT9NilPduEgF) | [Ngiyathandaza](https://open.spotify.com/album/6u8xAVCZgRCcqEltfNl6id) | 5:17 | 2022-04-22 | 2022-05-13 |
 | [Ngiyatisola](https://open.spotify.com/track/28ct4TYD21H6TxGjPJwLFY) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Ngiyatisola](https://open.spotify.com/album/3AKvurqxhEhOhTuiM8VlNu) | 4:27 | 2023-08-31 | 2023-10-13 |
-| [Ngiyaz'fela](https://open.spotify.com/track/4oXYR6jNzr0wVBye2rc2V4) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Ngiyaz'fela](https://open.spotify.com/album/2PPrNvYmx8iUQJMsLhS8Yn) | 3:48 | 2026-09-03 |  |
+| [Ngiyaz'fela](https://open.spotify.com/track/3nCRclMVrtJI7dJuXuzRQW) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [PGLTM](https://open.spotify.com/album/2Vnbb1XXDLuipQm7ETvr1m) | 3:48 | 2026-10-29 |  |
+| [Ngiyaz'fela](https://open.spotify.com/track/4oXYR6jNzr0wVBye2rc2V4) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Ngiyaz'fela](https://open.spotify.com/album/2PPrNvYmx8iUQJMsLhS8Yn) | 3:48 | 2026-09-03 | 2026-10-30 |
 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-01-19 | 2023-08-18 |
 | [Ngiyeza](https://open.spotify.com/track/3PLlRioGyfXbEY9Mlf4k8X) | [SIIBU](https://open.spotify.com/artist/2YUPgGlOpUW8MqoVBQICdd), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv) | [A Zulu Lover Girl](https://open.spotify.com/album/6quj8KJtq38WLpoyMOjIuL) | 2:55 | 2025-10-24 |  |
 | [Ngiziqambela Amanga](https://open.spotify.com/track/5p7xUspXer0dXKl38ct0T1) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY) | [Ngiziqambela Amanga](https://open.spotify.com/album/6Qy871pHYVFxNITYJeIA2z) | 3:00 | 2025-11-06 |  |

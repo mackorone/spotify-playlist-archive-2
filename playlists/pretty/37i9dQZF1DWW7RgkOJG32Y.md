@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,767 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,927 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
 | 50 | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/track/5A1Ksw7PzA6NhIYrebOFjo) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rather Be Here \(feat\. Jason Aldean\)](https://open.spotify.com/album/05ZehfKPl9DM7r29HDn3ra) | 3:17 |
 
-Snapshot ID: `AAAAAG1YNJwF7jog6Nc4RsfeTVAKKS6+`
+Snapshot ID: `AAAAAE+07eUVwmHSc5DIya8TvDl6Gloq`

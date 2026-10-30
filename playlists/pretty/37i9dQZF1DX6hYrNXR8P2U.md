@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Homogénica y Juana Rozas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,970 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,883 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Destruyendo Todo](https://open.spotify.com/track/739WvW13txYr3CvlH5wrqE) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Destruyendo Todo](https://open.spotify.com/album/5JMsKDQG38lrTDMThmtPwL) | 4:11 |
 | 100 | [Damocles](https://open.spotify.com/track/2K9oR2oCeawcGgOksTCU3C) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Damocles](https://open.spotify.com/album/76KYLBEzz9ZkQ2FgW5IqWj) | 3:46 |
 
-Snapshot ID: `AAAAALlpmIPYI0gTtElpeZVL3LEACrLN`
+Snapshot ID: `AAAAAAqzL5PZP8uVDNfsdgsOfVBF+lAA`

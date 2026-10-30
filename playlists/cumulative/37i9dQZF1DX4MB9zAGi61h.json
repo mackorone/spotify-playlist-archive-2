@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas (Mr. Lawrence)",
+        "url": "https://open.spotify.com/album/1Qa8o4tkuCc9uhm9TjShMC"
+      },
+      "artists": [
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Merry Christmas (Mr. Lawrence)",
+      "url": "https://open.spotify.com/track/0YnxRllgG67hW1PbZpPWiN"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0EoQqDYsCWiAOJRT6Wk5i5"
       },

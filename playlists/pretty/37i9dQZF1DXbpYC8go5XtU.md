@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,421 likes - 160 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,526 likes - 160 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 159 | [Morning Song Of The Forest](https://open.spotify.com/track/1hJuOC8J64RPYKxhX9374D) | [Sandman](https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a) | [Morning Song Of The Forest](https://open.spotify.com/album/7H02S49UW6E3BosVybXlEj) | 2:09 |
 | 160 | [No One Else Here](https://open.spotify.com/track/1onjVySYXYtvaYp0zwa3aH) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [No One Else Here](https://open.spotify.com/album/401RFElK9ACsFeoGtbYfvL) | 3:47 |
 
-Snapshot ID: `AAAAAAkRSwIZEnA0WGO7Krc7rP7PkMRg`
+Snapshot ID: `AAAAAKWC4Mr8wOWCnTa+DrUrGbuun+e6`

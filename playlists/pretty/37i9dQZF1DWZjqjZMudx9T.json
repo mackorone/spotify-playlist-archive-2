@@ -1,13 +1,33 @@
 {
-  "description": "De la Calle a la Cima con Dei V y Rauw Alejandro.",
-  "num_followers": 9824109,
+  "description": "De la Calle a la Cima con Daddy Yankee",
+  "num_followers": 9823105,
   "original_name": "MANSI\u00d3N REGGAET\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPzRcrgrQo+Li74pZCH/GauXX/Pr",
+  "snapshot_id": "AAAAAMFQmMun9O2sS7jCJRuVX/M4DTXI",
   "tracks": [
+    {
+      "added_at": "2026-10-30 03:00:14",
+      "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "SE VA",
+      "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
+    },
     {
       "added_at": "2026-10-15 23:01:05",
       "album": {
@@ -47,6 +67,26 @@
       "duration_ms": 189397,
       "name": "Alg\u00fan D\u00eda",
       "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
+    },
+    {
+      "added_at": "2026-10-30 03:00:14",
+      "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "PA' QUE LLORAR",
+      "url": "https://open.spotify.com/track/2MWLMgTRRnV5cZm9VVYyTh"
     },
     {
       "added_at": "2026-10-15 23:01:05",
@@ -173,6 +213,22 @@
       "url": "https://open.spotify.com/track/0P9yIskm1XlR0cKMLKLZT2"
     },
     {
+      "added_at": "2026-10-30 03:00:14",
+      "album": {
+        "name": "BRINCAITO",
+        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "BRINCAITO",
+      "url": "https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C"
+    },
+    {
       "added_at": "2026-10-15 23:01:05",
       "album": {
         "name": "Suzuki (from GTAVI: The Album)",
@@ -291,6 +347,26 @@
       "duration_ms": 175408,
       "name": "CONTRABANDO",
       "url": "https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL"
+    },
+    {
+      "added_at": "2026-10-30 03:00:14",
+      "album": {
+        "name": "PRENDO UNO",
+        "url": "https://open.spotify.com/album/2RCO3fh0mMZqRvAAbbVmBq"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        }
+      ],
+      "duration_ms": 163370,
+      "name": "PRENDO UNO",
+      "url": "https://open.spotify.com/track/0pDc8YllIbuUkzRJViR90a"
     },
     {
       "added_at": "2026-10-15 23:01:05",
@@ -615,26 +691,6 @@
     {
       "added_at": "2026-10-15 23:01:05",
       "album": {
-        "name": "PARTY EN CASA",
-        "url": "https://open.spotify.com/album/7kACKxVn0ZVY3DKAqlXwlu"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "PARTY EN CASA",
-      "url": "https://open.spotify.com/track/3OjutiddXU6Z5t3xirIYTd"
-    },
-    {
-      "added_at": "2026-10-15 23:01:05",
-      "album": {
         "name": "Cuando No Era Cantante (Remix)",
         "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
       },
@@ -723,26 +779,6 @@
     {
       "added_at": "2026-10-15 23:01:05",
       "album": {
-        "name": "LEER TUS PENSAMIENTOS",
-        "url": "https://open.spotify.com/album/5QRnjpY6S4sTHLioA3myWd"
-      },
-      "artists": [
-        {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 177368,
-      "name": "LEER TUS PENSAMIENTOS",
-      "url": "https://open.spotify.com/track/6zRAJ97ey0RjKa5uKkXfNA"
-    },
-    {
-      "added_at": "2026-10-15 23:01:05",
-      "album": {
         "name": "Casi Algo",
         "url": "https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb"
       },
@@ -779,34 +815,6 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
-    },
-    {
-      "added_at": "2026-10-15 23:01:05",
-      "album": {
-        "name": "Sin Hueso",
-        "url": "https://open.spotify.com/album/7JxWTdCQhDZR0NhzH8jyj8"
-      },
-      "artists": [
-        {
-          "name": "Perro Negro",
-          "url": "https://open.spotify.com/artist/2rIeXiq0ji7G9VbW9eaBpN"
-        },
-        {
-          "name": "TURY",
-          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Sin Hueso",
-      "url": "https://open.spotify.com/track/5sEXraPvJsyRHae9cNfNAW"
     },
     {
       "added_at": "2026-10-15 23:01:05",
@@ -1015,30 +1023,6 @@
       "duration_ms": 118666,
       "name": "Yo te conozco :):",
       "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
-    },
-    {
-      "added_at": "2026-10-15 23:01:05",
-      "album": {
-        "name": "TRINIDAD BENDITA",
-        "url": "https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Los Money Makers",
-          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
-        },
-        {
-          "name": "Prodmonja",
-          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
-        }
-      ],
-      "duration_ms": 214542,
-      "name": "NUEVA YORK",
-      "url": "https://open.spotify.com/track/5U3sC7aA5NxoMSeI1kmO2n"
     }
   ],
   "unique_name": "MANSI\u00d3N REGGAET\u00d3N",

@@ -1,12 +1,12 @@
 {
   "description": "Os funks mais \ud83d\udd11 do Brasil / Foto: MC Ryan SP, DJ Glenner, Nego Trufa, MC Meno K, MC Lele JP, MC Jvilla",
-  "num_followers": 6816969,
+  "num_followers": 6817953,
   "original_name": "Funk Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJJYxI8s07YLefH6BqLdsGqZ6l6x",
+  "snapshot_id": "AAAAAIH6koarXRHmTXGR/Qh9UYHmDbxU",
   "tracks": [
     {
       "added_at": "2026-10-21 16:46:14",
@@ -244,10 +244,6 @@
           "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
         },
         {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
           "name": "$CAM",
           "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
         },
@@ -256,16 +252,20 @@
           "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
         },
         {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
           "name": "Ian Durso",
           "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
         },
         {
-          "name": "DJ GB do Dick",
-          "url": "https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1"
-        },
-        {
           "name": "Dj Cabelinho de Caxias",
           "url": "https://open.spotify.com/artist/0ztADIB4LxyvhWRiFVsEzm"
+        },
+        {
+          "name": "DJ GB do Dick",
+          "url": "https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1"
         }
       ],
       "duration_ms": 103759,

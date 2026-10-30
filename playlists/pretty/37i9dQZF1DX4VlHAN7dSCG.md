@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: SONNIE 桑尼
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,452 likes - 77 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,449 likes - 77 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 76 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
 | 77 | [晚安台灣](https://open.spotify.com/track/5KPsY3b1af7O6v1vFeYx7d) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [進擊下半場](https://open.spotify.com/album/2PkESw7qmj3Vc4X2R4KSPy) | 3:35 |
 
-Snapshot ID: `AAAAAOhqlk4dUBvdQjLDU8mR71uGpOy/`
+Snapshot ID: `AAAAAGUY/0q4CYHvWu0RiCgMgggIYqk9`

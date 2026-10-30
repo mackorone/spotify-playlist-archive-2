@@ -4,7 +4,7 @@
 
 > 
 
-148 songs - 10 hr 25 min
+149 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Damocles](https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Damocles](https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw) | 4:24 | 2025-04-28 |  |
 | [Dance With The Devil](https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:47 | 2025-06-05 | 2026-02-06 |
 | [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 | 2026-03-30 |  |
+| [Deep](https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Motion](https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp) | 4:29 | 2026-10-29 |  |
 | [Defying Gravity \- Acappella](https://open.spotify.com/track/7w4Q5qczL9gCgIyXUJIzLK) | [Jared Halley](https://open.spotify.com/artist/7IvXFbdaAQEFyeB7SSEfCG) | [Defying Gravity \(Acappella\)](https://open.spotify.com/album/0cskxM3g6oJYcTqXTDFXgZ) | 3:08 | 2025-07-13 | 2025-12-28 |
 | [Dive In](https://open.spotify.com/track/6LhGzSZlIGxZpyIXXZn9ZV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:52 | 2026-03-30 | 2026-10-08 |
 | [DREAMCATCHER](https://open.spotify.com/track/37lsYieRthT9tMgprcmfiG) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [HORIZONS](https://open.spotify.com/album/0tJI0EBOHEcxov6V1ddIo7) | 4:53 | 2026-03-30 |  |

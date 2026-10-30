@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mu9Updr0R3.md) - [plain]
 
 > Hell hath no fury like these women.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAJpvgZsCG4xT5RfLzxwM9wezByo7`
+Snapshot ID: `AAAAAO11h4ei4S1m2OaNfSWfxBtf2W8U`

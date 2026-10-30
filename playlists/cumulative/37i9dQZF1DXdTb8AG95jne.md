@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Wonjin\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ADOY\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,410 songs - 3 day 13 hr 25 min
+1,412 songs - 3 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [0+0](https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:12 | 2025-09-25 | 2026-04-10 |
 | [0405 \(Four Five\)](https://open.spotify.com/track/13kL8jBBpIq40ypSWnaQTl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [0405 \(Four Five\)](https://open.spotify.com/album/1gek49hKp1pIDHDlHjudp6) | 2:43 | 2025-02-17 | 2025-05-27 |
 | [1 Chance](https://open.spotify.com/track/7hAbuARJpMuAnLeg9ORbwy) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [The Myth Of Sisyphus](https://open.spotify.com/album/5IjWMwBYlFaRoPKh4aFdX4) | 4:04 | 2025-11-06 | 2026-01-19 |
-| [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/5yS7TpHeZg96edy4KwTbKD) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 3:33 | 2026-08-07 |  |
+| [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/5yS7TpHeZg96edy4KwTbKD) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [To: Hana](https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9) | 3:33 | 2026-08-07 | 2026-10-30 |
 | [1\-4\-3](https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [I MET PEEJAY](https://open.spotify.com/album/31O9E8r4PYUr4VhRAI1zM8) | 3:28 | 2025-05-07 | 2025-09-12 |
 | [100%](https://open.spotify.com/track/7yeC6MIFL8uFJxxpi689Oh) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [23](https://open.spotify.com/album/09Rc98aH2Si36E5tRB0Rxg) | 3:11 | 2023-06-01 | 2023-06-15 |
 | [1009](https://open.spotify.com/track/4r5Qxskm1ofRU3VRzAyplg) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Hangeul](https://open.spotify.com/album/1TgWey8Gm4LOpHmzRc1sZp) | 4:03 | 2021-12-21 | 2022-04-21 |
@@ -91,7 +91,7 @@
 | [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 | 2025-05-23 |
 | [Around](https://open.spotify.com/track/0WGDTNPUH5ywFcatKn4DUo) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Around](https://open.spotify.com/album/6tICS1jK7fDG4e2Mmlcsw3) | 4:49 | 2022-04-12 | 2022-07-23 |
 | [As I Am](https://open.spotify.com/track/6n4R95MRGR3FmzxFtF89fm) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [As I Am](https://open.spotify.com/album/1YUP8BmPqjVWiS54AztFXi) | 3:54 | 2024-08-29 | 2024-09-04 |
-| [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 | 2026-05-29 |  |
+| [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 | 2026-05-29 | 2026-10-30 |
 | [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 | 2026-07-16 |  |
 | [Ashes](https://open.spotify.com/track/51ttgzyQ0SKKlC92bFK58v) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:56 | 2024-06-19 | 2024-07-02 |
 | [Asphalt](https://open.spotify.com/track/4QlN9AltbOXYUzuzTBkTWf) | [Mulsoo](https://open.spotify.com/artist/0Aq1PfguCBKu8zpQXobNJ5) | [Asphalt](https://open.spotify.com/album/2DJmpTc5osfVhqoTcLZJZn) | 3:16 | 2025-07-23 | 2025-08-01 |
@@ -136,7 +136,7 @@
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-01-27 | 2022-02-17 |
 | [Bike](https://open.spotify.com/track/3B763uTyzLSz398fi7FIYe) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:44 | 2021-12-21 | 2022-04-13 |
 | [Bipolar](https://open.spotify.com/track/1bjw61kkzTptDeXDDuHRpc) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [Bipolar](https://open.spotify.com/album/3w2W1dyClffhn7UQXNCaId) | 3:26 | 2024-12-19 | 2025-02-13 |
-| [Bird](https://open.spotify.com/track/2pTdkEv8ZdWlNN4xJ5OOZn) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Bird](https://open.spotify.com/album/6jnsgqAS2FS4ynlBC9XYvr) | 3:39 | 2026-06-12 |  |
+| [Bird](https://open.spotify.com/track/2pTdkEv8ZdWlNN4xJ5OOZn) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Bird](https://open.spotify.com/album/6jnsgqAS2FS4ynlBC9XYvr) | 3:39 | 2026-06-12 | 2026-10-30 |
 | [BLACK](https://open.spotify.com/track/5a4R9Amz7u9d6UHrAG2dda) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Space Project, Pt.1](https://open.spotify.com/album/1g43WE5cSvxO2vYHyUxbPq) | 3:07 | 2022-03-31 | 2022-04-19 |
 | [Black Night](https://open.spotify.com/track/2hpmUppgJrIfYCp14ly88K) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Black Night](https://open.spotify.com/album/2YPXYnjEo4EgUhQ3MyYaET) | 4:12 | 2026-02-16 | 2026-03-26 |
 | [Blinded](https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb) | 3:45 | 2023-07-17 | 2023-08-25 |
@@ -540,7 +540,7 @@
 | [Hypnagogia](https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Hypnagogia](https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx) | 4:07 | 2026-03-25 | 2026-05-08 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
 | [I am a Church.](https://open.spotify.com/track/3bcpltXdn1akCRZgDZIz0x) | [정세미](https://open.spotify.com/artist/2PlDWR4wokgOg5S5jhdh4Y) | [I am a Church.](https://open.spotify.com/album/47lVmpjFQlYyIYoHM17A4y) | 6:02 | 2022-03-09 | 2022-04-20 |
-| [I Can Do Anything 4u](https://open.spotify.com/track/5bqwVI8kbD0eihDggyIpji) | [Scorch](https://open.spotify.com/artist/4IKC1kFfDN1JZ7puoO0iNY) | [MAKI STRIKE](https://open.spotify.com/album/3DSBFAxShAyyLcqL6dbLmV) | 2:26 | 2026-06-29 |  |
+| [I Can Do Anything 4u](https://open.spotify.com/track/5bqwVI8kbD0eihDggyIpji) | [Scorch](https://open.spotify.com/artist/4IKC1kFfDN1JZ7puoO0iNY) | [MAKI STRIKE](https://open.spotify.com/album/3DSBFAxShAyyLcqL6dbLmV) | 2:26 | 2026-06-29 | 2026-10-30 |
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 | 2022-09-21 |
 | [I do not know why I am here](https://open.spotify.com/track/1J7MT5yYGxvYO51DFKK8Ti) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 4:28 | 2024-11-06 | 2024-11-21 |
 | [I Don't Give A](https://open.spotify.com/track/2NmY7mgMgXewWoQLoUQC7p) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Even Though We Are Not the Same 우리의 감정이 같을 순 없지만](https://open.spotify.com/album/3isdFTW14WhOxUdOhFMHqP) | 3:10 | 2022-03-31 | 2022-04-04 |
@@ -604,6 +604,7 @@
 | [Insomnia \(Feat\. YAYYOUNG\)](https://open.spotify.com/track/7tr6WuxHOWyWQl0W8YfBtq) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [Yayyoung](https://open.spotify.com/artist/1mefU9eSDsjTwOJK0gn7xZ) | [Dawn Defibrillation, Vol.1](https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7) | 3:30 | 2022-07-27 | 2025-07-29 |
 | [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 | 2021-12-21 | 2022-07-26 |
 | [Intentions](https://open.spotify.com/track/2TVS9pryzolWkSwPDp6yRe) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [yuenn](https://open.spotify.com/artist/1BhO0A1mRlN1f4XxG1ugU4) | [Intentions](https://open.spotify.com/album/7CfKlyjdwKrliAU59i1eNC) | 3:05 | 2022-03-31 | 2022-07-26 |
+| [IRIJEORI](https://open.spotify.com/track/2cAfb6rL7NcAm6DxxcOGRB) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [IRIJEORI](https://open.spotify.com/album/73pNxDixMMWRx4NzYes2Vh) | 3:36 | 2026-10-29 |  |
 | [Ironic](https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Ironic](https://open.spotify.com/album/222uC5p2bcGmcTh8at8Iv5) | 2:30 | 2025-04-09 | 2025-05-14 |
 | [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 | 2026-04-30 | 2026-09-09 |
 | [isle](https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [pigfrog](https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z) | 3:21 | 2021-12-21 | 2022-07-28 |
@@ -1214,6 +1215,7 @@
 | [Too slow](https://open.spotify.com/track/2ByfcUe3hEZDtPILSJG78x) | [Aiowell](https://open.spotify.com/artist/36I2SDkhk3uQ7JlFV47XGu) | [Too slow](https://open.spotify.com/album/6LHo1IYVIJ45AKP0YKdXgg) | 3:24 | 2025-08-04 | 2025-08-27 |
 | [Too Young, Too Unready](https://open.spotify.com/track/4SeEnAVNJI697SWzF7a5De) | [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Too Young, Too Unready](https://open.spotify.com/album/27z5P4br8IwrmAjvTG2Iqq) | 3:09 | 2026-05-11 | 2026-09-10 |
 | [Trace](https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Trace](https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H) | 4:21 | 2026-01-19 | 2026-02-14 |
+| [Traces of Tomorrow](https://open.spotify.com/track/6H6cDyr4etp1C2aPYD727x) | [STUDIO360 GROUP](https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO) | [Sweet Talk](https://open.spotify.com/album/4sepkdtqlApKr1ggKZQgMV) | 5:20 | 2026-10-29 |  |
 | [Train](https://open.spotify.com/track/2sC2MG2UB374acOg0Ltidg) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [AoB Compilation Album Vol.1 : Mutant](https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb) | 3:58 | 2025-01-30 | 2025-04-11 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [Tree \(Feat\. Eily\)](https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD) | [Tree](https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J) | 3:43 | 2021-12-21 | 2022-07-24 |
@@ -1376,7 +1378,7 @@
 | [Youth](https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq) | 6:01 | 2021-12-12 | 2022-07-29 |
 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 | 2024-04-19 |
 | [Youth](https://open.spotify.com/track/6clmN7YzxNFd8FR2O7yrtz) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Youth](https://open.spotify.com/album/5RmJvM2QkPYcgEMNAoqOLg) | 3:24 | 2026-01-14 | 2026-02-20 |
-| [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-06-12 |  |
+| [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-06-12 | 2026-10-30 |
 | [Yuranga](https://open.spotify.com/track/26oKdWzutBsJWGS3GIwXdr) | [Wonjin](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d) | [Mangsangrok](https://open.spotify.com/album/5EVU1kPrqbogDPEqTRRZsU) | 3:13 | 2026-10-20 |  |
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [각자의 밤 Night Night](https://open.spotify.com/track/3KZaT9PJu1rTrDYiK9OG0t) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [각자의 밤 Night Night](https://open.spotify.com/album/7s0Ari3SZ2pxqZtjWw57v9) | 3:45 | 2022-04-12 | 2022-04-21 |

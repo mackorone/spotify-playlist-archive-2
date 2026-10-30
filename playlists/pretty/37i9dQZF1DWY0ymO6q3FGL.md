@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ymO6q3FGL.md) - [plain]
 
 > All your favorite Minecraft tracks in one essential playlist – with music from every game, remixes, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,144 likes - 74 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,568 likes - 74 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ymO6q3FGL.md) - [plain]
 | 73 | [Closing](https://open.spotify.com/track/2bMq6QMOqpAAtfndP1pgwp) | [Camilo Forero](https://open.spotify.com/artist/3wYYTH23ffRvo8s9xb2K55), [Joseph S\. Djafar](https://open.spotify.com/artist/0eJM64RzvwVyOng2QwN8xd), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Live: 2023 \(Original Soundtrack\)](https://open.spotify.com/album/0OkCE6IzRDWHMLoGBMTOt0) | 1:07 |
 | 74 | [Mojam](https://open.spotify.com/track/1tw82dRYOooJGOfKH2nIVO) | [Peter Hont](https://open.spotify.com/artist/0DwspBK0fcKjKh8lkM4FSl), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft Dungeons: Echoing Void \(Original Game Soundtrack\)](https://open.spotify.com/album/05hVxgNhAkWnlEc8u1JqvG) | 1:40 |
 
-Snapshot ID: `AAAAAJN4fzJVMqrIqiQFOdK4+dgH3oqS`
+Snapshot ID: `AAAAALJVxhN9XwJbG0PYLLuXHNuanRAH`

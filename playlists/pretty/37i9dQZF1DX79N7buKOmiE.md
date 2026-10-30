@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. Cover: Nagy Bogi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,542 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,543 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 50 | [i was wrong](https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [i was wrong](https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05) | 2:58 |
 | 51 | [Álomtérkép](https://open.spotify.com/track/2p2Ih3zF34D5SNar4vVieM) | [Anami](https://open.spotify.com/artist/2MlFLIKxPyzmUXFAEo1B5N) | [Álomtérkép](https://open.spotify.com/album/2Roq4ps0ivUiDlRSBlFAiT) | 3:04 |
 
-Snapshot ID: `AAAAAKKFgAI5zBjzmFhDhclWtrqe9+Xc`
+Snapshot ID: `AAAAAJuoPkH+LTWGEsUHab42MAXrVQTn`

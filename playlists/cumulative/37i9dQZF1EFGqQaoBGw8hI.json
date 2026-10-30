@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -8346,6 +8346,24 @@
       "duration_ms": 286866,
       "name": "My Quicksand",
       "url": "https://open.spotify.com/track/5vp8VizhP11k9iAnTdiBCH"
+    },
+    {
+      "album": {
+        "name": "Net Als Iedereen (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4MPBforpm7ZveKwSZtCpgS"
+      },
+      "artists": [
+        {
+          "name": "Conny Vandenbos",
+          "url": "https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232600,
+      "name": "Net Als Iedereen",
+      "url": "https://open.spotify.com/track/1EVhlnA3fm7OANpxPVDrZu"
     },
     {
       "album": {

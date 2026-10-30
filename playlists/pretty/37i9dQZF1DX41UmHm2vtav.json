@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 509222,
+  "num_followers": 509259,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALxF7BzY/65Pl04jz+aqkxuVh01D",
+  "snapshot_id": "AAAAABE6gVqI0mfv8GeNQ2Xlt5oJHa3s",
   "tracks": [
     {
       "added_at": "2026-09-25 15:56:07",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
-      },
-      "artists": [
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 173842,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 173842,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Paradise (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
-      },
-      "artists": [
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "Paradise - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
         "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 191612,
       "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
       "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Paradise (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "Paradise - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
+        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Breno Rocha",
+          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
+        }
+      ],
+      "duration_ms": 158824,
+      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
+      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Baiana (With L-Gante)",
         "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
       },
@@ -1151,30 +1175,6 @@
       "duration_ms": 146250,
       "name": "Baiana - With L-Gante",
       "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
-        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Breno Rocha",
-          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
-        }
-      ],
-      "duration_ms": 158824,
-      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
-      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
     },
     {
       "added_at": "2026-09-25 15:56:07",

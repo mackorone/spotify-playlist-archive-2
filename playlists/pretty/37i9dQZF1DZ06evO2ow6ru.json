@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178718,
+  "num_followers": 178757,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAACI9Sd4SHGN/7btWL5wNks/",
+  "snapshot_id": "at/pgAAAAAA+hjGBWS1Soa/cBKaSX1Pw",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/3svtGm2OBGaKjnNXoNjcxk"
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+        "name": "Toxic Valentine",
+        "url": "https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 183167,
-      "name": "Glitter & Crimson",
-      "url": "https://open.spotify.com/track/4LpT15R6GqcKGjT92R8kfS"
+      "duration_ms": 172280,
+      "name": "Toxic Valentine",
+      "url": "https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Valentine",
-        "url": "https://open.spotify.com/album/67Cir5qRQdHrd3Zxwdk4FZ"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 172280,
-      "name": "Toxic Valentine",
-      "url": "https://open.spotify.com/track/0reDMKFg0nKaGUKqS3YUG0"
+      "duration_ms": 183167,
+      "name": "Glitter & Crimson",
+      "url": "https://open.spotify.com/track/4LpT15R6GqcKGjT92R8kfS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Ran\-D & Brennan Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,837 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,982 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Vibrate](https://open.spotify.com/track/1VyeF4Ll3DO6kSbx5cZN06) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Vibrate](https://open.spotify.com/album/72OHEFsOMrn5i48864Wssm) | 2:52 |
 | 100 | [Pump This Party](https://open.spotify.com/track/7EECoeGtYFyDHRTJ1qAlPD) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Pump This Party](https://open.spotify.com/album/5TSg4h8NEMvntbqkKfPURu) | 2:51 |
 
-Snapshot ID: `AAAAACsHoUiOjdpZCdVDDUW988sIDUz0`
+Snapshot ID: `AAAAAEm8uosjU/PEroktEF0KF0a8Dbmk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Listen to women at full volume! 香港EQUAL女聲力量！\(cover: CONSTANCE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,802 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,801 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [一早知道的情歌](https://open.spotify.com/track/4K4snJBIU7lLZIPXnL14Xx) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [一早知道的情歌](https://open.spotify.com/album/60FZ46pW3mW02hVtQ2Zs2l) | 3:40 |
 | 50 | [你的損失](https://open.spotify.com/track/286eXFCY7vNrWiuazONUNr) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [你的損失](https://open.spotify.com/album/4BP6YalAkcuONOuPAjXFis) | 3:58 |
 
-Snapshot ID: `AAAAAOv7/V9HKDvsBUXRqIc7GXuLCoU9`
+Snapshot ID: `AAAAAB17gf5YEgMkpP2WICjRd7zNqXsr`

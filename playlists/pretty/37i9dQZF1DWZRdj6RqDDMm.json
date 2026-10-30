@@ -1,13 +1,29 @@
 {
   "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: Sal Ly",
-  "num_followers": 61508,
+  "num_followers": 61584,
   "original_name": "Praise and Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALrfB1/SejCbDDUgeRd/fL4f6pCg",
+  "snapshot_id": "AAAAAIpC2Xc2RDNV5ew6DLV7SKBRpsGy",
   "tracks": [
+    {
+      "added_at": "2026-10-30 00:01:16",
+      "album": {
+        "name": "AFFIRMED",
+        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 155089,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
+    },
     {
       "added_at": "2025-03-14 00:01:27",
       "album": {

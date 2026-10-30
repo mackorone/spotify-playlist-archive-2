@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,870 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,867 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [Makina Time](https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Dj Konik](https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531) | [Makina Time](https://open.spotify.com/album/4E47K2cvE4bHOGqE0FLDN5) | 2:10 |
 | 50 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 
-Snapshot ID: `AAAAALn8sEUHyc7udL6c2Gl5Smh5Mj0t`
+Snapshot ID: `AAAAACXhGLB1qzBgo2lTB9dNcGkNAJ00`

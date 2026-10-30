@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-209 songs - 9 hr 55 min
+210 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [GENESIS FM \(feat\. Mandal\)](https://open.spotify.com/track/5Gboo32phcv30xl7fOvBjb) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Mandal](https://open.spotify.com/artist/7ipArBFvalH1AzpyHkQI06) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 0:47 | 2026-05-28 |  |
 | [Give It To You](https://open.spotify.com/track/1zxyqqtI2FMY0vPcjZ33Q1) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:10 | 2025-06-01 |  |
 | [God Like](https://open.spotify.com/track/4RC4WP3J7z9U56uiDWqqKX) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:12 | 2025-06-01 |  |
+| [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 | 2026-10-29 |  |
 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 | 2025-06-01 |  |
 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 | 2025-06-01 |  |
 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2025-06-01 |  |
@@ -212,7 +213,7 @@
 | [What Would Pluto Do](https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:02 | 2025-06-01 |  |
 | [what’s happenin? \(feat\. Ledbyher\)](https://open.spotify.com/track/6n6Ms6N7lYYSc4TQA8BApx) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [GENESIS FM](https://open.spotify.com/album/6ihOSYO8SFWGia9nClUPXe) | 2:13 | 2026-08-18 | 2026-08-21 |
 | [what’s happenin? \(feat\. Ledbyher\)](https://open.spotify.com/track/7lCxAYYoTG7fpFnmti9Kpq) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:13 | 2026-05-28 |  |
-| [Where You Been \(feat\. Len\)](https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Where You Been \(feat\. Len\)](https://open.spotify.com/album/3IHvjKxvKVbXLMzGNbmLa1) | 2:26 | 2025-07-09 |  |
+| [Where You Been \(feat\. Len\)](https://open.spotify.com/track/0XvmJxkm6NCCOM5PYgYBSs) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Len Lucci](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Where You Been \(feat\. Len\)](https://open.spotify.com/album/3IHvjKxvKVbXLMzGNbmLa1) | 2:26 | 2025-07-09 |  |
 | [Who Wit Me](https://open.spotify.com/track/6SlEbe7ae9NBK6QjM6tR0l) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2025-06-01 |  |
 | [Wild](https://open.spotify.com/track/0HQkNYuExxqtYMHfPBexOR) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Wild](https://open.spotify.com/album/6RQZUVur7VDCgdFQ7rRUph) | 2:36 | 2025-06-01 |  |
 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 | 2025-06-01 |  |

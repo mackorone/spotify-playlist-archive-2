@@ -4,7 +4,7 @@
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-136 songs - 12 hr 10 min
+137 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Aconcagua](https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY) | 3:40 | 2022-09-16 | 2025-11-29 |
 | [Aguamarina](https://open.spotify.com/track/38oA0SevVbUsoZCBDEWcvb) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:02 | 2023-01-14 | 2025-06-11 |
 | [Aguamarina](https://open.spotify.com/track/5cN62o6B0GORay2k1tFsDT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:02 | 2025-11-30 |  |
+| [Alegría de Mi Amor](https://open.spotify.com/track/15gW48rnRTC2ZjGPM6Zwf9) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0) | 3:17 | 2026-10-30 |  |
 | [Alumno](https://open.spotify.com/track/7oDgG2GrSs6xEMHGEKVXeF) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Mamalluca: Obras Sinfónicas, Vol\. 1](https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP) | 1:23 | 2023-02-14 | 2023-03-18 |
 | [Amor Americano](https://open.spotify.com/track/2devOvQdt2r3lLOWu92O4x) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX) | 5:28 | 2022-09-16 | 2025-11-27 |
 | [Amor Americano](https://open.spotify.com/track/6jjhtVX8EMP7GfxOwWV7SS) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 5:28 | 2025-11-27 |  |
@@ -132,7 +133,7 @@
 | [Valparaíso \- Versión 1996](https://open.spotify.com/track/1SwVz4P6vzrjS7ce3N860c) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 4:00 | 2025-11-29 |  |
 | [Valparaíso \- Versión 1996](https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Congreso](https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 4:00 | 2022-09-16 | 2025-11-29 |
 | [Vamos por Ancho Camino](https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 3:12 | 2023-12-25 | 2025-11-30 |
-| [Vamos por Ancho Camino](https://open.spotify.com/track/2OCQXBHuJ8ZXgM2JAmlC6o) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Tributo a Víctor Jara](https://open.spotify.com/album/1lhuCHXgkuqYyRe6eJuVWb) | 3:15 | 2026-10-18 |  |
+| [Vamos por Ancho Camino](https://open.spotify.com/track/2OCQXBHuJ8ZXgM2JAmlC6o) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Tributo a Víctor Jara](https://open.spotify.com/album/1lhuCHXgkuqYyRe6eJuVWb) | 3:15 | 2026-10-18 | 2026-10-30 |
 | [Verguenza Ajena](https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4) | [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy), [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Macha y el Bloque Depresivo](https://open.spotify.com/album/0xgXqrSz4tx4uapKr46R5J) | 2:38 | 2024-08-03 | 2025-01-19 |
 | [Vergüenza Ajena](https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp) | 2:50 | 2022-09-16 | 2025-11-29 |
 | [Vergüenza Ajena](https://open.spotify.com/track/6ZwYH70Fvk8sEFG3lah8ud) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:50 | 2025-11-29 |  |

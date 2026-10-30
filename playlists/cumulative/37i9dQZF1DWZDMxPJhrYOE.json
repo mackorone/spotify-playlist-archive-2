@@ -6685,6 +6685,24 @@
     },
     {
       "album": {
+        "name": "En Ild Der Altid Br\u00e6nder",
+        "url": "https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "En Ild Der Altid Br\u00e6nder",
+      "url": "https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7"
+    },
+    {
+      "album": {
         "name": "En Mildest Talt Elendig Samtale",
         "url": "https://open.spotify.com/album/49j3gmWxLB6AlHJtqsixOf"
       },
@@ -14182,7 +14200,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 152201,
       "name": "Lighter (feat. Gilli)",
       "url": "https://open.spotify.com/track/1VcwyFJ80YEgfmKYwEtQLJ"
@@ -14302,7 +14320,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 248372,
       "name": "Little Little Voice",
       "url": "https://open.spotify.com/track/3a2vkg8KubjU2Nrkm8GgdZ"
@@ -15002,6 +15020,24 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "album": {
+        "name": "Lucky Pige",
+        "url": "https://open.spotify.com/album/798E42cNi2Ze2SmURryhui"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132061,
+      "name": "Lucky Pige",
+      "url": "https://open.spotify.com/track/6e6dTvI52uvPCELtaEyCOc"
     },
     {
       "album": {
@@ -21977,6 +22013,24 @@
     },
     {
       "album": {
+        "name": "Supernar",
+        "url": "https://open.spotify.com/album/1i2OXqXBPllKaX6uZJJojH"
+      },
+      "artists": [
+        {
+          "name": "Burhan G",
+          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158598,
+      "name": "Supernar",
+      "url": "https://open.spotify.com/track/1BurSvmpyb1lx32jmnuUBe"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/5vbJhFQh6zShDRuWIlaFbg"
       },
@@ -25616,7 +25670,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 186360,
       "name": "When He\u2019s Gone",
       "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"

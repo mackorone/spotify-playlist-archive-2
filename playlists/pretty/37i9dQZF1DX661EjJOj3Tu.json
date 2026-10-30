@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513279,
+  "num_followers": 513265,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPwDNMxbkwAJlauIaQEYspr5JSNo",
+  "snapshot_id": "AAAAACFNetj+DY91bZTrUrVOpLShX9Yy",
   "tracks": [
     {
       "added_at": "2025-08-07 16:57:48",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 193342,
+      "name": "Conga a la Americana",
+      "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 270066,
       "name": "Chopin: Prelude In E-Minor",
       "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "Conga a la Americana",
-      "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 321420,
-      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
       "artists": [
         {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
+      "duration_ms": 321420,
+      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -867,22 +851,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
       },
       "artists": [
         {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
         }
       ],
-      "duration_ms": 271013,
-      "name": "Ciudadano",
-      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -899,6 +879,26 @@
       "duration_ms": 406400,
       "name": "Sweet Cherry Pie",
       "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "Ciudadano",
+      "url": "https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Asi de Simple",
         "url": "https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        }
+      ],
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 263515,
       "name": "Agua Fresca",
       "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 349165,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1059,6 +1043,38 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 349165,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Tr\u00edo Oriental",
         "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 130346,
       "name": "La Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "A Arte de Viver",
         "url": "https://open.spotify.com/album/5EUo3iiVNR2uCHIgeyHeay"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Broasted or Fried",
         "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 235543,
       "name": "Broasted or Fried",
       "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "City of Dreams",
+        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
+      },
+      "artists": [
+        {
+          "name": "Chico Pinheiro",
+          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Estrada Real",
+      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1219,22 +1235,6 @@
       "duration_ms": 240733,
       "name": "Merengue Today",
       "url": "https://open.spotify.com/track/0G1w6A1w7LVJXjyOZoxBgd"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "City of Dreams",
-        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
-      },
-      "artists": [
-        {
-          "name": "Chico Pinheiro",
-          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Estrada Real",
-      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Todas Las Voces",
-        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
-      },
-      "artists": [
-        {
-          "name": "Eva Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "S\u00f3lo Le Pido a Dios",
-      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1320,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1339,6 +1323,22 @@
       "duration_ms": 440600,
       "name": "El Lider",
       "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Todas Las Voces",
+        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
+      },
+      "artists": [
+        {
+          "name": "Eva Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "S\u00f3lo Le Pido a Dios",
+      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
-      },
-      "artists": [
-        {
-          "name": "Ray Mantilla",
-          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Martinez",
-      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1400,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+      "duration_ms": 432026,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "El Suelo Mio",
-        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
       },
       "artists": [
         {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+          "name": "Ray Mantilla",
+          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
         }
       ],
-      "duration_ms": 209760,
-      "name": "El Suelo Mio",
-      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
+      "duration_ms": 245866,
+      "name": "Martinez",
+      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1451,6 +1435,22 @@
       "duration_ms": 408920,
       "name": "Salt Peanuts! (Mani Salado)",
       "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "El Suelo Mio",
+        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "El Suelo Mio",
+      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Expectativas",
-        "url": "https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Valera",
-          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
-        },
-        {
-          "name": "New Cuban Express",
-          "url": "https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Chamber Timba",
-      "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Alegria",
         "url": "https://open.spotify.com/album/00Omo2fyZ3yWOPuHYJhU8U"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 397860,
       "name": "Salsa, Jazz y Choke",
       "url": "https://open.spotify.com/track/6FswmOfZgnEha9XVPCTNnE"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Valera",
+          "url": "https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8"
+        },
+        {
+          "name": "New Cuban Express",
+          "url": "https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Chamber Timba",
+      "url": "https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Tu, la Tierra",
-        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
+        "name": "The Latin Side of Horace Silver",
+        "url": "https://open.spotify.com/album/6Plg1VTOVvb6kt2Gxcd7Ix"
       },
       "artists": [
         {
-          "name": "Alvaro Rojas",
-          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
-        },
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+          "name": "Conrad Herwig",
+          "url": "https://open.spotify.com/artist/7xHUfrXaMkL3lRpJxO6QdI"
         }
       ],
-      "duration_ms": 237186,
-      "name": "Tu, la Tierra",
-      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
+      "duration_ms": 458693,
+      "name": "Nica's Dream",
+      "url": "https://open.spotify.com/track/1i752YT3Ti4CbuZtMpmyGH"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1679,22 +1675,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Latin Side of Horace Silver",
-        "url": "https://open.spotify.com/album/6Plg1VTOVvb6kt2Gxcd7Ix"
-      },
-      "artists": [
-        {
-          "name": "Conrad Herwig",
-          "url": "https://open.spotify.com/artist/7xHUfrXaMkL3lRpJxO6QdI"
-        }
-      ],
-      "duration_ms": 458693,
-      "name": "Nica's Dream",
-      "url": "https://open.spotify.com/track/1i752YT3Ti4CbuZtMpmyGH"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Bruma: Celebrating Milton Nascimento",
         "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
       },
@@ -1711,18 +1691,42 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Border-Free",
-        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
+        "name": "Tu, la Tierra",
+        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
       },
       "artists": [
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Alvaro Rojas",
+          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
+        },
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
         }
       ],
-      "duration_ms": 549366,
-      "name": "Congadanza",
-      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
+      "duration_ms": 237186,
+      "name": "Tu, la Tierra",
+      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
+      },
+      "artists": [
+        {
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
+        }
+      ],
+      "duration_ms": 345370,
+      "name": "El Regreso (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1743,6 +1747,22 @@
       "duration_ms": 354049,
       "name": "Blue Hughes",
       "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Border-Free",
+        "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 549366,
+      "name": "Congadanza",
+      "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1792,29 +1812,9 @@
           "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
         }
       ],
-      "duration_ms": 345370,
-      "name": "El Regreso (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "La Receta",
-        "url": "https://open.spotify.com/album/1qPkHtWlPt8T0CphqNMlz6"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Grau",
-          "url": "https://open.spotify.com/artist/0kHkqT79Moy6COGdjZdiLI"
-        },
-        {
-          "name": "Plural",
-          "url": "https://open.spotify.com/artist/6kTEyy1WTvIbF0HRfX2uIW"
-        }
-      ],
-      "duration_ms": 422560,
-      "name": "Cacao",
-      "url": "https://open.spotify.com/track/6XfWGC5eipLnGRUY47Rvom"
+      "duration_ms": 350062,
+      "name": "Last Happy Hour (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx"
     },
     {
       "added_at": "2025-08-07 16:57:48",

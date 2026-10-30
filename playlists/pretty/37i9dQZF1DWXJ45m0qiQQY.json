@@ -1,12 +1,12 @@
 {
   "description": "chilling beats for haunted halloween vibes \ud83d\udc7b \ud83c\udf83",
-  "num_followers": 42634,
+  "num_followers": 42918,
   "original_name": "spooky halloween lofi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN9Hi8zc5c/BvKnN+ogjJ1/i0QJU",
+  "snapshot_id": "AAAAAIdDr7m31acXPio1NlqK1haU8q0g",
   "tracks": [
     {
       "added_at": "2026-10-01 12:49:12",
@@ -191,38 +191,6 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "black cat naps",
-        "url": "https://open.spotify.com/album/2OBO4R1O59YIYiPksgxd1G"
-      },
-      "artists": [
-        {
-          "name": "lst drm",
-          "url": "https://open.spotify.com/artist/0qH83ejjkT1p7O0uycoATV"
-        }
-      ],
-      "duration_ms": 107060,
-      "name": "black cat naps",
-      "url": "https://open.spotify.com/track/78pHQAmOmZtoU7c5UqShq8"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Hell O'ween",
-        "url": "https://open.spotify.com/album/0Qv2P7Hz7w6VoMjTrxZqiJ"
-      },
-      "artists": [
-        {
-          "name": "sellar",
-          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Hell O'ween",
-      "url": "https://open.spotify.com/track/4WItFQMwYTYvXQR6iG80aL"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
         "name": "Witches Brew",
         "url": "https://open.spotify.com/album/5uOYaPnZrslcxH1v26FOgH"
       },
@@ -347,18 +315,18 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "frightnight",
-        "url": "https://open.spotify.com/album/4wZ6nlG4TlSwMIak2WUDWt"
+        "name": "black cat naps",
+        "url": "https://open.spotify.com/album/2OBO4R1O59YIYiPksgxd1G"
       },
       "artists": [
         {
-          "name": "Rustique Beats",
-          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+          "name": "lst drm",
+          "url": "https://open.spotify.com/artist/0qH83ejjkT1p7O0uycoATV"
         }
       ],
-      "duration_ms": 125163,
-      "name": "frightnight",
-      "url": "https://open.spotify.com/track/4dgrF2RhBqxHFYb9Jv7ftk"
+      "duration_ms": 107060,
+      "name": "black cat naps",
+      "url": "https://open.spotify.com/track/78pHQAmOmZtoU7c5UqShq8"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -407,6 +375,22 @@
       "duration_ms": 132000,
       "name": "Pumpkin Smile",
       "url": "https://open.spotify.com/track/7rfXRRLgpoT7nyqYdiLimv"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
+        "name": "Hell O'ween",
+        "url": "https://open.spotify.com/album/0Qv2P7Hz7w6VoMjTrxZqiJ"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Hell O'ween",
+      "url": "https://open.spotify.com/track/4WItFQMwYTYvXQR6iG80aL"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -511,6 +495,22 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
+        "name": "frightnight",
+        "url": "https://open.spotify.com/album/4wZ6nlG4TlSwMIak2WUDWt"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "duration_ms": 125163,
+      "name": "frightnight",
+      "url": "https://open.spotify.com/track/4dgrF2RhBqxHFYb9Jv7ftk"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
         "name": "Secret of the corner",
         "url": "https://open.spotify.com/album/7IluC8BcjIMDCE83QLJVsQ"
       },
@@ -539,30 +539,6 @@
       "duration_ms": 112250,
       "name": "Pumking Stare",
       "url": "https://open.spotify.com/track/33KU7oXywjiIT7WGcyngKG"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Halloween Vibes Vol.3",
-        "url": "https://open.spotify.com/album/37PmVSez3koGTLr2ZmUgvJ"
-      },
-      "artists": [
-        {
-          "name": "softy",
-          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
-        },
-        {
-          "name": "Nadav Cohen",
-          "url": "https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S"
-        },
-        {
-          "name": "Spooky Cat",
-          "url": "https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Lonely Ghost",
-      "url": "https://open.spotify.com/track/6k1V6tJEyaOuKc6S0KE1gn"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -719,6 +695,30 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
+        "name": "Halloween Vibes Vol.3",
+        "url": "https://open.spotify.com/album/37PmVSez3koGTLr2ZmUgvJ"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "name": "Nadav Cohen",
+          "url": "https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S"
+        },
+        {
+          "name": "Spooky Cat",
+          "url": "https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Lonely Ghost",
+      "url": "https://open.spotify.com/track/6k1V6tJEyaOuKc6S0KE1gn"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
         "name": "A Symphony of Screams Vol.1",
         "url": "https://open.spotify.com/album/1Un1x4VOQ8qdQ6UevBkuHS"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 119076,
       "name": "Wailing",
       "url": "https://open.spotify.com/track/1UaoMzG798AAqZKzRpsXEm"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Fantomatic",
-        "url": "https://open.spotify.com/album/0ZaMqVd0mgo5Cz3XZASqI9"
-      },
-      "artists": [
-        {
-          "name": "Corse Cane",
-          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Fantomatic",
-      "url": "https://open.spotify.com/track/5PaGXKjXiSh1zqHIYk96DP"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "danse macabre (lofi dance of death)",
-        "url": "https://open.spotify.com/album/37kt6mjmQUpo99FYoWGBYu"
+        "name": "Fantomatic",
+        "url": "https://open.spotify.com/album/0ZaMqVd0mgo5Cz3XZASqI9"
       },
       "artists": [
         {
-          "name": "d_lab",
-          "url": "https://open.spotify.com/artist/53RFVNVMxFNuttWgYSZ483"
+          "name": "Corse Cane",
+          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
         }
       ],
-      "duration_ms": 120352,
-      "name": "danse macabre (lofi dance of death)",
-      "url": "https://open.spotify.com/track/3wLEddhwsyMpHHBv51exFb"
+      "duration_ms": 128571,
+      "name": "Fantomatic",
+      "url": "https://open.spotify.com/track/5PaGXKjXiSh1zqHIYk96DP"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
+        "name": "danse macabre (lofi dance of death)",
+        "url": "https://open.spotify.com/album/37kt6mjmQUpo99FYoWGBYu"
+      },
+      "artists": [
+        {
+          "name": "d_lab",
+          "url": "https://open.spotify.com/artist/53RFVNVMxFNuttWgYSZ483"
+        }
+      ],
+      "duration_ms": 120352,
+      "name": "danse macabre (lofi dance of death)",
+      "url": "https://open.spotify.com/track/3wLEddhwsyMpHHBv51exFb"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
         "name": "A Lofi Chill Halloween",
         "url": "https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U"
       },
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "Graveyard Chill",
-        "url": "https://open.spotify.com/album/13B5yiBoAuooEB9TLgrLsS"
-      },
-      "artists": [
-        {
-          "name": "Odd Shapes",
-          "url": "https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Graveyard Chill",
-      "url": "https://open.spotify.com/track/6aKK9PvHTyZRlF1UYc0iK3"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Ghost House",
-        "url": "https://open.spotify.com/album/0R0S2vTIo4o4iNb72ku9Xe"
-      },
-      "artists": [
-        {
-          "name": "Fya Playce",
-          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
-        }
-      ],
-      "duration_ms": 126562,
-      "name": "Ghost House",
-      "url": "https://open.spotify.com/track/0d1nnvDcYkrRndfg36W4Rd"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
         "name": "Skeleton Dance",
         "url": "https://open.spotify.com/album/1yI9tGQQVSFNETjeyewUbn"
       },
@@ -1311,26 +1279,6 @@
       "duration_ms": 113684,
       "name": "In The Gloomy Forest",
       "url": "https://open.spotify.com/track/6kLytq0zfejXvhFrtHo9il"
-    },
-    {
-      "added_at": "2026-10-01 12:49:12",
-      "album": {
-        "name": "Pumpkin King",
-        "url": "https://open.spotify.com/album/0hirMqXXZXNfzv0mrww4Lx"
-      },
-      "artists": [
-        {
-          "name": "Jason Masoud",
-          "url": "https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1"
-        },
-        {
-          "name": "irons",
-          "url": "https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn"
-        }
-      ],
-      "duration_ms": 105810,
-      "name": "Pumpkin King",
-      "url": "https://open.spotify.com/track/0D5KbGaEqpGfeTAhBma69a"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -1495,6 +1443,22 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
+        "name": "Graveyard Chill",
+        "url": "https://open.spotify.com/album/13B5yiBoAuooEB9TLgrLsS"
+      },
+      "artists": [
+        {
+          "name": "Odd Shapes",
+          "url": "https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Graveyard Chill",
+      "url": "https://open.spotify.com/track/6aKK9PvHTyZRlF1UYc0iK3"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
         "name": "Sweet Nightmares",
         "url": "https://open.spotify.com/album/3m1AGYLUPEYNR45TdI7gZV"
       },
@@ -1543,18 +1507,18 @@
     {
       "added_at": "2026-10-01 12:49:12",
       "album": {
-        "name": "Lofi Girl - Halloween 2023",
-        "url": "https://open.spotify.com/album/6fXaPZhZZNChE2bmUeXj97"
+        "name": "Ghost House",
+        "url": "https://open.spotify.com/album/0R0S2vTIo4o4iNb72ku9Xe"
       },
       "artists": [
         {
-          "name": "Epektase",
-          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
         }
       ],
-      "duration_ms": 145822,
-      "name": "Down In The Crypt",
-      "url": "https://open.spotify.com/track/2LOnBJ9a4ux0gmZKqFgM6U"
+      "duration_ms": 126562,
+      "name": "Ghost House",
+      "url": "https://open.spotify.com/track/0d1nnvDcYkrRndfg36W4Rd"
     },
     {
       "added_at": "2026-10-01 12:49:12",
@@ -1619,6 +1583,42 @@
       "duration_ms": 82879,
       "name": "Spooks",
       "url": "https://open.spotify.com/track/5yIgOWI9g3xpbiJy0Lw8UL"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
+        "name": "Lofi Girl - Halloween 2023",
+        "url": "https://open.spotify.com/album/6fXaPZhZZNChE2bmUeXj97"
+      },
+      "artists": [
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        }
+      ],
+      "duration_ms": 145822,
+      "name": "Down In The Crypt",
+      "url": "https://open.spotify.com/track/2LOnBJ9a4ux0gmZKqFgM6U"
+    },
+    {
+      "added_at": "2026-10-01 12:49:12",
+      "album": {
+        "name": "Pumpkin King",
+        "url": "https://open.spotify.com/album/0hirMqXXZXNfzv0mrww4Lx"
+      },
+      "artists": [
+        {
+          "name": "Jason Masoud",
+          "url": "https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1"
+        },
+        {
+          "name": "irons",
+          "url": "https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn"
+        }
+      ],
+      "duration_ms": 105810,
+      "name": "Pumpkin King",
+      "url": "https://open.spotify.com/track/0D5KbGaEqpGfeTAhBma69a"
     },
     {
       "added_at": "2026-10-01 12:49:12",

@@ -4,7 +4,7 @@
 
 > Stank face activated\. Cover: Michael Sparks
 
-1,076 songs - 2 day 9 hr 46 min
+1,077 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [BADDERS](https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [BADDERS](https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv) | 2:47 | 2023-08-18 | 2024-12-07 |
 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 | 2022-08-05 | 2022-10-29 |
 | [Badman](https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Badman](https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot) | 2:39 | 2022-03-18 | 2022-06-25 |
+| [Badman](https://open.spotify.com/track/3cu4hQU8e9gBFFnqrorjtO) | [Turbine](https://open.spotify.com/artist/6dgkvmzy1qR5cK7ueTM47M), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [Clinton Sly](https://open.spotify.com/artist/6hFygpQd0XtCwoZEePfC47) | [Badman](https://open.spotify.com/album/5fKjpciLvybSZd9X8VVSpk) | 2:40 | 2026-10-30 |  |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-29 | 2022-12-03 |
 | [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 | 2023-01-21 |
 | [BANANAS](https://open.spotify.com/track/4IbXy5bvyH61BScvaOKQbj) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Usaybflow](https://open.spotify.com/artist/4lZyQiNEwbXNpy5WBG8P9i), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [BANANAS](https://open.spotify.com/album/6GxPLR1yXK0kbAB2L9DIDv) | 1:58 | 2025-06-06 | 2026-02-08 |
@@ -244,7 +245,7 @@
 | [Disguise](https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Disguise](https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc) | 3:13 | 2025-12-12 | 2026-05-23 |
 | [Distant Dreams](https://open.spotify.com/track/3FqKWnQVMGykKboxswiRsg) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Distant Dreams](https://open.spotify.com/album/0Q4XLAyugN6E1YqLwxAFTp) | 3:19 | 2025-06-27 | 2025-12-14 |
 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 | 2023-06-05 | 2025-08-30 |
-| [DNA](https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [DNA](https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO) | 3:16 | 2026-02-20 |  |
+| [DNA](https://open.spotify.com/track/5BJ0J3mha2aZllDzAgkFmD) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [DNA](https://open.spotify.com/album/3OHhAOjcxEByeAHOHwwGxO) | 3:16 | 2026-02-20 | 2026-10-30 |
 | [Do It](https://open.spotify.com/track/6T2WypdR5DaUFruMrXiYAE) | [Ardynt](https://open.spotify.com/artist/2O07lXVVsfff8gddb1unGN) | [Do It](https://open.spotify.com/album/5TtpRRxXMsLHHj1FcAdCTG) | 3:01 | 2026-10-02 |  |
 | [Do My Thing](https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Do My Thing](https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu) | 3:02 | 2023-07-14 | 2025-01-11 |
 | [Dola re Dola](https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Dola re Dola](https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le) | 2:05 | 2024-02-16 | 2024-06-20 |

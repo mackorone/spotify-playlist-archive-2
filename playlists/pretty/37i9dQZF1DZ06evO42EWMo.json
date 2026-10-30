@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Winehouse. The essential tracks, all in one playlist.",
-  "num_followers": 1210458,
+  "num_followers": 1210546,
   "original_name": "This Is Amy Winehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABKqnCZ+E5lLZiFq+/xBNwo",
+  "snapshot_id": "at/pgAAAAADNZvd3bSjuzsZycaRLz3Vs",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 241293,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuckery (Me & Mr Jones - Original Demo)",
-        "url": "https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 151840,
-      "name": "Fuckery - Me & Mr Jones / Original Demo",
-      "url": "https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX"
     },
     {
       "added_at": null,
@@ -207,38 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "To Know Him Is To Love Him - Live For NapsterLive, London, UK / 2006",
-      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Half Time",
-      "url": "https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -259,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
       },
       "artists": [
         {
@@ -268,9 +220,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Rehab",
-      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
+      "duration_ms": 230853,
+      "name": "Half Time",
+      "url": "https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ"
     },
     {
       "added_at": null,
@@ -284,15 +236,15 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 153413,
-      "name": "You're Wondering Now",
-      "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"
+      "duration_ms": 145066,
+      "name": "To Know Him Is To Love Him - Live For NapsterLive, London, UK / 2006",
+      "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
       "artists": [
         {
@@ -300,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 248093,
-      "name": "Tears Dry - Original Version",
-      "url": "https://open.spotify.com/track/0IEGGuRHP8ylbCXausRF9p"
+      "duration_ms": 213760,
+      "name": "Rehab",
+      "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
     },
     {
       "added_at": null,
@@ -323,6 +275,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Tears Dry - Original Version",
+      "url": "https://open.spotify.com/track/0IEGGuRHP8ylbCXausRF9p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "You're Wondering Now",
+      "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -335,6 +319,38 @@
       "duration_ms": 154160,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frank",
+        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 236504,
+      "name": "Mr Magic (Through The Smoke)",
+      "url": "https://open.spotify.com/track/5ZTZL5UlpF3UZ8H7BhoI9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq"
     },
     {
       "added_at": null,
@@ -363,38 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank",
-        "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 236504,
-      "name": "Mr Magic (Through The Smoke)",
-      "url": "https://open.spotify.com/track/5ZTZL5UlpF3UZ8H7BhoI9N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -411,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
+      "duration_ms": 128933,
+      "name": "(There Is) No Greater Love",
+      "url": "https://open.spotify.com/track/1jLNxsmGsEQAM4CUkHemfS"
     },
     {
       "added_at": null,
@@ -447,6 +431,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuckery (Me & Mr Jones - Original Demo)",
+        "url": "https://open.spotify.com/album/4XW0oFx8MjEVQ42KzvOosp"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "Fuckery - Me & Mr Jones / Original Demo",
+      "url": "https://open.spotify.com/track/1XzafONBlJpskpZhO3QgZX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 128933,
-      "name": "(There Is) No Greater Love",
-      "url": "https://open.spotify.com/track/1jLNxsmGsEQAM4CUkHemfS"
+      "duration_ms": 301000,
+      "name": "Help Yourself",
+      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 175986,
       "name": "We're Still Friends - Live At The Union Chapel",
       "url": "https://open.spotify.com/track/1MdMYZN0VnpjTy6nBCM2Qf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frank (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Intro / Stronger Than Me",
+      "url": "https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0"
     },
     {
       "added_at": null,
@@ -567,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Do Me Good",
+      "url": "https://open.spotify.com/track/3EwxNAUKvuH5pmsTtXbo4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -576,29 +608,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 234106,
-      "name": "Intro / Stronger Than Me",
-      "url": "https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Is Good",
-        "url": "https://open.spotify.com/album/4tpG2K3nqcrFNGBikX3dc0"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 356466,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/4K7jd5Wm09iF9xum3gfExb"
+      "duration_ms": 268306,
+      "name": "Someone To Watch Over Me - Demo",
+      "url": "https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW"
     },
     {
       "added_at": null,
@@ -639,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frank (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
+        "name": "Life Is Good",
+        "url": "https://open.spotify.com/album/4tpG2K3nqcrFNGBikX3dc0"
       },
       "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
         {
           "name": "Amy Winehouse",
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 268306,
-      "name": "Someone To Watch Over Me - Demo",
-      "url": "https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW"
+      "duration_ms": 356466,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/4K7jd5Wm09iF9xum3gfExb"
     },
     {
       "added_at": null,
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Do Me Good",
-      "url": "https://open.spotify.com/track/3EwxNAUKvuH5pmsTtXbo4Z"
+      "duration_ms": 275640,
+      "name": "Close To The Front",
+      "url": "https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Close To The Front",
-      "url": "https://open.spotify.com/track/5pdIwZWegOJLUCGi2Uo6XP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The BBC",
         "url": "https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 154680,
       "name": "Lullaby Of Birdland - Live From The Stables / 2004",
       "url": "https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 193586,
+      "name": "I've Been Drinkin' - Just Friends / Alternative Version",
+      "url": "https://open.spotify.com/track/36Y00tjSwYowJizmnj9q69"
     },
     {
       "added_at": null,
@@ -835,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
       },
       "artists": [
         {
@@ -844,9 +860,9 @@
           "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 164880,
-      "name": "He Can Only Hold Her",
-      "url": "https://open.spotify.com/track/0sSdFMuYrn3N9moumV466B"
+      "duration_ms": 225653,
+      "name": "He Can Only Hold Her / Doo Wop (That Thing) - Live At Paradiso, Amsterdam / 2007",
+      "url": "https://open.spotify.com/track/20rqL3frTrgfwQuNMA2nVU"
     }
   ],
   "unique_name": "This Is Amy Winehouse",

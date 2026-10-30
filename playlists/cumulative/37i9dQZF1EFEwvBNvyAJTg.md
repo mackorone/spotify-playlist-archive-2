@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-284 songs - 15 hr 32 min
+285 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Fantasy](https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Fantasy](https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U) | 2:53 | 2024-07-06 |  |
 | [Fear](https://open.spotify.com/track/6zsaQIs0gWs6anNBEQw7fC) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Red Flag](https://open.spotify.com/album/2eQjNxatEtQmwhBOVfRd5q) | 3:56 | 2024-06-13 |  |
 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 | 2024-06-13 |  |
+| [FIX A DRINK \(JEONGYEON\)](https://open.spotify.com/track/4x4cCV6mYMw1aJWyCQU9AT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [JEONGYEON](https://open.spotify.com/artist/743jwFXhQU5MMGaEaAeX2s) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:58 | 2026-10-29 |  |
 | [Flashlight](https://open.spotify.com/track/3afdT7hEOBJiLs6lyPU7Uh) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 3:33 | 2025-01-09 | 2025-04-12 |
 | [For Real](https://open.spotify.com/track/6N27EMc8uq3Er7E5SiNO3s) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [For Real](https://open.spotify.com/album/5noigTrkYwiVKxuxqvnBBW) | 2:17 | 2025-01-09 | 2025-04-12 |
 | [Free Falling](https://open.spotify.com/track/0MxXc2F46m0xTDHkbQpLs1) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Sirens](https://open.spotify.com/album/3Y3ZsVngNf68uBvv7QHrZ3) | 2:39 | 2024-06-13 | 2026-07-10 |

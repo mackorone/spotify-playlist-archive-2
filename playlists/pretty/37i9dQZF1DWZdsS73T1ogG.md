@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,617 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,561 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Ay Bendito \(with Mora & Ovy On The Drums\)](https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Hermoso](https://open.spotify.com/album/0StPEmjgK8VVgzZ7bgnwED) | 2:54 |
 | 100 | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe) | 5:24 |
 
-Snapshot ID: `AAAAAKbgHu4VjIH5wQs7wB0ghqpyYNbC`
+Snapshot ID: `AAAAAGtgoRjXre6cpa1P3KY8k1VkiUJ0`

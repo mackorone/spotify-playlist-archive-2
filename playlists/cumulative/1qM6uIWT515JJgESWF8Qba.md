@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-342 songs - 21 hr 19 min
+344 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,9 +164,11 @@
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-03-04 | 2026-10-11 |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2025-11-06 | 2025-12-28 |
 | [Ikaros](https://open.spotify.com/track/41C7vXxAMx2h2kt3Q9cp1C) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Ikaros](https://open.spotify.com/album/6Qado2dLei7Ds5PNmstEc2) | 4:21 | 2026-07-06 | 2026-08-08 |
+| [In Between](https://open.spotify.com/track/6sBtirJIbyIG2UdviBt0rx) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [In Between](https://open.spotify.com/album/0Dwc2X79NdDJy0Oaz4aaO4) | 3:45 | 2026-10-28 |  |
 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 | 2026-10-20 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [Inside](https://open.spotify.com/track/2OfhgQDlDez0yPOQZEc60G) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Inside](https://open.spotify.com/album/3CAp4acIzCXeGfpmQ8zqUo) | 5:02 | 2026-10-07 |  |
+| [Is It Really True](https://open.spotify.com/track/3Rn3NxHKAaulAZm8kbXMAW) | [Wave Breaker](https://open.spotify.com/artist/422YfoHbiHbSOEgf1VpOq7) | [Is It Really True](https://open.spotify.com/album/31TBqMhSlQUpzmnim6ui3K) | 4:14 | 2026-10-28 |  |
 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-05-27 | 2026-10-11 |
 | [It's Hard To Break Me](https://open.spotify.com/track/7GFlX4gXxCoRjpO8p7bMyy) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:11 | 2025-09-30 | 2026-03-21 |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-12 |  |

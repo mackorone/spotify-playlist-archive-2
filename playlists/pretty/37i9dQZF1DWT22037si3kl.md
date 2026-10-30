@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,459 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,467 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 29 | [Acha que Eu Não Sei](https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:37 |
 | 30 | [Sentido à Zona Leste](https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Sentido à Zona Leste](https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB) | 2:03 |
 | 31 | [Sentido Aranha](https://open.spotify.com/track/4X0ytXIiFUqwaCX24o1Cje) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [ALAMO](https://open.spotify.com/artist/6YSHIHqbU8AVJ0SrLiqIHk), [Jon](https://open.spotify.com/artist/6wbfgVgq74I6BveSPkyC2t) | [Sentido Aranha](https://open.spotify.com/album/2XpP9Bu7VyH45i8pcjBfX5) | 2:26 |
-| 32 | [Clarividente](https://open.spotify.com/track/3WcUbTs2HA8pQaVL2KswiN) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Clarividente](https://open.spotify.com/album/4QreYs6OFrZ5SPgVnXAcw2) | 2:20 |
-| 33 | [OURO ROSE](https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [NUNK MAIS QUEBRADO](https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv) | 1:50 |
+| 32 | [OURO ROSE](https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [NUNK MAIS QUEBRADO](https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv) | 1:50 |
+| 33 | [Clarividente](https://open.spotify.com/track/3WcUbTs2HA8pQaVL2KswiN) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Clarividente](https://open.spotify.com/album/4QreYs6OFrZ5SPgVnXAcw2) | 2:20 |
 | 34 | [É Que os Menino É Bom](https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [É Que os Menino É Bom](https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE) | 2:25 |
 | 35 | [Eu Meto Bronca](https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG) | [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75) | [Eu Meto Bronca](https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl) | 2:37 |
 | 36 | [Mr\. Lupa Freestyle](https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Mr\. Lupa Freestyle](https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Givenchy](https://open.spotify.com/track/13ByvyMCrQs5zPnhIFpIYN) | [Blacka](https://open.spotify.com/artist/7CP3YMunVNU7kslDUDR3li) | [Luxe](https://open.spotify.com/album/2VbjJozJq7IyciVCGU2hWO) | 2:08 |
 | 50 | [garota gostosa da po\#$@](https://open.spotify.com/track/1vKBhJ5wQhwnPQDr41wy09) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [F.A.Q\. LUV](https://open.spotify.com/album/63jNMv0PaZWEPzRcVhzdY5) | 2:25 |
 
-Snapshot ID: `AAAAAP6x60umhEtr3SQYDWXFvgLh9wYE`
+Snapshot ID: `AAAAAI/xw+S4XqoazUDDig7iHaPV85eo`

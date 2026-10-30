@@ -1,12 +1,12 @@
 {
   "description": "next gen pop\nCover: Mila Bea",
-  "num_followers": 1253014,
+  "num_followers": 1252931,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIin2Koup5nM5l+aglRmcDp/QKAG",
+  "snapshot_id": "AAAAAHYZWfomWb8iZYTtMr3qtArVmA/g",
   "tracks": [
     {
       "added_at": "2026-10-23 04:00:10",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
     },
     {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "bleach",
+        "url": "https://open.spotify.com/album/4zFgz9NWqfKwiKxVSMcI4a"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 191277,
+      "name": "domino",
+      "url": "https://open.spotify.com/track/2UQ5LqWJhCcMnj6WAysvDX"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "You're the Only One (I Never Performed For)",
+        "url": "https://open.spotify.com/album/6mUeTOMh838S1pNUEqdI7D"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 212185,
+      "name": "You're the Only One (I Never Performed For)",
+      "url": "https://open.spotify.com/track/4LtOlJEraMqp3i9rK60K84"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "Sensitive to the room, sensitive to the sound",
+        "url": "https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 237292,
+      "name": "My Vice Is Misery",
+      "url": "https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn"
+    },
+    {
       "added_at": "2026-10-09 04:00:47",
       "album": {
         "name": "Nothing Good is Easy",
@@ -39,6 +87,22 @@
       "duration_ms": 244424,
       "name": "Nothing Good is Easy",
       "url": "https://open.spotify.com/track/0Q5spcR38mMOuWUIEofauq"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "Leave Me There",
+        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 256538,
+      "name": "Leave Me There",
+      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
     },
     {
       "added_at": "2026-10-09 04:00:47",
@@ -57,6 +121,22 @@
       "url": "https://open.spotify.com/track/2iKZk4N2TC6qw86VmTywNG"
     },
     {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "NOBODY'S HERO",
+        "url": "https://open.spotify.com/album/3eYPVRi6W4fG3JyzAcHnAA"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 199014,
+      "name": "NOBODY'S HERO",
+      "url": "https://open.spotify.com/track/4xK0It4Kdk80QGGVSW5ec9"
+    },
+    {
       "added_at": "2026-10-09 04:00:47",
       "album": {
         "name": "FUN",
@@ -73,20 +153,20 @@
       "url": "https://open.spotify.com/track/0CwsKDeErwN4J8RFq6wL14"
     },
     {
-      "added_at": "2026-10-24 03:42:03",
+      "added_at": "2026-10-30 04:01:53",
       "album": {
-        "name": "Look At All The Happy People",
-        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
+        "name": "The Hope That Kills Me",
+        "url": "https://open.spotify.com/album/2zp1vr7BgZ7dIc1deKodmt"
       },
       "artists": [
         {
-          "name": "Bluegirl",
-          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
         }
       ],
-      "duration_ms": 206564,
-      "name": "Look At All The Happy People",
-      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
+      "duration_ms": 216146,
+      "name": "The Hope That Kills Me",
+      "url": "https://open.spotify.com/track/7lf9B6heWvYJ8Odgnki8uS"
     },
     {
       "added_at": "2026-10-23 04:00:10",
@@ -121,6 +201,38 @@
       "url": "https://open.spotify.com/track/3dyuPrJmeEzsWEFKxolKW2"
     },
     {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "OBSESSION",
+        "url": "https://open.spotify.com/album/5Btjb9tqDyQ8vUHQgfLdM0"
+      },
+      "artists": [
+        {
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 162061,
+      "name": "OBSESSION",
+      "url": "https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "I BELIEVE IN GHOSTS",
+        "url": "https://open.spotify.com/album/6BYbERfjuYQ9bBv9wignHx"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "I BELIEVE IN GHOSTS",
+      "url": "https://open.spotify.com/track/4HMSZp8GPo07JE1OgMR92G"
+    },
+    {
       "added_at": "2026-10-09 04:00:47",
       "album": {
         "name": "closure",
@@ -137,6 +249,22 @@
       "url": "https://open.spotify.com/track/28jDHQ7NL0BmZK637LUQ50"
     },
     {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "late night swim",
+        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 141339,
+      "name": "birds and butterflies",
+      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
+    },
+    {
       "added_at": "2026-10-23 04:00:10",
       "album": {
         "name": "guilty conscience",
@@ -151,6 +279,22 @@
       "duration_ms": 176129,
       "name": "guilty conscience",
       "url": "https://open.spotify.com/track/5Nn97O6u3DXa7JXeraF1ui"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 214335,
+      "name": "He Likes Boys",
+      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
     },
     {
       "added_at": "2026-10-09 04:00:47",
@@ -263,22 +407,6 @@
       "duration_ms": 170816,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7al7M2fVPzsuV1mTyGVmsF"
-    },
-    {
-      "added_at": "2026-10-09 04:00:47",
-      "album": {
-        "name": "Seriously (From the FX Series The Shards)",
-        "url": "https://open.spotify.com/album/1Vjv6elK1zzFtKibcD3JpR"
-      },
-      "artists": [
-        {
-          "name": "Hayes Warner",
-          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
-        }
-      ],
-      "duration_ms": 153603,
-      "name": "Seriously (From the FX Series The Shards)",
-      "url": "https://open.spotify.com/track/27YYAcHQEW9alwLYAxjmBg"
     },
     {
       "added_at": "2026-10-23 04:00:10",
@@ -751,22 +879,6 @@
     {
       "added_at": "2026-08-21 04:02:52",
       "album": {
-        "name": "tokyo",
-        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 206030,
-      "name": "tokyo",
-      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
-    },
-    {
-      "added_at": "2026-08-21 04:02:52",
-      "album": {
         "name": "LOVER GIRL",
         "url": "https://open.spotify.com/album/6gnIvZLNRxqP9Q4rPg9J2V"
       },
@@ -881,22 +993,6 @@
       "url": "https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut"
     },
     {
-      "added_at": "2026-07-17 04:01:40",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
-    },
-    {
       "added_at": "2026-07-03 04:02:12",
       "album": {
         "name": "Sunburn",
@@ -911,22 +1007,6 @@
       "duration_ms": 182933,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/3KnNRJwe3Vzv3cyjNaS4Bd"
-    },
-    {
-      "added_at": "2026-07-24 04:02:07",
-      "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 177225,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv"
     },
     {
       "added_at": "2026-07-03 04:02:12",
@@ -1235,22 +1315,6 @@
     {
       "added_at": "2026-05-29 04:35:52",
       "album": {
-        "name": "Hell's Belles",
-        "url": "https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hell's Belles",
-      "url": "https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
         "name": "'PUREFLOW', Pt. 1",
         "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
       },
@@ -1379,22 +1443,6 @@
     {
       "added_at": "2026-05-29 04:35:52",
       "album": {
-        "name": "Male Validation and Other Drugs",
-        "url": "https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 220833,
-      "name": "Sex, Etc.",
-      "url": "https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
         "name": "SE9",
         "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
       },
@@ -1423,22 +1471,6 @@
       "duration_ms": 155729,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5qsLQvSvlCfLLU9TubhllM"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
-        "name": "Who's That Calling?",
-        "url": "https://open.spotify.com/album/5eIxAIpeXlBsJ62zHS2jwP"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/76bTNGUQ1eBmfwuLYneb9D"
     },
     {
       "added_at": "2026-05-29 04:35:52",
@@ -1487,22 +1519,6 @@
       "duration_ms": 137093,
       "name": "SINK",
       "url": "https://open.spotify.com/track/4GPMidIfGlJNwbbaUbQFE2"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
-        "name": "So What?",
-        "url": "https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 168383,
-      "name": "So What?",
-      "url": "https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U"
     },
     {
       "added_at": "2026-05-29 04:35:52",
@@ -1583,38 +1599,6 @@
       "duration_ms": 208460,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
-        "name": "In Your Head",
-        "url": "https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 151966,
-      "name": "In Your Head",
-      "url": "https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw"
-    },
-    {
-      "added_at": "2026-05-29 04:35:52",
-      "album": {
-        "name": "rollerblade",
-        "url": "https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 114056,
-      "name": "rollerblade",
-      "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
     }
   ],
   "unique_name": "Pop Sauce",

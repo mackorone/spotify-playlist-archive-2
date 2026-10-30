@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยจากทุกช่วงเวลา ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Polycat
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,574 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,583 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 8 | [ดูดี](https://open.spotify.com/track/7oTnTfFLo4t1xbPb009oBI) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [Pillow War](https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP) | 4:00 |
 | 9 | [ใกล้](https://open.spotify.com/track/4r3UvwePMdXPJrqFautgTq) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:17 |
 | 10 | [จันทร์เจ้า \(Goodbye\)](https://open.spotify.com/track/5J3arLZL7OgQ4yvLDfatxW) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Cell](https://open.spotify.com/album/2kldPQZzNeNjRyK8tt9Qne) | 4:10 |
-| 11 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 |
+| 11 | [ฤดูที่ฉันเหงา](https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Vanilla](https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu) | 4:22 |
 | 12 | [เธอไม่อาจเอารักไปจากหัวใจ](https://open.spotify.com/track/2osoiXSQrConE7kKdIlxin) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ตรงแนวๆ](https://open.spotify.com/album/39oCGotLzMIqGf8gLuUrwg) | 4:15 |
-| 13 | [ฤดูที่ฉันเหงา](https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Vanilla](https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu) | 4:22 |
+| 13 | [นักวิทยาศาสตร์](https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [นักวิทยาศาสตร์](https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn) | 3:31 |
 | 14 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 |
 | 15 | [คุณเก็บความลับได้ไหม](https://open.spotify.com/track/1HfQcqDwV3UASZUOpMp9A9) | [Armchair](https://open.spotify.com/artist/12WQ39HU6t5eDvwjK0GFzT) | [คุณเก็บความลับได้ไหม](https://open.spotify.com/album/0vyHVuW90UueeOcOhiAaEl) | 4:39 |
 | 16 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jfHTze7qwk.md) - [plain]
 | 49 | [เรื่องเดียว \(One Thing\)](https://open.spotify.com/track/7kDQyYrw2b8xYbuWotdm1Z) | [Flure](https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj) | [Flure](https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI) | 5:13 |
 | 50 | [ไม่จำ!](https://open.spotify.com/track/4lvTuTHfeggO9qBAljoXxT) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [แรก](https://open.spotify.com/album/7hz79oAxXtyE7TeziE5lbh) | 4:10 |
 
-Snapshot ID: `AAAAABjNsBOEK9P5EuQ5FSCaaufTwUrE`
+Snapshot ID: `AAAAAKgGFvi0+Q6CPwFrwKM+965uqdkk`

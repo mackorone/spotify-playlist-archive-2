@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Thưởng thức và tôn vinh tài năng các nghệ sĩ nữ Việt Nam\. Ảnh bìa: Hoàng Thùy Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,119 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,127 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/track/5U5aFzSWZVGe5gg8eCc8ft) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Nơi Mình Dừng Chân \(Nhạc Phim Chị Trợ Lý Của Anh\)](https://open.spotify.com/album/4IDvNp1lelYq2kmHjCDkvo) | 4:02 |
 | 50 | [Ướt Lòng](https://open.spotify.com/track/3e83hKQLYG116od0SJUhPd) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [Giai Nhân](https://open.spotify.com/album/0IW25nk5enhweeMgB13a0b) | 4:39 |
 
-Snapshot ID: `AAAAAEwgfZ/xmHUlqIsDXk2mlsJEx1zk`
+Snapshot ID: `AAAAADkEf64d2gGGMpPKIOyL0PyqKvsV`

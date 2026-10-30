@@ -5005,6 +5005,24 @@
     },
     {
       "album": {
+        "name": "late night swim",
+        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141339,
+      "name": "birds and butterflies",
+      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -10282,7 +10300,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194880,
       "name": "Dance No More",
       "url": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
@@ -15552,7 +15570,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 241470,
       "name": "From Down Here",
       "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
@@ -22878,6 +22896,24 @@
       "duration_ms": 158130,
       "name": "Isn't It Obvious",
       "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
+    },
+    {
+      "album": {
+        "name": "It All Comes To End",
+        "url": "https://open.spotify.com/album/5j820r3qXPjho7Sehhlkr2"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249187,
+      "name": "It All Comes To End",
+      "url": "https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC"
     },
     {
       "album": {
@@ -35091,6 +35127,24 @@
     },
     {
       "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/47aMHZJPLahpmq1dbSLOiD"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185138,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/5LFPBkSSKyT3rnP3iSAaQh"
+    },
+    {
+      "album": {
         "name": "Put Me Back Together",
         "url": "https://open.spotify.com/album/73c8BJyjru0OCXe2tHGs9u"
       },
@@ -43272,7 +43326,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 239700,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
@@ -46084,7 +46138,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 206030,
       "name": "tokyo",
       "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
@@ -51434,6 +51488,24 @@
       "duration_ms": 167800,
       "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
       "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
+    },
+    {
+      "album": {
+        "name": "your hand in mine",
+        "url": "https://open.spotify.com/album/4XapD00kJ6twsXysur20Jp"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177270,
+      "name": "your hand in mine",
+      "url": "https://open.spotify.com/track/77MB8bA6c2fUHVgUD2SeI5"
     },
     {
       "album": {

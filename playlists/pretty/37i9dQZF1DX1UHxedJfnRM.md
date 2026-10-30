@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Ryan Castro, Eddie Santiago
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,679 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,744 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Si Tu No Estas](https://open.spotify.com/track/2ESN4xnCP0dzgn5S7rFc6W) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Patrick Guevara](https://open.spotify.com/artist/0ylGVYJWSqGFNGCtGYFFJy), [Dailyn Curbelo](https://open.spotify.com/artist/0XJFpnvHtualxdhRE4EEvu) | [Si Tú No Estas](https://open.spotify.com/album/2Ezk3HBbV6uN85korIcfpK) | 5:19 |
 | 80 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 |
 
-Snapshot ID: `AAAAAPOFqaQQJvILvvhzr2RJm46/j4HQ`
+Snapshot ID: `AAAAAH+ML+mxu2XcJWgTMSQ1JLiimIQN`

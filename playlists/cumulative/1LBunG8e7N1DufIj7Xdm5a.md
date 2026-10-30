@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,944 songs - 11 day 4 hr 32 min
+4,949 songs - 11 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [CAMERAS](https://open.spotify.com/track/65Qt4R7sbHwKOL7qUzvd8I) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [CAMERAS](https://open.spotify.com/album/1x9tMnt0clwEKkATGR4J5u) | 1:51 | 2025-07-28 |  |
 | [Caminos libres](https://open.spotify.com/track/66CjDz3PkY2ALbNpQPA15v) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:42 | 2026-08-29 |  |
 | [Camminando controvento](https://open.spotify.com/track/3TW6224PEahNhTKTUpJXrE) | [Alessandro Cappello](https://open.spotify.com/artist/0N7CCKDZKMVFCC7pVohoup) | [Camminando controvento](https://open.spotify.com/album/4isqAUB1uqAC39FEWlsEch) | 4:27 | 2026-09-28 |  |
+| [Can we start again](https://open.spotify.com/track/16fZgUAyy2xWXlymwJ6eaU) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Can we start again?](https://open.spotify.com/album/4Q345WTjwHW2UbuXyQ7Ims) | 4:58 | 2026-10-30 |  |
 | [can you?](https://open.spotify.com/track/01Q9aPL1XR6UKuwwkpf63P) | [Spectr4l](https://open.spotify.com/artist/0NjArNlxoU8zpBuQW3wnxQ) | [AFTERLIFE](https://open.spotify.com/album/1g1ICp42ZFrRU49HoZ6sIg) | 2:19 | 2025-07-13 |  |
 | [Can't Deal](https://open.spotify.com/track/3HAYqVV6pik5cE73O9m6Xm) | [Infuriate Souls](https://open.spotify.com/artist/4kGaDNHuSf9oJkmVxF370j) | [Infuriate Souls](https://open.spotify.com/album/4cNOmUdpfzp0bohouJRi6X) | 3:16 | 2026-02-18 |  |
 | [Can't get enough](https://open.spotify.com/track/5tSKv5MADPzOAkMMXjnyXp) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:43 | 2026-01-17 |  |
@@ -1246,6 +1247,7 @@
 | [Dusting Off My Crown](https://open.spotify.com/track/6zKvxK4DWA8GKAFmDkSwp4) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Dusting Off My Crown](https://open.spotify.com/album/2pignGDQ0UIZ3wvYJn6hQk) | 3:05 | 2025-07-18 |  |
 | [Dusty Vinyl Memories](https://open.spotify.com/track/674P4nD43asdtDuWcAy6IK) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Quiet Hours](https://open.spotify.com/album/1TS5WFpjEkERzNocaSz1hH) | 2:39 | 2025-06-05 |  |
 | [Duur](https://open.spotify.com/track/13OwJvvhAu5TUdQ2LVQlvE) | [The Skinny guy](https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw), [Zayan](https://open.spotify.com/artist/5f1ZyRrG2CGPD3ZWXZrSeR) | [Duur](https://open.spotify.com/album/4AMpu7SUpQl9e9xEaACsCQ) | 2:30 | 2025-06-23 |  |
+| [Dyin 2 Liv](https://open.spotify.com/track/544q7U2gM6eSJQtfcoXkw8) | [The Purple Helmets](https://open.spotify.com/artist/6BGEohHczI6MUGmg4bG76N) | [Dyin 2 Liv](https://open.spotify.com/album/0cQWCCHCNzgkjCtEd76ePx) | 3:54 | 2026-10-29 |  |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2026-03-15 |  |
 | [Dámelo a Mi](https://open.spotify.com/track/4uptHGW5medmzTwFVwRHuE) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:22 | 2025-07-29 |  |
 | [Déjà Vu](https://open.spotify.com/track/34I8o6IL8QdyEZyZsB3jau) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:33 | 2025-06-28 |  |
@@ -1430,6 +1432,7 @@
 | [Elektrik Dreams](https://open.spotify.com/track/3KjRizMK9xW6OwnJlshkH3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 3:32 | 2025-09-18 |  |
 | [Elektrik Dreams \(another\)](https://open.spotify.com/track/59tGq8FSA82j1GEut03usa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 3:16 | 2025-09-18 |  |
 | [Elettricità](https://open.spotify.com/track/2DNX287NNxyYNUjvGLxj4D) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Elettricità](https://open.spotify.com/album/3F3TaDCdRmdDAQI6I9UdGG) | 3:22 | 2025-05-27 |  |
+| [Elevator to heaven](https://open.spotify.com/track/01FoJGwwclkzA17TLIerPP) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Elevator to heaven](https://open.spotify.com/album/0SbOsAxfJMBfD1VW7lRv0p) | 4:48 | 2026-10-28 |  |
 | [eleven](https://open.spotify.com/track/4okFg2FOnMt1IxqmJkeuzx) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:11 | 2025-08-20 |  |
 | [elimination](https://open.spotify.com/track/3QkSNNW6szDRURwnBXiDID) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 4:04 | 2026-02-01 |  |
 | [eliminazione \- 2023 Remastered Version](https://open.spotify.com/track/34cnbgsUT5LMGBoflirF4e) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [AT THE DAWN OF SLEEPING DEAD \(2023 Remastered Version\)](https://open.spotify.com/album/7M3kyhWMi2xEJRiS8ZehYB) | 4:04 | 2026-02-01 |  |
@@ -2554,6 +2557,7 @@
 | [Love Parade \(another\)](https://open.spotify.com/track/0Rm3hZ47jMGutGZwS9Z8BH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:46 | 2025-09-17 |  |
 | [Love the Night](https://open.spotify.com/track/5vvNfQw9KSSrJrcmxuf8A4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 3:08 | 2025-09-18 |  |
 | [Love the Night \(another\)](https://open.spotify.com/track/6iLHCHORn6AxAL7l5T1ixt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 1:39 | 2025-09-18 |  |
+| [Love you darling mine](https://open.spotify.com/track/4MjiwveuTtjNt1zSSLMEwh) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Love you darling mine](https://open.spotify.com/album/5LU3K3DtZo6RMtTLEpb5RU) | 5:03 | 2026-10-28 |  |
 | [Love You From Afar](https://open.spotify.com/track/3rMEnmSAYwuuRrgT5D2FEd) | [Dylan Danielle](https://open.spotify.com/artist/01500LhjmKYiaMWhabOsmi) | [Love You From Afar](https://open.spotify.com/album/2YkhdwrYC6Oyn38jTxw2L0) | 4:24 | 2025-06-02 |  |
 | [Love, Lust, And Liars](https://open.spotify.com/track/2KfdXkLFx4Zfzt4xG1RQGz) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:22 | 2025-04-09 |  |
 | [Lover Undiscovered](https://open.spotify.com/track/3fGhIji5gQMUucZ7gEyBpy) | [The Groundswell](https://open.spotify.com/artist/4MiMzugMniyd4PBZsxbDqj) | [No Goodbyes](https://open.spotify.com/album/1q4DnWJLO4aHsxpqtDbFbV) | 3:04 | 2025-05-02 |  |
@@ -4164,6 +4168,7 @@
 | [Tanti auguri a te..\. e la torta a me](https://open.spotify.com/track/0Gza5Xwt7Nq0U7lWk10m3r) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Tanti auguri a te..\. e la torta a me](https://open.spotify.com/album/07VIEAXP9mpLvGVNdPFxTS) | 2:48 | 2025-12-10 |  |
 | [Tap Your Little Feet! \(Instructions In Case of a Sudden Demise\)](https://open.spotify.com/track/2qTiuJsLtP4W5VUtiYtZRb) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Tap Your Little Feet! \(Instructions In Case of a Sudden Demise\)](https://open.spotify.com/album/5bv9OW74vOY9tnd0pyes0W) | 5:20 | 2025-11-05 |  |
 | [Tap Your Little Feet! \(Instructions In Case of a Sudden Demise\)](https://open.spotify.com/track/5syRhA8vSVS3JyGePcV5l5) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Pop](https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5) | 5:20 | 2025-11-05 |  |
+| [Tap Your Toe And Follow Me](https://open.spotify.com/track/4RO7kDpQwMVzjpYmpRZuiu) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:52 | 2026-10-28 |  |
 | [Taste the Night](https://open.spotify.com/track/3phuQN6O9sUV18sV9rD5ue) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Jump In the Rhythm](https://open.spotify.com/album/6PQSHCltPWwpihDjcm2FkX) | 2:26 | 2026-01-31 |  |
 | [Taxman](https://open.spotify.com/track/0uCQ0eSVcZ4LNALVPHoffj) | [Bruise Control](https://open.spotify.com/artist/4jz9bmizJTVIjhWeZqF2u9) | [Taxman](https://open.spotify.com/album/7hfLeIRyf31iAW16zopkrA) | 2:45 | 2025-11-04 |  |
 | [Teal](https://open.spotify.com/track/1jJvNlkbQmtRpG9uIUpiYA) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:11 | 2025-11-04 |  |

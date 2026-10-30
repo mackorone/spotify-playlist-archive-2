@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 254826,
+  "num_followers": 254879,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADLq9G/az+niGMgIJRKI6aN",
+  "snapshot_id": "at/pgAAAAAA711NsvG+G5p6e0hZf+EJr",
   "tracks": [
     {
       "added_at": null,
@@ -110,11 +110,15 @@
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 270667,
-      "name": "Camanance",
-      "url": "https://open.spotify.com/track/5P1LE2M9yWPDDs4pHJJvZN"
+      "duration_ms": 276445,
+      "name": "Malherido",
+      "url": "https://open.spotify.com/track/17H2cw23TdtkfzOiq6booX"
     },
     {
       "added_at": null,
@@ -139,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saca, Prende Y Sorprende",
-        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N"
       },
       "artists": [
         {
@@ -148,9 +152,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 357619,
-      "name": "Saca, Prende Y Sorprende",
-      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
+      "duration_ms": 322866,
+      "name": "Un Deseo",
+      "url": "https://open.spotify.com/track/70PFXqJLPwzMqXG8IcJ9gj"
     },
     {
       "added_at": null,
@@ -178,21 +182,17 @@
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 276445,
-      "name": "Malherido",
-      "url": "https://open.spotify.com/track/17H2cw23TdtkfzOiq6booX"
+      "duration_ms": 270667,
+      "name": "Camanance",
+      "url": "https://open.spotify.com/track/5P1LE2M9yWPDDs4pHJJvZN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/480KRHziOVWmBEuXX5MB6N"
+        "name": "Saca, Prende Y Sorprende",
+        "url": "https://open.spotify.com/album/1j5ncEpkM28aRKhD9vwXk0"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 322866,
-      "name": "Un Deseo",
-      "url": "https://open.spotify.com/track/70PFXqJLPwzMqXG8IcJ9gj"
+      "duration_ms": 357619,
+      "name": "Saca, Prende Y Sorprende",
+      "url": "https://open.spotify.com/track/2VrXIFhpTneKQdwJh8indx"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 283315,
+      "name": "Llevarte All\u00ed",
+      "url": "https://open.spotify.com/track/4YtADLDDktCAdzN2pbPABB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marcri\u00e1",
         "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 256750,
       "name": "dame la verde",
       "url": "https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 283315,
-      "name": "Llevarte All\u00ed",
-      "url": "https://open.spotify.com/track/4YtADLDDktCAdzN2pbPABB"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuiste Cruel",
+        "url": "https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 297738,
+      "name": "Fuiste Cruel",
+      "url": "https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 229150,
       "name": "Lento",
       "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuiste Cruel",
-        "url": "https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 297738,
-      "name": "Fuiste Cruel",
-      "url": "https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe"
     },
     {
       "added_at": null,

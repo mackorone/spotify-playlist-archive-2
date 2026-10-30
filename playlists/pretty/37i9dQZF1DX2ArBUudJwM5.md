@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Curada por Chechi de Marcos, embajadora EQUAL Argentina\. Mujeres a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,453 likes - 32 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,450 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 31 | [Arrancarte El Corazón](https://open.spotify.com/track/1loqubu3ASuMd4oeAAyDUg) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [RÍO DE LA PLATA](https://open.spotify.com/album/4n9LHLuwtUrIEfw0hbibQx) | 3:29 |
 | 32 | [Días de Paja](https://open.spotify.com/track/7iFACvt1AiasRbsyI3Ohu9) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 3:53 |
 
-Snapshot ID: `AAAAAKtWvqHNdWt4A4DeE3SIEaw0Wti1`
+Snapshot ID: `AAAAABPntgWtGj504VhYDPVEzeYXgmSy`

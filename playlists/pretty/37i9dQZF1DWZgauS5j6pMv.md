@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,598 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,619 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Business](https://open.spotify.com/track/02hKpGoEiktnpLqB4CpPf5) | [JM Bales](https://open.spotify.com/artist/2JyNzzFJh2wkkZo7ZjMSs2) | [Business](https://open.spotify.com/album/57JZIPQFEt4AGiLGhM8JAb) | 2:55 |
 | 100 | [Heavy \(Wake the Wild Remix\)](https://open.spotify.com/track/2HStqTtRnHeqwNoq2lvdsh) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Heavy \(Wake the Wild Remix\)](https://open.spotify.com/album/1pDoHLUbVmhNTndhoEPjnG) | 3:31 |
 
-Snapshot ID: `AAAAACWqslnMc7GE4p6jaPHoUlQxrdV9`
+Snapshot ID: `AAAAAMXd1JGc0Lsijw2quwI8h/ElaR6Q`

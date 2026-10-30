@@ -2,9 +2,9 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Nsqk
+> Today's top Latin hits, elevando nuestra música\. Cover: Victor Mendivil
 
-1,172 songs - 2 day 14 hr 32 min
+1,175 songs - 2 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-03-15 | 2024-04-13 |
 | [BADGYAL](https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:13 | 2024-05-03 | 2024-08-03 |
 | [BAILAME ASI](https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [BAILAME ASI](https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i) | 2:24 | 2025-06-27 | 2025-08-24 |
+| [BAILAR O MORIR](https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y) | [BOM](https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAILAR O MORIR](https://open.spotify.com/album/4666SViPubDIsqw5300oiR) | 2:34 | 2026-10-30 |  |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-05 |  |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 | 2022-05-13 | 2022-10-22 |
 | [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 | 2025-09-12 | 2025-09-28 |
@@ -137,6 +138,8 @@
 | [BnB](https://open.spotify.com/track/6iWg7wVBXWwQYlVqp4UKPh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 2:37 | 2026-06-19 | 2026-09-19 |
 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 | 2024-01-26 | 2024-02-17 |
 | [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 | 2026-05-08 | 2026-06-06 |
+| [Body \- Remix](https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Body \(Remix\)](https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS) | 3:54 | 2026-10-30 |  |
+| [BODYPAINTING](https://open.spotify.com/track/5fmF4ElhKPljPIGRY86WSl) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [BODYPAINTING](https://open.spotify.com/album/4ZDHgdHDVG4ZMSXtFPuA7M) | 2:33 | 2026-10-30 |  |
 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 | 2023-11-17 | 2024-01-06 |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2021-12-17 | 2022-05-07 |
 | [boss](https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [boss](https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe) | 2:11 | 2025-01-24 | 2025-02-08 |

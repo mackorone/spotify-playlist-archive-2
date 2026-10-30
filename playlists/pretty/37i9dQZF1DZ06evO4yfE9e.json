@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2982,
+  "num_followers": 2981,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADkU5GSN1Ia8WkqfQLApoep",
+  "snapshot_id": "at/pgAAAAAD1pcqv72/bhE3sLLcT5wpC",
   "tracks": [
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 167291,
-      "name": "2 boys",
-      "url": "https://open.spotify.com/track/6fx0GG75TjPdW8gSW1GrDW"
+      "duration_ms": 154225,
+      "name": "nice guys finish last",
+      "url": "https://open.spotify.com/track/4jqhPQqqU83aEKj4WEYwo6"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEX MACHINA",
-        "url": "https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 129397,
-      "name": "SEX MACHINA",
-      "url": "https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BODY PARTS (Full Frontal)",
         "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
       },
@@ -263,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEX MACHINA",
+        "url": "https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 129397,
+      "name": "SEX MACHINA",
+      "url": "https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "nympho",
         "url": "https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK"
       },
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 156578,
-      "name": "would you ever?",
-      "url": "https://open.spotify.com/track/4wzwrE1M4cFGWgZ0Hm8Xy9"
+      "duration_ms": 167291,
+      "name": "2 boys",
+      "url": "https://open.spotify.com/track/6fx0GG75TjPdW8gSW1GrDW"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 154225,
-      "name": "nice guys finish last",
-      "url": "https://open.spotify.com/track/4jqhPQqqU83aEKj4WEYwo6"
+      "duration_ms": 156578,
+      "name": "would you ever?",
+      "url": "https://open.spotify.com/track/4wzwrE1M4cFGWgZ0Hm8Xy9"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steve Aoki (feat. bludnymph)",
-        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
-      },
-      "artists": [
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Steve Aoki (feat. bludnymph)",
-      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishin",
         "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 173760,
       "name": "Wishin",
       "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Steve Aoki (feat. bludnymph)",
+        "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
+      },
+      "artists": [
+        {
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Steve Aoki (feat. bludnymph)",
+      "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
     }
   ],
   "unique_name": "This Is bludnymph",

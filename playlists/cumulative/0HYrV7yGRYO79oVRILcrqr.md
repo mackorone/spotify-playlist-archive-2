@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-840 songs - 2 day 4 hr 20 min
+843 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2026-04-27 | 2026-05-26 |
 | [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-06-18 | 2026-07-12 |
+| [Fist full of lies](https://open.spotify.com/track/3KL4wNDzQV6Rk7TpyPIk2z) | [Moral Demise](https://open.spotify.com/artist/2aJD3abHtV67hSLPptMQgM) | [Stomp](https://open.spotify.com/album/5I8CHzZpprQpuqxp1BpbCt) | 2:10 | 2026-10-29 |  |
 | [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 | 2026-04-11 | 2026-04-21 |
 | [Foot Down On The Freeway](https://open.spotify.com/track/3J6ClwxSl6tbB1MbuIoJzx) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Foot Down On The Freeway](https://open.spotify.com/album/7i5c0fXsKlpQbUmMUK3Iqy) | 3:11 | 2026-10-15 |  |
 | [For So Long](https://open.spotify.com/track/2cQ5CeTRxGA2prgkS9mN3C) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [For So Long](https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm) | 2:46 | 2026-05-05 | 2026-05-26 |
@@ -573,6 +574,7 @@
 | [Psychic Trick](https://open.spotify.com/track/57lfDQFRaKL2qcgvcTrQUo) | [Rodrigo Goularttz](https://open.spotify.com/artist/2JS4q2grljmkeCpYYT8QQd) | [<3 questions for love](https://open.spotify.com/album/7leCtjCfegncMZCNNkDeE2) | 3:39 | 2026-05-17 | 2026-05-26 |
 | [Punch the Clown](https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Punch the Clown](https://open.spotify.com/album/16tI9R9L3aJyHYksO5A0vF) | 3:28 | 2026-08-05 |  |
 | [Punk Parrot](https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 3:03 | 2026-07-07 |  |
+| [Punk Rock Changed My Life](https://open.spotify.com/track/61bqm8GBhy0uVX4486D6Z8) | [SMFC](https://open.spotify.com/artist/37AQAlwmPfdt7xlzv0Wbsm) | [Unadulterated](https://open.spotify.com/album/7FDUbUbgQCAro9FM5zCn13) | 2:49 | 2026-10-29 |  |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 | 2025-12-17 |
 | [Pure Love](https://open.spotify.com/track/5QcqsZF84HiIiyLrSguLYM) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [Pure Love](https://open.spotify.com/album/5V3aOpDgcXhePNQSpXkiJ2) | 1:59 | 2026-08-26 |  |
 | [Put your love away](https://open.spotify.com/track/2nBW7kWB6Tkln9MLeP7Rj4) | [Barry Postlethwaite](https://open.spotify.com/artist/1xGEOSqUsYYL3SZCASwPEo) | [The Circle and the Stone](https://open.spotify.com/album/3R1XzgDWQ4Geeyl3YQeQTQ) | 4:25 | 2026-06-07 |  |
@@ -690,6 +692,7 @@
 | [Submarine \(feat\. Vallartis\)](https://open.spotify.com/track/6ivXxPez2olkS1v4m3xTMc) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [When You Say My Name \(feat\. Vallartis\)](https://open.spotify.com/album/4hAxZnpMKJ8gNQ9TyaMwPG) | 2:29 | 2025-09-22 | 2025-12-17 |
 | [Sugarcane 'n Dulo \- Live in California](https://open.spotify.com/track/7tGA7NwxuuzDtr9CgYbplO) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq), [Don "Sugarcane" Harris](https://open.spotify.com/artist/695OPTlwrZHc2tuxLpgvlq), [Victor Conte](https://open.spotify.com/artist/3wUoTQHtrlm6mq0GO7DsQy), [Paul Lagos](https://open.spotify.com/artist/12iMdd9Crhv2J5M885GXRw) | [Sugarcane 'n Dulo \(Live in California\)](https://open.spotify.com/album/08ehy2oOt27YM55NXiIUzj) | 6:53 | 2026-09-07 | 2026-09-20 |
 | [Summer Day](https://open.spotify.com/track/4OimWd0lRxKaH4MQ3MKupL) | [Elephant Ears](https://open.spotify.com/artist/3JRhJwWeTZXJhIQMTxiYyn), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u), [Rowan Hart](https://open.spotify.com/artist/73Ciwf8umkqK3w1TaDnNaU) | [Summer Day](https://open.spotify.com/album/0fnzIsdIhhd0q1myqvLnZT) | 2:50 | 2026-09-09 | 2026-09-20 |
+| [Summer Song](https://open.spotify.com/track/335hkAMBvAGPN0twltJ7TP) | [Violinista](https://open.spotify.com/artist/1q84ZVdHAOekvmWbMpP37h) | [Summer Song](https://open.spotify.com/album/6i1BkQpvNiDExqSfCKWo8H) | 4:32 | 2026-10-28 |  |
 | [Sunday Scaries](https://open.spotify.com/track/0gAWc6xFU6v5No0CE7YYBb) | [Philip Lively](https://open.spotify.com/artist/4arV1CWn3VChyg2DLfBd95) | [Sunday Scaries](https://open.spotify.com/album/5nPsYxEOuuykz3HmxkHMdE) | 3:18 | 2026-10-12 |  |
 | [Sunday Soul](https://open.spotify.com/track/2rUSygsB1eGAMe3ORZ8BdN) | [Kickoff Project](https://open.spotify.com/artist/7oLMnhuAoTk8OwmDmThPNx) | [Sunday Soul](https://open.spotify.com/album/5QnFzZlgC3oxu7Fg25PnAN) | 3:46 | 2026-08-14 |  |
 | [Sunset](https://open.spotify.com/track/7CsKnmUslC5VMv8BrmqKGu) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sunset](https://open.spotify.com/album/72RiC6OVViv5sf3Rrb1gyX) | 4:19 | 2026-04-27 | 2026-05-26 |

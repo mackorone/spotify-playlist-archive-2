@@ -1,13 +1,29 @@
 {
   "description": "De toekomst van de Benelux volgens onze muziekredactie. Cover: <a href=\"spotify:artist:5qQLp6Xal6S6KXEHgvxmvp\">Dressed Like Boys</a> ",
-  "num_followers": 8280,
+  "num_followers": 8284,
   "original_name": "RADAR BNLX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFHzMaTqWNCCgPLIhjKsqRmkXlSp",
+  "snapshot_id": "AAAAAL2hh867Kf65OwBUDhAqwNPq+mec",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "LY",
+        "url": "https://open.spotify.com/album/16nQg0IJ2lgJLXxg7bR77c"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 204249,
+      "name": "LY",
+      "url": "https://open.spotify.com/track/7c9MmK1KocaSXLhsXCDnCq"
+    },
     {
       "added_at": "2026-10-15 22:00:19",
       "album": {
@@ -36,25 +52,45 @@
           "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
         }
       ],
-      "duration_ms": 227408,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
+      "duration_ms": 238372,
+      "name": "Stonewall Riots Forever",
+      "url": "https://open.spotify.com/track/7crOLVTdtuCxsPVnrZJxSZ"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Spijt Komt Later",
+      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
     },
     {
       "added_at": "2026-10-15 22:00:19",
       "album": {
-        "name": "Dressed Like Boys",
-        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+        "name": "Niemand Wil Een Popster",
+        "url": "https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ"
       },
       "artists": [
         {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
         }
       ],
-      "duration_ms": 238372,
-      "name": "Stonewall Riots Forever",
-      "url": "https://open.spotify.com/track/7crOLVTdtuCxsPVnrZJxSZ"
+      "duration_ms": 178200,
+      "name": "Niemand Wil Een Popster",
+      "url": "https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL"
     },
     {
       "added_at": "2026-10-15 22:00:19",
@@ -77,36 +113,76 @@
       "url": "https://open.spotify.com/track/6585feosjoM8XJYrKDMHAi"
     },
     {
-      "added_at": "2026-10-15 22:00:19",
+      "added_at": "2026-10-29 23:00:56",
       "album": {
-        "name": "Niemand Wil Een Popster",
-        "url": "https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ"
+        "name": "OLYMPIA",
+        "url": "https://open.spotify.com/album/7tjANrVYCWX3mxqL6A7q0V"
       },
       "artists": [
         {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+          "name": "HIGH SOCIETY",
+          "url": "https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps"
+        },
+        {
+          "name": "NOBODYPANICC",
+          "url": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
+        },
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        },
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Niemand Wil Een Popster",
-      "url": "https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL"
+      "duration_ms": 140748,
+      "name": "F\u00a3ELING MYSELF",
+      "url": "https://open.spotify.com/track/4ssqFV5CiUDiaoN0AIVxbW"
     },
     {
       "added_at": "2026-10-15 22:00:19",
       "album": {
-        "name": "Komt Goed",
-        "url": "https://open.spotify.com/album/1lmA667UeqzMD0YYAMYzFs"
+        "name": "REAL W\u00a3T",
+        "url": "https://open.spotify.com/album/35dD6e2QnVR4JEZXvdZeQs"
       },
       "artists": [
         {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+          "name": "HIGH SOCIETY",
+          "url": "https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps"
+        },
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        },
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        },
+        {
+          "name": "NOBODYPANICC",
+          "url": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
         }
       ],
-      "duration_ms": 148070,
-      "name": "Komt Goed",
-      "url": "https://open.spotify.com/track/3qIJrZsdgUxtCjop0MD5gs"
+      "duration_ms": 139940,
+      "name": "REAL W\u00a3T",
+      "url": "https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823"
+    },
+    {
+      "added_at": "2026-10-15 22:00:19",
+      "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Brassen",
+      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
     },
     {
       "added_at": "2026-10-15 22:00:19",
@@ -179,66 +255,6 @@
     {
       "added_at": "2026-10-15 22:00:19",
       "album": {
-        "name": "REAL W\u00a3T",
-        "url": "https://open.spotify.com/album/35dD6e2QnVR4JEZXvdZeQs"
-      },
-      "artists": [
-        {
-          "name": "HIGH SOCIETY",
-          "url": "https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps"
-        },
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        },
-        {
-          "name": "Lostt",
-          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
-        },
-        {
-          "name": "NOBODYPANICC",
-          "url": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
-        }
-      ],
-      "duration_ms": 139940,
-      "name": "REAL W\u00a3T",
-      "url": "https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Ereronde (Deluxe)",
-        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "Brassen",
-      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Ereronde (Deluxe)",
-        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
-      },
-      "artists": [
-        {
-          "name": "OYSTER",
-          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
-        }
-      ],
-      "duration_ms": 173513,
-      "name": "100K Summer",
-      "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
         "name": "The Fear That This Is Real",
         "url": "https://open.spotify.com/album/59eUZ7LL95OYdNB2nxbsE4"
       },
@@ -285,6 +301,26 @@
       "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
     },
     {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
+        "url": "https://open.spotify.com/album/4r5YD8D2gp85QTuo6pcv26"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 183509,
+      "name": "Het Komt Door Jou",
+      "url": "https://open.spotify.com/track/5JWHSbwDQIXQP9532k3uqQ"
+    },
+    {
       "added_at": "2026-10-15 22:00:19",
       "album": {
         "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
@@ -303,26 +339,6 @@
       "duration_ms": 185429,
       "name": "Dat Ze Van Hem Houdt",
       "url": "https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83"
-    },
-    {
-      "added_at": "2026-10-15 22:00:19",
-      "album": {
-        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
-        "url": "https://open.spotify.com/album/0xuafuTa0s1CLtBfYdxtPy"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Voor Altijd",
-      "url": "https://open.spotify.com/track/1ptPxZ4Aca8AqU16BPeg9d"
     },
     {
       "added_at": "2026-10-15 22:00:19",

@@ -1,13 +1,29 @@
 {
-  "description": "The best new Irish music in one place \ud83d\udccd cover: Jazzy",
-  "num_followers": 121097,
+  "description": "The best new Irish music in one place \ud83d\udccd cover: Bleech 9:3",
+  "num_followers": 121103,
   "original_name": "Today's Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABulHq68FtWViEc6ogGjlr+Auiyn",
+  "snapshot_id": "AAAAAITW/GitKkcDbZj9Y3x5kI623x9O",
   "tracks": [
+    {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Painter (Double-Edged Sword)",
+        "url": "https://open.spotify.com/album/09lj5YdwOYyPaIS5eWTh6f"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 230593,
+      "name": "Painter (Double-Edged Sword)",
+      "url": "https://open.spotify.com/track/0fSKzFql99qPY9gOl7fFBa"
+    },
     {
       "added_at": "2026-10-22 23:00:39",
       "album": {
@@ -65,6 +81,22 @@
       "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
     },
     {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/46vINRMIj4B4NGtggNtTcX"
+      },
+      "artists": [
+        {
+          "name": "Bleech 9:3",
+          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
+        }
+      ],
+      "duration_ms": 249004,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6dC4zG0Tgl54OIz3WN3WPN"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "Poor Advice",
@@ -97,6 +129,22 @@
       "url": "https://open.spotify.com/track/3084upu49uQBjy279UQRSC"
     },
     {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/0Lzihig2NEtvysDdFQtCap"
+      },
+      "artists": [
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/5FmOlqVnQmVEmbT35R4kf8"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "The Greatest Show On Earth",
@@ -111,6 +159,26 @@
       "duration_ms": 334109,
       "name": "The Greatest Show On Earth",
       "url": "https://open.spotify.com/track/1nuMwM4FenyuzMbcmx6Lxk"
+    },
+    {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "true eyes",
+        "url": "https://open.spotify.com/album/7EELqUusIEDgRAwlv2H6Y9"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "duration_ms": 130160,
+      "name": "true eyes",
+      "url": "https://open.spotify.com/track/48RRZuWTjGh5lWNUsKcxvZ"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -273,6 +341,22 @@
       "url": "https://open.spotify.com/track/5E4lH1YcqN4LIGcE5TRmV1"
     },
     {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "When The Fun Stops",
+        "url": "https://open.spotify.com/album/5NjK3et2dUSlECCA8xRhMD"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "When The Fun Stops",
+      "url": "https://open.spotify.com/track/2fU1TgDgxw7ZJkjNjsbYRX"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "the dom perignons",
@@ -401,6 +485,22 @@
       "url": "https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P"
     },
     {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Child of Lir",
+        "url": "https://open.spotify.com/album/6FiFq0zjBe1OuBxX8FsWJj"
+      },
+      "artists": [
+        {
+          "name": "Oscar Blue",
+          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Child of Lir",
+      "url": "https://open.spotify.com/track/3CtMAfvZpYnSGRtKSjXjrn"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "Into the Motion",
@@ -485,6 +585,22 @@
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
     },
     {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Here Honey",
+        "url": "https://open.spotify.com/album/28FYJakvYebJS5qtd2OmIa"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Road",
+          "url": "https://open.spotify.com/artist/6S9cVNSaKsE2rdeVqban5w"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Here Honey",
+      "url": "https://open.spotify.com/track/1uF0hzguOCWKw3ntEaH73u"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "We Were Only Young",
@@ -549,6 +665,22 @@
       "url": "https://open.spotify.com/track/0hHVcMrY6JipPTBXclfnDh"
     },
     {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Pep Talk",
+        "url": "https://open.spotify.com/album/21HuDt27MQs0WV2vKLWXye"
+      },
+      "artists": [
+        {
+          "name": "Niamh McCrystal",
+          "url": "https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6"
+        }
+      ],
+      "duration_ms": 152707,
+      "name": "Pep Talk",
+      "url": "https://open.spotify.com/track/5Xj4hvmjBMmVtdI1qzbovR"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "Tourniquet",
@@ -563,6 +695,22 @@
       "duration_ms": 240512,
       "name": "Tourniquet",
       "url": "https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt"
+    },
+    {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Ladybirds",
+        "url": "https://open.spotify.com/album/4by9Uss8JOqlY7D7dcVTGt"
+      },
+      "artists": [
+        {
+          "name": "Lucy Blue",
+          "url": "https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo"
+        }
+      ],
+      "duration_ms": 182739,
+      "name": "Ladybirds",
+      "url": "https://open.spotify.com/track/0pL94IbabpLNr3TTrzXKLy"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -603,6 +751,22 @@
       "duration_ms": 240000,
       "name": "TAKE A TRIP (With Bricknasty & Khakikid)",
       "url": "https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq"
+    },
+    {
+      "added_at": "2026-10-30 00:00:28",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/12YhneKsxbpz9GlEpXsevZ"
+      },
+      "artists": [
+        {
+          "name": "palefase",
+          "url": "https://open.spotify.com/artist/4x7nX5fdyvHDJu3fxm3HF4"
+        }
+      ],
+      "duration_ms": 171228,
+      "name": "What You Started",
+      "url": "https://open.spotify.com/track/3w9oWaHByKZuSDzxGFwhie"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -1163,22 +1327,6 @@
     {
       "added_at": "2026-10-15 23:00:28",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/1bfjSRpS2OWgxFRmxiaQWO"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 230294,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
         "name": "TMTMF (tell me to my face)",
         "url": "https://open.spotify.com/album/2ePKLeUIvixtHzZS8r0V2e"
       },
@@ -1291,6 +1439,22 @@
       "duration_ms": 148000,
       "name": "The Sun Will Never Settle",
       "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
+    },
+    {
+      "added_at": "2026-10-15 23:00:28",
+      "album": {
+        "name": "Wild Horses",
+        "url": "https://open.spotify.com/album/7K1AncQZSSd0wUVK3aWNjM"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/5CWstgZrgIFR6GFJHJnQ3W"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -1447,54 +1611,6 @@
     {
       "added_at": "2026-10-15 23:00:28",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7b0yiSwEMuHFDcTqdh8Lte"
-      },
-      "artists": [
-        {
-          "name": "Bleech 9:3",
-          "url": "https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL"
-        }
-      ],
-      "duration_ms": 185507,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/2AbiWiDcpNcKkHeJqxWx1Z"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "remember my name",
-        "url": "https://open.spotify.com/album/5xylOGmCjHPVBpPpo0SpbN"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 221459,
-      "name": "remember my name",
-      "url": "https://open.spotify.com/track/5xmNuWZX1YTmuqH0V8Nlw3"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "The Weight of the Woods",
-        "url": "https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 230418,
-      "name": "Turnstile",
-      "url": "https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
         "name": "TomTom",
         "url": "https://open.spotify.com/album/7mj8zoiSp15MzAvtHl3Jqw"
       },
@@ -1587,74 +1703,6 @@
       "duration_ms": 118153,
       "name": "Eimear",
       "url": "https://open.spotify.com/track/2zyOvwdn3gIZaZQpajXxPa"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/0XoliO26rrMv7jZevm6Mjx"
-      },
-      "artists": [
-        {
-          "name": "Jordan O'Keefe",
-          "url": "https://open.spotify.com/artist/5fCQtP3FiwsFOv84fnPV8x"
-        }
-      ],
-      "duration_ms": 200331,
-      "name": "History",
-      "url": "https://open.spotify.com/track/2HQlRWQAxJlCNQEMehwtYC"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Trying: Season 5 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        },
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 198519,
-      "name": "So Perfect",
-      "url": "https://open.spotify.com/track/2ghQex1XgicbaZg3t6n3Ty"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Wild Horses",
-        "url": "https://open.spotify.com/album/7K1AncQZSSd0wUVK3aWNjM"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/5CWstgZrgIFR6GFJHJnQ3W"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Doomsday...Don't Leave Me Here",
-        "url": "https://open.spotify.com/album/41cGERYiX0rB1MTrKZbmBG"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 208412,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/5jMgYPWRj0cDcpv8rJrbO1"
     }
   ],
   "unique_name": "Today's Ireland",

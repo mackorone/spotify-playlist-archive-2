@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIIeDESz1ZP.md) - [plain]
 
 > Slow down and enjoy\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 128 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIIeDESz1ZP.md) - [plain]
 | 29 | [A La Niña Que Fui](https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [PUERTA ABIERTA](https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P) | 3:05 |
 | 30 | [LA MENTIRA](https://open.spotify.com/track/1HARleByJr6d2W0YOGJaGz) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/2tkALcfwiliE3kyOlVMWYQ) | 3:01 |
 
-Snapshot ID: `AAAAAD/S7foaubOy1uv7yVVMz++IyvfV`
+Snapshot ID: `AAAAAHEMLb4qSgiT8t5dPviRo3iq/fpU`

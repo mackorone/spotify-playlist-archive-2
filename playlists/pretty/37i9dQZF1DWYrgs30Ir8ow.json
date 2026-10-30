@@ -1,84 +1,28 @@
 {
-  "description": "Altijd frisse hits! Cover: Kevin & Idaly",
-  "num_followers": 38270,
+  "description": "Altijd frisse hits! Cover: Dominic Fike",
+  "num_followers": 38266,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIskchnFu2xFgObu3tKgC3qGrlyN",
+  "snapshot_id": "AAAAAJONdZ0ww8StWKZTi5JwNeEXn0FW",
   "tracks": [
     {
-      "added_at": "2026-10-22 22:01:42",
+      "added_at": "2026-10-29 23:01:17",
       "album": {
-        "name": "SRRY",
-        "url": "https://open.spotify.com/album/6F7axLlLeeN3bHaL2btEKP"
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
       },
       "artists": [
         {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 194010,
-      "name": "SRRY",
-      "url": "https://open.spotify.com/track/2lGnl3YSGwG5glYC4l7Jxv"
-    },
-    {
-      "added_at": "2026-10-15 22:00:23",
-      "album": {
-        "name": "Ik Haat Je",
-        "url": "https://open.spotify.com/album/2KYisYmKm6X6vPqBWZzMMm"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        },
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        }
-      ],
-      "duration_ms": 134437,
-      "name": "Ik Haat Je",
-      "url": "https://open.spotify.com/track/6585feosjoM8XJYrKDMHAi"
-    },
-    {
-      "added_at": "2026-10-15 22:00:23",
-      "album": {
-        "name": "SLICK",
-        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 106909,
-      "name": "SLICK",
-      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
-    },
-    {
-      "added_at": "2026-10-19 10:00:36",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+      "duration_ms": 145099,
+      "name": "PANGEA",
+      "url": "https://open.spotify.com/track/4aAoJzg1L7TRWPNsuPzZD4"
     },
     {
       "added_at": "2026-10-22 22:01:42",
@@ -101,22 +45,6 @@
       "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
-      "added_at": "2026-10-15 22:00:23",
-      "album": {
-        "name": "GGZ",
-        "url": "https://open.spotify.com/album/41MRGU73ataKlGfJZU1G6r"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 160943,
-      "name": "GGZ",
-      "url": "https://open.spotify.com/track/3iyMNlT06VVYsraeRvMR0w"
-    },
-    {
       "added_at": "2026-10-22 22:01:42",
       "album": {
         "name": "Qlassiek",
@@ -131,6 +59,54 @@
       "duration_ms": 143684,
       "name": "Geen Lovesong",
       "url": "https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO"
+    },
+    {
+      "added_at": "2026-10-22 22:01:42",
+      "album": {
+        "name": "Kom Naar Huis",
+        "url": "https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl"
+      },
+      "artists": [
+        {
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+        }
+      ],
+      "duration_ms": 167890,
+      "name": "Kom Naar Huis",
+      "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
+    },
+    {
+      "added_at": "2026-10-29 23:01:17",
+      "album": {
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
+    },
+    {
+      "added_at": "2026-10-15 22:00:23",
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "added_at": "2026-10-22 22:01:42",
@@ -161,20 +137,88 @@
       "url": "https://open.spotify.com/track/5AAmx0PVyKogRIn9bEfO47"
     },
     {
-      "added_at": "2026-10-22 22:01:42",
+      "added_at": "2026-10-29 23:01:17",
       "album": {
-        "name": "Kom Naar Huis",
-        "url": "https://open.spotify.com/album/6FHcWEqkMZf3sGWyB6YvMl"
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
       },
       "artists": [
         {
-          "name": "The Opposites",
-          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 167890,
-      "name": "Kom Naar Huis",
-      "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
+    },
+    {
+      "added_at": "2026-10-22 22:01:42",
+      "album": {
+        "name": "5 STERREN",
+        "url": "https://open.spotify.com/album/0qhtp2NllpRrktzUFGj7QV"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "5 STERREN",
+      "url": "https://open.spotify.com/track/3IArz6vZ04ql8YH9IshIB0"
+    },
+    {
+      "added_at": "2026-10-29 23:01:17",
+      "album": {
+        "name": "THAT'S SHOWBIZ BABY!",
+        "url": "https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq"
+    },
+    {
+      "added_at": "2026-10-15 22:00:23",
+      "album": {
+        "name": "What Did You Come For ?",
+        "url": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 221534,
+      "name": "Trapped - Radio-Edit",
+      "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
+    },
+    {
+      "added_at": "2026-10-29 23:01:17",
+      "album": {
+        "name": "Draw You Out",
+        "url": "https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 255984,
+      "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
     },
     {
       "added_at": "2026-10-15 22:00:23",
@@ -197,36 +241,24 @@
       "url": "https://open.spotify.com/track/136gKCrEqngRWnuqhITjin"
     },
     {
-      "added_at": "2026-10-22 22:01:42",
+      "added_at": "2026-10-29 23:01:17",
       "album": {
-        "name": "5 STERREN",
-        "url": "https://open.spotify.com/album/0qhtp2NllpRrktzUFGj7QV"
+        "name": "HABIBTI (FOMO)",
+        "url": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI"
       },
       "artists": [
         {
-          "name": "Kaya Imani",
-          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "5 STERREN",
-      "url": "https://open.spotify.com/track/3IArz6vZ04ql8YH9IshIB0"
-    },
-    {
-      "added_at": "2026-10-15 22:00:23",
-      "album": {
-        "name": "What Did You Come For ?",
-        "url": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e"
-      },
-      "artists": [
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 221534,
-      "name": "Trapped - Radio-Edit",
-      "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
+      "duration_ms": 218388,
+      "name": "Solar Eclipse (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u"
     },
     {
       "added_at": "2026-10-15 22:00:23",
@@ -299,22 +331,6 @@
       "duration_ms": 195285,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
-    },
-    {
-      "added_at": "2026-10-15 22:00:23",
-      "album": {
-        "name": "Dicht Bij Het Vuur",
-        "url": "https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 224610,
-      "name": "Dicht Bij Het Vuur",
-      "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
     },
     {
       "added_at": "2026-10-15 22:00:23",
@@ -527,46 +543,6 @@
     {
       "added_at": "2026-10-15 22:00:23",
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        }
-      ],
-      "duration_ms": 166159,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
-    },
-    {
-      "added_at": "2026-10-15 22:00:23",
-      "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66"
-      },
-      "artists": [
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
-        },
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        }
-      ],
-      "duration_ms": 150432,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK"
-    },
-    {
-      "added_at": "2026-10-15 22:00:23",
-      "album": {
         "name": "bad taste",
         "url": "https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL"
       },
@@ -715,6 +691,26 @@
       "duration_ms": 213133,
       "name": "The Team",
       "url": "https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU"
+    },
+    {
+      "added_at": "2026-10-15 22:00:23",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        }
+      ],
+      "duration_ms": 166159,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
     },
     {
       "added_at": "2026-10-15 22:00:23",

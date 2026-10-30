@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-372 songs - 22 hr 50 min
+373 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [HU4D](https://open.spotify.com/track/5MPZyHWn8YpxQEw4KqQ8FR) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [HU4D](https://open.spotify.com/album/0hgyPBuj4JvRQ6adRvkkAP) | 3:50 | 2026-04-23 | 2026-06-30 |
 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 | 2025-04-01 | 2026-04-24 |
 | [I Can't Forget You](https://open.spotify.com/track/4fxjNTmcKzS83xYigEC8cp) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [I Can't Forget You](https://open.spotify.com/album/22isBBRfzRQ2QuHDn00D8k) | 4:23 | 2025-05-07 | 2026-02-11 |
+| [I CAN’T LOSE YOU](https://open.spotify.com/track/52eQQFMKREAhBDHgIsSGhK) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/4kye7T51OG0GxK30q8NkxH) | 2:33 | 2026-10-18 |  |
 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 | 2026-04-23 |  |
 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2022-12-01 |  |
 | [I Want Ya](https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [EIGHT](https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt) | 4:23 | 2026-04-23 | 2026-07-05 |
@@ -335,7 +336,7 @@
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-22 | 2023-07-14 |
 | [Thunder](https://open.spotify.com/track/7FIqV18aiAsJpoeiE8pF7F) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Thunder EP](https://open.spotify.com/album/6CjCXLcpkqbzSgmUARdgF1) | 5:01 | 2026-07-30 |  |
 | [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2023-04-20 | 2025-03-05 |
-| [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 | 2025-08-01 |  |
+| [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 | 2025-08-01 | 2026-10-30 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-06-01 | 2024-04-19 |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/78CrWTmzkDNQodFtV6kJIa) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/1iiXBkAFITzUQhBiuYqWQh) | 2:39 | 2024-02-01 |  |
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-10-09 |  |

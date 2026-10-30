@@ -64,7 +64,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 174418,
       "name": "Frontier (feat. \u97f3\u8857\u30a6\u30ca & \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/091lPKC1bXm2L1fcslptBP"
@@ -160,6 +160,28 @@
       "duration_ms": 196285,
       "name": "LADY BUG",
       "url": "https://open.spotify.com/track/3sVMUB3DPlXfRwUM7yfi7O"
+    },
+    {
+      "album": {
+        "name": "LEGENDS",
+        "url": "https://open.spotify.com/album/2bi53lg1VS3SfIcWQ5zxGC"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "LEGENDS (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3ixQbQNE2wNRlIUa2WktOj"
     },
     {
       "album": {
@@ -384,7 +406,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 246075,
       "name": "Yoyo2 (feat. \u8db3\u7acb\u30ec\u30a4)",
       "url": "https://open.spotify.com/track/1FPcqQSvqgR7c25hFmyXQn"
@@ -596,7 +618,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 181333,
       "name": "\u3048\u306d\u307f\u3043 (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/0hS31wkSGx2b5D7AQc0fYT"
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 177773,
       "name": "\u30a2\u30b9\u30ce\u30e8\u30be\u30e9\u54e8\u6212\u73ed",
       "url": "https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl"
@@ -1332,6 +1354,24 @@
       "duration_ms": 209142,
       "name": "\u30a2\u30f4\u30a1\u30fc\u30c8",
       "url": "https://open.spotify.com/track/2DzCfvlMnSkXDN673Mrmt3"
+    },
+    {
+      "album": {
+        "name": "EGO ELECTRIC",
+        "url": "https://open.spotify.com/album/6mMnE3zQFA8deJftmR6A4C"
+      },
+      "artists": [
+        {
+          "name": "kinoshita",
+          "url": "https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126959,
+      "name": "\u30a6\u30ca\u30ca\u30a4\u30c8\u2606\u30c7\u30a3\u30b9\u30b3 - SUGAR",
+      "url": "https://open.spotify.com/track/7fyYYbRyj2feIAjOKbHp46"
     },
     {
       "album": {
@@ -2664,7 +2704,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 168281,
       "name": "\u30de\u30a4\u30d0\u30c3\u30c9",
       "url": "https://open.spotify.com/track/3xVK1mNANmgsYeGhLWrqSM"
@@ -3126,7 +3166,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 134071,
       "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF"
@@ -3216,7 +3256,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 194000,
       "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
@@ -3801,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "\u661f\u3001\u3068\u304d\u3069\u304d\u5149",
+        "url": "https://open.spotify.com/album/1Kxv7gIQTCcfYpQh4RC3Qt"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u3070\u3089\u3084",
+          "url": "https://open.spotify.com/artist/62BcD1onjN2mkljVC74jeJ"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "\u661f\u3001\u3068\u304d\u3069\u304d\u5149",
+      "url": "https://open.spotify.com/track/7A1Kt0NbQan7bf6EASO93w"
+    },
+    {
+      "album": {
         "name": "\u3088\u308b\u3064\u3080\u304e",
         "url": "https://open.spotify.com/album/4dZw65evulj7MRAL7RArdd"
       },
@@ -4322,6 +4380,54 @@
       "duration_ms": 122642,
       "name": "\u91cd\u97f3\u30c6\u30c8\u306e\u51b7\u5531 (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/0uSjnGbvji78V2VOgnIv6r"
+    },
+    {
+      "album": {
+        "name": "\u958b\u6f14",
+        "url": "https://open.spotify.com/album/7oy92nXbEx3DnXGKqrUk45"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212447,
+      "name": "\u958b\u6f14 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4jyZbblvGHJnZxH8SGAAor"
+    },
+    {
+      "album": {
+        "name": "\u958b\u6f14 another ver.",
+        "url": "https://open.spotify.com/album/3odWM7F7zJakDiI5NXhq5U"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "\u958b\u6f14 another ver. (feat. KAITO&MEIKO)",
+      "url": "https://open.spotify.com/track/6ekac50aYuObgFeUnPUoLq"
     },
     {
       "album": {

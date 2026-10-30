@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: tickertape
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,828 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,911 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 99 | [Room of Levitation](https://open.spotify.com/track/4LWCTnfQfJtE98C9LuYUOA) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [Letting Go of Forever](https://open.spotify.com/album/6l3t6AkKUCJU2Zdk9g5aCj) | 2:23 |
 | 100 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
 
-Snapshot ID: `AAAAAP7Pw4kI4vjaiBhCLsz143wqw/aC`
+Snapshot ID: `AAAAAPvYsfj1nGTng4+zGm/x82xTJQNn`

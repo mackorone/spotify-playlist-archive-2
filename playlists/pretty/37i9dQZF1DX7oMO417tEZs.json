@@ -1,13 +1,29 @@
 {
   "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: The Avalanches",
-  "num_followers": 187715,
+  "num_followers": 187745,
   "original_name": "Proto-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQsrFSaAFbJ+m6cg1kLVUlYNLHI",
+  "snapshot_id": "AAAAAPh5mg2zi69zvUNQuNb+13dp3ECV",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:02:55",
+      "album": {
+        "name": "S\u00e9r\u00e9nade / Savage",
+        "url": "https://open.spotify.com/album/6M4JE1DAu0Go692WDk3LxF"
+      },
+      "artists": [
+        {
+          "name": "IDHEM",
+          "url": "https://open.spotify.com/artist/0ev3YqTtoPa2dtCEG2HNDa"
+        }
+      ],
+      "duration_ms": 109859,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/5XiiA5KKvQCNVMxDEC5fFE"
+    },
     {
       "added_at": "2026-10-23 04:03:25",
       "album": {
@@ -219,6 +235,42 @@
       "duration_ms": 179294,
       "name": "Fly",
       "url": "https://open.spotify.com/track/1TWxiU8jL0blI5oxWfMgBq"
+    },
+    {
+      "added_at": "2026-10-30 04:02:55",
+      "album": {
+        "name": "LIFE KEEPS GOING (Normal Pleasure Remix)",
+        "url": "https://open.spotify.com/album/24YxFy8bHQmefEydI7PuoB"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        },
+        {
+          "name": "Normal Pleasure",
+          "url": "https://open.spotify.com/artist/4khBCYLWyHyGoOpkAoJkyI"
+        }
+      ],
+      "duration_ms": 259090,
+      "name": "LIFE KEEPS GOING - Normal Pleasure Remix",
+      "url": "https://open.spotify.com/track/2EFCkzN3NFP3S9m7SIgrDe"
+    },
+    {
+      "added_at": "2026-10-30 04:02:55",
+      "album": {
+        "name": "White widow",
+        "url": "https://open.spotify.com/album/5aKs8lclD9k9E1v0MVywMu"
+      },
+      "artists": [
+        {
+          "name": "def sera",
+          "url": "https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE"
+        }
+      ],
+      "duration_ms": 117790,
+      "name": "White widow",
+      "url": "https://open.spotify.com/track/5Z3hqwmQ27u39JHhjIljAM"
     },
     {
       "added_at": "2026-10-16 18:24:47",

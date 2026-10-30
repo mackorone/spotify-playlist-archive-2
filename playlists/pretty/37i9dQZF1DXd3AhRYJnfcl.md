@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: ابو الهوا
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,209 likes - 54 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,689 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 53 | [Shoft El Donya](https://open.spotify.com/track/1zeSBKVXV4VREMEnPouiTl) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Omry Maak](https://open.spotify.com/album/3vvDdIvYc1Y4NnLtdA8Zzt) | 4:14 |
 | 54 | [حرية قرار](https://open.spotify.com/track/5DqiilkwBdbsgGh5C8fp6t) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [هيبة](https://open.spotify.com/album/7AFvHWV66mxfHLaV6yhqZb) | 5:08 |
 
-Snapshot ID: `AAAAAPcSdHpyuecHA6ifBbGIEhEo6pa2`
+Snapshot ID: `AAAAAFTinFEmSz5oa0864UmmgSkBiS28`

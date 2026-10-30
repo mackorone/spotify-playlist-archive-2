@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 224000,
       "name": "Brillas - En Vivo",
       "url": "https://open.spotify.com/track/7AYMtuw8bNMhFOX3aeHcDM"
@@ -759,6 +759,28 @@
     },
     {
       "album": {
+        "name": "Por Salud Mental (Deluxe)",
+        "url": "https://open.spotify.com/album/2fwxl4SdfkEKQ2vqog4CLM"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/1qpEUr8HPiTfaJTNon7deM"
+    },
+    {
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/3MesSL4BYvkWxC5c6ZcOBf"
       },
@@ -774,7 +796,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 160000,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/7ANDTDlIAPivLtBrEm2JRx"
@@ -2334,6 +2356,28 @@
       "duration_ms": 196000,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    },
+    {
+      "album": {
+        "name": "Ya Lo S\u00e9 Todo",
+        "url": "https://open.spotify.com/album/3ELow8rGPkFS4AyJj7sffv"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor De Arturo Rodriguez",
+          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Ya Lo S\u00e9 Todo",
+      "url": "https://open.spotify.com/track/1ErEKhh7Tro9hteuTewTLA"
     },
     {
       "album": {

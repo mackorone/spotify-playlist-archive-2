@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 144000,
       "name": "3 FORES",
       "url": "https://open.spotify.com/track/07BGGf3ZRVI7deiQMv3kW2"
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176921,
       "name": "ANAMNISEIS",
       "url": "https://open.spotify.com/track/6nt2JfQgd1ruVkA4zdNzYC"
@@ -3891,6 +3891,28 @@
     },
     {
       "album": {
+        "name": "ME VS ALL",
+        "url": "https://open.spotify.com/album/3OpiJ2ASmjeb9tlfFpYU6r"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "CHICAGO",
+      "url": "https://open.spotify.com/track/0pmjIHnzC5cA4bxMxEAviW"
+    },
+    {
+      "album": {
         "name": "CHOCO FRESH",
         "url": "https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv"
       },
@@ -4276,6 +4298,32 @@
       "duration_ms": 147130,
       "name": "D%SCO",
       "url": "https://open.spotify.com/track/0BhZFH8Ub1Kvwu1EBMGzl8"
+    },
+    {
+      "album": {
+        "name": "Dagestan",
+        "url": "https://open.spotify.com/album/3iC9H4iI6ptVbQrjNFfUnQ"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "triablo",
+          "url": "https://open.spotify.com/artist/7lbowexgD4KYoAZbttTGnr"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Dagestan",
+      "url": "https://open.spotify.com/track/52gG1ahhflE2zjxc5R8yCa"
     },
     {
       "album": {
@@ -7082,7 +7130,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169846,
       "name": "GEN Z",
       "url": "https://open.spotify.com/track/4MNXP9RbzehazE3ZwyWrKJ"
@@ -7559,6 +7607,28 @@
     },
     {
       "album": {
+        "name": "GOUSTAREI",
+        "url": "https://open.spotify.com/album/0DK32gaYIFI0EUazkxq4Aj"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Babu 101",
+          "url": "https://open.spotify.com/artist/3Dlf6mlkkiYpKAvN1JxL6H"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "GOUSTAREI",
+      "url": "https://open.spotify.com/track/4lImgorP9eA6MqjZzDJVQ4"
+    },
+    {
+      "album": {
         "name": "GR",
         "url": "https://open.spotify.com/album/2jCqETaTAqVDcUSopYq1nh"
       },
@@ -7898,7 +7968,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176511,
       "name": "HAHAHA 2",
       "url": "https://open.spotify.com/track/5EAy0J6wLVOb0qR9eR9Rsa"
@@ -9186,7 +9256,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 153750,
       "name": "KATASTROFES",
       "url": "https://open.spotify.com/track/5wKeS174oywnGe2Gom5gTS"
@@ -12809,6 +12879,28 @@
     },
     {
       "album": {
+        "name": "OKEAN 2",
+        "url": "https://open.spotify.com/album/0iDL7T1RzyH9P3lX2PUVro"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189008,
+      "name": "OKEAN 2",
+      "url": "https://open.spotify.com/track/1sCuHFqeaB0Sw45kSlJf22"
+    },
+    {
+      "album": {
         "name": "OLA GYRNANE",
         "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
       },
@@ -14521,6 +14613,32 @@
     },
     {
       "album": {
+        "name": "PLAN B",
+        "url": "https://open.spotify.com/album/309cCswyeGsCuNnoYkBlhl"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "PIO KONTA",
+      "url": "https://open.spotify.com/track/5hL91EFdMpPYTTuTkWqwF9"
+    },
+    {
+      "album": {
         "name": "PIRATES",
         "url": "https://open.spotify.com/album/1sX7gogveZwnm2XNAap1Kb"
       },
@@ -15698,6 +15816,28 @@
       "duration_ms": 123750,
       "name": "Reposado",
       "url": "https://open.spotify.com/track/36rbiCAxIo8Ty0LXwg3pMX"
+    },
+    {
+      "album": {
+        "name": "ME VS ALL",
+        "url": "https://open.spotify.com/album/3OpiJ2ASmjeb9tlfFpYU6r"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/7gfUHGfZif96Z5gIvp7NLQ"
     },
     {
       "album": {
@@ -19260,7 +19400,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 176843,
       "name": "WHISKEY",
       "url": "https://open.spotify.com/track/7y6Nl7g2lPJ3zP4RaN33DE"

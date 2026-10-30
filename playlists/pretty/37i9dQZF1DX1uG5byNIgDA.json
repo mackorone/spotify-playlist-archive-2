@@ -1,12 +1,12 @@
 {
   "description": "\ud589\ubcf5\ud558\uace0 \uc2e0\ub098\ub294 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \uac13\uc0dd\uc744 \uc2dc\uc791\ud574\ubcf4\uc138\uc694! \ucd9c\ud1f4\uadfc \uae38\uc5d0 \ub4e4\uc73c\uc2dc\uba74 \ub354\uc6b1 \uc88b\uc2b5\ub2c8\ub2e4. (Kickstart your day with high-energy vibes, the ultimate soundtrack for your hustle and commute.)",
-  "num_followers": 215635,
+  "num_followers": 215594,
   "original_name": "RUSH HOUR: \uac13\uc0dd ON!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANn4IxXdB4J4zcDAqTA/cy8bGvOy",
+  "snapshot_id": "AAAAAJWV7tcA5Mf8+/jHHSp7Xg/YdcKV",
   "tracks": [
     {
       "added_at": "2026-07-03 07:27:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-07-03 07:27:32",
       "album": {
-        "name": "LEMONADE - The 2nd Album",
-        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
-    },
-    {
-      "added_at": "2026-07-03 07:27:32",
-      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "added_at": "2026-07-03 07:27:32",
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
     },
     {
       "added_at": "2026-07-03 07:27:32",

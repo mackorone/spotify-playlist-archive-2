@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Isabel Dumaa",
-  "num_followers": 219528,
+  "num_followers": 219538,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8lyBzwIcoaeurz2rrFnKmbZCZ9",
+  "snapshot_id": "AAAAACvHHqmir07fnMNu5TWnsz0RQEq+",
   "tracks": [
     {
       "added_at": "2026-10-23 04:02:28",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn"
     },
     {
+      "added_at": "2026-10-30 04:01:39",
+      "album": {
+        "name": "Put It In A Song",
+        "url": "https://open.spotify.com/album/47aMHZJPLahpmq1dbSLOiD"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "duration_ms": 185138,
+      "name": "Put It In A Song",
+      "url": "https://open.spotify.com/track/5LFPBkSSKyT3rnP3iSAaQh"
+    },
+    {
+      "added_at": "2026-10-30 04:01:39",
+      "album": {
+        "name": "Painter (Double-Edged Sword)",
+        "url": "https://open.spotify.com/album/09lj5YdwOYyPaIS5eWTh6f"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 230593,
+      "name": "Painter (Double-Edged Sword)",
+      "url": "https://open.spotify.com/track/0fSKzFql99qPY9gOl7fFBa"
+    },
+    {
       "added_at": "2026-10-23 04:02:28",
       "album": {
         "name": "1.3",
@@ -39,6 +71,22 @@
       "duration_ms": 213333,
       "name": "Haven\u2019t Said Many I Love You\u2019s Yet",
       "url": "https://open.spotify.com/track/0xcHxDudApcS1z74ZYy3Gx"
+    },
+    {
+      "added_at": "2026-10-30 04:01:39",
+      "album": {
+        "name": "It All Comes To End",
+        "url": "https://open.spotify.com/album/5j820r3qXPjho7Sehhlkr2"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 249187,
+      "name": "It All Comes To End",
+      "url": "https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC"
     },
     {
       "added_at": "2026-10-23 04:02:28",
@@ -605,22 +653,6 @@
       "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
     },
     {
-      "added_at": "2026-08-07 05:20:14",
-      "album": {
-        "name": "Hollywood Sign",
-        "url": "https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF"
-      },
-      "artists": [
-        {
-          "name": "Aaron Rowe",
-          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
-        }
-      ],
-      "duration_ms": 241169,
-      "name": "Hollywood Sign",
-      "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
-    },
-    {
       "added_at": "2026-08-28 04:03:00",
       "album": {
         "name": "WHAT AM I DOING?",
@@ -1105,22 +1137,6 @@
       "url": "https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh"
     },
     {
-      "added_at": "2026-07-06 20:49:16",
-      "album": {
-        "name": "Samaerica (Deluxe)",
-        "url": "https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j"
-      },
-      "artists": [
-        {
-          "name": "Samaera",
-          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
-        }
-      ],
-      "duration_ms": 136193,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h"
-    },
-    {
       "added_at": "2026-06-26 04:00:35",
       "album": {
         "name": "Die Next To You",
@@ -1199,22 +1215,6 @@
       "duration_ms": 257386,
       "name": "Baby Again",
       "url": "https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b"
-    },
-    {
-      "added_at": "2026-06-12 04:56:00",
-      "album": {
-        "name": "Small Philosophies",
-        "url": "https://open.spotify.com/album/26EdmznN7QhNWNvtXVZbV2"
-      },
-      "artists": [
-        {
-          "name": "Alkyone",
-          "url": "https://open.spotify.com/artist/0tHJO69AKpp9qz6a0Tg6Rt"
-        }
-      ],
-      "duration_ms": 178262,
-      "name": "Favorite Things",
-      "url": "https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

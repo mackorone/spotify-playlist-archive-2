@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: TUFF KING
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,971 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,066 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 37 | [Pressure](https://open.spotify.com/track/5qXKP8mciCAtjLfr91LwVl) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 2:50 |
 | 38 | [Better](https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0) | [Khid Ceejay](https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Better](https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui) | 2:21 |
 | 39 | [CHE](https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [CHE](https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x) | 2:24 |
-| 40 | [More bands](https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Jayduh](https://open.spotify.com/artist/4WDR1dWlBAX1cCYTWRbam3) | [Dolla](https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC) | 1:35 |
+| 40 | [More bands](https://open.spotify.com/track/1XOByJHHQbZzYsqaUCDYVS) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [jayduh](https://open.spotify.com/artist/5pmGu9XaXIvaQEHBYOxhnG) | [Dolla](https://open.spotify.com/album/0h2zuolZ8G51qdDumOuKnC) | 1:35 |
 | 41 | [Bullion Van](https://open.spotify.com/track/3fwtpRJTP34iZCGHtP8v63) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Bullion Van](https://open.spotify.com/album/5wUCNSjLXZ8sVs5rsN1Xhb) | 2:16 |
 | 42 | [GOAT](https://open.spotify.com/track/2SYoEKRDGagZfv0lc4IQRm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [GOAT](https://open.spotify.com/album/1oK2wDRFLxKl6J4iv6OaRB) | 2:35 |
 | 43 | [Comfort](https://open.spotify.com/track/3QFhAWy6waNB7igaBsLfoK) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Comfort](https://open.spotify.com/album/4fD3EutBzZNAkVF2CD8ZQc) | 2:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Daddy, I'm Going Out](https://open.spotify.com/track/3PkU0NhQmbeh1lIsDi8tyr) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Daddy, I'm Going Out](https://open.spotify.com/album/26l5EcfY8MUwU0W86Eo3Qy) | 2:32 |
 | 80 | [O rí mi](https://open.spotify.com/track/3R4GEid3JLlWuujA7HlRQt) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [O rí mi](https://open.spotify.com/album/1O6BfPiNKoMy1iIZOHekVG) | 2:45 |
 
-Snapshot ID: `AAAAAKuLPS8Dr7X3h4+9y6B9YeB76FQb`
+Snapshot ID: `AAAAAH0VqhNOEujfXY6s9NeskzkKacOM`

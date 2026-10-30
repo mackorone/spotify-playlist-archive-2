@@ -1,13 +1,65 @@
 {
-  "description": "Frisse Nederlandse pop. Cover: The Opposites",
-  "num_followers": 246075,
+  "description": "Frisse Nederlandse pop. Cover: MEAU",
+  "num_followers": 246054,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALuqQSBnSkU9ZFitzrbYRc80BaQj",
+  "snapshot_id": "AAAAAB5a9qhXX89SRKSvWofvnlBsr51G",
   "tracks": [
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6Gs0vdXD7eSA78AKOEr9vT"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 196449,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4iLk5iLSNkdUNtEfezfIhS"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Alles Wat Ik Wil",
+        "url": "https://open.spotify.com/album/34n69oaIPTCbl4KjYugNC6"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 200823,
+      "name": "Alles Wat Ik Wil",
+      "url": "https://open.spotify.com/track/3BhRPtVVQ4LMcpbnRZGBQi"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Spijt Komt Later",
+      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
+    },
     {
       "added_at": "2026-10-22 22:01:32",
       "album": {
@@ -23,6 +75,70 @@
       "duration_ms": 167890,
       "name": "Kom Naar Huis",
       "url": "https://open.spotify.com/track/0AiV3GOzUgApmygZJNbw3z"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Wees Voorzichtig Met Mijn Hart",
+        "url": "https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Wees Voorzichtig Met Mijn Hart",
+      "url": "https://open.spotify.com/track/7gKc80RPemdMXkjvMW6bUc"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "wereld op z\u2019n kop",
+        "url": "https://open.spotify.com/album/0YfnobRzZiUlU16fZkG2eT"
+      },
+      "artists": [
+        {
+          "name": "milo3",
+          "url": "https://open.spotify.com/artist/4GjsxBx6dxRn5JQNjPyuhk"
+        }
+      ],
+      "duration_ms": 198398,
+      "name": "wereld op z\u2019n kop",
+      "url": "https://open.spotify.com/track/4lGSkwQOJCij9QUzyOb8m8"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Stiekem",
+        "url": "https://open.spotify.com/album/5q7alv6gzDpj0I05FKyhpu"
+      },
+      "artists": [
+        {
+          "name": "Roeland Beelen",
+          "url": "https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Stiekem",
+      "url": "https://open.spotify.com/track/0i5m88E5qthJl3UEuYLfQ5"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/4XJ8X6FdOLiZSDHX4wDeAg"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 221990,
+      "name": "Rookgordijn",
+      "url": "https://open.spotify.com/track/0O7wIeAFiCc5FqmIuT68rd"
     },
     {
       "added_at": "2026-10-22 22:01:32",
@@ -81,36 +197,52 @@
       "url": "https://open.spotify.com/track/6PEzxrlhXO0FVpYMMMvJT2"
     },
     {
-      "added_at": "2026-10-22 22:01:32",
+      "added_at": "2026-10-29 23:00:56",
       "album": {
-        "name": "Vloed",
-        "url": "https://open.spotify.com/album/2sxTevZRGYfnVHb1kOgEKE"
+        "name": "AAAAAH!",
+        "url": "https://open.spotify.com/album/2p0B6TBaZNJdX1KiGyBjTD"
       },
       "artists": [
         {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
         }
       ],
-      "duration_ms": 201722,
-      "name": "Vloed",
-      "url": "https://open.spotify.com/track/7FBRV6BeEeRkAPsFnfX32s"
+      "duration_ms": 170119,
+      "name": "Zie Je Mij?",
+      "url": "https://open.spotify.com/track/2wpcbUpCmyjNzSfKXuB8qK"
     },
     {
-      "added_at": "2026-10-15 22:00:25",
+      "added_at": "2026-10-29 23:00:56",
       "album": {
-        "name": "Adem Uit Adem In",
-        "url": "https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj"
+        "name": "Ook Al Past Het Niet",
+        "url": "https://open.spotify.com/album/5F1AGl8AuJvH193tkcU4vt"
       },
       "artists": [
         {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+          "name": "Mathilde Bloom",
+          "url": "https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM"
         }
       ],
-      "duration_ms": 167622,
-      "name": "Adem Uit Adem In",
-      "url": "https://open.spotify.com/track/46jmrLsm5R65DtFErMIQy8"
+      "duration_ms": 183642,
+      "name": "Ook Al Past Het Niet",
+      "url": "https://open.spotify.com/track/7bJdzwoNx3v7el7E6nljDI"
+    },
+    {
+      "added_at": "2026-10-29 23:00:56",
+      "album": {
+        "name": "Wagenziek",
+        "url": "https://open.spotify.com/album/30TH5fJAP6TdaYkPF6D8b7"
+      },
+      "artists": [
+        {
+          "name": "FAY",
+          "url": "https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Wagenziek",
+      "url": "https://open.spotify.com/track/5iX1R02Pg6Cxl2HRdoquPX"
     },
     {
       "added_at": "2026-10-22 22:01:32",
@@ -131,18 +263,18 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/7nCZp66b2qWoepuW7cVtvv"
+        "name": "Adem Uit Adem In",
+        "url": "https://open.spotify.com/album/6ccEehFu4iu3Omesd2OwAj"
       },
       "artists": [
         {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
         }
       ],
-      "duration_ms": 170368,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/6gPWIpzzgWT0Z8O3ujpVrq"
+      "duration_ms": 167622,
+      "name": "Adem Uit Adem In",
+      "url": "https://open.spotify.com/track/46jmrLsm5R65DtFErMIQy8"
     },
     {
       "added_at": "2026-10-22 22:01:32",
@@ -159,6 +291,38 @@
       "duration_ms": 159000,
       "name": "Slaap Maar Zacht",
       "url": "https://open.spotify.com/track/5lCsN521JyOhWp5aFEV7Id"
+    },
+    {
+      "added_at": "2026-10-15 22:00:25",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/7nCZp66b2qWoepuW7cVtvv"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "duration_ms": 170368,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/6gPWIpzzgWT0Z8O3ujpVrq"
+    },
+    {
+      "added_at": "2026-10-22 22:01:32",
+      "album": {
+        "name": "Vloed",
+        "url": "https://open.spotify.com/album/2sxTevZRGYfnVHb1kOgEKE"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "duration_ms": 201722,
+      "name": "Vloed",
+      "url": "https://open.spotify.com/track/7FBRV6BeEeRkAPsFnfX32s"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -195,6 +359,38 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
+        "name": "Tranen In De Giftshop",
+        "url": "https://open.spotify.com/album/6yeBv9FtLw2ioVF6DSTaZR"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "duration_ms": 203085,
+      "name": "Soms",
+      "url": "https://open.spotify.com/track/5aRBRmwtuSdDXJlnswPEK0"
+    },
+    {
+      "added_at": "2026-10-28 12:21:03",
+      "album": {
+        "name": "eenwieler",
+        "url": "https://open.spotify.com/album/31W1rmurzXZ9TxDHPD6tn6"
+      },
+      "artists": [
+        {
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
+        }
+      ],
+      "duration_ms": 173801,
+      "name": "Naarden-Bussum",
+      "url": "https://open.spotify.com/track/6qDIQSFrdPIdXJG8EhTt6m"
+    },
+    {
+      "added_at": "2026-10-15 22:00:25",
+      "album": {
         "name": "5 Weken",
         "url": "https://open.spotify.com/album/7B55bsmbHHOrKIyAs8QJSP"
       },
@@ -207,22 +403,6 @@
       "duration_ms": 174786,
       "name": "5 Weken",
       "url": "https://open.spotify.com/track/3z4SfCpG6tg6OBqqvwCICq"
-    },
-    {
-      "added_at": "2026-10-22 22:01:32",
-      "album": {
-        "name": "eenwieler",
-        "url": "https://open.spotify.com/album/31W1rmurzXZ9TxDHPD6tn6"
-      },
-      "artists": [
-        {
-          "name": "LOE.",
-          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Zij",
-      "url": "https://open.spotify.com/track/6msxpMjVpOQDSWMKuNE3PN"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -257,20 +437,20 @@
       "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
     },
     {
-      "added_at": "2026-10-15 22:00:25",
+      "added_at": "2026-10-22 22:01:32",
       "album": {
-        "name": "Tranen In De Giftshop",
-        "url": "https://open.spotify.com/album/6yeBv9FtLw2ioVF6DSTaZR"
+        "name": "Licht Uit, Hoofd Aan",
+        "url": "https://open.spotify.com/album/4mOnst39MZG0f9cgnDalj1"
       },
       "artists": [
         {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+          "name": "Sanne van Assouw",
+          "url": "https://open.spotify.com/artist/7270ccPqUyTrBEJUo0h1t5"
         }
       ],
-      "duration_ms": 203085,
-      "name": "Soms",
-      "url": "https://open.spotify.com/track/5aRBRmwtuSdDXJlnswPEK0"
+      "duration_ms": 193392,
+      "name": "Licht Uit, Hoofd Aan",
+      "url": "https://open.spotify.com/track/0tIhOFH0203lxClqpSoKXR"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -287,6 +467,26 @@
       "duration_ms": 140400,
       "name": "Veranderen Wij?",
       "url": "https://open.spotify.com/track/0jDjFrGovNhDuBlxDX4twm"
+    },
+    {
+      "added_at": "2026-10-15 22:00:25",
+      "album": {
+        "name": "Voorbij",
+        "url": "https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
+        }
+      ],
+      "duration_ms": 134526,
+      "name": "Voorbij",
+      "url": "https://open.spotify.com/track/1HTIlXjgPKk7BQx7lUS8ML"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -323,6 +523,26 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
+        "name": "Aflevering 6 - Jeangu Macrooy",
+        "url": "https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 183509,
+      "name": "Het Komt Door Jou",
+      "url": "https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx"
+    },
+    {
+      "added_at": "2026-10-15 22:00:25",
+      "album": {
         "name": "Ze Denkt Niet Aan Morgen",
         "url": "https://open.spotify.com/album/3ve07Ac6xhxZR9ld7A8CHz"
       },
@@ -353,22 +573,6 @@
       "url": "https://open.spotify.com/track/2a3t3e0byyQBziC5UsABzi"
     },
     {
-      "added_at": "2026-10-22 22:01:32",
-      "album": {
-        "name": "Licht Uit, Hoofd Aan",
-        "url": "https://open.spotify.com/album/4mOnst39MZG0f9cgnDalj1"
-      },
-      "artists": [
-        {
-          "name": "Sanne van Assouw",
-          "url": "https://open.spotify.com/artist/7270ccPqUyTrBEJUo0h1t5"
-        }
-      ],
-      "duration_ms": 193392,
-      "name": "Licht Uit, Hoofd Aan",
-      "url": "https://open.spotify.com/track/0tIhOFH0203lxClqpSoKXR"
-    },
-    {
       "added_at": "2026-10-15 22:00:25",
       "album": {
         "name": "Heimwee",
@@ -383,26 +587,6 @@
       "duration_ms": 121603,
       "name": "Heimwee",
       "url": "https://open.spotify.com/track/5vVxnrTRex3uSS6ZSwLeqg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "Aflevering 6 - Jeangu Macrooy",
-        "url": "https://open.spotify.com/album/5LRrDd1d285J0rSXCXqYX9"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 183509,
-      "name": "Het Komt Door Jou",
-      "url": "https://open.spotify.com/track/7wvfe7WWSz3HHaa9epKMSx"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -527,26 +711,6 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
-        "name": "Voorbij",
-        "url": "https://open.spotify.com/album/4Y7q8OQaYg91BxZWerlBMV"
-      },
-      "artists": [
-        {
-          "name": "Alessio",
-          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
-        },
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
-        }
-      ],
-      "duration_ms": 134526,
-      "name": "Voorbij",
-      "url": "https://open.spotify.com/track/1HTIlXjgPKk7BQx7lUS8ML"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
         "name": "Overdosis",
         "url": "https://open.spotify.com/album/3ob1mhoyjL0E4hcKPsILA0"
       },
@@ -559,26 +723,6 @@
       "duration_ms": 167653,
       "name": "Overdosis",
       "url": "https://open.spotify.com/track/1sRugaIR5UKUh4aORiz6Dv"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "Beste Zangers 2026 (Zo\u00eb Livay)",
-        "url": "https://open.spotify.com/album/7CkFGcKMO939zANooTt2W4"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 239424,
-      "name": "Passie",
-      "url": "https://open.spotify.com/track/0FfFpBiLKxAnoUx2PYeVua"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -691,26 +835,6 @@
       "duration_ms": 182426,
       "name": "Gianni",
       "url": "https://open.spotify.com/track/3bZCTz8RuBTvcYXoVFxWga"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "Beste Zangers 2026 (Yves Berendse)",
-        "url": "https://open.spotify.com/album/4SRtdeedZBNyRWEOOkJMmF"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 240042,
-      "name": "Patronen",
-      "url": "https://open.spotify.com/track/5AfyTEjCIe7A774ZRkD326"
     },
     {
       "added_at": "2026-10-15 22:00:25",
@@ -1211,22 +1335,6 @@
     {
       "added_at": "2026-10-15 22:00:25",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl"
-      },
-      "artists": [
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        }
-      ],
-      "duration_ms": 197229,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
         "name": "Rollercoaster",
         "url": "https://open.spotify.com/album/6LYbzBb95GIAGNhitP4IaY"
       },
@@ -1239,38 +1347,6 @@
       "duration_ms": 152201,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/0ZJ5pfR6GTqEfDqZFkpu5b"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "Wacht even",
-        "url": "https://open.spotify.com/album/1HhUBVgMCQo6dJuKMEt0ka"
-      },
-      "artists": [
-        {
-          "name": "Emma Annelie",
-          "url": "https://open.spotify.com/artist/6wNqYZszP2jz7MjwKRHCVX"
-        }
-      ],
-      "duration_ms": 165656,
-      "name": "Wacht even",
-      "url": "https://open.spotify.com/track/3Jiw4t9B8LoExE5jfzZD7G"
-    },
-    {
-      "added_at": "2026-10-15 22:00:25",
-      "album": {
-        "name": "Contactloos",
-        "url": "https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g"
-      },
-      "artists": [
-        {
-          "name": "FAY",
-          "url": "https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE"
-        }
-      ],
-      "duration_ms": 167771,
-      "name": "Contactloos",
-      "url": "https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN"
     },
     {
       "added_at": "2026-10-15 22:00:25",

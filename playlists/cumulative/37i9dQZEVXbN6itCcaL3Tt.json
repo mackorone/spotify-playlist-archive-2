@@ -4012,6 +4012,14 @@
         {
           "name": "Bia\u0142as",
           "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "Szwed Swd",
+          "url": "https://open.spotify.com/artist/6DFpXEOsxD5MHDnglPQlk9"
+        },
+        {
+          "name": "Falcon1",
+          "url": "https://open.spotify.com/artist/4pg9KJqNXJD8nY1nlQRHUB"
         }
       ],
       "date_added": "2026-10-24",
@@ -6108,7 +6116,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 158918,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/2eEhzRhKCXmqqsc405M2Oc"
@@ -8806,6 +8814,28 @@
       "duration_ms": 169714,
       "name": "Bratan",
       "url": "https://open.spotify.com/track/7L5gakQGivisTEWdKkUrZg"
+    },
+    {
+      "album": {
+        "name": "REKLAMACJA'47",
+        "url": "https://open.spotify.com/album/5EA3ZymI8Vh9bv8DwUogNL"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200444,
+      "name": "bravo!",
+      "url": "https://open.spotify.com/track/7DQQNQcoB91fAn1yKQaXsH"
     },
     {
       "album": {
@@ -15716,7 +15746,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 165335,
       "name": "Dr. Traphouse (feat. Belmondo)",
       "url": "https://open.spotify.com/track/4oTxydt59qd2UO9BcFLU9e"
@@ -16310,7 +16340,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 129148,
       "name": "DUSZEK KACPER",
       "url": "https://open.spotify.com/track/53T9JTEGSMHxln7hUFP7Cl"
@@ -19042,7 +19072,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 187280,
       "name": "FIRESTARTER",
       "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
@@ -30334,7 +30364,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Kto ile jest wart",
       "url": "https://open.spotify.com/track/3NKQYiu4UQpCd45N85B1ds"
@@ -30436,7 +30466,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 193170,
       "name": "KT\u00d3RY ROK?",
       "url": "https://open.spotify.com/track/1YAnNs1TCm94Rgls9bRql8"
@@ -48257,6 +48287,24 @@
     },
     {
       "album": {
+        "name": "Powiedz To",
+        "url": "https://open.spotify.com/album/101DVZzw8zmWQnPyUsDv39"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92273,
+      "name": "Powiedz To",
+      "url": "https://open.spotify.com/track/5yiFrvo6ivcgyVamCQ6nmy"
+    },
+    {
+      "album": {
         "name": "POWIEMY CI TO W TWARZ",
         "url": "https://open.spotify.com/album/30OZMsct4BSKZKF7dxnBgN"
       },
@@ -59730,7 +59778,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 209908,
       "name": "Toksyna",
       "url": "https://open.spotify.com/track/0QDGplY5KALFQQA2w8bdo9"
@@ -60936,7 +60984,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 196363,
       "name": "Ty masz",
       "url": "https://open.spotify.com/track/2eEI1sKFOiOez0cAp29PiE"

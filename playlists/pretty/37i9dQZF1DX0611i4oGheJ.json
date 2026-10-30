@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 545533,
+  "num_followers": 545706,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/OIDce9ND2YJPe03CzwVif2odI",
+  "snapshot_id": "AAAAABllBrcC8sgtnyUAqP5TRo9QVs4P",
   "tracks": [
     {
       "added_at": "2026-09-25 04:00:27",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "like home",
-        "url": "https://open.spotify.com/album/7H19Sj4ofTzO0CYA0ag9Pq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 182055,
-      "name": "like home",
-      "url": "https://open.spotify.com/track/3i7W9o2isj3qOgy093fixn"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "A Sailor's Guide to Earth",
         "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212586,
       "name": "Breakers Roar",
       "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "like home",
+        "url": "https://open.spotify.com/album/7H19Sj4ofTzO0CYA0ag9Pq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "like home",
+      "url": "https://open.spotify.com/track/3i7W9o2isj3qOgy093fixn"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Now Would Be A Good Time",
-        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 199258,
-      "name": "God's A Different Sword",
-      "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 240147,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Now Would Be A Good Time",
+        "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 199258,
+      "name": "God's A Different Sword",
+      "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Unforgivable Things",
-        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "Unforgivable Things",
-      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Wishing Stone",
         "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 228395,
       "name": "Wishing Stone",
       "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Unforgivable Things",
+        "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "Unforgivable Things",
+      "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
-      },
-      "artists": [
-        {
-          "name": "Elissa Mielke",
-          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
-        }
-      ],
-      "duration_ms": 282949,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Years On",
         "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 242906,
       "name": "Years On",
       "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
+      },
+      "artists": [
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "duration_ms": 282949,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "postcard season",
         "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 172300,
       "name": "sunflower \u201824",
       "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Body Break",
         "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 215649,
       "name": "If I go",
       "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
         }
       ],
-      "duration_ms": 205200,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/0SH2YEQOI59HiIaY591KM9"
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/0SH2YEQOI59HiIaY591KM9"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Cruel Joke",
-        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
-      },
-      "artists": [
-        {
-          "name": "Ken Pomeroy",
-          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wolf In Sheep\u2019s Clothes",
-      "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 247253,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Cruel Joke",
+        "url": "https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Wolf In Sheep\u2019s Clothes",
+      "url": "https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Not a Man, Not a Woman",
-        "url": "https://open.spotify.com/album/3peH8wCp0MB2SWRD0AKqBT"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 151828,
-      "name": "Not a Man, Not a Woman",
-      "url": "https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Sun",
         "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 152000,
       "name": "Sun",
       "url": "https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Not a Man, Not a Woman",
+        "url": "https://open.spotify.com/album/3peH8wCp0MB2SWRD0AKqBT"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 151828,
+      "name": "Not a Man, Not a Woman",
+      "url": "https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "This Heart",
         "url": "https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 252580,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 202336,
+      "name": "Baby You're Lying",
+      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
         }
       ],
-      "duration_ms": 202336,
-      "name": "Baby You're Lying",
-      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 222760,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 235593,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 231131,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 235593,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM"
     }
   ],
   "unique_name": "Soft & Slow",

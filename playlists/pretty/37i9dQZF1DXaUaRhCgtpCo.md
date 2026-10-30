@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,314 likes - 90 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,406 likes - 90 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 89 | [Star Wars Main Title and the Arrival at Naboo](https://open.spotify.com/track/3UqSTlEwO5spY8YL3GfQGv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 2:55 |
 | 90 | [The Soul of Racing \(Main Theme\) \- From "Star Wars: Galactic Racer"](https://open.spotify.com/track/7DdAeRJWmIVMzES3he1Zvz) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [The Soul of Racing \(Main Theme\) \[From "Star Wars: Galactic Racer"\]](https://open.spotify.com/album/38NOnClJATSTssK1XcWHxi) | 2:14 |
 
-Snapshot ID: `AAAAAKpyeSv9tYHAtOT6qHVdEEa4+q8q`
+Snapshot ID: `AAAAAFx6vAgPNhJbH73kIlWSpYtlcNBj`

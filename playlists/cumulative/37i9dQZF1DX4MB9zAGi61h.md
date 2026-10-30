@@ -4,7 +4,7 @@
 
 > Close Mic, Muted Strings, Cozy Vibes
 
-108 songs - 4 hr 32 min
+109 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Like Falling Leaves](https://open.spotify.com/track/4dcq8Vl6dEmLSlvp9JmRsB) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Like Falling Leaves](https://open.spotify.com/album/0ZksxbzR9FmTtkFN5JiCf5) | 3:12 | 2026-10-02 |  |
 | [Long Fold](https://open.spotify.com/track/6DhRY1ZFTT406noY4GFqTT) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Long Fold](https://open.spotify.com/album/5V2b9EkDXWYsbU5llbbRer) | 2:09 | 2026-07-24 |  |
 | [Lush Moments](https://open.spotify.com/track/1w2qcmXzP2hXRbHSxTSlPZ) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Lush Moments](https://open.spotify.com/album/4B6sLcZQ22Cql1Pvh35jXX) | 2:35 | 2026-09-18 |  |
+| [Merry Christmas \(Mr\. Lawrence\)](https://open.spotify.com/track/0YnxRllgG67hW1PbZpPWiN) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Merry Christmas \(Mr\. Lawrence\)](https://open.spotify.com/album/1Qa8o4tkuCc9uhm9TjShMC) | 3:18 | 2026-10-30 |  |
 | [Mirage](https://open.spotify.com/track/7H7htG1WiHeKfwjfDMZQEW) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Mirage](https://open.spotify.com/album/0EoQqDYsCWiAOJRT6Wk5i5) | 2:51 | 2026-07-24 |  |
 | [Moonbeams Surrender](https://open.spotify.com/track/37wqS4GzPzkCRpHZESj8xM) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Moonbeams Surrender](https://open.spotify.com/album/1TCp1W9GjA1GVKcdTVyqXM) | 2:12 | 2026-08-07 |  |
 | [More Than Ever](https://open.spotify.com/track/15PunCqA3vo30NXBPdd4WH) | [Nikolai Hawthorne](https://open.spotify.com/artist/2HoCd4cQaTWNWbIFEXi4hG) | [More Than Ever](https://open.spotify.com/album/296EMbEe02k12d9d8rRrGe) | 2:25 | 2026-07-24 |  |

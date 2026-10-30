@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,483 likes - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,676 likes - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [Diarabi](https://open.spotify.com/track/4LsZKqXA3rv6jyTW09eW0y) | [Afrokillerz](https://open.spotify.com/artist/6r7b5Y6q3CuBgwVF5NmDSb) | [Apogaye](https://open.spotify.com/album/0M7AgWsoWWQ5cHrdcWZV2Y) | 6:25 |
 | 30 | [Electric Feel](https://open.spotify.com/track/4Y5c8so8rAH7H7YeA4CNY9) | [ÜDORĀ](https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq), [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt) | [Electric Feel](https://open.spotify.com/album/7LboqikOdK2cMlrLQZrgqv) | 4:04 |
 
-Snapshot ID: `AAAAADQZSiIQH9kgKRjTkwbmZv5TnoC1`
+Snapshot ID: `AAAAAAN+7zQ0dZNETbE+UQvWZ/9h7AS/`

@@ -1,13 +1,77 @@
 {
   "description": "Fresh country music by independent artists every Wednesday. Cover: Jovi Greene, Artwork: Fan\u00e9lie Muselier\n",
-  "num_followers": 128492,
+  "num_followers": 128598,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGUaNxYks59o0hguwqxCsfxmuLgC",
+  "snapshot_id": "AAAAAMxu2aIGFUvAUxfYyBsV+R07tBAw",
   "tracks": [
+    {
+      "added_at": "2026-10-28 04:00:11",
+      "album": {
+        "name": "Fixing You",
+        "url": "https://open.spotify.com/album/6yh2bmEIG3YNExo7ko4lT6"
+      },
+      "artists": [
+        {
+          "name": "KIANA",
+          "url": "https://open.spotify.com/artist/1vYuk9KHwhwdru7gTpTqcB"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Fixing You",
+      "url": "https://open.spotify.com/track/2kYH7EzizTCdzgfleBJJb1"
+    },
+    {
+      "added_at": "2026-10-28 04:00:11",
+      "album": {
+        "name": "What I'll Do",
+        "url": "https://open.spotify.com/album/6Daz2KVSLgiJi61eCuKxrT"
+      },
+      "artists": [
+        {
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
+        }
+      ],
+      "duration_ms": 222747,
+      "name": "What I'll Do",
+      "url": "https://open.spotify.com/track/5JiIXabQfRqdieaaf0DXho"
+    },
+    {
+      "added_at": "2026-10-28 04:00:11",
+      "album": {
+        "name": "Lose This Number",
+        "url": "https://open.spotify.com/album/1zGqpf5CjbyFXCpZauXkrM"
+      },
+      "artists": [
+        {
+          "name": "Clarke Burns",
+          "url": "https://open.spotify.com/artist/6YSwAuCYqkMo7cCTd3wkVh"
+        }
+      ],
+      "duration_ms": 193514,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3JsJc2CCMBiXdMbKocP0Bx"
+    },
+    {
+      "added_at": "2026-10-14 18:36:03",
+      "album": {
+        "name": "Nowhere Fast",
+        "url": "https://open.spotify.com/album/1mhbkdFPisGxyUlFj6xkvW"
+      },
+      "artists": [
+        {
+          "name": "Jovi Greene",
+          "url": "https://open.spotify.com/artist/6Z8GLJyECIvbklEGdZJWug"
+        }
+      ],
+      "duration_ms": 198065,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/2BgJcTmWxgGrZBtyrIsLTO"
+    },
     {
       "added_at": "2026-10-21 16:19:11",
       "album": {
@@ -25,6 +89,38 @@
       "url": "https://open.spotify.com/track/7ejKQI0YEj1vfkCrOuQfLZ"
     },
     {
+      "added_at": "2026-10-28 04:00:11",
+      "album": {
+        "name": "Breaking Mine",
+        "url": "https://open.spotify.com/album/60EA4oJx4H9bqQOC2H3dEe"
+      },
+      "artists": [
+        {
+          "name": "Trevor Snider",
+          "url": "https://open.spotify.com/artist/4pqs54KEp83DojM7te54Rk"
+        }
+      ],
+      "duration_ms": 179004,
+      "name": "Breaking Mine",
+      "url": "https://open.spotify.com/track/2y0z8ugcgs8f8wbjhH99TU"
+    },
+    {
+      "added_at": "2026-10-28 04:00:11",
+      "album": {
+        "name": "Psycho From Texas",
+        "url": "https://open.spotify.com/album/3iDak2XzfVwRQHT2phsRbz"
+      },
+      "artists": [
+        {
+          "name": "Kitty Coen",
+          "url": "https://open.spotify.com/artist/7MY6uLRlctB9wtKoE6DLef"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Psycho From Texas",
+      "url": "https://open.spotify.com/track/1TQqnXqtN4cv8HanpdYoni"
+    },
+    {
       "added_at": "2026-10-21 16:19:11",
       "album": {
         "name": "Pretty Boy",
@@ -39,22 +135,6 @@
       "duration_ms": 216893,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/6yGO5xsU9Fd0lFPIsMIrXY"
-    },
-    {
-      "added_at": "2026-10-14 18:36:03",
-      "album": {
-        "name": "Nowhere Fast",
-        "url": "https://open.spotify.com/album/1mhbkdFPisGxyUlFj6xkvW"
-      },
-      "artists": [
-        {
-          "name": "Jovi Greene",
-          "url": "https://open.spotify.com/artist/6Z8GLJyECIvbklEGdZJWug"
-        }
-      ],
-      "duration_ms": 198065,
-      "name": "Nowhere Fast",
-      "url": "https://open.spotify.com/track/2BgJcTmWxgGrZBtyrIsLTO"
     },
     {
       "added_at": "2026-10-21 16:19:11",
@@ -559,22 +639,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/06u0I9EMnwsyTGxfFle2tK"
-      },
-      "artists": [
-        {
-          "name": "Effy Harvard",
-          "url": "https://open.spotify.com/artist/7pri5m6ZG19uxZZZf3OpS7"
-        }
-      ],
-      "duration_ms": 200336,
-      "name": "HEATWAVE",
-      "url": "https://open.spotify.com/track/2LTLSWuVWwgSNQHrBcJO4Z"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Gone For Good",
         "url": "https://open.spotify.com/album/1vY1RRTyzOQ7ku58AryYLt"
       },
@@ -607,22 +671,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Friends Don't Let Friends",
-        "url": "https://open.spotify.com/album/5jO7F3Ji5HuqFpq6zmvpxj"
-      },
-      "artists": [
-        {
-          "name": "Kanaan Brock",
-          "url": "https://open.spotify.com/artist/3mT9Fqi9eYdgSqKIqLvcr6"
-        }
-      ],
-      "duration_ms": 191950,
-      "name": "Friends Don't Let Friends",
-      "url": "https://open.spotify.com/track/32vbyGJAk3I3HDx6xruaCh"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Run From It",
         "url": "https://open.spotify.com/album/0AXYM7418EeOt3VFEnylQf"
       },
@@ -635,22 +683,6 @@
       "duration_ms": 195382,
       "name": "Run From It",
       "url": "https://open.spotify.com/track/6oAQq9hZMMHeHt12XhedMw"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "You Only Call When It's Raining",
-        "url": "https://open.spotify.com/album/22NDwyw6WvmhibstEFIqTK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Ball",
-          "url": "https://open.spotify.com/artist/1XiaAnuGK9mXdVLuJi1Jm3"
-        }
-      ],
-      "duration_ms": 195488,
-      "name": "You Only Call When It's Raining",
-      "url": "https://open.spotify.com/track/1RuWVWq5Ty0YW9tcXobuQf"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -703,26 +735,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Making Peace",
-        "url": "https://open.spotify.com/album/15Q6TLcPreZ1KAZHb20zBT"
-      },
-      "artists": [
-        {
-          "name": "Brandon Jane",
-          "url": "https://open.spotify.com/artist/5fNoqg6dLhthBhoEC9SMkZ"
-        },
-        {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "If You Don't",
-      "url": "https://open.spotify.com/track/5S1yABkY9HCkFULSbdQgB5"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Break It Fast",
         "url": "https://open.spotify.com/album/1Pe4sIdMMDDPZvJVBysbhM"
       },
@@ -751,22 +763,6 @@
       "duration_ms": 216613,
       "name": "enough",
       "url": "https://open.spotify.com/track/1aH7sQLodOc7K0SUUNDH6f"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/28zlZ0MXDovW3Wzj1QQ8z9"
-      },
-      "artists": [
-        {
-          "name": "Trevor Snider",
-          "url": "https://open.spotify.com/artist/4pqs54KEp83DojM7te54Rk"
-        }
-      ],
-      "duration_ms": 262596,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/0eClbGzsuOQQYARGjFYqho"
     },
     {
       "added_at": "2026-09-30 04:00:28",

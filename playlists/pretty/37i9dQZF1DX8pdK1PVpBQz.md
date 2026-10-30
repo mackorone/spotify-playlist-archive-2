@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Dillon Jo
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,144 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,149 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Flourish](https://open.spotify.com/track/4qhGoA6hC1vncKI52DUuiY) | [tickertape](https://open.spotify.com/artist/2aXOm3ef1Xel4vNYKCRWdS) | [Flourish](https://open.spotify.com/album/5xYAjEAwfrf1tyGVlV5N5d) | 3:43 |
 | 100 | [chemical](https://open.spotify.com/track/5L7vB0uar1cqvCws0uCwfA) | [Blood Nose](https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa) | [chemical](https://open.spotify.com/album/0ERQxeJbxLfBrfqdM7adho) | 1:07 |
 
-Snapshot ID: `AAAAAGv/m6I3Hb8sQ+ZpyZTyawpxxA4S`
+Snapshot ID: `AAAAAPG401qRERsMigTzNin/dlELH49o`

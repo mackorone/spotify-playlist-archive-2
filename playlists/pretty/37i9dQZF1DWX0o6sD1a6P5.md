@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Genezio x GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,487 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,632 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [NZELA](https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [NZELA](https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s) | 3:11 |
 | 50 | [Paysage](https://open.spotify.com/track/4fTMiWoGKTcFgSROCiYoLA) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Paysage](https://open.spotify.com/album/6cafnFIJ0HfFmEOI8w5FgJ) | 2:52 |
 
-Snapshot ID: `AAAAAJVtg23iWymna874Auz725DYTCW3`
+Snapshot ID: `AAAAACvhefLErH7wYUekxLHvNfm4KXEW`

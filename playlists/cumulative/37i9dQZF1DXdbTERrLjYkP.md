@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Isabel Dumaa
 
-1,177 songs - 2 day 15 hr 35 min
+1,180 songs - 2 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [father](https://open.spotify.com/track/0S9u6EZQ1EAHz7IkQbxm9z) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [neophyte](https://open.spotify.com/album/2QTz9vN3LF7H4PX4XkmVJh) | 2:57 | 2025-03-28 | 2025-08-05 |
 | [Favorite Color](https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite Color](https://open.spotify.com/album/034vrNtnZQYiIvnM9xcJbn) | 3:04 | 2023-11-10 | 2023-12-14 |
 | [favorite crime](https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:32 | 2022-01-14 | 2022-04-29 |
-| [Favorite Things](https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D) | [Alkyone](https://open.spotify.com/artist/0tHJO69AKpp9qz6a0Tg6Rt) | [Small Philosophies](https://open.spotify.com/album/26EdmznN7QhNWNvtXVZbV2) | 2:58 | 2026-06-12 |  |
+| [Favorite Things](https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D) | [Alkyone](https://open.spotify.com/artist/0tHJO69AKpp9qz6a0Tg6Rt) | [Small Philosophies](https://open.spotify.com/album/26EdmznN7QhNWNvtXVZbV2) | 2:58 | 2026-06-12 | 2026-10-30 |
 | [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 | 2024-05-31 | 2024-11-09 |
 | [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 | 2025-07-11 | 2025-11-08 |
 | [Feel Something](https://open.spotify.com/track/4Vz0i5HbKRXJPArNWupocT) | [Fraser Churchill](https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ), [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Feel Something](https://open.spotify.com/album/0d8uUGeWpytdTdQeZNHMHq) | 3:30 | 2024-12-13 | 2025-05-10 |
@@ -397,7 +397,7 @@
 | [going under](https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn) | [Ali Wolv](https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx) | [going under](https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa) | 3:20 | 2025-03-28 | 2025-08-02 |
 | [gone for good](https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [gone for good](https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509) | 2:53 | 2024-01-05 | 2024-02-24 |
 | [Gonna Change](https://open.spotify.com/track/5QqIpatrYBsKX4pEcmzKxo) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Gonna Change](https://open.spotify.com/album/6RAkIXujAPL3B2k5SmsCZI) | 3:48 | 2025-06-13 | 2025-09-27 |
-| [Good Company](https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h) | [Samaera](https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG) | [Samaerica \(Deluxe\)](https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j) | 2:16 | 2026-07-06 |  |
+| [Good Company](https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h) | [Samaera](https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG) | [Samaerica \(Deluxe\)](https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j) | 2:16 | 2026-07-06 | 2026-10-30 |
 | [Good For Me](https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Good For Me](https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX) | 3:30 | 2022-11-11 | 2023-01-28 |
 | [Good Material](https://open.spotify.com/track/6ayWThHJIEq12z3fuR9S5n) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Good Material](https://open.spotify.com/album/3Y6a2ox0oKtmfiF8UyPeYd) | 3:30 | 2026-03-20 | 2026-07-25 |
 | [GOOD MEASURE](https://open.spotify.com/track/6P8L4RZSh7NoguKjUFmO1i) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [AMERICAN DREAMERS, Vol\. 2](https://open.spotify.com/album/12a16yqWGANg0GSrNleOqm) | 2:28 | 2025-04-11 | 2025-07-19 |
@@ -459,7 +459,7 @@
 | [Hit Me Where It Hurts](https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [No Good At Hanging Up](https://open.spotify.com/album/0FqRkiRcQtME8oqX8A5MGe) | 3:25 | 2025-08-22 | 2026-02-07 |
 | [Hold](https://open.spotify.com/track/5GNXPlVDtvk0lnmak8HSaL) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Hold](https://open.spotify.com/album/2Ba4aUbtKS8a1IYhBDDLqB) | 4:07 | 2026-05-22 | 2026-10-10 |
 | [Holding You](https://open.spotify.com/track/4usJx7T935Bw61ALK915Xe) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [Holding You](https://open.spotify.com/album/7u0hcPOpSjU77LF7xDC3pH) | 2:51 | 2023-02-24 | 2023-08-12 |
-| [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 | 2026-08-07 |  |
+| [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 | 2026-08-07 | 2026-10-30 |
 | [Holy Place](https://open.spotify.com/track/4hXkYDNE8j7JCJG3gzZD4C) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [Holy Place](https://open.spotify.com/album/0CkxO3XjDHito2dkzS6kxn) | 3:02 | 2023-04-28 | 2023-08-19 |
 | [Holy Water](https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Holy Water](https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744) | 3:28 | 2025-09-22 | 2025-11-01 |
 | [Home](https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Home](https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO) | 3:27 | 2024-12-13 | 2025-04-19 |
@@ -587,6 +587,7 @@
 | [Isabel](https://open.spotify.com/track/5TyN1lnBNcQzomwOhfqGxN) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Isabel](https://open.spotify.com/album/6agP6NpGBGCN2O7UyzhfHO) | 4:19 | 2024-06-17 | 2024-12-07 |
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-11-17 | 2024-08-03 |
 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 | 2022-07-08 | 2022-12-03 |
+| [It All Comes To End](https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [It All Comes To End](https://open.spotify.com/album/5j820r3qXPjho7Sehhlkr2) | 4:09 | 2026-10-30 |  |
 | [It's No Fun](https://open.spotify.com/track/5AwztQuXdndXJPNNwrF00X) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [It's No Fun](https://open.spotify.com/album/6qDA7zAfwhlinzTUzuxaK5) | 2:43 | 2024-07-12 | 2024-09-07 |
 | [It's Not You It's Him](https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [It's Not You It's Him](https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK) | 2:49 | 2026-03-13 | 2026-07-07 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 | 2022-08-06 |
@@ -785,6 +786,7 @@
 | [Over My Head](https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Over My Head](https://open.spotify.com/album/5hKZBHDXhDOLGriXJvXwMU) | 3:04 | 2024-01-26 | 2024-08-17 |
 | [Overboard](https://open.spotify.com/track/3RyHooc6Lg3OYgjP9zygkj) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Overboard](https://open.spotify.com/album/5qadLX0c9e3jauPPlI0WWz) | 3:12 | 2025-08-01 | 2025-11-01 |
 | [Overkill](https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Overkill](https://open.spotify.com/album/3UAhzKyLSrVek7nUGN7bnO) | 4:00 | 2026-01-06 | 2026-04-18 |
+| [Painter \(Double\-Edged Sword\)](https://open.spotify.com/track/0fSKzFql99qPY9gOl7fFBa) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Painter \(Double\-Edged Sword\)](https://open.spotify.com/album/09lj5YdwOYyPaIS5eWTh6f) | 3:50 | 2026-10-30 |  |
 | [Paper Rose](https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Spiderwebs](https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo) | 4:21 | 2024-05-10 | 2024-08-24 |
 | [Parachute](https://open.spotify.com/track/63AH0CKhrzqFVQt3VfJsom) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Parachute](https://open.spotify.com/album/2Uf2MHzOLmlfuciVughpzO) | 2:31 | 2024-09-27 | 2024-10-19 |
 | [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 | 2023-03-05 |
@@ -831,6 +833,7 @@
 | [Proof](https://open.spotify.com/track/405gNtjLCgRcqod42hooqR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Proof](https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv) | 2:46 | 2026-06-26 |  |
 | [Prophecies](https://open.spotify.com/track/4Et7m1pazErkSegnrBNXkF) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Poetic License](https://open.spotify.com/album/7G2Dh8OsAMclQAWIShyb7v) | 3:14 | 2022-12-02 | 2023-02-25 |
 | [Pure](https://open.spotify.com/track/2sab89Tv3lCK0sR23SAHUC) | [Adriana](https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq) | [Pure](https://open.spotify.com/album/2H5w6jTvq5OCUI4w4Xt49a) | 3:07 | 2025-04-18 | 2025-07-21 |
+| [Put It In A Song](https://open.spotify.com/track/5LFPBkSSKyT3rnP3iSAaQh) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [Put It In A Song](https://open.spotify.com/album/47aMHZJPLahpmq1dbSLOiD) | 3:05 | 2026-10-30 |  |
 | [Queen of Hollywood](https://open.spotify.com/track/6gSA54ZcMahgDve60MlqJC) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Queen of Hollywood](https://open.spotify.com/album/1KqfJ8A0XHIPWmFxObJB49) | 4:56 | 2024-04-05 | 2024-05-25 |
 | [Queen of Texas](https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Queen of Texas](https://open.spotify.com/album/3XFMsDqtgYA0ImMRJW4e7e) | 3:09 | 2026-03-06 | 2026-06-26 |
 | [Quicksand](https://open.spotify.com/track/3lsMNvo9HDOK4YKXwbtWAu) | [Olivia Broadfield](https://open.spotify.com/artist/6PdwpyZMhQyBzwa70feMmM) | [The Split: Barcelona](https://open.spotify.com/album/619dyqE4hMunCbOeWwaerD) | 4:01 | 2025-01-03 | 2025-04-19 |

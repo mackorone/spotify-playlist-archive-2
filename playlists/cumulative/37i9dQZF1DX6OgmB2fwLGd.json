@@ -172,7 +172,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 196382,
       "name": "07XXXXXXXXX",
       "url": "https://open.spotify.com/track/2N3ydYnfwbtuLFxCpQGbSS"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 177201,
       "name": "ADDICTED2U (feat. underscores)",
       "url": "https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez"
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 120705,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas"
@@ -7547,6 +7547,24 @@
     },
     {
       "album": {
+        "name": "Duck Duck Goose",
+        "url": "https://open.spotify.com/album/2eGxSEhJqmermHLwIJcVpJ"
+      },
+      "artists": [
+        {
+          "name": "Ms* Gloom",
+          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130083,
+      "name": "Duck Duck Goose",
+      "url": "https://open.spotify.com/track/7o1zaZdfce4rXFWZZJWzbu"
+    },
+    {
+      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -10311,6 +10329,24 @@
     },
     {
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3FhIOw10Gjlitt0q9rspay"
+      },
+      "artists": [
+        {
+          "name": "Warpstr",
+          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/2WeSnmzBHScSjgRaergdW7"
+    },
+    {
+      "album": {
         "name": "Girls Cry 2!",
         "url": "https://open.spotify.com/album/0z84eQJfxKXq5ldDJmO3D6"
       },
@@ -10992,6 +11028,28 @@
       "duration_ms": 129854,
       "name": "Hate The Morning",
       "url": "https://open.spotify.com/track/33Il72FMTustzxC9WSVRu6"
+    },
+    {
+      "album": {
+        "name": "HARDCORE HEALING",
+        "url": "https://open.spotify.com/album/6PSdMCidiUE3pvFKA9HTmp"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        },
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174917,
+      "name": "have u eva (feat. Cannelle)",
+      "url": "https://open.spotify.com/track/04Vr0uQLZ9pQbCRhXZP0db"
     },
     {
       "album": {
@@ -12291,6 +12349,24 @@
     },
     {
       "album": {
+        "name": "i know",
+        "url": "https://open.spotify.com/album/45rbadCbRhcqWfiQrPOAjp"
+      },
+      "artists": [
+        {
+          "name": "lustr",
+          "url": "https://open.spotify.com/artist/58hki6fDZRnymwgCSwmwNY"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "i know",
+      "url": "https://open.spotify.com/track/3SVpSiZcyr1NVzi78c62cO"
+    },
+    {
+      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6eZ9QEFdKR68BWNqkDGwqr"
       },
@@ -12306,6 +12382,24 @@
       "duration_ms": 154689,
       "name": "I know",
       "url": "https://open.spotify.com/track/6YKLF2OaLjxpiSqLVCCNO9"
+    },
+    {
+      "album": {
+        "name": "SPEED DEMON / I KNOW (MY INFLUENCE)",
+        "url": "https://open.spotify.com/album/6tvaFPqqWY0KoTvQbNuqks"
+      },
+      "artists": [
+        {
+          "name": "Lucy Bedroque",
+          "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242639,
+      "name": "I KNOW (MY INFLUENCE)",
+      "url": "https://open.spotify.com/track/3I4ryyC88EltQh67H5WY0i"
     },
     {
       "album": {
@@ -13242,7 +13336,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 249600,
       "name": "In The Snow - Snelle & Spr1te Remix",
       "url": "https://open.spotify.com/track/5z5v3dd40oy0z4JnGH51bk"
@@ -13344,6 +13438,24 @@
       "duration_ms": 110000,
       "name": "Infamy",
       "url": "https://open.spotify.com/track/49zA3XXiF1mDmNiW02jw9p"
+    },
+    {
+      "album": {
+        "name": "Infinity & Forever",
+        "url": "https://open.spotify.com/album/3DRNFWsmuGEUBmqGyukvoS"
+      },
+      "artists": [
+        {
+          "name": "Sorisa",
+          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171900,
+      "name": "Infinity & Forever",
+      "url": "https://open.spotify.com/track/34pA3THfbndNRC8jRTUdaE"
     },
     {
       "album": {
@@ -18016,7 +18128,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 132696,
       "name": "nan peng you",
       "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
@@ -19817,6 +19929,24 @@
     },
     {
       "album": {
+        "name": "(L)ove(I)s(F)or(E)veryone",
+        "url": "https://open.spotify.com/album/6OlizAuU1NhbdlRJF6JPr0"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "painting on a monument",
+      "url": "https://open.spotify.com/track/58OW6MmorlcTiMDJK5CATk"
+    },
+    {
+      "album": {
         "name": "5LBS OF PRESSURE",
         "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
       },
@@ -21284,7 +21414,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 171853,
       "name": "Purr",
       "url": "https://open.spotify.com/track/5R4EUIVhVy3XsQVZ5dYBHC"
@@ -29326,7 +29456,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 155267,
       "name": "You're Gonna Be OK!",
       "url": "https://open.spotify.com/track/5MsfEsSSopXeBdfmXVZAQa"

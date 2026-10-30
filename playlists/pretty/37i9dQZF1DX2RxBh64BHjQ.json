@@ -1,13 +1,49 @@
 {
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:7a8ZndeHGrkS7xIM8060Xw\">Babyfxce E</a> ",
-  "num_followers": 2698312,
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:7a8ZndeHGrkS7xIM8060Xw\">PayGotti</a> ",
+  "num_followers": 2697757,
   "original_name": "Most Necessary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFVE0qIsu8YN+qfpd3R3x2V5vFo",
+  "snapshot_id": "AAAAAFtYJVGD5f8rBjb7q+r+rBWHD/VQ",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:02:01",
+      "album": {
+        "name": "Can Y'all Hear Me Now?",
+        "url": "https://open.spotify.com/album/4baagbo1DFP6xwup5lX2QP"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "duration_ms": 190807,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/2hKgDLF3MSsZQ081R0NObj"
+    },
+    {
+      "added_at": "2026-10-30 04:02:01",
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "duration_ms": 123466,
+      "name": "I LIKE IT (feat. Loe Shimmy)",
+      "url": "https://open.spotify.com/track/27OOVdqE1aZI6scIxeES0T"
+    },
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
@@ -31,22 +67,6 @@
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
-        "name": "Uber Eats",
-        "url": "https://open.spotify.com/album/1mfxBWZIAKs2Mx3DFqblFa"
-      },
-      "artists": [
-        {
-          "name": "PayGotti",
-          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
-        }
-      ],
-      "duration_ms": 117551,
-      "name": "Uber Eats",
-      "url": "https://open.spotify.com/track/0vt1UeUfaei8IRjK8qMSb6"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
         "name": "WTF GOIN (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb"
       },
@@ -63,6 +83,54 @@
       "duration_ms": 184705,
       "name": "WTF GOIN (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
+    },
+    {
+      "added_at": "2026-10-16 04:01:19",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/34jzVvaR27I1TpIIlENfs2"
+      },
+      "artists": [
+        {
+          "name": "Kaygo Gotti",
+          "url": "https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/3WaeUGDzzQvMPjUEDIb4UN"
+    },
+    {
+      "added_at": "2026-10-16 04:01:19",
+      "album": {
+        "name": "North Pole",
+        "url": "https://open.spotify.com/album/0H1lHH9y6gS4NVauyeECcF"
+      },
+      "artists": [
+        {
+          "name": "Boohavinn",
+          "url": "https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au"
+        }
+      ],
+      "duration_ms": 88095,
+      "name": "North Pole",
+      "url": "https://open.spotify.com/track/0m74fvFOwWfr2QoHgZHnni"
+    },
+    {
+      "added_at": "2026-10-16 04:01:19",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/2c80ARFEDHVJn03MtEm7ML"
+      },
+      "artists": [
+        {
+          "name": "Merck",
+          "url": "https://open.spotify.com/artist/3Cons1O5zLCcnXuq7SJdY7"
+        }
+      ],
+      "duration_ms": 161044,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2sejMb76SzSy4VVEbf63wZ"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -133,6 +201,22 @@
       "url": "https://open.spotify.com/track/0UsBcf7Gws6x4mQrjf3pYk"
     },
     {
+      "added_at": "2026-10-30 04:02:01",
+      "album": {
+        "name": "N5ON",
+        "url": "https://open.spotify.com/album/5tUymTDVSwVGC1fV8sPo04"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 104568,
+      "name": "WAV",
+      "url": "https://open.spotify.com/track/2Z83GteTaxI68BJQuhMide"
+    },
+    {
       "added_at": "2026-10-16 04:01:19",
       "album": {
         "name": "STILL HERE",
@@ -147,6 +231,42 @@
       "duration_ms": 107076,
       "name": "THREE SUMMERS",
       "url": "https://open.spotify.com/track/295qfPx6BOBiRhFsUOjm6x"
+    },
+    {
+      "added_at": "2026-10-30 04:02:01",
+      "album": {
+        "name": "WHOVILLE",
+        "url": "https://open.spotify.com/album/2dnemOeYAtSLeVXT0Mtat1"
+      },
+      "artists": [
+        {
+          "name": "Surf7",
+          "url": "https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "duration_ms": 140856,
+      "name": "JUST THIS ONCE (feat. Loe Shimmy)",
+      "url": "https://open.spotify.com/track/5rUgmVkRN3QamTCEEofX0o"
+    },
+    {
+      "added_at": "2026-10-30 04:02:01",
+      "album": {
+        "name": "TIME4WAR",
+        "url": "https://open.spotify.com/album/4xByPGWhaHX46RGYh0kzo4"
+      },
+      "artists": [
+        {
+          "name": "Melly Mike",
+          "url": "https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M"
+        }
+      ],
+      "duration_ms": 169054,
+      "name": "Cut Throat",
+      "url": "https://open.spotify.com/track/3glP5HoBU8oYd9TG2eJV68"
     },
     {
       "added_at": "2026-10-23 04:02:11",
@@ -211,22 +331,6 @@
       "duration_ms": 188263,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1ulcnjDqL2iJKqEteiMmkt"
-    },
-    {
-      "added_at": "2026-10-23 04:02:11",
-      "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/6AgkhCQME5wqQ2xqFgeMYK"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 110142,
-      "name": "Bandit",
-      "url": "https://open.spotify.com/track/5xqqwC86B6OHPdLMekNIm4"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -307,8 +411,28 @@
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
-        "name": "Need 4 Speed",
-        "url": "https://open.spotify.com/album/6SnayJnGXTxC2zDOiGU1Ro"
+        "name": "Buss Down (1 Thing)",
+        "url": "https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 119986,
+      "name": "Buss Down (1 Thing)",
+      "url": "https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh"
+    },
+    {
+      "added_at": "2026-10-30 04:02:01",
+      "album": {
+        "name": "Play Games",
+        "url": "https://open.spotify.com/album/7vF7OqrSE1EIQsatveEBBF"
       },
       "artists": [
         {
@@ -316,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1LacTZS7n8wnxNVAOghBVu"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Need 4 Speed",
-      "url": "https://open.spotify.com/track/3VotbpH3LdsB0SitbMVW8N"
+      "duration_ms": 135168,
+      "name": "Play Games",
+      "url": "https://open.spotify.com/track/2z7kKAuSvHX4I0bbNbnau2"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -389,6 +513,26 @@
       "url": "https://open.spotify.com/track/1efVxjfWOprbyM9jpzRQK8"
     },
     {
+      "added_at": "2026-10-30 04:02:01",
+      "album": {
+        "name": "Manifest / Destiny",
+        "url": "https://open.spotify.com/album/0VJ6O4GOrJXs0EQ0hOWoxH"
+      },
+      "artists": [
+        {
+          "name": "Flavor*",
+          "url": "https://open.spotify.com/artist/7kzoAhEf7Hame8fKgHvy3H"
+        },
+        {
+          "name": "ProdWithFlavor",
+          "url": "https://open.spotify.com/artist/3ytCKOcdHyrgy3NGaPN4w4"
+        }
+      ],
+      "duration_ms": 100413,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/2jnWsi5Ktie5o6KSZwHrLl"
+    },
+    {
       "added_at": "2026-10-23 04:02:11",
       "album": {
         "name": "Platinum Heart 2",
@@ -403,22 +547,6 @@
       "duration_ms": 140799,
       "name": "Highway Love",
       "url": "https://open.spotify.com/track/49RIIpC9NPe0BGazNLtU6L"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
-        "name": "TRIPPIN BOUT IT",
-        "url": "https://open.spotify.com/album/7LWaqUNtx42YYrzJPIpqiR"
-      },
-      "artists": [
-        {
-          "name": "Kromow",
-          "url": "https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA"
-        }
-      ],
-      "duration_ms": 114626,
-      "name": "TRIPPIN BOUT IT",
-      "url": "https://open.spotify.com/track/04F087LnCDuXohyJ3m3671"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -923,26 +1051,6 @@
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
-        "name": "Buss Down (1 Thing)",
-        "url": "https://open.spotify.com/album/3qGxpgpdar5u59HZLVl7XF"
-      },
-      "artists": [
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        },
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 119986,
-      "name": "Buss Down (1 Thing)",
-      "url": "https://open.spotify.com/track/0au5KKpyNF8ejpWTiPzhLh"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
         "name": "SEDITION",
         "url": "https://open.spotify.com/album/4C724v9wNp3CaSodH6z7t6"
       },
@@ -1151,22 +1259,6 @@
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/34jzVvaR27I1TpIIlENfs2"
-      },
-      "artists": [
-        {
-          "name": "Kaygo Gotti",
-          "url": "https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/3WaeUGDzzQvMPjUEDIb4UN"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
         "name": "Somewhere Over The Rainbow",
         "url": "https://open.spotify.com/album/5wKT30xWSzKEnAWOuVwD04"
       },
@@ -1255,22 +1347,6 @@
       "duration_ms": 173867,
       "name": "Check Me",
       "url": "https://open.spotify.com/track/4WfOePVbpEHREn0yRjDZDh"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
-        "name": "Built to Last",
-        "url": "https://open.spotify.com/album/1chVBPP8FDPUKoqCpA8Wex"
-      },
-      "artists": [
-        {
-          "name": "Jay Montana",
-          "url": "https://open.spotify.com/artist/0VZ8xEb6CWeTe3swY7qcxw"
-        }
-      ],
-      "duration_ms": 101625,
-      "name": "Built to Last",
-      "url": "https://open.spotify.com/track/5XpkbPJfWKnblpgs3FonD6"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -1419,22 +1495,6 @@
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
-        "name": "North Pole",
-        "url": "https://open.spotify.com/album/0H1lHH9y6gS4NVauyeECcF"
-      },
-      "artists": [
-        {
-          "name": "Boohavinn",
-          "url": "https://open.spotify.com/artist/4jBs7FxsV98Kz0Qgk1H6Au"
-        }
-      ],
-      "duration_ms": 88095,
-      "name": "North Pole",
-      "url": "https://open.spotify.com/track/0m74fvFOwWfr2QoHgZHnni"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
         "name": "St. Tropez (feat. Loe Shimmy)",
         "url": "https://open.spotify.com/album/0zeb1GdT5RE0fj6cqjPXKP"
       },
@@ -1503,22 +1563,6 @@
       "duration_ms": 139420,
       "name": "Quiet on the Creek",
       "url": "https://open.spotify.com/track/1lLqWYr8d5GbiCAgmNV5BK"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
-        "name": "NO HANDZ",
-        "url": "https://open.spotify.com/album/4bHP2tFKPF1GGSNXE8pkm9"
-      },
-      "artists": [
-        {
-          "name": "Kash Kyla",
-          "url": "https://open.spotify.com/artist/3DXNLizdXR65alMCqKQI3m"
-        }
-      ],
-      "duration_ms": 85524,
-      "name": "NO HANDZ",
-      "url": "https://open.spotify.com/track/5jz0VeayKpfQw5sAQXjILV"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -1635,22 +1679,6 @@
     {
       "added_at": "2026-10-16 04:01:19",
       "album": {
-        "name": "All Is",
-        "url": "https://open.spotify.com/album/1zKiLksqDwo1yb695bYenS"
-      },
-      "artists": [
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 145262,
-      "name": "All Is",
-      "url": "https://open.spotify.com/track/1QPdCZYB41RYhol54uNOp0"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
         "name": "Street Fanci 5",
         "url": "https://open.spotify.com/album/2hbLrnDfRSzuTJaguW2g77"
       },
@@ -1663,22 +1691,6 @@
       "duration_ms": 162403,
       "name": "Good At It",
       "url": "https://open.spotify.com/track/2wI7XSysVR8ZjfLFjJh4DU"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/2c80ARFEDHVJn03MtEm7ML"
-      },
-      "artists": [
-        {
-          "name": "Merck",
-          "url": "https://open.spotify.com/artist/3Cons1O5zLCcnXuq7SJdY7"
-        }
-      ],
-      "duration_ms": 161044,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2sejMb76SzSy4VVEbf63wZ"
     },
     {
       "added_at": "2026-10-16 04:01:19",
@@ -1771,26 +1783,6 @@
       "duration_ms": 171023,
       "name": "Believe it or Not",
       "url": "https://open.spotify.com/track/3TB505HLC95vPEvs4UIKOV"
-    },
-    {
-      "added_at": "2026-10-16 04:01:19",
-      "album": {
-        "name": "GOOSE COAT (Remix) [feat. Meek Mill]",
-        "url": "https://open.spotify.com/album/3OkRDBwgKzS9Z7tkgq0ZKK"
-      },
-      "artists": [
-        {
-          "name": "Surf7",
-          "url": "https://open.spotify.com/artist/1GqOAHeo3iMrmaisKTANNj"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 134179,
-      "name": "GOOSE COAT (Remix) [feat. Meek Mill]",
-      "url": "https://open.spotify.com/track/6MxBDqToaGYNkVkL91CyN8"
     },
     {
       "added_at": "2026-10-16 04:01:19",

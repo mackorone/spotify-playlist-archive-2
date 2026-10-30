@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-379 songs - 17 hr 39 min
+380 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Remember me](https://open.spotify.com/track/3uVdeCAoIivelt5GnO9ALh) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:19 | 2023-03-03 | 2023-07-22 |
 | [Remote Escape \(in the Rain\)](https://open.spotify.com/track/44oJ4rwFKjyzfiHMVdlS3W) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Remote Escape \(in the Rain\)](https://open.spotify.com/album/6RTvmpXlvTkpCQpnp3zdZP) | 3:38 | 2024-08-23 | 2026-03-21 |
 | [Restart](https://open.spotify.com/track/7bUtYZp5Nx93HaPPyzk64o) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Restart](https://open.spotify.com/album/4owhXLeFbrS6TxGAIWF3uJ) | 2:37 | 2026-03-20 |  |
-| [Retreat](https://open.spotify.com/track/03g6bBo4AQ77eNtc2YwUV6) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Retreat](https://open.spotify.com/album/7yh6lCq7TltDkcrxkHk6Ym) | 2:38 | 2025-02-21 |  |
+| [Retreat](https://open.spotify.com/track/03g6bBo4AQ77eNtc2YwUV6) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Retreat](https://open.spotify.com/album/7yh6lCq7TltDkcrxkHk6Ym) | 2:38 | 2025-02-21 | 2026-10-30 |
 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 | 2023-03-03 | 2025-06-12 |
 | [Reverie in the Trees \(Sound Bath\)](https://open.spotify.com/track/5RWb9UQffYkIRJplHoZnQ5) | [Miyasato Mana](https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav) | [Reverie in the Trees \(Sound Bath\)](https://open.spotify.com/album/6DEyaXzlZ8i2RhisVMLSdo) | 2:53 | 2024-03-05 | 2025-09-25 |
 | [Rhizome](https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Rhizome](https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt) | 2:08 | 2023-03-03 | 2025-06-12 |
@@ -304,6 +304,7 @@
 | [Shimmering River](https://open.spotify.com/track/575c0sGbgOEF2YwuUebnDn) | [The Nature Within](https://open.spotify.com/artist/4LgA06Jj6GDhOcZYAWFeJ0) | [Shimmering River](https://open.spotify.com/album/4gEfVDicL27VwdJLilph6S) | 2:42 | 2025-07-09 |  |
 | [Sidus Imbrem Pluvia](https://open.spotify.com/track/6PtE2MAmHS93rB9UhXkg0x) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Sidus Imbrem Pluvia](https://open.spotify.com/album/7IKc8KDoqR4D4cgKz0sBE2) | 3:38 | 2024-03-20 | 2025-09-25 |
 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2025-01-15 | 2026-04-08 |
+| [Silent Arc](https://open.spotify.com/track/1dVLNeYYgJk8NFlT2vYWIT) | [Silent Glade](https://open.spotify.com/artist/5GiOdqnxL6AeEZMWR0b3cr) | [Silent Arc](https://open.spotify.com/album/58rz9nO3T4M8uGzV2CKPPJ) | 2:29 | 2026-09-09 |  |
 | [Silent Meadow](https://open.spotify.com/track/1tksZJjo997QZKey82bn1n) | [Somnifera](https://open.spotify.com/artist/2AkFwZieZKlkDtvZxaOL2b) | [Silent Meadow](https://open.spotify.com/album/0Yu4fQXUTsEkBPEriyfaZc) | 2:22 | 2026-09-09 | 2026-10-09 |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-03-03 | 2024-09-05 |
 | [Skylit Plains](https://open.spotify.com/track/0OjJS4XbfIoinFh4s9VkQr) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Skylit Plains](https://open.spotify.com/album/1eJKDiaX0plhT0hwhOEtTy) | 2:52 | 2026-03-20 | 2026-09-10 |

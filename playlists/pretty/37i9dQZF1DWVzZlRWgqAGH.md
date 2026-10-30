@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Snoh Aalegra and music for your Snoh Aalegra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,619 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,584 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 74 | [Risk It All \(feat\. Maverick Sabre\) \- Acoustic](https://open.spotify.com/track/2ZMtW862x9NKvlrXVosivf) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Risk It All \(feat\. Maverick Sabre\) \[Acoustic\]](https://open.spotify.com/album/3wgQZZjjj8ldPTJm68noHZ) | 3:21 |
 | 75 | [Warning Sign](https://open.spotify.com/track/3Nk9yaiSMhy7Q2cXZR1Ub8) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [A Little Bit of Me](https://open.spotify.com/album/0dqLNntNSkqFh75FygLo9g) | 2:47 |
 
-Snapshot ID: `AAAAAEEaNwzRBNwNxr5AE/HLmNiXCk95`
+Snapshot ID: `AAAAADaPLmz5Ki5652wPkHz/o5PcMngP`

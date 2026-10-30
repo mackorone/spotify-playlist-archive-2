@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,901 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,891 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 6 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
 | 7 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 |
 | 8 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
-| 9 | [A Batucada Dos Nossos Tantãs](https://open.spotify.com/track/1yqJ3Xi70OumcNDUgVAT5p) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [A Batucada Dos Nossos Tantãs](https://open.spotify.com/album/23zoyC5zT8lqnPTBytd4LC) | 3:18 |
-| 10 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
+| 9 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
+| 10 | [A Batucada Dos Nossos Tantãs](https://open.spotify.com/track/1yqJ3Xi70OumcNDUgVAT5p) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [A Batucada Dos Nossos Tantãs](https://open.spotify.com/album/23zoyC5zT8lqnPTBytd4LC) | 3:18 |
 | 11 | [Gostoso Veneno](https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Gostoso Veneno](https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO) | 3:15 |
 | 12 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
 | 13 | [Malandro Sou Eu](https://open.spotify.com/track/5VUk63y3np3VL9EgEiXn9V) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 3:40 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 44 | [Meu Pitel](https://open.spotify.com/track/7uTGKM0QXSukI6UMMOzXu8) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Meu Pitel](https://open.spotify.com/album/4h1iJEXqxsKiqaqcXwfkm5) | 4:16 |
 | 45 | [Samba Pras Moças \- Remastered 2020](https://open.spotify.com/track/6yzCe61NytUn7FXQAneiLr) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Samba Pras Moças \(Remastered\)](https://open.spotify.com/album/1r0CyGhPtjXHJgkiGS6Xii) | 4:58 |
 | 46 | [Na veia \(Participação especial de Marcelo D2\)](https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Na Veia](https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH) | 3:08 |
-| 47 | [Herança de Partideiro](https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F) | [Casuarina](https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [+ 100](https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf) | 2:31 |
-| 48 | [Nosso Bem Maior](https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Nosso Bem Maior](https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v) | 4:03 |
+| 47 | [Nosso Bem Maior](https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Nosso Bem Maior](https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v) | 4:03 |
+| 48 | [Herança de Partideiro](https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F) | [Casuarina](https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [+ 100](https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf) | 2:31 |
 | 49 | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \- 20 anos de História, Ao Vivo](https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu) | [Gabrielzinho Do Irajá](https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA), [Enzo Belmonte](https://open.spotify.com/artist/7ze7TSj6bDuk5OUNp9HjMJ) | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \(20 anos de História, Ao Vivo\)](https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR) | 5:25 |
 | 50 | [Todo Santo Dia](https://open.spotify.com/track/2eq3QByQSisn1BMigva2O5) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Todo Santo Dia](https://open.spotify.com/album/4a2772OB2irMyFceTNVP4i) | 2:55 |
 | 51 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 64 | [Perdoa](https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Nova Bis \- Paulinho da Viola](https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa) | 3:58 |
 | 65 | [Coragem](https://open.spotify.com/track/1Pt5sw50mjvMMCsN71R1Q9) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Munduê](https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v) | 3:31 |
 
-Snapshot ID: `AAAAAHriK0YHECDyEng+iimok3rSVtAw`
+Snapshot ID: `AAAAAEAm+kNbBYZXNIMzGKdGWw7Tz4dz`

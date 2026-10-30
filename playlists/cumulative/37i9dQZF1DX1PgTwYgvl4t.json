@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Adah",
+        "url": "https://open.spotify.com/album/7IZgWpu6IZZk94HrOSAQ1F"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150144,
+      "name": "Adah",
+      "url": "https://open.spotify.com/track/5HEz6909gQO6WONCfWaeXt"
+    },
+    {
+      "album": {
         "name": "Addicted to Your Love (Spontaneous)",
         "url": "https://open.spotify.com/album/5XUQhx3NkmkY2XhMTTN3SS"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 283142,
       "name": "Addicted to Your Love (Spontaneous)",
       "url": "https://open.spotify.com/track/3RX3mn7lFIhx67kk6okhUA"
@@ -1104,6 +1122,24 @@
     {
       "album": {
         "name": "Broken Pieces",
+        "url": "https://open.spotify.com/album/2K2pa1AqRjNUChNI2cvkHH"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572627,
+      "name": "Broken Pieces",
+      "url": "https://open.spotify.com/track/5qKJo4x97ou5Kdz8CT6mjv"
+    },
+    {
+      "album": {
+        "name": "Broken Pieces",
         "url": "https://open.spotify.com/album/2GkBQoMhK1xUXgRm37WMr3"
       },
       "artists": [
@@ -1448,6 +1484,24 @@
       "duration_ms": 816249,
       "name": "Creation Declares",
       "url": "https://open.spotify.com/track/47IHJyscvvcQUrBHmQJiwa"
+    },
+    {
+      "album": {
+        "name": "Dear Lord",
+        "url": "https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r"
+      },
+      "artists": [
+        {
+          "name": "Adeyinka Alaseyori",
+          "url": "https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532062,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4"
     },
     {
       "album": {
@@ -2859,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "GRACE BROUGHT ME",
+        "url": "https://open.spotify.com/album/4FcRs4OaoI32rvzOAjEPIE"
+      },
+      "artists": [
+        {
+          "name": "TheWorshipper EPG",
+          "url": "https://open.spotify.com/artist/43XHvBQtirLrlrFaIsSwli"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348334,
+      "name": "GRACE BROUGHT ME",
+      "url": "https://open.spotify.com/track/0O50xj1xKcpegzwD3Ikqn7"
+    },
+    {
+      "album": {
         "name": "Grateful Heart",
         "url": "https://open.spotify.com/album/4HO18DE8AnweK0SU2vUG3v"
       },
@@ -4004,7 +4076,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 1124800,
       "name": "I Worship You Today",
       "url": "https://open.spotify.com/track/2OQn3w15KPyRz1k4cc3PJf"
@@ -4668,7 +4740,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 520522,
       "name": "Kadosh [Holy One]",
       "url": "https://open.spotify.com/track/6XSvD90syUwTGVCF1vkvao"
@@ -4930,7 +5002,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 450960,
       "name": "Lifted High",
       "url": "https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB"
@@ -5486,7 +5558,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 404749,
       "name": "More Than Life (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y"
@@ -6124,7 +6196,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 451569,
       "name": "NSO - Live",
       "url": "https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0"
@@ -6478,6 +6550,28 @@
       "duration_ms": 216176,
       "name": "OL\u00d3\u00d2TIT\u00d3 NI \u00d3",
       "url": "https://open.spotify.com/track/13FnhTtUrEIbSxvid3AQgD"
+    },
+    {
+      "album": {
+        "name": "Omemma",
+        "url": "https://open.spotify.com/album/1HjiUfZXfkSRAODm9NzK3l"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266750,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/22M26W7IWo0P9s0pZWpCLV"
     },
     {
       "album": {
@@ -6924,7 +7018,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 327714,
       "name": "Ready to Worship",
       "url": "https://open.spotify.com/track/1S9SL7roSj4WGAq4kFrYG7"
@@ -7092,7 +7186,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 647967,
       "name": "RIVER FLOW - Live",
       "url": "https://open.spotify.com/track/08odXNEvezN6ztXa6XZyId"
@@ -7312,7 +7406,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 230823,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD"
@@ -7432,6 +7526,28 @@
       "duration_ms": 369394,
       "name": "SYMBOLS OF YOUR SOVEREIGNTY",
       "url": "https://open.spotify.com/track/3DBUCX54BOflq7kqXln8Xg"
+    },
+    {
+      "album": {
+        "name": "TAKE CONTROL",
+        "url": "https://open.spotify.com/album/1SZxFCuTBWqxmDf1tFfbM1"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440955,
+      "name": "TAKE CONTROL",
+      "url": "https://open.spotify.com/track/2nW8b9iS0bw0VqmaIURQqV"
     },
     {
       "album": {
@@ -8272,7 +8388,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 308636,
       "name": "We Need Your Mercy",
       "url": "https://open.spotify.com/track/0QWo72wWFYr189PTEDJnrp"
@@ -8726,7 +8842,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 224000,
       "name": "Worthy to be Praised",
       "url": "https://open.spotify.com/track/1ACRUpV6HQul9s1cLUERGf"

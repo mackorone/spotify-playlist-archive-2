@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,997 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,945 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 49 | [Home](https://open.spotify.com/track/5WOKwfCJmwbu46UX75Hgps) | [Keyla Richardson](https://open.spotify.com/artist/4Tujzymm8906E7KnLSZPDW) | [Home](https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN) | 4:22 |
 | 50 | [Speak to the Mountain](https://open.spotify.com/track/1CE3Q5aLGdqreI7rnLPV0C) | [Angela Moss Poole](https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox) | [Angela Moss Poole](https://open.spotify.com/album/2mRhKxYagOrfePiLCoLSqm) | 3:48 |
 
-Snapshot ID: `AAAAAKGucaC9oDGc6tHmO8wZ+nwWo1NB`
+Snapshot ID: `AAAAACObjyJ9Y5pTHGcVBzU/Y1kc2j6E`

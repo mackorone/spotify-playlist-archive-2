@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee",
-  "num_followers": 2120499,
+  "num_followers": 2120363,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGcJEYvROyLISyK0v1hy4duBvCUn",
+  "snapshot_id": "AAAAAKBwG36MGKXrI2QoqaozS+mWxWAp",
   "tracks": [
     {
       "added_at": "2024-12-17 17:19:22",
@@ -343,22 +343,26 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+        "name": "4K",
+        "url": "https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         }
       ],
-      "duration_ms": 232786,
-      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
+      "duration_ms": 201500,
+      "name": "4K",
+      "url": "https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN"
     },
     {
       "added_at": "2024-12-17 17:19:22",
@@ -387,26 +391,22 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "4K",
-        "url": "https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 201500,
-      "name": "4K",
-      "url": "https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN"
+      "duration_ms": 232786,
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
     },
     {
       "added_at": "2024-12-17 17:19:22",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "La Gota Fria",
+      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+    },
+    {
+      "added_at": "2024-12-17 17:19:22",
+      "album": {
         "name": "Traicionera (Baile Total)",
         "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 222200,
       "name": "Lloraras",
       "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
-    },
-    {
-      "added_at": "2024-12-17 17:19:22",
-      "album": {
-        "name": "Clasicos de la Provincia",
-        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "La Gota Fria",
-      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
     },
     {
       "added_at": "2024-12-17 17:19:22",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
+        "name": "20 Anos de Exitos",
+        "url": "https://open.spotify.com/album/6rqBG2zNOkfcfrn6O6Z9Rc"
       },
       "artists": [
         {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+          "name": "Aniceto Molina Y La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/2w1Cbkm6vXYqdfHkFpe4XO"
         }
       ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
+      "duration_ms": 233168,
+      "name": "La Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/0HwlxSs5mE9BQisZHxEzZD"
     },
     {
       "added_at": "2024-12-17 17:19:22",

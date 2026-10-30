@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 102196,
+  "num_followers": 102255,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADKmqXz85Ck1BNzcx6CDqIY",
+  "snapshot_id": "at/pgAAAAAD/roQTWAeoJeFah+RZAI4W",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 140876,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
       },
@@ -355,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
       },
       "artists": [
         {
@@ -364,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 140876,
-      "name": "Colombiana",
-      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
+      "duration_ms": 149137,
+      "name": "Te Veo A Las 10",
+      "url": "https://open.spotify.com/track/6WRvHIM7VJIDl7JmcH2B8b"
     },
     {
       "added_at": null,
@@ -395,38 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 149137,
-      "name": "Te Veo A Las 10",
-      "url": "https://open.spotify.com/track/6WRvHIM7VJIDl7JmcH2B8b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/7DsD9yMF1utdPikPX8qDWc"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 164416,
-      "name": "El G\u00fcicho",
-      "url": "https://open.spotify.com/track/6kAV5MT0hKfm5m8xb7w0dO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 121151,
       "name": "Que Sube Y Baja - En Vivo",
       "url": "https://open.spotify.com/track/1PJfPWmFB47tKhnvkrtwcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/3ktLBV5sXwr3NePjCewD9z"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 164416,
+      "name": "El G\u00fcicho",
+      "url": "https://open.spotify.com/track/6kAV5MT0hKfm5m8xb7w0dO"
     },
     {
       "added_at": null,

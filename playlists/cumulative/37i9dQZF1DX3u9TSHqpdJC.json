@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: gleame. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Kaibrienne. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -37503,6 +37503,24 @@
     },
     {
       "album": {
+        "name": "I'm losing you",
+        "url": "https://open.spotify.com/album/2UeE8xZZBWXovvhYmuA4d3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189376,
+      "name": "I'm losing you",
+      "url": "https://open.spotify.com/track/7IgwLaFZtyU78jW13d8qvL"
+    },
+    {
+      "album": {
         "name": "I'm Not A Boy",
         "url": "https://open.spotify.com/album/6jrqRAx4Ojvr6xGd3bjxlh"
       },
@@ -67192,7 +67210,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 193846,
       "name": "Smooth talker",
       "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
@@ -81102,6 +81120,24 @@
       "duration_ms": 145920,
       "name": "Wear Me Down",
       "url": "https://open.spotify.com/track/2pvdeK0PX52lz11PKetKGL"
+    },
+    {
+      "album": {
+        "name": "Wear My Skin",
+        "url": "https://open.spotify.com/album/0EvYYNZYMzwnQPxDf8hwvv"
+      },
+      "artists": [
+        {
+          "name": "Lilah Pate",
+          "url": "https://open.spotify.com/artist/6nRNtZgO1Gw7sEYkduIN3I"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207882,
+      "name": "Wear My Skin",
+      "url": "https://open.spotify.com/track/2cUnXAHlbai6QSatIt30pA"
     },
     {
       "album": {

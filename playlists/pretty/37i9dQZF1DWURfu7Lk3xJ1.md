@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > breathe slow, drift soft 🪷 calm beats to uncover the stillness within
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,572 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,586 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 74 | [Balcony](https://open.spotify.com/track/5vuUq5iyiPnDuo2gjeh1Fx) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Balcony](https://open.spotify.com/album/575DC3KxiwQoUHvEJbSohy) | 2:27 |
 | 75 | [stretch](https://open.spotify.com/track/3McueqI7lzE1mVZTz5tRry) | [BLUZ](https://open.spotify.com/artist/1igCIk3QsoMTuUjlCeLntT) | [stretch](https://open.spotify.com/album/2NsLQfzudkKl0izxqulzDD) | 2:00 |
 
-Snapshot ID: `AAAAAF4WfjzqV56t4b2o6LTYUmtlEo9g`
+Snapshot ID: `AAAAAFYo6pzI+c0KCzqW0KAY7toF5CZ9`

@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 1400,
+  "num_followers": 1403,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAACDNa8AAfFRNrqlu3u0JYOZ",
+  "snapshot_id": "at/pgAAAAAAcV0dSYbJo+H3pvaApxQ7z",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+        "name": "EL GATITO NEGRO",
+        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Erick Rios",
+          "url": "https://open.spotify.com/artist/3t1JdFdPuRV36NhKJAaMoZ"
         }
       ],
-      "duration_ms": 174089,
-      "name": "LUCES ROJAS",
-      "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
+      "duration_ms": 171984,
+      "name": "100 TROCAS POLVEADAS",
+      "url": "https://open.spotify.com/track/3jD4G3ffPoINcQDj7lVCwy"
     },
     {
       "added_at": null,
@@ -243,6 +247,22 @@
       "duration_ms": 202452,
       "name": "Disfruto Lo Malo - En Vivo",
       "url": "https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 174089,
+      "name": "LUCES ROJAS",
+      "url": "https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP"
     },
     {
       "added_at": null,
@@ -271,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana Dios Dir\u00e1",
-        "url": "https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H"
+        "name": "Chiclona",
+        "url": "https://open.spotify.com/album/3kZt0wob9pCSTNDVcNt5Ue"
       },
       "artists": [
-        {
-          "name": "Ayudantes del Rancho",
-          "url": "https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 129692,
-      "name": "Ma\u00f1ana Dios Dir\u00e1",
-      "url": "https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9"
+      "duration_ms": 152875,
+      "name": "Chiclona",
+      "url": "https://open.spotify.com/track/36tSNlKEoGe7Wwb6PKRgc9"
     },
     {
       "added_at": null,
@@ -307,34 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chiclona",
-        "url": "https://open.spotify.com/album/3kZt0wob9pCSTNDVcNt5Ue"
+        "name": "Ma\u00f1ana Dios Dir\u00e1",
+        "url": "https://open.spotify.com/album/14N6OcoSlMHWsSI8Txg12H"
       },
       "artists": [
+        {
+          "name": "Ayudantes del Rancho",
+          "url": "https://open.spotify.com/artist/5Mps52nzzy3mXMFzzai1JM"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 152875,
-      "name": "Chiclona",
-      "url": "https://open.spotify.com/track/36tSNlKEoGe7Wwb6PKRgc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CON LA COCHI [VOL II (EN VIVO)]",
-        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 219449,
-      "name": "Morritas - En Vivo",
-      "url": "https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa"
+      "duration_ms": 129692,
+      "name": "Ma\u00f1ana Dios Dir\u00e1",
+      "url": "https://open.spotify.com/track/3qhRSwff1wlO9Ihd95tYP9"
     },
     {
       "added_at": null,
@@ -351,6 +355,22 @@
       "duration_ms": 174590,
       "name": "PLAKA",
       "url": "https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 219449,
+      "name": "Morritas - En Vivo",
+      "url": "https://open.spotify.com/track/4FBCqhGaioQzi8MC8Z8IWa"
     },
     {
       "added_at": null,
@@ -391,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL GATITO NEGRO",
-        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Erick Rios",
-          "url": "https://open.spotify.com/artist/3t1JdFdPuRV36NhKJAaMoZ"
-        }
-      ],
-      "duration_ms": 171984,
-      "name": "100 TROCAS POLVEADAS",
-      "url": "https://open.spotify.com/track/3jD4G3ffPoINcQDj7lVCwy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUCES ROJAS",
         "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
       },
@@ -427,6 +427,26 @@
       "duration_ms": 193654,
       "name": "Y SI YA EST\u00c1S CON OTRO",
       "url": "https://open.spotify.com/track/0R7NoLfi7HQ8sveb5ucmVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GATITO NEGRO",
+        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "duration_ms": 145728,
+      "name": "OFFICE",
+      "url": "https://open.spotify.com/track/7qj6I5UlwhSVtrqBviCy8Q"
     },
     {
       "added_at": null,
@@ -495,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+        "name": "EL GATITO NEGRO",
+        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Tomas Madrigal",
-          "url": "https://open.spotify.com/artist/29MvAYU9dWzjODhCShvn4C"
         }
       ],
-      "duration_ms": 220970,
-      "name": "EL REY DE MIL CORONAS - En Vivo",
-      "url": "https://open.spotify.com/track/4pCa8V4EFQxJiJg7NYwWHf"
+      "duration_ms": 147776,
+      "name": "DELIRANTE",
+      "url": "https://open.spotify.com/track/7riPtZ3t5eiUZRsdOGvM2Z"
     },
     {
       "added_at": null,
@@ -547,6 +563,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Tomas Madrigal",
+          "url": "https://open.spotify.com/artist/29MvAYU9dWzjODhCShvn4C"
+        }
+      ],
+      "duration_ms": 220970,
+      "name": "EL REY DE MIL CORONAS - En Vivo",
+      "url": "https://open.spotify.com/track/4pCa8V4EFQxJiJg7NYwWHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GATITO NEGRO",
+        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 179338,
+      "name": "ANDO MALANDRO",
+      "url": "https://open.spotify.com/track/1dSh7Yil3kXqxGRACpdn9c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El 0-10",
         "url": "https://open.spotify.com/album/7xKrS83b5Yy9JBvWlYo7aJ"
       },
@@ -563,6 +615,22 @@
       "duration_ms": 162318,
       "name": "El 0-10",
       "url": "https://open.spotify.com/track/6NovnVrwsY1OVoOuXDj6VF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 220747,
+      "name": "Cuando Te Acuerdes De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/1jB5ud2IaMBnUGuOzqpOH9"
     },
     {
       "added_at": null,
@@ -587,6 +655,26 @@
       "duration_ms": 257655,
       "name": "El Lunar",
       "url": "https://open.spotify.com/track/5bQO212Zuy5C0dZetIB6BB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GATITO NEGRO",
+        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 126661,
+      "name": "AMOR DE PAPEL",
+      "url": "https://open.spotify.com/track/7Iv7M6BTPNY41t9KgRvC45"
     },
     {
       "added_at": null,
@@ -624,9 +712,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 220747,
-      "name": "Cuando Te Acuerdes De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/1jB5ud2IaMBnUGuOzqpOH9"
+      "duration_ms": 185391,
+      "name": "Mami - En Vivo",
+      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
     },
     {
       "added_at": null,
@@ -647,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL GATITO NEGRO",
-        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Christian Ortega",
-          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
-        }
-      ],
-      "duration_ms": 145728,
-      "name": "OFFICE",
-      "url": "https://open.spotify.com/track/7qj6I5UlwhSVtrqBviCy8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -679,42 +747,6 @@
       "duration_ms": 286032,
       "name": "El Caballero (Live)",
       "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CON LA COCHI [VOL II (EN VIVO)]",
-        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 185391,
-      "name": "Mami - En Vivo",
-      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CONFLEIS",
-        "url": "https://open.spotify.com/album/7aS2h4Jbdpn6vVTafxRuu6"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        }
-      ],
-      "duration_ms": 186795,
-      "name": "CONFLEIS",
-      "url": "https://open.spotify.com/track/3D4pTiY8LcdB5WWnTdKwhC"
     },
     {
       "added_at": null,
@@ -747,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+        "name": "CONFLEIS",
+        "url": "https://open.spotify.com/album/7aS2h4Jbdpn6vVTafxRuu6"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
         }
       ],
-      "duration_ms": 192209,
-      "name": "HARLEY DAVIDSON",
-      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
+      "duration_ms": 186795,
+      "name": "CONFLEIS",
+      "url": "https://open.spotify.com/track/3D4pTiY8LcdB5WWnTdKwhC"
     },
     {
       "added_at": null,
@@ -775,6 +811,22 @@
       "duration_ms": 304553,
       "name": "Fiesta En La Sierra - En Vivo",
       "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 192209,
+      "name": "HARLEY DAVIDSON",
+      "url": "https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP"
     },
     {
       "added_at": null,
@@ -827,30 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Ranchito (En Vivo)",
-        "url": "https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los Llegadores",
-          "url": "https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2"
-        },
-        {
-          "name": "Conjunto Amenaza",
-          "url": "https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs"
-        }
-      ],
-      "duration_ms": 281840,
-      "name": "Mi Ranchito (En Vivo)",
-      "url": "https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ah\u00ed Viene la Subida",
         "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
       },
@@ -891,6 +919,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Ranchito (En Vivo)",
+        "url": "https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Llegadores",
+          "url": "https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2"
+        },
+        {
+          "name": "Conjunto Amenaza",
+          "url": "https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs"
+        }
+      ],
+      "duration_ms": 281840,
+      "name": "Mi Ranchito (En Vivo)",
+      "url": "https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CATALOGADO",
         "url": "https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB"
       },
@@ -907,54 +959,6 @@
       "duration_ms": 127481,
       "name": "CATALOGADO",
       "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 362306,
-      "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
-      "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUCES ROJAS",
-        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "DE M\u00c9XICO SOY",
-      "url": "https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL GATITO NEGRO",
-        "url": "https://open.spotify.com/album/0GRygM9xpSSHn5odtIVQy3"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 147776,
-      "name": "DELIRANTE",
-      "url": "https://open.spotify.com/track/7riPtZ3t5eiUZRsdOGvM2Z"
     }
   ],
   "unique_name": "This Is Danny Felix",

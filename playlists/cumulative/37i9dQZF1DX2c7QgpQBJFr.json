@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "la nuova scena pop italiana \ud83d\ude43\ud83c\udf6c cover: Giuse The Lizia",
+  "description": "la nuova scena pop \ud83c\uddee\ud83c\uddf9 sangio in cover",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -7830,7 +7830,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 207500,
       "name": "DISINCANTO",
       "url": "https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z"
@@ -13092,7 +13092,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 150093,
       "name": "l'unico ricordo",
       "url": "https://open.spotify.com/track/7LSt8i9gLiQbNulp92v46j"
@@ -13578,6 +13578,24 @@
       "duration_ms": 156329,
       "name": "la tua stanza",
       "url": "https://open.spotify.com/track/37v1s7DwPL2DfpKwqlVMWY"
+    },
+    {
+      "album": {
+        "name": "la verit\u00e0",
+        "url": "https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185189,
+      "name": "la verit\u00e0",
+      "url": "https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq"
     },
     {
       "album": {
@@ -15702,6 +15720,24 @@
       "duration_ms": 245411,
       "name": "Mambo",
       "url": "https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T"
+    },
+    {
+      "album": {
+        "name": "VISCERA",
+        "url": "https://open.spotify.com/album/3WlBNYbEC03nF4uFgbS1Pe"
+      },
+      "artists": [
+        {
+          "name": "DADA'",
+          "url": "https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190760,
+      "name": "Mamma Monte",
+      "url": "https://open.spotify.com/track/0SUxJUAnILipKfFnRzEc3n"
     },
     {
       "album": {
@@ -19237,6 +19273,28 @@
     },
     {
       "album": {
+        "name": "OCCHI",
+        "url": "https://open.spotify.com/album/0HNAaG0HOoB7MXxlhjmuVf"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175121,
+      "name": "OCCHI",
+      "url": "https://open.spotify.com/track/3ngCBqQMc5DwS63lfn1FAz"
+    },
+    {
+      "album": {
         "name": "paura del buio",
         "url": "https://open.spotify.com/album/3navqmm0kVfY5IJsFAvpeC"
       },
@@ -19426,7 +19484,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 240682,
       "name": "Ogni weekend",
       "url": "https://open.spotify.com/track/7L1OTcWzBMqWGYjkBYdYps"
@@ -19484,6 +19542,24 @@
       "duration_ms": 122700,
       "name": "Oh Mamma",
       "url": "https://open.spotify.com/track/6wGMU40AmbuF4DUglPE1GT"
+    },
+    {
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5s9rr54T47XuONv26HrgFj"
+      },
+      "artists": [
+        {
+          "name": "La Messa",
+          "url": "https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144777,
+      "name": "OH MY GOD",
+      "url": "https://open.spotify.com/track/1BVS3iXgpEg0gZeJCcDwV4"
     },
     {
       "album": {
@@ -28781,6 +28857,24 @@
     },
     {
       "album": {
+        "name": "TUTTO",
+        "url": "https://open.spotify.com/album/2SbELSBv971fMBXPIhlQD8"
+      },
+      "artists": [
+        {
+          "name": "Luigi Strangis",
+          "url": "https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149491,
+      "name": "TUTTO",
+      "url": "https://open.spotify.com/track/5sP4ho21CsOL7ocyA1A90l"
+    },
+    {
+      "album": {
         "name": "TUTTO (feat. Sina, MATILDE & Not Good)",
         "url": "https://open.spotify.com/album/43GeY9pQcxWwUKc8RW5iba"
       },
@@ -28870,6 +28964,24 @@
       "duration_ms": 160600,
       "name": "Tutto nero",
       "url": "https://open.spotify.com/track/0bhinJ1XUgkZ8PCwQXRBIV"
+    },
+    {
+      "album": {
+        "name": "Tutto ok",
+        "url": "https://open.spotify.com/album/6ReVnf44oDvHMHREAvnJfm"
+      },
+      "artists": [
+        {
+          "name": "Sina",
+          "url": "https://open.spotify.com/artist/2BYuUplSlEUC7pg9W05d3F"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Tutto ok",
+      "url": "https://open.spotify.com/track/2LPZWwxw5aHobsieorvDxy"
     },
     {
       "album": {
@@ -30400,6 +30512,24 @@
       "duration_ms": 162187,
       "name": "Vorrei",
       "url": "https://open.spotify.com/track/1aWkWhJxE3un97FpwgIc8K"
+    },
+    {
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/5CGnFM04nKBlAWbSKDF38B"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193824,
+      "name": "Vorrei essere un po\u2019 pi\u00f9 alto",
+      "url": "https://open.spotify.com/track/6rjtyTMW02B0eIoaFGdw4l"
     },
     {
       "album": {

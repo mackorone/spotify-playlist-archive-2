@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Curada por María José Quintanilla, embajadora EQUAL Chile\. Mujeres a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,996 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,007 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 24 | [Aunque Se](https://open.spotify.com/track/7HQKdftOupOZb6xsxIWKnG) | [Luz Eliana](https://open.spotify.com/artist/6oDRZXbFciNI9WCdvtydPl) | [Aquel Beso](https://open.spotify.com/album/2JXhlp4WVUnYWVTsBuG9Dl) | 2:06 |
 | 25 | [La Maleta](https://open.spotify.com/track/4VGCUr5HMgofSYxIDpFByq) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [La Maleta](https://open.spotify.com/album/1OtPQtIb03iPEON0DA7psY) | 3:12 |
 
-Snapshot ID: `AAAAAFg83w5Z8Qt+HzcD4zjsgYBFYDCX`
+Snapshot ID: `AAAAAEHDW9Q6xYE0LnS8FWscsRbKUokT`

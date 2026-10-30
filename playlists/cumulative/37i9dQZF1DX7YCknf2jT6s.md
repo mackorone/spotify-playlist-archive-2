@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Adrian Younge
 
-2,096 songs - 7 day 2 hr 35 min
+2,097 songs - 7 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1747,6 +1747,7 @@
 | [The Fours](https://open.spotify.com/track/2HRF69EVvPKW6eL2ka9iK4) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [The Fours](https://open.spotify.com/album/5JV9PCK2okQIVW35MePHOB) | 3:26 | 2022-09-09 | 2023-01-21 |
 | [The Future's Ours](https://open.spotify.com/track/3hRfp5wpRURTzYfuc4lRWQ) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [James Mollison](https://open.spotify.com/artist/5FHf0e5ya34Q4nDr1RbITm), [Axel Kaner\-Lidstrom](https://open.spotify.com/artist/0R4jkE6q1364F71jgVku0B) | [The Future's Ours](https://open.spotify.com/album/6mJ9VcdEUFz02q1uf81h0E) | 3:59 | 2023-09-22 | 2023-10-21 |
 | [The Gallû Pursuit](https://open.spotify.com/track/3Woy6B7Zd9CqymQ7cY7RTE) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [The Gallû Pursuit](https://open.spotify.com/album/63ijxyk2OSOxj9Tis2HnYi) | 3:26 | 2022-08-19 | 2022-09-24 |
+| [The Game Changer](https://open.spotify.com/track/3bk46hQJ6RDwfe5YhaKQQl) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD), [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Game Changer](https://open.spotify.com/album/5KmXBofsCg5Vpknnnva4G1) | 6:13 | 2026-10-23 |  |
 | [The Garden Path](https://open.spotify.com/track/31KtddFzLJobEIyxBHT3gS) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Garden Path](https://open.spotify.com/album/3JDjkBLJicW3ViAuzVxpvA) | 6:40 | 2022-02-03 | 2022-05-20 |
 | [The Gardens](https://open.spotify.com/track/5zcL9e7Dw1DgzUCqGD846y) | [Garrett Saracho](https://open.spotify.com/artist/2SXkZQ9Q60ce935l5eGwud), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Garrett Saracho JID015](https://open.spotify.com/album/4F3BmDvJNjZ9iD86J7YyWW) | 6:02 | 2022-11-18 | 2023-02-11 |
 | [The Girl by the Window](https://open.spotify.com/track/3J4inyMzzUK6XVJmAOUm1a) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Dave Douglas](https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [The Girl by the Window](https://open.spotify.com/album/0thUHXP5VZ4uyrdtqTmZmE) | 6:18 | 2023-09-29 | 2023-10-14 |

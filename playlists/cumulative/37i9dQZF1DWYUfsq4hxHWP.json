@@ -8055,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Breaking Mine",
+        "url": "https://open.spotify.com/album/60EA4oJx4H9bqQOC2H3dEe"
+      },
+      "artists": [
+        {
+          "name": "Trevor Snider",
+          "url": "https://open.spotify.com/artist/4pqs54KEp83DojM7te54Rk"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179004,
+      "name": "Breaking Mine",
+      "url": "https://open.spotify.com/track/2y0z8ugcgs8f8wbjhH99TU"
+    },
+    {
+      "album": {
         "name": "Breaking My Heart",
         "url": "https://open.spotify.com/album/12k8bwBwRgfr1OjF2iVUZJ"
       },
@@ -20245,6 +20263,24 @@
     },
     {
       "album": {
+        "name": "Fixing You",
+        "url": "https://open.spotify.com/album/6yh2bmEIG3YNExo7ko4lT6"
+      },
+      "artists": [
+        {
+          "name": "KIANA",
+          "url": "https://open.spotify.com/artist/1vYuk9KHwhwdru7gTpTqcB"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Fixing You",
+      "url": "https://open.spotify.com/track/2kYH7EzizTCdzgfleBJJb1"
+    },
+    {
+      "album": {
         "name": "FLA",
         "url": "https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU"
       },
@@ -20898,7 +20934,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 191950,
       "name": "Friends Don't Let Friends",
       "url": "https://open.spotify.com/track/32vbyGJAk3I3HDx6xruaCh"
@@ -26002,7 +26038,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 200336,
       "name": "HEATWAVE",
       "url": "https://open.spotify.com/track/2LTLSWuVWwgSNQHrBcJO4Z"
@@ -27360,7 +27396,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 262596,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/0eClbGzsuOQQYARGjFYqho"
@@ -31476,7 +31512,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 190973,
       "name": "If You Don't",
       "url": "https://open.spotify.com/track/5S1yABkY9HCkFULSbdQgB5"
@@ -37384,6 +37420,24 @@
       "duration_ms": 243094,
       "name": "Lose Somebody You Love",
       "url": "https://open.spotify.com/track/7EqJ06QvfGhvXcHPldhTa8"
+    },
+    {
+      "album": {
+        "name": "Lose This Number",
+        "url": "https://open.spotify.com/album/1zGqpf5CjbyFXCpZauXkrM"
+      },
+      "artists": [
+        {
+          "name": "Clarke Burns",
+          "url": "https://open.spotify.com/artist/6YSwAuCYqkMo7cCTd3wkVh"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193514,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3JsJc2CCMBiXdMbKocP0Bx"
     },
     {
       "album": {
@@ -47264,6 +47318,24 @@
       "duration_ms": 187340,
       "name": "Prove Me Wrong",
       "url": "https://open.spotify.com/track/302jDHzmImo8wlmUL5RISB"
+    },
+    {
+      "album": {
+        "name": "Psycho From Texas",
+        "url": "https://open.spotify.com/album/3iDak2XzfVwRQHT2phsRbz"
+      },
+      "artists": [
+        {
+          "name": "Kitty Coen",
+          "url": "https://open.spotify.com/artist/7MY6uLRlctB9wtKoE6DLef"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Psycho From Texas",
+      "url": "https://open.spotify.com/track/1TQqnXqtN4cv8HanpdYoni"
     },
     {
       "album": {
@@ -64991,6 +65063,24 @@
     },
     {
       "album": {
+        "name": "What I'll Do",
+        "url": "https://open.spotify.com/album/6Daz2KVSLgiJi61eCuKxrT"
+      },
+      "artists": [
+        {
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222747,
+      "name": "What I'll Do",
+      "url": "https://open.spotify.com/track/5JiIXabQfRqdieaaf0DXho"
+    },
+    {
+      "album": {
         "name": "What I'm Missing",
         "url": "https://open.spotify.com/album/2tTNZQZLNOpQ0CQcn7DpKb"
       },
@@ -69594,7 +69684,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 195488,
       "name": "You Only Call When It's Raining",
       "url": "https://open.spotify.com/track/1RuWVWq5Ty0YW9tcXobuQf"

@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(3\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> We got you! Den bedste nye pop er samlet her\. Tate McRae på cover 🪭
+> We got you! Den bedste nye pop er samlet her\. Malte Ebert på cover 🪭
 
-1,057 songs - 2 day 5 hr 54 min
+1,062 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [En Aften](https://open.spotify.com/track/4KgsHi0jI6oX8gkX2pacwx) | [Kvarti](https://open.spotify.com/artist/7xUwLe8g9t2HFZyuweLHvR), [popdreng](https://open.spotify.com/artist/2ZlAmhF3ayHihB6tf3cy7Y) | [En Aften](https://open.spotify.com/album/0UNFavrUfKzBznaetRAwhi) | 2:58 | 2024-06-27 | 2024-07-30 |
 | [En Anden Planet](https://open.spotify.com/track/4aCHy34GzQKexIRsZS695f) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [En Anden Planet](https://open.spotify.com/album/5ryILNPx3K0Op6YWVZNSrd) | 3:05 | 2026-01-01 | 2026-08-21 |
 | [En Dag Uden](https://open.spotify.com/track/1fPtexCPba7qZV4i3atGa8) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [En Dag Uden](https://open.spotify.com/album/4qOeYFH30cpNPoVRXSHjL0) | 2:18 | 2025-04-10 | 2025-05-30 |
+| [En Ild Der Altid Brænder](https://open.spotify.com/track/3Wgnfdz0jBvgRloeI0Loz7) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [En Ild Der Altid Brænder](https://open.spotify.com/album/5atWPJzKbVjOsB9gOv8owU) | 3:23 | 2026-10-29 |  |
 | [En Mildest Talt Elendig Samtale](https://open.spotify.com/track/7fGN0JEQtntcln3LdnjXoe) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [En Mildest Talt Elendig Samtale](https://open.spotify.com/album/49j3gmWxLB6AlHJtqsixOf) | 2:53 | 2026-05-21 |  |
 | [En Sammen](https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [En Sammen](https://open.spotify.com/album/18i88ZCgHuTLE98m68gFSV) | 2:45 | 2024-08-29 | 2025-01-17 |
 | [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 | 2025-07-10 | 2025-08-22 |
@@ -617,6 +618,7 @@
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-10-17 |
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-08 | 2024-10-04 |
 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-12 | 2026-08-21 |
+| [Lucky Pige](https://open.spotify.com/track/6e6dTvI52uvPCELtaEyCOc) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [Lucky Pige](https://open.spotify.com/album/798E42cNi2Ze2SmURryhui) | 2:12 | 2026-10-29 |  |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-04-25 |
 | [Lullaby](https://open.spotify.com/track/0YuLMpdDhj3y0WziwZTiVk) | [Benjamin Lasnier](https://open.spotify.com/artist/3N7RhH3YAHpYa9PC4SGuA0) | [Lullaby / LoveLoveLove](https://open.spotify.com/album/2bXIzyIJmka1mdKrorIbvG) | 2:28 | 2024-07-11 | 2024-10-04 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-11-08 |
@@ -652,6 +654,7 @@
 | [Mind, Soul, Body](https://open.spotify.com/track/7DVkmKZHjLkdxRPRKg9YCI) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Mind, Soul, Body](https://open.spotify.com/album/6KZzCMroT7kr3s8sRlwyrF) | 3:18 | 2025-11-13 | 2026-01-15 |
 | [Minder Hos Andre Freestyle](https://open.spotify.com/track/0TdCKUANcKOlMhHIaiE4ur) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Minder Hos Andre Freestyle](https://open.spotify.com/album/1JSplYlnpcLBuZBFs8plGm) | 2:01 | 2026-02-05 | 2026-08-21 |
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-07-25 |
+| [mine venner hader dig :\)](https://open.spotify.com/track/0Ho5wqdJQbhRhk96fhPUtl) | [Klara Vibeke](https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby) | [mine venner hader dig :\)](https://open.spotify.com/album/1fWUD5TPiYvMJnKE6vyrUe) | 2:22 | 2026-10-29 |  |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 | 2025-06-20 |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-25 | 2025-11-07 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-03 | 2025-04-18 |
@@ -877,6 +880,7 @@
 | [Sundt At Savne Nogen](https://open.spotify.com/track/6yYXeZ9kQkcpqilF2If877) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Sundt At Savne Nogen](https://open.spotify.com/album/2NHlbpYYeZOvciIIVRTLhZ) | 2:34 | 2025-10-30 | 2025-11-14 |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-13 | 2025-03-28 |
 | [Superlim](https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Superlim](https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R) | 3:05 | 2026-03-12 | 2026-06-12 |
+| [Supernar](https://open.spotify.com/track/1BurSvmpyb1lx32jmnuUBe) | [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8) | [Supernar](https://open.spotify.com/album/1i2OXqXBPllKaX6uZJJojH) | 2:38 | 2026-10-29 |  |
 | [SUPERSONIC](https://open.spotify.com/track/4q7R7pOqr3gNj7VJpgwTKu) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [SUPERSONIC](https://open.spotify.com/album/4zZ4ajMHG4gXXdljaZR7kH) | 2:46 | 2025-02-27 | 2025-03-28 |
 | [Surprise Party](https://open.spotify.com/track/2YXTDtcDhQUiszqGlrF1Iv) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Surprise party](https://open.spotify.com/album/1ISHe7R4fCXecKUCMLERBI) | 3:22 | 2025-04-03 | 2025-07-04 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-26 | 2026-02-06 |
@@ -999,6 +1003,7 @@
 | [vi er der ikk](https://open.spotify.com/track/5wVabavNndvIhXHh58K4fb) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [SASO](https://open.spotify.com/artist/1i1xNUxNNcy0pgHVHq5oF6) | [vi er der ikk](https://open.spotify.com/album/34ZExCrsxlGS0YNNTJJbJ1) | 2:51 | 2026-03-26 | 2026-08-21 |
 | [Vi ku' gå hele vejen](https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Vi ku' gå hele vejen](https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK) | 3:26 | 2025-03-27 | 2026-02-06 |
 | [Vi pumper hjertet op](https://open.spotify.com/track/62ZQfNv9W5HlIOYEjsrc33) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Vi pumper hjertet op](https://open.spotify.com/album/4F0Vp7gGV2GQMUfS1PqGaw) | 5:05 | 2025-09-25 | 2026-08-21 |
+| [Vill Ha Dig \(Feat\. Hanna Ferm\)](https://open.spotify.com/track/1vJTlLaXQ4eUmzSbodIgh7) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Oochie](https://open.spotify.com/artist/7Itlzo9sA5kksYPzEY8fhO) | [Vill Ha Dig \(Feat\. Hanna Ferm\)](https://open.spotify.com/album/7tyhU3typ1tZg0dJjB9SdX) | 2:40 | 2026-10-29 |  |
 | [Vind & Vejr](https://open.spotify.com/track/7qIQL8M3VhfRAKDD49GERE) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Vind & Vejr](https://open.spotify.com/album/45VZXwNOuioG2Qjba4iAeH) | 2:38 | 2026-04-10 | 2026-08-21 |
 | [Violetblå](https://open.spotify.com/track/7bIpmmq4AEIE7TwmETUvKa) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Vi Taler Om Solen](https://open.spotify.com/album/3ZRtlOcWoUI8tZZp0gb6fS) | 3:17 | 2026-10-23 |  |
 | [Viva](https://open.spotify.com/track/6UAa4U1OI01T2k9n0U78Ax) | [Ankerstjerne](https://open.spotify.com/artist/7JoViNQIqOIaxcBswboN5d), [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Viva](https://open.spotify.com/album/4gNt0ywiNXvUZ7O1XdGdFt) | 2:59 | 2025-02-27 | 2025-03-28 |

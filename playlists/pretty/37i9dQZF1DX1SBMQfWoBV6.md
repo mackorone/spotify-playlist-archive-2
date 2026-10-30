@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,816 likes - 106 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,963 likes - 106 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 105 | [P.S.R.](https://open.spotify.com/track/1BUK2OhjoaxPi6n7CPq25q) | [Private Agenda](https://open.spotify.com/artist/0Ach9AicviOrwIPxUPntnA) | [Ile De Reve](https://open.spotify.com/album/6amMyNzSzAfsBfMbe32bws) | 5:57 |
 | 106 | [Willing Suspension of Disbelief](https://open.spotify.com/track/07JOkxdkKHffHm1YLbUhFg) | [Selffish](https://open.spotify.com/artist/0YIcdQQ4Mmhl4l40ubHABn) | [He She Them Us](https://open.spotify.com/album/4oyS54Dgj9V4RfwaWQO5t5) | 8:07 |
 
-Snapshot ID: `AAAAAFN1KHzLVL72NCg1Ex1fzoWJ2W9z`
+Snapshot ID: `AAAAAOZg83d/pXSC5rTbPu5m3jkQWkGD`

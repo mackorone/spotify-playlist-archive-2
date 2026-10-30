@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,697,668 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,698,200 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Afterlife](https://open.spotify.com/track/2qt1p3NHil24W9gd8IrEK5) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Afterlife](https://open.spotify.com/album/5ZP7RD3NOFLPg9wuq52C2q) | 4:00 |
 | 100 | [In Your Mind](https://open.spotify.com/track/1wqbfeYOH4xOXFJqnJsZm1) | [AXXX7en](https://open.spotify.com/artist/1l3VzLTekQWDt5z2Q5eZnq), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [In Your Mind](https://open.spotify.com/album/7CYQzMa27rNCdHDHvMB2EW) | 2:05 |
 
-Snapshot ID: `AAAAAPbkhMfMWqkN7X1UMEzT1uwQyqyt`
+Snapshot ID: `AAAAACSmIVXdr1fZckHmuoRmVle6Gs4t`

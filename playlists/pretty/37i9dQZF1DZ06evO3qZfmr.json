@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 59132,
+  "num_followers": 59187,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAA0ZLt2LDG4OG6FH77JGu49",
+  "snapshot_id": "at/pgAAAAACep2Y0QaJWQ9dAL4nXkEeP",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky (Deluxe)",
-        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
       },
       "artists": [
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 199383,
-      "name": "Fix You Too (feat. Kameron Marlowe)",
-      "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
+      "duration_ms": 227399,
+      "name": "Say When",
+      "url": "https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg"
     },
     {
       "added_at": null,
@@ -303,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Had To Be There (feat. Kenny Chesney)",
-        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
       "artists": [
         {
@@ -312,13 +308,13 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         },
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 220157,
-      "name": "You Had To Be There (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
+      "duration_ms": 199383,
+      "name": "Fix You Too (feat. Kameron Marlowe)",
+      "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+        "name": "You Had To Be There (feat. Kenny Chesney)",
+        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
       },
       "artists": [
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 227399,
-      "name": "Say When",
-      "url": "https://open.spotify.com/track/7mcEvEEwLce8qXrNPmgugg"
+      "duration_ms": 220157,
+      "name": "You Had To Be There (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
     },
     {
       "added_at": null,

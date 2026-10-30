@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 153128,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/2EBDAuH1m4lBO54iJ3yHUl"
@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Wit 3 iii's",
+        "url": "https://open.spotify.com/album/1rcCeupI6cDX9q7CAei2V1"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142697,
+      "name": "BYB",
+      "url": "https://open.spotify.com/track/3J64O7nqy9ORcZgYRvoA5m"
+    },
+    {
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -5854,7 +5872,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 165298,
       "name": "Geeked Shit - remix",
       "url": "https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH"
@@ -6234,7 +6252,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 157874,
       "name": "GO BANANAS",
       "url": "https://open.spotify.com/track/5cQYgOxMf0AkCADNNPAFdA"
@@ -7096,6 +7114,24 @@
       "duration_ms": 192818,
       "name": "HISS",
       "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
+        "name": "Hittin",
+        "url": "https://open.spotify.com/album/6fTMoY8zwETgz56dG8kwk7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141799,
+      "name": "Hittin",
+      "url": "https://open.spotify.com/track/6feMUnNusY2hSP1bPYOtbQ"
     },
     {
       "album": {
@@ -11422,7 +11458,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 154238,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/6KkKUztDojP7v5e07Xb9S1"
@@ -15417,6 +15453,24 @@
     },
     {
       "album": {
+        "name": "Tina Tuesday Freestyles",
+        "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146392,
+      "name": "Thin Ice",
+      "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"
+    },
+    {
+      "album": {
         "name": "Lebra Jolie",
         "url": "https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6"
       },
@@ -15534,6 +15588,24 @@
       "duration_ms": 125760,
       "name": "Throw a Lil Mo (Do It)",
       "url": "https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD"
+    },
+    {
+      "album": {
+        "name": "Tina Tuesday Freestyles",
+        "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110294,
+      "name": "Tina Tuesday",
+      "url": "https://open.spotify.com/track/6cfxALbtuiIRdrfWCEDGvK"
     },
     {
       "album": {

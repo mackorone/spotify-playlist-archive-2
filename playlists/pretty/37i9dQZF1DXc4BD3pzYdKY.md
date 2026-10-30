@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Rap & Hip Hop today\.  Cover: 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,156 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,189 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 73 | [WHO BIGGER](https://open.spotify.com/track/7vOanjJViklqgEMFmCWoWU) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [FrankRilla](https://open.spotify.com/artist/56WmbdbjnfVJLhl8xuWytm) | [WHO BIGGER](https://open.spotify.com/album/2MtJgdYiYtezJYn2IE60NJ) | 2:24 |
 | 74 | [WHO THE ONE](https://open.spotify.com/track/0FUcvwNOsAwybzjXRkog4o) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [WHO THE ONE](https://open.spotify.com/album/270jt5TwoQjShURlLh7MK1) | 3:26 |
 
-Snapshot ID: `AAAAAEpw35r5EgJYyQGqiiJ6C0gXBFgn`
+Snapshot ID: `AAAAAL6/wjrnjOgTzz9RLQ/wwkqCFmEG`

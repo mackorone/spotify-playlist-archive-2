@@ -1,32 +1,32 @@
 {
-  "description": "The hottest out the South. Cover: Yung Miami",
-  "num_followers": 1267501,
+  "description": "The hottest out the South. Cover: Young Nudy",
+  "num_followers": 1267341,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9J685n+DTpydiPsFnxAdHooS44",
+  "snapshot_id": "AAAAAJ2aPnvSznCT+v3rpZ0wyt0hMz+C",
   "tracks": [
     {
-      "added_at": "2026-10-23 04:02:05",
+      "added_at": "2026-10-30 04:01:42",
       "album": {
-        "name": "Watch Dis!",
-        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+        "name": "Just Doin Me",
+        "url": "https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf"
       },
       "artists": [
         {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Just Might Go (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
+      "duration_ms": 224173,
+      "name": "Spinnin (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6u82jr3MnmUbG1th452h4u"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -61,7 +61,27 @@
       "url": "https://open.spotify.com/track/5S5gF7ujCupq2bmZMhAvmJ"
     },
     {
-      "added_at": "2026-10-16 04:01:55",
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "DA FUCC (feat. Ro$ama)",
+      "url": "https://open.spotify.com/track/5FIO30UOUSe7MRXGL5GHvI"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
       "album": {
         "name": "The Real Me",
         "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
@@ -72,9 +92,25 @@
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 119986,
-      "name": "One Two",
-      "url": "https://open.spotify.com/track/7Aj7gSqpF1HdkftImtgil8"
+      "duration_ms": 153733,
+      "name": "Konnichiwa",
+      "url": "https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "Tina Tuesday Freestyles",
+        "url": "https://open.spotify.com/album/7us0zl46Z7mkATIjbMuZop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 146392,
+      "name": "Thin Ice",
+      "url": "https://open.spotify.com/track/30kdhH71QYFC1WBBz89chu"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -127,6 +163,42 @@
       "duration_ms": 178333,
       "name": "LITE (feat. Belly Gang Kushington)",
       "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "A Week In Paris",
+        "url": "https://open.spotify.com/album/0luklO7b6tf6OgF63LMnK9"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 184206,
+      "name": "A Week In Paris",
+      "url": "https://open.spotify.com/track/5AaPqbsV9RXAD6I8vTyXeq"
+    },
+    {
+      "added_at": "2026-10-23 04:02:05",
+      "album": {
+        "name": "Watch Dis!",
+        "url": "https://open.spotify.com/album/6vGsnz0EkIqv9zYPFKub3j"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Just Might Go (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4b4XGnysKKSNZk2UqItJX1"
     },
     {
       "added_at": "2026-10-23 04:02:05",
@@ -185,6 +257,46 @@
       "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
     },
     {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "B. Ruth",
+        "url": "https://open.spotify.com/album/70xfoso1VYoeSi7iziNu2H"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "duration_ms": 163599,
+      "name": "B. Ruth",
+      "url": "https://open.spotify.com/track/6kWeUAks0GRS5Dze0Ho6Js"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "BETTER OVER TIME",
+        "url": "https://open.spotify.com/album/0Iccs76G7e4e403S9VRqiA"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "BELIEVE (feat. Babyface Ray, Lil Yachty)",
+      "url": "https://open.spotify.com/track/4ZIs6K0e8qqBZ8OkXGq3I3"
+    },
+    {
       "added_at": "2026-10-16 04:01:55",
       "album": {
         "name": "QR\u00d6MELIFE",
@@ -203,22 +315,6 @@
       "duration_ms": 149159,
       "name": "BA (feat. Future)",
       "url": "https://open.spotify.com/track/4dcIixtgEW2bs2RapmQlQ3"
-    },
-    {
-      "added_at": "2026-10-16 04:01:55",
-      "album": {
-        "name": "FDO",
-        "url": "https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 319213,
-      "name": "FDO",
-      "url": "https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -253,20 +349,24 @@
       "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
     },
     {
-      "added_at": "2026-10-23 04:02:05",
+      "added_at": "2026-10-30 04:01:42",
       "album": {
-        "name": "Broke Bitch",
-        "url": "https://open.spotify.com/album/5XNq8ZNwNor1venx7dRDEM"
+        "name": "NON-FICTION",
+        "url": "https://open.spotify.com/album/1tj3XpRW1Ei2sDunaiXXxI"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 180240,
-      "name": "Broke Bitch",
-      "url": "https://open.spotify.com/track/1R6WpBLGAOccRpJ644OeIm"
+      "duration_ms": 156000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0mluBa4IK7Jh7R75c1EAi8"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -283,22 +383,6 @@
       "duration_ms": 174040,
       "name": "Fucking Told U",
       "url": "https://open.spotify.com/track/4NUUOQDq0W89tJCGYwXaW0"
-    },
-    {
-      "added_at": "2026-10-16 04:01:55",
-      "album": {
-        "name": "Street Fanci 5",
-        "url": "https://open.spotify.com/album/2hbLrnDfRSzuTJaguW2g77"
-      },
-      "artists": [
-        {
-          "name": "Tafia",
-          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "Good At It",
-      "url": "https://open.spotify.com/track/2wI7XSysVR8ZjfLFjJh4DU"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -353,24 +437,20 @@
       "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
     },
     {
-      "added_at": "2026-10-23 04:02:05",
+      "added_at": "2026-10-30 04:01:42",
       "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/3HE2f6OP8CLDaAKS8Jx3L0"
+        "name": "Play Games",
+        "url": "https://open.spotify.com/album/7vF7OqrSE1EIQsatveEBBF"
       },
       "artists": [
         {
-          "name": "Tay-K",
-          "url": "https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB"
-        },
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+          "name": "Johnny Slime",
+          "url": "https://open.spotify.com/artist/1LacTZS7n8wnxNVAOghBVu"
         }
       ],
-      "duration_ms": 165603,
-      "name": "Chit Chat",
-      "url": "https://open.spotify.com/track/2r9Uu3bhyvhLNlj0QI44eB"
+      "duration_ms": 135168,
+      "name": "Play Games",
+      "url": "https://open.spotify.com/track/2z7kKAuSvHX4I0bbNbnau2"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -441,6 +521,22 @@
       "url": "https://open.spotify.com/track/1efVxjfWOprbyM9jpzRQK8"
     },
     {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "JEWELER",
+        "url": "https://open.spotify.com/album/6Nm88K7DYpwxoLvnSQajlP"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 107972,
+      "name": "JEWELER",
+      "url": "https://open.spotify.com/track/1i2ygnZjwlngo2G7a1ybrJ"
+    },
+    {
       "added_at": "2026-10-16 17:16:05",
       "album": {
         "name": "No License",
@@ -455,22 +551,6 @@
       "duration_ms": 171724,
       "name": "No License",
       "url": "https://open.spotify.com/track/56BlMzqVDjrDchePa64vkW"
-    },
-    {
-      "added_at": "2026-10-16 04:01:55",
-      "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/0A9qrkHl3nzS8ILqeMHJLM"
-      },
-      "artists": [
-        {
-          "name": "Trap Dickey",
-          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
-        }
-      ],
-      "duration_ms": 123157,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/2Niq4PmEZyPKwI5vJ1DaUp"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -491,6 +571,22 @@
       "duration_ms": 161817,
       "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
       "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4cFvRqD3c1md7hBjUOFag6"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Jigga Who",
+      "url": "https://open.spotify.com/track/0bKaLvWNjxbdmArp66y8Jg"
     },
     {
       "added_at": "2026-10-23 04:02:05",
@@ -529,6 +625,26 @@
       "url": "https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH"
     },
     {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "Nobody (feat. Monaleo) [Remix]",
+        "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 149963,
+      "name": "Nobody (feat. Monaleo) - Remix",
+      "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
+    },
+    {
       "added_at": "2026-10-23 04:02:05",
       "album": {
         "name": "Throw Aways",
@@ -543,26 +659,6 @@
       "duration_ms": 144660,
       "name": "Munyun",
       "url": "https://open.spotify.com/track/76nPNtQqzXWeKUZuOLdtWJ"
-    },
-    {
-      "added_at": "2026-10-23 04:02:05",
-      "album": {
-        "name": "33 Zips",
-        "url": "https://open.spotify.com/album/55hlF8SHNwFyJck3d498P1"
-      },
-      "artists": [
-        {
-          "name": "Nino Breeze",
-          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
-        },
-        {
-          "name": "AgnsBill",
-          "url": "https://open.spotify.com/artist/4YexWSXhaciE6U79phTDjo"
-        }
-      ],
-      "duration_ms": 161032,
-      "name": "33 Zips",
-      "url": "https://open.spotify.com/track/1oQ15tREqnQNPCAw917eFc"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -589,6 +685,22 @@
       "url": "https://open.spotify.com/track/6RavynquNb0z8kP5k73UxB"
     },
     {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "N5ON",
+        "url": "https://open.spotify.com/album/5tUymTDVSwVGC1fV8sPo04"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 104568,
+      "name": "WAV",
+      "url": "https://open.spotify.com/track/2Z83GteTaxI68BJQuhMide"
+    },
+    {
       "added_at": "2026-10-23 04:02:05",
       "album": {
         "name": "The Last Sipper",
@@ -607,22 +719,6 @@
       "duration_ms": 162312,
       "name": "004*005 (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/0Gk3NVbaGaqJpXse3IP47f"
-    },
-    {
-      "added_at": "2026-10-23 04:02:05",
-      "album": {
-        "name": "Keep On Pushing",
-        "url": "https://open.spotify.com/album/6cZscfvlDvHp67nayEPdbR"
-      },
-      "artists": [
-        {
-          "name": "Nechie",
-          "url": "https://open.spotify.com/artist/0DO5d7KMv6Gn1mIbDhlyUf"
-        }
-      ],
-      "duration_ms": 205008,
-      "name": "Keep On Pushing",
-      "url": "https://open.spotify.com/track/6y6YcN2HCagNIfUlqU9EGy"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -671,6 +767,26 @@
       "duration_ms": 115200,
       "name": "No Love",
       "url": "https://open.spotify.com/track/4asLd3UbnpIdGAQ2p9Z7Yn"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "Just Doin Me",
+        "url": "https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Judy (feat. JID)",
+      "url": "https://open.spotify.com/track/0j7vGHIKjtQmHBeDFCepPS"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -943,26 +1059,6 @@
     {
       "added_at": "2026-10-16 04:01:55",
       "album": {
-        "name": "Just Call Me Trap",
-        "url": "https://open.spotify.com/album/3dRhrC0icWMJ7H9kN5PYUn"
-      },
-      "artists": [
-        {
-          "name": "Fatt Macc",
-          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
-        },
-        {
-          "name": "Fatt Smaxk",
-          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
-        }
-      ],
-      "duration_ms": 169544,
-      "name": "Wat U Want (feat. Fatt Smaxk)",
-      "url": "https://open.spotify.com/track/3ncKGuFP290HqZzg6pkVoN"
-    },
-    {
-      "added_at": "2026-10-16 04:01:55",
-      "album": {
         "name": "Peter Pusher",
         "url": "https://open.spotify.com/album/06Y0rbJpazdNw6JrDIc3TZ"
       },
@@ -1195,30 +1291,6 @@
     {
       "added_at": "2026-10-16 04:01:55",
       "album": {
-        "name": "Reign",
-        "url": "https://open.spotify.com/album/0oKwuRs4cyd1fGcNSqMdb2"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        },
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Reign",
-      "url": "https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm"
-    },
-    {
-      "added_at": "2026-10-16 04:01:55",
-      "album": {
         "name": "2CRETE",
         "url": "https://open.spotify.com/album/2TkOaLgqZaFTgMznqJiyr1"
       },
@@ -1267,22 +1339,6 @@
       "duration_ms": 132204,
       "name": "Dope Girl",
       "url": "https://open.spotify.com/track/03UERpSRNgwNt1poeQQZ0M"
-    },
-    {
-      "added_at": "2026-10-16 04:01:55",
-      "album": {
-        "name": "Get Hit",
-        "url": "https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch"
-      },
-      "artists": [
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        }
-      ],
-      "duration_ms": 114928,
-      "name": "Get Hit",
-      "url": "https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3"
     },
     {
       "added_at": "2026-10-16 04:01:55",
@@ -1647,22 +1703,6 @@
       "duration_ms": 122402,
       "name": "Lil Mama",
       "url": "https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6"
-    },
-    {
-      "added_at": "2026-10-16 04:01:55",
-      "album": {
-        "name": "Quiet on the Creek",
-        "url": "https://open.spotify.com/album/4UBXeWTpsMbIEWzT1aSbAd"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 139420,
-      "name": "Quiet on the Creek",
-      "url": "https://open.spotify.com/track/1lLqWYr8d5GbiCAgmNV5BK"
     },
     {
       "added_at": "2026-10-16 04:01:55",

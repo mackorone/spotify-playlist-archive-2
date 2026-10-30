@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pLfLmbGM3d.md) - [plain]
 
 > Let's DIVE into IVE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,984 likes - 84 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,031 likes - 84 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pLfLmbGM3d.md) - [plain]
 | 83 | [Off The Record \-Japanese version\-](https://open.spotify.com/track/4xx82LI2Z2wzAofp5b6q29) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 3:08 |
 | 84 | [Baddie \-Japanese version\-](https://open.spotify.com/track/2IVXlEsWeTYyK3s46GVRL2) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 2:34 |
 
-Snapshot ID: `AAAAAOyslcMWzObK5A2c4YfUA9v1KggL`
+Snapshot ID: `AAAAAA0GCI+DoNypNiO7vnVnRYNYnWYP`

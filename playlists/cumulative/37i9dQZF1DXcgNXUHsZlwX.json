@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 238969,
       "name": "L'\u00e9t\u00e9 indien de ta vie",
       "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
@@ -5123,7 +5123,7 @@
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178588,
+      "duration_ms": 177822,
       "name": "La course au plus beau jour de l'humanit\u00e9",
       "url": "https://open.spotify.com/track/7fNdgHkCtxO0kWaZz0vklV"
     },
@@ -6387,6 +6387,24 @@
     },
     {
       "album": {
+        "name": "Lilas",
+        "url": "https://open.spotify.com/album/6xviy5wTOx5znxeM5XNiH7"
+      },
+      "artists": [
+        {
+          "name": "Carla Chanelle",
+          "url": "https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169073,
+      "name": "Lilas",
+      "url": "https://open.spotify.com/track/09qJkXw2WhYbGcsqHr0xq4"
+    },
+    {
+      "album": {
         "name": "Loin, loin, loin (Radio Edit) - Single",
         "url": "https://open.spotify.com/album/4ApjGnbUOFXzIMlHebBR1C"
       },
@@ -6994,6 +7012,24 @@
       "duration_ms": 201621,
       "name": "Marie",
       "url": "https://open.spotify.com/track/0qQiPk5BT3jBwucog23UXX"
+    },
+    {
+      "album": {
+        "name": "Marie C\u00e9leste",
+        "url": "https://open.spotify.com/album/46rS6BCpOhczqDDZ7dIOZh"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248458,
+      "name": "Marie C\u00e9leste",
+      "url": "https://open.spotify.com/track/2bER5iE2bOppib04Nmd49x"
     },
     {
       "album": {
@@ -9448,7 +9484,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 169803,
       "name": "Royallll - Acoustic",
       "url": "https://open.spotify.com/track/0aZERRJPtlaPwLKYBuLbbc"

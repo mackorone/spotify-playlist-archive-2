@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 126989,
+  "num_followers": 127036,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAQZFCc8hzJBuENzZw+GiOg9FB9o",
+  "snapshot_id": "AAAAAB9CpcySkRBgv8GeVk1ZuIPXRZoh",
   "tracks": [
     {
       "added_at": "2024-03-25 16:58:35",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "Star Witness",
-      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "The Glow, Pt. 2",
         "url": "https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Woke On A Whaleheart",
-        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
+        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
       },
       "artists": [
         {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 335800,
-      "name": "Sycamore",
-      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
+      "duration_ms": 316506,
+      "name": "Star Witness",
+      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -635,6 +619,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Woke On A Whaleheart",
+        "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 335800,
+      "name": "Sycamore",
+      "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "The Stand Ins",
-        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
-      },
-      "artists": [
-        {
-          "name": "Okkervil River",
-          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Lost Coastlines",
-      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "The Sea & the Rhythm",
         "url": "https://open.spotify.com/album/4ujax5DobWOX6ylaK0MEiy"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 323973,
       "name": "The Sea and the Rhythm",
       "url": "https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "The Stand Ins",
+        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
+      },
+      "artists": [
+        {
+          "name": "Okkervil River",
+          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Lost Coastlines",
+      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Strictly Rule",
-      "url": "https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "The Trials of Van Occupanther",
         "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 291640,
       "name": "Young Bride",
       "url": "https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Tight Knit",
+        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Strictly Rule",
+      "url": "https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Upper Air",
-        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Folklore",
         "url": "https://open.spotify.com/album/0zYc9YpWV3n6txRxLjtOef"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 244653,
       "name": "Hutterite Mile",
       "url": "https://open.spotify.com/track/6p80ag5QuK3b609DMpD7AM"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Upper Air",
+        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
+      },
+      "artists": [
+        {
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "The Felice Brothers",
-        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
-      },
-      "artists": [
-        {
-          "name": "The Felice Brothers",
-          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
-        }
-      ],
-      "duration_ms": 246146,
-      "name": "Frankie's Gun!",
-      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Dongs Of Sevotion",
         "url": "https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 356933,
       "name": "Cold Discovery",
       "url": "https://open.spotify.com/track/7eP5OpMpDJaUz3DL1LPbDi"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "The Felice Brothers",
+        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
+      },
+      "artists": [
+        {
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Frankie's Gun!",
+      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "A Ways Away",
-        "url": "https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw"
-      },
-      "artists": [
-        {
-          "name": "Tara Jane O'Neil",
-          "url": "https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "A New Binding",
-      "url": "https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 246973,
       "name": "Little Lion Man",
       "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "A Ways Away",
+        "url": "https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw"
+      },
+      "artists": [
+        {
+          "name": "Tara Jane O'Neil",
+          "url": "https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "A New Binding",
+      "url": "https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 217986,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1571,6 +1587,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Ready, Able",
+      "url": "https://open.spotify.com/track/5cf1ZfI16kHp3S1ySpQ36G"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "Illinois",
         "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
       },
@@ -1583,38 +1615,6 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Magnolia Electric Co. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY"
-      },
-      "artists": [
-        {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
-        }
-      ],
-      "duration_ms": 442106,
-      "name": "Farewell Transmission",
-      "url": "https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "I'd Rather Dance With You",
-      "url": "https://open.spotify.com/track/4hGOhC87bn7JBdYykOJJvJ"
     }
   ],
   "unique_name": "00s Indie Folk",

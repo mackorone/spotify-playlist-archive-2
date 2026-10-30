@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Josh Baldwin",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Aubree Archibeck of Bethel Music & Martin Smith",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -782,7 +782,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 451653,
       "name": "All The Glory",
       "url": "https://open.spotify.com/track/6aje17mw9Yv6IArbvpKhit"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 369280,
       "name": "Always Been Jesus",
       "url": "https://open.spotify.com/track/5TtHnRmepkrPZwscSyBDWb"
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 337520,
       "name": "Blood of Jesus (I Surrender All)",
       "url": "https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8"
@@ -5753,6 +5753,28 @@
     },
     {
       "album": {
+        "name": "GAIN & GLORY (Live)",
+        "url": "https://open.spotify.com/album/0M166gvnQfbK4fPSu43iDG"
+      },
+      "artists": [
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        },
+        {
+          "name": "The River Worship",
+          "url": "https://open.spotify.com/artist/5FmxD8Ox8Fr0wd01yEsca0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263096,
+      "name": "GAIN & GLORY - Live",
+      "url": "https://open.spotify.com/track/2NqZh3T22HXTQITPb1vXgK"
+    },
+    {
+      "album": {
         "name": "Garment Of Praise",
         "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
       },
@@ -6834,6 +6856,32 @@
       "duration_ms": 538200,
       "name": "Greatly To Be Praised - Live",
       "url": "https://open.spotify.com/track/4nxbshOlmnBPG94wjMHsaU"
+    },
+    {
+      "album": {
+        "name": "Greatness",
+        "url": "https://open.spotify.com/album/0YlejC2NYCGaasm2yVJ6Tt"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+        },
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392113,
+      "name": "Greatness",
+      "url": "https://open.spotify.com/track/476NZpK9PwbxMd7ya9IX9C"
     },
     {
       "album": {
@@ -8168,7 +8216,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 271086,
       "name": "Holy Spirit (feat. Phylisha Mitchell)",
       "url": "https://open.spotify.com/track/24SrfIM7qWv1nuHemYgZSM"
@@ -12151,6 +12199,32 @@
     },
     {
       "album": {
+        "name": "LIVE AGAIN!",
+        "url": "https://open.spotify.com/album/0gWxmVRXsIkztbPqzaAHWp"
+      },
+      "artists": [
+        {
+          "name": "Covenant Worship",
+          "url": "https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj"
+        },
+        {
+          "name": "Nikki Moltz",
+          "url": "https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz"
+        },
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359295,
+      "name": "LIVE AGAIN!",
+      "url": "https://open.spotify.com/track/31K2CjjCPg6oyAX7ra8AQu"
+    },
+    {
+      "album": {
         "name": "All That Remains",
         "url": "https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk"
       },
@@ -12782,6 +12856,32 @@
       "duration_ms": 250200,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/1zlsN35XHeANKr2v3T4Wir"
+    },
+    {
+      "album": {
+        "name": "Maranatha / East Gate",
+        "url": "https://open.spotify.com/album/7jqbrkurduXbJmc1ZvLPJL"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Sarahbeth Smith",
+          "url": "https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi"
+        },
+        {
+          "name": "Raffi Greco",
+          "url": "https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608447,
+      "name": "Maranatha / East Gate",
+      "url": "https://open.spotify.com/track/5xMXo51jXTXh1clB4PaUoL"
     },
     {
       "album": {

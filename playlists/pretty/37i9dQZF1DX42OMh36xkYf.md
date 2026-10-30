@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Lady Arias en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,223 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,182 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [La Falda](https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [La Falda](https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh) | 2:35 |
 | 50 | [In\-N\-Out \(Downtown\)](https://open.spotify.com/track/2NpkgzXemh3JXfH8bswgT8) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Manifest](https://open.spotify.com/album/5MOTbRL1bEJWdBJQOpEiTl) | 5:34 |
 
-Snapshot ID: `AAAAAF2/QL9pYXYXShbqXAZkrND8uZiP`
+Snapshot ID: `AAAAAOtuMquf1dEOvkCFc1yON6Lemu26`

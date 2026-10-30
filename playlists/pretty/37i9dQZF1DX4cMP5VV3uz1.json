@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166978,
+  "num_followers": 166983,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbynYmU60j6gIRgOZevMs2LYnsu",
+  "snapshot_id": "AAAAAJqTcXAPuFHJy6W3YpSSxsiyanj1",
   "tracks": [
     {
       "added_at": "2026-10-16 08:07:51",
@@ -124,25 +124,33 @@
           "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         }
       ],
-      "duration_ms": 226293,
+      "duration_ms": 226206,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/00Kh829MiosKSvGHFQEbt8"
     },
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/3XwujMrHgCfjTIpnB6zIgR"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/4Jn3rHvRtF0wmbVn7VIo8o"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Joe Killington",
+          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
         }
       ],
-      "duration_ms": 271724,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/2zzO5pkMoiWvgO5lCOLkDH"
+      "duration_ms": 285257,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/3RN6eCnL13Z8tlMnhDYAN0"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -171,26 +179,18 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/4Jn3rHvRtF0wmbVn7VIo8o"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/3XwujMrHgCfjTIpnB6zIgR"
       },
       "artists": [
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Joe Killington",
-          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
         }
       ],
-      "duration_ms": 285257,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/3RN6eCnL13Z8tlMnhDYAN0"
+      "duration_ms": 271724,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2zzO5pkMoiWvgO5lCOLkDH"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
+        "name": "Icarus",
+        "url": "https://open.spotify.com/album/314646LBYORuz5JGXtHiB9"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "TW3LVE",
+          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
+        }
+      ],
+      "duration_ms": 201379,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/3KWchIluByUzdoJfkwe0Kx"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
         "name": "Touchdown",
         "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 160172,
       "name": "Touchdown",
       "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "Icarus",
-        "url": "https://open.spotify.com/album/314646LBYORuz5JGXtHiB9"
-      },
-      "artists": [
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
-        },
-        {
-          "name": "TW3LVE",
-          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/3KWchIluByUzdoJfkwe0Kx"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -683,18 +683,38 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Genesis II",
-        "url": "https://open.spotify.com/album/3mkvfsafNXE0Yh0sJE7znC"
+        "name": "Bad Boy Flows",
+        "url": "https://open.spotify.com/album/6xAt9yuZuGIeiZUkHQZnJy"
       },
       "artists": [
         {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
         }
       ],
-      "duration_ms": 222068,
-      "name": "Genesis II",
-      "url": "https://open.spotify.com/track/6jkFiUGy2bKFREJ7nJcwtl"
+      "duration_ms": 161724,
+      "name": "Bad Boy Flows",
+      "url": "https://open.spotify.com/track/2ciwhvkH8vxYI8SBhFAYRY"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "LOCKDOWN",
+        "url": "https://open.spotify.com/album/5mwfc2tfgL5FzsSbuGeDkL"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 182057,
+      "name": "LOCKDOWN",
+      "url": "https://open.spotify.com/track/2bWA1Voi1F0uuLiwoqvmRj"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -719,18 +739,18 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Bad Boy Flows",
-        "url": "https://open.spotify.com/album/6xAt9yuZuGIeiZUkHQZnJy"
+        "name": "Genesis II",
+        "url": "https://open.spotify.com/album/3mkvfsafNXE0Yh0sJE7znC"
       },
       "artists": [
         {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
         }
       ],
-      "duration_ms": 161724,
-      "name": "Bad Boy Flows",
-      "url": "https://open.spotify.com/track/2ciwhvkH8vxYI8SBhFAYRY"
+      "duration_ms": 222068,
+      "name": "Genesis II",
+      "url": "https://open.spotify.com/track/6jkFiUGy2bKFREJ7nJcwtl"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -759,26 +779,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6erJLTgEFvdlnLocTQ5iBg"
-      },
-      "artists": [
-        {
-          "name": "Primate",
-          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
-        },
-        {
-          "name": "Nersha",
-          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Cut Em Down",
         "url": "https://open.spotify.com/album/6BDTKombhaeXnr5ZWHWQY6"
       },
@@ -799,22 +799,22 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "LOCKDOWN",
-        "url": "https://open.spotify.com/album/5mwfc2tfgL5FzsSbuGeDkL"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6erJLTgEFvdlnLocTQ5iBg"
       },
       "artists": [
         {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
         },
         {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+          "name": "Nersha",
+          "url": "https://open.spotify.com/artist/2qffW795q2r1MuUmeduoaN"
         }
       ],
-      "duration_ms": 182057,
-      "name": "LOCKDOWN",
-      "url": "https://open.spotify.com/track/2bWA1Voi1F0uuLiwoqvmRj"
+      "duration_ms": 204342,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -839,6 +839,34 @@
       "duration_ms": 195428,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Free (Hoax Remix)",
+        "url": "https://open.spotify.com/album/2fSJxTirK2qb4RdfhHHsXZ"
+      },
+      "artists": [
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        },
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
+        },
+        {
+          "name": "Valor",
+          "url": "https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Free - Hoax Remix",
+      "url": "https://open.spotify.com/track/5HDRSBjARz5hTykF1p3K8r"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -887,34 +915,6 @@
       "duration_ms": 209655,
       "name": "Winner",
       "url": "https://open.spotify.com/track/3kB3o4vzt1NxMbKKv5VHaJ"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "Free (Hoax Remix)",
-        "url": "https://open.spotify.com/album/2fSJxTirK2qb4RdfhHHsXZ"
-      },
-      "artists": [
-        {
-          "name": "Emz",
-          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
-        },
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        },
-        {
-          "name": "Nasser UK",
-          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
-        },
-        {
-          "name": "Valor",
-          "url": "https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Free - Hoax Remix",
-      "url": "https://open.spotify.com/track/5HDRSBjARz5hTykF1p3K8r"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
+        "name": "Nakal (ft. Eka)",
+        "url": "https://open.spotify.com/album/0go7h69yCkDkdQ2YMDIuQV"
+      },
+      "artists": [
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        },
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Nakal (ft. Eka)",
+      "url": "https://open.spotify.com/track/5dyOP4LozmybQl2hgGQMdx"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
         "name": "Check 2",
         "url": "https://open.spotify.com/album/4OC9mwcMzU06jQNYoqYJpc"
       },
@@ -1215,26 +1235,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Nakal (ft. Eka)",
-        "url": "https://open.spotify.com/album/0go7h69yCkDkdQ2YMDIuQV"
-      },
-      "artists": [
-        {
-          "name": "Halogenix",
-          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
-        },
-        {
-          "name": "JD. REID",
-          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Nakal (ft. Eka)",
-      "url": "https://open.spotify.com/track/5dyOP4LozmybQl2hgGQMdx"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Outta Control",
         "url": "https://open.spotify.com/album/60aXe6yVgonzkTm2c1xtp7"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        }
-      ],
-      "duration_ms": 266742,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Under The Lights",
         "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 200228,
       "name": "Under The Lights",
       "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6kuPjoX0uIkkoUKTt51ScD"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "duration_ms": 266742,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/09FPGnR2R4t3v1FgIBGBJD"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Log On",
-        "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
-      },
-      "artists": [
-        {
-          "name": "Dennett",
-          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Log On",
-      "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/37Y7Wz2FNqrAKrIi9qcLDC"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 210344,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/0AzytvRcpoml1cd11WiBbp"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Log On",
+        "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
+      },
+      "artists": [
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Log On",
+      "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1423,38 +1423,22 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "SKULL",
-        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
       },
       "artists": [
         {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
         },
         {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 195899,
-      "name": "SKULL",
-      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "14ZERO V2",
-        "url": "https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 198428,
-      "name": "I\u2019m Confused",
-      "url": "https://open.spotify.com/track/23IMx0AeVBouS72DfACGQt"
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1479,22 +1463,38 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/4un4FAjfIhnCW1Xy83Qx9Y"
       },
       "artists": [
         {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "FLOONK",
+          "url": "https://open.spotify.com/artist/4ZzqskD9slkLlmzd5kiEnM"
         }
       ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
+      "duration_ms": 202970,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "SKULL",
+        "url": "https://open.spotify.com/album/2bRrNpvj2msNm3xWbZdEnK"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 195899,
+      "name": "SKULL",
+      "url": "https://open.spotify.com/track/7sfD7PUvDp0TmvJTTz7KTi"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/4un4FAjfIhnCW1Xy83Qx9Y"
+        "name": "14ZERO V2",
+        "url": "https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw"
       },
       "artists": [
         {
-          "name": "FLOONK",
-          "url": "https://open.spotify.com/artist/4ZzqskD9slkLlmzd5kiEnM"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         }
       ],
-      "duration_ms": 202970,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
+      "duration_ms": 198428,
+      "name": "I\u2019m Confused",
+      "url": "https://open.spotify.com/track/23IMx0AeVBouS72DfACGQt"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1547,58 +1547,6 @@
       "duration_ms": 165666,
       "name": "Rewind Crew",
       "url": "https://open.spotify.com/track/02rITP8XxNNuy9fVenZnnm"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "14ZERO",
-        "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Dubplate Fly",
-      "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "Argument Done",
-        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Argument Done",
-      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "Got 2 Feel",
-        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Got 2 Feel",
-      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1635,6 +1583,58 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Argument Done",
+        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Argument Done",
+      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "14ZERO",
+        "url": "https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Dubplate Fly",
+      "url": "https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Feel Your Love EP",
-        "url": "https://open.spotify.com/album/6GQBcwLcfDKw1Vk8y65ejD"
-      },
-      "artists": [
-        {
-          "name": "Gino",
-          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Feel Your Love",
-      "url": "https://open.spotify.com/track/6MZe35h3pzai53S3vIgvwE"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
         "name": "SHATTER",
         "url": "https://open.spotify.com/album/1h6KIsgjXcPyA53MTIQMhO"
       },
@@ -1775,30 +1759,18 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Take Out Your Team",
-        "url": "https://open.spotify.com/album/0bN4b10nR6LqR49LBx6GJP"
+        "name": "Feel Your Love EP",
+        "url": "https://open.spotify.com/album/6GQBcwLcfDKw1Vk8y65ejD"
       },
       "artists": [
         {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        },
-        {
-          "name": "Diligent Fingers",
-          "url": "https://open.spotify.com/artist/7fhR0zu3yR5uXhOUQxByvd"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+          "name": "Gino",
+          "url": "https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E"
         }
       ],
-      "duration_ms": 179524,
-      "name": "Take Out Your Team",
-      "url": "https://open.spotify.com/track/77IBgCz11N1VGdh4gkZr1H"
+      "duration_ms": 200228,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/6MZe35h3pzai53S3vIgvwE"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1843,18 +1815,30 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Back To My Roots EP",
-        "url": "https://open.spotify.com/album/0Zi46RSjOxnHhcYaorSa8A"
+        "name": "Take Out Your Team",
+        "url": "https://open.spotify.com/album/0bN4b10nR6LqR49LBx6GJP"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        },
+        {
+          "name": "Diligent Fingers",
+          "url": "https://open.spotify.com/artist/7fhR0zu3yR5uXhOUQxByvd"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
         }
       ],
-      "duration_ms": 222171,
-      "name": "Invasion",
-      "url": "https://open.spotify.com/track/0EArar8p2qXMqBWvDYvwJ5"
+      "duration_ms": 179524,
+      "name": "Take Out Your Team",
+      "url": "https://open.spotify.com/track/77IBgCz11N1VGdh4gkZr1H"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1875,6 +1859,22 @@
       "duration_ms": 172082,
       "name": "South of the Thames",
       "url": "https://open.spotify.com/track/23AlkF4Vp1EMadT6JvBWU1"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Back To My Roots EP",
+        "url": "https://open.spotify.com/album/0Zi46RSjOxnHhcYaorSa8A"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Invasion",
+      "url": "https://open.spotify.com/track/0EArar8p2qXMqBWvDYvwJ5"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1931,22 +1931,26 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
+        "name": "Send Dem Out (feat. Capo Lee)",
+        "url": "https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5"
       },
       "artists": [
         {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
         },
         {
-          "name": "TSVI",
-          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
         }
       ],
-      "duration_ms": 334138,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
+      "duration_ms": 126500,
+      "name": "Send Dem Out (feat. Capo Lee)",
+      "url": "https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -1975,26 +1979,38 @@
     {
       "added_at": "2026-10-16 08:07:51",
       "album": {
-        "name": "Our Story",
-        "url": "https://open.spotify.com/album/1lRk8O907WP5hTvhCa68UL"
+        "name": "Run That",
+        "url": "https://open.spotify.com/album/1Gzh4s51F9Ly5cZOgxovIr"
       },
       "artists": [
         {
-          "name": "Manudigital",
-          "url": "https://open.spotify.com/artist/1EPdzkPNE9fwx1qhN4mUrH"
-        },
-        {
-          "name": "OMEGA NEBULA",
-          "url": "https://open.spotify.com/artist/2iWJJEfxmQK1CZeWqjh4Xn"
-        },
-        {
-          "name": "ROYAL",
-          "url": "https://open.spotify.com/artist/74gUuP1ReujJeIpFeNDqgQ"
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
         }
       ],
-      "duration_ms": 206296,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/1TgHTZxYU6lFBF07Zd4Snx"
+      "duration_ms": 194500,
+      "name": "Run That",
+      "url": "https://open.spotify.com/track/4sC1bIdUSHWMsdBOTdlmMo"
+    },
+    {
+      "added_at": "2026-10-16 08:07:51",
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "TSVI",
+          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+        }
+      ],
+      "duration_ms": 334138,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
     },
     {
       "added_at": "2026-10-16 08:07:51",
@@ -2023,30 +2039,6 @@
       "duration_ms": 194485,
       "name": "Dis Badman - BAKEY Remix",
       "url": "https://open.spotify.com/track/7dFdyPT5T9ynBe9raSMn2u"
-    },
-    {
-      "added_at": "2026-10-16 08:07:51",
-      "album": {
-        "name": "Send Dem Out (feat. Capo Lee)",
-        "url": "https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 126500,
-      "name": "Send Dem Out (feat. Capo Lee)",
-      "url": "https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn"
     }
   ],
   "unique_name": "Proper Naughty ",

@@ -773,6 +773,28 @@
     },
     {
       "album": {
+        "name": "30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        },
+        {
+          "name": "Juan Diego Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/6Yxfl63ymAk7MkN8TP10iT"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290626,
+      "name": "Nadia",
+      "url": "https://open.spotify.com/track/2ImoFJy6b3ovpai8LG4s2X"
+    },
+    {
+      "album": {
         "name": "Amazonas (Uncut)",
         "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
@@ -806,7 +828,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 290626,
       "name": "Nadia (feat. Juan Diego Florez)",
       "url": "https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf"

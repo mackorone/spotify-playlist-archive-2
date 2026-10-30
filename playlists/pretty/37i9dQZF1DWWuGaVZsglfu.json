@@ -1,12 +1,12 @@
 {
-  "description": "The best tracks from the world of music. Cover: AD\u00c9LA",
-  "num_followers": 461380,
+  "description": "The best tracks from the world of music. Cover: Gloria Jessica, Ade Govinda",
+  "num_followers": 461276,
   "original_name": "Hot Hits Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANtdKcoFXPNs4oG8LqJEoQhTzRs5",
+  "snapshot_id": "AAAAAM5ef5w8C8QJdU+juOUaZAgLNGMr",
   "tracks": [
     {
       "added_at": "2026-10-15 16:00:52",
@@ -57,6 +57,42 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
+      "added_at": "2026-10-22 16:13:50",
+      "album": {
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
+    },
+    {
+      "added_at": "2026-10-22 16:00:37",
+      "album": {
+        "name": "Blue.",
+        "url": "https://open.spotify.com/album/3dsMOi3vRhbrxnq5aRdHLG"
+      },
+      "artists": [
+        {
+          "name": "Gloria Jessica",
+          "url": "https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Terbelah Jadi Dua",
+      "url": "https://open.spotify.com/track/2wAa43qM16H0PWAwiHTk5S"
+    },
+    {
       "added_at": "2026-10-15 16:00:52",
       "album": {
         "name": "Astaga Bercanda",
@@ -75,22 +111,6 @@
       "duration_ms": 166850,
       "name": "Astaga Bercanda",
       "url": "https://open.spotify.com/track/03fkIoNyruY4N2Pa5CqTvv"
-    },
-    {
-      "added_at": "2026-10-22 16:13:50",
-      "album": {
-        "name": "PRESS PLAY",
-        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 171104,
-      "name": "Tarantino",
-      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
     },
     {
       "added_at": "2026-10-15 16:00:52",
@@ -131,22 +151,6 @@
     {
       "added_at": "2026-10-15 16:00:52",
       "album": {
-        "name": "Telepati",
-        "url": "https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk"
-      },
-      "artists": [
-        {
-          "name": "Aziz Harun",
-          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
-        }
-      ],
-      "duration_ms": 246903,
-      "name": "Telepati",
-      "url": "https://open.spotify.com/track/2VM0RoNs889vw5c1sFunfB"
-    },
-    {
-      "added_at": "2026-10-15 16:00:52",
-      "album": {
         "name": "Percuma",
         "url": "https://open.spotify.com/album/5DqqBHhwbOrT754X7zIc5H"
       },
@@ -163,18 +167,18 @@
     {
       "added_at": "2026-10-15 16:00:52",
       "album": {
-        "name": "new trick",
-        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
+        "name": "Kita Lewati Berdua",
+        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
         }
       ],
-      "duration_ms": 182582,
-      "name": "new trick",
-      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
+      "duration_ms": 239629,
+      "name": "Kita Lewati Berdua",
+      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
     },
     {
       "added_at": "2026-10-15 16:00:52",
@@ -195,18 +199,66 @@
     {
       "added_at": "2026-10-15 16:00:52",
       "album": {
-        "name": "Kita Lewati Berdua",
-        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
+        "name": "Terbang (Original Soundtrack From Tarung: Unforgiven)",
+        "url": "https://open.spotify.com/album/4bTdIzNK1TsWiNZ1gMZzAf"
       },
       "artists": [
         {
-          "name": "Overnight",
-          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
         }
       ],
-      "duration_ms": 239629,
-      "name": "Kita Lewati Berdua",
-      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
+      "duration_ms": 175764,
+      "name": "Terbang - Original Soundtrack From Tarung: Unforgiven",
+      "url": "https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0"
+    },
+    {
+      "added_at": "2026-10-15 16:00:52",
+      "album": {
+        "name": "new trick",
+        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "new trick",
+      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
+    },
+    {
+      "added_at": "2026-10-15 16:00:52",
+      "album": {
+        "name": "Telepati",
+        "url": "https://open.spotify.com/album/6L7TQes2IZBlcQzjYpPJEk"
+      },
+      "artists": [
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "duration_ms": 246903,
+      "name": "Telepati",
+      "url": "https://open.spotify.com/track/2VM0RoNs889vw5c1sFunfB"
+    },
+    {
+      "added_at": "2026-10-29 16:00:39",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
     },
     {
       "added_at": "2026-10-15 16:00:52",
@@ -241,20 +293,20 @@
       "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
     },
     {
-      "added_at": "2026-10-15 16:00:52",
+      "added_at": "2026-10-29 16:00:39",
       "album": {
-        "name": "Terbang (Original Soundtrack From Tarung: Unforgiven)",
-        "url": "https://open.spotify.com/album/4bTdIzNK1TsWiNZ1gMZzAf"
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
       },
       "artists": [
         {
-          "name": "Noh Salleh",
-          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 175764,
-      "name": "Terbang - Original Soundtrack From Tarung: Unforgiven",
-      "url": "https://open.spotify.com/track/0Ng7ays249fbahyqJQGTi0"
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
     },
     {
       "added_at": "2026-10-22 16:00:37",
@@ -273,6 +325,26 @@
       "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
     },
     {
+      "added_at": "2026-10-29 16:00:39",
+      "album": {
+        "name": "expectations (feat. Chappell Roan) [wheel of misfortune]",
+        "url": "https://open.spotify.com/album/2nOFPiKwZSQccxG0lakaEV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/26m4l5G7Uw92v6vmmtlwhi"
+    },
+    {
       "added_at": "2026-10-15 16:00:52",
       "album": {
         "name": "Fallen Angel",
@@ -287,26 +359,6 @@
       "duration_ms": 186720,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
-    },
-    {
-      "added_at": "2026-10-22 16:00:37",
-      "album": {
-        "name": "Blue.",
-        "url": "https://open.spotify.com/album/3dsMOi3vRhbrxnq5aRdHLG"
-      },
-      "artists": [
-        {
-          "name": "Gloria Jessica",
-          "url": "https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS"
-        },
-        {
-          "name": "Ade Govinda",
-          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Terbelah Jadi Dua",
-      "url": "https://open.spotify.com/track/2wAa43qM16H0PWAwiHTk5S"
     },
     {
       "added_at": "2026-10-15 16:00:52",
@@ -539,22 +591,6 @@
     {
       "added_at": "2026-10-15 16:00:52",
       "album": {
-        "name": "BiiiG",
-        "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 164208,
-      "name": "BiiiG",
-      "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
-    },
-    {
-      "added_at": "2026-10-15 16:00:52",
-      "album": {
         "name": "Tak Adil",
         "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
       },
@@ -631,26 +667,6 @@
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-10-15 16:00:52",
-      "album": {
-        "name": "Indecision (feat. Daniel Caesar)",
-        "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Indecision (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
     },
     {
       "added_at": "2026-10-15 16:00:52",
@@ -763,22 +779,6 @@
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
-    },
-    {
-      "added_at": "2026-10-15 16:00:52",
-      "album": {
-        "name": "EUNOIA",
-        "url": "https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB"
-      },
-      "artists": [
-        {
-          "name": "Nuca",
-          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
-        }
-      ],
-      "duration_ms": 275935,
-      "name": "Masa ini, Nanti, dan Masa Indah Lainnya",
-      "url": "https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v"
     },
     {
       "added_at": "2026-10-15 16:00:52",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-211 songs - 12 hr 15 min
+212 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Cigarette](https://open.spotify.com/track/5ppjtLheLgMk3jtZXnNjC4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Cigarette](https://open.spotify.com/album/7Bi40SPnjMPihjNLHXqG4E) | 3:07 | 2023-12-30 |  |
 | [Cinderella](https://open.spotify.com/track/5NB83Qpt3RUDuKBuTGQcA3) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ชุดที่ 8 จงเพราะ](https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9) | 3:17 | 2023-12-30 | 2025-06-28 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:01 | 2026-04-01 |  |
-| [Come At Me](https://open.spotify.com/track/70Fhb7TOeROHuO3zO7XXoQ) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [I Only See You When I’m Dreamin’](https://open.spotify.com/album/49bg5Bqtr2HhkJOFWqEyNf) | 2:45 | 2023-12-30 |  |
+| [Come At Me](https://open.spotify.com/track/6ZdGzi9OVVycLUkD4WF5or) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [I Only See You When I’m Dreamin’](https://open.spotify.com/album/7w1ti4I9HJBN4gpf126Sgv) | 2:45 | 2026-10-29 |  |
+| [Come At Me](https://open.spotify.com/track/70Fhb7TOeROHuO3zO7XXoQ) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [I Only See You When I’m Dreamin’](https://open.spotify.com/album/49bg5Bqtr2HhkJOFWqEyNf) | 2:45 | 2023-12-30 | 2026-10-30 |
 | [Confidence](https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 2:50 | 2023-12-30 |  |
 | [Confidence](https://open.spotify.com/track/2tRLRTipIDQYIJs6Zg14qZ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Confidence](https://open.spotify.com/album/3d72iUgQnD6AAh1iIVO7l2) | 3:14 | 2024-01-03 | 2024-01-28 |
 | [Crew](https://open.spotify.com/track/31MUzJRDoberNLCXSISodO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:56 | 2023-12-30 |  |

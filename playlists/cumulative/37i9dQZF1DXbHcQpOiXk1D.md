@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Ezra Collective
+> The best from Britain's vibrant scene\. Cover: Moses Boyd
 
-828 songs - 2 day 9 hr 34 min
+829 songs - 2 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 | 2024-10-24 | 2026-04-03 |
 | [Need a Moment](https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Need a Moment](https://open.spotify.com/album/0Rh1CSVMLEfnTOXEL4uPJu) | 3:29 | 2025-12-12 | 2026-04-24 |
 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 | 2024-09-13 |
-| [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 | 2026-04-30 |  |
+| [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 | 2026-04-30 | 2026-10-30 |
 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 | 2025-04-25 |  |
 | [Never Odd or Even](https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk) | [Never Odd or Even](https://open.spotify.com/album/3F96mitDz79X98YVBgbe9B) | 4:31 | 2021-12-17 | 2022-07-16 |
 | [Never Stopped for the Sun 'till Now](https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj) | [Arrows](https://open.spotify.com/album/0uECWXCJ3VUg3TG1oltcqs) | 3:26 | 2021-12-17 | 2022-08-05 |
@@ -775,6 +775,7 @@
 | [Vita](https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG) | [Snazzback](https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e), [Nah Eeto](https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV) | [Vita](https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ) | 2:52 | 2024-05-30 | 2024-10-11 |
 | [Walk Alone to Hear Thoughts of Your Own](https://open.spotify.com/track/3iScHjJ5pCJw0at5v5JVBN) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/7067zgNsGbFQdkyS6jL1wn) | 4:24 | 2022-03-08 | 2022-03-09 |
 | [Wallflower](https://open.spotify.com/track/60ZR3PxtOjGXa6LVQlSdSr) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Wallflower](https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A) | 3:01 | 2024-04-18 | 2024-09-20 |
+| [War](https://open.spotify.com/track/0EjOVz3qCWuYWceLlanJFZ) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Songs For Sinners](https://open.spotify.com/album/6lwvh4m0R124kNxrjjVFem) | 3:26 | 2026-10-30 |  |
 | [War Dance](https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:38 | 2022-08-04 | 2023-03-07 |
 | [War Dance](https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 5:38 | 2023-10-13 | 2024-04-12 |
 | [Warm Data](https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 8:16 | 2021-12-17 | 2023-01-20 |

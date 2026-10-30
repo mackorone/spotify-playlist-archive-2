@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 176667,
+  "num_followers": 176690,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAk09VSK5G42P/SP7hVfbGW",
+  "snapshot_id": "at/pgAAAAAD1lg/3EAH+W0zhistHHFdm",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 260133,
       "name": "Red Blooded Woman",
       "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
       },
       "artists": [
         {
@@ -660,29 +644,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Real Groove - Studio 2054 Remix",
-      "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
+      "duration_ms": 190973,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
     },
     {
       "added_at": null,
@@ -711,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Real Groove - Studio 2054 Remix",
+      "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 193666,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Up (From the Netflix Documentary 'Kylie')",
-        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Light Up (From the Netflix Documentary 'Kylie')",
-      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light Up (From the Netflix Documentary 'Kylie')",
+        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Light Up (From the Netflix Documentary 'Kylie')",
+      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
     },
     {
       "added_at": null,

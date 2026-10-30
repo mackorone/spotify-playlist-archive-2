@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,756 likes - 75 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,895 likes - 75 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 74 | [Somewhere over the Rainbow](https://open.spotify.com/track/2snEtWNsyYbWVxhxh2CA2s) | [Sasha Zimmerman](https://open.spotify.com/artist/2vVsmDVIQNKLpwcYz0ZpwM) | [Somewhere over the Rainbow](https://open.spotify.com/album/5R5DbLz5aDyRLXpkAqvEp0) | 1:51 |
 | 75 | [Autumn Joy](https://open.spotify.com/track/6N72VsDHQL9QPe2XDY3YaQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Autumn Joy](https://open.spotify.com/album/1997Gm8TX9mrOZWi6At4K8) | 1:41 |
 
-Snapshot ID: `AAAAADSY10HCQFBr5pv91edUyLgOrcr6`
+Snapshot ID: `AAAAAGdRLYsJcg7pTMBhIN6kikdw6WRp`

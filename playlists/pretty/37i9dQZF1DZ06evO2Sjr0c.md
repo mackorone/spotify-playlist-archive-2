@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,350 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,363 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 8 | [Casey Jones \- 2013 Remaster](https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:25 |
 | 9 | [Truckin' \- 2013 Remaster](https://open.spotify.com/track/1I6l01BaBgBCVkfQCpIlR6) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 5:06 |
 | 10 | [Shakedown Street \- 2013 Remaster](https://open.spotify.com/track/1lNRVjK8MukRZpeurYssIx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Shakedown Street](https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6) | 5:00 |
-| 11 | [Tennessee Jed \(Live at L'Olympia, Paris, 5/3/72\) \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 |
+| 11 | [Eyes of the World \- 2013 Remaster](https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:20 |
 | 12 | [Uncle John's Band \- 2013 Remaster](https://open.spotify.com/track/0kp728Knw5PYvU3QzMZ0yJ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:44 |
 | 13 | [Sugar Magnolia \- 2013 Remaster](https://open.spotify.com/track/2EB1aFLWC4uIfld5Z3Yj1z) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 3:19 |
-| 14 | [Eyes of the World \- 2013 Remaster](https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:20 |
+| 14 | [Tennessee Jed \(Live at L'Olympia, Paris, 5/3/72\) \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 |
 | 15 | [Brown\-Eyed Women \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/1BlJdQjT6QYjRlfP0C1rz1) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 5:48 |
 | 16 | [New Speedway Boogie \- 2013 Remaster](https://open.spotify.com/track/3YPBV5DacTbhgh7vharn6w) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 4:06 |
 | 17 | [Box of Rain \- 2013 Remaster](https://open.spotify.com/track/7x2xjJV3YAPeLQJ7u3Kjet) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 5:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Mexicali Blues \- Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985](https://open.spotify.com/track/3LZFM0DpHUpg3pZ0zlv2vZ) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Merriweather 6/30/85 \(Live\)](https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn) | 5:16 |
 | 50 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 
-Snapshot ID: `at1GgAAAAADSB5BRIUrF9RLQSO18JHrr`
+Snapshot ID: `at/pgAAAAADhC7l09VIsA5Ldy07wmqkB`

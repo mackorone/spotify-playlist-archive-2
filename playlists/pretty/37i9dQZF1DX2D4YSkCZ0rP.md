@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Piche
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,190 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,187 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [In Your Head \(La Di Da Da\)](https://open.spotify.com/track/6hNCCCELgZzldNHCZs4ptk) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [APOLLO • ARTEMIS](https://open.spotify.com/album/4fyP2Rofo56yZLfS1dIOEA) | 2:47 |
 | 40 | [Behind A Tree](https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Behind A Tree](https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn) | 4:46 |
 
-Snapshot ID: `AAAAAGxv1cLM41JcTYffmw4l6aZZo6LZ`
+Snapshot ID: `AAAAAKR6Dhk9opvAIYbRb9tDtFaZPIVy`

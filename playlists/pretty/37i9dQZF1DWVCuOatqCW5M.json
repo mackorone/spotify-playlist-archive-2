@@ -1,13 +1,141 @@
 {
-  "description": "Latest music from Darshan Raval, Aditya Rikhari, AKASA and more.",
-  "num_followers": 102092,
+  "description": "Latest music from Sonu Nigam, Guru Randhawa, Hansika Pareeek and more.",
+  "num_followers": 102161,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACRtyoIEVq7Nq9A8jQTvKNHXdjUs",
+  "snapshot_id": "AAAAABZKUKvAyQVxXkj7jiu2JrNvJTwX",
   "tracks": [
+    {
+      "added_at": "2026-10-30 03:30:01",
+      "album": {
+        "name": "Begum Bewafa",
+        "url": "https://open.spotify.com/album/65Gw1nv5mLtjqmXO2A3oRm"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Bosco Martis",
+          "url": "https://open.spotify.com/artist/5qVpAfbVV2piAEmvBN6lM3"
+        },
+        {
+          "name": "Vishie",
+          "url": "https://open.spotify.com/artist/3PzLoTHqzr7DXg9WjOfB0P"
+        },
+        {
+          "name": "Vikas Bedi",
+          "url": "https://open.spotify.com/artist/3z0eudbRd8LIgD8xdDytwR"
+        },
+        {
+          "name": "Aditya Seal",
+          "url": "https://open.spotify.com/artist/1XmlMxJ5lJczAm2OXNg7u6"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Begum Bewafa",
+      "url": "https://open.spotify.com/track/5IhCyob5jpVIp8RyIK2AYK"
+    },
+    {
+      "added_at": "2026-10-30 03:30:01",
+      "album": {
+        "name": "SO WHAT",
+        "url": "https://open.spotify.com/album/1M9k4Fmaj46ve66NOXemaX"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "SO WHAT",
+      "url": "https://open.spotify.com/track/0PsfXX5l0miZWOssZxcI4r"
+    },
+    {
+      "added_at": "2026-10-30 03:30:01",
+      "album": {
+        "name": "Maahi",
+        "url": "https://open.spotify.com/album/2DvSJOHVc2lZY11bwPoDUc"
+      },
+      "artists": [
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Maahi",
+      "url": "https://open.spotify.com/track/7kI2yFDNIAsZXiK5JNXWa2"
+    },
+    {
+      "added_at": "2026-10-30 03:30:01",
+      "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/12RQyQ8XDBYDfZCCI1hnIB"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/6WKJGC2AFo6SwDJfKXwQRM"
+    },
+    {
+      "added_at": "2026-10-30 03:30:01",
+      "album": {
+        "name": "Pyaar Hai",
+        "url": "https://open.spotify.com/album/6LOAOEOOL2UJFE9f0SPXe4"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Pyaar Hai",
+      "url": "https://open.spotify.com/track/20NHhWIeWPQ9B9DiB0MOn1"
+    },
+    {
+      "added_at": "2026-10-30 03:30:01",
+      "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/7vMCIWYjbgOa6S5M7mpPhf"
+      },
+      "artists": [
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        }
+      ],
+      "duration_ms": 191137,
+      "name": "Fidaa",
+      "url": "https://open.spotify.com/track/5aOqR3rARrphu3psXX5rfo"
+    },
     {
       "added_at": "2026-10-23 03:00:24",
       "album": {
@@ -771,30 +899,6 @@
     {
       "added_at": "2026-09-25 05:13:09",
       "album": {
-        "name": "Le Chal",
-        "url": "https://open.spotify.com/album/2YDwbvLoFZeo8aV2X6EYhQ"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        }
-      ],
-      "duration_ms": 167663,
-      "name": "Le Chal",
-      "url": "https://open.spotify.com/track/1kUJWLNZMOGoYfZWXjmXra"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
         "name": "Raanjha Ve",
         "url": "https://open.spotify.com/album/1aKRuchDESVVFxttPnSl9i"
       },
@@ -859,26 +963,6 @@
     {
       "added_at": "2026-09-25 05:13:09",
       "album": {
-        "name": "Pehli Barish",
-        "url": "https://open.spotify.com/album/6xKUapxixqTlg4vjVG26zp"
-      },
-      "artists": [
-        {
-          "name": "Yasser Desai",
-          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
-        },
-        {
-          "name": "Pushpita Misra",
-          "url": "https://open.spotify.com/artist/4arILsXRcm2nUzF4ACtOjI"
-        }
-      ],
-      "duration_ms": 206686,
-      "name": "Pehli Barish",
-      "url": "https://open.spotify.com/track/72I6xpXjwhzrGwahizDUkC"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
         "name": "Khabar Dena",
         "url": "https://open.spotify.com/album/7cvlKOQVpkEwtvv1ecv4aW"
       },
@@ -895,26 +979,6 @@
       "duration_ms": 219953,
       "name": "Khabar Dena",
       "url": "https://open.spotify.com/track/3VCDGzNdlops7tQ03TLNj9"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "Saa Mere",
-        "url": "https://open.spotify.com/album/68IcvTsijlvBYBOVsNVY8k"
-      },
-      "artists": [
-        {
-          "name": "Vaibhav Pani",
-          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
-        },
-        {
-          "name": "Mitika Kanwar",
-          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
-        }
-      ],
-      "duration_ms": 178761,
-      "name": "Saa Mere",
-      "url": "https://open.spotify.com/track/1Ljr3X1OGlmdbb0eCCOBPr"
     },
     {
       "added_at": "2026-09-25 05:13:09",
@@ -983,26 +1047,6 @@
     {
       "added_at": "2026-09-25 05:13:09",
       "album": {
-        "name": "Chori Chori",
-        "url": "https://open.spotify.com/album/3KU12REmT7VnMhKepNA8el"
-      },
-      "artists": [
-        {
-          "name": "POPCORN Inc.",
-          "url": "https://open.spotify.com/artist/0gpRn0U1orS4HnTwGkpBLY"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        }
-      ],
-      "duration_ms": 136668,
-      "name": "Chori Chori",
-      "url": "https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
         "name": "Ghumela",
         "url": "https://open.spotify.com/album/07McxXJglDnQPt4svK5qWE"
       },
@@ -1067,74 +1111,6 @@
       "duration_ms": 252587,
       "name": "Jalwa E Jaanaan - Maati S2",
       "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "Ayanam (Mi Amore)",
-        "url": "https://open.spotify.com/album/65k7fIybeZDMuIn5UMUSB9"
-      },
-      "artists": [
-        {
-          "name": "Rito Riba",
-          "url": "https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1"
-        },
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Ayanam - Mi Amore",
-      "url": "https://open.spotify.com/track/2HD5NXN92J0hkWggGassHs"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5RpTeTpXGtf49NoG9nI9w0"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        },
-        {
-          "name": "Bharath",
-          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/6JDHJPtUGGacZxwNbDI0wy"
-    },
-    {
-      "added_at": "2026-09-25 05:13:09",
-      "album": {
-        "name": "Hivde Ro Haar | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/3DOlp04Y5nBBznc2d0alTX"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Faiz",
-          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Vaibhav Pani",
-          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
-        }
-      ],
-      "duration_ms": 266769,
-      "name": "Hivde Ro Haar | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/1irqvsFOQElxcUdU8ekzYG"
     }
   ],
   "unique_name": "New Music Friday I-Pop ",

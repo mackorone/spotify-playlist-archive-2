@@ -4,11 +4,12 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-226 songs - 10 hr 32 min
+227 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 | 2022-12-23 |  |
+| [A Heart That Is Inherited](https://open.spotify.com/track/4lmRQW9hnra176dFfbfeXS) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 2:36 | 2026-10-30 |  |
 | [A Sunny Day Stroll](https://open.spotify.com/track/4vzhgO9Wk0skMbSRG21mlf) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽集](https://open.spotify.com/album/2w1RtD6AONTpmaNibYVvpM) | 2:05 | 2026-07-16 | 2026-07-22 |
 | [AFO VS AAM](https://open.spotify.com/track/1sQD2YHFlOAHcTHQaxvZQl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 3:14 | 2025-11-18 | 2025-12-27 |
 | [AFO VS AAM](https://open.spotify.com/track/5swCwRCUg7cSVCP8h5cA0u) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』FINAL SEASON オリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0EK3RPdJFOodTAsEu7yi7I) | 3:14 | 2025-10-21 | 2025-11-18 |
@@ -54,7 +55,7 @@
 | [Hero too \- 10th Anniversary ver.](https://open.spotify.com/track/1c2J3qi8nNMESczQBepiKv) | [ERI Starring Myka Morton](https://open.spotify.com/artist/5P9iQ7U9WY9MjMNaf92eZl), [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Hero too \(10th Anniversary ver.\)](https://open.spotify.com/album/59uyUhxt6cEFJdVv8aM1zD) | 4:15 | 2026-08-08 | 2026-09-20 |
 | [Hero too \- 10th Anniversary ver.](https://open.spotify.com/track/6nwGSSYaAL44y0XUGNZy9e) | [ERI Starring Myka Morton](https://open.spotify.com/artist/5P9iQ7U9WY9MjMNaf92eZl), [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Hero too \(10th Anniversary ver.\)](https://open.spotify.com/album/7iAayvRvcOUT4mingDtce1) | 4:15 | 2026-09-20 |  |
 | [Hope for Clear Skies](https://open.spotify.com/track/2Fr8POhGLOHBICP3EmfiUO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:41 | 2023-07-23 | 2023-07-31 |
-| [I'll be your hero](https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 2:59 | 2025-07-02 |  |
+| [I'll be your hero](https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 2:59 | 2025-07-02 | 2026-10-30 |
 | [I'm Sorry for Everything I've done](https://open.spotify.com/track/2zIQJsE1KrqlHWG0EVbEMT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:34 | 2023-03-19 |  |
 | [Inherited Power](https://open.spotify.com/track/6kRpptfJ3eId6VoL2fXft0) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 2:11 | 2025-07-03 | 2025-07-16 |
 | [Insomniacs After School](https://open.spotify.com/track/5ytpdOFn9BFY00ZS8TgAiu) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 6:23 | 2023-04-20 | 2023-05-19 |

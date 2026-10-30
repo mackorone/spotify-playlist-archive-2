@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 原因は自分にある。
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,777 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,772 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [田舎者](https://open.spotify.com/track/3MsMHbDWZEnvjUAfeVF5yX) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [田舎者](https://open.spotify.com/album/6usY1IvvQndUkDCA0x7CFc) | 3:16 |
 | 80 | [SUPERSTAR](https://open.spotify.com/track/2z0goUVk210jg65BVM5aBr) | [YUKA](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [SUPERSTAR](https://open.spotify.com/album/429GOU1msM7CqmmRRARGHg) | 3:20 |
 
-Snapshot ID: `AAAAAHcW+n96qVaXHPHj49AQWsomAgVf`
+Snapshot ID: `AAAAADNQ8wOJ2WVqVgyOEchfYc1xXAqe`

@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 394528,
+  "num_followers": 394652,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKgG9e8hb6nvjv/t96SOXYooww2",
+  "snapshot_id": "AAAAAKN15WrkH/f46ugSrx2de5zZR02+",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Drive-Thru Booty",
-        "url": "https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2"
-      },
-      "artists": [
-        {
-          "name": "Freak Power",
-          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Turn On, Tune In, Cop Out - Radio Edit",
-      "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Dah Shinin'",
         "url": "https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 247933,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Drive-Thru Booty",
+        "url": "https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2"
+      },
+      "artists": [
+        {
+          "name": "Freak Power",
+          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Turn On, Tune In, Cop Out - Radio Edit",
+      "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Love Approach (Bonus Track)",
+        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 282080,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hard Groove",
         "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 470546,
       "name": "I'll Stay",
       "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Love Approach (Bonus Track)",
-        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 282080,
-      "name": "Funkin' for Jamaica",
-      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Groove Collective",
         "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 394826,
       "name": "Whatchugot",
       "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
-      },
-      "artists": [
-        {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 226920,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+      },
+      "artists": [
+        {
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Beatmaker",
         "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Brass Construction II",
-        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 358333,
-      "name": "Now Is Tomorrow (Anticipation)",
-      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Pizza Pie",
         "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 186324,
       "name": "Pizza Pie",
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Brass Construction II",
+        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 358333,
+      "name": "Now Is Tomorrow (Anticipation)",
+      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Acid Jazz Collection: Jazz",
-        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
-      },
-      "artists": [
-        {
-          "name": "Max Beesley's High Vibes",
-          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Mr. Jeckle",
-      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Playing my piano",
@@ -1371,6 +1355,22 @@
       "duration_ms": 381594,
       "name": "Playing my piano",
       "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Acid Jazz Collection: Jazz",
+        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+      },
+      "artists": [
+        {
+          "name": "Max Beesley's High Vibes",
+          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Mr. Jeckle",
+      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Bring It On",
-        "url": "https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 260973,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
-    },
-    {
       "added_at": "2026-05-22 04:00:18",
       "album": {
         "name": "Night & Day",
@@ -1441,6 +1425,22 @@
       "url": "https://open.spotify.com/track/2UfOOwLr8zhdLAAhE6IIo6"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 260973,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
+    },
+    {
       "added_at": "2026-05-15 04:00:31",
       "album": {
         "name": "SUN",
@@ -1459,26 +1459,6 @@
       "duration_ms": 230679,
       "name": "The Way We Go",
       "url": "https://open.spotify.com/track/2iruUpQD0YhqePMyyzhaaU"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Sun )",
-        "url": "https://open.spotify.com/album/0c7qsiBET91icyneq7KccE"
-      },
-      "artists": [
-        {
-          "name": "The Du-Rites",
-          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
-        },
-        {
-          "name": "Elson Nascimento (of Sun Ra Arkestra)",
-          "url": "https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn"
-        }
-      ],
-      "duration_ms": 176342,
-      "name": "The Sun )",
-      "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
     },
     {
       "added_at": "2025-03-21 04:00:36",
@@ -1503,6 +1483,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "The Sun )",
+        "url": "https://open.spotify.com/album/0c7qsiBET91icyneq7KccE"
+      },
+      "artists": [
+        {
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
+        },
+        {
+          "name": "Elson Nascimento (of Sun Ra Arkestra)",
+          "url": "https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn"
+        }
+      ],
+      "duration_ms": 176342,
+      "name": "The Sun )",
+      "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Best of The Black President",
         "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
       },
@@ -1515,26 +1515,6 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7o6XzFc6ZwdmqW8tDxlHyk"
-      },
-      "artists": [
-        {
-          "name": "4hero",
-          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
-        },
-        {
-          "name": "Face",
-          "url": "https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Look Inside",
-      "url": "https://open.spotify.com/track/4CGoEKup84yKbG9r6eYd4A"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1559,6 +1539,26 @@
       "duration_ms": 199560,
       "name": "Pushin On",
       "url": "https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7o6XzFc6ZwdmqW8tDxlHyk"
+      },
+      "artists": [
+        {
+          "name": "4hero",
+          "url": "https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L"
+        },
+        {
+          "name": "Face",
+          "url": "https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Look Inside",
+      "url": "https://open.spotify.com/track/4CGoEKup84yKbG9r6eYd4A"
     },
     {
       "added_at": "2022-07-14 19:24:43",

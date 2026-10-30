@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,336,853 likes - 75 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,336,876 likes - 75 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 |
 | 75 | [Dependente de Deus \- Ao Vivo](https://open.spotify.com/track/1YrMQT4omVlCCKQUGqaJm0) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dependente de Deus \(Ao Vivo\)](https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh) | 5:29 |
 
-Snapshot ID: `AAAAAJs0hGL+uKGsEUBxSEnZWILWI2ag`
+Snapshot ID: `AAAAANFbYZ9G/PXXhuE/Zos/IGmTbOrX`

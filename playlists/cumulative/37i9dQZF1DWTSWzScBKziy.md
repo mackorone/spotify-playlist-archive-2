@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Matt Crocker
 
-1,653 songs - 4 day 6 hr 51 min
+1,654 songs - 4 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -926,6 +926,7 @@
 | [Making Ways](https://open.spotify.com/track/2tjFSBUk4ccqRjbmCJwkuF) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv), [Meeks Carter](https://open.spotify.com/artist/1cuL1Q6C4uzrqXFOsnR4p7) | [Making Ways](https://open.spotify.com/album/4YkJDG3y5yVcQwE69IOohK) | 3:24 | 2026-06-19 | 2026-07-18 |
 | [Mama Don't Lie \(Alright\)](https://open.spotify.com/track/1XeGUrBIQ8kdlJoKWpqGp0) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Mama Don't Lie \(Alright\)](https://open.spotify.com/album/59L0URE6EBNfdGURMnyt4V) | 3:16 | 2024-12-13 | 2025-02-08 |
 | [Man of the Valley 2025](https://open.spotify.com/track/0zZZG6uLUv4zE3cCsrEInN) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL), [Sophee Waller](https://open.spotify.com/artist/3ahmnB1cPV3cBRP0WX0Asf) | [Man of the Valley 2025](https://open.spotify.com/album/0QDAEmUwbLWXtGCZTZWPNv) | 4:16 | 2025-03-14 | 2025-05-03 |
+| [Man on the Middle Tree](https://open.spotify.com/track/1A17Kfq0Y8rQa98XseKqGo) | [Madalyn Rae](https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG) | [Man on the Middle Tree](https://open.spotify.com/album/28fjRupwoRacIHsX0ZmHQ8) | 3:03 | 2026-10-23 |  |
 | [Manna](https://open.spotify.com/track/7AwBkG1wsfuMEjN3AHp7wj) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Manna](https://open.spotify.com/album/4eEJtIwiPcMVSA7p3oRQ4h) | 2:53 | 2026-02-20 | 2026-03-22 |
 | [Marble Heart](https://open.spotify.com/track/3xfmsSEsYDnzbqf1uvjLbe) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Marble Heart](https://open.spotify.com/album/2V6vrIwLigJ6OQaqMcY85Y) | 3:48 | 2025-06-06 | 2025-07-20 |
 | [Matter To You](https://open.spotify.com/track/134FIxiFY2UmgN9JEXV4HI) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Matter To You](https://open.spotify.com/album/4IXIYCU6RxZXGXxg2aivpy) | 3:17 | 2025-07-19 | 2025-09-15 |
@@ -964,7 +965,7 @@
 | [More Than Enough](https://open.spotify.com/track/1PaexQyJGayTwBvbGVOpR6) | [Rylee Orr](https://open.spotify.com/artist/0N4p8Is9wCKlnXrlEYRQxk) | [More Than Enough](https://open.spotify.com/album/2ScX5YuW3HgGGbFjrYVrqb) | 4:46 | 2026-04-17 | 2026-05-20 |
 | [More Than Ever](https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [More Than Ever](https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf) | 3:14 | 2022-05-27 | 2023-02-19 |
 | [Morning & Evening](https://open.spotify.com/track/74GoBfkK3D21udBlPwZsDX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Morning & Evening](https://open.spotify.com/album/0FpnrCxGuggOQJCWFv5CJY) | 4:10 | 2026-04-04 | 2026-05-02 |
-| [Morning By Morning \- Live](https://open.spotify.com/track/1oPa9nRpSSO4MDomXtqvUd) | [Century Worship](https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH) | [Morning By Morning \(Live\)](https://open.spotify.com/album/4I0eo2ja9xpDoTMKovYtM9) | 4:40 | 2026-10-02 |  |
+| [Morning By Morning \- Live](https://open.spotify.com/track/1oPa9nRpSSO4MDomXtqvUd) | [Century Worship](https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH) | [Morning By Morning \(Live\)](https://open.spotify.com/album/4I0eo2ja9xpDoTMKovYtM9) | 4:40 | 2026-10-02 | 2026-10-30 |
 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 | 2025-04-04 | 2025-05-01 |
 | [Mothers Womb](https://open.spotify.com/track/0v7tqM086OM3qguLPv79Zl) | [ALTAR POETRY](https://open.spotify.com/artist/3c1TfhJzB4ZYEiaWQPRNdv), [Cory Simon](https://open.spotify.com/artist/3cotWBCaWoM2BIG24Dy1f6), [Kelly B.](https://open.spotify.com/artist/2NoppAhDqgz87PiUyV3tte) | [Mothers Womb](https://open.spotify.com/album/6IWdFdH83oYb9L2sSMLvvb) | 4:36 | 2026-05-19 | 2026-07-04 |
 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 | 2022-10-29 | 2024-06-08 |

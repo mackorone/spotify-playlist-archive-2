@@ -1,12 +1,12 @@
 {
   "description": "just trying our best \ud83d\udcf8 Henry Morris",
-  "num_followers": 1519587,
+  "num_followers": 1519189,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHy24GDQdBKaPWD1OQTN5Vs6Ci2E",
+  "snapshot_id": "AAAAADI7pOIdtn4oETR/Ekdg8i4EXpGN",
   "tracks": [
     {
       "added_at": "2026-10-23 04:02:30",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
     },
     {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "your hand in mine",
+        "url": "https://open.spotify.com/album/4XapD00kJ6twsXysur20Jp"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "duration_ms": 177270,
+      "name": "your hand in mine",
+      "url": "https://open.spotify.com/track/77MB8bA6c2fUHVgUD2SeI5"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "could this be forever?",
+        "url": "https://open.spotify.com/album/3P9V0bvpHKtW4wlcyjzFVu"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/6pJzH5GrCZv7iCw3R2XDTp"
+    },
+    {
       "added_at": "2026-10-24 04:11:25",
       "album": {
         "name": "Look At All The Happy People",
@@ -55,6 +87,22 @@
       "duration_ms": 206564,
       "name": "Look At All The Happy People",
       "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "Plain Jane",
+        "url": "https://open.spotify.com/album/3d219WSRvmx2bMOjktulEK"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Heart Shaped Bed",
+      "url": "https://open.spotify.com/track/7gjOdGi8agj10BCbcKaiiw"
     },
     {
       "added_at": "2026-09-11 04:02:16",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5"
     },
     {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "Sensitive to the room, sensitive to the sound",
+        "url": "https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 237292,
+      "name": "My Vice Is Misery",
+      "url": "https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn"
+    },
+    {
       "added_at": "2026-10-09 04:00:54",
       "album": {
         "name": "Clementine",
@@ -87,22 +151,6 @@
       "duration_ms": 154821,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/0XVTFq4y1XmpGThOAHKEc8"
-    },
-    {
-      "added_at": "2026-10-23 04:57:20",
-      "album": {
-        "name": "Me and The Locals",
-        "url": "https://open.spotify.com/album/0vNAKhhGoXGmiFF0SY9K3c"
-      },
-      "artists": [
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Me and The Locals",
-      "url": "https://open.spotify.com/track/2HyE9oC7CYoo0yefqtDGjo"
     },
     {
       "added_at": "2026-10-09 04:00:54",
@@ -121,52 +169,20 @@
       "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
     },
     {
-      "added_at": "2026-10-24 04:11:25",
+      "added_at": "2026-10-30 04:01:53",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/53HQhzJCHzsnsshjAkYYrq"
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
       },
       "artists": [
         {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/2ztYk3o7ablJ2yOdBNcJF6"
-    },
-    {
-      "added_at": "2026-10-09 05:04:13",
-      "album": {
-        "name": "ATTITUDE ERA!",
-        "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 198142,
-      "name": "SHOW ME RIGHT!",
-      "url": "https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE"
-    },
-    {
-      "added_at": "2026-10-09 04:00:54",
-      "album": {
-        "name": "Broken chair",
-        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 220677,
-      "name": "Broken chair",
-      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+      "duration_ms": 214335,
+      "name": "He Likes Boys",
+      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
     },
     {
       "added_at": "2026-10-23 04:57:20",
@@ -185,6 +201,86 @@
       "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
     },
     {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/0MHyfqEAWzYSAFIED3O29F"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "duration_ms": 180471,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/53xuXAfHpObt97KGswDalp"
+    },
+    {
+      "added_at": "2026-10-09 04:00:54",
+      "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "late night swim",
+        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 141339,
+      "name": "birds and butterflies",
+      "url": "https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo"
+    },
+    {
+      "added_at": "2026-10-23 04:57:20",
+      "album": {
+        "name": "Me and The Locals",
+        "url": "https://open.spotify.com/album/0vNAKhhGoXGmiFF0SY9K3c"
+      },
+      "artists": [
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Me and The Locals",
+      "url": "https://open.spotify.com/track/2HyE9oC7CYoo0yefqtDGjo"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/11QcHtHtbBiD0SHISXRUTL"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 168506,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/60rDCiZ2OWfOi4hVEKxZup"
+    },
+    {
       "added_at": "2026-10-09 05:12:12",
       "album": {
         "name": "blue",
@@ -199,6 +295,54 @@
       "duration_ms": 250049,
       "name": "blue",
       "url": "https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1"
+    },
+    {
+      "added_at": "2026-10-24 04:11:25",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/53HQhzJCHzsnsshjAkYYrq"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/2ztYk3o7ablJ2yOdBNcJF6"
+    },
+    {
+      "added_at": "2026-10-30 04:01:53",
+      "album": {
+        "name": "I BELIEVE IN GHOSTS",
+        "url": "https://open.spotify.com/album/6BYbERfjuYQ9bBv9wignHx"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "I BELIEVE IN GHOSTS",
+      "url": "https://open.spotify.com/track/4HMSZp8GPo07JE1OgMR92G"
+    },
+    {
+      "added_at": "2026-10-09 05:04:13",
+      "album": {
+        "name": "ATTITUDE ERA!",
+        "url": "https://open.spotify.com/album/0EvdpMkKgFSH9oz9SHIni5"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 198142,
+      "name": "SHOW ME RIGHT!",
+      "url": "https://open.spotify.com/track/4Dsr8SRfTTrhNoAeNu8nBE"
     },
     {
       "added_at": "2026-10-24 04:11:25",
@@ -231,22 +375,6 @@
       "duration_ms": 208421,
       "name": "Sad Song",
       "url": "https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ"
-    },
-    {
-      "added_at": "2026-09-11 04:02:16",
-      "album": {
-        "name": "Question Of The Day",
-        "url": "https://open.spotify.com/album/6akGRJhvSVeDC7S2jzLsv1"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 151003,
-      "name": "Question Of The Day",
-      "url": "https://open.spotify.com/track/3Yw8Agaovn9g02SPGZOK48"
     },
     {
       "added_at": "2026-10-09 04:00:54",
@@ -311,22 +439,6 @@
       "duration_ms": 186766,
       "name": "Casually Complicated",
       "url": "https://open.spotify.com/track/2iKZk4N2TC6qw86VmTywNG"
-    },
-    {
-      "added_at": "2026-09-18 04:16:14",
-      "album": {
-        "name": "Average Joe",
-        "url": "https://open.spotify.com/album/5kf0iKNBmGaXsjOp7QTaBU"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Average Joe",
-      "url": "https://open.spotify.com/track/7rC6j8fRo2Sov5GX099XVv"
     },
     {
       "added_at": "2026-09-25 04:03:27",
@@ -407,22 +519,6 @@
       "duration_ms": 223575,
       "name": "Magnetic Love",
       "url": "https://open.spotify.com/track/5hUjEpJe5MgbNTCO1Fucj6"
-    },
-    {
-      "added_at": "2026-09-25 04:03:27",
-      "album": {
-        "name": "dream",
-        "url": "https://open.spotify.com/album/1gs1dGyvmXwfahdtjGqvJK"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 193602,
-      "name": "dream",
-      "url": "https://open.spotify.com/track/7F8W8CzG7Q61v09z90rIAF"
     },
     {
       "added_at": "2026-09-18 04:16:14",
@@ -717,22 +813,6 @@
       "url": "https://open.spotify.com/track/7EVtAuFIgvaLHMqHGUa3zm"
     },
     {
-      "added_at": "2026-09-11 04:02:16",
-      "album": {
-        "name": "Vanity",
-        "url": "https://open.spotify.com/album/5rDCtSMDQWKNodyqz8H957"
-      },
-      "artists": [
-        {
-          "name": "Ruby Rose Turner",
-          "url": "https://open.spotify.com/artist/6F8yrN99JnFHqSF9CZcj2V"
-        }
-      ],
-      "duration_ms": 184631,
-      "name": "Vanity",
-      "url": "https://open.spotify.com/track/4BFvqk9rN8wA90Jh3IO12w"
-    },
-    {
       "added_at": "2026-08-28 04:00:13",
       "album": {
         "name": "serena joy",
@@ -779,22 +859,6 @@
       "duration_ms": 173659,
       "name": "Modern Dreaming",
       "url": "https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf"
-    },
-    {
-      "added_at": "2026-08-21 04:02:38",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 187265,
-      "name": "Summer You Were Mine",
-      "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
       "added_at": "2026-08-21 04:02:38",
@@ -1217,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1BQskN4wN6MEL2qTAhPTkP"
     },
     {
-      "added_at": "2026-07-05 15:36:05",
-      "album": {
-        "name": "I Wish I Didn't Care",
-        "url": "https://open.spotify.com/album/2fwufOZ2Gyk3Vh3XQZIxnu"
-      },
-      "artists": [
-        {
-          "name": "Jessica Andrea",
-          "url": "https://open.spotify.com/artist/3cxjLPoupULWAW15bgjkgl"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "I Wish I Didn't Care",
-      "url": "https://open.spotify.com/track/3m6ISq59EGnp4fHwxQsR5k"
-    },
-    {
       "added_at": "2026-07-10 04:04:08",
       "album": {
         "name": "Losing People",
@@ -1247,22 +1295,6 @@
       "duration_ms": 154061,
       "name": "Losing People",
       "url": "https://open.spotify.com/track/77pNS7sNHCTptHMPawto7i"
-    },
-    {
-      "added_at": "2026-07-05 15:36:05",
-      "album": {
-        "name": "Is This Heaven? (Extended)",
-        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 169121,
-      "name": "Good At Leaving",
-      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
     },
     {
       "added_at": "2026-06-26 19:54:46",
@@ -1407,38 +1439,6 @@
       "duration_ms": 205728,
       "name": "Shapeshifting on a Saturday Night",
       "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
-    },
-    {
-      "added_at": "2026-07-10 04:04:08",
-      "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/3fKG5ulXQe3bRv8X2MmdQQ"
-      },
-      "artists": [
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/5zsaIAuOp3SmeNV3ASmJMs"
-    },
-    {
-      "added_at": "2026-06-16 17:46:51",
-      "album": {
-        "name": "If You Wanna Be Adored",
-        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
-      },
-      "artists": [
-        {
-          "name": "Eva Rose",
-          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "If You Wanna Be Adored",
-      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
     },
     {
       "added_at": "2026-06-26 04:02:15",

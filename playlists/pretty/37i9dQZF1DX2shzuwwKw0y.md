@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Jaziel Avilez
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,427,391 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,427,002 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [Compa Primo](https://open.spotify.com/track/2DdaY2TLmJU8MlTqCLG8lg) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Compa Primo](https://open.spotify.com/album/1cdxgijuBnrCsU7uhp7Ch4) | 3:12 |
 | 75 | [El Quilin](https://open.spotify.com/track/3d12eWHA9P7LUjUcY3vQp7) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El Quilin](https://open.spotify.com/album/0uf02vcbAZFQPpIeWUrYlB) | 3:42 |
 
-Snapshot ID: `AAAAAGqbAMKOk44CVbbZ1UOW6N0ArmWL`
+Snapshot ID: `AAAAALmdf97q9gPxjR4gfqHxdxJir6JZ`

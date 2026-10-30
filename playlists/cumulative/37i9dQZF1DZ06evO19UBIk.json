@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Unbound and Dangerous (Live)",
+        "url": "https://open.spotify.com/album/3c7VtC9lWojBO5yQdr5FMZ"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535492,
+      "name": "Light My Fire (Live, 1970) - 2026 Mix",
+      "url": "https://open.spotify.com/track/5GCcUWe7V70x1JfpqoMqjj"
+    },
+    {
+      "album": {
         "name": "American Nights - In Concert",
         "url": "https://open.spotify.com/album/7teTxSPnJrpRoi7BxJ9qTC"
       },

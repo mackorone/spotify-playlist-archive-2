@@ -4,7 +4,7 @@
 
 > you up?
 
-589 songs - 1 day 8 hr 39 min
+590 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Die For You](https://open.spotify.com/track/2bk3kDxxFLHafZDuw06Fxs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 4:20 | 2022-02-04 | 2023-01-05 |
 | [DIET](https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [DIET](https://open.spotify.com/album/2huGDWA6lBNEszl3AsYjhd) | 2:49 | 2026-05-01 |  |
 | [dirty laundry](https://open.spotify.com/track/0qgZvYWLIqDn0tXimF8gPa) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 2:45 | 2022-02-04 | 2022-07-13 |
-| [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 | 2024-09-20 |  |
+| [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 | 2024-09-20 | 2026-10-30 |
 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 | 2024-08-02 |  |
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 | 2022-11-10 |
 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2022-05-12 | 2022-05-20 |
@@ -385,6 +385,7 @@
 | [NSFW](https://open.spotify.com/track/5PkQJUjEmdoGdpYTbCv1QC) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [NSFW](https://open.spotify.com/album/1DxNF6nz0EbEtPYIpHnJm3) | 2:45 | 2026-06-26 |  |
 | [Numb](https://open.spotify.com/track/2CZ4OKpYGQDwNVcfDPbWVR) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Numb](https://open.spotify.com/album/6nEoIktqCwkvAiMmQxV99W) | 2:26 | 2022-04-15 | 2022-04-21 |
 | [obsessed](https://open.spotify.com/track/3TKakBgJaTH5INk0WhU4xP) | [zandros](https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q), [Limi](https://open.spotify.com/artist/2SPIThivWqjfsjlYPNxYX9) | [obsessed](https://open.spotify.com/album/0bbp2pnr07VBdkjMkAMtN3) | 3:00 | 2024-01-26 | 2026-06-05 |
+| [OBSESSION](https://open.spotify.com/track/4MzNxQ4gWJjRRGvbA2vaV6) | [Lambb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [OBSESSION](https://open.spotify.com/album/5Btjb9tqDyQ8vUHQgfLdM0) | 2:42 | 2026-10-30 |  |
 | [OBSESSION](https://open.spotify.com/track/2CAiK7cI4zlEoi59jsJMUl) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [OBSESSION](https://open.spotify.com/album/3T3w7S32mdBdI8xwjSB3Ty) | 3:32 | 2022-04-08 | 2022-04-20 |
 | [Off A Cliff \(With Reo Cragun\)](https://open.spotify.com/track/7KjY1Xr1vXsAgolo63F0sV) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Escape Cycle](https://open.spotify.com/album/2JCIdveMkl6k4YdAqEMEBx) | 2:53 | 2023-08-25 | 2023-09-26 |
 | [Often](https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:09 | 2022-02-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Jae Stephens
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,878 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,888 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 48 | [Hurricane](https://open.spotify.com/track/1fq5OBjI5y88pmL5v3KGtG) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hurricane](https://open.spotify.com/album/3qDG4KC5ucfkdzLuCafRBt) | 3:41 |
 | 49 | [Rosey](https://open.spotify.com/track/2iSSIqqolRbcT6VctUKo59) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Rosey](https://open.spotify.com/album/6hWYemYptiMeYXSV71h5fj) | 3:17 |
 
-Snapshot ID: `AAAAAE6tI9ux1xT5kpnwXOk44748jZMf`
+Snapshot ID: `AAAAACZ2tPX+5LiJ3kEis0qG1NbVycWQ`

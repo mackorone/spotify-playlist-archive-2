@@ -1,12 +1,12 @@
 {
-  "description": "House music lives here. United under one roof, featuring KETTAMA and Prospa",
-  "num_followers": 2025603,
+  "description": "House music lives here. United under one roof, featuring Luuk van Dijk",
+  "num_followers": 2026819,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINB8omPUX4CQ3EcgAmF1htxT43q",
+  "snapshot_id": "AAAAAIILooC+ouBTCJYkv42640w/w3Fe",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:40",
@@ -57,20 +57,24 @@
       "url": "https://open.spotify.com/track/4TCzyYDyqYbLlNC1Z8Ewiu"
     },
     {
-      "added_at": "2026-10-16 04:00:40",
+      "added_at": "2026-10-30 04:00:59",
       "album": {
-        "name": "Just A Little Bit More",
-        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/22t4kIkeFXe5tJfrMJo3my"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        },
+        {
+          "name": "Sierra Volt",
+          "url": "https://open.spotify.com/artist/41VHnv4oiwVogATh4zFsOj"
         }
       ],
-      "duration_ms": 214038,
-      "name": "Just A Little Bit More",
-      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+      "duration_ms": 164538,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/3pDUobnmt1ZOQfSd7dbEOq"
     },
     {
       "added_at": "2026-10-16 04:00:40",
@@ -91,6 +95,22 @@
       "duration_ms": 192195,
       "name": "Fancy Footwork",
       "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-10-16 04:00:40",
+      "album": {
+        "name": "Just A Little Bit More",
+        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Just A Little Bit More",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
       "added_at": "2026-10-16 04:00:40",
@@ -119,6 +139,26 @@
     {
       "added_at": "2026-10-16 04:00:40",
       "album": {
+        "name": "WYWD",
+        "url": "https://open.spotify.com/album/5aV211595GuQbpbEAkhWIM"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 171438,
+      "name": "WYWD",
+      "url": "https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou"
+    },
+    {
+      "added_at": "2026-10-16 04:00:40",
+      "album": {
         "name": "Noise Keeper",
         "url": "https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW"
       },
@@ -135,6 +175,26 @@
       "duration_ms": 222292,
       "name": "Noise Keeper",
       "url": "https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"
+    },
+    {
+      "added_at": "2026-10-30 04:00:59",
+      "album": {
+        "name": "In The Night Again",
+        "url": "https://open.spotify.com/album/4WzFwh3MS7Jcrdf5hwlGcc"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Choice (feat. Kareen Lomax)",
+      "url": "https://open.spotify.com/track/2NP35GAj6usPBqYRV9fA3L"
     },
     {
       "added_at": "2026-10-23 04:00:55",
@@ -163,26 +223,6 @@
       "duration_ms": 235025,
       "name": "Looking For You",
       "url": "https://open.spotify.com/track/0XBjuhpiYKYObByQrud95Z"
-    },
-    {
-      "added_at": "2026-10-16 04:00:40",
-      "album": {
-        "name": "WYWD",
-        "url": "https://open.spotify.com/album/5aV211595GuQbpbEAkhWIM"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 171438,
-      "name": "WYWD",
-      "url": "https://open.spotify.com/track/7zZWMR7611shuYcV6W96ou"
     },
     {
       "added_at": "2026-10-16 04:00:40",
@@ -523,26 +563,6 @@
       "duration_ms": 215500,
       "name": "Music Don't Stop",
       "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
-    },
-    {
-      "added_at": "2026-10-16 04:00:40",
-      "album": {
-        "name": "Obsession (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/7HxyEnwnHsF3QbbZZ6LF39"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 154527,
-      "name": "Obsession (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/25LJMxtrq4cXdxSiLiQW3j"
     },
     {
       "added_at": "2026-10-16 04:00:40",
@@ -1775,30 +1795,6 @@
       "duration_ms": 197219,
       "name": "Funky Feeling",
       "url": "https://open.spotify.com/track/3e9nqr6iW1wcYlOSkiDp1r"
-    },
-    {
-      "added_at": "2026-10-16 04:00:40",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/1HFUPuY3LsytDPmFVpnTUs"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        },
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        },
-        {
-          "name": "Nate Katz",
-          "url": "https://open.spotify.com/artist/67qh97mzEaTU0iNapvrVyj"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "The Bridge",
-      "url": "https://open.spotify.com/track/5MxV3ngklsCd8Mveeq1Vpm"
     },
     {
       "added_at": "2026-10-16 04:00:40",

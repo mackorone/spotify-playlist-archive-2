@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > 
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 1 like - 850 songs - 2 day 6 hr 48 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 1 like - 851 songs - 2 day 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -858,5 +858,6 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 848 | [Yukidoke \(feat\. isui\)](https://open.spotify.com/track/2r451zJML8U3NiTi2MqAxh) | [Islet](https://open.spotify.com/artist/7Hp9RSUkMHy49iK72d2Van), [Isui](https://open.spotify.com/artist/1rdXw8QdeRIRjKG2TGdsPU) | [ASTER](https://open.spotify.com/album/15pkwuhXkSVgZrBY5ZuWXO) | 4:05 |
 | 849 | [逃亡](https://open.spotify.com/track/444TdAemfLOz77t9dlCeAa) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:47 |
 | 850 | [World's End](https://open.spotify.com/track/48TSMbk7XwAPbZyzhow2Vb) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [HIGH HEART](https://open.spotify.com/album/1yzzf8SV2nxVnhy3jYX93g) | 3:33 |
+| 851 | [Donut](https://open.spotify.com/track/5sm3W18LafD8LKsBZCE946) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [桜が咲く前に](https://open.spotify.com/album/27bjGMpmoHyg0bWJPjNKVE) | 6:35 |
 
-Snapshot ID: `AAAGFEMatKj1GCGcS3FMl3rCX1/g0+Vt`
+Snapshot ID: `AAAGFd5lZR8FtK+qeAM1ruF1SMQtcs4T`

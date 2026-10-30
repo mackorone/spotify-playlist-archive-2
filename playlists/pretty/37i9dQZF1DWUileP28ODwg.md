@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Megan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,278 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,438 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [I've Found Jesus \- Live](https://open.spotify.com/track/2i3Rjkur3NJiCH6txMqlDL) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [Live at Big Church Festival UK](https://open.spotify.com/album/7hhH5LJgs3D7L40vgBK4sQ) | 3:51 |
 | 80 | [Passing Through](https://open.spotify.com/track/2OJRpRXpMyEotrzmr1GyBD) | [Warren Peay](https://open.spotify.com/artist/4CV1cMFPuOL5ZTE4AB7GNh) | [Passing Through](https://open.spotify.com/album/5H1TIRB0hFoEwp3XJpnphM) | 3:20 |
 
-Snapshot ID: `AAAAACMmD69E5ZqQH7sKwz/I8cCA4y1A`
+Snapshot ID: `AAAAALJip35HZAaX1CyVJPioRcwbYxVY`

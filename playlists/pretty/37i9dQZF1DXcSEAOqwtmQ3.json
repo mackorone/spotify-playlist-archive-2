@@ -1,12 +1,12 @@
 {
   "description": "The songs soundtracking the best years ",
-  "num_followers": 85421,
+  "num_followers": 85577,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIRe2RUBsIqH83rl5XoJg6je4Ug",
+  "snapshot_id": "AAAAANEJYyYpSkjbgnRD6sM3l7+toCLX",
   "tracks": [
     {
       "added_at": "2026-09-22 19:05:19",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "Case",
-        "url": "https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM"
+        "name": "So Mi So",
+        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 202448,
-      "name": "Case",
-      "url": "https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5"
+      "duration_ms": 245182,
+      "name": "So Mi So",
+      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
     },
     {
       "added_at": "2026-09-22 19:05:19",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "So Mi So",
-        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
+        "name": "Case",
+        "url": "https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 245182,
-      "name": "So Mi So",
-      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
+      "duration_ms": 202448,
+      "name": "Case",
+      "url": "https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5"
     },
     {
       "added_at": "2026-09-22 19:05:19",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-09-22 19:05:19",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "Ohema (feat. Mr Eazi)",
-      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
-    },
-    {
-      "added_at": "2026-09-22 19:05:19",
-      "album": {
         "name": "Bolanle",
         "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 173712,
       "name": "Bolanle",
       "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
+    },
+    {
+      "added_at": "2026-09-22 19:05:19",
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "Ohema (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH"
     },
     {
       "added_at": "2026-09-22 19:05:19",

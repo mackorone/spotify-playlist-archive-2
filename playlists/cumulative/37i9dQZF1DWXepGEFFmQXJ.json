@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Miranda Lambert, Ella Langley",
+  "description": "The cream of today's country crop. Cover: Megan Moroney",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -4084,6 +4084,24 @@
       "duration_ms": 193250,
       "name": "City Girls In The Country",
       "url": "https://open.spotify.com/track/4R59AUuHpRuhI6A1CT6nzt"
+    },
+    {
+      "album": {
+        "name": "Clean Slate",
+        "url": "https://open.spotify.com/album/6ipgg8Ox8wlY6YEIMyMhMD"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/0bQ2vLgoYgLnBrt2jnnxL9"
     },
     {
       "album": {
@@ -19803,6 +19821,24 @@
     },
     {
       "album": {
+        "name": "Steady Flame",
+        "url": "https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181677,
+      "name": "Steady Flame",
+      "url": "https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp"
+    },
+    {
+      "album": {
         "name": "Steady Heart",
         "url": "https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9"
       },
@@ -20836,7 +20872,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 230400,
       "name": "That's Just Me",
       "url": "https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu"
@@ -23070,7 +23106,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 174470,
       "name": "What Do I Do If You Don't",
       "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"

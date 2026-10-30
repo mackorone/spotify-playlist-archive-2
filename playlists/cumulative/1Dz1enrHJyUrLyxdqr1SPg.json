@@ -126,7 +126,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 188181,
       "name": "Always Kind (Sempre Gentile)",
       "url": "https://open.spotify.com/track/5MOlrbOzQci7IFzkUjI0ho"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 224000,
       "name": "Calcifer",
       "url": "https://open.spotify.com/track/4TlZW68BSuutyPYQFqkFih"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 198363,
       "name": "Fentanyl Apocalypse",
       "url": "https://open.spotify.com/track/5SzfE5AOykHvXDnX2vt1o4"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 172712,
       "name": "Forgot Yourself",
       "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 163129,
       "name": "Never Forget Me",
       "url": "https://open.spotify.com/track/0v0qOsmEI1FGf7qiUWuCGs"
@@ -2244,6 +2244,28 @@
       "duration_ms": 252794,
       "name": "Pale Shelter",
       "url": "https://open.spotify.com/track/1RLzufJY0HcUCJvyHcOk8V"
+    },
+    {
+      "album": {
+        "name": "Delphinus",
+        "url": "https://open.spotify.com/album/4Rpf27BgEZsKx15Gr9yjsR"
+      },
+      "artists": [
+        {
+          "name": "Joss Jaffe",
+          "url": "https://open.spotify.com/artist/2Nj9Ni0ML57eyiursEE5xx"
+        },
+        {
+          "name": "Jim \"Kimo\" West",
+          "url": "https://open.spotify.com/artist/51aljngqSf5fmjeQEOXp0k"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "Party Wave",
+      "url": "https://open.spotify.com/track/5Hk2jymqYWyHQ8ZElS9rDj"
     },
     {
       "album": {
@@ -3210,7 +3232,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 226161,
       "name": "Time - Remix 2026",
       "url": "https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib"

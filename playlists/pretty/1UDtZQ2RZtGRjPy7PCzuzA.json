@@ -6,7 +6,7 @@
     "name": "julia",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAAOd+oLwC6e9WE4hwDiLRRBAEeWBVJv",
+  "snapshot_id": "AAAOiu50DIBriMLSEjnDCmh5SixT1iuV",
   "tracks": [
     {
       "added_at": "2026-08-15 08:53:39",
@@ -30791,6 +30791,442 @@
       "duration_ms": 260959,
       "name": "Andria",
       "url": "https://open.spotify.com/track/4CvejJIsZNEzxrTGm6FoX9"
+    },
+    {
+      "added_at": "2026-10-28 11:14:28",
+      "album": {
+        "name": "Sketches for My Sweetheart The Drunk (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 286706,
+      "name": "Everybody Here Wants You",
+      "url": "https://open.spotify.com/track/2bcvooA6HEmVUneEGJnNZD"
+    },
+    {
+      "added_at": "2026-10-28 21:29:16",
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 115373,
+      "name": "Candy Darling",
+      "url": "https://open.spotify.com/track/0aQQxOqgeD9Yk4BhxIhNzz"
+    },
+    {
+      "added_at": "2026-10-28 21:29:25",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Happy Birthday, Johnny",
+      "url": "https://open.spotify.com/track/0pY9xoiH9hNo166spIpQWt"
+    },
+    {
+      "added_at": "2026-10-28 21:29:59",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
+    },
+    {
+      "added_at": "2026-10-28 21:32:40",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/2Kkg6KwQDY6hOHIoTxFL8d"
+    },
+    {
+      "added_at": "2026-10-28 21:35:51",
+      "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 396157,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 222555,
+      "name": "But Not Kiss",
+      "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 275091,
+      "name": "Wanna Quit All the Time",
+      "url": "https://open.spotify.com/track/3w3seawXfQGat9yH2B8Tge"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 163228,
+      "name": "Lego Ring",
+      "url": "https://open.spotify.com/track/2pcv2nqfX9zWYNm1iAfHKK"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 86169,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/4cuj3hgXjsSgvCuwFWNuKJ"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 305966,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/34UJXh0z65NvqCtHA9Qe49"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 170701,
+      "name": "He Loves Me Yeah!",
+      "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 224819,
+      "name": "eBay Purchase History",
+      "url": "https://open.spotify.com/track/42106BG4Tc9SxIrDFBziXE"
+    },
+    {
+      "added_at": "2026-10-29 09:07:52",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 150994,
+      "name": "Tttttime",
+      "url": "https://open.spotify.com/track/53xj4nMCGtcFV2kieeI5pk"
+    },
+    {
+      "added_at": "2026-10-29 09:13:12",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 100277,
+      "name": "The Elevator",
+      "url": "https://open.spotify.com/track/5q1D86tncyZcURAKmD1M3d"
+    },
+    {
+      "added_at": "2026-10-29 09:16:05",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224959,
+      "name": "Come Down Soon",
+      "url": "https://open.spotify.com/track/3I91UEnb3zKGH9dmh0Pzop"
+    },
+    {
+      "added_at": "2026-10-29 09:19:45",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 92046,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/7kUU6PNRwhYsGxnz5CdoKd"
+    },
+    {
+      "added_at": "2026-10-29 09:22:30",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 183796,
+      "name": "You Forced Me To",
+      "url": "https://open.spotify.com/track/2GpT8VsAJ5kB33Jy9JuIjT"
+    },
+    {
+      "added_at": "2026-10-29 09:31:32",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/4xh5KbVvdmvZhEt9ASuLTN"
+    },
+    {
+      "added_at": "2026-10-29 09:36:23",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245732,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/4cUrQm7Gq0kb7ISy7VQbXb"
+    },
+    {
+      "added_at": "2026-10-29 09:36:50",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245732,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2026-10-29 09:44:42",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/4qngJdqe1xReKVBiehG1qs"
+    },
+    {
+      "added_at": "2026-10-29 09:44:48",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 205950,
+      "name": "Like It Tends To Do",
+      "url": "https://open.spotify.com/track/0SJ2lNFuRMb2WeaFKYt3dw"
+    },
+    {
+      "added_at": "2026-10-29 09:47:53",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 151647,
+      "name": "Staying",
+      "url": "https://open.spotify.com/track/6Jp9tZ8NrwXcrhSIriiwAX"
+    },
+    {
+      "added_at": "2026-10-29 09:59:21",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224410,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/4CJpN2itULOBs95ltiSjbd"
+    },
+    {
+      "added_at": "2026-10-29 09:59:28",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 220583,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/5Pm5OI224uMuOpxb3dWGAX"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

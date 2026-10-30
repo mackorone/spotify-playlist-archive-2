@@ -4868,7 +4868,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 160230,
       "name": "Daqui pra sempre",
       "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
@@ -7886,6 +7886,28 @@
       "duration_ms": 180568,
       "name": "Fim do Mundo",
       "url": "https://open.spotify.com/track/6ZIylywjoQtsAbUhvrtwuH"
+    },
+    {
+      "album": {
+        "name": "Final de Semana",
+        "url": "https://open.spotify.com/album/0hVVFYhXLucCmoMEjUmC91"
+      },
+      "artists": [
+        {
+          "name": "Leo Dpaula",
+          "url": "https://open.spotify.com/artist/119DJqAN7mjGXPf6k8XPTg"
+        },
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183363,
+      "name": "Final de Semana",
+      "url": "https://open.spotify.com/track/2Qu4IxBRzk0HpqgUwwwIMN"
     },
     {
       "album": {

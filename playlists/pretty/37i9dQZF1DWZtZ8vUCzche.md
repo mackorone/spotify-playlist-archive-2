@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > Spotify teams up with Good Housekeeping for 14 ideal songs to test your headphones with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,811 likes - 14 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,653 likes - 14 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 13 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 |
 | 14 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 
-Snapshot ID: `AAAAACtBJtmGSyMTW3ajRWt795tNW7E/`
+Snapshot ID: `AAAAANfyn64xFgdSSYMhe49gDuL+hDw8`

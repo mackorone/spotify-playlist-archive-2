@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music! Cover: Aaron Frazer
+> New soul\-infused music! Cover: Yas Mayou
 
 1,378 songs - 3 day 11 hr 8 min
 

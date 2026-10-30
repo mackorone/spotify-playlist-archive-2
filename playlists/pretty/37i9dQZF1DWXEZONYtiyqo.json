@@ -1,13 +1,49 @@
 {
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Smiley",
-  "num_followers": 66305,
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andia",
+  "num_followers": 66303,
   "original_name": "Hiturile de azi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAzTdGiP8A71VzSPdduOPTJOdWy",
+  "snapshot_id": "AAAAAG9WFUJKZnVKVkNtHQjw3et+XJgM",
   "tracks": [
+    {
+      "added_at": "2026-10-29 22:00:16",
+      "album": {
+        "name": "V\u00e2nd O Inim\u0103",
+        "url": "https://open.spotify.com/album/5ZkofTPf3xplJSiL4lpxbk"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 146320,
+      "name": "V\u00e2nd O Inim\u0103",
+      "url": "https://open.spotify.com/track/3ktBEzPk6zlzGan1izKsA5"
+    },
+    {
+      "added_at": "2026-10-29 22:00:16",
+      "album": {
+        "name": "C\u00e2nd timpul face pa\u015fi",
+        "url": "https://open.spotify.com/album/5yjf1emO5kUpydCkhgvRFA"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        },
+        {
+          "name": "ADI Istrate",
+          "url": "https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo"
+        }
+      ],
+      "duration_ms": 178441,
+      "name": "C\u00e2nd timpul face pa\u015fi",
+      "url": "https://open.spotify.com/track/5wYWTdSEsAf4pVTAIJdJPt"
+    },
     {
       "added_at": "2026-10-22 21:00:20",
       "album": {
@@ -23,26 +59,6 @@
       "duration_ms": 149262,
       "name": "Melancolie",
       "url": "https://open.spotify.com/track/5NqF1AvjmoJYblLfszEyKE"
-    },
-    {
-      "added_at": "2026-10-22 21:00:20",
-      "album": {
-        "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
-        "url": "https://open.spotify.com/album/4QoZF7wvuvlBpNz9fZzUSF"
-      },
-      "artists": [
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        },
-        {
-          "name": "Antonia",
-          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
-      "url": "https://open.spotify.com/track/3TI8tDdl9l3RgaMsqXHUlE"
     },
     {
       "added_at": "2026-10-15 21:00:34",
@@ -67,18 +83,22 @@
     {
       "added_at": "2026-10-22 21:00:20",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/3hK8y30ywegptiWf8ebAnS"
+        "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
+        "url": "https://open.spotify.com/album/4QoZF7wvuvlBpNz9fZzUSF"
       },
       "artists": [
         {
-          "name": "Fly Project",
-          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3nk0rATAea3bUXN74anmsH"
+      "duration_ms": 158400,
+      "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
+      "url": "https://open.spotify.com/track/3TI8tDdl9l3RgaMsqXHUlE"
     },
     {
       "added_at": "2026-10-15 21:00:34",
@@ -95,6 +115,42 @@
       "duration_ms": 195924,
       "name": "Samba",
       "url": "https://open.spotify.com/track/7u4BvAn99CaKjIN5RAskVn"
+    },
+    {
+      "added_at": "2026-10-29 22:00:16",
+      "album": {
+        "name": "\u00cen Urma Mea",
+        "url": "https://open.spotify.com/album/6FNMAV4JCkYpRprkVfTeTG"
+      },
+      "artists": [
+        {
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "duration_ms": 193036,
+      "name": "\u00cen Urma Mea",
+      "url": "https://open.spotify.com/track/3leGtHgTAsU9wgmdGvnScb"
+    },
+    {
+      "added_at": "2026-10-22 21:00:20",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3hK8y30ywegptiWf8ebAnS"
+      },
+      "artists": [
+        {
+          "name": "Fly Project",
+          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3nk0rATAea3bUXN74anmsH"
     },
     {
       "added_at": "2026-10-15 21:00:34",
@@ -163,6 +219,22 @@
       "duration_ms": 224347,
       "name": "Absen\u021ba Ta",
       "url": "https://open.spotify.com/track/5L2TRT6SJg42fHui8ode7a"
+    },
+    {
+      "added_at": "2026-10-29 22:00:16",
+      "album": {
+        "name": "Fotografii",
+        "url": "https://open.spotify.com/album/0gkjY0OQvLSxUklnZiA7WD"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        }
+      ],
+      "duration_ms": 149379,
+      "name": "Fotografii",
+      "url": "https://open.spotify.com/track/0x7LGpyMt644lnikPurW6x"
     },
     {
       "added_at": "2026-10-15 21:00:34",
@@ -275,6 +347,22 @@
       "duration_ms": 162696,
       "name": "Dante",
       "url": "https://open.spotify.com/track/4UX0N7H19R1f9MO22P6ijx"
+    },
+    {
+      "added_at": "2026-10-29 22:00:16",
+      "album": {
+        "name": "Tot cu tine a\u0219 gre\u0219i",
+        "url": "https://open.spotify.com/album/6NuNotCOPtdvP6jBu7Cy6K"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "Tot cu tine a\u0219 gre\u0219i",
+      "url": "https://open.spotify.com/track/5wQWdFUVeKNvrlNIT6LbJP"
     },
     {
       "added_at": "2026-10-15 21:00:34",
@@ -615,26 +703,6 @@
     {
       "added_at": "2026-10-15 21:00:34",
       "album": {
-        "name": "Buna, Ce Faci?",
-        "url": "https://open.spotify.com/album/4whZrNXIGfbw86K4Sx0vRf"
-      },
-      "artists": [
-        {
-          "name": "BiBi",
-          "url": "https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX"
-        },
-        {
-          "name": "BALKAN",
-          "url": "https://open.spotify.com/artist/6H1Kqafe1U7vr76wY03pEA"
-        }
-      ],
-      "duration_ms": 170569,
-      "name": "Buna, Ce Faci?",
-      "url": "https://open.spotify.com/track/3EeVQzeuuqv1JKsJDHbntL"
-    },
-    {
-      "added_at": "2026-10-15 21:00:34",
-      "album": {
         "name": "7 din 7",
         "url": "https://open.spotify.com/album/4q3iKz4tg5UUxlnpADDq5W"
       },
@@ -687,26 +755,6 @@
       "duration_ms": 163764,
       "name": "D\u0103-mi, Doamne",
       "url": "https://open.spotify.com/track/3SLgzGLDnVzzbbNXGhf7Pc"
-    },
-    {
-      "added_at": "2026-10-15 21:00:34",
-      "album": {
-        "name": "Toreador",
-        "url": "https://open.spotify.com/album/5KWbS4tCJzQtk4Fg8yPVtC"
-      },
-      "artists": [
-        {
-          "name": "Mario ",
-          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
-        },
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Toreador",
-      "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
     },
     {
       "added_at": "2026-10-15 21:00:34",
@@ -803,26 +851,6 @@
     {
       "added_at": "2026-10-15 21:00:34",
       "album": {
-        "name": "Mor dup\u0103 tine",
-        "url": "https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K"
-      },
-      "artists": [
-        {
-          "name": "Lazy Ed",
-          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
-        },
-        {
-          "name": "JO",
-          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "Mor dup\u0103 tine",
-      "url": "https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB"
-    },
-    {
-      "added_at": "2026-10-15 21:00:34",
-      "album": {
         "name": "Genul \u0103la",
         "url": "https://open.spotify.com/album/73pAQsXnxdmcnZh6VYRRiT"
       },
@@ -871,38 +899,6 @@
       "duration_ms": 166875,
       "name": "Full Option",
       "url": "https://open.spotify.com/track/6vnbabsIQOkwp12neqpUoG"
-    },
-    {
-      "added_at": "2026-10-15 21:00:34",
-      "album": {
-        "name": "Beluga",
-        "url": "https://open.spotify.com/album/3DTsjoUMCLAnBp4iGhVvSJ"
-      },
-      "artists": [
-        {
-          "name": "Florin Ristei",
-          "url": "https://open.spotify.com/artist/75O3JSFrt909DtV34BTWfW"
-        }
-      ],
-      "duration_ms": 167462,
-      "name": "Beluga",
-      "url": "https://open.spotify.com/track/18dQBc9UPscYIqRqSepWF8"
-    },
-    {
-      "added_at": "2026-10-15 21:00:34",
-      "album": {
-        "name": "Inim\u0103 \u00eempiedicat\u0103",
-        "url": "https://open.spotify.com/album/7GcyN4ZuBweVdymJavDjiS"
-      },
-      "artists": [
-        {
-          "name": "EMAA",
-          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
-        }
-      ],
-      "duration_ms": 172702,
-      "name": "Inim\u0103 \u00eempiedicat\u0103",
-      "url": "https://open.spotify.com/track/4MYL6lLfm74ULqtgScKEQ4"
     }
   ],
   "unique_name": "Hiturile de azi",

@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/5dbIBryEKXQzizXzb3MXnV"
@@ -15546,7 +15546,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 185744,
       "name": "HA-HA",
       "url": "https://open.spotify.com/track/76v5LULysGLz5NnQnzDfmI"
@@ -18854,7 +18854,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 174829,
       "name": "Iskam ot teb",
       "url": "https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae"
@@ -26474,7 +26474,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -27352,7 +27352,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 220868,
       "name": "Notarialno zaveren",
       "url": "https://open.spotify.com/track/0rzlD9CNQ5XIGD58r799Ov"
@@ -28424,6 +28424,28 @@
       "duration_ms": 266758,
       "name": "OTKACHALKI",
       "url": "https://open.spotify.com/track/1pRSvQZVxrZ2d4GPjZmlAq"
+    },
+    {
+      "album": {
+        "name": "OTKRADNI ME",
+        "url": "https://open.spotify.com/album/3cQaUnKJKFawKVhTRZWZDo"
+      },
+      "artists": [
+        {
+          "name": "KSIOR",
+          "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
+        },
+        {
+          "name": "SISS",
+          "url": "https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "OTKRADNI ME",
+      "url": "https://open.spotify.com/track/1vrtoqVHlUny6TfnBY3Lna"
     },
     {
       "album": {
@@ -41150,7 +41172,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 252000,
       "name": "Vij Kakvo",
       "url": "https://open.spotify.com/track/1BWqkdZhZbKsWg6qzFsqbp"
@@ -41262,7 +41284,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 222493,
       "name": "Vinovna",
       "url": "https://open.spotify.com/track/3rCr3GaLdvKdIaA3jJW50l"
@@ -48416,7 +48438,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 241960,
       "name": "\u041c\u043e\u043c\u0447\u0435 \u0431\u0435\u0437 \u0441\u044a\u0440\u0446\u0435",
       "url": "https://open.spotify.com/track/751kslplg7iAx3bD98pZgs"
@@ -48670,7 +48692,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178153,
       "name": "\u041c\u0440\u044a\u0441\u043e\u0442\u0438\u044f",
       "url": "https://open.spotify.com/track/1LPwT0veXCWx4h318sMysq"
@@ -51082,7 +51104,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 224084,
       "name": "\u0421\u0430\u043a\u043e\u0432\u0435",
       "url": "https://open.spotify.com/track/1hDHWk74RPmGwgkWEHiFjU"
@@ -52484,7 +52506,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
       "url": "https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X"

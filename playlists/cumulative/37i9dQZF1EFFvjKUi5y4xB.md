@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 6 hr 27 min
+124 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Dirty Dancin](https://open.spotify.com/track/4LmIZmcObko4di4KTtPMmt) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [FAR FROM GAZ](https://open.spotify.com/album/2Iuf2lSmLhXnwrO7NDDH9e) | 2:27 | 2025-06-01 |  |
 | [Discover](https://open.spotify.com/track/5lGTCv4PiLcEdyesQqcvkY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 4:25 | 2025-06-01 |  |
 | [Don't Say No](https://open.spotify.com/track/6rewEZkLHDRD7kBrkwEChb) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:43 | 2025-06-01 |  |
-| [Don't Wanna Pretend](https://open.spotify.com/track/2tOJHzOuaf6e7kJaXItGn7) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 3:45 | 2025-06-01 |  |
+| [Don't Wanna Pretend](https://open.spotify.com/track/2tOJHzOuaf6e7kJaXItGn7) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 3:45 | 2025-06-01 | 2026-10-30 |
+| [Don't Wanna Pretend](https://open.spotify.com/track/3RkkJiOjNndiNWdDmYktSP) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/6jygGgoXluhvMHaKIN8mSm) | 3:45 | 2026-10-29 |  |
 | [Door No.2](https://open.spotify.com/track/47uhP9GwLEbUVi4msjCSiU) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 2:52 | 2025-06-01 |  |
 | [Double Standards](https://open.spotify.com/track/2XK2iL9gSAlYIAbklTHxbk) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:11 | 2025-06-01 |  |
 | [Down In Your Ways](https://open.spotify.com/track/2IO0JLR0qtl5q5E95i2dms) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 | 2026-09-30 |  |

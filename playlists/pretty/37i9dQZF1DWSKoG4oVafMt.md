@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,963 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,136 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Mulaqaat](https://open.spotify.com/track/3qFxc62CjyE8WYwigvvB9L) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Mulaqaat](https://open.spotify.com/album/1jI6jXWObHreumKnhzm6H3) | 2:14 |
 | 100 | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/track/5YpjkbI4Go4r4V0qwdOSJB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/album/1UVL3i2zcyW3MoOPVNRuOm) | 2:43 |
 
-Snapshot ID: `AAAAADxuEw/ptkJknAbTWivoXejLhzSx`
+Snapshot ID: `AAAAAMI5/67zM3+ugu3JcBgrT8xvPoKW`

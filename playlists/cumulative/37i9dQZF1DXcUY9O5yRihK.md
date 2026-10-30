@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Mei Semones
 
-194 songs - 9 hr 46 min
+195 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 | 2026-10-02 |  |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2023-01-06 | 2026-05-09 |
 | [I Feel Bad For You, Dave](https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [I Feel Bad For You, Dave](https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab) | 3:03 | 2025-08-15 |  |
-| [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2023-07-28 |  |
+| [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2023-07-28 | 2026-10-30 |
 | [I wish for the rain](https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [I wish for the rain](https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk) | 2:31 | 2024-04-26 | 2024-07-27 |
 | [I'll Play the Fool](https://open.spotify.com/track/0ypsakEytTz70C7OgZjfbf) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0MgXt3BuZIRMEGaVI3uOU8) | 2:48 | 2024-04-12 | 2024-07-06 |
 | [I'll Play the Fool](https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 2:48 | 2023-01-06 | 2024-04-19 |
@@ -200,6 +200,7 @@
 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 |  |
 | [You At Home](https://open.spotify.com/track/2FGn5SVPl5kzx7kSSZ2db0) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [You At Home](https://open.spotify.com/album/3i8PAjApnVRYhrby3hzCfJ) | 2:41 | 2023-09-15 | 2023-10-24 |
 | [You're the Reason](https://open.spotify.com/track/1OJqtwMsA3RHmAYh6DHWYK) | [Chris Wright](https://open.spotify.com/artist/2PUZljI6YOKycWygjY6EQV), [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [You're the Reason](https://open.spotify.com/album/0paZI3fai3hEJUfKglHwYl) | 2:37 | 2023-01-06 | 2023-08-06 |
+| [Young And Dumb](https://open.spotify.com/track/4b3EgGk2hdOQwBHvFQUTmJ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Young And Dumb](https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r) | 2:37 | 2026-10-30 |  |
 | [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 | 2025-04-10 | 2026-10-02 |
 | [Zou bisou bisou](https://open.spotify.com/track/2fxvANiJMVbMvuqNWUilEM) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou \(Original Version\)](https://open.spotify.com/album/6RGW7AdxrvowqfBp4gP5o5) | 2:18 | 2023-01-06 | 2024-06-29 |
 

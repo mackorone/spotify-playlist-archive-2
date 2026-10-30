@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 
 > Pódcasts que necesitas mantener en tu RADAR: Terapia de Parejas, Ahora me entero, Querido Pícaro, Chronically Online y Pareja in Crime.<br/><br/>En portada, Chronically Online
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,424 likes - 15 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,428 likes - 15 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WSz2bIXl9B.md) - [plain]
 | 14 | [Negociador de SECUESTROS y CRISIS: así convenzo a personas ARMADAS](https://open.spotify.com/episode/6lVdFb96MySOTxFDX0hydl) | [Ahora me entero](https://open.spotify.com/show/1KOIc2AOrYJMsYn56kWiZg) | [Ahora me entero](https://open.spotify.com/album/1KOIc2AOrYJMsYn56kWiZg) | 1:52:57 |
 | 15 | [Terapia de Parejas \- 925 \- QUIERO que mi MUJER cocine PARA MI](https://open.spotify.com/episode/2WxYBWLw6vIR0i90LtOL05) | [Terapia de Parejas](https://open.spotify.com/show/6V7gzGJwYsHg4uJOCPM7C1) | [Terapia de Parejas](https://open.spotify.com/album/6V7gzGJwYsHg4uJOCPM7C1) | 2:17:01 |
 
-Snapshot ID: `AAAAAJ93GE5eqt327eINVVjKxmgdabR/`
+Snapshot ID: `AAAAAGBQGQXCKoKu4EnUogkCNVnA9BM8`

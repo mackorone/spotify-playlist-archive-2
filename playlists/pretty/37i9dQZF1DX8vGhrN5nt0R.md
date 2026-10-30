@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vGhrN5nt0R.md) - [plain]
 
 > Creditless Anime Openings / Endings of the 2020s\. Music videos only available on Premium\. 2020年代のノンクレジットアニメOP／EDを観よう。\(ミュージックビデオはSpotifyプレミアムユーザーのみご覧いただけます。\)  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 45 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 45 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vGhrN5nt0R.md) - [plain]
 | 44 | [異世界こんちぇると\(異世界かるてっと３ ノンクレOP1\)](https://open.spotify.com/track/3fdazX08FkzL7xb9NUxVZm) | [アインズ\(CV:日野聡\)](https://open.spotify.com/artist/1BT5HtLxno34faQxuSkN9q), [カズマ\(CV:福島潤\)](https://open.spotify.com/artist/3knMIUJEHn6Y5C2cGeyLjn), [スバル\(CV:小林裕介\)](https://open.spotify.com/artist/2rr6BUIUiebU4KEvUsS0JN), [ターニャ\(CV:悠木碧\)](https://open.spotify.com/artist/1JzqB3vgKeJ1OUOnI9zR2C) | [異世界こんちぇると\(異世界かるてっと３ ノンクレOP1\)](https://open.spotify.com/album/4wwPLxCXnvKLr8wbvNihrN) | 1:30 |
 | 45 | [君色、僕色\(異世界かるてっと３ ノンクレED\)](https://open.spotify.com/track/3eMCuOYB98KxzDxjqrYRJQ) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [君色、僕色\(異世界かるてっと３ ノンクレED\)](https://open.spotify.com/album/1Ffvjr5HFHRiXbKZ8Ux4n9) | 1:30 |
 
-Snapshot ID: `AAAAAAUFHD88yDZQ6r0KqSJog/cFIhLp`
+Snapshot ID: `AAAAAIyBmNfaAgFOQ80EoBP7VErfiO7i`

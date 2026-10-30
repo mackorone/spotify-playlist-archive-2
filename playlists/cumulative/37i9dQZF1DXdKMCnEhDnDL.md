@@ -2,15 +2,15 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes! Cover: Isabèl Usher \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artiest\)
+> De beste Nederlandse liedjes! Cover: Suzan & Freek
 
-545 songs - 1 day 3 hr 41 min
+546 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['k Heb Je Lief](https://open.spotify.com/track/1J1oX6PbDhlQp6eYqCeORi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Aflevering 1\- Paul de Leeuw\)](https://open.spotify.com/album/6OwnB4ivbi8SXG3qZeqpQB) | 4:42 | 2025-09-10 | 2026-05-12 |
 | [\(Die Man Is\) Verliefd](https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [\(Die Man Is\) Verliefd](https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2) | 3:06 | 2024-11-06 | 2026-02-06 |
-| [1 Dag](https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [1 Dag](https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6) | 3:24 | 2025-11-20 |  |
+| [1 Dag](https://open.spotify.com/track/4zQh8F0jxyUsKBdKjVvy2x) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [1 Dag](https://open.spotify.com/album/1SIgkWVynAWhGZ1s5wyME6) | 3:24 | 2025-11-20 | 2026-10-30 |
 | [1 Op Een Miljoen](https://open.spotify.com/track/1Ox6RIOerYvgRH9AxIl4DO) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [1 Op Een Miljoen](https://open.spotify.com/album/7vhYasDgXpdyjwVaFvt95z) | 3:18 | 2023-02-24 | 2023-11-11 |
 | [1%](https://open.spotify.com/track/3U1sLMV37PoS7i5aApZXIx) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:41 | 2023-02-24 | 2023-11-11 |
 | [10 Dagen](https://open.spotify.com/track/7dxCjhgX2HCo1vSacV5IH8) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Esmée Denters](https://open.spotify.com/artist/4ZfZ9troLXZsAVxcvXKXnV) | [Altijd Samen](https://open.spotify.com/album/70H06i38OJROeIolYuxJz3) | 2:53 | 2023-02-24 | 2023-05-16 |
@@ -462,6 +462,7 @@
 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 | 2024-02-02 | 2024-11-07 |
 | [TIJDSGEEST](https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 3:19 | 2026-02-12 | 2026-04-17 |
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2023-11-10 | 2025-08-29 |
+| [Totdat De Wereld Naar Je Lacht](https://open.spotify.com/track/60Hz4daid6le3wTmdpu2fX) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Totdat De Wereld Naar Je Lacht](https://open.spotify.com/album/0JQ8R38mWUnF8X7ggahku6) | 2:46 | 2026-10-29 |  |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-11-14 | 2026-10-13 |
 | [Tranen In De Giftshop](https://open.spotify.com/track/6TOOdDpUpkx30Om2AGAbiF) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tranen In De Giftshop](https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f) | 3:06 | 2026-06-18 | 2026-09-11 |
 | [Tranen Van Goud](https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb), [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Tranen Van Goud](https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB) | 2:21 | 2026-05-11 | 2026-09-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,878 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,728 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 | 29 | [NI TAN SANTX](https://open.spotify.com/track/2TCy4SdgjE8SEdP0UQfPGs) | [EON](https://open.spotify.com/artist/1Bt6FvbEO0j0bYOqZTabUd), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [L Prince](https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg) | [NI TAN SANTX](https://open.spotify.com/album/2B53ZI8IljOo0wycM0Ai4i) | 3:18 |
 | 30 | [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 |
 
-Snapshot ID: `AAAAADjkn/JgaC/veLbFh/oV8h6yIG87`
+Snapshot ID: `AAAAAN2ogckSOzUHhNYqFk2A25jrORs9`

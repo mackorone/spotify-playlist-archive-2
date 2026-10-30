@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Victor Mendivil
 
-847 songs - 1 day 23 hr 25 min
+848 songs - 1 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:48 | 2022-01-19 | 2022-05-14 |
 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/7JS743HRDpx2NvoNQ39p4O) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 3:48 | 2022-01-06 | 2022-01-20 |
 | [Gaminart](https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [La Familia, Cap\. 1](https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ) | 5:09 | 2022-01-06 | 2022-01-20 |
+| [Gastar Balas](https://open.spotify.com/track/0U9iRvpU6wvPISZE9LO5FP) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Gastar Balas](https://open.spotify.com/album/1gMhZoy3EpIS858ooi7nGn) | 3:36 | 2026-10-23 |  |
 | [Get Money](https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Get Money](https://open.spotify.com/album/5nhijg5KlUIzFsXSFg7Lpq) | 2:39 | 2022-01-06 | 2022-07-29 |
 | [Get Money](https://open.spotify.com/track/7uPDRSd1sVwlmEy5T1cv2R) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Get Money](https://open.spotify.com/album/2k4cBntVyNcN7IQJf4Gy35) | 2:39 | 2022-07-15 | 2022-10-08 |
 | [Ghetto Star](https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [Ghetto Star](https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4) | 3:17 | 2023-01-25 | 2023-05-27 |

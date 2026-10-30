@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oHOwhkzjZ7.md) - [plain]
 
 > New videos from your favorite rock & alternative artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oHOwhkzjZ7.md) - [plain]
 | 74 | [Roar Of The Heliac Goat](https://open.spotify.com/track/4hjBehyyL8JPQJ0LiYOHnl) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Roar Of The Heliac Goat](https://open.spotify.com/album/58bNzzNI4WXtLym3d8Nup5) | 4:36 |
 | 75 | [I know](https://open.spotify.com/track/1dtdCmWxgKAPVxK22OQShC) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [I know](https://open.spotify.com/album/4vDMbZZODUPVWD6LsZg5h7) | 3:21 |
 
-Snapshot ID: `AAAAAG8jfKwJxgsHsQrqfFvG4eX2mXW/`
+Snapshot ID: `AAAAALsLFE5fjTpowSWWQvaUhiNkrnTH`

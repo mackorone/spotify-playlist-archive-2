@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 256237,
+  "num_followers": 256245,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABtzWFpKpKUmMVyN65KFw7L",
+  "snapshot_id": "at/pgAAAAAB62FA5ubrVHSO+sYhByXrF",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 190216,
+      "name": "clean slate",
+      "url": "https://open.spotify.com/track/4goxmr5LoUfcJCOikYZKj0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "watch you sleep.",
-        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 180225,
-      "name": "watch you sleep.",
-      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -328,9 +328,25 @@
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 190216,
-      "name": "clean slate",
-      "url": "https://open.spotify.com/track/4goxmr5LoUfcJCOikYZKj0"
+      "duration_ms": 98920,
+      "name": "worst case",
+      "url": "https://open.spotify.com/track/2ALZcNZJMZIl0fEqjDwxqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "watch you sleep.",
+        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 180225,
+      "name": "watch you sleep.",
+      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
     },
     {
       "added_at": null,
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "say anything",
-        "url": "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 142700,
-      "name": "say anything",
-      "url": "https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLUE",
-        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+        "name": "say anything",
+        "url": "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 98920,
-      "name": "worst case",
-      "url": "https://open.spotify.com/track/2ALZcNZJMZIl0fEqjDwxqG"
+      "duration_ms": 142700,
+      "name": "say anything",
+      "url": "https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R\u00d8DT HVITT BL\u00c5TT",
         "url": "https://open.spotify.com/album/0CfgQBJAB8R1r1eqLkl9hJ"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 148923,
       "name": "R\u00d8DT HVITT BL\u00c5TT",
       "url": "https://open.spotify.com/track/1wVc6eYrGKDK6HJUs5wxlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 190944,
-      "name": "two queens in a king sized bed",
-      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668 likes - 159 songs - 11 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 670 likes - 159 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 | 159 | [Porgy and Bess Pt\. 1: No, No, Brother, Porgy Ain't Soft On No Woman...](https://open.spotify.com/track/4nFEmhdLvwgkC0bTiVjzve) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Milestones of Jazz Legends \- Duke Ellington and the His Vocalists, Vol\. 5](https://open.spotify.com/album/1602dgfqYNYgL15Sd2cd2h) | 6:56 |
 
-Snapshot ID: `AcgGMAAAAABSrg9xDehSGp7QTAPOjluK`
+Snapshot ID: `AcgRrAAAAADtO31Vw2SGZsfBQXM0tWhM`

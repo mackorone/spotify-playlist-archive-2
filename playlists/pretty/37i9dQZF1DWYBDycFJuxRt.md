@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: RADWIMPS\*👉 <a href="https://spice.eplus.jp/articles/349956">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,845 likes - 84 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,842 likes - 84 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 60 | [夢のまた夢](https://open.spotify.com/track/59ufKmMLUzQNbBHRJZMRxE) | [KI\_EN](https://open.spotify.com/artist/61fVCsjkagnYxQi1aWxDf5) | [夢のまた夢](https://open.spotify.com/album/2nqH4ID7WcV6S8jfyLMyLM) | 4:10 |
 | 61 | [アンリアルズ](https://open.spotify.com/track/1Dk0ir8mfxqkruXfOk7Bgq) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [アンリアルズ](https://open.spotify.com/album/1JAeFQirCOSnu6n4rPjgUe) | 2:40 |
 | 62 | [Diamond Life](https://open.spotify.com/track/07vN58b2YyJMnbSWDopS4e) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [Dreamin'](https://open.spotify.com/album/1GvHn3sAfb7Zbkj8I3yw7l) | 3:18 |
-| 63 | [Stay with me](https://open.spotify.com/track/5MraRKavq3bi8HErCTtKqw) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [ID22](https://open.spotify.com/album/2W2ZNky980inDRj2D1CUS1) | 2:22 |
+| 63 | [Stay with me](https://open.spotify.com/track/5MraRKavq3bi8HErCTtKqw) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM), [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q) | [ID22](https://open.spotify.com/album/2W2ZNky980inDRj2D1CUS1) | 2:22 |
 | 64 | [ホラゲ](https://open.spotify.com/track/6wiogsMWYbcvaQYYGc04aQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ホラゲ](https://open.spotify.com/album/5K0efqP7pZ0YfqqVlLxmgY) | 2:45 |
 | 65 | [Diver](https://open.spotify.com/track/5XrpjYH5sw0AFPKRCz8vDm) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Eye](https://open.spotify.com/artist/3zqz8Khnygbv4LJia0v0iY) | [Diver](https://open.spotify.com/album/3ieHvcedeEuTJQmzPKHS0P) | 3:20 |
 | 66 | [はぴらきちゅー](https://open.spotify.com/track/3woV99ZZQ3nzDoAdNy8zDL) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [はぴらきちゅー](https://open.spotify.com/album/1hu49P4mQXjnvsRf3TroZK) | 2:48 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 70 | [My Way](https://open.spotify.com/track/1cM2EMmrphFGcJ3ZYbzuSn) | [HIROTO \(INI\)](https://open.spotify.com/artist/4K4TI6LdTWSKtRT3b7OC7m) | [My Way](https://open.spotify.com/album/6skupR2Y3ixV0KMpnqzAAQ) | 2:34 |
 | 71 | [孤独な僕は](https://open.spotify.com/track/3TOM0kS1rFVRmTMUcc3J4R) | [SKY](https://open.spotify.com/artist/4mQFlCWkP28kdz2ac7HFuh) | [孤独な僕は](https://open.spotify.com/album/1T8wLUxzNMbJToGkuV6Kic) | 3:13 |
 | 72 | [最後の愛](https://open.spotify.com/track/1P44QutCsUTe8gfvnwHYZC) | [川西拓実](https://open.spotify.com/artist/5YSQkOdPiDaWOvSFrAwnlj) | [tomorrow](https://open.spotify.com/album/5BMqwLF9wNyU88edoCGYKx) | 3:56 |
-| 73 | [100V リリカル マジカル ※故障ではありません](https://open.spotify.com/track/41gMfglq6jt5AIbQqfAphZ) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [Sound・電機・Electronics](https://open.spotify.com/album/1BxThgrR6oLD5eKnDuIGhK) | 4:37 |
+| 73 | [100V リリカル♡マジカル ※故障ではありません](https://open.spotify.com/track/41gMfglq6jt5AIbQqfAphZ) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [Sound・電機・Electronics](https://open.spotify.com/album/1BxThgrR6oLD5eKnDuIGhK) | 4:37 |
 | 74 | [ファンファーレ](https://open.spotify.com/track/3CARvX7It0i8PaLYaw4wwb) | [esoragoto](https://open.spotify.com/artist/7EKFHbvd2xYFr0XkSLOjz6) | [Memories \#1](https://open.spotify.com/album/3tp1pW5EKYNzbMckLv1E3y) | 3:58 |
 | 75 | [Ship](https://open.spotify.com/track/2Xh68qtgDSSO8xpxcd5Vjr) | [NEI](https://open.spotify.com/artist/1TxxPD6FTYXeDfzdGDG5my), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Run, Run, Numb](https://open.spotify.com/album/4Xtq8paG2UeWqua1YdYKzI) | 3:18 |
 | 76 | [something foreign](https://open.spotify.com/track/0X19LN10CDjdum7vqm9yFA) | [ksr:3](https://open.spotify.com/artist/2TvJf1zElSYseuDf5WBGBI), [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM) | [something foreign](https://open.spotify.com/album/71KuqSdMlovKlbcTaRRHlI) | 2:49 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 83 | [kotowari](https://open.spotify.com/track/3of7jF2lw6FsJjKjlpP2Gw) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [krynX](https://open.spotify.com/artist/1py5oZLR8kK3me6CZFcaQo), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [kotowari](https://open.spotify.com/album/08NcY3KFkWjjBNxfEYZ0Zf) | 2:50 |
 | 84 | [The Sea Inside Me](https://open.spotify.com/track/4EJJA1D54gpQdDeVjxN3cu) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [The Sea Inside Me](https://open.spotify.com/album/7caCXE0Vw3WOEPFv7kOUsg) | 5:00 |
 
-Snapshot ID: `AAAAAEl45D2VKkmXsaq+3LISbup/BF9t`
+Snapshot ID: `AAAAAD4y65nlMepUYYqlXr7PUaBpWf6z`

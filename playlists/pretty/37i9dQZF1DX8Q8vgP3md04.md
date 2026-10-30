@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,025 likes - 55 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,053 likes - 55 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 54 | [Teywa](https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5) | [Aman](https://open.spotify.com/artist/10H83AFY6wbiZCiOd8guQR) | [Studio 30 Volume 1](https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61) | 3:05 |
 | 55 | [Ykomal Woy](https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 4:20 |
 
-Snapshot ID: `AAAAAOhEQMXPy34fmw8SdNWvx+2M5yap`
+Snapshot ID: `AAAAADyGjVIdNmg4udLqWxfCOcJk/fak`

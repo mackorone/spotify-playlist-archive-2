@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > boot cut, extra heavy el almidón y el sombrero que no falte\. Pepe Walker en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,505 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,479 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 124 | [Mexico Honey](https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:43 |
 | 125 | [El Ultimo Rodeo](https://open.spotify.com/track/2NS0cIKV6kSptN9Hj4VFKq) | [Los Traficantes Del Norte](https://open.spotify.com/artist/7HTFnYAjiVdJNmiYteMPdl) | [La Nave Perdida](https://open.spotify.com/album/5MT2fW8WIcX3NQ3YSLCDWc) | 2:25 |
 
-Snapshot ID: `AAAAALoC8efjZpz7Dl/J8M2x91UA3hlI`
+Snapshot ID: `AAAAANrZiqSWqhaXvjP/4i8SllYX5mBL`

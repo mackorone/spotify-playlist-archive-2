@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 226464,
       "name": "Edi Magalit Ka",
       "url": "https://open.spotify.com/track/6xcbG14O6rkLGQAzogEqic"
@@ -4301,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "Isang Tulad Mo",
+        "url": "https://open.spotify.com/album/3LSeOwRsVlU5pV32BHeMZp"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Isang Tulad Mo",
+      "url": "https://open.spotify.com/track/65WIhwtA96b2qzmxCYUqRM"
+    },
+    {
+      "album": {
         "name": "Isaoras",
         "url": "https://open.spotify.com/album/6xHImhEYUjp8j5Sqry69jK"
       },
@@ -4464,6 +4482,24 @@
       "duration_ms": 147840,
       "name": "Kahit 1 month pa lang",
       "url": "https://open.spotify.com/track/4zx0T8X11XdeyHntqRPLeX"
+    },
+    {
+      "album": {
+        "name": "Kahit Na Umulan",
+        "url": "https://open.spotify.com/album/3ox7wTdG2LreH3lsq8rSnG"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242285,
+      "name": "Kahit Na Umulan",
+      "url": "https://open.spotify.com/track/43AjF7Xceu7Jr8hH2vriS1"
     },
     {
       "album": {
@@ -11148,7 +11184,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 203218,
       "name": "Tayong Dalawa",
       "url": "https://open.spotify.com/track/0B61Xa64eghUz2GT8pw06b"

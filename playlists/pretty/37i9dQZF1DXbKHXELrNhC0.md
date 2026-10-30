@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 
 > This is Céline Dion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,971 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,064 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKHXELrNhC0.md) - [plain]
 | 49 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 |
 | 50 | [Parler à mon père](https://open.spotify.com/track/26aA4zxAPhd7LVmI21BMfB) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Sans attendre](https://open.spotify.com/album/3YDSg55oekaXGxcoO8G9Bk) | 2:53 |
 
-Snapshot ID: `AAAAABzXTDq65fc62fuyN2kHIeo/yF2/`
+Snapshot ID: `AAAAAFshSnqBiYobnqPZ8Fg7Cd7EYdcb`

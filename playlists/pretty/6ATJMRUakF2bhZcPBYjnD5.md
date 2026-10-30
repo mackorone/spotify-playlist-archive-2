@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ATJMRUakF2bhZcPBYjnD5.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/6ATJMRUakF2bhZcPBYjnD5.md) - [plain]
 | 14 | [High Enough](https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 4:47 |
 | 15 | [From A Distance](https://open.spotify.com/track/2XERGeQnNj6Huz5wGCIKMs) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Rhino Hi\-Five: Bette Midler](https://open.spotify.com/album/3mgn1ZXOltYngM0379LDHJ) | 4:36 |
 | 16 | [All The Man That I Need](https://open.spotify.com/track/3lHJkG9kcsgsfjlEH2tkxi) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 3:54 |
-| 17 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 3:09 |
+| 17 | [Right Here Right Now](https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC) | [Jesus Jones](https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw) | [Doubt](https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi) | 5:29 |
 | 18 | [I Adore Mi Amor](https://open.spotify.com/track/2IcvNE6okbSq18lajo3SYE) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [Billboard: \#1 Hits Of The 90's](https://open.spotify.com/album/3UTqjsuiNuQ9uxxXyS8qa1) | 4:51 |
 | 19 | [Love Will Never Do \(Without You\)](https://open.spotify.com/track/1SkJ8HjZUZRPYT3R2rh5sA) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:50 |
 | 20 | [Good Vibrations](https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9) | [Marky Mark And The Funky Bunch](https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV), [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Music For The People](https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ) | 4:29 |

@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 205325,
       "name": "A Mi Tierra",
       "url": "https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 224335,
       "name": "El Vallenato",
       "url": "https://open.spotify.com/track/6CwFlUUT1Wmw5YCK2M1GVf"
@@ -1814,6 +1814,24 @@
       "duration_ms": 235880,
       "name": "Ganas Locas",
       "url": "https://open.spotify.com/track/5bqpj6yxZ9OZepBkml8QGP"
+    },
+    {
+      "album": {
+        "name": "Hay Amores",
+        "url": "https://open.spotify.com/album/6iaXzhvalK3rmFvcu0Ftof"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Hay Amores",
+      "url": "https://open.spotify.com/track/6esW9v3oXe41QxiWl0Ydeo"
     },
     {
       "album": {
@@ -2328,6 +2346,28 @@
       "duration_ms": 296100,
       "name": "Los Recuerdos de Mi Ni\u00f1ez",
       "url": "https://open.spotify.com/track/2XQNesY3cSNmNse65XdMa3"
+    },
+    {
+      "album": {
+        "name": "Luchador",
+        "url": "https://open.spotify.com/album/4x79Wr6lGIOHiqOliL4bkF"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Luis Jose Villa",
+          "url": "https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237336,
+      "name": "Luchador",
+      "url": "https://open.spotify.com/track/4gh2vcEHQMLzLAYRuc4eIY"
     },
     {
       "album": {

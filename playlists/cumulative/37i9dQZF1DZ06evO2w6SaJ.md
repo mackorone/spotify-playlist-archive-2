@@ -4,7 +4,7 @@
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 4 min
+54 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Battle Cry](https://open.spotify.com/track/55vzQKI0TTZnGVqCRJWTC6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 2:48 | 2026-02-27 | 2026-03-05 |
 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 | 2024-09-17 |  |
 | [Black Cloud](https://open.spotify.com/track/0SIa8GRLXT0vKov2O45O5V) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 5:02 | 2024-09-17 | 2026-06-12 |
+| [Black Cloud \- Explicit Album Version](https://open.spotify.com/track/3415F3Hk1UlEMO1F6NnrVl) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV) | 5:02 | 2026-10-30 |  |
 | [Boom Box Gang War \- Unreleased](https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:33 | 2024-09-17 |  |
 | [Born to Raise Hell](https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [J\. Angel](https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP), [DJ Am](https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:32 | 2024-09-17 |  |
 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 | 2024-09-17 | 2026-05-18 |
@@ -42,7 +43,7 @@
 | [Lighthouse](https://open.spotify.com/track/5VVSJqGpIKPVGntd7qFUeI) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [APOCALIPS](https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH) | 3:42 | 2025-05-10 | 2025-09-05 |
 | [Lighthouse](https://open.spotify.com/track/5lwvkxtVrTn0RRAFaK2CL7) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [APOCALIPS](https://open.spotify.com/album/5OMpybxIvoGyyFHj9hCTof) | 3:42 | 2025-09-05 |  |
 | [Lollipop Porn](https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:54 | 2024-09-17 | 2026-07-03 |
-| [Lollipop Porn \- Explicit Album Version](https://open.spotify.com/track/5DFOPFAEKax83BRIJefrV6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV) | 3:54 | 2026-07-03 |  |
+| [Lollipop Porn \- Explicit Album Version](https://open.spotify.com/track/5DFOPFAEKax83BRIJefrV6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV) | 3:54 | 2026-07-03 | 2026-10-30 |
 | [Megatron](https://open.spotify.com/track/1NcZGjLqdy6EjTikupoHsf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Boondock](https://open.spotify.com/artist/2VJcsmmDtLZshqPz98C50N) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:41 | 2024-09-17 |  |
 | [Only When I'm Drunk](https://open.spotify.com/track/7DfixNv2EXmgksXmse0BXs) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 | 2024-12-11 | 2025-01-06 |
 | [Revolving Door](https://open.spotify.com/track/29BNwy4DiJbLSf796C337g) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:40 | 2024-09-17 |  |

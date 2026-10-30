@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Darshan Raval, Aditya Rikhari, AKASA and more.",
+  "description": "Latest music from Sonu Nigam, Guru Randhawa, Hansika Pareeek and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 207500,
       "name": "Ayanam - Mi Amore",
       "url": "https://open.spotify.com/track/2HD5NXN92J0hkWggGassHs"
@@ -5308,6 +5308,40 @@
       "duration_ms": 265064,
       "name": "Begana",
       "url": "https://open.spotify.com/track/5bGfwF9UalwiwJXHrDxQhe"
+    },
+    {
+      "album": {
+        "name": "Begum Bewafa",
+        "url": "https://open.spotify.com/album/65Gw1nv5mLtjqmXO2A3oRm"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Bosco Martis",
+          "url": "https://open.spotify.com/artist/5qVpAfbVV2piAEmvBN6lM3"
+        },
+        {
+          "name": "Vishie",
+          "url": "https://open.spotify.com/artist/3PzLoTHqzr7DXg9WjOfB0P"
+        },
+        {
+          "name": "Vikas Bedi",
+          "url": "https://open.spotify.com/artist/3z0eudbRd8LIgD8xdDytwR"
+        },
+        {
+          "name": "Aditya Seal",
+          "url": "https://open.spotify.com/artist/1XmlMxJ5lJczAm2OXNg7u6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205217,
+      "name": "Begum Bewafa",
+      "url": "https://open.spotify.com/track/5IhCyob5jpVIp8RyIK2AYK"
     },
     {
       "album": {
@@ -8130,7 +8164,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 136668,
       "name": "Chori Chori",
       "url": "https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU"
@@ -12307,6 +12341,24 @@
     },
     {
       "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/7vMCIWYjbgOa6S5M7mpPhf"
+      },
+      "artists": [
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191137,
+      "name": "Fidaa",
+      "url": "https://open.spotify.com/track/5aOqR3rARrphu3psXX5rfo"
+    },
+    {
+      "album": {
         "name": "filhaal",
         "url": "https://open.spotify.com/album/5HBeJ0OkBN6k8JxPODwgZ2"
       },
@@ -15006,7 +15058,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 266769,
       "name": "Hivde Ro Haar | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/1irqvsFOQElxcUdU8ekzYG"
@@ -23718,7 +23770,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 167663,
       "name": "Le Chal",
       "url": "https://open.spotify.com/track/1kUJWLNZMOGoYfZWXjmXra"
@@ -24220,6 +24272,28 @@
       "duration_ms": 262109,
       "name": "Maahi",
       "url": "https://open.spotify.com/track/2pgMykS4vRfWjCn3HBW7Sl"
+    },
+    {
+      "album": {
+        "name": "Maahi",
+        "url": "https://open.spotify.com/album/2DvSJOHVc2lZY11bwPoDUc"
+      },
+      "artists": [
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Maahi",
+      "url": "https://open.spotify.com/track/7kI2yFDNIAsZXiK5JNXWa2"
     },
     {
       "album": {
@@ -30644,7 +30718,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 206686,
       "name": "Pehli Barish",
       "url": "https://open.spotify.com/track/72I6xpXjwhzrGwahizDUkC"
@@ -31282,6 +31356,24 @@
       "duration_ms": 218109,
       "name": "Pyaar Ban Gaye",
       "url": "https://open.spotify.com/track/4hQFkJmt7bSbSxawBPWlzp"
+    },
+    {
+      "album": {
+        "name": "Pyaar Hai",
+        "url": "https://open.spotify.com/album/6LOAOEOOL2UJFE9f0SPXe4"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Pyaar Hai",
+      "url": "https://open.spotify.com/track/20NHhWIeWPQ9B9DiB0MOn1"
     },
     {
       "album": {
@@ -33266,7 +33358,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178761,
       "name": "Saa Mere",
       "url": "https://open.spotify.com/track/1Ljr3X1OGlmdbb0eCCOBPr"
@@ -36271,6 +36363,36 @@
     },
     {
       "album": {
+        "name": "SO WHAT",
+        "url": "https://open.spotify.com/album/1M9k4Fmaj46ve66NOXemaX"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "SO WHAT",
+      "url": "https://open.spotify.com/track/0PsfXX5l0miZWOssZxcI4r"
+    },
+    {
+      "album": {
         "name": "Socho",
         "url": "https://open.spotify.com/album/7oOlVtccWmt39tQJU61eLb"
       },
@@ -36634,7 +36756,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 153333,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/6JDHJPtUGGacZxwNbDI0wy"
@@ -38502,6 +38624,24 @@
       "duration_ms": 212869,
       "name": "Tere Bin Mera Haal",
       "url": "https://open.spotify.com/track/0EPnm2wKGt43fyTFGMV3zP"
+    },
+    {
+      "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/12RQyQ8XDBYDfZCCI1hnIB"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Tere Bina",
+      "url": "https://open.spotify.com/track/6WKJGC2AFo6SwDJfKXwQRM"
     },
     {
       "album": {

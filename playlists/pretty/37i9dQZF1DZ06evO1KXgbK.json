@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6651,
+  "num_followers": 6649,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABl/2lJT/GZin8TBgyPAMzy",
+  "snapshot_id": "at/pgAAAAAB9sOFVIGwsCA2TYG8mApLf",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreak Express",
-        "url": "https://open.spotify.com/album/1Tmt7x17O34uvQ14MXLycy"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Do I Ever Cross Your Mind?",
-      "url": "https://open.spotify.com/track/6A8spBZpLjC8LBPRf2TgJD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 188871,
       "name": "Two Doors Down",
       "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreak Express",
+        "url": "https://open.spotify.com/album/1Tmt7x17O34uvQ14MXLycy"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Do I Ever Cross Your Mind?",
+      "url": "https://open.spotify.com/track/6A8spBZpLjC8LBPRf2TgJD"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 311066,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 240813,
       "name": "Those Memories of You - 2015 Remaster",
       "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 311066,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4md4KRL6Z9ufa0je0Y3awL"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Sparrow",
-        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwoods Barbie",
         "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201133,
       "name": "Backwoods Barbie",
       "url": "https://open.spotify.com/track/3v0rPgO3n8nak2RbEw3JEj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Sparrow",
+        "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/6I2zoSPbRiUHfJuLmznPpF"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "The House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Is Like A Song (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 193906,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "The House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL"
     },
     {
       "added_at": null,
@@ -939,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+        "name": "Love & Fear",
+        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
       },
       "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 125106,
-      "name": "When Someone Wants to Leave",
-      "url": "https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm"
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
     }
   ],
   "unique_name": "This Is Dolly Parton",

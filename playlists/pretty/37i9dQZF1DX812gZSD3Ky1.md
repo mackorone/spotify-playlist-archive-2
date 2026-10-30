@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: GAVIN:D
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,662 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,706 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 54 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
 | 55 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 56 | [รักมักยาก \(Lover Loser\)](https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [รักมักยาก \(Lover Loser\)](https://open.spotify.com/album/6ajyFXLc6OINgs3Z4ZFKSP) | 4:13 |
-| 57 | [Baddie](https://open.spotify.com/track/4jn8qhYieA36a0fiyBqWFC) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne), [Justmine JMNK](https://open.spotify.com/artist/69MqPYz20C7qW5AiSkScRc) | [PARTYNARY](https://open.spotify.com/album/42xDykUgtEuRgf8PlsS3v0) | 2:29 |
+| 57 | [Baddie](https://open.spotify.com/track/4jn8qhYieA36a0fiyBqWFC) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne), [Justmine Malimarisar](https://open.spotify.com/artist/362YIyKCEtenPpGTnWGkZp) | [PARTYNARY](https://open.spotify.com/album/42xDykUgtEuRgf8PlsS3v0) | 2:29 |
 | 58 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
 | 59 | [นอนนี่ \(Zzz.\) \- Bonus Track](https://open.spotify.com/track/1gyGLofOECzdg9t8X3s78C) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [MUON](https://open.spotify.com/artist/0d1vrnqp46IM9Tz6E88PtU) | [นอนนี่ \(Zzz.\) \[Bonus Track\]](https://open.spotify.com/album/1x1qL65pIRqDQ5k8Et6aT9) | 3:08 |
 | 60 | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ), [KHEM FREEHAND](https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN) | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI) | 4:08 |
 | 75 | [The One That Got Away](https://open.spotify.com/track/4ZXYHN8YsbMALXZdGWzKZU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Thinking of The One That Got Away](https://open.spotify.com/album/6WEro8v298l2vOhzUNHYgL) | 3:47 |
 
-Snapshot ID: `AAAAAO1EDaQu7a/tLc+Zk4PVcx6WW0Ls`
+Snapshot ID: `AAAAAGPOvvNs+iSNWYzFoiY++faYL8GJ`

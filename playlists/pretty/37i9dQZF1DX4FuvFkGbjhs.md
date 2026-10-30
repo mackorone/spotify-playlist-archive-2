@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Fine
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,448 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,424 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [Howl](https://open.spotify.com/track/00ZOnzSIZXvO07SeVtxZdq) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Howl](https://open.spotify.com/album/6jigyjKRyswdih6yL5JoNs) | 3:03 |
 | 80 | [Zeppelin](https://open.spotify.com/track/5GskDjVo667ql2CNZA2GbJ) | [Petra](https://open.spotify.com/artist/2TY5w00pKl0LDL4VGdzaHd) | [Zeppelin](https://open.spotify.com/album/6OBRm5wtQ45ywu2oy0Y44E) | 3:47 |
 
-Snapshot ID: `AAAAAEQ6OpQOMRsEnjSqAyiW8PXriI0S`
+Snapshot ID: `AAAAAA0XROwYKBD8DH/qNjqYpjTtvJ2w`

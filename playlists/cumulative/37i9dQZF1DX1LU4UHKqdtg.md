@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: IVE
 
-1,853 songs - 4 day 1 hr 16 min
+1,854 songs - 4 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1371,6 +1371,7 @@
 | [Sky Walking](https://open.spotify.com/track/0SJzs1VTchEROi7Jvf8uEV) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/1G5VpC9ZzdG1jDm1xqjfGy) | 4:12 | 2025-08-28 | 2025-10-29 |
 | [SLASH \(From Deadpool & Wolverine \)](https://open.spotify.com/track/4vzgKCxeHecT98TgQQN0qM) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From Deadpool & Wolverine \)](https://open.spotify.com/album/4saEL9wBL0FnOTR1Rsjts5) | 3:11 | 2024-07-23 | 2024-11-02 |
 | [Sleepless Lullaby](https://open.spotify.com/track/6VgWr8IGXAdMkXwlvljoFf) | [RealRomantic](https://open.spotify.com/artist/1sj2O1MeEixBNaYH8Zsc3u) | [Sleepless Lullaby](https://open.spotify.com/album/3XWn5s1KA7Av3IRNSmYslS) | 3:05 | 2025-03-06 | 2025-04-21 |
+| [Slidin](https://open.spotify.com/track/2wNsXxFKjKfiffzEK1RHqs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Slidin](https://open.spotify.com/album/3nSlGw0nRjALQMGVrvFxew) | 2:39 | 2026-10-29 |  |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-08 | 2023-12-20 |
 | [Slow Dancing \(FRNK Remix\)](https://open.spotify.com/track/6mSCY4xjKyt5xLlgOXXHSk) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [FRNK](https://open.spotify.com/artist/6rI2O8GMY9k1JYDDWkD0a8) | [Slow Dancing \(Remixes\)](https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K) | 2:49 | 2023-10-23 | 2023-11-29 |
 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 | 2024-03-12 | 2024-05-24 |

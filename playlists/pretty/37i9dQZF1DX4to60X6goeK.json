@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77108,
+  "num_followers": 77129,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkznjEvOehh5fsct8tEAiA3qj6k",
+  "snapshot_id": "AAAAAFRW+dH+seDXIuhuYPwRnfcwftWG",
   "tracks": [
     {
       "added_at": "2026-10-22 23:00:31",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Cigarette",
-        "url": "https://open.spotify.com/album/4t4NGhv3ws51s50LFD4ayG"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Entity",
-          "url": "https://open.spotify.com/artist/5L8dqEpUKv5tG6ut6BLa1t"
-        }
-      ],
-      "duration_ms": 139310,
-      "name": "Cigarette",
-      "url": "https://open.spotify.com/track/5WxvNw9tY5MttliFP6LRVG"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "DRACULA",
         "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 182400,
       "name": "DRACULA",
       "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/4t4NGhv3ws51s50LFD4ayG"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Entity",
+          "url": "https://open.spotify.com/artist/5L8dqEpUKv5tG6ut6BLa1t"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/5WxvNw9tY5MttliFP6LRVG"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 183085,
-      "name": "High Energy",
-      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "BODY DROP (Won't Stop)",
         "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 224914,
       "name": "BODY DROP (Won't Stop)",
       "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "CLOSE2U",
-        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 224657,
-      "name": "CLOSE2U",
-      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Sientelo (Sota & Circadian Remix)",
         "url": "https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 237257,
       "name": "Sientelo - Sota & Circadian Remix",
       "url": "https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "CLOSE2U",
+        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 224657,
+      "name": "CLOSE2U",
+      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Holy Moly (VIP)",
-        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 253793,
-      "name": "Holy Moly - VIP",
-      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -811,50 +795,6 @@
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
-        }
-      ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "OH YEAH",
-        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
-      },
-      "artists": [
-        {
-          "name": "Killer Hertz",
-          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
-        },
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        }
-      ],
-      "duration_ms": 227657,
-      "name": "OH YEAH",
-      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -879,6 +819,42 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Holy Moly (VIP)",
+        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "Holy Moly - VIP",
+      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+        }
+      ],
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Rhythm & Gash VIP",
         "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 164571,
       "name": "Rhythm & Gash VIP",
       "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "OH YEAH",
+        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
+      },
+      "artists": [
+        {
+          "name": "Killer Hertz",
+          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
+        },
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        }
+      ],
+      "duration_ms": 227657,
+      "name": "OH YEAH",
+      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Outta Order",
-        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 235885,
-      "name": "Outta Order",
-      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Left 2 Right",
         "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 161379,
       "name": "Vandal",
       "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
     },
     {
       "added_at": "2026-10-22 23:00:31",

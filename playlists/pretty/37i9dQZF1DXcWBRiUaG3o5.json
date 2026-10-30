@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1105228,
+  "num_followers": 1104976,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjoNbYybMqrEO/Bo2GjUXFutJjR",
+  "snapshot_id": "AAAAAIZXJwlUKWzytJ2ldhftrttUePU8",
   "tracks": [
     {
       "added_at": "2024-08-23 15:12:14",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Haven (from Life Is Strange)",
         "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 172500,
       "name": "Haven (from Life Is Strange)",
       "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Last Line",
-        "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "White Frost (Acoustic)",
         "url": "https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 205482,
       "name": "White Frost (Acoustic)",
       "url": "https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Last Line",
+        "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Patchwork Heart",
-        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
-      },
-      "artists": [
-        {
-          "name": "Justin Wade Tam",
-          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
-        }
-      ],
-      "duration_ms": 239152,
-      "name": "Patchwork Heart",
-      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Mary Glenn",
-        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+        "name": "Patchwork Heart",
+        "url": "https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk"
       },
       "artists": [
         {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+          "name": "Justin Wade Tam",
+          "url": "https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Ballroom",
-      "url": "https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2"
+      "duration_ms": 239152,
+      "name": "Patchwork Heart",
+      "url": "https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -875,6 +859,22 @@
       "duration_ms": 252640,
       "name": "I Should Live in Salt - The National Cover - Live from Spotify, London",
       "url": "https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Mary Glenn",
+        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Ballroom",
+      "url": "https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Adaptations",
-        "url": "https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 206015,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 216750,
       "name": "The Last Time I Saw Adrianne",
       "url": "https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Adaptations",
+        "url": "https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 206015,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Little Giant",
-        "url": "https://open.spotify.com/album/3FCtsJuZCiozE6mV2Bgjfc"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Tiger Striped Sky",
-      "url": "https://open.spotify.com/track/7GaolPg6f0qNwZPDXSriR0"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Famous Men",
         "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 250399,
       "name": "The Bride & The Bachelor",
       "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3FCtsJuZCiozE6mV2Bgjfc"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/7GaolPg6f0qNwZPDXSriR0"
     },
     {
       "added_at": "2024-08-23 15:12:14",

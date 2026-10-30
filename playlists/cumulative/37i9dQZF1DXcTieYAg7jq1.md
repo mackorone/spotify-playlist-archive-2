@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Bebe Stockwell
 
-614 songs - 1 day 10 hr 35 min
+615 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 | 2026-04-10 |  |
 | [Mr\. Right Now](https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC) | [tig3r lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mr\. Right Now](https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y) | 2:33 | 2026-03-13 | 2026-07-11 |
 | [Mrs\. Kisses](https://open.spotify.com/track/559GqhUeuXY8tKdVXMSMpT) | [tig3r lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mrs\. Kisses](https://open.spotify.com/album/1qbnghY7L0MQhGSxBxm2Mb) | 3:12 | 2026-06-05 | 2026-07-11 |
-| [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 | 2025-11-21 |  |
+| [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 | 2025-11-21 | 2026-10-30 |
 | [My Game](https://open.spotify.com/track/7yAXpAYFiPqKzyi86xXbLQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [My Game](https://open.spotify.com/album/6GLUWw271MCvjhDcp7sd31) | 3:30 | 2021-12-03 | 2022-04-18 |
 | [My Love](https://open.spotify.com/track/1EQzwySOz9MxpbPIhzj5Mh) | [Caitlin Byk](https://open.spotify.com/artist/7HYi0cSMn8CBtilz99bXin) | [My Love](https://open.spotify.com/album/2KTiBISlejXB7O09ct1Uga) | 4:08 | 2026-08-14 |  |
 | [My Tragic Love Story](https://open.spotify.com/track/6fIkgdMrq2OzoHKcpEYO8z) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [My Tragic Love Story](https://open.spotify.com/album/7gBAcyjxQLSIWvfgha6KYx) | 3:18 | 2026-06-26 |  |
@@ -504,6 +504,7 @@
 | [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 | 2025-08-15 | 2026-05-30 |
 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 | 2022-08-26 | 2022-10-31 |
 | [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 | 2022-08-26 | 2023-02-16 |
+| [Something Kinda Strange](https://open.spotify.com/track/5VOLcjt7HsECg5lER5XTAx) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Something Kinda Strange](https://open.spotify.com/album/00V5FnlwyJVDGIDgL6mJVm) | 2:58 | 2026-10-30 |  |
 | [something like this](https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [something like this](https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR) | 2:49 | 2025-09-12 |  |
 | [Something Special](https://open.spotify.com/track/2217ssMvgWOyaZmvTWP9IA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Something Special](https://open.spotify.com/album/1jZ8YbczykhDOgMH8MTzT9) | 2:30 | 2021-12-03 | 2022-07-29 |
 | [Song About You](https://open.spotify.com/track/5pqabyi7lNdgzQ2VEMPbSJ) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Song About You](https://open.spotify.com/album/73zMN2VGr18vJ31eg1jWnx) | 3:56 | 2024-03-15 | 2025-10-11 |

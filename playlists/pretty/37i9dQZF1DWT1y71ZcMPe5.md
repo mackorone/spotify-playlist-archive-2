@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,185,137 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,184,301 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [World's Greatest!](https://open.spotify.com/track/5U1ekX3gtDjqIsJ9Ves4cT) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [World's Greatest!](https://open.spotify.com/album/4cEt3Sgt7LFAet0bAJ7W6A) | 3:50 |
 | 50 | [Circles](https://open.spotify.com/track/6DoHoYQW6EU025KNaYv1pt) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Circles](https://open.spotify.com/album/4ZSp3gQY0ElVpIar7cMgfR) | 3:52 |
 
-Snapshot ID: `AAAAAMdd1Kt9eGb05xQT3ZO3W9cwrQmz`
+Snapshot ID: `AAAAAIN9L86wMB933gK+eN+FzS8Fy/30`

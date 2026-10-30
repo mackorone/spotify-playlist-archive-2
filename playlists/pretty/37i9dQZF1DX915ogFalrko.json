@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188556,
+  "num_followers": 188575,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGDgxNgyShmRHy7ix/z0zx1gyTlc",
+  "snapshot_id": "AAAAALAHEp3HmXfszyajC/avUg+45M5R",
   "tracks": [
     {
       "added_at": "2026-10-23 14:20:20",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 300666,
       "name": "Come and Get Your Love",
       "url": "https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6YDXIYzh182auw0avklzbq"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 194431,
+      "name": "Dance It Out",
+      "url": "https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
         "name": "Two of Diamonds",
         "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
       },
@@ -791,6 +807,22 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
+        "name": "Flor de canela",
+        "url": "https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 229280,
+      "name": "Flor de canela",
+      "url": "https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -811,18 +843,18 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6YDXIYzh182auw0avklzbq"
+        "name": "Real!",
+        "url": "https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Dream Boat",
+          "url": "https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940"
         }
       ],
-      "duration_ms": 194431,
-      "name": "Dance It Out",
-      "url": "https://open.spotify.com/track/1TZngJL0DBk2i13ESMiDBQ"
+      "duration_ms": 178581,
+      "name": "Real!",
+      "url": "https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -859,22 +891,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Real!",
-        "url": "https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG"
-      },
-      "artists": [
-        {
-          "name": "Dream Boat",
-          "url": "https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940"
-        }
-      ],
-      "duration_ms": 178581,
-      "name": "Real!",
-      "url": "https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
-        "name": "Flor de canela",
-        "url": "https://open.spotify.com/album/3kJbxVlwtM3VELeSFzeevg"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 229280,
-      "name": "Flor de canela",
-      "url": "https://open.spotify.com/track/7LYgPSU65SUgWju5fsF6GG"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 250600,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+        "name": "Same Old Game",
+        "url": "https://open.spotify.com/album/4veOrtelXSE4JncGgA2FKK"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+      "duration_ms": 164720,
+      "name": "Same Old Game",
+      "url": "https://open.spotify.com/track/5NWGBbsGm0NmWfB8ipByzA"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1151,22 +1167,6 @@
       "duration_ms": 282765,
       "name": "Sua Alma",
       "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
-        "name": "Same Old Game",
-        "url": "https://open.spotify.com/album/4veOrtelXSE4JncGgA2FKK"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 164720,
-      "name": "Same Old Game",
-      "url": "https://open.spotify.com/track/5NWGBbsGm0NmWfB8ipByzA"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Polaro\u00efds",
-        "url": "https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl"
+        "name": "I try my best",
+        "url": "https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS"
       },
       "artists": [
         {
-          "name": "Lescop",
-          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
-        },
-        {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+          "name": "Lou Doillon",
+          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
         }
       ],
-      "duration_ms": 193213,
-      "name": "Polaro\u00efds",
-      "url": "https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ"
+      "duration_ms": 229714,
+      "name": "I try my best",
+      "url": "https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Goanna",
-        "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
+        "name": "Polaro\u00efds",
+        "url": "https://open.spotify.com/album/68njeIGDJzBKotnUzAXBVl"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        },
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
         }
       ],
-      "duration_ms": 179823,
-      "name": "Goanna",
-      "url": "https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7"
+      "duration_ms": 193213,
+      "name": "Polaro\u00efds",
+      "url": "https://open.spotify.com/track/0ZJ2ZHD0KWc5lVGqwdg0rJ"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
+        "name": "Go For The Other Side",
+        "url": "https://open.spotify.com/album/47W7mP5qdbJuR7NAcgccgl"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Go For The Other Side",
+      "url": "https://open.spotify.com/track/4i7ZRojYjzCNi2a3lpzfhs"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
         "name": "Latino Triste",
         "url": "https://open.spotify.com/album/2QPYqGaUgs6zmNXy0a1l3F"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "I try my best",
-        "url": "https://open.spotify.com/album/0UJDFChpZ63MFtbIuQHoCS"
+        "name": "Goanna",
+        "url": "https://open.spotify.com/album/3WK8szrOf9AHVBuBJyPjmg"
       },
       "artists": [
         {
-          "name": "Lou Doillon",
-          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
         }
       ],
-      "duration_ms": 229714,
-      "name": "I try my best",
-      "url": "https://open.spotify.com/track/5OLopWFCNIqtYuW6UYUdwj"
+      "duration_ms": 179823,
+      "name": "Goanna",
+      "url": "https://open.spotify.com/track/1WlbrsIoyEIaEEXLRZohp7"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1451,22 +1467,6 @@
       "duration_ms": 152062,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
-        "name": "Go For The Other Side",
-        "url": "https://open.spotify.com/album/47W7mP5qdbJuR7NAcgccgl"
-      },
-      "artists": [
-        {
-          "name": "Golf Trip",
-          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Go For The Other Side",
-      "url": "https://open.spotify.com/track/4i7ZRojYjzCNi2a3lpzfhs"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "San Francisco",
-        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 231425,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "idole",
         "url": "https://open.spotify.com/album/4QfPMWmVaTENkTFrmA6Gzi"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "San Francisco",
+        "url": "https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 231425,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr"
     },
     {
       "added_at": "2026-10-23 14:20:20",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-10-23 14:20:20",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 226534,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
-    },
-    {
-      "added_at": "2026-10-23 14:20:20",
-      "album": {
         "name": "Too High",
         "url": "https://open.spotify.com/album/2ReD4xaHjWDIsGvZoUfdgb"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 159807,
       "name": "END OF THE SKY",
       "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+    },
+    {
+      "added_at": "2026-10-23 14:20:20",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 226534,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
     },
     {
       "added_at": "2026-10-23 14:20:20",

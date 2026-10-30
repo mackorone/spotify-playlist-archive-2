@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Lambrini Girls",
+  "description": "The best rock songs of the moment. Cover: Nickelback",
   "name": "Rock Now",
   "tracks": [
     {
@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "In The Hollow",
+        "url": "https://open.spotify.com/album/7dR5ParwNZxaMbzPJGTMaM"
+      },
+      "artists": [
+        {
+          "name": "Bad Waitress",
+          "url": "https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209972,
+      "name": "45",
+      "url": "https://open.spotify.com/track/13fZdEPd81y0hZN2NOWL3F"
+    },
+    {
+      "album": {
         "name": "4:44",
         "url": "https://open.spotify.com/album/5h07EXG1aajWczgFopJWvZ"
       },
@@ -324,7 +342,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 227820,
       "name": "4:44",
       "url": "https://open.spotify.com/track/4wolaaQd4beTvy82eFjqmS"
@@ -580,7 +598,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 246899,
       "name": "A Different Kind of Happiness",
       "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 221489,
       "name": "Arsenal",
       "url": "https://open.spotify.com/track/3QEglzrnBHZg2yVGlo3G5j"
@@ -6299,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Awesome",
+        "url": "https://open.spotify.com/album/57oQdezrz5wZM4nAJBVqmj"
+      },
+      "artists": [
+        {
+          "name": "Heathers",
+          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/787iEwjOYLfWLqHubGDyYR"
+    },
+    {
+      "album": {
         "name": "The Plot In You",
         "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
       },
@@ -7847,6 +7883,24 @@
     },
     {
       "album": {
+        "name": "Crownbreaker",
+        "url": "https://open.spotify.com/album/0rjxF7zHbvBTvyrngMbT1i"
+      },
+      "artists": [
+        {
+          "name": "Sierra Pilot",
+          "url": "https://open.spotify.com/artist/5TEUn6N83JzMY17QPa2Wfz"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Crownbreaker",
+      "url": "https://open.spotify.com/track/3Snb7iUSoI6vcdl5kYEOE8"
+    },
+    {
+      "album": {
         "name": "The Sweet Goodbye",
         "url": "https://open.spotify.com/album/1BX2CLG8MBglhD83tVUJvL"
       },
@@ -8247,6 +8301,24 @@
     },
     {
       "album": {
+        "name": "Always Watching",
+        "url": "https://open.spotify.com/album/19UAWMmopYUzFgj5IyszBQ"
+      },
+      "artists": [
+        {
+          "name": "Shiv and the Carvers",
+          "url": "https://open.spotify.com/artist/5FHs2oBdvd7FDLMIQ6ji06"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Daddy's Always Watching",
+      "url": "https://open.spotify.com/track/6M931xdkh5NHQdZQabYHXt"
+    },
+    {
+      "album": {
         "name": "Daddy's Coming Home",
         "url": "https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1"
       },
@@ -8392,6 +8464,24 @@
       "duration_ms": 187676,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS"
+    },
+    {
+      "album": {
+        "name": "ZIRP!",
+        "url": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243105,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/7hXHa6zkI2g4UEe5LEN3fE"
     },
     {
       "album": {
@@ -9196,7 +9286,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 217206,
       "name": "Devout",
       "url": "https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs"
@@ -9362,7 +9452,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 231979,
       "name": "Disappear Here",
       "url": "https://open.spotify.com/track/4yyq8j5Isqyas6ygj4hd0r"
@@ -10410,7 +10500,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 234276,
       "name": "Dying In Reverse",
       "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
@@ -10572,7 +10662,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 234218,
       "name": "easy rider",
       "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
@@ -13230,7 +13320,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 214461,
       "name": "french kids",
       "url": "https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor"
@@ -14230,6 +14320,24 @@
       "duration_ms": 189842,
       "name": "GOD SAVE THE PONY.",
       "url": "https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864"
+    },
+    {
+      "album": {
+        "name": "God Will Control The Werewolves",
+        "url": "https://open.spotify.com/album/5lLQpUdXL0WMzygm6OqSXf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261497,
+      "name": "God Will Control The Werewolves",
+      "url": "https://open.spotify.com/track/63hixy83eOlSRb4JFnmnpg"
     },
     {
       "album": {
@@ -17095,6 +17203,24 @@
     },
     {
       "album": {
+        "name": "I don\u2019t want to fall in love",
+        "url": "https://open.spotify.com/album/6nObkiIzpgeMgQiQxsS7Gl"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "I don\u2019t want to fall in love",
+      "url": "https://open.spotify.com/track/5oI4fVw2iCZQlWxD85hly8"
+    },
+    {
+      "album": {
         "name": "Motel Du Cap",
         "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
       },
@@ -17160,7 +17286,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 155555,
       "name": "I Found a River",
       "url": "https://open.spotify.com/track/5tYFDiCbYmdNJMDr7qccJ7"
@@ -17553,6 +17679,24 @@
     },
     {
       "album": {
+        "name": "you made me / skin on linen",
+        "url": "https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN"
+      },
+      "artists": [
+        {
+          "name": "PISS",
+          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160435,
+      "name": "i wanted to be a singer",
+      "url": "https://open.spotify.com/track/39yGQhkMG9tQ4kd6wueLQK"
+    },
+    {
+      "album": {
         "name": "I Was Ill, You Were Wrong",
         "url": "https://open.spotify.com/album/3GOC1jdseQ1c4OEfTBvk7I"
       },
@@ -17788,6 +17932,24 @@
       "duration_ms": 396293,
       "name": "If Darkness Had a Son",
       "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
+    },
+    {
+      "album": {
+        "name": "Everything Under The Sun",
+        "url": "https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213624,
+      "name": "If I Don't Go",
+      "url": "https://open.spotify.com/track/5XXXFERLsHPaaO4TI4KC8b"
     },
     {
       "album": {
@@ -20017,6 +20179,24 @@
     },
     {
       "album": {
+        "name": "Lake Ontario",
+        "url": "https://open.spotify.com/album/6z0y7JVqs7hL7hm8ZQbHJU"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178352,
+      "name": "Lake Ontario",
+      "url": "https://open.spotify.com/track/5oCTpUSu18fKYHfRIsgX6d"
+    },
+    {
+      "album": {
         "name": "lamb (feat. Kellin Quinn)",
         "url": "https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP"
       },
@@ -20032,7 +20212,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 144906,
       "name": "lamb (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml"
@@ -23886,7 +24066,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 256024,
       "name": "Mourning",
       "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
@@ -24316,7 +24496,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 247694,
       "name": "My Whole World",
       "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
@@ -24732,6 +24912,24 @@
       "duration_ms": 167109,
       "name": "Never Learned",
       "url": "https://open.spotify.com/track/3gonMuZGs7azinX3kYcG6E"
+    },
+    {
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/0Otsjsv1DoFGwcmEzVk31D"
+      },
+      "artists": [
+        {
+          "name": "In Color",
+          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230275,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6dKm9TPP9w9UQ6Yb8zfPWc"
     },
     {
       "album": {
@@ -27445,6 +27643,24 @@
     },
     {
       "album": {
+        "name": "PERFECT PRISON",
+        "url": "https://open.spotify.com/album/1olZUSra9CnexcQgsFZTsZ"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Perfect Prison",
+      "url": "https://open.spotify.com/track/7wggaAzPEeSHsZgsog98kT"
+    },
+    {
+      "album": {
         "name": "Perfect Soul",
         "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
       },
@@ -28737,6 +28953,24 @@
     },
     {
       "album": {
+        "name": "Reckless Attitude",
+        "url": "https://open.spotify.com/album/6DjsqpQ34YdWYOsYNYlLCS"
+      },
+      "artists": [
+        {
+          "name": "Ebril",
+          "url": "https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Reckless Attitude",
+      "url": "https://open.spotify.com/track/44Z18Nfxz3C3Pc8ConXFss"
+    },
+    {
+      "album": {
         "name": "Still Anyways",
         "url": "https://open.spotify.com/album/0NgscBgLlBhCxpVhUJjbXA"
       },
@@ -29326,7 +29560,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 179232,
       "name": "Rings Of Saturn",
       "url": "https://open.spotify.com/track/2nh2i8stFugX5PeT4MUavZ"
@@ -29756,6 +29990,24 @@
       "duration_ms": 177701,
       "name": "Run",
       "url": "https://open.spotify.com/track/5UkIKoF94HoH6shIbyWP3O"
+    },
+    {
+      "album": {
+        "name": "Perfecth",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Run Away From the Mob",
+      "url": "https://open.spotify.com/track/7zRC0N2InIb6GPP67gSD4L"
     },
     {
       "album": {
@@ -30964,7 +31216,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 219218,
       "name": "Sheer Will",
       "url": "https://open.spotify.com/track/30HopKeFxDp8e22OJZvL41"
@@ -35025,6 +35277,24 @@
     },
     {
       "album": {
+        "name": "The Burial",
+        "url": "https://open.spotify.com/album/4o2IZfSZRelycjwiog3MQ7"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202484,
+      "name": "The Burial",
+      "url": "https://open.spotify.com/track/6dxuWgHFHlg3FkQMckQw41"
+    },
+    {
+      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC"
       },
@@ -35508,6 +35778,24 @@
       "duration_ms": 244216,
       "name": "The Indigo Streak",
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+    },
+    {
+      "album": {
+        "name": "What's In Between",
+        "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222761,
+      "name": "The Intersection",
+      "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
     },
     {
       "album": {
@@ -39914,7 +40202,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 159430,
       "name": "what's up",
       "url": "https://open.spotify.com/track/5Fq0OuIRjw6sDWojjTwYTF"
@@ -40080,7 +40368,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 112984,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
@@ -40426,7 +40714,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 314733,
       "name": "Who's That",
       "url": "https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6"

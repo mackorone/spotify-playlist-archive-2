@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Pato Shoucair, BELCAST y Vela Beats en portada.",
-  "num_followers": 75096,
+  "num_followers": 75119,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKK2z0aWgqLEJtWNfhtFFMulo4de",
+  "snapshot_id": "AAAAANSwdP76McDRRZn9jAWuI2PP9CYX",
   "tracks": [
     {
       "added_at": "2026-10-23 06:00:41",
@@ -1483,6 +1483,30 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "ESTAMOS READY",
+        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 214846,
+      "name": "ESTAMOS READY",
+      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Corazon de Melon",
         "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
       },
@@ -1543,30 +1567,6 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
-        "name": "ESTAMOS READY",
-        "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 214846,
-      "name": "ESTAMOS READY",
-      "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
         "name": "SUSTANCIAS",
         "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
       },
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2026-10-23 06:00:41",
       "album": {
+        "name": "Living on Video (The Wookies Remix)",
+        "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Trans-X",
+          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
+        }
+      ],
+      "duration_ms": 338181,
+      "name": "Living on Video - The Wookies Remix",
+      "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
+    },
+    {
+      "added_at": "2026-10-23 06:00:41",
+      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
-    },
-    {
-      "added_at": "2026-10-23 06:00:41",
-      "album": {
-        "name": "Living on Video (The Wookies Remix)",
-        "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Trans-X",
-          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
-        }
-      ],
-      "duration_ms": 338181,
-      "name": "Living on Video - The Wookies Remix",
-      "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
     },
     {
       "added_at": "2026-10-23 06:00:41",

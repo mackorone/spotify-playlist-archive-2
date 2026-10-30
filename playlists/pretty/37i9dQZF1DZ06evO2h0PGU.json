@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 55569,
+  "num_followers": 55648,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABh1va/Qb6P9ImIBq0Wg3K4",
+  "snapshot_id": "at/pgAAAAADwoS2BG6d8FemMJHc5pgg0",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Morning Music: Wake Up Workout",
+        "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heads Will Roll (A-Trak Remix)",
-        "url": "https://open.spotify.com/album/4IZSrYZHALLavs8TTndGiV"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 383893,
-      "name": "Heads Will Roll - A-Trak Remix",
-      "url": "https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u"
     },
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Y Control",
-      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 233106,
       "name": "Soft Shock",
       "url": "https://open.spotify.com/track/3fXx53m03IKoS5bRq3Xfq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Y Control",
+      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 155320,
-      "name": "Date With The Night",
-      "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 265786,
       "name": "Zero",
       "url": "https://open.spotify.com/track/5mfA2CBzQeGiTk9wFItCsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 155320,
+      "name": "Date With The Night",
+      "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 120080,
-      "name": "Pin",
-      "url": "https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 230346,
       "name": "Hysteric",
       "url": "https://open.spotify.com/track/3zH9RnVnw2v4TemWU5j6Qz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 120080,
+      "name": "Pin",
+      "url": "https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 302160,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Black Tongue",
-      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 288546,
       "name": "Despair",
       "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 212880,
       "name": "Faces",
       "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yeah Yeah Yeahs",
+        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Allisha Gray
 
 953 songs - 2 day 0 hr 13 min
 

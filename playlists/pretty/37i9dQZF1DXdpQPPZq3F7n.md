@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,109 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,058 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Chand Mera Dil \- Title Track](https://open.spotify.com/track/7GQB2CWQcahCLCCNQHKWXM) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Chand Mera Dil \(Title Track\)](https://open.spotify.com/album/1ttzMgG7D1bPl2adfo1lbD) | 4:40 |
 | 75 | [Mashooqa \- From “Cocktail 2”](https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Mashooqa \(From “Cocktail 2”\)](https://open.spotify.com/album/6HfFAzpYVSb6z0cWQDPwac) | 3:50 |
 
-Snapshot ID: `AAAAAJngnzf3uVZASFDakj50tn11lBj8`
+Snapshot ID: `AAAAAGDtZGHXE1NYtr3207o0OVwIo/L5`

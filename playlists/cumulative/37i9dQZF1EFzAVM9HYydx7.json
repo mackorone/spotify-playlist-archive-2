@@ -3076,10 +3076,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 157492,
       "name": "It's Better This Way",
       "url": "https://open.spotify.com/track/1bNOdjMdGUH59zsWl93IEu"
+    },
+    {
+      "album": {
+        "name": "Don't Let Them See You Cry",
+        "url": "https://open.spotify.com/album/6jygGgoXluhvMHaKIN8mSm"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157492,
+      "name": "It's Better This Way",
+      "url": "https://open.spotify.com/track/4YYftQEfAmpCB7KnmSibgT"
     },
     {
       "album": {

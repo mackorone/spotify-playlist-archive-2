@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41982,
+  "num_followers": 41994,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAC/ecN1rqm8PT9ESP34fs4k",
+  "snapshot_id": "at/pgAAAAAABmBiya0bmAqE+Zb1RgU0/",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 513870,
+      "name": "Dios de Maravillas",
+      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 633065,
       "name": "C\u00f3mo No Voy A Creer",
       "url": "https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 513870,
-      "name": "Dios de Maravillas",
-      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
     },
     {
       "added_at": null,

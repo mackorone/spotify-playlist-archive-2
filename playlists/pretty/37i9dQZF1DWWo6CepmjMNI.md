@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: HAPPILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,235 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,236 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [ลืมยังไง? \(Hyperthymesia\)](https://open.spotify.com/track/31xpI8YYRCPxb1QQtkO2V0) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ลืมยังไง? \(Hyperthymesia\)](https://open.spotify.com/album/6D3apcHYZqc5t3ZLHkqXt6) | 3:54 |
 | 50 | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/track/1Xpp5yTaFEzLtPrITfIMdd) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/album/4AkJbg6p4uzfChGRwyklWd) | 7:09 |
 
-Snapshot ID: `AAAAAMrThVmilj2MuSZbQPENJdZPWqAw`
+Snapshot ID: `AAAAADvWVnUIpfE5xuxiJ3uZYqkFUSa2`

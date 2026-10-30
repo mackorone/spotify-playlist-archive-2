@@ -106,6 +106,6 @@
 | [Una y Otra Vez](https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una y Otra Vez](https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT) | 3:02 | 2026-01-25 | 2026-04-01 |
 | [Una y Otra Vez](https://open.spotify.com/track/1Z28QAPlOTpySPJMhXZPEj) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K de Karma](https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc) | 3:02 | 2026-05-23 |  |
 | [VIP](https://open.spotify.com/track/62hsumOu5s9hUJ3yQK40R7) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:07 | 2024-04-27 | 2025-01-02 |
-| [¿Qué Pasa?](https://open.spotify.com/track/15YOpXrOUn6BuWiMPhJ6Ki) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:42 | 2023-12-18 | 2024-04-28 |
+| [¿Qué Pasa?](https://open.spotify.com/track/15YOpXrOUn6BuWiMPhJ6Ki) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:42 | 2023-12-18 |  |
 
 \*This playlist was first scraped on 2023-12-19. Prior content cannot be recovered.

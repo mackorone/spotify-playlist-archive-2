@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,210 likes - 181 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,376 likes - 181 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 180 | [A Quiet Sky of Birds](https://open.spotify.com/track/0DH8nMEuh6eBBJlNNCby5X) | [Veldt Echoes](https://open.spotify.com/artist/1pKgi9vX4GjRUTo6tSt0Fd) | [A Quiet Sky of Birds](https://open.spotify.com/album/2PwyTtWXQ3KR8F5D7ZfZRQ) | 2:38 |
 | 181 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 |
 
-Snapshot ID: `AAAAACBhkOKarzYAnQ7tXU3nKmTkSSRn`
+Snapshot ID: `AAAAAGZ2LNt6etfEkl5G27qQKxVZ8I+a`

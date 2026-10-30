@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Arabs In Aspic, The Inklings, Sanguine and more",
+  "description": "With Sanguine, The Inklings, Bad Scullianz and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 247073,
       "name": "Adj\u00f8",
       "url": "https://open.spotify.com/track/6KDEqsx3lb25sDcJ4C8Wzp"
@@ -832,7 +832,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 207706,
       "name": "And Bring It Down Again",
       "url": "https://open.spotify.com/track/5OnuEoQFPNQoNV5teFaxyT"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 570053,
       "name": "Avgrunnen Kaller",
       "url": "https://open.spotify.com/track/0FjBG3Oa6LOBLOAg23mxnF"
@@ -1500,6 +1500,24 @@
       "duration_ms": 190281,
       "name": "Becoming God of Nothing",
       "url": "https://open.spotify.com/track/1CtOuHOoXVcCTsSvf8gUB0"
+    },
+    {
+      "album": {
+        "name": "Whiskey N' Rye",
+        "url": "https://open.spotify.com/album/6MmbclmS10u3GVE8rtyE8b"
+      },
+      "artists": [
+        {
+          "name": "Whiskey N' Rye",
+          "url": "https://open.spotify.com/artist/7LerS7F5PdnD2ytugx80Ih"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157866,
+      "name": "Before the Cock Crows",
+      "url": "https://open.spotify.com/track/3ntw5G0nnECXctMPZzpO4D"
     },
     {
       "album": {
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 353515,
       "name": "Blindsonen",
       "url": "https://open.spotify.com/track/2ahamw6URtHTNbsO4plwe7"
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 292978,
       "name": "Brave New Face",
       "url": "https://open.spotify.com/track/3xfqi9eRbZdiqqAoEjFSer"
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3214,6 +3232,24 @@
       "duration_ms": 248679,
       "name": "Creepy Tales from the Other Side (Crimson Nights Part II)",
       "url": "https://open.spotify.com/track/0wQ1WQ6eA4RqwkWLRMlPVK"
+    },
+    {
+      "album": {
+        "name": "Cried Out",
+        "url": "https://open.spotify.com/album/1e6NfIv0J8olUN8yaRjtgU"
+      },
+      "artists": [
+        {
+          "name": "War Hoarse",
+          "url": "https://open.spotify.com/artist/1QWepK0F8VM2LSSFopADHE"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Cried Out",
+      "url": "https://open.spotify.com/track/0Vvhicbsd6hP1hxjOqdDiB"
     },
     {
       "album": {
@@ -3470,7 +3506,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 175169,
       "name": "Danish Rush",
       "url": "https://open.spotify.com/track/53xrVLMMQzs3aJUJK6QSQ5"
@@ -4339,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Don't Write with AI",
+        "url": "https://open.spotify.com/album/72FZAIdz6IdyMbFCRdt9Nf"
+      },
+      "artists": [
+        {
+          "name": "Seth Socolow",
+          "url": "https://open.spotify.com/artist/59el5lgINHzjJ3yqj1Z1Dt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303818,
+      "name": "Don't Write with AI",
+      "url": "https://open.spotify.com/track/69o4w2RkwMFKKfEUwec1Hn"
+    },
+    {
+      "album": {
         "name": "Dopey Smile",
         "url": "https://open.spotify.com/album/1dIjBzck7PvTaoWEEIGjaT"
       },
@@ -4624,6 +4678,24 @@
       "duration_ms": 200636,
       "name": "Drown",
       "url": "https://open.spotify.com/track/4SVevBfmx6XLv36i52xNRV"
+    },
+    {
+      "album": {
+        "name": "When I see you",
+        "url": "https://open.spotify.com/album/2tDNOlbqdITvft1fVuyFnK"
+      },
+      "artists": [
+        {
+          "name": "Spend Money On Circus",
+          "url": "https://open.spotify.com/artist/5etdHclL5zA3nPytbHXknB"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274924,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/2rOt3Al0ORGvf3CYxcMKPK"
     },
     {
       "album": {
@@ -6426,7 +6498,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 287093,
       "name": "Freedom Train",
       "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
@@ -7354,7 +7426,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 328618,
       "name": "Helter Skelter",
       "url": "https://open.spotify.com/track/1ZlEK9YHfHAtMf8fzeXkV7"
@@ -7462,7 +7534,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 126226,
       "name": "Hey Now Honey - 2023 Remaster",
       "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
@@ -8169,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/283RJx5I0CAexOnrNvPAlK"
+      },
+      "artists": [
+        {
+          "name": "Uppercut",
+          "url": "https://open.spotify.com/artist/6iAaDvMyMRJm4gFFg0qTQA"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211598,
+      "name": "I Own Ya",
+      "url": "https://open.spotify.com/track/57vCsCkZQpbAp2Mp73wgam"
+    },
+    {
+      "album": {
         "name": "House of Shock",
         "url": "https://open.spotify.com/album/2xmBMFTN1CxtqJG3QxOB1S"
       },
@@ -8202,6 +8292,24 @@
       "duration_ms": 336125,
       "name": "I Rot",
       "url": "https://open.spotify.com/track/45ZUN6y6Xd6RXDovAnSTvG"
+    },
+    {
+      "album": {
+        "name": "I TRIED (Remastered)",
+        "url": "https://open.spotify.com/album/2jFplrPRHNOWe2xTjOCl3z"
+      },
+      "artists": [
+        {
+          "name": "Acorde 7 Blues Band",
+          "url": "https://open.spotify.com/artist/00c2f50dznBh2WDotCtWb2"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "I TRIED - Remastered",
+      "url": "https://open.spotify.com/track/6I4IgbVQCcz29puOorIlbI"
     },
     {
       "album": {
@@ -8688,7 +8796,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 255833,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
@@ -8742,7 +8850,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -8778,7 +8886,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -8890,6 +8998,24 @@
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
+    },
+    {
+      "album": {
+        "name": "\u00d6ppna landskap Covid19",
+        "url": "https://open.spotify.com/album/6IjfIbzqrMJyI8ZAMry96Q"
+      },
+      "artists": [
+        {
+          "name": "Marander Music",
+          "url": "https://open.spotify.com/artist/3A3f9tcwq1UG99hGeZmo7U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138187,
+      "name": "Jag f\u00e5r ingen luft",
+      "url": "https://open.spotify.com/track/1qK1jKi4datgKIed8lIpNR"
     },
     {
       "album": {
@@ -9136,7 +9262,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 387727,
       "name": "Ka \u00c9 Vitsen?",
       "url": "https://open.spotify.com/track/7hwLM2pRuFno1U81RiEZ2z"
@@ -9320,7 +9446,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 254426,
       "name": "Kings of the City",
       "url": "https://open.spotify.com/track/7pfAmgSGUXCsgQqBVoyNWu"
@@ -9486,7 +9612,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 211363,
       "name": "La rage du loup",
       "url": "https://open.spotify.com/track/0qBoyI15tldcIsr7D4XIRf"
@@ -10616,7 +10742,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 199578,
       "name": "Mamma Africa",
       "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
@@ -11074,7 +11200,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -11258,7 +11384,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 273000,
       "name": "Mitt hjerte er r\u00e5tt",
       "url": "https://open.spotify.com/track/4FnPdqPqcieYHuLniG8JDz"
@@ -12084,7 +12210,7 @@
       ],
       "date_added": "2026-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Next Call - Remaster",
       "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
@@ -12550,7 +12676,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 169674,
       "name": "N\u00e4r kommer du hem till mig igen?",
       "url": "https://open.spotify.com/track/5KbhspQpwoUFChZhOh63zs"
@@ -13712,7 +13838,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 279833,
       "name": "Pink Leather Dragon",
       "url": "https://open.spotify.com/track/6J82v5KoNP6SHIpl2L6mxG"
@@ -15302,7 +15428,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 148166,
       "name": "Silence please",
       "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
@@ -15320,7 +15446,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -15432,6 +15558,24 @@
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
+    },
+    {
+      "album": {
+        "name": "Skuggornas Kung",
+        "url": "https://open.spotify.com/album/2kK6FjQPD0hEyG7A0wBtqW"
+      },
+      "artists": [
+        {
+          "name": "SILVERHUND",
+          "url": "https://open.spotify.com/artist/1aSK1yAenlLKGgwbSOSwPK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221274,
+      "name": "Skuggornas Kung",
+      "url": "https://open.spotify.com/track/4idR1c67b3dNvHEQhVwqYX"
     },
     {
       "album": {
@@ -16058,7 +16202,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 188786,
       "name": "Start",
       "url": "https://open.spotify.com/track/4kXJcoZxlr212raqKtfEwT"
@@ -16606,7 +16750,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 413133,
       "name": "Syndenes Magi Del 2",
       "url": "https://open.spotify.com/track/4fls9feNsOI7FkV8CcCAHc"
@@ -17140,7 +17284,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 227920,
       "name": "The Devil Went Down To Georgia - B-Side",
       "url": "https://open.spotify.com/track/2Vqw2MmVxgwDPZrXnbL4xH"
@@ -18976,7 +19120,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 177698,
       "name": "Tulede S\u00e4ras",
       "url": "https://open.spotify.com/track/1IIvJTLiJFJAlcgOJwGb2J"
@@ -20476,7 +20620,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 223196,
       "name": "Wild Wild Woman",
       "url": "https://open.spotify.com/track/0rNHd0MyOfSCSQ79zF2oYQ"
@@ -21208,7 +21352,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 142321,
       "name": "\u00c6 G\u00e5r R\u00e6tt P\u00e5",
       "url": "https://open.spotify.com/track/3VxDsrk7ktvrkjv3JFz1ms"

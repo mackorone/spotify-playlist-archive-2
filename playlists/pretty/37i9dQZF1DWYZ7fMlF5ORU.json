@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 188083,
+  "num_followers": 188137,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAt8cI8ePLgtfrvF8xSCUoUpuzp",
+  "snapshot_id": "AAAAANZI0C8sCAXNXpcOYCYTmVS98J3o",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:51",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Kleber Lucas 30 anos - Ao vivo no Teatro Rival",
-        "url": "https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 266011,
-      "name": "Jeov\u00e1 \u00e9 o teu Cavaleiro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
       },
@@ -91,22 +75,6 @@
       "duration_ms": 172480,
       "name": "Deus Est\u00e1 No Controle",
       "url": "https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Os Anjos Te Louvam - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -127,6 +95,38 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Os Anjos Te Louvam - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Kleber Lucas 30 anos - Ao vivo no Teatro Rival",
+        "url": "https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 266011,
+      "name": "Jeov\u00e1 \u00e9 o teu Cavaleiro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Sonhos de Deus",
         "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
       },
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Avante",
-        "url": "https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 203661,
-      "name": "Avante",
-      "url": "https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 333746,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Avante",
+        "url": "https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 203661,
+      "name": "Avante",
+      "url": "https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -243,26 +243,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
+        "name": "O Dom da Vida",
+        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Fabi Oliveira",
+          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
         },
         {
-          "name": "Leandro Rodrigues",
-          "url": "https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK"
-        },
-        {
-          "name": "PVAP",
-          "url": "https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a"
+          "name": "Carol Oliveira",
+          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
         }
       ],
-      "duration_ms": 332160,
-      "name": "Sossegai - Ao Vivo",
-      "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
+      "duration_ms": 228000,
+      "name": "O Dom da Vida",
+      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -283,22 +279,26 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "O Dom da Vida",
-        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
+        "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
       },
       "artists": [
         {
-          "name": "Fabi Oliveira",
-          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         },
         {
-          "name": "Carol Oliveira",
-          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
+          "name": "Leandro Rodrigues",
+          "url": "https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK"
+        },
+        {
+          "name": "PVAP",
+          "url": "https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a"
         }
       ],
-      "duration_ms": 228000,
-      "name": "O Dom da Vida",
-      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
+      "duration_ms": 332160,
+      "name": "Sossegai - Ao Vivo",
+      "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -423,18 +423,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
+        "name": "Luz - Parte 2",
+        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
       },
       "artists": [
         {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Coral Black To Black",
+          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
         }
       ],
-      "duration_ms": 253354,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
+      "duration_ms": 298787,
+      "name": "Ele vem (feat. Coral Black To Black)",
+      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -463,6 +467,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 253354,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Nada Se Compara",
         "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 181956,
       "name": "Nada Se Compara",
       "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Luz - Parte 2",
-        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Coral Black To Black",
-          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
-        }
-      ],
-      "duration_ms": 298787,
-      "name": "Ele vem (feat. Coral Black To Black)",
-      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Luz - Parte 1",
+        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 221193,
+      "name": "Zanzando",
+      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Celebre a Vida",
         "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Luz - Parte 1",
-        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 221193,
-      "name": "Zanzando",
-      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Kleber Lucas ao vivo no Teatro Rival (AO VIVO)",
         "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
       },
@@ -615,6 +615,26 @@
       "duration_ms": 220386,
       "name": "O Que H\u00e1 Por Dentro",
       "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Tua Vontade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
+      },
+      "artists": [
+        {
+          "name": "PV Dantas",
+          "url": "https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 207698,
+      "name": "Tua Vontade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -675,50 +695,6 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Tua Vontade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
-      },
-      "artists": [
-        {
-          "name": "PV Dantas",
-          "url": "https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 207698,
-      "name": "Tua Vontade - Ao Vivo",
-      "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Voc\u00ea Adora",
-        "url": "https://open.spotify.com/album/3zOL6RLsb5VLKvddXa1xN9"
-      },
-      "artists": [
-        {
-          "name": "Voc\u00ea Adora",
-          "url": "https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA"
-        },
-        {
-          "name": "Gleydson Leandro",
-          "url": "https://open.spotify.com/artist/6BMlzwDmaPryHa4Wjmv6V6"
-        },
-        {
-          "name": "Clovis Pinho",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 219124,
-      "name": "Estado de Gra\u00e7a",
-      "url": "https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
         "name": "Escolhi",
         "url": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4"
       },
@@ -755,18 +731,26 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Fortaleza Minha",
-        "url": "https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC"
+        "name": "Voc\u00ea Adora",
+        "url": "https://open.spotify.com/album/3zOL6RLsb5VLKvddXa1xN9"
       },
       "artists": [
         {
-          "name": "Robson Nascimento",
-          "url": "https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd"
+          "name": "Voc\u00ea Adora",
+          "url": "https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA"
+        },
+        {
+          "name": "Gleydson Leandro",
+          "url": "https://open.spotify.com/artist/6BMlzwDmaPryHa4Wjmv6V6"
+        },
+        {
+          "name": "Clovis Pinho",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         }
       ],
-      "duration_ms": 286360,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05"
+      "duration_ms": 219124,
+      "name": "Estado de Gra\u00e7a",
+      "url": "https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -787,6 +771,22 @@
       "duration_ms": 432000,
       "name": "Pista do C\u00e9u (Quase 30)",
       "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Fortaleza Minha",
+        "url": "https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC"
+      },
+      "artists": [
+        {
+          "name": "Robson Nascimento",
+          "url": "https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05"
     },
     {
       "added_at": "2026-06-12 03:01:51",

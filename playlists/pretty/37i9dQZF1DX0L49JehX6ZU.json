@@ -1,12 +1,12 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 197093,
+  "num_followers": 197091,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD2hjr8cLz3d0maoaNls9nGxE3sm",
+  "snapshot_id": "AAAAAMmtqCN++ZVkeN6EJ4n0/jwKA52b",
   "tracks": [
     {
       "added_at": "2026-10-16 08:10:55",
@@ -431,22 +431,18 @@
     {
       "added_at": "2026-10-16 08:10:55",
       "album": {
-        "name": "Don't Even Text",
-        "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
+        "name": "tere bina",
+        "url": "https://open.spotify.com/album/1Us61dLUqSkclDwUyygBmJ"
       },
       "artists": [
         {
-          "name": "Tsumyoki",
-          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
-        },
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
         }
       ],
-      "duration_ms": 179644,
-      "name": "Don't Even Text",
-      "url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv"
+      "duration_ms": 157245,
+      "name": "tere bina",
+      "url": "https://open.spotify.com/track/6N5WkgPIDoTdbCXyyIIKAv"
     },
     {
       "added_at": "2026-10-16 08:10:55",
@@ -467,18 +463,22 @@
     {
       "added_at": "2026-10-16 08:10:55",
       "album": {
-        "name": "tere bina",
-        "url": "https://open.spotify.com/album/1Us61dLUqSkclDwUyygBmJ"
+        "name": "Don't Even Text",
+        "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
       },
       "artists": [
         {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
         }
       ],
-      "duration_ms": 157245,
-      "name": "tere bina",
-      "url": "https://open.spotify.com/track/6N5WkgPIDoTdbCXyyIIKAv"
+      "duration_ms": 179644,
+      "name": "Don't Even Text",
+      "url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv"
     },
     {
       "added_at": "2026-10-16 08:10:55",

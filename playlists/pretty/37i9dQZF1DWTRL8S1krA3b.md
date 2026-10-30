@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,119 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,117 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 75 | [That's a Wrap](https://open.spotify.com/track/3ZcZuAWZYZ1cv3DM8mnb2H) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [That's a Wrap](https://open.spotify.com/album/1Dww50zfUaMdeNjBGY46r8) | 2:30 |
 | 76 | [Whiskey Kinda Christmas](https://open.spotify.com/track/6KB2Gh8mRDkKCr13cEJTzp) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Whiskey Kinda Christmas](https://open.spotify.com/album/7qbJN2hTfsH2sbhs4JFDd0) | 3:50 |
 
-Snapshot ID: `AAAAACvjcXCUhdB+mkkZjD0wWBKahlAK`
+Snapshot ID: `AAAAAKsAXODNmIO5oFq9JgZ5AP7/wtdQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,228 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,309 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [NOVA: Erykah Badu](https://open.spotify.com/track/32Cl3X42I6S76JRDuVwjA5) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [NOVA: Erykah Badu](https://open.spotify.com/album/2VpujPsJfplJBWbGeRkRnt) | 3:16 |
 | 75 | [começo \(de um fim\)](https://open.spotify.com/track/152mvG5WOMDuKHnpTQJywJ) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [começo \(de um fim\)](https://open.spotify.com/album/5Noioyq0yVx8jUpDZk09uR) | 2:47 |
 
-Snapshot ID: `AAAAAJxgrL3qO01Y+hZoTBnZFeWRoor+`
+Snapshot ID: `AAAAAPYl/sXjJycVYJMKu/CYyFqW9RVU`

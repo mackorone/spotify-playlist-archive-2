@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 10 hr 13 min
+174 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2AM](https://open.spotify.com/track/18IcMSwjYvrFi9oKSNl9iL) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [2AM](https://open.spotify.com/album/1HG5GUskLA8v9zMPqgAXHU) | 2:48 | 2026-10-29 |  |
 | [Abajo Road](https://open.spotify.com/track/2Xh3xEyPRXFXcprbUsE2Ex) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:18 | 2023-12-30 |  |
 | [Addicted](https://open.spotify.com/track/3ZVKdfVlvg9hB7zstb6Ptf) | [Jordyn Stoddard](https://open.spotify.com/artist/0pvOqa5gEvXzHR0JUTuFLU) | [Addicted](https://open.spotify.com/album/6L7rEh8K4Ifgbb3CzQQIsZ) | 3:02 | 2023-12-30 | 2025-07-24 |
 | [Afterglow](https://open.spotify.com/track/2xyc11JZQOHTFfTulPiCSb) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Surrender](https://open.spotify.com/album/5pBRlr1Ev4zQv2WxjuSMib) | 3:37 | 2023-12-30 |  |

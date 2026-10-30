@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Nori",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Tsatsamis",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3790,6 +3790,24 @@
       "duration_ms": 176473,
       "name": "maradona",
       "url": "https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ"
+    },
+    {
+      "album": {
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/2gvGcD2Aw8vf458HgUEjKY"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206545,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/7vPagNQR5CifjAK9O4LBVC"
     },
     {
       "album": {

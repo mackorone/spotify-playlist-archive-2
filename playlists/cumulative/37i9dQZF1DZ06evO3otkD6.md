@@ -4,7 +4,7 @@
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 30 min
+102 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Boba Niña Nice \- Teenage Superstar](https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:00 | 2023-11-10 |  |
 | [boss rmx](https://open.spotify.com/track/3F75fwqrPiNLkf3krSkYkQ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [boss rmx](https://open.spotify.com/album/5XPntEYsj1XpHzDYwShoIf) | 3:32 | 2025-04-11 | 2025-06-20 |
 | [Bugatti](https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Bugatti](https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC) | 2:45 | 2024-10-08 |  |
-| [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-02 |  |
+| [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-02 | 2026-10-30 |
+| [Cactus](https://open.spotify.com/track/4qmPawUtY4nqXOpZJCcjht) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:03 | 2026-10-30 |  |
 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 | 2025-09-28 |  |
 | [Castillos \(feat\. Regina Blandón\)](https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Diana Bovio](https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp), [Regina Blandón](https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:05 | 2025-06-15 |  |
 | [Colorblind](https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Colorblind](https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw) | 3:25 | 2023-11-10 | 2025-01-30 |
@@ -104,7 +105,7 @@
 | [Translation](https://open.spotify.com/track/0KmTe6ZCDyYi9rxUy3NWfg) | [Vein](https://open.spotify.com/artist/3BnF35ARlp8mMeyXTjUZsr), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Translation](https://open.spotify.com/album/1BRPWm8MXzNphCMt6K4OMB) | 3:39 | 2024-09-20 | 2025-02-16 |
 | [Un Traguito](https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Un Traguito](https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H) | 3:04 | 2023-11-10 | 2026-07-28 |
 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 | 2023-11-10 | 2024-09-13 |
-| [Van Gogh](https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:05 | 2025-06-08 |  |
+| [Van Gogh](https://open.spotify.com/track/6av8ak8unUfdnw1rHq7LSL) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:05 | 2025-06-08 | 2026-10-30 |
 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 | 2023-11-10 |  |
 | [Wet Dreams](https://open.spotify.com/track/6BLSy4M5tStNYz6DMcLCKa) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 2:44 | 2025-06-08 | 2025-06-10 |
 | [Why Wait](https://open.spotify.com/track/55PYZ56l4MBXTLTFUjzU7u) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:01 | 2023-11-10 | 2025-04-11 |

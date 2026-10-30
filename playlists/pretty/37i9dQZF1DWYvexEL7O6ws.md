@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Smiley, Naomi Sharon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,303 likes - 143 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,298 likes - 143 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvexEL7O6ws.md) - [plain]
 | 142 | [ANOTHER DAY](https://open.spotify.com/track/43x5QLV3gakgQuGrYD7aYS) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE \(Chopped Not Slopped\)](https://open.spotify.com/album/7954tDYraStpAFjS8SdPfo) | 2:32 |
 | 143 | [Ela É do Tipo \(feat\. Drake\) \[Remix\]](https://open.spotify.com/track/5Wcvle7c2jTMh5FFimP6Dw) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Ela É do Tipo \(feat\. Drake\) \[Remix\]](https://open.spotify.com/album/7ybV3NCogLGAhBx75pB3ih) | 3:32 |
 
-Snapshot ID: `AAAAAMIVHHSR3Fwmi7D98vrm4OlMMS3i`
+Snapshot ID: `AAAAAGyCMM9SvWjatuWx2BN9690S97Ej`

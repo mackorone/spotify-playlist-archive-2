@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Danny Felix 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,475 likes - 62 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,417 likes - 62 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 61 | [Por antigüedad](https://open.spotify.com/track/29R9iMsijuHJMhrwyS42Ho) | [Angel Trino](https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W) | [Por antigüedad](https://open.spotify.com/album/4oWGlvnBUJ0SDlmMC2t5tn) | 2:29 |
 | 62 | [Mala Mía](https://open.spotify.com/track/1xW8KyOWoNNJT7kxJL1R1F) | [Santiago Martell](https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl) | [Mala Mía](https://open.spotify.com/album/7yH0ePmoRDpES8RntVEwgK) | 3:56 |
 
-Snapshot ID: `AAAAADlpu1Kf9Oqa73LBW/aBBzI59sV4`
+Snapshot ID: `AAAAABv+YBfHnEbcQiU1Qsxjl9l9sIVc`

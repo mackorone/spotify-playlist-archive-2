@@ -4,7 +4,7 @@
 
 > A selection of anime tracks perfect for listening to during your gaming time\. ゲームの時間にぴったりなアニメ楽曲をセレクト。 Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-50 songs - 2 hr 33 min
+51 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [The Legend of Ashitaka](https://open.spotify.com/track/6JqEDCqvAQx4F1D8TuQMw1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 1:39 | 2026-10-20 |  |
 | [The Summer Wars](https://open.spotify.com/track/1NCbQvYFzq0psd6mdpxPbY) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/6wBgo2pf7e2HxsBUQA7BuV) | 1:52 | 2026-10-20 |  |
 | [The Voice in My Heart](https://open.spotify.com/track/0RcKa0WPrURVtBNz5SNd3W) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Violet Evergarden: Automemories](https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2) | 2:20 | 2026-10-20 |  |
+| [Theme of Stone Ocean](https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 ストーンオーシャン O.S.T.](https://open.spotify.com/album/0jkIDp65gHymoVhF62qUWw) | 4:43 | 2026-10-20 |  |
 | [Treachery](https://open.spotify.com/track/6a7su3dkJJXidSuFiowJC2) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH The DiamondDust Rebellion Original Soundtrack](https://open.spotify.com/album/4meZrOeVxoej2MOhVo1suB) | 3:22 | 2026-10-20 |  |
 | [Trisha's Lullaby](https://open.spotify.com/track/3Acs78RQqrAQNEuDd4ucOP) | [Warsaw Philharmonic Orchestra & Choir](https://open.spotify.com/artist/10LmYfv5wE9or9EBI60asK) | [鋼の錬金術師 FULLMETAL ALCHEMIST Original Soundtrack 1](https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT) | 3:31 | 2026-10-20 |  |
 | [You Say Run](https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:48 | 2026-10-20 |  |
@@ -53,7 +54,7 @@
 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 | 2026-10-20 |  |
 | [怪獣８号のテーマ](https://open.spotify.com/track/26upe4jRiSViE2uZ7D5uP0) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「怪獣８号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 1:27 | 2026-10-20 |  |
 | [愛のシルエット](https://open.spotify.com/track/6oibGjoc3gDoow4eXyX04f) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック](https://open.spotify.com/album/4PZ92qFQ2dNB4MWpNE8PQl) | 4:24 | 2026-10-20 |  |
-| [栄の活躍](https://open.spotify.com/track/1k7KjB9enzo5xxbnfkqO8X) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/6wBgo2pf7e2HxsBUQA7BuV) | 3:09 | 2026-10-20 |  |
+| [栄の活躍](https://open.spotify.com/track/1k7KjB9enzo5xxbnfkqO8X) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/6wBgo2pf7e2HxsBUQA7BuV) | 3:09 | 2026-10-20 | 2026-10-30 |
 | [煉獄と猗窩座の戦い](https://open.spotify.com/track/19XwEQeVwyeXrNsaETN0bx) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」無限列車編 オリジナルサウンドトラック](https://open.spotify.com/album/319uh4R4DZ2oEIEaGSFyAF) | 3:19 | 2026-10-20 |  |
 | [疾風伝](https://open.spotify.com/track/0y2OZcxtwVvzk4vHsSJXwu) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック](https://open.spotify.com/album/4f5CITLlnnTPE49n5Bd0zN) | 2:05 | 2026-10-20 |  |
 | [竈門炭治郎のうた \-OST ver.\-](https://open.spotify.com/track/03OsFs8Qcyzl3cCOcrMALw) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH), [中川奈美](https://open.spotify.com/artist/6fRAchGeMqG9ppHP8QBQuk) | [「鬼滅の刃」竈門炭治郎 立志編 オリジナルサウンドトラック](https://open.spotify.com/album/2NTJua5Rhkszhg6b99TK78) | 5:30 | 2026-10-20 |  |

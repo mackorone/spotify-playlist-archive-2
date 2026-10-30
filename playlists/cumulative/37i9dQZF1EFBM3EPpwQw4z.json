@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/1HG5GUskLA8v9zMPqgAXHU"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168375,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/18IcMSwjYvrFi9oKSNl9iL"
+    },
+    {
+      "album": {
         "name": "Dance Silly",
         "url": "https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js"
       },

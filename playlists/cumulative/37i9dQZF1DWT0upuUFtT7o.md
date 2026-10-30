@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Billboard Style
 
-4,029 songs - 9 day 7 hr 19 min
+4,032 songs - 9 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1330,7 +1330,7 @@
 | [GFBF](https://open.spotify.com/track/3w1bxnIpb6oE9OHtrRmD2L) | [Feinte](https://open.spotify.com/artist/1Oav4xyxBjHug09BPlLReT) | [GFBF](https://open.spotify.com/album/3sHshy9hZzIOzdlUFEgZq2) | 2:45 | 2024-06-19 | 2024-07-25 |
 | [Ghost](https://open.spotify.com/track/6rPmWz9aoFcSqYMoxeMwuD) | [Delivery Service](https://open.spotify.com/artist/2ldcalEDsVntItKFwQgy4W) | [Ghost](https://open.spotify.com/album/7ncGRefKCkvmqtxPKuw1EM) | 3:46 | 2025-03-12 | 2025-05-08 |
 | [Ghost](https://open.spotify.com/track/0FsOXNMDwtTdru7hxjw9vJ) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Ghost](https://open.spotify.com/album/2auDF9W61yqxQJBFt5JSHS) | 3:49 | 2024-10-02 | 2024-11-21 |
-| [Ghost](https://open.spotify.com/track/0PCCqCvjUjN0fq3fnjRc8K) | [Marital Bed](https://open.spotify.com/artist/4aDnOKq2hvJRJ9S99RlZWg) | [Ghost](https://open.spotify.com/album/14JU7Mg0jfVh3Xu6kE7PAi) | 3:34 | 2026-08-26 |  |
+| [Ghost](https://open.spotify.com/track/0PCCqCvjUjN0fq3fnjRc8K) | [Marital Bed](https://open.spotify.com/artist/4aDnOKq2hvJRJ9S99RlZWg) | [Ghost](https://open.spotify.com/album/14JU7Mg0jfVh3Xu6kE7PAi) | 3:34 | 2026-08-26 | 2026-10-30 |
 | [ghost](https://open.spotify.com/track/0JKJhT8xLUbkBSglfIm8nP) | [Sierra Spirit](https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR) | [ghost](https://open.spotify.com/album/48Qt5QQVuP7E39iJw2Nfni) | 2:32 | 2024-02-14 | 2024-04-19 |
 | [Ghost Girl](https://open.spotify.com/track/4SehLcYyqYHvCtKz4790bL) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [But I'm Alright Now](https://open.spotify.com/album/4hHwHrki63HVmGOD84d9hk) | 3:20 | 2024-01-10 | 2024-02-08 |
 | [ghost in the machine](https://open.spotify.com/track/51qcHVCh2wT44qWVDDRPTc) | [caaaaseyyyy](https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c) | [ghost in the machine](https://open.spotify.com/album/0fKj4v6d0I9IWUxv7uTlJA) | 3:02 | 2022-03-22 | 2022-04-27 |
@@ -1371,6 +1371,7 @@
 | [Go Go Girl](https://open.spotify.com/track/1J8pJUeHUt1NZCf0qapDtI) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Go Go Girl](https://open.spotify.com/album/4OugZBZADlAltOm5Pexbbf) | 3:22 | 2026-01-14 | 2026-03-05 |
 | [Go!](https://open.spotify.com/track/4R47C6yEQZhswA0LSDDSvH) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Go!](https://open.spotify.com/album/2xybduSasWUGfsn1cbjJgV) | 2:49 | 2023-07-26 | 2023-08-24 |
 | [Go!](https://open.spotify.com/track/5AARofyviyJx6k9A6L7vuS) | [The Angles](https://open.spotify.com/artist/06eL99hHwD6Z2KAD9JXjJw) | [Go!](https://open.spotify.com/album/1UkLtLh9ygQClGETxsQBTv) | 3:13 | 2023-02-15 | 2023-03-23 |
+| [Goblin's Head](https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Goblin's Head](https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq) | 2:53 | 2026-10-28 |  |
 | [God Bite](https://open.spotify.com/track/6PRkr8Z1mwcGShsQvZFGxF) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [God Bite](https://open.spotify.com/album/24B0BXWc6ThbbwmdMwefRV) | 2:45 | 2022-11-09 | 2022-12-01 |
 | [GOD INSIDE A HUMAN MACHINE](https://open.spotify.com/track/2TrVp4q1tuIXmOdRzCosMN) | [cool sorcery](https://open.spotify.com/artist/2ql2HUwWCBWJ6mRPX3lIA4) | [GOD INSIDE A HUMAN MACHINE](https://open.spotify.com/album/1rM5dgYSZk1yGjqafhgk8A) | 1:30 | 2023-07-19 | 2023-08-24 |
 | [god loves a trier](https://open.spotify.com/track/18M4Y9NRlRJfXgls3gOZ39) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [god loves a trier](https://open.spotify.com/album/5InPGjHdmwPdxIv9UjZ3Ii) | 2:27 | 2024-11-27 | 2025-03-07 |
@@ -1626,7 +1627,7 @@
 | [how to quit](https://open.spotify.com/track/3U65fVLnAlKRnHw70xM8dl) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt), [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [how to quit](https://open.spotify.com/album/6gLbmcqyq51PLRXqR8qWOK) | 2:29 | 2025-10-27 | 2025-12-04 |
 | [How to Remember](https://open.spotify.com/track/3BA3Jyoqtekjj1HBl77bmZ) | [Tommy & Roy](https://open.spotify.com/artist/5UWJYEf4NUablpGVC4deTj) | [How to Remember](https://open.spotify.com/album/79fGrd7A0cn6zs2VwZw6NV) | 2:59 | 2023-02-01 | 2023-02-23 |
 | [How Will I Get There?](https://open.spotify.com/track/1RGA230lb6FdZUA9LPkzNt) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [How Will I Get There?](https://open.spotify.com/album/3iVY6fGx8dw9skRydFMiGe) | 3:39 | 2023-05-03 | 2023-06-22 |
-| [Human Assholes](https://open.spotify.com/track/2PcHF7dfPN2p68kozrCZBr) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Human Assholes](https://open.spotify.com/album/2aRRmGGBqVGIRiGprweImR) | 5:48 | 2026-09-09 |  |
+| [Human Assholes](https://open.spotify.com/track/2PcHF7dfPN2p68kozrCZBr) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Human Assholes](https://open.spotify.com/album/2aRRmGGBqVGIRiGprweImR) | 5:48 | 2026-09-09 | 2026-10-30 |
 | [Hummingbird](https://open.spotify.com/track/3RIs7nG8KXfrtNy5PFmjJj) | [eundohee](https://open.spotify.com/artist/46G6rspSPLRNwppVzk7Fzd) | [Hummingbird](https://open.spotify.com/album/0TbuOvdRshceglqUOMdFe7) | 4:30 | 2023-05-03 | 2023-06-08 |
 | [Hunger](https://open.spotify.com/track/2VVv0mGpfpKZje6EWTjyJO) | [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [Hunger](https://open.spotify.com/album/6s8upSWj4yoPqdfY9SLs0l) | 2:51 | 2022-08-03 | 2022-08-11 |
 | [Hungry](https://open.spotify.com/track/0dDgr2bsvmzs8B2VaZ9bpr) | [Finom](https://open.spotify.com/artist/1lGRK7KK1IuflIyNSE9R3M) | [Not God](https://open.spotify.com/album/0al6F1660N7PZz5Ryt9jN8) | 5:45 | 2024-05-29 | 2024-07-04 |
@@ -2013,6 +2014,7 @@
 | [Let Me Go](https://open.spotify.com/track/6JDybAVKloWnPONcCUIZYz) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [Let Me Go](https://open.spotify.com/album/3af0qzR13qCTL9xFZFWtsO) | 3:48 | 2025-07-09 | 2025-09-18 |
 | [Let Me Love U](https://open.spotify.com/track/2n82NbbGsaaMMT4eqPX8ZK) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Let Me Love U](https://open.spotify.com/album/1BF6WHNLLq3uQJrH9jQj87) | 3:51 | 2023-03-01 | 2023-03-29 |
 | [Let Me Rest](https://open.spotify.com/track/3pjnnIq5syiYGqrsTFEvjx) | [North Bloom](https://open.spotify.com/artist/2PmMtCp5CZixZV7StJM9EF) | [Let Me Rest](https://open.spotify.com/album/6jAxmUqQyqHu0sMUzVDbPk) | 3:22 | 2025-05-07 | 2025-06-26 |
+| [Let the Bad Times Roll](https://open.spotify.com/track/0YQ6QyPdJEhn9lyyGpdPAx) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Let the Bad Times Roll](https://open.spotify.com/album/4y8JP2HanZCu6EZgiFZQG5) | 3:52 | 2026-10-28 |  |
 | [Let The Rest Go](https://open.spotify.com/track/6nry0nSdQEHIr2xj4qS4ue) | [wing!](https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs) | [Let The Rest Go](https://open.spotify.com/album/3A1HrICsZrRrNrfBSIwuGc) | 4:02 | 2025-07-23 | 2025-10-16 |
 | [Let's Dream](https://open.spotify.com/track/1whE2KlByEj8U2j5a6i4Rk) | [The Hecks](https://open.spotify.com/artist/6OaHj2AsRwMxho9FbD4Ps9) | [II \(\(Cowards\)\)](https://open.spotify.com/album/4ouhfAsi103AxgiRnhrSP2) | 4:05 | 2023-09-13 | 2023-11-09 |
 | [Let's Try This Again](https://open.spotify.com/track/61wN5H9ijd5gZ3wR5e2zDv) | [eliza elliott](https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq) | [Let's Try This Again](https://open.spotify.com/album/5910XemVAodsss8PX7PoBo) | 3:08 | 2023-01-18 | 2023-03-02 |
@@ -3825,7 +3827,7 @@
 | [We Don't Talk](https://open.spotify.com/track/1i7FsxeHL4ucIaEUjkK8tB) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [We Don't Talk](https://open.spotify.com/album/69EnFZJj2dKshASrtQIash) | 3:25 | 2022-05-11 | 2022-06-30 |
 | [We May Never Know](https://open.spotify.com/track/7HpDj4cDsQdkBQT0l5gqOk) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [We May Never Know](https://open.spotify.com/album/46puCItApDgW5a91jWgGbn) | 2:38 | 2023-06-07 | 2023-07-12 |
 | [We Talked About It](https://open.spotify.com/track/6WP6zG6DdePXtVaVJqR5wl) | [Elijah Wolf](https://open.spotify.com/artist/0BMdnleIiGoRac4KolpTGs) | [We Talked About It](https://open.spotify.com/album/3MzkCAvgL77WNzuTMI5I42) | 3:25 | 2023-03-29 | 2023-04-13 |
-| [we'll laugh about it later](https://open.spotify.com/track/0DRbW5FLzApPCBg2s0IHiC) | [Credit Electric](https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU) | [we'll laugh about it later](https://open.spotify.com/album/4nm06DCmHKbSwAJXdV7SOW) | 5:44 | 2026-09-16 |  |
+| [we'll laugh about it later](https://open.spotify.com/track/0DRbW5FLzApPCBg2s0IHiC) | [Credit Electric](https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU) | [we'll laugh about it later](https://open.spotify.com/album/4nm06DCmHKbSwAJXdV7SOW) | 5:44 | 2026-09-16 | 2026-10-30 |
 | [We're All Doomed](https://open.spotify.com/track/59x5vIkySAo7s8Y8i1itg0) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [We're All Doomed](https://open.spotify.com/album/5OZpJo9ewYsm3IO065g2k8) | 2:30 | 2023-10-18 | 2023-11-30 |
 | [Weakness](https://open.spotify.com/track/54cbo12HgC8WUwMn7lRHhn) | [Couch Prints](https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi) | [Weakness](https://open.spotify.com/album/3Ba4ir0LqLyjAY7RQNze1q) | 2:33 | 2023-03-29 | 2023-04-20 |
 | [Weakness 2 \(ft\. Ero\)](https://open.spotify.com/track/6ez1WilMynD42zEwmxqwvH) | [Couch Prints](https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi) | [Waterfall \(Rebirth\)](https://open.spotify.com/album/5nHnVAvMgOMVoThDfY04tm) | 2:22 | 2023-09-27 | 2023-11-09 |
@@ -3923,6 +3925,7 @@
 | [William](https://open.spotify.com/track/2shtEEiR2LwVUrQ1ynCZs5) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [William](https://open.spotify.com/album/32yIzq2D8D4tFbe7AxIH2a) | 2:18 | 2025-10-08 | 2025-12-04 |
 | [Willow](https://open.spotify.com/track/5eZneLL1mKUOgMH3jb2baP) | [Idlework.](https://open.spotify.com/artist/6uaiyg1w3qDJyAIMDN9l24) | [Willow](https://open.spotify.com/album/2ScMe2x1gw09N6Tmkwapal) | 3:00 | 2024-01-10 | 2024-01-25 |
 | [Wimbledon White](https://open.spotify.com/track/7rRc6t3n1e2pibEWSICPBq) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Second Dinner](https://open.spotify.com/album/00RY3jnU6ElMOxJR7AasY7) | 4:07 | 2024-07-24 | 2024-09-19 |
+| [Wings of Desire](https://open.spotify.com/track/7sHfXTdakn8ZATJJhrweeC) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [Wings of Desire](https://open.spotify.com/album/0ul3hUmjsvuKcXECPcb1ua) | 4:10 | 2026-10-28 |  |
 | [Winner](https://open.spotify.com/track/6J64hC7a0UuD4IumFsRK2C) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Winner](https://open.spotify.com/album/1ICCSSc8Cgc2SaeqJo4dsk) | 2:24 | 2024-06-05 | 2024-07-04 |
 | [Winners & Losers](https://open.spotify.com/track/5vTvY2yG6QRWIxCKJCTYFq) | [S\. Raekwon](https://open.spotify.com/artist/13O0dF37al4XD57GenV5wC) | [Steven](https://open.spotify.com/album/16RvM0IkxcDJ2lV9LCfyCA) | 3:11 | 2024-05-08 | 2024-06-20 |
 | [Wino](https://open.spotify.com/track/4OTaZsEq0sFOqq6Z5aOj8A) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Wino](https://open.spotify.com/album/7nRUyhlshGiaNXAf6zrv1z) | 3:31 | 2022-02-09 | 2022-03-17 |

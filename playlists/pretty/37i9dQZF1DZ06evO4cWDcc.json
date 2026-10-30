@@ -1,29 +1,13 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 329588,
+  "num_followers": 329615,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAA21HuMFpR19gptV5F3xZQf",
+  "snapshot_id": "at/pgAAAAAAKqngJa6KXrfuGx88Rn8T4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Message To Love (Live At Berkeley - 1st Show)",
-        "url": "https://open.spotify.com/album/3Mopoz7RPHqwNameTOsCvz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 332800,
-      "name": "Message To Love - Live At Berkeley - 1st Show",
-      "url": "https://open.spotify.com/track/1cERuP1cDlK5XFWndnTDWC"
-    },
     {
       "added_at": null,
       "album": {
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 221026,
-      "name": "Hey Gypsy Boy",
-      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
+      "duration_ms": 307453,
+      "name": "Pali Gap",
+      "url": "https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID"
     },
     {
       "added_at": null,
@@ -511,6 +495,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Hey Gypsy Boy",
+      "url": "https://open.spotify.com/track/2pg0Bg05oairP31CtpbIji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 467426,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -520,9 +536,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 307453,
-      "name": "Pali Gap",
-      "url": "https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID"
+      "duration_ms": 284333,
+      "name": "Dolly Dagger",
+      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
     },
     {
       "added_at": null,
@@ -552,9 +584,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 467426,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 364626,
+      "name": "Hey Baby (New Rising Sun)",
+      "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
     },
     {
       "added_at": null,
@@ -575,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Dolly Dagger",
-      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -607,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
       "artists": [
         {
@@ -616,25 +648,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
+      "duration_ms": 232506,
+      "name": "Night Bird Flying",
+      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     },
     {
       "added_at": null,
@@ -648,9 +664,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 364626,
-      "name": "Hey Baby (New Rising Sun)",
-      "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
+      "duration_ms": 215133,
+      "name": "Room Full of Mirrors",
+      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 469600,
+      "name": "Once I Had a Woman",
+      "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
     },
     {
       "added_at": null,
@@ -680,54 +712,6 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Night Bird Flying",
-      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 469600,
-      "name": "Once I Had a Woman",
-      "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Room Full of Mirrors",
-      "url": "https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
       "duration_ms": 229120,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Groovy Children: The Fillmore East Concerts",
-        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
+        "name": "Message To Love (Live At Berkeley - 1st Show)",
+        "url": "https://open.spotify.com/album/3Mopoz7RPHqwNameTOsCvz"
       },
       "artists": [
         {
@@ -744,9 +728,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 533672,
-      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
-      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
+      "duration_ms": 332800,
+      "name": "Message To Love - Live At Berkeley - 1st Show",
+      "url": "https://open.spotify.com/track/1cERuP1cDlK5XFWndnTDWC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ezy Ryder (Live At Berkeley - 1st Show)",
+        "url": "https://open.spotify.com/album/2wwI1jrbWaRd2ahmk8wlQE"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 499400,
+      "name": "Ezy Ryder - Live At Berkeley - 1st Show",
+      "url": "https://open.spotify.com/track/0IhY0NHrNVFdFyk86Xrwcn"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezy Ryder (Live At Berkeley - 1st Show)",
-        "url": "https://open.spotify.com/album/2wwI1jrbWaRd2ahmk8wlQE"
+        "name": "Songs For Groovy Children: The Fillmore East Concerts",
+        "url": "https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 499400,
-      "name": "Ezy Ryder - Live At Berkeley - 1st Show",
-      "url": "https://open.spotify.com/track/0IhY0NHrNVFdFyk86Xrwcn"
+      "duration_ms": 533672,
+      "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
+      "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
     },
     {
       "added_at": null,

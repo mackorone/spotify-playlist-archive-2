@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring  Muriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,737 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,771 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [DaVinci](https://open.spotify.com/track/20KQXLYF4MVENCUxHwjpdY) | [Julio LV](https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S), [Julian Leyva](https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv) | [DaVinci](https://open.spotify.com/album/6X8pFW6yquR8sPiAfLRiWG) | 2:54 |
 | 50 | [La Gata Bajo La Lluvia](https://open.spotify.com/track/6xBR4IYdK9MzO5u1FjDyNN) | [Gabby Tamez](https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2) | [La Gata Bajo La Lluvia](https://open.spotify.com/album/27LwFp5BJx9xYGatnh3cXf) | 3:54 |
 
-Snapshot ID: `AAAAAGdpXh5HO6iy4nQaRH34Yts5eavN`
+Snapshot ID: `AAAAAOnjC3J63PCCA5/6lT0YQ+Zx17f8`

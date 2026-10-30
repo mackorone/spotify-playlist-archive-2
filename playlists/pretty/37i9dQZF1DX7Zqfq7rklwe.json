@@ -1,13 +1,29 @@
 {
   "description": "Suomen suurin ja paras rock-soittolista. ",
-  "num_followers": 119858,
+  "num_followers": 119834,
   "original_name": "VOLUME SUOMI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZ81sQZEN8RDENTUzMGercKbmEz",
+  "snapshot_id": "AAAAAO66tnHga7zMy5gFWTwCcsVoaGPd",
   "tracks": [
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Painstream",
+        "url": "https://open.spotify.com/album/7Jsy2NKQfHt9zAT2rXGI0R"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 186585,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/6qE9aKOlsQrXl3UYeMHlss"
+    },
     {
       "added_at": "2026-10-01 21:00:18",
       "album": {
@@ -25,6 +41,38 @@
       "url": "https://open.spotify.com/track/39yWeIKjw8NoVIHlZ0DEa5"
     },
     {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Monarch",
+        "url": "https://open.spotify.com/album/5h4gaqJQWxTUgVNSb7gqwU"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 203633,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6LEOmNbiBCdwsc6rppuYf4"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Dark Summer (Rise Outtakes)",
+        "url": "https://open.spotify.com/album/7AP5XmEEjBNbdWRYsmJbTl"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 191480,
+      "name": "Dark Summer",
+      "url": "https://open.spotify.com/track/73kiSnCRwEKlFqT5Ir1Lt8"
+    },
+    {
       "added_at": "2026-10-01 21:00:18",
       "album": {
         "name": "How Much Is The Fish",
@@ -39,6 +87,86 @@
       "duration_ms": 209866,
       "name": "How Much Is The Fish",
       "url": "https://open.spotify.com/track/2b3VCiWJF70axdKoaf7xQx"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Dead Company",
+        "url": "https://open.spotify.com/album/76Ef0MsA8Z7bhBlCQsowir"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 199555,
+      "name": "Dead Company",
+      "url": "https://open.spotify.com/track/01oyX4Sq1w6ZpgeOUHdqsJ"
+    },
+    {
+      "added_at": "2026-10-01 21:00:18",
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 240494,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Mit\u00e4 ihminen katuu",
+        "url": "https://open.spotify.com/album/1daqKzXj8nJtNPltrbPTOd"
+      },
+      "artists": [
+        {
+          "name": "Sara",
+          "url": "https://open.spotify.com/artist/2vWRgNboMcV1z1g7TrFsQr"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "Mit\u00e4 ihminen katuu",
+      "url": "https://open.spotify.com/track/3YvtNf7AZIFH0ghnFrct0I"
+    },
+    {
+      "added_at": "2026-10-01 21:00:18",
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t"
+      },
+      "artists": [
+        {
+          "name": "Stam1na",
+          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
+        }
+      ],
+      "duration_ms": 353915,
+      "name": "Lahja",
+      "url": "https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -63,70 +191,6 @@
       "duration_ms": 178009,
       "name": "Into the Void (feat. Aaron Pauley of Of Mice & Men)",
       "url": "https://open.spotify.com/track/6t2ZxoTjuNH3VWZxWXsjhD"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 240494,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t"
-      },
-      "artists": [
-        {
-          "name": "Stam1na",
-          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
-        }
-      ],
-      "duration_ms": 353915,
-      "name": "Lahja",
-      "url": "https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Freedom Concept",
-        "url": "https://open.spotify.com/album/3a67wBiTMAQbtz4MtJTqqX"
-      },
-      "artists": [
-        {
-          "name": "Sonata Arctica",
-          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
-        }
-      ],
-      "duration_ms": 253565,
-      "name": "Freedom Concept",
-      "url": "https://open.spotify.com/track/3g8dRL2mQOgqUZVdK4Ba6O"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 155648,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -167,6 +231,86 @@
     {
       "added_at": "2026-10-01 21:00:18",
       "album": {
+        "name": "Freedom Concept",
+        "url": "https://open.spotify.com/album/3a67wBiTMAQbtz4MtJTqqX"
+      },
+      "artists": [
+        {
+          "name": "Sonata Arctica",
+          "url": "https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH"
+        }
+      ],
+      "duration_ms": 253565,
+      "name": "Freedom Concept",
+      "url": "https://open.spotify.com/track/3g8dRL2mQOgqUZVdK4Ba6O"
+    },
+    {
+      "added_at": "2026-10-01 21:00:18",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Nuorena jaksaa",
+        "url": "https://open.spotify.com/album/2fuZvr06etlFZwhMlXpQF6"
+      },
+      "artists": [
+        {
+          "name": "Nelj\u00e4 Ruusua",
+          "url": "https://open.spotify.com/artist/77ZNPUSoDjoqlD44N0yETT"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Nuorena jaksaa",
+      "url": "https://open.spotify.com/track/5Hscu3tzzlXSrO8FqKCxvw"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Goodbye Nordhamn",
+        "url": "https://open.spotify.com/album/2JFELJc4pCmyYVlq6uhG7t"
+      },
+      "artists": [
+        {
+          "name": "NE\u00d8V",
+          "url": "https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h"
+        }
+      ],
+      "duration_ms": 274573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/5jeGg2paIoWFJJobfhl7Rn"
+    },
+    {
+      "added_at": "2026-10-01 21:00:18",
+      "album": {
+        "name": "Is This What You Wanted",
+        "url": "https://open.spotify.com/album/4SfDOZu15pVKIMmFAJ2hOL"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 212764,
+      "name": "Is This What You Wanted",
+      "url": "https://open.spotify.com/track/3It1zcagzwnNCLm7sW9wR8"
+    },
+    {
+      "added_at": "2026-10-01 21:00:18",
+      "album": {
         "name": "Upperhand (from CONTROL Resonant)",
         "url": "https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb"
       },
@@ -189,20 +333,36 @@
       "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
     },
     {
-      "added_at": "2026-10-01 21:00:18",
+      "added_at": "2026-10-29 22:00:11",
       "album": {
-        "name": "Is This What You Wanted",
-        "url": "https://open.spotify.com/album/4SfDOZu15pVKIMmFAJ2hOL"
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
       },
       "artists": [
         {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 212764,
-      "name": "Is This What You Wanted",
-      "url": "https://open.spotify.com/track/3It1zcagzwnNCLm7sW9wR8"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "What's Your Excuse?",
+        "url": "https://open.spotify.com/album/2DAnQ2mmuQycBjBFgY94TE"
+      },
+      "artists": [
+        {
+          "name": "Block of Flats",
+          "url": "https://open.spotify.com/artist/1Hr0GjUPxbMDrkRFhXA7p4"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "What's Your Excuse?",
+      "url": "https://open.spotify.com/track/6kyEm9BmIsHtrLPggU6Xzq"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -239,6 +399,22 @@
     {
       "added_at": "2026-10-01 21:00:18",
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/55gwWc4jGyK5qJtI7W4fqy"
+      },
+      "artists": [
+        {
+          "name": "Herra Ylpp\u00f6",
+          "url": "https://open.spotify.com/artist/6NwYl6JuXxC9H8T0hkNg6Q"
+        }
+      ],
+      "duration_ms": 256187,
+      "name": "Pihlajan alla",
+      "url": "https://open.spotify.com/track/1WFcqkKkOnI6irTdsIBJKC"
+    },
+    {
+      "added_at": "2026-10-01 21:00:18",
+      "album": {
         "name": "P.E.T.T.U.R.I.",
         "url": "https://open.spotify.com/album/2lXNBIbEmxWzWoXVBo41V2"
       },
@@ -253,20 +429,20 @@
       "url": "https://open.spotify.com/track/7GfVF4E2gOyjkpgKHcsXAu"
     },
     {
-      "added_at": "2026-10-01 21:00:18",
+      "added_at": "2026-10-29 22:00:11",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/55gwWc4jGyK5qJtI7W4fqy"
+        "name": "In The Dead Of Night",
+        "url": "https://open.spotify.com/album/26hOlKE46LUaiJlNkig8Z8"
       },
       "artists": [
         {
-          "name": "Herra Ylpp\u00f6",
-          "url": "https://open.spotify.com/artist/6NwYl6JuXxC9H8T0hkNg6Q"
+          "name": "Crownshift",
+          "url": "https://open.spotify.com/artist/6Fd8KYTCfbveVIsHVSr2y6"
         }
       ],
-      "duration_ms": 256187,
-      "name": "Pihlajan alla",
-      "url": "https://open.spotify.com/track/1WFcqkKkOnI6irTdsIBJKC"
+      "duration_ms": 297253,
+      "name": "In The Dead Of Night",
+      "url": "https://open.spotify.com/track/4yjGUCEeAnUh2qqJd2y0A5"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -287,22 +463,6 @@
     {
       "added_at": "2026-10-01 21:00:18",
       "album": {
-        "name": "Widow",
-        "url": "https://open.spotify.com/album/05TLKWeaQiESuQAnOGfr2R"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Widow",
-      "url": "https://open.spotify.com/track/2OAzTArgsN8dmJW5rc7KED"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
         "name": "Kevyt ja kohtuuton",
         "url": "https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy"
       },
@@ -315,6 +475,22 @@
       "duration_ms": 195800,
       "name": "Kevyt ja kohtuuton",
       "url": "https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R"
+    },
+    {
+      "added_at": "2026-10-01 21:00:18",
+      "album": {
+        "name": "Widow",
+        "url": "https://open.spotify.com/album/05TLKWeaQiESuQAnOGfr2R"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Widow",
+      "url": "https://open.spotify.com/track/2OAzTArgsN8dmJW5rc7KED"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -347,6 +523,26 @@
       "duration_ms": 171932,
       "name": "Burning - The Fire Trilogy Part I",
       "url": "https://open.spotify.com/track/5DPJH7g1pfctsCKmx49cE7"
+    },
+    {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "From the Dark",
+        "url": "https://open.spotify.com/album/4iAUrFmilfatLq7lBeH29p"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 328333,
+      "name": "Over the Violent Sun",
+      "url": "https://open.spotify.com/track/5NYH5eJbFkchsNmV2L2YXW"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -445,6 +641,22 @@
       "url": "https://open.spotify.com/track/7iAoYSNJJwjg2EIDoUndRR"
     },
     {
+      "added_at": "2026-10-29 22:00:11",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/2UsysRnB94jJQSE1F7SSae"
+      },
+      "artists": [
+        {
+          "name": "Dawn Of Solace",
+          "url": "https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7"
+        }
+      ],
+      "duration_ms": 258979,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/7qpz47sZT95MJubLDESxPk"
+    },
+    {
       "added_at": "2026-10-01 21:00:18",
       "album": {
         "name": "Eternal Trees of Turquoise",
@@ -475,22 +687,6 @@
       "duration_ms": 214180,
       "name": "In the Eye of the Storm",
       "url": "https://open.spotify.com/track/6ts0sbaGJ7p9FRnrrp84dd"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Siniristin Alla",
-        "url": "https://open.spotify.com/album/31ERHD35sB7ac5cD4oYJLD"
-      },
-      "artists": [
-        {
-          "name": "Revontuli Ai",
-          "url": "https://open.spotify.com/artist/2Im6H3Mg0SFbS0W8Ut2Q8p"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Siniristin Alla",
-      "url": "https://open.spotify.com/track/7fNvelfUorbkeqZvf1P6UL"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -671,22 +867,6 @@
       "duration_ms": 229920,
       "name": "We Don't Celebrate Sundays",
       "url": "https://open.spotify.com/track/4LenbWeYiun7aVsHxBnHL6"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "The Catalyst",
-        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "The Catalyst",
-      "url": "https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -1083,22 +1263,6 @@
     {
       "added_at": "2026-10-01 21:00:18",
       "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
         "name": "The Very Best Of Ram Jam",
         "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
       },
@@ -1143,38 +1307,6 @@
       "duration_ms": 185172,
       "name": "TANZNEID",
       "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251869,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -1343,22 +1475,6 @@
     {
       "added_at": "2026-10-01 21:00:18",
       "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j"
-      },
-      "artists": [
-        {
-          "name": "Royal Republic",
-          "url": "https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
         "name": "The Hives Forever Forever The Hives",
         "url": "https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0"
       },
@@ -1371,22 +1487,6 @@
       "duration_ms": 139781,
       "name": "Roll Out The Red Carpet",
       "url": "https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Comeblack",
-        "url": "https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 403453,
-      "name": "Still Loving You",
-      "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -1427,26 +1527,6 @@
     {
       "added_at": "2026-10-01 21:00:18",
       "album": {
-        "name": "Raveyard",
-        "url": "https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
-        },
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 225307,
-      "name": "Raveyard",
-      "url": "https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
         "name": "Come Hell, Come High Water",
         "url": "https://open.spotify.com/album/7mczEKzLUFG5OuNJWB07KI"
       },
@@ -1475,38 +1555,6 @@
       "duration_ms": 180497,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/5qQhb7PNKCOb0yf6rDRQhL"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Innerdeeps",
-        "url": "https://open.spotify.com/album/4xwYM5jKD90isd07LLUCGD"
-      },
-      "artists": [
-        {
-          "name": "Royal Sorrow",
-          "url": "https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK"
-        }
-      ],
-      "duration_ms": 338813,
-      "name": "Innerdeeps",
-      "url": "https://open.spotify.com/track/5vFwvq8OvcZEtbdYRZe4jf"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/2ClsXTrYxCLu1uCnddarRU"
-      },
-      "artists": [
-        {
-          "name": "Gluecifer",
-          "url": "https://open.spotify.com/artist/0f49vykMeD4Nb8ONN6IMVJ"
-        }
-      ],
-      "duration_ms": 162860,
-      "name": "The Idiot",
-      "url": "https://open.spotify.com/track/3hT2V0iUOOViY7Rwfn7eom"
     },
     {
       "added_at": "2026-10-01 21:00:18",
@@ -1587,70 +1635,6 @@
       "duration_ms": 281124,
       "name": "GUTSY",
       "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Annihilate Me",
-        "url": "https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 202073,
-      "name": "Annihilate Me",
-      "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5"
-      },
-      "artists": [
-        {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 233188,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
-    },
-    {
-      "added_at": "2026-10-01 21:00:18",
-      "album": {
-        "name": "Unravelling",
-        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 238002,
-      "name": "Unravelling",
-      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
     }
   ],
   "unique_name": "VOLUME SUOMI",

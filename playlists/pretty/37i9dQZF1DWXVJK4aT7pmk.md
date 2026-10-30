@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Arjan Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578,323 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,638 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 |
 | 50 | [Eyes on Me](https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Eyes on Me](https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW) | 2:34 |
 
-Snapshot ID: `AAAAADZ41Fnlk5773YdXHUDivrmj41CU`
+Snapshot ID: `AAAAAC3m13sqaX7zfy9UUnHSOyR8QyD6`

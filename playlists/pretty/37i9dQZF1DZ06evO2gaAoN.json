@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 89041,
+  "num_followers": 89084,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAeHUaAet7yeJygpkbLsRPc",
+  "snapshot_id": "at/pgAAAAADYyVMsk/+aT6PyHwQiryqc",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Game Time (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 206166,
       "name": "Game Time",
       "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BODY GO",
+      "url": "https://open.spotify.com/track/2wkBr0Fimagbx0cLq0aCn2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WWP",
         "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
       },
@@ -383,22 +403,6 @@
       "duration_ms": 181693,
       "name": "MR. MEDIA",
       "url": "https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 159173,
-      "name": "Safer",
-      "url": "https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BADDIES <3 MOLIY",
-        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
         {
           "name": "Tyla",
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 165000,
-      "name": "BODY GO",
-      "url": "https://open.spotify.com/track/2wkBr0Fimagbx0cLq0aCn2"
+      "duration_ms": 159173,
+      "name": "Safer",
+      "url": "https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu"
     },
     {
       "added_at": null,
@@ -460,7 +460,7 @@
       "added_at": null,
       "album": {
         "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 201110,
-      "name": "Breathe Me",
-      "url": "https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y"
+      "duration_ms": 167746,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
     },
     {
       "added_at": null,
@@ -492,7 +492,7 @@
       "added_at": null,
       "album": {
         "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 167746,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
+      "duration_ms": 201110,
+      "name": "Breathe Me",
+      "url": "https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y"
     },
     {
       "added_at": null,

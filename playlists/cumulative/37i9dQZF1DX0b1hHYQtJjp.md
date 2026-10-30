@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: John Mayer
 
-2,715 songs - 6 day 5 hr 46 min
+2,716 songs - 6 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,7 +476,7 @@
 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 | 2020-09-25 | 2021-01-15 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-02-12 | 2021-08-28 |
 | [Coward](https://open.spotify.com/track/16dhS1Fqj85lsBJ2eGbzXW) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Coward](https://open.spotify.com/album/181vAhn8vm40wXBVRuEmSB) | 3:40 | 2025-02-14 | 2025-02-22 |
-| [Cowboy](https://open.spotify.com/track/67IGuJIvJHmWNuRV8JWsVq) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:24 | 2026-10-09 |  |
+| [Cowboy](https://open.spotify.com/track/67IGuJIvJHmWNuRV8JWsVq) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 3:24 | 2026-10-09 | 2026-10-30 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-28 | 2024-08-03 |
 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:55 | 2026-06-05 |  |
 | [Cozy](https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cozy](https://open.spotify.com/album/4xsI12SdxzxVyikl8PRuX3) | 2:45 | 2024-05-24 | 2024-06-08 |
@@ -1475,6 +1475,7 @@
 | [Lucky Nights](https://open.spotify.com/track/0f20d7okXHtOvHSuQFZ31B) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Lucky Nights](https://open.spotify.com/album/528nQJE99fdvkqjDjXM5iq) | 3:26 | 2026-10-09 |  |
 | [Machine](https://open.spotify.com/track/0XXxTyNb3Q0DPxpf0kQi8P) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Machine](https://open.spotify.com/album/5qrls7LonwyZYXnhxETAEC) | 2:40 | 2025-09-05 | 2025-10-25 |
 | [Mad About It](https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Mad About It](https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR) | 2:37 | 2026-05-29 | 2026-09-05 |
+| [Mad World](https://open.spotify.com/track/14KGUFscWsUeUNC1haqOji) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Mad World](https://open.spotify.com/album/2e5kH92PPkO8xnAnXX4PU6) | 2:55 | 2026-10-30 |  |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-02-06 | 2024-04-06 |
 | [Made it Awkward](https://open.spotify.com/track/0YBvfqU633fiBO5hC04SRX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made it Awkward](https://open.spotify.com/album/5NqFsOOBLx0ZQgOJiOezJX) | 3:04 | 2024-11-22 | 2024-12-14 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 | 2023-03-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 
 > Driving electronic grooves for improved motivation and performance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,061 likes - 130 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,234 likes - 130 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y1uAfxGdKJ.md) - [plain]
 | 129 | [Nisko](https://open.spotify.com/track/5TUfnwJOLacYQohGkIVLNl) | [Velvet Palms](https://open.spotify.com/artist/3xhneqIDG6xK6nruEfcIaG) | [Nisko](https://open.spotify.com/album/2sfRG6NQhn5f2ClXmCu7sz) | 1:57 |
 | 130 | [Purity](https://open.spotify.com/track/7aJuvgHmhNay1VK8HjAV7a) | [Half Tone](https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8) | [Purity](https://open.spotify.com/album/4QqtXAD5kZTTtWMTrw2Rlx) | 2:29 |
 
-Snapshot ID: `AAAAAMNSFDuSvkQHbPLiiF5ozAwYsmrK`
+Snapshot ID: `AAAAAMGtlDctEggqjwh9DMqGfs3X0uJi`

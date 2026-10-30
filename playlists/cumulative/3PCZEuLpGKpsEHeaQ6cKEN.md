@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,917 songs - 4 day 5 hr 43 min
+1,918 songs - 4 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1846,6 +1846,7 @@
 | [Weekend Love \- Floorplan Remix](https://open.spotify.com/track/4o1AIbzDGzyCUSHzLsasus) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Midnight Mass \(The Remixes\)](https://open.spotify.com/album/1NMWVRxVwX1kLYiA0HPaba) | 3:08 | 2025-06-27 |  |
 | [Weightless](https://open.spotify.com/track/2rFKeB8bks9lvcBTDTVlmY) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Weightless](https://open.spotify.com/album/32XBCg7wNQnGMp4vtUNeZ0) | 3:27 | 2023-04-13 | 2023-08-04 |
 | [Weightless](https://open.spotify.com/track/1BX9C8u8C9kKYkPgjKUKwy) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Weightless](https://open.spotify.com/album/0Cooxxp3LNfSRLdpGENkdg) | 2:51 | 2023-03-02 | 2023-06-23 |
+| [What If I Told You](https://open.spotify.com/track/1vyW6Xjn8fWDJaMSKGIX7U) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [What If I Told You](https://open.spotify.com/album/2VeXDmD0M2LImNl3t3LwwA) | 2:54 | 2026-10-30 |  |
 | [What If I Want You](https://open.spotify.com/track/6oUpN1TABswmcWijWC24cR) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [What If I Want You](https://open.spotify.com/album/5adIJApaW90tOBjMyBoyMu) | 3:22 | 2023-08-17 | 2024-02-09 |
 | [What If This Is Love](https://open.spotify.com/track/5vCyidMtuc1bDcNp3CzQFL) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH), [Dani Poppitt](https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8) | [What If This Is Love](https://open.spotify.com/album/4blQFYqAXWN4Zez4kjXN7a) | 2:52 | 2022-06-09 | 2022-06-24 |
 | [What If?](https://open.spotify.com/track/4I19GBn7ILqhHpHjUreKJV) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/72ozlYWGlJxQvsRVwfkmQA) | 2:45 | 2026-06-10 | 2026-06-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Zulia & Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,396 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,197 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [$$$$](https://open.spotify.com/track/5MR2AQnIqBI1WT8LXMZfYv) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [$$$$](https://open.spotify.com/album/3dEQIcJOKfqFzPPg6UQlj2) | 3:05 |
 | 100 | [STAR](https://open.spotify.com/track/2mnehJ4xPqFe4cNi7BG2rc) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [KM 33](https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8) | 2:36 |
 
-Snapshot ID: `AAAAAEnaTkhmCZjE03wBmCmbLfIKava5`
+Snapshot ID: `AAAAANshnLnh5zCEczmKxea5YBIploca`

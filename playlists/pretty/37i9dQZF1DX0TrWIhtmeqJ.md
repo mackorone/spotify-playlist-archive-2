@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Bricknasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,604 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,597 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 27 | [Fake Friends](https://open.spotify.com/track/413pM0wBJH35B542tx3Q8l) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Fake Friends](https://open.spotify.com/album/2eZbf51oMa3TKOcx2n3bMu) | 1:43 |
 | 28 | [Last Night Was Lit](https://open.spotify.com/track/7sHZwBLJR4dUrdOwQ0yl0N) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [Last Night Was Lit](https://open.spotify.com/album/3Rdq9N6na1Oa3mRN9QSwTE) | 1:47 |
 | 29 | [mitcham mint](https://open.spotify.com/track/2CaXYXIyrhAVT0LFoQfftL) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [mitcham mint](https://open.spotify.com/album/3LE08B4y2oliaeEaXVKEih) | 3:40 |
-| 30 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len Lucci](https://open.spotify.com/artist/4RFMoaKlMKR4HLjnM8NOia), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
+| 30 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len Lucci](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
 | 31 | [Optical Illusion](https://open.spotify.com/track/00FwCADLSTN9YjORWPjaTL) | [Snupe](https://open.spotify.com/artist/7dwjcnTfYCc91Q94giIK2h) | [Optical Illusion](https://open.spotify.com/album/3wlFtj7eSwWKu5ddjF575x) | 2:24 |
 | 32 | [Random Yutes](https://open.spotify.com/track/372zFtfJxHdZgYxHuxtGK0) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Random Yutes](https://open.spotify.com/album/1ZblTU3ZEZ0FoBovc8omNx) | 2:38 |
 | 33 | [Chérie](https://open.spotify.com/track/38eDj6t09QQLWfyPWyNK2x) | [Nosa](https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO) | [Chérie](https://open.spotify.com/album/4nstEL30geoz128jRW5OxL) | 2:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Target](https://open.spotify.com/track/12TuFEojfVYzPAt0cdyfad) | [Catch](https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [The Elephant In The Room](https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru) | 3:31 |
 | 70 | [And Still](https://open.spotify.com/track/4nbQjkvexJoMH5zTlWrCX1) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [And Still](https://open.spotify.com/album/1AD4VBxzDRis7Yi8ssjP3l) | 2:51 |
 
-Snapshot ID: `AAAAADRtnhus68/y/lgHdc3RXrCMnHrc`
+Snapshot ID: `AAAAABSect+NFImbEdCzLP4W48NGhbok`

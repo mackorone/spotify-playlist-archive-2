@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-109 songs - 7 hr 10 min
+110 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Shape Of My Heart](https://open.spotify.com/track/3NPIKVySb6S4vkNDcvpmKw) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL), [thélème](https://open.spotify.com/artist/0ZwZV40ryZM2i6Up9UubXr), [Jean\-Christophe Groffe](https://open.spotify.com/artist/0Z8cH2Mdpc4712FxGgSVTg), [Nikki Buzzi](https://open.spotify.com/artist/4JAm4Tvw9D8SsVRkodDOuo) | [all we get is life](https://open.spotify.com/album/47sI5yYyYUmTTNo0CyMDAm) | 4:17 | 2024-11-26 |  |
 | [Slow Down](https://open.spotify.com/track/0fTIXF5GCFMAu44u3aRBTQ) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5) | [Slow Down](https://open.spotify.com/album/5iRyoCBGxBbuyq69F44uAI) | 5:08 | 2021-09-24 |  |
 | [So Far Away](https://open.spotify.com/track/3SGrE5fV1ys8ZyAAHcTL9B) | [Ronan Hardiman](https://open.spotify.com/artist/6UxYW4p6OoRf85fNMupsfV), [Amici forever](https://open.spotify.com/artist/2VOQX0sezyQ23LmfJNIcDX), [Prague Film Orchestra](https://open.spotify.com/artist/6CLo6dHLYutnDFkGsjrbps) | [Defined](https://open.spotify.com/album/2tTr8FUVIv2JnvODik4Tef) | 4:24 | 2021-09-24 |  |
+| [Some Enchanted Evening](https://open.spotify.com/track/2WmifghEEOx5lJeClSAMDZ) | [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Way We Were: My American Songbook](https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb) | 3:14 | 2026-10-30 |  |
 | [Somewhere \- From 'West Side Story'](https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 3:15 | 2021-09-24 |  |
 | [Somewhere Over the Rainbow](https://open.spotify.com/track/2OaGGj94xHvARetO5TOhkk) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35) | [Somewhere Over the Rainbow](https://open.spotify.com/album/6GL1ZGETQjEw2yW4PnG1LR) | 4:01 | 2025-11-07 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI) | [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [Because You're Mine](https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB) | 4:03 | 2021-09-24 |  |

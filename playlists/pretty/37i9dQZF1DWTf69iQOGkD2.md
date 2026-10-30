@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto:  Hungria
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,380 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,586 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [O Mundo e Ela \(Origens\)](https://open.spotify.com/track/6PN67xQyBBeR0SbJL4OB6K) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [O Mundo e Ela \(Origens\)](https://open.spotify.com/album/3AZqaFVwRNp96jmCs4wpLG) | 3:44 |
 | 75 | [Problemático](https://open.spotify.com/track/1wKX8tZRsnI4QPOSkjDIkr) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Problemático](https://open.spotify.com/album/057zWGa01U5v8gIhdSA1Gh) | 2:51 |
 
-Snapshot ID: `AAAAAI05pcde+WQuGjDC5b4T2RZi3Jny`
+Snapshot ID: `AAAAANflBTyfJ1aaKNxZNb8mPzLdefym`

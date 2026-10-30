@@ -1,12 +1,12 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 50657,
+  "num_followers": 50674,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIcTtlHJQVpJXb2m2ec3cDMQWkDK",
+  "snapshot_id": "AAAAAM0EFuGzGmrIzy/fKzp5DNPntMW0",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:31",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Splendid (with ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
-      },
-      "artists": [
-        {
-          "name": "Osaze & Marcus",
-          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Splendid (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "Broken Souls",
         "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+      },
+      "artists": [
+        {
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -862,15 +862,11 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 174159,
-      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -907,22 +903,6 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "0pay",
-        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "0pay",
-      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
       },
@@ -939,6 +919,22 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -946,11 +942,15 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
+        "name": "Santorini Greece",
+        "url": "https://open.spotify.com/album/2C3fvdn3jCcvqa31CnH5Gz"
+      },
+      "artists": [
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        }
+      ],
+      "duration_ms": 175180,
+      "name": "Santorini Greece",
+      "url": "https://open.spotify.com/track/1fg5ukTu4VOdFecN1LCDsa"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
         "name": "Crazily",
         "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
@@ -1271,26 +1295,26 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Santorini Greece",
-        "url": "https://open.spotify.com/album/2C3fvdn3jCcvqa31CnH5Gz"
+        "name": "POSITION",
+        "url": "https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu"
       },
       "artists": [
         {
-          "name": "BKO",
-          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
         },
         {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 175180,
-      "name": "Santorini Greece",
-      "url": "https://open.spotify.com/track/1fg5ukTu4VOdFecN1LCDsa"
+      "duration_ms": 171428,
+      "name": "POSITION",
+      "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1387,32 +1411,8 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "POSITION",
-        "url": "https://open.spotify.com/album/42ikWw4ao2NoG6OdGBF8Vu"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "POSITION",
-      "url": "https://open.spotify.com/track/0oQt33z06qIMUrFPO8C5Nw"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
-        "name": "ANGELINA",
-        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7tA8uKGR4lF3HJQ10sFDSP"
       },
       "artists": [
         {
@@ -1420,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
         }
       ],
-      "duration_ms": 154000,
-      "name": "ANGELINA",
-      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
+      "duration_ms": 113780,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/0ZbFZwQD4tCeJd6aj5URJ1"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1439,22 +1439,6 @@
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
-    },
-    {
-      "added_at": "2026-10-23 00:01:31",
-      "album": {
-        "name": "Ouu wee (brown)",
-        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Ouu wee (brown)",
-      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+        "name": "Ouu wee (brown)",
+        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 157388,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+      "duration_ms": 166285,
+      "name": "Ouu wee (brown)",
+      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
     },
     {
       "added_at": "2026-10-23 00:01:31",
@@ -1511,22 +1495,34 @@
     {
       "added_at": "2026-10-23 00:01:31",
       "album": {
-        "name": "DEARLY",
-        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
         }
       ],
-      "duration_ms": 181495,
-      "name": "DEARLY",
-      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
+    },
+    {
+      "added_at": "2026-10-23 00:01:31",
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 157388,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
     }
   ],
   "unique_name": "Afro Chill",

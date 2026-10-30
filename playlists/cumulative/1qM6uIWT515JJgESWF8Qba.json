@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/0Dwc2X79NdDJy0Oaz4aaO4"
+      },
+      "artists": [
+        {
+          "name": "The New Black Diamonds",
+          "url": "https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225441,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/6sBtirJIbyIG2UdviBt0rx"
+    },
+    {
+      "album": {
         "name": "The Gauntlet",
         "url": "https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb"
       },
@@ -2872,6 +2890,24 @@
       "duration_ms": 302166,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2OfhgQDlDez0yPOQZEc60G"
+    },
+    {
+      "album": {
+        "name": "Is It Really True",
+        "url": "https://open.spotify.com/album/31TBqMhSlQUpzmnim6ui3K"
+      },
+      "artists": [
+        {
+          "name": "Wave Breaker",
+          "url": "https://open.spotify.com/artist/422YfoHbiHbSOEgf1VpOq7"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254299,
+      "name": "Is It Really True",
+      "url": "https://open.spotify.com/track/3Rn3NxHKAaulAZm8kbXMAW"
     },
     {
       "album": {

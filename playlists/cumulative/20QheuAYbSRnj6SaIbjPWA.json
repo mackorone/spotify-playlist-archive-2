@@ -337,6 +337,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342999,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz"
+    },
+    {
+      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
       },

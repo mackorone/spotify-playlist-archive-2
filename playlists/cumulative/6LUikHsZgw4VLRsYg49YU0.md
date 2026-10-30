@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-319 songs - 18 hr 22 min
+320 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Panini \- DaBaby Remix](https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 2:31 | 2022-02-18 | 2022-12-10 |
 | [Paradise](https://open.spotify.com/track/3yBeQAxk5Jb6bzvUpqu5qX) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Paradise](https://open.spotify.com/album/4c1Fq2QlSHxUxKlNrmtpjO) | 2:53 | 2022-12-09 | 2024-03-30 |
 | [paranormal funk](https://open.spotify.com/track/5P6YT8cyVACgvYBO73yyuz) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | ["DAN DA DAN" Original Soundtrack Lead Trax](https://open.spotify.com/album/7FkNRXPbQUhRo5oP8FT7af) | 3:58 | 2024-11-08 |  |
+| [Peg](https://open.spotify.com/track/2f61q24ulxcjJHUGH1kMV2) | [Anne Sophie Versnaeyen](https://open.spotify.com/artist/671urgqEnpU2quOyN9RB6D) | [Le Mystère Lucy Lost \(Bande Originale du Film\)](https://open.spotify.com/album/0aTrirJrbS4UPecYOuqo0O) | 2:34 | 2026-10-29 |  |
 | [Perfect Time](https://open.spotify.com/track/1upmGVmHvx0MEHEVdvnBCK) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック](https://open.spotify.com/album/4OHuwh9kd4b38gyrP5YMmP) | 4:43 | 2022-12-09 | 2024-01-06 |
 | [PERSONAL \(ED Theme to Hell's Paradise: Jigokuraku Season 2\)](https://open.spotify.com/track/2EopAWJR4qdSHbpAspdQ5P) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [PERSONAL](https://open.spotify.com/album/5CsVRUgb6wdd38OjA2YlzB) | 4:35 | 2026-01-16 |  |
 | [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 | 2023-01-13 | 2023-12-14 |

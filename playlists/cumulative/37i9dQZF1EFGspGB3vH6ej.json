@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 240333,
       "name": "All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey",
       "url": "https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 266826,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/7q587HLz90L2PFrhKZjIYa"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 319106,
       "name": "Crybaby (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/5DkHYNiEqDnyKHW5r1Esj6"
@@ -1304,6 +1304,28 @@
       "duration_ms": 241946,
       "name": "Don't Go Looking for Love",
       "url": "https://open.spotify.com/track/5FxR2GoCKjFt5COFRqaBIh"
+    },
+    {
+      "album": {
+        "name": "Glitter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "Don't Stop (Funkin' 4 Jamaica)",
+      "url": "https://open.spotify.com/track/2n7IjzzGjYYF2Y4uoH0tCI"
     },
     {
       "album": {
@@ -2610,6 +2632,32 @@
       "duration_ms": 276078,
       "name": "If It's Over",
       "url": "https://open.spotify.com/track/3GONDOCwJprD1lZZ32JbuJ"
+    },
+    {
+      "album": {
+        "name": "Glitter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260826,
+      "name": "If We",
+      "url": "https://open.spotify.com/track/0GTawlYiJYXkQobhWCHDnx"
     },
     {
       "album": {
@@ -5578,7 +5626,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 250466,
       "name": "Triumphant (Get 'Em)",
       "url": "https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL"
@@ -5630,6 +5678,24 @@
       "duration_ms": 293760,
       "name": "Triumphant - Vintage Throwback Mix",
       "url": "https://open.spotify.com/track/6fKWbMmxpvjTVPclI4uQJ3"
+    },
+    {
+      "album": {
+        "name": "Glitter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146426,
+      "name": "Twister",
+      "url": "https://open.spotify.com/track/1snBdmsjFDkEFOrRCtJPvX"
     },
     {
       "album": {
@@ -5814,6 +5880,28 @@
       "duration_ms": 71866,
       "name": "Vulnerability (Interlude)",
       "url": "https://open.spotify.com/track/4aDGpzH2gIF67w3hwgCI1J"
+    },
+    {
+      "album": {
+        "name": "Glitter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0FHvF9pHph0NNZ4FlhFGRU"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/3wTV2rOiZMq701FJjhy1CP"
     },
     {
       "album": {

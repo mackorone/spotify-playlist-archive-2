@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "ARIETE portaci a fare serata con te e a suonare tutti i campanelli di roma alle 2 di notte ",
+  "description": "Giuse The Lizia felice rilassato perch\u00e9 sa che mica dobbiamo morire adesso (e noi anche) \ud83d\udc8a",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 214291,
       "name": "2minuti",
       "url": "https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178840,
       "name": "404 (una canzone de I Cani)",
       "url": "https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 185597,
       "name": "Casomai",
       "url": "https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt"
@@ -1696,6 +1696,24 @@
       "duration_ms": 188639,
       "name": "Cemento",
       "url": "https://open.spotify.com/track/5VQI1dj40QV6Gwtakup12U"
+    },
+    {
+      "album": {
+        "name": "Cercare tra i rami",
+        "url": "https://open.spotify.com/album/10R9vZp8cqxUJDP2ZjEPIW"
+      },
+      "artists": [
+        {
+          "name": "Tueri Damasco",
+          "url": "https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176982,
+      "name": "Cercare tra i rami",
+      "url": "https://open.spotify.com/track/09YhxG2APIAwpwAAJPCdyU"
     },
     {
       "album": {
@@ -4326,7 +4344,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 178941,
       "name": "Il mondo in quel cofanetto",
       "url": "https://open.spotify.com/track/5YjpgZqKRfSvR8haog51M2"
@@ -4602,6 +4620,24 @@
       "duration_ms": 182571,
       "name": "Invece di stare con te",
       "url": "https://open.spotify.com/track/0XwLpaXQW0qMTqN1N35IJn"
+    },
+    {
+      "album": {
+        "name": "Inverno Nucleare",
+        "url": "https://open.spotify.com/album/6PDWhey0c7JjbBw4Sj4Ayx"
+      },
+      "artists": [
+        {
+          "name": "Fast Animals and Slow Kids",
+          "url": "https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Inverno Nucleare",
+      "url": "https://open.spotify.com/track/5nzlnFOCatMay9EiKMf0z2"
     },
     {
       "album": {
@@ -6503,6 +6539,28 @@
     },
     {
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/5CGnFM04nKBlAWbSKDF38B"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        },
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181913,
+      "name": "Meglio del peggio (feat. ARIETE)",
+      "url": "https://open.spotify.com/track/34XMkLHYtfRbwRW6r7RAzk"
+    },
+    {
+      "album": {
         "name": "Il Male",
         "url": "https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB"
       },
@@ -6934,6 +6992,24 @@
       "duration_ms": 197703,
       "name": "MYROMANTICA",
       "url": "https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy"
+    },
+    {
+      "album": {
+        "name": "Napoleone Buonanotte",
+        "url": "https://open.spotify.com/album/7yTyZ9574u0BgRhpeQt9rM"
+      },
+      "artists": [
+        {
+          "name": "Lucio Corsi",
+          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215794,
+      "name": "Napoleone Buonanotte",
+      "url": "https://open.spotify.com/track/2JbvlE5JTHu5ZE0evugA6I"
     },
     {
       "album": {
@@ -8713,6 +8789,24 @@
     },
     {
       "album": {
+        "name": "Prima di andare a dormire",
+        "url": "https://open.spotify.com/album/0XcIwmOhlQkQWrxJaLmltC"
+      },
+      "artists": [
+        {
+          "name": "SCAR",
+          "url": "https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178514,
+      "name": "Prima di andare a dormire",
+      "url": "https://open.spotify.com/track/3uwz0zqm9IAKfzKVQRz1J4"
+    },
+    {
+      "album": {
         "name": "PRIMAVERA",
         "url": "https://open.spotify.com/album/5fVD8qrIAGZY39dfVjfoBK"
       },
@@ -8818,7 +8912,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 136363,
       "name": "punto",
       "url": "https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0"
@@ -10762,7 +10856,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 171368,
       "name": "Ti penso",
       "url": "https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi"
@@ -11998,6 +12092,24 @@
       "duration_ms": 185185,
       "name": "Volevo essere un duro",
       "url": "https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"
+    },
+    {
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/5CGnFM04nKBlAWbSKDF38B"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193824,
+      "name": "Vorrei essere un po\u2019 pi\u00f9 alto",
+      "url": "https://open.spotify.com/track/6rjtyTMW02B0eIoaFGdw4l"
     },
     {
       "album": {

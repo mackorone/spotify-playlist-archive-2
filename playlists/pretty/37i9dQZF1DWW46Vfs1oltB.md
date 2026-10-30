@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Verbal Jint\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,494 likes - 102 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,394 likes - 102 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 101 | [LOVE \(feat\. Paloalto\)](https://open.spotify.com/track/7q0wTNSPym2IyWUcY6m5Vt) | [Kohway](https://open.spotify.com/artist/2v9PvAakxqkcjtXU7SzlQP), [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [AFRO TAPE 2](https://open.spotify.com/album/2fk1hPLeK3pWirbOb7ydTn) | 3:43 |
 | 102 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 |
 
-Snapshot ID: `AAAAACd97EUJ3hhXiQmdtSAXMOJ/oF91`
+Snapshot ID: `AAAAAAnX+B8s54PjHZg+49hzS2nYQsxP`

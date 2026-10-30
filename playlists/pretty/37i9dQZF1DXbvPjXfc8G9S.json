@@ -1,12 +1,12 @@
 {
   "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Feid\n",
-  "num_followers": 932266,
+  "num_followers": 932312,
   "original_name": "\u00c9xitos Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVI5KjULlNnFa4NMEqQur7CL/QF",
+  "snapshot_id": "AAAAAOTg0vws0wD67RdThF/JGcfNtLo0",
   "tracks": [
     {
       "added_at": "2026-10-16 00:01:52",
@@ -53,6 +53,22 @@
       "url": "https://open.spotify.com/track/0JJHZJCLquYTulx3unxiUH"
     },
     {
+      "added_at": "2026-10-30 00:01:22",
+      "album": {
+        "name": "BRINCAITO",
+        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "BRINCAITO",
+      "url": "https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C"
+    },
+    {
       "added_at": "2026-10-16 00:01:52",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -91,6 +107,30 @@
       "duration_ms": 161428,
       "name": "RIKO",
       "url": "https://open.spotify.com/track/1foTAQHxjSXKJRQxVtUcYV"
+    },
+    {
+      "added_at": "2026-10-30 00:01:22",
+      "album": {
+        "name": "Happy Monday (W Sound 10)",
+        "url": "https://open.spotify.com/album/23vSxJtcZIyDJ9h0bLCPcx"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Happy Monday - W Sound 10",
+      "url": "https://open.spotify.com/track/3IOUSbYmye1CFqdUjXYLFF"
     },
     {
       "added_at": "2026-10-16 00:01:52",
@@ -267,22 +307,6 @@
       "duration_ms": 139805,
       "name": "GALACTICOS",
       "url": "https://open.spotify.com/track/570ZVhRaCUd115A5uoD87c"
-    },
-    {
-      "added_at": "2026-10-16 00:01:52",
-      "album": {
-        "name": "Noches Sin Fin",
-        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "Ya Borracho",
-      "url": "https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh"
     },
     {
       "added_at": "2026-10-16 00:01:52",
@@ -551,22 +575,6 @@
       "duration_ms": 167428,
       "name": "After",
       "url": "https://open.spotify.com/track/6xNVBgIRbb9cHKR1ipzIfm"
-    },
-    {
-      "added_at": "2026-10-16 00:01:52",
-      "album": {
-        "name": "QU\u00c9 L\u00cdO",
-        "url": "https://open.spotify.com/album/6FXL5Y6vlq2nWuubKZymog"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 132827,
-      "name": "QU\u00c9 L\u00cdO",
-      "url": "https://open.spotify.com/track/5vDhrXCNTkyahObQwZOYL9"
     },
     {
       "added_at": "2026-10-16 00:01:52",
@@ -921,20 +929,20 @@
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
-      "added_at": "2026-10-16 00:01:52",
+      "added_at": "2026-10-30 00:01:22",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+        "name": "Te Imagino",
+        "url": "https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
+      "duration_ms": 251639,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4"
     },
     {
       "added_at": "2026-10-23 00:01:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,972 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,974 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Зарязан](https://open.spotify.com/track/3f9supfupV4i2WU5yjv41N) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Зарязан](https://open.spotify.com/album/4xiRlTZlyYNTr4elIdTkOp) | 3:45 |
 | 50 | [Без теб](https://open.spotify.com/track/4cLi9bZRMvDITlmKdo6D2l) | [MOMO RECORDS](https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo), [Gyoky](https://open.spotify.com/artist/4EZoIglbasg5y5mpZd6BDY) | [Без теб](https://open.spotify.com/album/09NC1p0kOfh8Z5NlznPoTp) | 2:38 |
 
-Snapshot ID: `MnQmYAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MnbQaAAAAAAAAAAAAAAAAAAAAAAAAGVu`

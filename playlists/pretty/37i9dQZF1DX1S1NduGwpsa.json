@@ -1,13 +1,29 @@
 {
-  "description": "The best jazz new releases. Cover: Thomas Dutronc",
-  "num_followers": 169473,
+  "description": "The best jazz new releases. Cover: Stella Cole",
+  "num_followers": 169533,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANrxM+TS+8lQKwssvfb4PgdpqsTv",
+  "snapshot_id": "AAAAAFuWdZSdiJ62nUukAPw3okOlvUlz",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:01:01",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/1zx46KvPM1RyqJ6VOhUJIH"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/0R5j6ygRWhHhArjrsokvgW"
+    },
     {
       "added_at": "2026-10-23 04:00:58",
       "album": {
@@ -107,6 +123,26 @@
       "duration_ms": 160991,
       "name": "christmas dream",
       "url": "https://open.spotify.com/track/5fVup6wvsY48cTwcVjlCiP"
+    },
+    {
+      "added_at": "2026-10-30 04:01:01",
+      "album": {
+        "name": "A Date with Depeche Mode",
+        "url": "https://open.spotify.com/album/4kwVAkI2UNwSslmw45UVkx"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IpuysNI5h5YMzF4lpbPud"
     },
     {
       "added_at": "2026-10-16 04:00:11",
@@ -1079,22 +1115,6 @@
     {
       "added_at": "2026-10-16 04:00:11",
       "album": {
-        "name": "Simplifier",
-        "url": "https://open.spotify.com/album/3cAJ1xUKVl88xCCHpsQwqt"
-      },
-      "artists": [
-        {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Simplifier",
-      "url": "https://open.spotify.com/track/08VHbH4A2hBnSDKiLW2UFW"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
         "name": "Miles '56 (Remastered 2026)",
         "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
       },
@@ -1127,22 +1147,6 @@
       "duration_ms": 159340,
       "name": "Eco do Futuro",
       "url": "https://open.spotify.com/track/08NXZbmhDroOdEDOdvud7K"
-    },
-    {
-      "added_at": "2026-10-16 04:00:11",
-      "album": {
-        "name": "Vi M\u00f6ts I Parken",
-        "url": "https://open.spotify.com/album/2GqKtUJxgtMUw5LfkGfpKG"
-      },
-      "artists": [
-        {
-          "name": "Oh, My.",
-          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "Vi M\u00f6ts I Parken",
-      "url": "https://open.spotify.com/track/2llCvtc96wyOPz5n40LPp9"
     },
     {
       "added_at": "2026-10-16 04:00:11",

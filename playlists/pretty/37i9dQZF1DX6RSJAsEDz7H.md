@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Listen to all the music from Grand Theft Auto VI, out Nov 19.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,423 likes - 30 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,380 likes - 30 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 29 | [Thunder Island](https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj) | [Jay Ferguson](https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl) | [Thunder Island](https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj) | 4:00 |
 | 30 | [Hot Together](https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Hot Together \(Expanded Edition\)](https://open.spotify.com/album/3zqXEoZHyNuY83hlQa201O) | 4:13 |
 
-Snapshot ID: `AAAAACWqsGm3HinXNuQZ24rcBoFKjdRe`
+Snapshot ID: `AAAAAJvzNny3agFUxQyobj8JoQsFvcaU`

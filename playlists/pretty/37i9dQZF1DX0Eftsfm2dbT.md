@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > ヒップホップの最新トレンドをここで体感しよう Cover: Creepy Nuts \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,437 likes - 113 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,467 likes - 113 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 112 | [Cypher G 2026](https://open.spotify.com/track/0BgcDpVYem91lD8cgrAmNa) | [Jairo nark](https://open.spotify.com/artist/1lmUrNTjONM6jJsBpyBULM), [will away](https://open.spotify.com/artist/3Eb0QAEpwk7AcvcJH51E36), [Dumbperson](https://open.spotify.com/artist/1wE10VAKwnX23fLkN5AoqS), [Hameln](https://open.spotify.com/artist/6VRxyHxQe8Opi7El2dGcBE), [onyourmaxx](https://open.spotify.com/artist/4YBhkx8yAR56CLzso5fxkc) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 5:05 |
 | 113 | [Cypher H 2026](https://open.spotify.com/track/0eAsdHhy5bTHPwlrbWLeO7) | [Buz](https://open.spotify.com/artist/3HLwtkKPPvrbf7iCZnGKgO), [TAKEKO420](https://open.spotify.com/artist/2FtjPnppfeem0hu0wteHr0), [Yvv](https://open.spotify.com/artist/39UcCubzNCNx2O4zRROCS1), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [Pabi](https://open.spotify.com/artist/0hAWa983TF5sMnm4S8ZMU8) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 6:00 |
 
-Snapshot ID: `AAAAACxkyTWWASDnrq7y002TwqqlnxoI`
+Snapshot ID: `AAAAAIAxjtVCo4owNDtCuFRxYDO97C6S`

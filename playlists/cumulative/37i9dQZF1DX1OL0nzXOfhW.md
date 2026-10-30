@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: REGENT 林暐竣
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: PAULA 區子琳
 
-342 songs - 19 hr 53 min
+346 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-01 | 2025-02-28 |
 | [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-04-17 | 2026-04-07 |
 | [Break The Wall \(ViuTV 節目《公司逼我打籃球》主題曲\)](https://open.spotify.com/track/6F5wzLRCz2kuWutggrcoDc) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [Break The Wall \(ViuTV 節目《公司逼我打籃球》主題曲\)](https://open.spotify.com/album/4jg17kdCEglYysG24ZWTdc) | 3:35 | 2025-06-26 | 2026-01-15 |
+| [Burning Rose](https://open.spotify.com/track/4PfVHwyQRwA7WEJ3mI2Top) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [seven steps](https://open.spotify.com/album/6D7Y9MgOLNZxCuC7wsMV3s) | 3:26 | 2026-10-29 |  |
 | [By Yourside](https://open.spotify.com/track/0BjC8c6M1DbUdURTcCI2yg) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [By Yourside](https://open.spotify.com/album/3bXdcyT0H461hxkItZPHAL) | 3:07 | 2025-03-27 | 2026-04-07 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-05-26 | 2023-04-14 |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2022-05-26 | 2023-04-14 |
@@ -164,7 +165,7 @@
 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 | 2024-02-01 | 2025-03-28 |
 | [TRIPPIN](https://open.spotify.com/track/3w45N7JMqsnYqko8VmQ9DS) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [TRIPPIN](https://open.spotify.com/album/0r9CWKeNllgadGS079yej4) | 3:17 | 2023-09-29 | 2025-03-28 |
 | [twentyone](https://open.spotify.com/track/3CuSZNQMOfutttNqxeUunT) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [twentyone](https://open.spotify.com/album/4aSaLC8d1BhE18tLtfLs5c) | 3:31 | 2022-08-18 | 2023-04-14 |
-| [Twinkle Twinkle Little Love](https://open.spotify.com/track/3g7TMIVAUWJBhXzLpUVdoc) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [Re:Uni](https://open.spotify.com/album/19tCSebufXa3TQpYgGmjVC) | 2:56 | 2026-07-17 |  |
+| [Twinkle Twinkle Little Love](https://open.spotify.com/track/3g7TMIVAUWJBhXzLpUVdoc) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [Re:Uni](https://open.spotify.com/album/19tCSebufXa3TQpYgGmjVC) | 2:56 | 2026-07-17 | 2026-10-30 |
 | [Voodoo](https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Eric Sisco](https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Voodoo](https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9) | 2:43 | 2024-10-10 | 2025-03-28 |
 | [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 | 2024-04-04 | 2025-03-28 |
 | [Wasting My Time](https://open.spotify.com/track/5remZo5pOeZAUryQF2842f) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Wasting My Time](https://open.spotify.com/album/5DYv7TlkM27nMzhSgvbT9T) | 3:10 | 2025-03-27 | 2026-04-07 |
@@ -236,6 +237,7 @@
 | [失戀（及其他災難）](https://open.spotify.com/track/46cEgSefxQJJdVJk0d5KyU) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h), [Georgina 陳樂頤](https://open.spotify.com/artist/4JO14JxctLwBDIdQh8rWyZ), [Kay 李凱翹](https://open.spotify.com/artist/6Xj1zJEUdbDPNIKxhJre5H), [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [失戀（及其他災難）](https://open.spotify.com/album/20K0V13vXT1GlvfTx9DF2X) | 3:23 | 2026-04-06 |  |
 | [失約巴黎](https://open.spotify.com/track/4BEltAGEqpAGiZHakYyRE9) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [失約巴黎](https://open.spotify.com/album/67wQwAfZPCkFf4s3QQY4I4) | 3:42 | 2023-09-15 | 2024-03-29 |
 | [如果花火可不消散](https://open.spotify.com/track/2BsjEHHq0jEpkpGMBMRHCm) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR) | 4:06 | 2026-04-06 |  |
+| [宇宙只給我半日](https://open.spotify.com/track/0EdZ9illPDJOHvhX5iAoAw) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [宇宙只給我半日](https://open.spotify.com/album/7LyLL1ugvVJTneBPjxNCEg) | 3:19 | 2026-10-29 |  |
 | [密友圈之謎](https://open.spotify.com/track/3y0lJ61OCKBAszQuNS6y5I) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [密友圈之謎](https://open.spotify.com/album/1CntcnUkxUxnr4pwwgkhdR) | 2:24 | 2025-03-27 | 2026-04-07 |
 | [寶貝](https://open.spotify.com/track/0sHhCmkw2kPiptphcn2c3t) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Lily](https://open.spotify.com/artist/4SyOeqnA6bO9xwHJf8pFoR) | [寶貝](https://open.spotify.com/album/3HMRa0x9dlizDUAPyhlvUR) | 2:51 | 2022-11-17 | 2023-04-14 |
 | [小狼](https://open.spotify.com/track/6hoSVAwiu0l8p8Bo90Lz9P) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [Re:Uni](https://open.spotify.com/album/19tCSebufXa3TQpYgGmjVC) | 3:23 | 2026-07-17 |  |
@@ -271,6 +273,7 @@
 | [是 Am](https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [是 Am](https://open.spotify.com/album/0bMv2UDQtyg5ww8D61LrVX) | 6:29 | 2024-07-18 | 2025-03-28 |
 | [時間的碎片](https://open.spotify.com/track/1ZcQPyUh1gnOQM2xyzVkxj) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [時間的碎片](https://open.spotify.com/album/4ylOjobPfhlgoeizP6uUvp) | 3:39 | 2025-04-03 | 2026-04-07 |
 | [時間計](https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [時間計](https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT) | 3:27 | 2023-01-19 | 2023-05-12 |
+| [晚·安歌](https://open.spotify.com/track/29jjQRtVgkH155sCmtCuUE) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [晚·安歌](https://open.spotify.com/album/1CymVq4NlMFTefEAYKSIDs) | 4:09 | 2026-10-29 |  |
 | [晚安莉莉](https://open.spotify.com/track/0p5J6e2EQqmQC1nG2mlOlV) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR) | 3:36 | 2026-04-06 |  |
 | [暴走女團](https://open.spotify.com/track/0teORBLgjBFQmCU4IzXqP0) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [暴走女團](https://open.spotify.com/album/7BOCjh4M9coY2fOMOyQOEX) | 2:54 | 2025-09-08 | 2026-01-15 |
 | [最終局](https://open.spotify.com/track/0Kp3qB6FtdbGkVkvxz6KgN) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [ngo⁵](https://open.spotify.com/album/41KGazA3CEnkvVVr2FQuNN) | 3:32 | 2026-04-06 |  |
@@ -344,6 +347,7 @@
 | [陪我一路漫遊](https://open.spotify.com/track/7cdqe0b8SqKmnIgjdyd8wE) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [陪我一路漫遊](https://open.spotify.com/album/73lCZhrasUVaFCP0V0Ixh6) | 4:12 | 2025-03-27 | 2026-04-07 |
 | [雙重標準](https://open.spotify.com/track/1OiklcoRnHkogk3CXZ5L5F) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [雙重標準](https://open.spotify.com/album/6zy9x4waP413cRXAGILBab) | 3:00 | 2025-03-27 | 2026-04-07 |
 | [雙重標準](https://open.spotify.com/track/2T8F5UEJvJn9ppTyvcoC07) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [C Major](https://open.spotify.com/album/5ISlaZzUVuosWUpU9Uxv9l) | 3:00 | 2025-12-03 | 2026-01-15 |
+| [離苦](https://open.spotify.com/track/52jItSdc5UpiXn940qFl3w) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [離苦](https://open.spotify.com/album/1X5EcCUKddrOD6VAcel9fY) | 3:38 | 2026-10-29 |  |
 | [韓劇愛情](https://open.spotify.com/track/540EcptGH7FWJkoCIn9cYr) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [韓劇愛情](https://open.spotify.com/album/4qeJK9mEWNhp0p9Rz0Mw70) | 3:23 | 2026-02-12 | 2026-04-07 |
 | [頭號粉絲](https://open.spotify.com/track/4TUGkhgohsCAFYtQpF5GCX) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [頭號粉絲](https://open.spotify.com/album/3tn92tnVJNIIYLu8MIRpQB) | 4:19 | 2025-03-27 | 2026-04-07 |
 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 | 2024-03-28 | 2025-03-28 |

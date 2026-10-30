@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-291 songs - 14 hr 4 min
+292 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Brighter](https://open.spotify.com/track/2FmQv4uDrTBw9Hor1dCdBb) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y) | [Brighter](https://open.spotify.com/album/4HWqkhmqLAfLJCuy2mS1tz) | 3:00 | 2025-07-04 |  |
 | [Bush It](https://open.spotify.com/track/3g2jWIG2CksGkkFcMToBuF) | [AvAlanche](https://open.spotify.com/artist/11jLFmLFGf83IgPhy1SEZA), [Bersu Bayraktar](https://open.spotify.com/artist/4XVlrTkUvsFMuTEOmIGTlv), [Meteos](https://open.spotify.com/artist/2Jb9bIfRooA7GkoGjRO6gV) | [Bush It](https://open.spotify.com/album/3Kkxv2kwYxf9N7QIl9KxNW) | 2:14 | 2026-10-02 |  |
 | [Call Me A Spaceman](https://open.spotify.com/track/5NYejXf1mwigePilCGLjdM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Mitch Crown](https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm) | [Spaceman](https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla) | 3:09 | 2025-07-04 |  |
+| [Camera Flash](https://open.spotify.com/track/02Jp00dHUFueWTKKhNgEPB) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [2ACES](https://open.spotify.com/artist/5dHy2mDWei8fmwzE3fsrC3) | [Camera Flash](https://open.spotify.com/album/58c8uH9Hz690KI5gVxtPtY) | 2:45 | 2026-10-29 |  |
 | [Can You Hear Me](https://open.spotify.com/track/36sRkngMlQND4AhklENGzQ) | [Broken Frequency](https://open.spotify.com/artist/3gb38YdrsmCSEIQoDMnJqU), [MC Roga](https://open.spotify.com/artist/2ZghcB8YjDWv3KKQRB7pzy) | [Can You Hear Me](https://open.spotify.com/album/15U4ntA3zZQSfyjJT8EGbJ) | 2:51 | 2025-07-04 |  |
 | [Cannonball \- Radio Edit](https://open.spotify.com/track/2CYXttmf0SMgzJ0lODtnBT) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ) | [Cannonball](https://open.spotify.com/album/4fabnyoFuUtoGFCtCqSKcb) | 3:22 | 2025-07-04 |  |
 | [Carry On](https://open.spotify.com/track/51JxU3SCvmkPCkMDXYw4hB) | [Samlight](https://open.spotify.com/artist/2O8vLNXeIM7NGGUAb5LxX8), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Carry On](https://open.spotify.com/album/6THQHorcC4l999ZOSRNMKY) | 3:05 | 2025-09-04 |  |

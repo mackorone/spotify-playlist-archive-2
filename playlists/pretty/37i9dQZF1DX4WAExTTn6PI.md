@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Caroline Marie Brooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,820 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,852 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 98 | [Light You Up](https://open.spotify.com/track/0Qt9kAwwqqJy1rRCGmAy9U) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU), [Lennon VanderDoes](https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30) | [Light You Up](https://open.spotify.com/album/40pp3uJVipDn2CEbAApfDl) | 3:37 |
 | 99 | [All Day](https://open.spotify.com/track/5yxfccv96ZD2O8Sdj7oJ8D) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Feet On Fire](https://open.spotify.com/album/6tYkBHJ4XuFKmtHJbqcJ2Q) | 2:29 |
 
-Snapshot ID: `AAAAAEoozEsFSRzWFWh5N8uTjl9qUmxV`
+Snapshot ID: `AAAAAClb82+lKBeECe0KPUJ3jGeT8js6`

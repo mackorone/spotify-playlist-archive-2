@@ -1,12 +1,12 @@
 {
   "description": "What's happening in r&b, right now \u2013 featuring Avenoir.",
-  "num_followers": 361283,
+  "num_followers": 361231,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFeFJVlTP3KpwSBMmTYaQqa9U8JT",
+  "snapshot_id": "AAAAAAHkCH54GzghnRPza5iCsuUb0DTE",
   "tracks": [
     {
       "added_at": "2026-10-23 04:00:28",
@@ -23,6 +23,22 @@
       "duration_ms": 215453,
       "name": "Superposition",
       "url": "https://open.spotify.com/track/5vR7uJE1YTA9p3n6xBE1p1"
+    },
+    {
+      "added_at": "2026-10-16 04:00:21",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -45,22 +61,6 @@
       "url": "https://open.spotify.com/track/4MBN3o3wB4uEWGgKXXjVo0"
     },
     {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
-    },
-    {
       "added_at": "2026-10-23 04:00:28",
       "album": {
         "name": "the 5 stages of heartbreak",
@@ -75,6 +75,38 @@
       "duration_ms": 181769,
       "name": "the 5 stages of heartbreak",
       "url": "https://open.spotify.com/track/0eFNKgtxSByzY9fDkP5ZWs"
+    },
+    {
+      "added_at": "2026-10-30 04:01:05",
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/5RTAObv08gamZTBJG2CEk6"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/4CxmgfD19iejZ1FtVIkaCJ"
+    },
+    {
+      "added_at": "2026-10-30 04:01:05",
+      "album": {
+        "name": "SOFTER",
+        "url": "https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 173122,
+      "name": "SOFTER",
+      "url": "https://open.spotify.com/track/7b4ZxX9iEyPyppCyx53ea2"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -151,6 +183,22 @@
       "duration_ms": 197760,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
+      "added_at": "2026-10-30 04:01:05",
+      "album": {
+        "name": "Lovers Comet",
+        "url": "https://open.spotify.com/album/7FGJghCQlNwAzgZMuPCPam"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 212248,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/7udoE44W1PHV4M7gdgM50K"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -403,22 +451,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "Damage Control",
-        "url": "https://open.spotify.com/album/3h0ameRqy3yknW9UNYjxPV"
-      },
-      "artists": [
-        {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
-        }
-      ],
-      "duration_ms": 179390,
-      "name": "Damage Control",
-      "url": "https://open.spotify.com/track/36BQ5kwJ66QRgOk4a66U34"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/3pwFGUUHPPQo25cHgi7VLM"
       },
@@ -667,22 +699,6 @@
     {
       "added_at": "2026-10-16 04:00:21",
       "album": {
-        "name": "Brown Suga",
-        "url": "https://open.spotify.com/album/7AlCAqqMmMbov0vgbSGfN1"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Brown Suga",
-      "url": "https://open.spotify.com/track/3n9UvBVVPoz6ZycXQ6Sm4V"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
         "name": "Yearning",
         "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 173868,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "Please Don't",
-        "url": "https://open.spotify.com/album/0fG1AObi7n1cc1MylCPeOq"
-      },
-      "artists": [
-        {
-          "name": "RIZ",
-          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
-        }
-      ],
-      "duration_ms": 237073,
-      "name": "Please Don't",
-      "url": "https://open.spotify.com/track/0e4FVyZ3mwPmNTPzPy1gQ3"
     },
     {
       "added_at": "2026-10-16 04:00:21",
@@ -1675,22 +1675,6 @@
       "duration_ms": 185741,
       "name": "friends",
       "url": "https://open.spotify.com/track/2wjc0DH5AhndXQQQd74wky"
-    },
-    {
-      "added_at": "2026-10-16 04:00:21",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/5zXWAjUQ1Sv1aEF3HYLeuu"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 215850,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/4k7lVsIunyMi4eHr4SmjDU"
     },
     {
       "added_at": "2026-10-16 04:00:21",

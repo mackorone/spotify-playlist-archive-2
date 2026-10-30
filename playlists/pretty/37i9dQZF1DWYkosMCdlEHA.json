@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 155367,
+  "num_followers": 155386,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOcnqC4RWkPvCaOOw4mMge5ng3J",
+  "snapshot_id": "AAAAAINFw0Eo/kVcQvP1Mh0ioUvghBj1",
   "tracks": [
     {
       "added_at": "2026-07-02 21:47:25",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Beach in Hawaii",
+      "url": "https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "Sess\u00e3o Da Tarde",
         "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Beach in Hawaii",
-      "url": "https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Easy Skanking In Boston '78",
+        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 335466,
+      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
+      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "Proibiram as Flores (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 238687,
       "name": "Proibiram as Flores - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Easy Skanking In Boston '78",
-        "url": "https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 335466,
-      "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
-      "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Segue em Frente",
-        "url": "https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
       },
       "artists": [
         {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Desde as Estrelas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK"
+      "duration_ms": 287159,
+      "name": "A Ilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Wls6Mo3QpCTnfa1kSEs6X"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+        "name": "Segue em Frente",
+        "url": "https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3"
       },
       "artists": [
         {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
         }
       ],
-      "duration_ms": 287159,
-      "name": "A Ilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Wls6Mo3QpCTnfa1kSEs6X"
+      "duration_ms": 250920,
+      "name": "Desde as Estrelas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 205856,
+      "name": "Onda do Arraial - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "Ao Vivo em SP",
         "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 287053,
       "name": "Medley: \u00c1rvore do Reggae / M\u00fasica de Jah / Ame Sua Miss\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 205856,
-      "name": "Onda do Arraial - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 308901,
+      "name": "A Casa do Sol/Sentimento - Ao Vivo",
+      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "A Cera (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 308901,
-      "name": "A Casa do Sol/Sentimento - Ao Vivo",
-      "url": "https://open.spotify.com/track/5AxcOoKhbmtT3nxZiK8qnM"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
         "name": "Road to Rebellion, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2moVoeaHLXICs5SF4UD1z7"
       },
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 224264,
+      "name": "Nesses Olhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "Pra Voar / Posso Ser (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 236280,
       "name": "O Er\u00ea (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1Mfx88JU9ztFfsGc2k5pCQ"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 224264,
-      "name": "Nesses Olhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Maneva: Ac\u00fasticas",
+        "url": "https://open.spotify.com/album/42stLnqYZmfD7QL82nEzEW"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 210273,
+      "name": "O Destino N\u00e3o Quis - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7cn3KL7hU1vzMiCJwUMwQY"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "Ac\u00fastico Cidade Negra",
         "url": "https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 304266,
       "name": "Extra (Ac\u00fastico) (feat. Gilberto Gil)",
       "url": "https://open.spotify.com/track/5HPhu5dKT6MNTOzWclNiz1"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Maneva: Ac\u00fasticas",
-        "url": "https://open.spotify.com/album/42stLnqYZmfD7QL82nEzEW"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 210273,
-      "name": "O Destino N\u00e3o Quis - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7cn3KL7hU1vzMiCJwUMwQY"
     },
     {
       "added_at": "2026-07-02 21:47:25",

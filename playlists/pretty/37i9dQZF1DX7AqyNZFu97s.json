@@ -1,13 +1,141 @@
 {
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Zeddy East",
-  "num_followers": 39669,
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Louis Ottley",
+  "num_followers": 39689,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFd/vSHX1HlJgnTrpsjcfk2O4Ry",
+  "snapshot_id": "AAAAAFUTEW/bSi/TNDapMsybNt2vD4J6",
   "tracks": [
+    {
+      "added_at": "2026-10-29 21:06:35",
+      "album": {
+        "name": "Ponder Neek",
+        "url": "https://open.spotify.com/album/0qoSNEhxEAQCgMg9p65AEq"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "duration_ms": 155237,
+      "name": "Ponder Neek",
+      "url": "https://open.spotify.com/track/3FQwEFzzf40iVo0xA6SjBb"
+    },
+    {
+      "added_at": "2026-10-29 21:06:35",
+      "album": {
+        "name": "Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/4qZf9jdFIs2DdiQcmKCPjD"
+      },
+      "artists": [
+        {
+          "name": "Ruby Aeron",
+          "url": "https://open.spotify.com/artist/6yaRQJMtG4zuH0qPme91xP"
+        }
+      ],
+      "duration_ms": 146388,
+      "name": "Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2d8PoEif6i4ks29EvBTl6K"
+    },
+    {
+      "added_at": "2026-10-13 23:00:30",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/6BRqB5vMGEwAtasZYQMkmv"
+      },
+      "artists": [
+        {
+          "name": "BETH",
+          "url": "https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/6l6YJNTpsyRzQ9natD6NWp"
+    },
+    {
+      "added_at": "2026-10-29 21:06:35",
+      "album": {
+        "name": "maria",
+        "url": "https://open.spotify.com/album/2EG73KOEhUnJlY7FqBKaF5"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "does it still rain?",
+      "url": "https://open.spotify.com/track/6GeMUTDG5S3JAfKpmufn27"
+    },
+    {
+      "added_at": "2026-10-29 21:06:35",
+      "album": {
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/0aYfHIkw54BLXSZnqw6yI1"
+      },
+      "artists": [
+        {
+          "name": "jo from school",
+          "url": "https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT"
+        }
+      ],
+      "duration_ms": 182634,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/4ja1qfXr2DJFYzSxWhQQFp"
+    },
+    {
+      "added_at": "2026-10-29 21:06:35",
+      "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1In4MpJozb9h0525jhEdee"
+      },
+      "artists": [
+        {
+          "name": "Rio Tashan",
+          "url": "https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/3eE5KGR1D2E3bROi9fivg7"
+    },
+    {
+      "added_at": "2026-10-13 23:00:30",
+      "album": {
+        "name": "GirlMagnet",
+        "url": "https://open.spotify.com/album/3VhOfi3Bg6CMLuSc835Izk"
+      },
+      "artists": [
+        {
+          "name": "Jacklyn",
+          "url": "https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv"
+        }
+      ],
+      "duration_ms": 143444,
+      "name": "GirlMagnet",
+      "url": "https://open.spotify.com/track/4v7XP5LpUPNW6Y81ndn4DJ"
+    },
+    {
+      "added_at": "2026-10-13 23:00:30",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/0v31BEPvW4Ir0izqK5LaAX"
+      },
+      "artists": [
+        {
+          "name": "Hotgirl",
+          "url": "https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1vJzefOeSrcqLwSGcy92es"
+    },
     {
       "added_at": "2026-10-28 00:00:19",
       "album": {
@@ -335,38 +463,6 @@
     {
       "added_at": "2026-10-13 23:00:30",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/0v31BEPvW4Ir0izqK5LaAX"
-      },
-      "artists": [
-        {
-          "name": "Hotgirl",
-          "url": "https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/1vJzefOeSrcqLwSGcy92es"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/6BRqB5vMGEwAtasZYQMkmv"
-      },
-      "artists": [
-        {
-          "name": "BETH",
-          "url": "https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/6l6YJNTpsyRzQ9natD6NWp"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
         "name": "Eudaimonia",
         "url": "https://open.spotify.com/album/5NassOY6eCixoqsuAaNn1I"
       },
@@ -659,22 +755,6 @@
     {
       "added_at": "2026-10-13 23:00:30",
       "album": {
-        "name": "GirlMagnet",
-        "url": "https://open.spotify.com/album/3VhOfi3Bg6CMLuSc835Izk"
-      },
-      "artists": [
-        {
-          "name": "Jacklyn",
-          "url": "https://open.spotify.com/artist/4GnL3vqSsGCPpYtrHWWnjv"
-        }
-      ],
-      "duration_ms": 143444,
-      "name": "GirlMagnet",
-      "url": "https://open.spotify.com/track/4v7XP5LpUPNW6Y81ndn4DJ"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
         "name": "I can't bring myself to care/Stuck between",
         "url": "https://open.spotify.com/album/6EOAT6pr3KTQI9Nrtus1ry"
       },
@@ -719,70 +799,6 @@
       "duration_ms": 227130,
       "name": "melancholy (chain)",
       "url": "https://open.spotify.com/track/5CAxWw8SslEPgfMWJdIOQb"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "wish u",
-        "url": "https://open.spotify.com/album/0aKeyMr8TBJZ87ToNctoqF"
-      },
-      "artists": [
-        {
-          "name": "The Twins",
-          "url": "https://open.spotify.com/artist/6vsNRwGyyXmphFE9Lu27qi"
-        }
-      ],
-      "duration_ms": 110400,
-      "name": "wish u",
-      "url": "https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "leave myself behind",
-        "url": "https://open.spotify.com/album/2JLtrDTTr5qxNXhD3g0EbQ"
-      },
-      "artists": [
-        {
-          "name": "frances mistry",
-          "url": "https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "whydoitry?",
-      "url": "https://open.spotify.com/track/2jsUfrXac6zWH651dcSkzk"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Where the Fairies Lie",
-        "url": "https://open.spotify.com/album/1slvZQBeHdjFA5h344FYOl"
-      },
-      "artists": [
-        {
-          "name": "Ruby Aeron",
-          "url": "https://open.spotify.com/artist/6yaRQJMtG4zuH0qPme91xP"
-        }
-      ],
-      "duration_ms": 166752,
-      "name": "Where the Fairies Lie",
-      "url": "https://open.spotify.com/track/1v5F9Lf9UqhdGUasJF84EQ"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/6tIMT1JvRvkGh2FpxacyBU"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Hall",
-          "url": "https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/5h6egLpDakVbp8QnBIn8yD"
     }
   ],
   "unique_name": "Fresh Finds UK & IE",

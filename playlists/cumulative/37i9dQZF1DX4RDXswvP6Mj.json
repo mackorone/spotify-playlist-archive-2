@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: JEONGHAN, JOSHUA) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: XLOV) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -7973,6 +7973,24 @@
     },
     {
       "album": {
+        "name": "i=!",
+        "url": "https://open.spotify.com/album/0aon1QIkvHxoqo4TCoaIUE"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4gZq0LX1vEGAHJXitARTUV"
+    },
+    {
+      "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },
@@ -9708,7 +9726,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 180112,
       "name": "LIVE FAST DIE SLOW",
       "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
@@ -10956,7 +10974,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 193000,
       "name": "Motto",
       "url": "https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn"
@@ -17770,6 +17788,24 @@
       "duration_ms": 211424,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/5uLmuhciq58ZtIVxj78Ftm"
+    },
+    {
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
     },
     {
       "album": {

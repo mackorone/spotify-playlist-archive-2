@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Lagrimitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,122 likes - 109 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,135 likes - 109 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 108 | [Proba no llamar al Transa](https://open.spotify.com/track/69vEsEYVMS5ypme9lpjNkA) | [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Plano Virtual](https://open.spotify.com/album/4wUSt3QoeJpdzUNvkX4Ujl) | 3:00 |
 | 109 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 |
 
-Snapshot ID: `AAAAANf+6wYBmXqXiKzQyVgTFePiwChC`
+Snapshot ID: `AAAAAPX5OGwukA1QRRBDdDV6Q/eKV+X/`

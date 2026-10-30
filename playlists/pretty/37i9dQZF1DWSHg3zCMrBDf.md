@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: King Promise
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,847 likes - 54 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,924 likes - 54 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 53 | [METICULOUS](https://open.spotify.com/track/0EOJaskdfTGIonmCYIhiDd) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [CHRISTO DISCO](https://open.spotify.com/album/4gaAgEC4Gb0NBdl7wBSgCN) | 3:53 |
 | 54 | [Forever \(feat\. AratheJay\)](https://open.spotify.com/track/3tc3pVVcG9S3B30Jte0EJd) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 3:16 |
 
-Snapshot ID: `AAAAALQUNOClxPmFpJGlMdt/w5rUYFTJ`
+Snapshot ID: `AAAAALzC7vcNvsboJq8JDX92RuIKawIg`

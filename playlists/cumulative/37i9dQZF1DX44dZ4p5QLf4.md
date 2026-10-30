@@ -2,7 +2,7 @@
 
 ### [Soul Currents](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> Hand\-picked releases from the new wave in soul\. Cover: Shamis
+> Hand\-picked releases from the new wave in soul\. Cover: Mara Mandeau
 
 707 songs - 1 day 16 hr 37 min
 

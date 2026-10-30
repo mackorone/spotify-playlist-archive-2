@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 172147,
       "name": "Bitti",
       "url": "https://open.spotify.com/track/0KN5jobcA3qEwvqeuboHEy"
@@ -7456,6 +7456,28 @@
       "duration_ms": 257820,
       "name": "Kalbimde Dikenli Teller",
       "url": "https://open.spotify.com/track/5JsV7S997H4gqUZJ7U0yow"
+    },
+    {
+      "album": {
+        "name": "Kalmam (Akustik)",
+        "url": "https://open.spotify.com/album/5bw9nQcpWkQleE8S6mIej7"
+      },
+      "artists": [
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        },
+        {
+          "name": "Bilal Sonses",
+          "url": "https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213284,
+      "name": "Kalmam - Akustik",
+      "url": "https://open.spotify.com/track/50JOgk0tfbKstWcIV20w1x"
     },
     {
       "album": {

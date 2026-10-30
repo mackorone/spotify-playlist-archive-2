@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Winona Fighter
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,854 likes - 126 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,876 likes - 126 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 125 | [Message From the Venus Flower](https://open.spotify.com/track/12XzOflMnDhJhME7hcoMxU) | [Death Valley Girls](https://open.spotify.com/artist/0EvAIYxDOmvxkCv35jfmS9) | [Basic Witch](https://open.spotify.com/album/1vSclX1bRPoJPUaag0Hh5s) | 2:42 |
 | 126 | [Unforgiven](https://open.spotify.com/track/12BoCZELfYcQmqGVyMuR42) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [Unforgiven](https://open.spotify.com/album/4T645Im7q24AE4AkWXz5eN) | 2:41 |
 
-Snapshot ID: `AAAAAI0J3Z1hjHWQcLng9wnARGtHAPFM`
+Snapshot ID: `AAAAABzPAr13MxuN4wka0dKnyMh9Sq75`

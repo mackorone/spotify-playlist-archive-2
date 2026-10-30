@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 10 hr 27 min
+176 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Stars in Your Heart](https://open.spotify.com/track/2sY3vFxiV9EQfVopuo7iwZ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 4:47 | 2024-06-02 |  |
 | [Stars in Your Heart](https://open.spotify.com/track/5eRBVwiHcwWVaibGQRxj8T) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Stars in Your Heart](https://open.spotify.com/album/3QmZ6o9hTaFq8bo2HaBUX4) | 4:48 | 2024-02-27 | 2024-06-03 |
 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 | 2024-02-27 |  |
-| [Tanlines](https://open.spotify.com/track/4rVEiGcyZDFK49J4N8zbgr) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 3:45 | 2024-02-27 |  |
+| [Tanlines](https://open.spotify.com/track/4rVEiGcyZDFK49J4N8zbgr) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 3:45 | 2024-02-27 | 2026-10-30 |
+| [Tanlines](https://open.spotify.com/track/6c44SsvjFwgmG3XCTya7lg) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/6fJyUNSVHYr4UmBi0oRBX2) | 3:45 | 2026-10-29 |  |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2024-02-27 |  |
 | [Teenage Dream / Break Free](https://open.spotify.com/track/2JELSAbzbj1j2VbbqT7GyM) | [David Bedella](https://open.spotify.com/artist/7bkK3M7QA5LDpIbPoSC7dE), [Melanie La Barrie](https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:09 | 2024-02-27 |  |
 | [Thanks For Nothing](https://open.spotify.com/track/16xdlfTG9qkGYtrewla55U) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 2:50 | 2024-02-27 |  |

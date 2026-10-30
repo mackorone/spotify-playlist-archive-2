@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 137662,
+  "num_followers": 137679,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAG1uoAA6klFf4y39yzHiIQ",
+  "snapshot_id": "at/pgAAAAACDoH2zlxwsGGl1GsPcW+yn",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man Without Fear (Feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "The Man Without Fear (Feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 212720,
       "name": "(I'm a) Rock \"N\" Roller",
       "url": "https://open.spotify.com/track/7jlfQRNwTCZtcdkmlBqrXG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man Without Fear (Feat. Rob Zombie)",
-        "url": "https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        },
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "The Man Without Fear (Feat. Rob Zombie)",
-      "url": "https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
+        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 174466,
-      "name": "The Life And Times Of A Teenage Rock God",
-      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
+      "duration_ms": 207160,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lunar Injection Kool Aid Eclipse Conspiracy",
-        "url": "https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 207160,
-      "name": "Get Loose",
-      "url": "https://open.spotify.com/track/1yOJ8D7H2sv2a0iKCFSXNG"
+      "duration_ms": 174466,
+      "name": "The Life And Times Of A Teenage Rock God",
+      "url": "https://open.spotify.com/track/0xdeIyhlfgOq9BAg3VUr5G"
     },
     {
       "added_at": null,

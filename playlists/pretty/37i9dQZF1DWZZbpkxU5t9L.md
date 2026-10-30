@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Olivia Rodrigo, Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,089 likes - 61 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,063 likes - 61 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 60 | [マイオンリー](https://open.spotify.com/track/0CeyAPE5CjL749WIjveUAc) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [マイオンリー](https://open.spotify.com/album/5uEUJGYo4OU4Ap254o0FUA) | 3:46 |
 | 61 | [summer film](https://open.spotify.com/track/22XNz0VJZKVgM4CpbMLD0x) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [summer film](https://open.spotify.com/album/1NE7XgXb1YQFCyco6AsEmC) | 5:49 |
 
-Snapshot ID: `AAAAAMHfia1uxgOOvzg5nRtFYS9YnF9F`
+Snapshot ID: `AAAAAE6rVrcuNoCtZS4xXNY6RkXr42xP`

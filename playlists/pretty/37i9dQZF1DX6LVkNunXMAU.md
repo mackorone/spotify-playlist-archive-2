@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Camila Bañados
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,548 likes - 107 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,554 likes - 107 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 106 | [Horas](https://open.spotify.com/track/4FaScgamlCykrD6cVF3oh8) | [Sol Melisma](https://open.spotify.com/artist/3EkEaGrhiS1N76uTeKRNQb) | [Horas](https://open.spotify.com/album/2o4y3NPQW9V0NkofUArRUr) | 2:23 |
 | 107 | [Enero](https://open.spotify.com/track/7HfrRXHfYWHCEAkuZH6aH2) | [Jota Ampuero](https://open.spotify.com/artist/5TYH8AoYhLcpT8XY5RUTyu), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Enero](https://open.spotify.com/album/12Awh3SA8gFqUCsxZAtKDk) | 2:04 |
 
-Snapshot ID: `AAAAAJXuwlJNEB/VXG/xBDnNYR0L8wsP`
+Snapshot ID: `AAAAABJELX/MKgmeiVPrAWMWlsiBYGHX`

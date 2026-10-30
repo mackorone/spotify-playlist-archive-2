@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Shygirl.
 
-920 songs - 2 day 8 hr 33 min
+921 songs - 2 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,7 @@
 | [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [gao dan dan](https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ) | 2:12 | 2026-09-11 |  |
 | [Need You](https://open.spotify.com/track/32EbZeoDAXpEyxiTm3mG6P) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Need You](https://open.spotify.com/album/1ZCDNZ42SoSukKI4QPebqA) | 2:54 | 2024-06-28 | 2025-02-15 |
 | [Neuromancer](https://open.spotify.com/track/18VlAbo4c4NLA82SXapfgs) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [Neoforma](https://open.spotify.com/album/6suoSX8lLQX99UrMHf1XnO) | 6:16 | 2025-11-14 | 2026-02-14 |
-| [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 | 2025-12-05 |  |
+| [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 | 2025-12-05 | 2026-10-30 |
 | [Nevermind](https://open.spotify.com/track/6gW7QZfXLHfwcuw9hZvzkB) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Nevermind](https://open.spotify.com/album/0E759JQ6VvJzfkhrOsLB5Z) | 3:01 | 2026-08-07 |  |
 | [New Energy](https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [New Energy](https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW) | 2:58 | 2025-01-07 | 2025-04-12 |
 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-17 | 2024-07-27 |
@@ -697,6 +697,7 @@
 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 | 2024-03-08 | 2024-05-18 |
 | [SAVE ME](https://open.spotify.com/track/2jhHn52N4AJzM14SZlAcPd) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6), [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi) | [SAVE ME](https://open.spotify.com/album/6N4OC2eXGvKGlNj8MtwH82) | 3:21 | 2025-04-04 | 2025-06-14 |
 | [Say It](https://open.spotify.com/track/6qz6MREKavkUBqlM4vWLbL) | [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Say It](https://open.spotify.com/album/53Yb9x1ITQv8qry0IQTXNe) | 3:40 | 2024-04-26 | 2024-06-25 |
+| [Seaford Sunset](https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Seaford Sunset](https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM) | 3:38 | 2026-10-30 |  |
 | [searching](https://open.spotify.com/track/1H0gKahkWSNnNnBEYQyAoX) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [searching](https://open.spotify.com/album/4JFKDlnzhn44lISfGzwSQG) | 3:02 | 2024-05-24 | 2024-06-29 |
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-14 | 2025-05-24 |
 | [Self\-Sabotage](https://open.spotify.com/track/0EGT9hBhHs9FdiXn3YHxU0) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj) | [ONDAS](https://open.spotify.com/album/5iIc0ZZnzXf6POnkJNQdJX) | 3:02 | 2025-11-07 | 2026-05-09 |

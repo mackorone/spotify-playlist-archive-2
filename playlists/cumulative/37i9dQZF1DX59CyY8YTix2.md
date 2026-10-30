@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-2,106 songs - 5 day 10 hr 21 min
+2,107 songs - 5 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1427,6 +1427,7 @@
 | [バンドマンきらいかも](https://open.spotify.com/track/3gHq2sxFHMh0JhzrRxMeCg) | [輪廻](https://open.spotify.com/artist/3KePD29FOQughZmXqHlt0v) | [バンドマンきらいかも](https://open.spotify.com/album/3YcKuVOeB5TKlFtw04pd46) | 4:13 | 2022-07-26 | 2022-08-10 |
 | [バーカ!](https://open.spotify.com/track/6JFOoi6YmB31AXVvs5EVJy) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [たからもの](https://open.spotify.com/album/17KGnAT0A34CBTIVnXmXGT) | 1:11 | 2024-04-16 | 2024-04-24 |
 | [パビリオン](https://open.spotify.com/track/4CiZoNJQyFVSBAM7WisSCr) | [Kinoko Hotel](https://open.spotify.com/artist/54kSq4Nz99jYuneoUIPXpS) | [パビリオン](https://open.spotify.com/album/54oWhySwtm8BggBDN8trlB) | 4:48 | 2022-06-21 | 2022-06-29 |
+| [パルス](https://open.spotify.com/track/4exRySsBiNAZB4AeRjctMB) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [パルス](https://open.spotify.com/album/1pRZosYED7veA2GH8JiuJX) | 3:42 | 2026-10-14 |  |
 | [パーフェクショニズム](https://open.spotify.com/track/1zzggv9cl2FG1ScPbr3gHk) | [取リ沙汰](https://open.spotify.com/artist/3MKMOWMFRZUyyLX7WlDoHD) | [パーフェクショニズム](https://open.spotify.com/album/7eICmvP5FCM5TSKFDZdqWA) | 3:12 | 2023-10-31 | 2023-11-08 |
 | [ピアノのうた](https://open.spotify.com/track/0QBx28zQX1NRLsLxsBfJPD) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ピアノのうた](https://open.spotify.com/album/0m7aYfaDainyoMeDaLbU68) | 4:06 | 2022-05-31 | 2022-06-02 |
 | [ピカレスクヒーロー](https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ピカレスクヒーロー](https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU) | 3:26 | 2026-01-13 | 2026-05-29 |
@@ -1539,7 +1540,7 @@
 | [リベリオン](https://open.spotify.com/track/3JTIwNusgtT95H26DDadkc) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 2:58 | 2024-02-08 | 2024-04-19 |
 | [リベリオン](https://open.spotify.com/track/67fZ9ZOO5gLFCJjLwocwgx) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [リベリオン](https://open.spotify.com/album/0gUR3ZvPFgZ58cO5dKL80r) | 1:55 | 2024-08-06 | 2025-02-19 |
 | [リンカーネーション](https://open.spotify.com/track/4u1aJqeQ9hTJ24VpUrqPtg) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [リンカーネーション](https://open.spotify.com/album/7HfdgMA80IFSNZCmKjWGKN) | 4:25 | 2022-06-21 | 2022-06-23 |
-| [リンダ リンダ](https://open.spotify.com/track/5xO0ynhnuVy9dLLOTAabac) | [パ\-ランマウム](https://open.spotify.com/artist/5I1aEYkdNib5fVrGMyREVy) | [映画「リンダ リンダ リンダ」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf) | 2:38 | 2026-09-01 |  |
+| [リンダ リンダ](https://open.spotify.com/track/5xO0ynhnuVy9dLLOTAabac) | [パ\-ランマウム](https://open.spotify.com/artist/5I1aEYkdNib5fVrGMyREVy) | [映画「リンダ リンダ リンダ」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf) | 2:38 | 2026-09-01 | 2026-10-30 |
 | [ルビを振れ](https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ルビを振れ](https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS) | 3:54 | 2024-11-12 | 2024-12-11 |
 | [ルミナ](https://open.spotify.com/track/3Hxw8q9Ud3FcHePAPBVnVW) | [明くる夜の羊](https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi) | [cradle](https://open.spotify.com/album/6k6FP9lE5388BZppsuNPiZ) | 3:09 | 2026-07-21 | 2026-08-19 |
 | [ルージュの伝言](https://open.spotify.com/track/5WAbPoq187MvAYExnuxPTM) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 3:18 | 2023-10-31 | 2023-11-19 |

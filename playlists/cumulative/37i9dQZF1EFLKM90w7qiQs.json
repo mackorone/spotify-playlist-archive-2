@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/1FPTrSxtlfZvTcGE7n23DX"
+      },
+      "artists": [
+        {
+          "name": "Alya",
+          "url": "https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169907,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3Cof51IjtIRLXf9kE2rJWf"
+    },
+    {
+      "album": {
         "name": "LESS DEPRESSED",
         "url": "https://open.spotify.com/album/4QWhQfzQxuIz4sAea2MAMX"
       },

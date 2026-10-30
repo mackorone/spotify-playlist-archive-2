@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > ya se armó el desma muertero 🧟‍♂️👹🧌
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,359 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,436 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 99 | [Kraken](https://open.spotify.com/track/09L9pzE5wVrNEbbtQ9Tv0N) | [Banda Aires del Pacífico](https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH) | [Kraken](https://open.spotify.com/album/31VRqX2KYghVfj4hxp8K5i) | 4:13 |
 | 100 | [El Guajolote Muertero Carnavalero](https://open.spotify.com/track/2dJMPKkb6NGf0L6RLNWMwL) | [Banda Vientos del Sur la Consentida de México](https://open.spotify.com/artist/2KcYkDHI9nlxKMSk7JF4d4), [Banda la Xoxtleña](https://open.spotify.com/artist/4QpB08EmFGPZsiGzaVSILd) | [El Guajolote Muertero Carnavalero](https://open.spotify.com/album/3UOH2c1lAof173FwrFOr5A) | 2:49 |
 
-Snapshot ID: `AAAAACQLw6CzdkqyaJHwmG3sTUoNety+`
+Snapshot ID: `AAAAAK9XReYetaz1T9YkqOVM8OB54RAP`

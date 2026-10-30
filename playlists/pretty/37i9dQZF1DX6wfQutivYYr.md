@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> KAROL G, Judeline e rusowskY  in cover della playlist con tutte le hit 🔥
+> Geolier  in cover della playlist con tutte le hit 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,704,878 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,704,541 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
+| 1 | [NON SEI PIÙ TU \(feat\. Lazza\)](https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TUTTO È POSSIBILE \- ATTO II](https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK) | 2:54 |
 | 2 | [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 |
 | 3 | [Da Dio](https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Da Dio](https://open.spotify.com/album/1XjzMjgg0ktZSGrUv3j1bs) | 2:53 |
 | 4 | [QUANTO FORTE TI PENSAVO](https://open.spotify.com/track/7ldyOPtbSh2t7iOEAsFOlR) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L'AMORE](https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG) | 3:33 |
 | 5 | [CASINI](https://open.spotify.com/track/2E8t8hDqKvFqSEwmD7Q8zd) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CASINI](https://open.spotify.com/album/2e5UwmD0na8dQgvxzJIrAN) | 3:08 |
-| 6 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
-| 7 | [Canto d’amore \(con Marco Mengoni\)](https://open.spotify.com/track/3JjyzXQ07ODREBhJknQgLS) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Canto d’amore \(con Marco Mengoni\)](https://open.spotify.com/album/164ST8Sbg81Pr7rJZ1iKBN) | 3:14 |
-| 8 | [NON SEI PIÙ TU \(feat\. Lazza\)](https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TUTTO È POSSIBILE \- ATTO II](https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK) | 2:54 |
+| 6 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
+| 7 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
+| 8 | [Canto d’amore \(con Marco Mengoni\)](https://open.spotify.com/track/3JjyzXQ07ODREBhJknQgLS) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Canto d’amore \(con Marco Mengoni\)](https://open.spotify.com/album/164ST8Sbg81Pr7rJZ1iKBN) | 3:14 |
 | 9 | [Ne vale la pena feat\. Sayf](https://open.spotify.com/track/4SwCfaa4bSDcmviaT9hFbf) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 3:21 |
 | 10 | [SOTTOGONNA](https://open.spotify.com/track/7BhOZov2Rm3XSDlPohUdIv) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [SOTTOGONNA](https://open.spotify.com/album/5DCuq9aAYdQZn03BYpKXfm) | 2:55 |
 | 11 | [PER NOI \(feat\. Achille Lauro\)](https://open.spotify.com/track/732WNonZ79rEmJPydodL1R) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [PER NOI \(feat\. Achille Lauro\)](https://open.spotify.com/album/1uRSKCLWPKEa8L85Ga4Pjh) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 49 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
 | 50 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 |
 
-Snapshot ID: `AAAAAF/yFY38VsjX3+cdjKunOjPuqYp5`
+Snapshot ID: `AAAAADiifyVNcpclbqQxIoCrLYznC2qx`

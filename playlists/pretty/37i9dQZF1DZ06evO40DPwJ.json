@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 19395,
+  "num_followers": 19399,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAA6gSDduYaWgHMM+xdN6Hez",
+  "snapshot_id": "at/pgAAAAADpwLGLB6gOHYH/g9cKbzzK",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 218706,
-      "name": "She's Like A Star",
-      "url": "https://open.spotify.com/track/7KBwU1bouDcULSjHjpdoFb"
+      "duration_ms": 208611,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There She Goes",
-        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 208611,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
+      "duration_ms": 218706,
+      "name": "She's Like A Star",
+      "url": "https://open.spotify.com/track/7KBwU1bouDcULSjHjpdoFb"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Just Wanna Know",
-      "url": "https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rokstarr (Special Edition)",
         "url": "https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 212853,
       "name": "Telling The World",
       "url": "https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/4k4ATqsMCM50atR4B8Q1m9"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do What You Like",
+        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 200340,
+      "name": "Do What You Like",
+      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 218853,
       "name": "Dirty Picture",
       "url": "https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do What You Like",
-        "url": "https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 200340,
-      "name": "Do What You Like",
-      "url": "https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me On You",
-        "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "Me On You",
-      "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 206253,
       "name": "Take Me Back - 2010 Remix",
       "url": "https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me On You",
+        "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 196222,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
     },
     {
       "added_at": null,

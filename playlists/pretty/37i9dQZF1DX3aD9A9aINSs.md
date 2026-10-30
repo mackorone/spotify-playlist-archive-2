@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Şenceylik
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,243 likes - 89 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,233 likes - 89 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 88 | [Sen](https://open.spotify.com/track/5CYr1qj84TdfRP2WZqEeGQ) | [GülDen](https://open.spotify.com/artist/5q7OtbpCupktZB3iWG0wca) | [Sen](https://open.spotify.com/album/3xPxgukeNKkeh8KAR9aXik) | 3:35 |
 | 89 | [Benim Şarkım \- Live](https://open.spotify.com/track/6WwzNYsX2VlyHmFwzWy6n2) | [Elif Güreşçi](https://open.spotify.com/artist/4We1L6dotI156qvwpPqsxn) | [Benim Şarkım \(Live\)](https://open.spotify.com/album/48ZwYUbtKTkHpDbk8E1U4T) | 2:43 |
 
-Snapshot ID: `AAAAADWyz1H582j2foIwE5h1zKNRkmpw`
+Snapshot ID: `AAAAALge8Y+/8zWAtxvIoutRCKm3p2QG`

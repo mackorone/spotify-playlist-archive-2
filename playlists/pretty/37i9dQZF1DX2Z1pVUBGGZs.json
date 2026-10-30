@@ -1,12 +1,12 @@
 {
-  "description": "a playlist without boundaries \ud83d\ude80 cover: cikho",
-  "num_followers": 294593,
+  "description": "a playlist without boundaries \ud83d\ude80 cover: Chloe Qisha",
+  "num_followers": 294542,
   "original_name": "Our Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOu6MWnxhJktxV82zYtI3fVxm7JU",
+  "snapshot_id": "AAAAAFppLtcCVQWw9F2KfB9dnXf7dR8L",
   "tracks": [
     {
       "added_at": "2026-10-22 23:00:41",
@@ -23,6 +23,22 @@
       "duration_ms": 169484,
       "name": "3am",
       "url": "https://open.spotify.com/track/0s9frKa4hX1ac1SsEYxWt1"
+    },
+    {
+      "added_at": "2026-10-30 00:00:11",
+      "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 214335,
+      "name": "He Likes Boys",
+      "url": "https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -57,6 +73,26 @@
       "url": "https://open.spotify.com/track/3clpq7tgqi0jcvg16K3c0V"
     },
     {
+      "added_at": "2026-10-30 00:00:11",
+      "album": {
+        "name": "true eyes",
+        "url": "https://open.spotify.com/album/7EELqUusIEDgRAwlv2H6Y9"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "duration_ms": 130160,
+      "name": "true eyes",
+      "url": "https://open.spotify.com/track/48RRZuWTjGh5lWNUsKcxvZ"
+    },
+    {
       "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "bide my time",
@@ -71,6 +107,22 @@
       "duration_ms": 161745,
       "name": "bide my time",
       "url": "https://open.spotify.com/track/6aZEGN4NXYPV7NUUEaDJPA"
+    },
+    {
+      "added_at": "2026-10-30 00:00:11",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/5pPx1xu0kLg6SLP6RvXona"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 191851,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4AhOCTJYtVcCkftroo64VF"
     },
     {
       "added_at": "2026-10-22 23:00:41",
@@ -125,6 +177,22 @@
       "url": "https://open.spotify.com/track/3pCV00K5AzZ8LtkaNCjiuX"
     },
     {
+      "added_at": "2026-10-30 00:00:11",
+      "album": {
+        "name": "Gauzy",
+        "url": "https://open.spotify.com/album/1TN0wwvO5zwNTgPrO2uFg4"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "duration_ms": 194038,
+      "name": "Gauzy",
+      "url": "https://open.spotify.com/track/3MtUIbDLylrLtfWyAZJQ6t"
+    },
+    {
       "added_at": "2026-10-22 23:00:41",
       "album": {
         "name": "Leave Me There",
@@ -157,20 +225,20 @@
       "url": "https://open.spotify.com/track/0io70b2LG1aE7ZNwpsgkcP"
     },
     {
-      "added_at": "2026-10-15 23:00:26",
+      "added_at": "2026-10-30 00:00:11",
       "album": {
-        "name": "She's Just A Friend Of Mine",
-        "url": "https://open.spotify.com/album/2RwbSWEsPaS21vssjkLHC2"
+        "name": "I Love (Badly)",
+        "url": "https://open.spotify.com/album/57xnJLgaHTWaO5cn2NyCau"
       },
       "artists": [
         {
-          "name": "twst",
-          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
         }
       ],
-      "duration_ms": 160265,
-      "name": "She's Just A Friend Of Mine",
-      "url": "https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8"
+      "duration_ms": 171990,
+      "name": "I Love (Badly)",
+      "url": "https://open.spotify.com/track/4bfort8Y7B2K2ZZfwm88nS"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -187,6 +255,22 @@
       "duration_ms": 296285,
       "name": "\u2060Wildfire",
       "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
+    },
+    {
+      "added_at": "2026-10-30 00:00:11",
+      "album": {
+        "name": "It All Comes To End",
+        "url": "https://open.spotify.com/album/5j820r3qXPjho7Sehhlkr2"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 249187,
+      "name": "It All Comes To End",
+      "url": "https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -237,6 +321,22 @@
       "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
     },
     {
+      "added_at": "2026-10-30 00:00:11",
+      "album": {
+        "name": "or I could go to bed",
+        "url": "https://open.spotify.com/album/0KmTttklhl7uS3nxuScF1Y"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 222189,
+      "name": "or i could go to bed",
+      "url": "https://open.spotify.com/track/0x3XZ0hqGR5o3JU7hxPkiS"
+    },
+    {
       "added_at": "2026-10-15 23:00:26",
       "album": {
         "name": "Broken chair",
@@ -283,6 +383,22 @@
       "duration_ms": 320713,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/3HGZUb5t818Ie2MsJJZhMq"
+    },
+    {
+      "added_at": "2026-10-30 00:00:11",
+      "album": {
+        "name": "bragger's rights",
+        "url": "https://open.spotify.com/album/0s03nwKLHEv1jcQ08nh7WW"
+      },
+      "artists": [
+        {
+          "name": "favourite daughter",
+          "url": "https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk"
+        }
+      ],
+      "duration_ms": 184756,
+      "name": "sick joke",
+      "url": "https://open.spotify.com/track/743frEh1dCzyFWNWay6wkx"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -363,6 +479,22 @@
       "duration_ms": 250237,
       "name": "Prince Of The Park",
       "url": "https://open.spotify.com/track/6Fh06IwS6hPWqoW35rd4JJ"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "She's Just A Friend Of Mine",
+        "url": "https://open.spotify.com/album/2RwbSWEsPaS21vssjkLHC2"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        }
+      ],
+      "duration_ms": 160265,
+      "name": "She's Just A Friend Of Mine",
+      "url": "https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8"
     },
     {
       "added_at": "2026-10-22 23:00:41",
@@ -613,6 +745,22 @@
       "url": "https://open.spotify.com/track/5I8Mj6WpssjjLlvj1yxCer"
     },
     {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Tsycophant",
+        "url": "https://open.spotify.com/album/2gGPhtIU0XVFsLYhDrLfz8"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "duration_ms": 203852,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/7rIP9s9N1gDYEXKj3VmDWb"
+    },
+    {
       "added_at": "2026-10-22 23:00:41",
       "album": {
         "name": "Do You Believe Me Yet?",
@@ -691,6 +839,22 @@
       "duration_ms": 199386,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/2BjbVLuIpyL53l4LEScuUx"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "Not Cool",
+        "url": "https://open.spotify.com/album/10K90z7u4oN08wiwIeWrQX"
+      },
+      "artists": [
+        {
+          "name": "Disgusting Sisters",
+          "url": "https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe"
+        }
+      ],
+      "duration_ms": 176810,
+      "name": "Not Cool",
+      "url": "https://open.spotify.com/track/6ZfXGI85ZmI5PV9sNAmwV1"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -855,22 +1019,6 @@
     {
       "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "Tsycophant",
-        "url": "https://open.spotify.com/album/2gGPhtIU0XVFsLYhDrLfz8"
-      },
-      "artists": [
-        {
-          "name": "Tsatsamis",
-          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
-        }
-      ],
-      "duration_ms": 203852,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/7rIP9s9N1gDYEXKj3VmDWb"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
         "name": "Rather You Leave",
         "url": "https://open.spotify.com/album/0VhlajjpFQPn7OPPSE6NmG"
       },
@@ -931,6 +1079,22 @@
       "duration_ms": 214000,
       "name": "does it still rain?",
       "url": "https://open.spotify.com/track/6GeMUTDG5S3JAfKpmufn27"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/4ZjAfdKKRfibE5gVDkDCWs"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -1175,6 +1339,22 @@
     {
       "added_at": "2026-10-15 23:00:26",
       "album": {
+        "name": "Creepy",
+        "url": "https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn"
+      },
+      "artists": [
+        {
+          "name": "Soraya Cinema",
+          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
+        }
+      ],
+      "duration_ms": 140211,
+      "name": "Creepy",
+      "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
         "name": "Be A Better Man",
         "url": "https://open.spotify.com/album/6WC68BpTv5XUz6AsAsqKSa"
       },
@@ -1203,38 +1383,6 @@
       "duration_ms": 176374,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/0ALTn9RcHqy9WxuYERQDDB"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "Bone Structure",
-        "url": "https://open.spotify.com/album/5Nqd6iPF3I8dFnVw66cFNV"
-      },
-      "artists": [
-        {
-          "name": "Dolder",
-          "url": "https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb"
-        }
-      ],
-      "duration_ms": 181880,
-      "name": "Bone Structure",
-      "url": "https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "Wishing Bone",
-        "url": "https://open.spotify.com/album/7xtBW8XGdQdjPwnlZ8G42P"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Wishing Bone",
-      "url": "https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -1375,22 +1523,6 @@
     {
       "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "death of an english high street",
-        "url": "https://open.spotify.com/album/78YPArVN2ni7Ni3A6cotEd"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "angels",
-      "url": "https://open.spotify.com/track/5aErTHmtbhPX6CJXh5MPgz"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
         "name": "Painkiller (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/2F1FhufyLQkZ8laR5PckEx"
       },
@@ -1455,22 +1587,6 @@
       "duration_ms": 166221,
       "name": "Slush Puppy",
       "url": "https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "A Confession (I'm broke)",
-        "url": "https://open.spotify.com/album/1W4ctRW6AJVu33dioe0LtA"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 175612,
-      "name": "A Confession (I'm broke)",
-      "url": "https://open.spotify.com/track/4YDLXum9ibc7nIQ0Rgxwgb"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -1559,22 +1675,6 @@
     {
       "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "Not Cool",
-        "url": "https://open.spotify.com/album/10K90z7u4oN08wiwIeWrQX"
-      },
-      "artists": [
-        {
-          "name": "Disgusting Sisters",
-          "url": "https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe"
-        }
-      ],
-      "duration_ms": 176810,
-      "name": "Not Cool",
-      "url": "https://open.spotify.com/track/6ZfXGI85ZmI5PV9sNAmwV1"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
         "name": "Biting My Tongue",
         "url": "https://open.spotify.com/album/4Ha0hzKj52i01kzG2WNH16"
       },
@@ -1619,62 +1719,6 @@
       "duration_ms": 194294,
       "name": "CRAVING CONNECTION !!!",
       "url": "https://open.spotify.com/track/45ZbuN78JBbOFGWvI2eHGT"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "Through The Rain",
-        "url": "https://open.spotify.com/album/6TMJwNOl0aEFtiXZLykHMb"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "Caolan Ryan",
-          "url": "https://open.spotify.com/artist/6Ru71WNPxGrAckisXVpJEE"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        }
-      ],
-      "duration_ms": 207682,
-      "name": "Through The Rain",
-      "url": "https://open.spotify.com/track/6MTvGQ6OtlBd8vsb5bzZkq"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "XY",
-        "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
-      },
-      "artists": [
-        {
-          "name": "PIXY",
-          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "LEGACY",
-      "url": "https://open.spotify.com/track/4ZjAfdKKRfibE5gVDkDCWs"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "troubled man",
-        "url": "https://open.spotify.com/album/3PquX6lQsOxFvmv8pRdT5g"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "troubled man",
-      "url": "https://open.spotify.com/track/1TXsIu8vBDn0vLQ1GteDUL"
     },
     {
       "added_at": "2026-10-15 23:00:26",
@@ -1759,22 +1803,6 @@
     {
       "added_at": "2026-10-15 23:00:26",
       "album": {
-        "name": "Creepy",
-        "url": "https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn"
-      },
-      "artists": [
-        {
-          "name": "Soraya Cinema",
-          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
-        }
-      ],
-      "duration_ms": 140211,
-      "name": "Creepy",
-      "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
         "name": "bobinov",
         "url": "https://open.spotify.com/album/5PHuY5AW0Emk7RmBuhVbQG"
       },
@@ -1787,22 +1815,6 @@
       "duration_ms": 190862,
       "name": "bobinov",
       "url": "https://open.spotify.com/track/6ZaSKP0IY1A3YRkJu9Cl1M"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "i'm not yours",
-        "url": "https://open.spotify.com/album/7D73HvJlfTD4fghC9gjmdj"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "i'm not yours",
-      "url": "https://open.spotify.com/track/4lpBtva69uPgJYobeZDjom"
     },
     {
       "added_at": "2026-10-15 23:00:26",

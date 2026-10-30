@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ドミコ Domico
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,013 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,037 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [cat](https://open.spotify.com/track/1TMwtL9ybAU3KlGS25zWBb) | [Ryunosuke Ishimori](https://open.spotify.com/artist/53HlcBsS9vEqESMTbA8Hac) | [cat](https://open.spotify.com/album/0Yt61Jm3eishz2pZqZpkhX) | 2:54 |
 | 100 | [Borderline](https://open.spotify.com/track/5GA0js49CnPorn5yv9Pm2D) | [VUW](https://open.spotify.com/artist/2myZwEHGsQwtqv8sG7yr5V) | [Inner Moon](https://open.spotify.com/album/2AAcZtl4nskAOjlYn5Bx8i) | 4:46 |
 
-Snapshot ID: `AAAAACivL3XQgTTEZN1ZTib+mkmPpK0H`
+Snapshot ID: `AAAAAOhFrM65StJzVZeWi9k85B+PIIa+`

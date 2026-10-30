@@ -1,12 +1,12 @@
 {
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
-  "num_followers": 434609,
+  "num_followers": 434749,
   "original_name": "Classical Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkL4Zt5G8d51d3UZRxCTUy3XGkq",
+  "snapshot_id": "AAAAAPvf9+hzm6V0eo0zTtpgXRETHGIB",
   "tracks": [
     {
       "added_at": "2026-10-02 04:01:01",
@@ -195,6 +195,26 @@
       "duration_ms": 311333,
       "name": "Nella Fantasia",
       "url": "https://open.spotify.com/track/41SH0UAo3nbzN4l0U38Wq3"
+    },
+    {
+      "added_at": "2026-10-30 04:00:23",
+      "album": {
+        "name": "The Way We Were: My American Songbook",
+        "url": "https://open.spotify.com/album/2DcTafhuMYalvC5I0PIIsb"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "duration_ms": 194947,
+      "name": "Some Enchanted Evening",
+      "url": "https://open.spotify.com/track/2WmifghEEOx5lJeClSAMDZ"
     },
     {
       "added_at": "2026-10-02 04:01:01",

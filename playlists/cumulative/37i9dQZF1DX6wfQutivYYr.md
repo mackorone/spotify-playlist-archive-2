@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> KAROL G, Judeline e rusowskY  in cover della playlist con tutte le hit 🔥
+> Geolier  in cover della playlist con tutte le hit 🔥
 
 385 songs - 20 hr 7 min
 

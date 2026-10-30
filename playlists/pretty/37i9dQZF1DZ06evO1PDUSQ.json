@@ -1,12 +1,12 @@
 {
   "description": "This is Orla Gartland. The essential tracks, all in one playlist.",
-  "num_followers": 3715,
+  "num_followers": 3716,
   "original_name": "This Is Orla Gartland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADDqf0awsT4Uj/tAkXHOUev",
+  "snapshot_id": "at/pgAAAAAB5lkumg+zAUUSxK7awtTFG",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Z-Sides",
-        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+        "name": "I Go Crazy",
+        "url": "https://open.spotify.com/album/2xrrcq31pRHAPdQ322aOFy"
       },
       "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        },
         {
           "name": "Orla Gartland",
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 176981,
-      "name": "All of Them Dreams",
-      "url": "https://open.spotify.com/track/6owLSHQ9u2jU9CRidHyA9B"
+      "duration_ms": 214574,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2Rj9HWaNkUsxdjM2khuqNd"
     },
     {
       "added_at": null,
@@ -151,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Z-Sides",
+        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        },
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "All of Them Dreams",
+      "url": "https://open.spotify.com/track/6owLSHQ9u2jU9CRidHyA9B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trying: Season 5 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 198519,
       "name": "So Perfect",
       "url": "https://open.spotify.com/track/2ghQex1XgicbaZg3t6n3Ty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Go Crazy",
-        "url": "https://open.spotify.com/album/2xrrcq31pRHAPdQ322aOFy"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 214574,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2Rj9HWaNkUsxdjM2khuqNd"
     },
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Needs A Hero (Extended Edition)",
-        "url": "https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS"
+        "name": "Trying: Season 5 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB"
       },
       "artists": [
         {
           "name": "Orla Gartland",
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        },
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 186410,
-      "name": "Pest",
-      "url": "https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK"
+      "duration_ms": 178869,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6etXgNf9H0d1FMb0U823yO"
     },
     {
       "added_at": null,
@@ -307,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trying: Season 5 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB"
+        "name": "Everybody Needs A Hero (Extended Edition)",
+        "url": "https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS"
       },
       "artists": [
         {
           "name": "Orla Gartland",
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        },
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 178869,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6etXgNf9H0d1FMb0U823yO"
+      "duration_ms": 186410,
+      "name": "Pest",
+      "url": "https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why Am I Like This? - EP",
-        "url": "https://open.spotify.com/album/0Nnu6aOmXPA1ERmNx0I86J"
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/4TGZnTrxluA90jNdNaOa6q"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 211178,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/6xgTRrS1aeZxnm1bYBarjU"
+      "duration_ms": 200803,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/04ITn1QsfKxIC16eoqMz0B"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/4TGZnTrxluA90jNdNaOa6q"
+        "name": "Why Am I Like This? - EP",
+        "url": "https://open.spotify.com/album/0Nnu6aOmXPA1ERmNx0I86J"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 200803,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/04ITn1QsfKxIC16eoqMz0B"
+      "duration_ms": 211178,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/6xgTRrS1aeZxnm1bYBarjU"
     },
     {
       "added_at": null,

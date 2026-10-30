@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 7 hr 42 min
+128 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Belong](https://open.spotify.com/track/6blPhUuaJYCg38wUvUjSxB) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Belong](https://open.spotify.com/album/72EZQPxBJuuPJrE1Y84jqZ) | 3:07 | 2026-07-14 |  |
 | [Big Blue](https://open.spotify.com/track/4y9gk842Csn0wVRrx5s9Kg) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Big Blue](https://open.spotify.com/album/2lFBIpW2YMFPwdkLzTXSu5) | 3:00 | 2025-10-27 |  |
 | [Blew My Life Up](https://open.spotify.com/track/44wlCR0bU5oz0P3WscbgzK) | [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Blew My Life Up](https://open.spotify.com/album/69v6fMoI5rhGV6B4vfUW7K) | 3:08 | 2025-10-27 |  |
+| [Blink](https://open.spotify.com/track/2d8cSHSPAUCIN7CKzBLEeb) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [ORIGIN //](https://open.spotify.com/album/5WefrvxluoqwDRSHC0UUav) | 3:28 | 2026-10-29 |  |
 | [Bloom Again](https://open.spotify.com/track/6sZYTNw51HHsYNEvVrJWPe) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [Bloom Again](https://open.spotify.com/album/3Yz3PNoOnlwYwoARFkEydC) | 3:09 | 2025-10-27 |  |
 | [Borders \(feat\. Julia Church\)](https://open.spotify.com/track/4stjiHJd44oovSmbK1FREN) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Borders \(feat\. Julia Church\)](https://open.spotify.com/album/2AKLsH6myw9Zy8e5CsKMnl) | 3:31 | 2025-10-27 |  |
 | [Breakthrough](https://open.spotify.com/track/7rFOM109tKPyHh0cw85g3X) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Midnight Mass](https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9) | 4:13 | 2026-02-20 |  |

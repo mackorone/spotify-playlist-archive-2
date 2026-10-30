@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: mpq \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,168 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,147 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Amazon](https://open.spotify.com/track/1nDRafsgruHWWEan85OHGX) | [Echo of Your Soul](https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy) | [靈魂的回聲](https://open.spotify.com/album/0gm1R8HQnzw1WPyj8nKlhO) | 3:18 |
 | 100 | [Peppa’s summer](https://open.spotify.com/track/4F6aflDvbZOpUciaWrWAIo) | [Ân ngờ](https://open.spotify.com/artist/3Myoe574gxIKLU5bKqjkFk), [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [0 Ngờ](https://open.spotify.com/album/7zhnx9rH8ShNiNchhqTNI9) | 4:03 |
 
-Snapshot ID: `AAAAAO9BVB7tSYOBQm6zmtGq6JJmgLf/`
+Snapshot ID: `AAAAALRpMpaIlE07yJ74jkMy/g0NyBzn`

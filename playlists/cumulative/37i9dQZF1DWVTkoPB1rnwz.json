@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "While The Flood Rages",
+        "url": "https://open.spotify.com/album/5sZ0QkaVO3XjE41k8EuPc0"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2026-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "Background Radiation",
+      "url": "https://open.spotify.com/track/2WHsmyXzyDas7bHiqap0sB"
+    },
+    {
+      "album": {
         "name": "Backward in Time",
         "url": "https://open.spotify.com/album/4zDBM1jVCNXIQWuwNOaoEe"
       },
@@ -6550,7 +6568,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 121146,
       "name": "Nord",
       "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 
 > Enjoy the world of “Black Clover”! © 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,587 likes - 45 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,637 likes - 45 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 | 44 | [伝説](https://open.spotify.com/track/05cEv76lqXwcuXqRo7y7dY) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:08 |
 | 45 | [楽しい休日](https://open.spotify.com/track/4uf7e9p1Hwu1OqWUNuR7sT) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 |
 
-Snapshot ID: `AAAAAI3cMUj8neSqt8nFXOAtgpQ3NW+l`
+Snapshot ID: `AAAAAPWo+6HIshYGoh/woPIDm3fhiIgW`

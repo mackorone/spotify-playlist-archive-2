@@ -1,13 +1,77 @@
 {
-  "description": "The best in new rock. Cover: Stand Atlantic",
-  "num_followers": 97326,
+  "description": "The best in new rock. Cover: Radio Free Alice",
+  "num_followers": 97316,
   "original_name": "Rock Out.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADFx2TbY5eJfy6epoWcY2Gsp5w5R",
+  "snapshot_id": "AAAAAOa0Uh0Cje+z1wLOM+9AN5wuuTN3",
   "tracks": [
+    {
+      "added_at": "2026-10-29 13:00:13",
+      "album": {
+        "name": "Perfecth",
+        "url": "https://open.spotify.com/album/4GUyvsWXjynz867s6Lww2p"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Run Away From the Mob",
+      "url": "https://open.spotify.com/track/7zRC0N2InIb6GPP67gSD4L"
+    },
+    {
+      "added_at": "2026-10-29 13:00:13",
+      "album": {
+        "name": "What's In Between",
+        "url": "https://open.spotify.com/album/0o3Zhp5zTfwhgCjPxPYZOj"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "duration_ms": 222761,
+      "name": "The Intersection",
+      "url": "https://open.spotify.com/track/5s6OlGDfWIIuJ7SfWBGeFs"
+    },
+    {
+      "added_at": "2026-10-22 13:00:13",
+      "album": {
+        "name": "GODBREATH",
+        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 142187,
+      "name": "SO COOL",
+      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
+    },
+    {
+      "added_at": "2026-10-15 13:00:29",
+      "album": {
+        "name": "A Different Kind of Happiness",
+        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 246899,
+      "name": "A Different Kind of Happiness",
+      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
+    },
     {
       "added_at": "2026-10-15 13:00:29",
       "album": {
@@ -43,34 +107,50 @@
     {
       "added_at": "2026-10-15 13:00:29",
       "album": {
-        "name": "A Different Kind of Happiness",
-        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+        "name": "Wish Upon You",
+        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 246899,
-      "name": "A Different Kind of Happiness",
-      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
+      "duration_ms": 277248,
+      "name": "Wish Upon You",
+      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
     },
     {
-      "added_at": "2026-10-22 13:00:13",
+      "added_at": "2026-10-29 13:00:13",
       "album": {
-        "name": "GODBREATH",
-        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
+        "name": "Off It",
+        "url": "https://open.spotify.com/album/3tpcAKCSWFWmOC4RvB67Lx"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
         }
       ],
-      "duration_ms": 142187,
-      "name": "SO COOL",
-      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
+      "duration_ms": 139374,
+      "name": "Off It",
+      "url": "https://open.spotify.com/track/4Yb8otlM6n89NRvKpj3OTd"
+    },
+    {
+      "added_at": "2026-10-15 13:00:29",
+      "album": {
+        "name": "GRUB",
+        "url": "https://open.spotify.com/album/6dBXS0RrxDRshph90OMc21"
+      },
+      "artists": [
+        {
+          "name": "GRUB",
+          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
+        }
+      ],
+      "duration_ms": 256679,
+      "name": "Goal Post",
+      "url": "https://open.spotify.com/track/2oJUwKNnM0eysM2IZAkJNS"
     },
     {
       "added_at": "2026-10-15 13:00:29",
@@ -109,20 +189,20 @@
       "url": "https://open.spotify.com/track/0r2sEzSGrjOEhY9WG5b9CC"
     },
     {
-      "added_at": "2026-10-15 13:00:29",
+      "added_at": "2026-10-29 13:00:13",
       "album": {
-        "name": "Wish Upon You",
-        "url": "https://open.spotify.com/album/1jB0LeWCN64fYmjJe2cW1V"
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/7ivD2qJ3hAoL75JKPxhUfS"
       },
       "artists": [
         {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+          "name": "FANGZ",
+          "url": "https://open.spotify.com/artist/6PuJrdkZtPSasOeTO3MJEy"
         }
       ],
-      "duration_ms": 277248,
-      "name": "Wish Upon You",
-      "url": "https://open.spotify.com/track/5S6Lu1hiwmipUZZV4g9n1Z"
+      "duration_ms": 214682,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6QddY6kBcZW7Kg6a8Y5uAe"
     },
     {
       "added_at": "2026-10-15 13:00:29",
@@ -191,22 +271,6 @@
     {
       "added_at": "2026-10-15 13:00:29",
       "album": {
-        "name": "GRUB",
-        "url": "https://open.spotify.com/album/6dBXS0RrxDRshph90OMc21"
-      },
-      "artists": [
-        {
-          "name": "GRUB",
-          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
-        }
-      ],
-      "duration_ms": 256679,
-      "name": "Goal Post",
-      "url": "https://open.spotify.com/track/2oJUwKNnM0eysM2IZAkJNS"
-    },
-    {
-      "added_at": "2026-10-15 13:00:29",
-      "album": {
         "name": "Heart of Darkness",
         "url": "https://open.spotify.com/album/3x9DfNi4Tmn81AI2Db7buQ"
       },
@@ -253,20 +317,20 @@
       "url": "https://open.spotify.com/track/33hVymJErBDnJpIpMoBGn6"
     },
     {
-      "added_at": "2026-10-15 13:00:29",
+      "added_at": "2026-10-29 13:00:13",
       "album": {
-        "name": "Breakdown",
-        "url": "https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B"
+        "name": "I Needed To Hear Me Say It",
+        "url": "https://open.spotify.com/album/7EkSLhc3BHY2buIIcU0isD"
       },
       "artists": [
         {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+          "name": "Zach Stephenson",
+          "url": "https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN"
         }
       ],
-      "duration_ms": 238106,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L"
+      "duration_ms": 222093,
+      "name": "Suction Cup",
+      "url": "https://open.spotify.com/track/3GYfz14wywcK3JfJIGOPmE"
     },
     {
       "added_at": "2026-10-22 13:00:13",
@@ -283,6 +347,22 @@
       "duration_ms": 243500,
       "name": "Windmill",
       "url": "https://open.spotify.com/track/45Cwr92B6qUPVBH5cF8WxV"
+    },
+    {
+      "added_at": "2026-10-15 13:00:29",
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/0vk6CcqcOn6iXwxBO9sf0B"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 238106,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0OVrRyAYoBD1vH3fpXuh2L"
     },
     {
       "added_at": "2026-10-15 13:00:29",
@@ -371,6 +451,22 @@
       "duration_ms": 201386,
       "name": "I know",
       "url": "https://open.spotify.com/track/1dtdCmWxgKAPVxK22OQShC"
+    },
+    {
+      "added_at": "2026-10-29 13:00:13",
+      "album": {
+        "name": "Virtual Lover",
+        "url": "https://open.spotify.com/album/14WobYbgG7aNhM09C7np58"
+      },
+      "artists": [
+        {
+          "name": "xiao xiao",
+          "url": "https://open.spotify.com/artist/4oiBay4ATBcD4ujBsLobCK"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Virtual Lover",
+      "url": "https://open.spotify.com/track/2PpCKWp67hO4NKvQr10Q8o"
     },
     {
       "added_at": "2026-10-22 13:00:13",
@@ -1211,102 +1307,6 @@
       "duration_ms": 211668,
       "name": "Overshare",
       "url": "https://open.spotify.com/track/6FTKVNwnul5ErRl7rPe1uA"
-    },
-    {
-      "added_at": "2026-10-15 13:00:29",
-      "album": {
-        "name": "Ra Ra",
-        "url": "https://open.spotify.com/album/7t1Ir2e3r1KcWC6KiAFQbW"
-      },
-      "artists": [
-        {
-          "name": "Ra Ra Viper",
-          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
-        }
-      ],
-      "duration_ms": 264967,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/13EowSp6P5NxD0dI5PabSH"
-    },
-    {
-      "added_at": "2026-10-15 13:00:29",
-      "album": {
-        "name": "Lethal Devotion",
-        "url": "https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 321777,
-      "name": "Hypoxia",
-      "url": "https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r"
-    },
-    {
-      "added_at": "2026-10-15 13:00:29",
-      "album": {
-        "name": "easy rider",
-        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
-      },
-      "artists": [
-        {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
-        }
-      ],
-      "duration_ms": 234218,
-      "name": "easy rider",
-      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
-    },
-    {
-      "added_at": "2026-10-15 13:00:29",
-      "album": {
-        "name": "life",
-        "url": "https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ"
-      },
-      "artists": [
-        {
-          "name": "REDD.",
-          "url": "https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "life",
-      "url": "https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH"
-    },
-    {
-      "added_at": "2026-10-15 13:00:29",
-      "album": {
-        "name": "Living Room",
-        "url": "https://open.spotify.com/album/6xTiV4aeEdyG9HPYDotzaK"
-      },
-      "artists": [
-        {
-          "name": "Sonic Reducer",
-          "url": "https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL"
-        }
-      ],
-      "duration_ms": 186439,
-      "name": "All I'll Ever Know",
-      "url": "https://open.spotify.com/track/2zSMcbwXJ6aRpb5nx56psa"
-    },
-    {
-      "added_at": "2026-10-15 13:00:29",
-      "album": {
-        "name": "Gummy Bear",
-        "url": "https://open.spotify.com/album/2xRcRgR5v3IarPPqByXE6Y"
-      },
-      "artists": [
-        {
-          "name": "Le Shiv",
-          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
-        }
-      ],
-      "duration_ms": 164757,
-      "name": "Gummy Bear",
-      "url": "https://open.spotify.com/track/3QyuHDL1hZyISsSfCrjgP9"
     }
   ],
   "unique_name": "Rock Out.",

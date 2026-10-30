@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > El barrio bufa y mambotea en compañía de Dulzón
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,062 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,035 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 39 | [Si No Te Quisiera](https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [The King Is Back](https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu) | 3:05 |
 | 40 | [Son Tan Solo \- En Vivo](https://open.spotify.com/track/7fLTm7s2DxtnJQLNSDCFo1) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Omega & Mambo Violento](https://open.spotify.com/artist/6rJUtZpvTY3iuCsWIO6IYg) | [Exitos Del Pasado \(En Vivo\)](https://open.spotify.com/album/7h5s4G6MQMFZeqCjVoNyrp) | 3:40 |
 
-Snapshot ID: `AAAAAN3a8OJRPzshaaWSIgSC8Cm3nhLV`
+Snapshot ID: `AAAAABrUjU9XNpmlK6XgVoPVbEA2jelj`

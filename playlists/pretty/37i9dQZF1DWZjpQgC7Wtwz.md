@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,406 likes - 77 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,463 likes - 77 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 76 | [Detenerla Ya](https://open.spotify.com/track/5XDgRg4Kzd75h03SJ56whi) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.2](https://open.spotify.com/album/4YuvubHUXDuVMl429UROvV) | 3:16 |
 | 77 | [Sin Ti](https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:45 |
 
-Snapshot ID: `AAAAAB2QQEVGkU1Fe4G3Yv3GHoteagEs`
+Snapshot ID: `AAAAAKITrVqn8f3Iq/4L8UH0lq6CD40U`

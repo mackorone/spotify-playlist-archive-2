@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Rashmeet Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,393 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,402 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [PURSE](https://open.spotify.com/track/4cis0rIJPhcoMlMep7Ptjs) | [Ravneet Aulakh](https://open.spotify.com/artist/453LAV0rJFBUtCeXm650FW), [Amrinder](https://open.spotify.com/artist/2lxae2IzNF3i1907MciYOr) | [PURSE](https://open.spotify.com/album/3bCOLFnU1G2pKuVqlvOo18) | 2:34 |
 | 50 | [Bhulekhe](https://open.spotify.com/track/5H9ry3GVPJ7sqyWl1Qth6F) | [Mikki Kalyan](https://open.spotify.com/artist/0ZNULUVcrieYhGci2qr134), [Pitterr](https://open.spotify.com/artist/4kFmVHFnKNFrkxQ2Pf42qt), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Bhulekhe](https://open.spotify.com/album/488S9BjZAsmSp52rDeLZqn) | 3:08 |
 
-Snapshot ID: `AAAAAG7JsEH7HdcSfw7zlfwsIRDQQBT1`
+Snapshot ID: `AAAAAKPrN4RA/RMEVfSzj30mfl3IH+Xs`

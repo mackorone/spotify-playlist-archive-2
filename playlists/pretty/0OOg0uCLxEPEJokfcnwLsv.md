@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,421 likes - 62 songs - 3 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,432 likes - 63 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 60 | [Armour Hill](https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Armour Hill](https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw) | 4:19 |
 | 61 | [Butterfly](https://open.spotify.com/track/16O07dMipBszv1IXqPO3Bl) | [Richard Hart](https://open.spotify.com/artist/0L1ciSkqtvLbsAmRenx3Cb) | [Butterfly](https://open.spotify.com/album/6fAmumUIB9Xcne6enUXwCD) | 4:31 |
 | 62 | [Hole In The Page](https://open.spotify.com/track/0YnttbLpSAZxLWF0TqYZw0) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 3:06 |
+| 63 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
 
-Snapshot ID: `AAAHSDKmh58evi591PcWNn4KuE1jIkPs`
+Snapshot ID: `AAAHScQ0k/mJe+aHONmbNWnzM2hb+Os2`

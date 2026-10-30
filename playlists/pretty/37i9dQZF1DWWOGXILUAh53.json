@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Jazzy\n",
-  "num_followers": 459756,
+  "num_followers": 460087,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACwSFNXJba1E4n0DaVC7mx0ucwJD",
+  "snapshot_id": "AAAAANgvqKb/tDrFNQzkUkOKdqKDKbg7",
   "tracks": [
     {
       "added_at": "2026-10-23 19:56:26",
@@ -25,6 +25,62 @@
       "url": "https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"
     },
     {
+      "added_at": "2026-10-30 04:01:40",
+      "album": {
+        "name": "BE MY LOVER",
+        "url": "https://open.spotify.com/album/1Mp4yjHVZdAmf1pN1HhE8T"
+      },
+      "artists": [
+        {
+          "name": "Dallas Austin",
+          "url": "https://open.spotify.com/artist/2ZnP7Vw0Rkz8KksxReWfji"
+        },
+        {
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        },
+        {
+          "name": "Darlene McCoy",
+          "url": "https://open.spotify.com/artist/6IFoxYp4s7WuFlCAqfYaMn"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "BE MY LOVER",
+      "url": "https://open.spotify.com/track/4qUwfqV0XXJP4VWPlM4J4D"
+    },
+    {
+      "added_at": "2026-10-30 04:01:40",
+      "album": {
+        "name": "My Ego Told Me To...Do A Fan Edition",
+        "url": "https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 165762,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/3OvgA9rjBeKPR4BDI6TrhB"
+    },
+    {
+      "added_at": "2026-10-30 04:01:40",
+      "album": {
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/2gvGcD2Aw8vf458HgUEjKY"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "duration_ms": 206545,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/7vPagNQR5CifjAK9O4LBVC"
+    },
+    {
       "added_at": "2026-10-23 19:56:26",
       "album": {
         "name": "Levi Did It",
@@ -39,6 +95,22 @@
       "duration_ms": 192704,
       "name": "Back To The Start",
       "url": "https://open.spotify.com/track/6O1Amd1GbUPMg2ugA4OIqh"
+    },
+    {
+      "added_at": "2026-10-30 04:01:40",
+      "album": {
+        "name": "l0st the pl0t",
+        "url": "https://open.spotify.com/album/4qWFl2YWjzaKnN1zUmw3N7"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 170945,
+      "name": "l0st the pl0t",
+      "url": "https://open.spotify.com/track/0QMZ5UMH66vqfzEUZGx3Ez"
     },
     {
       "added_at": "2026-10-23 19:56:26",
@@ -1791,74 +1863,6 @@
       "duration_ms": 192580,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "My People",
-        "url": "https://open.spotify.com/album/6ypD23tp3wECaBpN14ATKD"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 164317,
-      "name": "My People",
-      "url": "https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Only Girl",
-        "url": "https://open.spotify.com/album/6YT5QPVZzh7JIA7HK4gGHp"
-      },
-      "artists": [
-        {
-          "name": "Alice Pisano",
-          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
-        }
-      ],
-      "duration_ms": 206048,
-      "name": "Only Girl",
-      "url": "https://open.spotify.com/track/7g1CPq2enxhjC3L9VB6v4B"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "FIANCHI",
-        "url": "https://open.spotify.com/album/1LNpW6xFwBPn8gnMlsr9hx"
-      },
-      "artists": [
-        {
-          "name": "AMARA ctk100",
-          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
-        }
-      ],
-      "duration_ms": 146739,
-      "name": "FIANCHI",
-      "url": "https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk"
     }
   ],
   "unique_name": "New Dance Pop",

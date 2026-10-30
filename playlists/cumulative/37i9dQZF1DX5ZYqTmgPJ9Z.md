@@ -4,7 +4,7 @@
 
 > Grab a drink and let us help you see off the evening.
 
-118 songs - 7 hr 17 min
+119 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Favourite Kind Of Girl](https://open.spotify.com/track/0dnEIYy2AhUkLO7JIjaF0O) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Flikka](https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc) | [Favourite Kind Of Girl](https://open.spotify.com/album/7qtJSgzNGaSIxNWaL4aTxo) | 4:37 | 2024-12-17 |  |
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-12-17 |  |
 | [Follow](https://open.spotify.com/track/2uROM73VxtppgLSE2k27nf) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Reverie](https://open.spotify.com/album/5zAiufzCS4SXV7fHNSJPm9) | 3:45 | 2024-12-17 | 2026-09-24 |
+| [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 | 2024-12-17 |  |
 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 | 2024-12-17 |  |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-12-17 |  |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2024-12-17 | 2026-07-11 |
@@ -84,7 +85,7 @@
 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 | 2024-12-17 | 2026-09-16 |
 | [Other Way](https://open.spotify.com/track/4mX17Zw9I9FSkGabznOonn) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Other Way](https://open.spotify.com/album/1XXQQrJo7dhTAc1I9btCWC) | 3:03 | 2024-12-17 |  |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2024-12-17 | 2026-07-23 |
-| [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2024-12-17 |  |
+| [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2024-12-17 | 2026-10-30 |
 | [Perfect](https://open.spotify.com/track/6tjTExTprXoPTYH6I0pziB) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Perfect](https://open.spotify.com/album/5CS5G0nDen8GZ2u2AFQRzN) | 3:04 | 2024-12-17 |  |
 | [Piano Joint \(This Kind Of Love\)](https://open.spotify.com/track/3kERuxcw7g0URUtzIs7H5d) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Piano Joint \(This Kind Of Love\)](https://open.spotify.com/album/2ibsoJps6tosNlFJtFlBDN) | 3:51 | 2024-12-17 |  |
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2024-12-17 |  |

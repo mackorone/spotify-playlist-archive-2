@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-369 songs - 22 hr 34 min
+370 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Isis \(feat\. Logic\)](https://open.spotify.com/track/4h7qcXBtaOJnmrapxoWxGf) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [ADHD](https://open.spotify.com/album/5qkWpkGMULLVnSHb3Sej4X) | 3:56 | 2023-12-13 |  |
 | [It's Been a Pleasure](https://open.spotify.com/track/7upxcSIbWaeiS3mom33Bee) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 5:45 | 2023-12-13 | 2025-06-27 |
 | [It's Been a Pleasure](https://open.spotify.com/track/5AOb2Cwv3DJHmHaMSYa5m1) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Trill O.G.](https://open.spotify.com/album/6ikFBgbHUMhgUkRe1thKuD) | 5:45 | 2025-06-26 |  |
-| [It's Better This Way](https://open.spotify.com/track/1bNOdjMdGUH59zsWl93IEu) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 2:37 | 2023-12-13 |  |
+| [It's Better This Way](https://open.spotify.com/track/1bNOdjMdGUH59zsWl93IEu) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 2:37 | 2023-12-13 | 2026-10-30 |
+| [It's Better This Way](https://open.spotify.com/track/4YYftQEfAmpCB7KnmSibgT) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/6jygGgoXluhvMHaKIN8mSm) | 2:37 | 2026-10-29 |  |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/52lJC8UndX32dECyJlRGSJ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:54 | 2025-08-23 |  |
 | [Jesus Piece](https://open.spotify.com/track/1yIhFZoPNT8LcIz7n1MVHn) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 3:53 | 2023-12-13 |  |
 | [Just Like You](https://open.spotify.com/track/1QDcKeZQcAdF6vnYqGqAjJ) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:16 | 2023-12-13 |  |

@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,719 songs - 2 day 23 hr 17 min
+1,720 songs - 2 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1408,6 +1408,7 @@
 | [Spectrum \(Say My Name\)](https://open.spotify.com/track/2DRJ8zX1cHBr2DyVJNcQhu) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Spectrum \(Say My Name\)](https://open.spotify.com/album/4cGItqX0qa1KgB5cuGOVcT) | 2:37 | 2021-12-16 | 2022-08-26 |
 | [SPELAR LITE DOTA](https://open.spotify.com/track/2iZ0lth0LzIqzwre0SzQUW) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [SPELAR LITE DOTA](https://open.spotify.com/album/0uQTp2MfSKiAXiFv9LwAXD) | 2:10 | 2023-01-26 | 2023-03-03 |
 | [SPELMANSLAG](https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [SPELMANSLAG](https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J) | 2:01 | 2025-12-04 | 2026-04-03 |
+| [SPRING!](https://open.spotify.com/track/3Lk9FkI4gw40YTiNKCLqL6) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [SPRING!](https://open.spotify.com/album/3tf7LAVrErUo28ORAJWHb2) | 2:18 | 2026-10-29 |  |
 | [SPRIT](https://open.spotify.com/track/3iBAUnANkp0yLo0pxCvTmA) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [NORDBØYZ](https://open.spotify.com/artist/0uUeZp50KXx1WCREiEop8y) | [SPRIT](https://open.spotify.com/album/7rsNDbs4OWKpAddjYx0Vo0) | 2:26 | 2023-09-28 | 2023-10-27 |
 | [Sprit & bubbel](https://open.spotify.com/track/1g7b4k2ADrqOZFkepFoU6G) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [Sprit & bubbel](https://open.spotify.com/album/6nvTimS6DA1Wq7r3HthFS3) | 2:30 | 2023-03-02 | 2023-05-06 |
 | [SPRIT & K..](https://open.spotify.com/track/5ZJqMo8zMUotvwARwsj1KD) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [SPRIT & K..](https://open.spotify.com/album/598YdZCSIypmNF4he0vbef) | 3:06 | 2026-02-05 | 2026-06-26 |

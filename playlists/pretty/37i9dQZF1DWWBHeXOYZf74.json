@@ -1,28 +1,48 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Khal!l",
-  "num_followers": 1325790,
+  "description": "Genre-less. Quality first always. Cover: nomi.",
+  "num_followers": 1325744,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJvS2rzba14Y+HBZAQgx8DFy6nFs",
+  "snapshot_id": "AAAAANz3lf+4UnATrw6iQ7jXUqfthWLP",
   "tracks": [
     {
-      "added_at": "2026-10-23 12:25:13",
+      "added_at": "2026-10-30 04:01:19",
       "album": {
-        "name": "Oh, The Doubt Among Us",
-        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
+        "name": "r u? - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3PmRWZ1YzW8KPsR6aMhos4"
       },
       "artists": [
         {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 277714,
-      "name": "IF ONLY",
-      "url": "https://open.spotify.com/track/6OqosV4EUfxY0mOF8aKk9W"
+      "duration_ms": 166933,
+      "name": "r u? - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7uJuJvwbfTQhfHdMH6wXF4"
+    },
+    {
+      "added_at": "2026-10-30 04:01:19",
+      "album": {
+        "name": "Sektape",
+        "url": "https://open.spotify.com/album/5elyOnZM8n4uFqRVqhM6sH"
+      },
+      "artists": [
+        {
+          "name": "Sekko",
+          "url": "https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y"
+        }
+      ],
+      "duration_ms": 110869,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/1tKz8mIet8YXUbbVhtvaiZ"
     },
     {
       "added_at": "2026-10-23 12:25:13",
@@ -39,6 +59,150 @@
       "duration_ms": 197760,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
+    },
+    {
+      "added_at": "2026-10-09 04:00:20",
+      "album": {
+        "name": "Can I Smoke In Here?",
+        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Can I Smoke In Here?",
+      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
+    },
+    {
+      "added_at": "2026-10-30 04:01:19",
+      "album": {
+        "name": "Slow Me Down / 4510",
+        "url": "https://open.spotify.com/album/1q83KNZRKZAz1nYmnXusiL"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "duration_ms": 239993,
+      "name": "4510",
+      "url": "https://open.spotify.com/track/6Jbjy3y0nH2c4E739q6TmC"
+    },
+    {
+      "added_at": "2026-10-30 04:01:19",
+      "album": {
+        "name": "(L)ove(I)s(F)or(E)veryone",
+        "url": "https://open.spotify.com/album/6OlizAuU1NhbdlRJF6JPr0"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 142736,
+      "name": "paper plane",
+      "url": "https://open.spotify.com/track/017dv0X0A4aGefEa5PQPmJ"
+    },
+    {
+      "added_at": "2026-10-23 04:01:20",
+      "album": {
+        "name": "LK99+ DELUXE",
+        "url": "https://open.spotify.com/album/0i1UCnrf20ijJm8IEUsr66"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 186421,
+      "name": "PIECES (+ Lucky Daye)",
+      "url": "https://open.spotify.com/track/0JSXogjNKHtEBDf0McymSu"
+    },
+    {
+      "added_at": "2026-10-30 04:01:19",
+      "album": {
+        "name": "RAINBOW_",
+        "url": "https://open.spotify.com/album/58yesTExAA0M2a9Pgv9z6D"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        },
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        },
+        {
+          "name": "Lance Skiiiwalker",
+          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
+        }
+      ],
+      "duration_ms": 382492,
+      "name": "$DOOWOPZ**** (feat Kari Faux & Lance Skiiiwalker)",
+      "url": "https://open.spotify.com/track/71bHN30dUmbesFAnxCrd1A"
+    },
+    {
+      "added_at": "2026-10-30 04:01:19",
+      "album": {
+        "name": "Period Piece",
+        "url": "https://open.spotify.com/album/0Psh2y66fxdjNklHDUWNHY"
+      },
+      "artists": [
+        {
+          "name": "V.V. Lightbody",
+          "url": "https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5"
+        }
+      ],
+      "duration_ms": 208373,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4BYXq5zOsxn9hausHsPZQQ"
+    },
+    {
+      "added_at": "2026-10-09 04:00:20",
+      "album": {
+        "name": "dizzy",
+        "url": "https://open.spotify.com/album/0DKzY4dmVUMI5YzdXFfcfm"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 282490,
+      "name": "dizzy",
+      "url": "https://open.spotify.com/track/29obLp4cP6PZhjMFujRQsh"
+    },
+    {
+      "added_at": "2026-10-30 04:01:19",
+      "album": {
+        "name": "Make a Wish",
+        "url": "https://open.spotify.com/album/1lg0RjkuYXjmVrJuG6EUJl"
+      },
+      "artists": [
+        {
+          "name": "Headache",
+          "url": "https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH"
+        },
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 198659,
+      "name": "Make a Wish",
+      "url": "https://open.spotify.com/track/0G2cq0o0vlcb0qHbjouDFf"
     },
     {
       "added_at": "2026-10-16 04:02:18",
@@ -61,20 +225,60 @@
       "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
     },
     {
-      "added_at": "2026-10-23 04:01:20",
+      "added_at": "2026-10-23 12:25:13",
       "album": {
-        "name": "Heaven Can Wait",
-        "url": "https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A"
+        "name": "Oh, The Doubt Among Us",
+        "url": "https://open.spotify.com/album/55MbGdyMAKIEJJQTzZQIUK"
       },
       "artists": [
         {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
         }
       ],
-      "duration_ms": 235880,
-      "name": "Heaven Can Wait",
-      "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
+      "duration_ms": 277714,
+      "name": "IF ONLY",
+      "url": "https://open.spotify.com/track/6OqosV4EUfxY0mOF8aKk9W"
+    },
+    {
+      "added_at": "2026-10-30 04:01:19",
+      "album": {
+        "name": "CCCC",
+        "url": "https://open.spotify.com/album/4filK8TFeq6cs9AXIuuiqf"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        },
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "CCCC",
+          "url": "https://open.spotify.com/artist/1p3SkqkxWzlaW4mNB5TUOk"
+        }
+      ],
+      "duration_ms": 286378,
+      "name": "Clarice My Dear",
+      "url": "https://open.spotify.com/track/0ii5661sR1V6PVSTE8OyFJ"
+    },
+    {
+      "added_at": "2026-10-09 04:00:20",
+      "album": {
+        "name": "Amarillo nena",
+        "url": "https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 148694,
+      "name": "Amarillo nena",
+      "url": "https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl"
     },
     {
       "added_at": "2026-10-23 12:25:13",
@@ -91,22 +295,6 @@
       "duration_ms": 161529,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP"
-    },
-    {
-      "added_at": "2026-10-09 04:00:20",
-      "album": {
-        "name": "Can I Smoke In Here?",
-        "url": "https://open.spotify.com/album/0DjdZdFumFL4aFCOhHr3lu"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Can I Smoke In Here?",
-      "url": "https://open.spotify.com/track/5No1sIcO5UJmQk8U3StIrG"
     },
     {
       "added_at": "2026-10-23 04:01:20",
@@ -143,58 +331,6 @@
     {
       "added_at": "2026-10-23 04:01:20",
       "album": {
-        "name": "LK99+ DELUXE",
-        "url": "https://open.spotify.com/album/0i1UCnrf20ijJm8IEUsr66"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 186421,
-      "name": "PIECES (+ Lucky Daye)",
-      "url": "https://open.spotify.com/track/0JSXogjNKHtEBDf0McymSu"
-    },
-    {
-      "added_at": "2026-10-09 04:00:20",
-      "album": {
-        "name": "dizzy",
-        "url": "https://open.spotify.com/album/0DKzY4dmVUMI5YzdXFfcfm"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 282490,
-      "name": "dizzy",
-      "url": "https://open.spotify.com/track/29obLp4cP6PZhjMFujRQsh"
-    },
-    {
-      "added_at": "2026-10-09 04:00:20",
-      "album": {
-        "name": "Amarillo nena",
-        "url": "https://open.spotify.com/album/3mpTkXPLbbNRsjGMbo06dr"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 148694,
-      "name": "Amarillo nena",
-      "url": "https://open.spotify.com/track/6fAiqxQlmrvQsol8Ifyejl"
-    },
-    {
-      "added_at": "2026-10-23 04:01:20",
-      "album": {
         "name": "Jamie / Troublemakers",
         "url": "https://open.spotify.com/album/2LjVgNnSy6unSsJtr8GxZp"
       },
@@ -207,6 +343,22 @@
       "duration_ms": 242493,
       "name": "Jamie",
       "url": "https://open.spotify.com/track/5gTlY1G4ePYjsBHn4aNl6S"
+    },
+    {
+      "added_at": "2026-10-23 04:01:20",
+      "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
     },
     {
       "added_at": "2026-10-23 04:01:20",
@@ -821,22 +973,6 @@
       "url": "https://open.spotify.com/track/1RQGDd73vmBfLlS1C87Q5i"
     },
     {
-      "added_at": "2026-09-25 04:02:36",
-      "album": {
-        "name": "Are you willing to change?",
-        "url": "https://open.spotify.com/album/22oyuORNrfXqKzM8jjESWr"
-      },
-      "artists": [
-        {
-          "name": "A.G. Sully",
-          "url": "https://open.spotify.com/artist/1DS9B5f4jcKRCqXI6fKDYY"
-        }
-      ],
-      "duration_ms": 246511,
-      "name": "Are you willing to change?",
-      "url": "https://open.spotify.com/track/7FmB6G5FcIEZkKAeYtnZ1J"
-    },
-    {
       "added_at": "2026-08-21 04:02:15",
       "album": {
         "name": "the cops are coming",
@@ -887,22 +1023,6 @@
       "duration_ms": 282909,
       "name": "Be Careful II",
       "url": "https://open.spotify.com/track/5XjiozytXOWnBQFXrvy16G"
-    },
-    {
-      "added_at": "2026-09-25 04:02:36",
-      "album": {
-        "name": "Wouldn't Say",
-        "url": "https://open.spotify.com/album/5syUY2ehWGz7LCHMnYF2wL"
-      },
-      "artists": [
-        {
-          "name": "Monsune",
-          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Wouldn't Say",
-      "url": "https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t"
     },
     {
       "added_at": "2026-09-18 04:00:29",
@@ -1079,26 +1199,6 @@
     {
       "added_at": "2026-09-11 04:01:59",
       "album": {
-        "name": "2am",
-        "url": "https://open.spotify.com/album/7scYvSluq3s6VOoIzmPtQx"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        },
-        {
-          "name": "gianna",
-          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
-        }
-      ],
-      "duration_ms": 336624,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/35nrBgPSIQMWvnqelfv2kk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:59",
-      "album": {
         "name": "Sick again",
         "url": "https://open.spotify.com/album/00agVi4AYN4Wtsmen9xWWe"
       },
@@ -1115,42 +1215,6 @@
       "duration_ms": 196542,
       "name": "Sick again",
       "url": "https://open.spotify.com/track/6PJ9u82k284uF1rURQUgxU"
-    },
-    {
-      "added_at": "2026-09-11 04:01:59",
-      "album": {
-        "name": "so sw33t",
-        "url": "https://open.spotify.com/album/4USxRVTkM8mfBtwL4QJrRI"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 184018,
-      "name": "so sw33t",
-      "url": "https://open.spotify.com/track/378092rayF0zj1fy1181LW"
-    },
-    {
-      "added_at": "2026-09-11 04:01:59",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 213537,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
     },
     {
       "added_at": "2026-09-11 04:01:59",
@@ -1365,26 +1429,6 @@
       "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
     },
     {
-      "added_at": "2026-08-28 04:02:33",
-      "album": {
-        "name": "Preacherman",
-        "url": "https://open.spotify.com/album/5rIF3TL9ToRbHDQDmcVANn"
-      },
-      "artists": [
-        {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        },
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 132489,
-      "name": "Preacherman",
-      "url": "https://open.spotify.com/track/19PCI3AINRtzUzXwFfTIOF"
-    },
-    {
       "added_at": "2026-07-31 04:02:41",
       "album": {
         "name": "My World",
@@ -1553,22 +1597,6 @@
       "url": "https://open.spotify.com/track/1BEemD48y6mh62yV0aaI6T"
     },
     {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
-        "name": "DREAMS ON THE PASSENGER SEAT",
-        "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 189342,
-      "name": "LANGUAGES",
-      "url": "https://open.spotify.com/track/3KG6r8zmc3KrNxub0qxGFb"
-    },
-    {
       "added_at": "2026-07-10 05:01:48",
       "album": {
         "name": "\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342:\u0334\u0353\u031e\u0311\u030c\u0302\u0306\u030a\u034b\u0300:\u0338\u034e\u031f\u032f\u0302\u0313\u030c \u0489 \u0361 \u035e \u035e \u035e \u0489\u25cf \u0fc0 \u25cf \u0fc0 \u25cf \u0489\u20dd \u20dd\u0362 \u035e \u0358 \u035e\u20dd\u0315 \u0362 \u031b \u20dd \u0338 \u0321 \u0362\u20dd\u0327 \u0361 \u0361 \u0300 \u0327 \u0322\u20dd\u035c \u0489 \u035e \u035e \u20dd\u035e \u0358 \u035e \u0361\u20dd \u20dd\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489 :\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342v\u0334\u0322\u035a\u035a\u034e\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345)\u0334\u034e\u031c\u034d\u0331\u030b\u030c\u034b\u0313\u033e\u031a \u0337\u0328 \u263c\u20dd\u25de\u2296\u25df \u2237\u1368\u25c9\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd\ua242\ua1ad(\u263c\u20dd\u2741)\u1557 \u0489\u20dd \u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u0335\u0328\u031b\u0331\u0325\u0355\u0301\u030e\u0301\u0310\u035d/\u0338\u0320\u031c\u0305\u0310\u034a\u030b\u033f\u0310\u0313\\\u0338\u0327\u0354\u0330\u0333\u0326\u0323\u032a\u0308\u030f\u0313 \u0334\u0321\u031b\u0305\u0350\u035b\u0300\u033d/\u0336\u0331\u033c\u0323\u0324\u0330\u0332\u0323\u0308\u0301\u030b\u034c\u033f\u0304\u030d\u030a\\\u0334\u0332\u0323\u031d\u0300\u035c\u0345 \u0338\u031d\u032e\u031f\u0339\u0300\u0306\u030b\u033f \u0334\u0324\u033b\u0300(\u0335\u0319\u033a\u0333\u0329\u0350\u0357\u0301\u0351\u034b\u0313\u0315\u035c\u0345(\u0335\u033a\u0356\u0324\u034c\u0342\u0351\u0310\u0315o\u0336\u0322\u0318\u0354\u0312\u0308\u0311\u0312\u034a\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342 \u263c\u20dd\u263c\u20dd\u25c9 \u0489\u20ddO\u25c9\u263c\u20dd\u2296\u263c\u20dd\u263c\u20dd\u2741 \u0489\u20dd\u263c\u20dd\u263c\u20dd \u20dd\u0362 \u0322\u20dd\u035c \u263c\u20dd\u263c\u20dd:\u0334\u0353\u031e\u0311\u030c\u0302\u0306\u030a\u034b\u0300:\u0338\u034e\u031f\u032f\u0302\u0313\u030c:\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342v\u0334\u0322\u035a\u035a\u034e\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345)\u0334\u034e\u031c\u034d\u0331\u030b\u030c\u034b\u0313\u033e\u031a \u0337\u0328\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361()\u0283\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \ua411\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301\u033f)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345\u0fc3\u0942\u0a42\u2727\u20db\u2727\u20db:\u0338\u034e\u031f\u032f\u0302\u0313\u030c:\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332",
@@ -1691,22 +1719,6 @@
       "duration_ms": 96262,
       "name": "TOTEM",
       "url": "https://open.spotify.com/track/3sv5XcgeHuOXeaPeyi02LX"
-    },
-    {
-      "added_at": "2026-06-26 04:01:54",
-      "album": {
-        "name": "Your Day Will Come",
-        "url": "https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "JBL in the Fireplace",
-      "url": "https://open.spotify.com/track/5LX4N1Eznc8ngI7YavARuF"
     },
     {
       "added_at": "2026-06-26 04:01:54",

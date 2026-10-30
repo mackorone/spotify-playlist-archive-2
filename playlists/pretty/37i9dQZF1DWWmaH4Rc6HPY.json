@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Desierto Drive en portada.",
-  "num_followers": 40145,
+  "num_followers": 40155,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1d1Vi93UhkbJ+0X0xx6zCp2ppc",
+  "snapshot_id": "AAAAAKLyGwOPGzdCS78ff4DqX8qiRlfz",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:26",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "Faltas T\u00fa",
+        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201836,
+      "name": "Faltas T\u00fa",
+      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "Euforia",
         "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 256911,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Faltas T\u00fa",
-        "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Faltas T\u00fa",
-      "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 243234,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "Me Toca A M\u00ed",
         "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 180340,
       "name": "Me Toca A M\u00ed",
       "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 243234,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "Por Si No Te Vuelvo A Ver",
+        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 185464,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "T\u00fa y Yo y T\u00fa",
         "url": "https://open.spotify.com/album/481MCPmKn2LqqRmElx0p2o"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Por Si No Te Vuelvo A Ver",
-        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 185464,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Esc\u00e1pate Conmigo",
-        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 252079,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "Ca\u00edda Libre (feat. Robe)",
         "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 211590,
       "name": "Ca\u00edda Libre (feat. Robe)",
       "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "Esc\u00e1pate Conmigo",
+        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 252079,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "CUERPOS, Vol. 1",
+        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "TIEMPO OFF",
+      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "Nada por Hecho (feat. Leiva)",
         "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "CUERPOS, Vol. 1",
-        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "TIEMPO OFF",
-      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -671,18 +655,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -699,6 +683,22 @@
       "duration_ms": 189429,
       "name": "Los Paraca\u00eddas",
       "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
+        "name": "Se Me Va",
+        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Se Me Va",
+      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
         "name": "Dolor y Gloria",
         "url": "https://open.spotify.com/album/4mHCYZvt90FvYNIAA1bUcL"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 192649,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Se Me Va",
-        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Se Me Va",
-      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1023,42 +1023,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "La \u00daltima Noche (con Estopa)",
-        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 229247,
-      "name": "La \u00daltima Noche - con Estopa",
-      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "No Volver\u00e9 </3",
-        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 171636,
-      "name": "No Volver\u00e9 </3",
-      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1083,18 +1059,42 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+        "name": "No Volver\u00e9 </3",
+        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+      "duration_ms": 171636,
+      "name": "No Volver\u00e9 </3",
+      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "La \u00daltima Noche (con Estopa)",
+        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 229247,
+      "name": "La \u00daltima Noche - con Estopa",
+      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+        "name": "Los mejores a\u00f1os de nuestra vida",
+        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
+      "duration_ms": 257488,
+      "name": "Los mejores a\u00f1os de nuestra vida",
+      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Los mejores a\u00f1os de nuestra vida",
-        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 257488,
-      "name": "Los mejores a\u00f1os de nuestra vida",
-      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "MAPAS II",
-        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
         "name": "La vida de Nadie",
         "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 167943,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "MAPAS II",
+        "url": "https://open.spotify.com/album/03wExmi3bMY77SsqqMEzd0"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/2Qqt1bK9EmfaOSHOsYuzJM"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1251,38 +1251,18 @@
     {
       "added_at": "2026-10-16 06:00:26",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
+        "name": "Todo est\u00e1 pasando ahora",
+        "url": "https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2"
       },
       "artists": [
         {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        },
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 215250,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
-    },
-    {
-      "added_at": "2026-10-16 06:00:26",
-      "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+      "duration_ms": 228911,
+      "name": "Todo est\u00e1 pasando ahora",
+      "url": "https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb"
     },
     {
       "added_at": "2026-10-16 06:00:26",
@@ -1299,6 +1279,26 @@
       "duration_ms": 212960,
       "name": "Mentiras Arriesgadas",
       "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
+    },
+    {
+      "added_at": "2026-10-16 06:00:26",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
     },
     {
       "added_at": "2026-10-16 06:00:26",

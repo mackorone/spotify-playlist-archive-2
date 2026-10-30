@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,881 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,887 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 11 | [I Do](https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Do](https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n) | 3:33 |
 | 12 | [Everything's the same](https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Everything's the same](https://open.spotify.com/album/0c3fqqv3MGSb0vN8ckYHp0) | 2:52 |
 | 13 | [Why Why](https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Why Why](https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5) | 3:05 |
-| 14 | [Forever Now](https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Forever Now](https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ) | 2:56 |
-| 15 | [Wilson Silverstar 402 Blues](https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Wilson Silverstar 402 Blues](https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP) | 4:43 |
-| 16 | [MIA](https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [MIA](https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC) | 2:42 |
+| 14 | [MIA](https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [MIA](https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC) | 2:42 |
+| 15 | [Forever Now](https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Forever Now](https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ) | 2:56 |
+| 16 | [Wilson Silverstar 402 Blues](https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Wilson Silverstar 402 Blues](https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP) | 4:43 |
 | 17 | [Safe \(feat\. Savannah Ré\)](https://open.spotify.com/track/03NddMz8erSpjjioDecBh4) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Safe](https://open.spotify.com/album/1Gp9CR7Nv9pAmqNjjeFyKp) | 2:50 |
 | 18 | [ON THE SCHEDULE](https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [ON THE SCHEDULE](https://open.spotify.com/album/7vHO368QppzJL9g1jnozna) | 3:16 |
-| 19 | [Wild Wild Woman](https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Wild Wild Woman](https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1) | 2:52 |
-| 20 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
+| 19 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
+| 20 | [Wild Wild Woman](https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Wild Wild Woman](https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1) | 2:52 |
 | 21 | [Sad Porn](https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Sad Porn](https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P) | 3:12 |
 | 22 | [Hey Honey](https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Hey Honey](https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK) | 3:13 |
 | 23 | [Just Us In The Room](https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Just Us In The Room](https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT) | 2:48 |
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 27 | [Me Without My Hometown](https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Me Without My Hometown](https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd) | 3:35 |
 | 28 | [cool](https://open.spotify.com/track/2JcMAbURj7oQ9krdqPMW3z) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [cool](https://open.spotify.com/album/6NdrJfXmCBgolsEN8KzNdf) | 3:42 |
 | 29 | [how about you](https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [how about you](https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl) | 2:48 |
-| 30 | [Kiss Me When I](https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Kiss Me When I](https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c) | 3:50 |
+| 30 | [Bite the bullet](https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk) | [Natek](https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh) | [Bite the bullet](https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc) | 2:28 |
 | 31 | [Alright, alright](https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF), [Rowena Fysx](https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9) | [Alright, alright](https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo) | 2:31 |
-| 32 | [Bite the bullet](https://open.spotify.com/track/2bNKOjlCAiglIC0nNSQJmk) | [Natek](https://open.spotify.com/artist/7fkpO0QrLpyYAhCr7jKpSh) | [Bite the bullet](https://open.spotify.com/album/4za6fKrD5xBuAul38W8UXc) | 2:28 |
-| 33 | [BIBLE TEXTS](https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BIBLE TEXTS](https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU) | 2:24 |
-| 34 | [Versailles](https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk) | 3:14 |
-| 35 | [Cry When I'm Alone](https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Cry When I'm Alone](https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK) | 2:47 |
-| 36 | [Touch Down](https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Touch Down](https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e) | 2:13 |
+| 32 | [BIBLE TEXTS](https://open.spotify.com/track/0TFOZc9isulvUS0EGo678U) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [BIBLE TEXTS](https://open.spotify.com/album/13h1GAcHeU9DDY6RZ8pZvU) | 2:24 |
+| 33 | [Kiss Me When I](https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Kiss Me When I](https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c) | 3:50 |
+| 34 | [Touch Down](https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Touch Down](https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e) | 2:13 |
+| 35 | [Versailles](https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk) | 3:14 |
+| 36 | [Cry When I'm Alone](https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Cry When I'm Alone](https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK) | 2:47 |
 | 37 | [Put It Down](https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Unstoppable](https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9) | 3:18 |
 | 38 | [Girls Like Us](https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Girls Like Us](https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3) | 3:06 |
 | 39 | [\(+44\)](https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [\(+44\)](https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Play the Game](https://open.spotify.com/track/1YXXsCZDTuam99s7ft00ub) | [Virgo Rising](https://open.spotify.com/artist/4mGuBsyykVd7HxpBZH6zyf) | [Play the Game](https://open.spotify.com/album/7rEMmvHwIAICGcz3Mdnzya) | 4:28 |
 | 50 | [step one](https://open.spotify.com/track/6ixO5cBS6SnYqjAdurVyjr) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb), [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [babysteps](https://open.spotify.com/album/0OG2X6dxPxfZn1aLV7f4h3) | 2:40 |
 
-Snapshot ID: `AAAAAH327NwPjtKlfy60pOftueGpCIqh`
+Snapshot ID: `AAAAABKyAh00Vg0nRBeSuNh4eZFl/kff`

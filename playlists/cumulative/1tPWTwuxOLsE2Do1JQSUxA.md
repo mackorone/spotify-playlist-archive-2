@@ -4,7 +4,7 @@
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-401 songs - 1 day 0 hr 46 min
+402 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [I'll Be Around \(feat\. Timbaland\) \- Club Mix](https://open.spotify.com/track/2TIGwYiQYr1N5zTOQToDfK) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Cee\-Lo Green..\. Is The Soul Machine](https://open.spotify.com/album/0wdleLMeNmGUHChsmx9svt) | 3:41 | 2023-11-09 |  |
 | [I'm the One \(feat\. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne\)](https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 4:48 | 2020-10-20\* | 2023-09-13 |
 | [I'm the One \(feat\. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne\)](https://open.spotify.com/track/1jYiIOC5d6soxkJP81fxq2) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 4:48 | 2023-09-12 |  |
+| [Ice On My Baby \(feat\. Kevin Gates\) \- Remix](https://open.spotify.com/track/6muW8cSjJ3rusKJ0vH5olw) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Ice On My Baby \(feat\. Kevin Gates\) \[Remix\]](https://open.spotify.com/album/0Qqi2yVtUpp2jHYCxRYeoe) | 3:19 | 2026-10-28 |  |
 | [If I Were a Boy](https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:09 | 2020-10-20\* | 2022-01-01 |
 | [Impossible](https://open.spotify.com/track/5yVIlYEHZxQVLyInCdldoS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:29 | 2020-10-20\* | 2023-11-14 |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2023-09-12 |  |

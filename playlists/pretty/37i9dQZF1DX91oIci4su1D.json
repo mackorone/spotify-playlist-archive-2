@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with Giuseppe Ottaviani and Hypaton",
-  "num_followers": 893700,
+  "num_followers": 893681,
   "original_name": "trance mission",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsghaWH06Neh3dKSOvZvFdm96tp",
+  "snapshot_id": "AAAAALRJihsvjQMdw/DvSRD0j+edaviw",
   "tracks": [
     {
       "added_at": "2026-10-15 22:02:52",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
       },
       "artists": [
         {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         }
       ],
-      "duration_ms": 226831,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR"
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/647pyFBcKVf4UZO5ZcRLFy"
       },
       "artists": [
         {
-          "name": "Niels Van Gogh",
-          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 152216,
-      "name": "Into The Light",
-      "url": "https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT"
+      "duration_ms": 215414,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/2C6TqcCfE2T6mgHSQUi5AA"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR"
+      },
+      "artists": [
+        {
+          "name": "Niels Van Gogh",
+          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
+        }
+      ],
+      "duration_ms": 152216,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Forbidden Voices",
         "url": "https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 200166,
       "name": "Forbidden Voices",
       "url": "https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "Nights Like This",
-        "url": "https://open.spotify.com/album/647pyFBcKVf4UZO5ZcRLFy"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 215414,
-      "name": "Nights Like This",
-      "url": "https://open.spotify.com/track/2C6TqcCfE2T6mgHSQUi5AA"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "pick up your phone",
-        "url": "https://open.spotify.com/album/332H85xuc45HEbnP9nOdDY"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        }
-      ],
-      "duration_ms": 211289,
-      "name": "pick up your phone",
-      "url": "https://open.spotify.com/track/5KPqFtA3ssUElNzxiUS0xU"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Ride At Dawn",
         "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 230400,
       "name": "Luz del Infinito - Radio Edit",
       "url": "https://open.spotify.com/track/6FhsVFKL2Pyw9TXI20zILu"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "pick up your phone",
+        "url": "https://open.spotify.com/album/332H85xuc45HEbnP9nOdDY"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        }
+      ],
+      "duration_ms": 211289,
+      "name": "pick up your phone",
+      "url": "https://open.spotify.com/track/5KPqFtA3ssUElNzxiUS0xU"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Lytherion",
+        "url": "https://open.spotify.com/album/09BtIowmQdyFVis1nyjzVY"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "duration_ms": 199436,
+      "name": "Lytherion",
+      "url": "https://open.spotify.com/track/3uAlKLXTAqdnVHRYija2kY"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Strange World",
         "url": "https://open.spotify.com/album/52wn18Te0DRp5yx2wC43Lq"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Lytherion",
-        "url": "https://open.spotify.com/album/09BtIowmQdyFVis1nyjzVY"
+        "name": "Oldskool",
+        "url": "https://open.spotify.com/album/3jqkSYjOCDlNz4XEhYChOy"
       },
       "artists": [
         {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+          "name": "Jeno",
+          "url": "https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps"
         }
       ],
-      "duration_ms": 199436,
-      "name": "Lytherion",
-      "url": "https://open.spotify.com/track/3uAlKLXTAqdnVHRYija2kY"
+      "duration_ms": 226956,
+      "name": "Oldskool",
+      "url": "https://open.spotify.com/track/3i0pa1JwhbKaZwxmDIEyVl"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Oldskool",
-        "url": "https://open.spotify.com/album/3jqkSYjOCDlNz4XEhYChOy"
-      },
-      "artists": [
-        {
-          "name": "Jeno",
-          "url": "https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps"
-        }
-      ],
-      "duration_ms": 226956,
-      "name": "Oldskool",
-      "url": "https://open.spotify.com/track/3i0pa1JwhbKaZwxmDIEyVl"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Song to the Siren",
         "url": "https://open.spotify.com/album/6eyXCLmZksprU5uPMwcpWE"
       },
@@ -1643,6 +1643,30 @@
       "duration_ms": 193000,
       "name": "Song to the Siren",
       "url": "https://open.spotify.com/track/7KHzgG1zvxM52AO6JVPO0o"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6bP4727zYW6NemjkYYoolB"
+      },
+      "artists": [
+        {
+          "name": "nilsix",
+          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
+        },
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6gzCY0obpFYBdG09qAfWaC"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1707,30 +1731,6 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6bP4727zYW6NemjkYYoolB"
-      },
-      "artists": [
-        {
-          "name": "nilsix",
-          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
-        },
-        {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        },
-        {
-          "name": "Mark Sixma",
-          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6gzCY0obpFYBdG09qAfWaC"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
         "name": "Have You Ever Loved (Ellie)",
         "url": "https://open.spotify.com/album/6sqjXjb87UdJJEECLdEzcm"
       },
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/0mF8cnymZDGo36eAg9l4UZ"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Veracocha",
+          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/4Rp0PLogExoXWtkDLNunXR"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
       },
@@ -1799,30 +1819,6 @@
       "duration_ms": 200458,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "How Do We Know",
-        "url": "https://open.spotify.com/album/1yvUoAtQCOSTmRi7NazEPt"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
-        },
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "Alessia Labate",
-          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
-        }
-      ],
-      "duration_ms": 186940,
-      "name": "How Do We Know",
-      "url": "https://open.spotify.com/track/4qIGGsMBScUbTodzn0k47j"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1851,6 +1847,30 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "How Do We Know",
+        "url": "https://open.spotify.com/album/1yvUoAtQCOSTmRi7NazEPt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "duration_ms": 186940,
+      "name": "How Do We Know",
+      "url": "https://open.spotify.com/track/4qIGGsMBScUbTodzn0k47j"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "Empty Space",
         "url": "https://open.spotify.com/album/4BERGlRS12oGJ4qUIrvLy5"
       },
@@ -1875,26 +1895,6 @@
       "duration_ms": 226086,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/6l6gjvRXfEt2pJbJ3MjhEb"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/0mF8cnymZDGo36eAg9l4UZ"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Veracocha",
-          "url": "https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Carte Blanche",
-      "url": "https://open.spotify.com/track/4Rp0PLogExoXWtkDLNunXR"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
+        "name": "Open The Night",
+        "url": "https://open.spotify.com/album/2Y8Ooix4RYAey0MykQRyqO"
       },
       "artists": [
         {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
         }
       ],
-      "duration_ms": 236996,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
+      "duration_ms": 188105,
+      "name": "Open The Night",
+      "url": "https://open.spotify.com/track/3DdU6rhMoPIdOQG4iThhbL"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2011,26 +2011,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Feel It Coming",
-        "url": "https://open.spotify.com/album/2BKDavwQf5WkSTUCEQ5g2y"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
       },
       "artists": [
         {
-          "name": "OTTAGON",
-          "url": "https://open.spotify.com/artist/49b9crFClEofQmf5078d31"
-        },
-        {
-          "name": "TW3LVE",
-          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
-        },
-        {
-          "name": "Giuseppe Ottaviani",
-          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Feel It Coming",
-      "url": "https://open.spotify.com/track/1YJF4B8vyqm3lasRu5yLU2"
+      "duration_ms": 236996,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2051,34 +2043,26 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/3YKNaB4SFqIMIDCxi6x1t8"
+        "name": "Feel It Coming",
+        "url": "https://open.spotify.com/album/2BKDavwQf5WkSTUCEQ5g2y"
       },
       "artists": [
         {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 228809,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/2xY7icfJSoWq3QGu9ZgLMH"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "Open The Night",
-        "url": "https://open.spotify.com/album/2Y8Ooix4RYAey0MykQRyqO"
-      },
-      "artists": [
+          "name": "OTTAGON",
+          "url": "https://open.spotify.com/artist/49b9crFClEofQmf5078d31"
+        },
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "TW3LVE",
+          "url": "https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A"
+        },
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
         }
       ],
-      "duration_ms": 188105,
-      "name": "Open The Night",
-      "url": "https://open.spotify.com/track/3DdU6rhMoPIdOQG4iThhbL"
+      "duration_ms": 210000,
+      "name": "Feel It Coming",
+      "url": "https://open.spotify.com/track/1YJF4B8vyqm3lasRu5yLU2"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2127,42 +2111,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Bullet In The Gun",
-        "url": "https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP"
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/3YKNaB4SFqIMIDCxi6x1t8"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Sneijder",
-          "url": "https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb"
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Bullet In The Gun",
-      "url": "https://open.spotify.com/track/79Bo5d7iwaj8eYPn52A6Ni"
-    },
-    {
-      "added_at": "2026-10-15 22:02:52",
-      "album": {
-        "name": "Thinking Of You",
-        "url": "https://open.spotify.com/album/17WtsvEEzvShSsGGeZE6kW"
-      },
-      "artists": [
-        {
-          "name": "dj try",
-          "url": "https://open.spotify.com/artist/7E5PgS3pelJYovRn4EQv3F"
-        },
-        {
-          "name": "Pagan",
-          "url": "https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/63ylgloVqA0h7tEPgoahjq"
+      "duration_ms": 228809,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/2xY7icfJSoWq3QGu9ZgLMH"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2187,6 +2147,26 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
+        "name": "Bullet In The Gun",
+        "url": "https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Sneijder",
+          "url": "https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Bullet In The Gun",
+      "url": "https://open.spotify.com/track/79Bo5d7iwaj8eYPn52A6Ni"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
         "name": "United in Trance",
         "url": "https://open.spotify.com/album/5KYV3aAydAMqVtc6iJXNf4"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 187445,
       "name": "United in Trance",
       "url": "https://open.spotify.com/track/41TpNZA3eQXrLxQTncVph2"
+    },
+    {
+      "added_at": "2026-10-15 22:02:52",
+      "album": {
+        "name": "Thinking Of You",
+        "url": "https://open.spotify.com/album/17WtsvEEzvShSsGGeZE6kW"
+      },
+      "artists": [
+        {
+          "name": "dj try",
+          "url": "https://open.spotify.com/artist/7E5PgS3pelJYovRn4EQv3F"
+        },
+        {
+          "name": "Pagan",
+          "url": "https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/63ylgloVqA0h7tEPgoahjq"
     },
     {
       "added_at": "2026-10-15 22:02:52",
@@ -2435,22 +2435,18 @@
     {
       "added_at": "2026-10-15 22:02:52",
       "album": {
-        "name": "Eclipsed By You",
-        "url": "https://open.spotify.com/album/6GXYZFNGrahhCloUbWFpC5"
+        "name": "Origins / ARP",
+        "url": "https://open.spotify.com/album/3OoQvRYpRLTCETcNGbydvw"
       },
       "artists": [
         {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Ilan Bluestone",
-          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
         }
       ],
-      "duration_ms": 236521,
-      "name": "Eclipsed By You",
-      "url": "https://open.spotify.com/track/2Kv90dB4Bc0nXScJcQVc2C"
+      "duration_ms": 212903,
+      "name": "Origins",
+      "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
     }
   ],
   "unique_name": "trance mission",

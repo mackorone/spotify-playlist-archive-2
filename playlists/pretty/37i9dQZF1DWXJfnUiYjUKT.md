@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with LISA on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,375 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,529 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Hate Her Enough](https://open.spotify.com/track/0oHC9pm1PuEglAIuSByBFD) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Love You, or Whatever](https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc) | 2:53 |
 | 100 | [Gay Witchcraft](https://open.spotify.com/track/5iAUMO1NyTPEorQ3f3vSJX) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Me and the Music](https://open.spotify.com/album/4z815sIdN6BdCRbF5kWTKW) | 3:41 |
 
-Snapshot ID: `AAAAAD9UFE08mf67JBsHTtwgbw3LVZ6x`
+Snapshot ID: `AAAAAOyeq+IcTXIaZFI/1L0LENFSrzvl`

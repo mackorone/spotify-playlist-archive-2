@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
 
-1,703 songs - 3 day 18 hr 6 min
+1,704 songs - 3 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1516,6 +1516,7 @@
 | [The Weekend](https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [The Weekend](https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e) | 3:28 | 2026-03-06 |  |
 | [The Well](https://open.spotify.com/track/28HDLdox7WzXl5AqyydaNH) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [All's Well](https://open.spotify.com/album/4EOhQiknjWcySjrWeKOlmY) | 2:54 | 2024-04-05 | 2024-04-09 |
 | [Therapy](https://open.spotify.com/track/4Sez6emXMIkW5CYtJvdFtK) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Therapy](https://open.spotify.com/album/5lkqkQ3sGYUcBRtOHKHvFO) | 2:46 | 2025-10-31 | 2026-02-14 |
+| [there's no easy way to put this...](https://open.spotify.com/track/6OCCNtYX4xH5CHe3ey2jsB) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [there's no easy way to put this...](https://open.spotify.com/album/6rlGBIOV37DbGtL3Ijvx5J) | 3:46 | 2026-10-29 |  |
 | [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 | 2026-02-20 | 2026-04-07 |
 | [Thief](https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:00 | 2025-06-06 | 2025-07-19 |
 | [Thin Ice](https://open.spotify.com/track/52N2QLfieYR09S27QuVZ31) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Thin Ice](https://open.spotify.com/album/1YvUpQJgqxILcOL0F35YB5) | 2:58 | 2025-04-04 | 2025-05-10 |

@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "AQI",
+        "url": "https://open.spotify.com/album/0AeGNNGeL9UP0zW1IMNLGm"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "AQI",
+      "url": "https://open.spotify.com/track/0Tooubn4cVcxw7ip5klKm8"
+    },
+    {
+      "album": {
         "name": "GAME-O",
         "url": "https://open.spotify.com/album/2qCok0WxYFPabb3rK8JqTt"
       },
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 456400,
       "name": "Deception Dance",
       "url": "https://open.spotify.com/track/2zDZE2b8jnciI2rnMmPlwD"
@@ -4812,7 +4830,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 421967,
       "name": "In Battere",
       "url": "https://open.spotify.com/track/3tNFawmzOe0p2PzCd4gnQQ"
@@ -8639,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "Seaford Sunset",
+        "url": "https://open.spotify.com/album/6QyjzhzhZrYj8C4ALNJIlM"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218318,
+      "name": "Seaford Sunset",
+      "url": "https://open.spotify.com/track/50f3T8LZ1ILhUA6DohGShZ"
+    },
+    {
+      "album": {
         "name": "No era s\u00f3lida",
         "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
       },
@@ -9575,6 +9611,24 @@
     },
     {
       "album": {
+        "name": "Places Remember Events",
+        "url": "https://open.spotify.com/album/1yuH3TKLvw0ezuVNXYbYWQ"
+      },
+      "artists": [
+        {
+          "name": "Eerie Enterprise",
+          "url": "https://open.spotify.com/artist/5tdZgtguZEwKtwSGqfSwDE"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Superradiance",
+      "url": "https://open.spotify.com/track/3GeOUH0OMzdluSCyPqqcUM"
+    },
+    {
+      "album": {
         "name": "SWARMER",
         "url": "https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6"
       },
@@ -10056,7 +10110,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 283000,
       "name": "The Transmission",
       "url": "https://open.spotify.com/track/0L8WK3gP0SWb7ZSFf6I3o6"

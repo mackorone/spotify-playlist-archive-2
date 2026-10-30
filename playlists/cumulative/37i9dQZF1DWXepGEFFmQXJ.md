@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Miranda Lambert, Ella Langley
+> The cream of today's country crop\. Cover: Megan Moroney
 
-1,328 songs - 3 day 1 hr 0 min
+1,330 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 | 2024-09-19 | 2025-01-24 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-07-15 |
 | [City Girls In The Country](https://open.spotify.com/track/4R59AUuHpRuhI6A1CT6nzt) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [City Girls In The Country](https://open.spotify.com/album/6aip6rm5QprYwSErt07SVe) | 3:13 | 2022-09-29 | 2023-03-10 |
+| [Clean Slate](https://open.spotify.com/track/0bQ2vLgoYgLnBrt2jnnxL9) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Clean Slate](https://open.spotify.com/album/6ipgg8Ox8wlY6YEIMyMhMD) | 3:01 | 2026-10-29 |  |
 | [Closing Time \(with Kelsea Ballerini\)](https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Closing Time](https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl) | 2:38 | 2026-08-13 | 2026-09-18 |
 | [Closing Time In California](https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Closing Time In California](https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl) | 3:29 | 2024-08-08 | 2024-09-27 |
 | [Clothesline](https://open.spotify.com/track/1fj3OcoKr7IVemETrPCFdO) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Clothesline](https://open.spotify.com/album/3i1x3kgu16jQJlXV2jwfrB) | 3:27 | 2026-08-27 | 2026-09-26 |
@@ -1067,6 +1068,7 @@
 | [Stay Country or Die Tryin’](https://open.spotify.com/track/2OVJMopnpJFev3n1NxDJ92) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Stay Country or Die Tryin'](https://open.spotify.com/album/3SlFBTVQSdKBW6KVp5bulU) | 3:41 | 2025-04-10 | 2025-07-04 |
 | [Stay in Your Lane](https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z) | 3:29 | 2024-02-15 | 2024-06-07 |
 | [Stay In Your Lane](https://open.spotify.com/track/5w6cDriC2fIXeEcmN5WQLv) | [Hinterland](https://open.spotify.com/artist/0rRxOKXLCsE9wuDl0TnrLY) | [Stay In Your Lane](https://open.spotify.com/album/1MNF5gihhNsPwn0WjdE6Ro) | 3:08 | 2022-06-30 | 2022-09-09 |
+| [Steady Flame](https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Steady Flame](https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB) | 3:01 | 2026-10-29 |  |
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-31 | 2022-07-12 |
 | [Steel Town](https://open.spotify.com/track/6jRRqFZkAYYuRXyLmoW0f1) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Steel Town](https://open.spotify.com/album/4GwGToAN52feKmW0VdRrZt) | 3:19 | 2026-02-26 | 2026-04-10 |
 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-03-31 | 2022-07-15 |
@@ -1122,7 +1124,7 @@
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-08 | 2023-03-25 |
 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 | 2023-10-05 | 2024-08-16 |
 | [That Summer](https://open.spotify.com/track/21pFoQUP2Jl56aumhoMCbK) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [That Summer](https://open.spotify.com/album/6IaU97CQsdTwOWdxyENVOw) | 3:03 | 2023-02-16 | 2023-06-09 |
-| [That's Just Me](https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc) | 3:50 | 2026-08-27 |  |
+| [That's Just Me](https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc) | 3:50 | 2026-08-27 | 2026-10-30 |
 | [The Action](https://open.spotify.com/track/4whb0wRmx1Z9Ar3MdIxVfr) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [Midnight Mavericks](https://open.spotify.com/album/3sbsbhU0LzAoBFPYnhpy36) | 4:27 | 2026-06-25 | 2026-08-28 |
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-14 | 2024-05-04 |
 | [The Call](https://open.spotify.com/track/2eyhcmJHSEbdakGBBDsiqE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County \(From The Beginning\)](https://open.spotify.com/album/1LfbRC9L0MfNXSHZfX63hq) | 4:59 | 2024-10-31 | 2025-01-10 |
@@ -1243,7 +1245,7 @@
 | [What Are You Waiting For](https://open.spotify.com/track/1kJQe436UBzEugo3TUQNdt) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Up, Down & Sideways](https://open.spotify.com/album/5wEvYYwZUu3PPFnGZZVDgJ) | 3:07 | 2023-06-29 | 2023-09-15 |
 | [What Brought You Back](https://open.spotify.com/track/2PlynPDNTaI47Nrmnf57MJ) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [What Brought You Back](https://open.spotify.com/album/1z4Seg1FD1MCZ8axRpQNw1) | 3:08 | 2022-04-07 | 2022-09-24 |
 | [What Could Go Right \(feat\. Lanie Gardner\)](https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [What Could Go Right \(feat\. Lanie Gardner\)](https://open.spotify.com/album/6SDYyML3WrQNUQVn6ds4If) | 3:31 | 2025-03-20 | 2025-05-23 |
-| [What Do I Do If You Don't](https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What Do I Do If You Don't](https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ) | 2:54 | 2026-09-25 |  |
+| [What Do I Do If You Don't](https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What Do I Do If You Don't](https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ) | 2:54 | 2026-09-25 | 2026-10-30 |
 | [What Happens Now?](https://open.spotify.com/track/6Pof690ci3aferHd9VVQwO) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:33 | 2024-02-29 | 2024-03-29 |
 | [What He'll Never Have](https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life \(Still\)](https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT) | 2:33 | 2024-03-28 | 2024-10-18 |
 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 | 2022-08-05 | 2023-01-20 |

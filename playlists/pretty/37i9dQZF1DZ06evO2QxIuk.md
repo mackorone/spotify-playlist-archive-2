@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,686 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,689 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 40 | [The Way You Move \(feat\. Kenny G\)](https://open.spotify.com/track/39h3z023DlqOR9dFUqkVik) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 4:36 |
 | 41 | [Imagination](https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 5:16 |
 | 42 | [Evil](https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Head To The Sky](https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB) | 5:00 |
-| 43 | [Gratitude](https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 3:26 |
-| 44 | [Turn It into Something Good](https://open.spotify.com/track/1u5W2MmLUUZ4olQ9kVs9KI) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:10 |
+| 43 | [Turn It into Something Good](https://open.spotify.com/track/1u5W2MmLUUZ4olQ9kVs9KI) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:10 |
+| 44 | [Side by Side](https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:56 |
 | 45 | [Happy Feelin'](https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 3:35 |
-| 46 | [Side by Side](https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:56 |
-| 47 | [I've Had Enough](https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 4:37 |
-| 48 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 7:47 |
-| 49 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
+| 46 | [I've Had Enough](https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 4:37 |
+| 47 | [Gratitude](https://open.spotify.com/track/3u6RUwssIdqbeXSjU8bX8F) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 3:26 |
+| 48 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
+| 49 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY) | 7:47 |
 | 50 | [All About Love \(First Impression\)](https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 6:35 |
 
-Snapshot ID: `at1GgAAAAAAOZpAMCUnIqRhA48VeoNec`
+Snapshot ID: `at/pgAAAAADH7mKxftrGo5JeMLNX6boX`

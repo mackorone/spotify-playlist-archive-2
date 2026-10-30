@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Earful Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,597 likes - 70 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,733 likes - 70 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 69 | [Goodness Of God](https://open.spotify.com/track/02zekH3bvOcaGVAx77IzLL) | [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Spin\-Worx](https://open.spotify.com/artist/1DmSaIz6Qtpb1RHU5r17BK) | [SHANNY](https://open.spotify.com/album/6nhYIZtTGI1FYSM4AwWRPH) | 6:52 |
 | 70 | [Can't Give Up Now \(feat\. EarfulSoul\)](https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Can't Give Up Now \(EarfulSoul\)](https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO) | 7:26 |
 
-Snapshot ID: `AAAAAKxuaa9oG0YOstI5qTD0m2G1HnYw`
+Snapshot ID: `AAAAANMhL+VCWyRstN6lKFsJhcT/29MO`

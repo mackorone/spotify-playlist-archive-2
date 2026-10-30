@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Ace Banzuelo
 
-641 songs - 1 day 16 hr 4 min
+643 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [DUNGKA!](https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:35 | 2025-04-30 | 2025-06-26 |
 | [Duwag](https://open.spotify.com/track/40qnUoc5Yo4ogvXRnCAKgE) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Duwag](https://open.spotify.com/album/2N9t7PL0diPhBiFH96k2ky) | 3:06 | 2025-08-20 | 2025-10-09 |
 | [Duyan](https://open.spotify.com/track/4YyVQYnnzEO3y7hHNSn6sg) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Duyan](https://open.spotify.com/album/1BS12C5PNcVlIQ2EQFoaGx) | 4:58 | 2026-01-29 | 2026-03-26 |
-| [Edi Magalit Ka](https://open.spotify.com/track/6xcbG14O6rkLGQAzogEqic) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Edi Magalit Ka](https://open.spotify.com/album/7253mHdhZHV0eyOmveYyhJ) | 3:46 | 2026-08-14 |  |
+| [Edi Magalit Ka](https://open.spotify.com/track/6xcbG14O6rkLGQAzogEqic) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Edi Magalit Ka](https://open.spotify.com/album/7253mHdhZHV0eyOmveYyhJ) | 3:46 | 2026-08-14 | 2026-10-30 |
 | [Ego](https://open.spotify.com/track/4QosPAbuOSaDQsOSwl6AG1) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Jay Chan](https://open.spotify.com/artist/3IeDT4U7I5MOk729r0SHVE), [Sen Peders](https://open.spotify.com/artist/0X8q0FUuwS6GElbkwhHfxH), [Soup Pha](https://open.spotify.com/artist/2WRp2MrdxMV3BNiES6iTt4) | [Ego](https://open.spotify.com/album/3IIaHuWa8ExBM7iIuxDVpd) | 2:22 | 2025-07-23 | 2025-09-04 |
 | [Emoji](https://open.spotify.com/track/1WgkRboDwSJLVKvv9bthvR) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 4:01 | 2026-04-02 | 2026-05-14 |
 | [ERE](https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [ERE](https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD) | 4:44 | 2024-01-24 | 2024-02-08 |
@@ -232,6 +232,7 @@
 | [Isang Daan](https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk) | 4:29 | 2026-05-06 | 2026-08-15 |
 | [Isang Pag\-Ibig](https://open.spotify.com/track/27gE4JhDCQyih8EYlz8v3m) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Isang Pag\-Ibig](https://open.spotify.com/album/38UomyR7gYGovGNxe9E0Qa) | 4:39 | 2026-09-18 |  |
 | [Isang Tingin Mo Lang](https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Isang Tingin Mo Lang](https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb) | 3:06 | 2024-01-24 | 2024-02-15 |
+| [Isang Tulad Mo](https://open.spotify.com/track/65WIhwtA96b2qzmxCYUqRM) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Isang Tulad Mo](https://open.spotify.com/album/3LSeOwRsVlU5pV32BHeMZp) | 3:34 | 2026-10-30 |  |
 | [Isaoras](https://open.spotify.com/track/3Y7z75svn2ooKMf5TobAta) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Isaoras](https://open.spotify.com/album/6xHImhEYUjp8j5Sqry69jK) | 4:15 | 2024-02-14 | 2024-05-02 |
 | [jeep](https://open.spotify.com/track/5NgjXaVAsC3JIia1h9cxcG) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [jeep](https://open.spotify.com/album/6WeVmgeFWZrMQAQBNHszqx) | 4:21 | 2024-10-09 | 2024-12-12 |
 | [Jigsaw Puzzle](https://open.spotify.com/track/1a17aapKcbXTSdrQM3B9ar) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [Jigsaw Puzzle](https://open.spotify.com/album/7DpzEpSRjZiFFkRRpgYpWK) | 2:59 | 2025-01-15 | 2025-02-20 |
@@ -241,6 +242,7 @@
 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 | 2026-04-08 |  |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-18 | 2026-04-16 |
 | [Kahit 1 month pa lang](https://open.spotify.com/track/4zx0T8X11XdeyHntqRPLeX) | [Hattus](https://open.spotify.com/artist/0jFhoFzinngkDsmalRO9mP), [Eunice Rain](https://open.spotify.com/artist/6bd7dF5PF46dezapDpHouS) | [Kahit 1 month pa lang](https://open.spotify.com/album/4lV3xMGinhtp7SEybSEZTe) | 2:27 | 2025-10-22 | 2025-12-03 |
+| [Kahit Na Umulan](https://open.spotify.com/track/43AjF7Xceu7Jr8hH2vriS1) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Kahit Na Umulan](https://open.spotify.com/album/3ox7wTdG2LreH3lsq8rSnG) | 4:02 | 2026-10-30 |  |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-07 | 2024-09-05 |
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-24 | 2024-09-05 |
 | [Kailan Ka Uuwi \(feat\. Flow G\)](https://open.spotify.com/track/5INJWPDC31rn7ebGRQ0rN9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Kailan Ka Uuwi \(feat\. Flow G\)](https://open.spotify.com/album/6RiqcnCb9Z6mxrXsLDEXEj) | 4:00 | 2025-10-29 | 2026-10-03 |
@@ -586,7 +588,7 @@
 | [Tayo Nalang Ulit](https://open.spotify.com/track/3mBEGgGhEn4LD2vPF6cvai) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Tayo Nalang Ulit](https://open.spotify.com/album/5Q3vI6GFKCwuEo3QcFpRo6) | 3:14 | 2026-06-18 | 2026-07-18 |
 | [Tayo Sana](https://open.spotify.com/track/4MJhQ8GToVp8dePnGsv3j8) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [Yow](https://open.spotify.com/artist/3csDP4wv6lA8er5Qo4Q3Pt) | [Tayo Sana](https://open.spotify.com/album/10tNpBS2J2hTbth3GNzsA4) | 4:00 | 2024-08-14 | 2024-12-05 |
 | [Tayong Dalawa](https://open.spotify.com/track/0sIoAqI7eBnWUrEDkIgsCI) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 3:52 | 2025-06-18 | 2025-09-18 |
-| [Tayong Dalawa](https://open.spotify.com/track/0B61Xa64eghUz2GT8pw06b) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT), [Magiliw Street](https://open.spotify.com/artist/5J8oDvMc65JFCewBYS60nA) | [Tayong Dalawa](https://open.spotify.com/album/0RLYaF1viYlO5BRFtpAWs7) | 3:23 | 2026-08-21 |  |
+| [Tayong Dalawa](https://open.spotify.com/track/0B61Xa64eghUz2GT8pw06b) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT), [Magiliw Street](https://open.spotify.com/artist/5J8oDvMc65JFCewBYS60nA) | [Tayong Dalawa](https://open.spotify.com/album/0RLYaF1viYlO5BRFtpAWs7) | 3:23 | 2026-08-21 | 2026-10-30 |
 | [teka lang](https://open.spotify.com/track/5zkqGMHs0EGafwqutNd7Gu) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [teka lang](https://open.spotify.com/album/2CTm35u9x6Tk5mXZHhwmvs) | 3:06 | 2026-06-02 |  |
 | [temporary](https://open.spotify.com/track/4SUWaq2vOro4BDODgLBoZd) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [temporary](https://open.spotify.com/album/3DZoR2ifV9Tu4yfb9oAzb1) | 3:56 | 2026-08-14 | 2026-09-28 |
 | [Tenchu](https://open.spotify.com/track/16E9xFP8csyjHwFhKmpGMj) | [Esremborak](https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP) | [Tenchu](https://open.spotify.com/album/3fkVoiyeZHUly0szR3MLRC) | 6:02 | 2026-10-09 |  |

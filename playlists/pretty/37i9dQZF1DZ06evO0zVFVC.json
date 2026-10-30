@@ -1,29 +1,13 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 115094,
+  "num_followers": 115122,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAArTFPR0ZA6DqsiZg8ZwzUo",
+  "snapshot_id": "at/pgAAAAABbLC6+xaoghFuSLZzdKbfk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prey (Live at the Sydney Opera House)",
-        "url": "https://open.spotify.com/album/1ofXyNxZgZpOqmRp1dvYX9"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 372354,
-      "name": "Prey - Live at the Sydney Opera House",
-      "url": "https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA"
-    },
     {
       "added_at": null,
       "album": {
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 317907,
-      "name": "Romance Is Dead",
-      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
+      "duration_ms": 380410,
+      "name": "Chronos",
+      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
     },
     {
       "added_at": null,
@@ -283,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
       },
       "artists": [
         {
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 380410,
-      "name": "Chronos",
-      "url": "https://open.spotify.com/track/4oYNIBkL3n5SRR99kfGV5Z"
+      "duration_ms": 317907,
+      "name": "Romance Is Dead",
+      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
     },
     {
       "added_at": null,
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 139473,
-      "name": "Unrest",
-      "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"
+      "duration_ms": 201034,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5"
     },
     {
       "added_at": null,
@@ -579,38 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 211393,
-      "name": "Anasasis (Xenophontis)",
-      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 201034,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
@@ -627,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
       "artists": [
         {
@@ -636,9 +588,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 263962,
-      "name": "Writings on the Wall",
-      "url": "https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp"
+      "duration_ms": 139473,
+      "name": "Unrest",
+      "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"
     },
     {
       "added_at": null,
@@ -652,9 +604,25 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
+      "duration_ms": 211393,
+      "name": "Anasasis (Xenophontis)",
+      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263962,
+      "name": "Writings on the Wall",
+      "url": "https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp"
     },
     {
       "added_at": null,
@@ -732,9 +700,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 256829,
-      "name": "It's So Hard To Speak Without A Tongue",
-      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
+      "duration_ms": 238440,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf"
     },
     {
       "added_at": null,
@@ -751,6 +719,22 @@
       "duration_ms": 169960,
       "name": "Old Ghost / New Regrets",
       "url": "https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 256829,
+      "name": "It's So Hard To Speak Without A Tongue",
+      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 290126,
       "name": "I Hope You Rot",
       "url": "https://open.spotify.com/track/6t1s0Vj1gLkYyzkDQuAQEU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prey (Live at the Sydney Opera House)",
+        "url": "https://open.spotify.com/album/1ofXyNxZgZpOqmRp1dvYX9"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 372354,
+      "name": "Prey - Live at the Sydney Opera House",
+      "url": "https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA"
     }
   ],
   "unique_name": "This Is Parkway Drive",

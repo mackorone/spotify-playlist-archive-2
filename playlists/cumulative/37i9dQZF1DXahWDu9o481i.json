@@ -13131,6 +13131,24 @@
     },
     {
       "album": {
+        "name": "the greatest album of all time",
+        "url": "https://open.spotify.com/album/604KxCjle0KCw0VXdoMNgj"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310596,
+      "name": "Now I've Got A Lot You Know",
+      "url": "https://open.spotify.com/track/2Ike8PM0QWeAMeBxM8b7pY"
+    },
+    {
+      "album": {
         "name": "Now I've Got A Lot You Know",
         "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
       },
@@ -18562,7 +18580,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 180964,
       "name": "Trillions",
       "url": "https://open.spotify.com/track/4FZA8C75s6Zm1Tqj71ej3M"

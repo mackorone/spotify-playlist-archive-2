@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ADÉLA
 
-275 songs - 20 hr 45 min
+276 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Back For Good \- Progress Tour Live / 2011](https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Progress Live](https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR) | 5:14 | 2022-04-14 | 2025-01-18 |
 | [Because Of You \- Nissan Live Sets At Yahoo! Music](https://open.spotify.com/track/4zPZeYuv4HBlZITBgBzjBS) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Nissan Live Sets At Yahoo! Music](https://open.spotify.com/album/6NEzXXoQlQqLROVlqpXJHX) | 3:50 | 2022-04-14 | 2022-07-29 |
 | [Before You Go \- Live from Brixton Academy, London, 2019](https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:45 | 2022-04-14 | 2026-07-04 |
-| [Better The Devil You Know \- Live From The Tension Tour](https://open.spotify.com/track/3ZLZQPQDYL3vfyfN1kpElz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:36 | 2025-09-26 |  |
+| [Better The Devil You Know \- Live From The Tension Tour](https://open.spotify.com/track/3ZLZQPQDYL3vfyfN1kpElz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:36 | 2025-09-26 | 2026-10-30 |
 | [betty \- Live from the 2020 Academy of Country Music Awards](https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [betty \(Live from the 2020 Academy of Country Music Awards\)](https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL) | 5:12 | 2023-08-18 |  |
 | [Bewitched \- Live at the Hollywood Bowl](https://open.spotify.com/track/5HYPtMvVMkodNkwlTCVkPV) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU) | [A Night At The Symphony: Live at the Hollywood Bowl](https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ) | 4:15 | 2024-12-13 |  |
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-04-14 | 2023-07-29 |
@@ -185,6 +185,7 @@
 | [Parting Glass \- Live at Wembley Stadium](https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 3:15 | 2022-04-14 | 2023-08-19 |
 | [Party In The USA \- Live](https://open.spotify.com/track/5awub9b8qfJEAhJXhkiWez) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 7:00 | 2022-04-14 | 2024-09-25 |
 | [Party In The USA \- Live](https://open.spotify.com/track/7t5YIq57DS5djsaZJm1iyM) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 7:00 | 2022-08-09 | 2024-04-19 |
+| [petal \- angry live version](https://open.spotify.com/track/2u9Fh3hOKD4JPWyb8JvHeM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/48tSS2GzMqDhKYajqQUlcw) | 3:25 | 2026-10-30 |  |
 | [Physical \- Live](https://open.spotify.com/track/2yT82AafNlbpU7EAZkMQbw) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 4:43 | 2022-08-09 | 2022-08-19 |
 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 | 2023-08-18 | 2024-04-19 |
 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 | 2023-04-14 | 2025-01-18 |

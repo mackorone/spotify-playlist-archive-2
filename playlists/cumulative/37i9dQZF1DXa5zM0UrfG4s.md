@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-487 songs - 22 hr 26 min
+488 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Evig Ung](https://open.spotify.com/track/1JW9yOhRC3FKfaxTBcibQF) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Evig Ung](https://open.spotify.com/album/4qTGCjhUEuScaKYoHPq7k5) | 2:57 | 2021-12-16 | 2022-04-20 |
 | [Evig vandring](https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig vandring](https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE) | 2:50 | 2022-07-28 | 2025-03-28 |
 | [Evig Vandring](https://open.spotify.com/track/7IeBamArdqkA6YnqBaMHFj) | [Kjetil Nordfjeld](https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO), [Christiania](https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu) | [Evig Vandring](https://open.spotify.com/album/0nGtfoQ6FXtdjWQ6xudk7a) | 2:50 | 2021-12-16 | 2022-07-29 |
-| [Eviva Espana \- Charterfeber 2026](https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Eviva Espana \(Charterfeber 2026\)](https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6) | 2:45 | 2026-06-04 |  |
+| [Eviva Espana \- Charterfeber 2026](https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Eviva Espana \(Charterfeber 2026\)](https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6) | 2:45 | 2026-06-04 | 2026-10-30 |
 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 | 2022-09-22 | 2024-02-09 |
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-10-15 | 2023-07-18 |
 | [Falla](https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Falla](https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX) | 2:44 | 2026-04-07 | 2026-09-26 |
@@ -408,6 +408,7 @@
 | [SKIPET](https://open.spotify.com/track/2FoaNJ0TLBYI3YbEYF377u) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/7mWe2qgLah9gxLlDXHYEVb) | 2:31 | 2022-04-21 | 2022-05-20 |
 | [SKIPET](https://open.spotify.com/track/2PIEzb11ggvjMpLLSQWjIp) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKIPET](https://open.spotify.com/album/280AD6mveKaBGutfj8UWMp) | 2:31 | 2022-05-19 | 2022-07-27 |
 | [Skjenkestopp](https://open.spotify.com/track/2GiiOh2U8EQwWkORJd8FNI) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Skjenkestopp](https://open.spotify.com/album/7LgYrxQA5yqoUp21iiOXZR) | 2:39 | 2021-12-16 | 2022-07-23 |
+| [Skulle vore mi](https://open.spotify.com/track/4c1LpPV3TWZ3VbYBliL2BJ) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Skulle vore mi](https://open.spotify.com/album/6VeGdxpcOOy6pdKg47EXxV) | 3:56 | 2026-10-29 |  |
 | [Skyfri himmel](https://open.spotify.com/track/4Envvj6OILfnlVUFGifGcT) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Skyfri himmel](https://open.spotify.com/album/3NpHStPztvvb1t7Rjl2PXM) | 2:52 | 2023-03-16 | 2023-04-14 |
 | [SKÅL FOR OSS](https://open.spotify.com/track/46Z4qHlwxf1u7ReYjf7xHx) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [SKÅL FOR OSS](https://open.spotify.com/album/5zOWf6BPzBpHhOBrMKdit0) | 3:19 | 2025-02-27 | 2025-03-28 |
 | [SKÅLER](https://open.spotify.com/track/7yZGSZLKWGWDHMfdaDuqzu) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Olav Haust](https://open.spotify.com/artist/70zQbRqxcwsB6jJxNzd9Uv), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [SKÅLER](https://open.spotify.com/album/1kSVaAqrGdiXxh2gMUuCRH) | 2:26 | 2025-11-06 | 2026-01-01 |

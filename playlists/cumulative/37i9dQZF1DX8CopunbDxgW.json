@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Slow Me Down / 4510",
+        "url": "https://open.spotify.com/album/1q83KNZRKZAz1nYmnXusiL"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239993,
+      "name": "4510",
+      "url": "https://open.spotify.com/track/6Jbjy3y0nH2c4E739q6TmC"
+    },
+    {
+      "album": {
         "name": "NEW SKIN",
         "url": "https://open.spotify.com/album/34cWNhZY4Z8OWtlNoXAbm2"
       },
@@ -5808,6 +5826,24 @@
       "duration_ms": 212493,
       "name": "Butterfly Wings - Franc Moody Remix",
       "url": "https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr"
+    },
+    {
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/17ICPbARxbvhyoFINMYtFu"
+      },
+      "artists": [
+        {
+          "name": "Klarck",
+          "url": "https://open.spotify.com/artist/5NT7YYkRK2xQy2bk3ATwRs"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184724,
+      "name": "By My Side - Extended Mix",
+      "url": "https://open.spotify.com/track/5PUlmibQzo4z4HanLu8cqY"
     },
     {
       "album": {
@@ -12214,7 +12250,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 357466,
       "name": "Endlessly (feat. BEA1991)",
       "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
@@ -15664,7 +15700,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 392013,
       "name": "Get A Grip - Make A Dance Remix",
       "url": "https://open.spotify.com/track/1t8ZZYDtprPhRtXU3977NH"
@@ -25580,7 +25616,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-30",
       "duration_ms": 191146,
       "name": "Lot More Love",
       "url": "https://open.spotify.com/track/7obqbQ3RMw1FLZWnEnz9Ib"
@@ -32468,6 +32504,24 @@
       "duration_ms": 157350,
       "name": "Paper Cup",
       "url": "https://open.spotify.com/track/4lBztfjw0N2wc9dnVpXZ4S"
+    },
+    {
+      "album": {
+        "name": "(L)ove(I)s(F)or(E)veryone",
+        "url": "https://open.spotify.com/album/6OlizAuU1NhbdlRJF6JPr0"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142736,
+      "name": "paper plane",
+      "url": "https://open.spotify.com/track/017dv0X0A4aGefEa5PQPmJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『BOYNEXTDOOR TOUR 'KNOCK ON Vol.2' IN JAPAN』のセットリストをスペシャルメッセージとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,654 likes - 28 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,642 likes - 28 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 27 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 |
 | 28 | [ANIMAL](https://open.spotify.com/track/3U7iIHygNSOcjcL98KwHQg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME: DELUXE](https://open.spotify.com/album/7xB5Mzz9ScCgVHzzhx1sGq) | 2:26 |
 
-Snapshot ID: `AAAAAIrSU8cCzPrNvpdPh5XofV4HArqP`
+Snapshot ID: `AAAAAMbh2OoWQN9jltyCLEPO1ewksmjS`

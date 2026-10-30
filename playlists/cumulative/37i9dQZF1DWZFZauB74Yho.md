@@ -2,7 +2,7 @@
 
 ### [New Grass](https://open.spotify.com/playlist/37i9dQZF1DWZFZauB74Yho)
 
-> The latest releases from bluegrass and string bands alike\. Cover: Jake Blount
+> The latest releases from bluegrass and string bands alike\. Cover: The Creekers
 
 577 songs - 1 day 10 hr 13 min
 
@@ -166,7 +166,7 @@
 | [Fireball](https://open.spotify.com/track/6f78Gdh2iVI2YU4PLbNYUm) | [Mason Via](https://open.spotify.com/artist/23Q1PNqXqh9dzm8op1vOHi) | [Fireball](https://open.spotify.com/album/5iovh98VjGmabfbr11qcjo) | 3:23 | 2025-02-22 | 2026-01-24 |
 | [First Snow \- Live from Powell River Sessions](https://open.spotify.com/track/4DZTCqivpcz5hgZOBzO2wX) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [First Snow \(Live from Powell River Sessions\)](https://open.spotify.com/album/6anXcJnOwI3c2gI6Cg6g67) | 2:18 | 2024-06-28 | 2024-08-10 |
 | [Flowers In Pulaski](https://open.spotify.com/track/7CNdoGyc6qyUhSKAq9vF0m) | [Troubadour Blue](https://open.spotify.com/artist/3EadWMHUn9FfrzAWxMM7GG), [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Flowers In Pulaski](https://open.spotify.com/album/5TfTkSuSfzfq6yTQQBl9FP) | 3:57 | 2026-10-16 |  |
-| [Follow The Sound](https://open.spotify.com/track/0Rl8ReTcCWm2WiZbehz6dQ) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [Follow The Sound](https://open.spotify.com/album/4KDEy7p1MmmKLSz9vPnVMW) | 3:25 | 2026-07-24 |  |
+| [Follow The Sound](https://open.spotify.com/track/0Rl8ReTcCWm2WiZbehz6dQ) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [Follow The Sound](https://open.spotify.com/album/4KDEy7p1MmmKLSz9vPnVMW) | 3:25 | 2026-07-24 | 2026-10-30 |
 | [For Everything](https://open.spotify.com/track/7KT2d44IgFO7yy21Oj0okp) | [Brenna MacMillan](https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [For Everything](https://open.spotify.com/album/38klntpvhrepsCTVEzydGm) | 3:06 | 2024-07-12 | 2024-11-16 |
 | [For the Record](https://open.spotify.com/track/1LGxK8CpgXwUFEBNIDKwiX) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [For the Record](https://open.spotify.com/album/7HjMryUz4eO5pMV0XRTpIz) | 3:35 | 2024-07-12 | 2024-12-07 |
 | [Free Time](https://open.spotify.com/track/2HiHcis6MYpTEIVbHFrMck) | [Chloe Crowder](https://open.spotify.com/artist/3gHDvvAdomgodvNvZNlRZ2) | [Free Time](https://open.spotify.com/album/0739R9Mg1Y4LUSmARIsHKy) | 2:58 | 2024-06-28 | 2024-10-05 |

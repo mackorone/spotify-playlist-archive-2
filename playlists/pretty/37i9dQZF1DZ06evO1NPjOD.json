@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABleh9kwr9g7vhzAzxysx/e",
+  "snapshot_id": "at/pgAAAAADGLuoQmcs2VbUKbQeTtz0U",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 177370,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Love (feat. Usher)",
         "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 232787,
       "name": "Good Love (feat. Usher)",
       "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 177370,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 131631,
+      "name": "Double CC's",
+      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caramel (feat. City Girls)",
         "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 232941,
       "name": "Caramel (feat. City Girls)",
       "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 131631,
-      "name": "Double CC's",
-      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
     },
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190491,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 208932,
       "name": "BILLS PAID (feat. Latto & City Girls)",
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 190491,
-      "name": "Flewed Out",
-      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "4 1 Nite",
+        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
+      },
+      "artists": [
+        {
+          "name": "Mike Smiff",
+          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 205296,
+      "name": "4 1 Nite",
+      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
       },
@@ -839,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 1 Nite",
-        "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
       "artists": [
         {
-          "name": "Mike Smiff",
-          "url": "https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH"
-        },
-        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 205296,
-      "name": "4 1 Nite",
-      "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
+      "duration_ms": 165517,
+      "name": "Flashy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
     },
     {
       "added_at": null,
@@ -907,26 +927,6 @@
       "duration_ms": 160013,
       "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Flashy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
     },
     {
       "added_at": null,

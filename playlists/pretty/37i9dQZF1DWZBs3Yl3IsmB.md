@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 
 > \(no lyrics\) ✨ soft and chill instrumentals to relax, focus, or anything in between
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,328 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,411 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBs3Yl3IsmB.md) - [plain]
 | 49 | [Oregon](https://open.spotify.com/track/4mUy6zIjxgGNgQlb30OSu9) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Oregon](https://open.spotify.com/album/2HEky0wIcjbSnYvo0kbyMh) | 2:06 |
 | 50 | [Through the Whispering Trees](https://open.spotify.com/track/42NQphnmJaNTvzfD57IFTI) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Through the Whispering Trees](https://open.spotify.com/album/3h0lm1G0XOd7Ew4lLmudOZ) | 3:05 |
 
-Snapshot ID: `AAAAAATzXmzeM93qT+sE1EflU8pOSdFZ`
+Snapshot ID: `AAAAAPWI7bMhp99UQ9WodyAMonRoWdzI`

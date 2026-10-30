@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Niños.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,394 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,406 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Hacemos lo que podemos](https://open.spotify.com/track/0BTbyzc0rb6qi8RWpOBRsu) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Hacemos lo que podemos](https://open.spotify.com/album/1tfz35tbgSLtSt8v8SSBPJ) | 3:28 |
 | 100 | [MIS AMIGAS TE ODIAN](https://open.spotify.com/track/0kcKR84wqVB1zvOvTHNI7b) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [MIS AMIGAS TE ODIAN](https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx) | 2:55 |
 
-Snapshot ID: `AAAAAOpAFXB/upNtsJkpm6Yw4uu6qYkK`
+Snapshot ID: `AAAAALnvye8h9Co9Da68Gt2JydhW9dzS`

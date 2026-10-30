@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover:BABYMONSTER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,490 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,463 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [MUAH!](https://open.spotify.com/track/4i96s6IzO7USqeuOsxiyyU) | [VAYONN](https://open.spotify.com/artist/79zOflwBYq7fHf6kCQAB3l) | [Youth Today](https://open.spotify.com/album/5VDEgG7OiSfEVpiXG8dSYt) | 3:03 |
 | 50 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
 
-Snapshot ID: `AAAAAGZjn7ybEnb0Z7F7cxTJ4jxQ0dEx`
+Snapshot ID: `AAAAAGP82/uPK2JY/Vd3yvYsC7yleZwu`

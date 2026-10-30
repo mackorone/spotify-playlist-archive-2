@@ -1,12 +1,12 @@
 {
   "description": "every single night...",
-  "num_followers": 2080479,
+  "num_followers": 2080358,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAFpk0YRtqHyRTKP3+wCEOCylZ30",
+  "snapshot_id": "AAAAABFSL3KPPBOSl3IKn1T5CAiyQEto",
   "tracks": [
     {
       "added_at": "2026-09-04 04:02:32",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-10-16 04:01:42",
-      "album": {
-        "name": "Shy Girl",
-        "url": "https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187727,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N"
-    },
-    {
       "added_at": "2026-10-20 00:37:35",
       "album": {
         "name": "Housewife",
@@ -57,36 +41,56 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-10-23 04:15:21",
+      "added_at": "2026-10-21 20:42:10",
       "album": {
-        "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
-        "url": "https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT"
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         }
       ],
-      "duration_ms": 193538,
-      "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
-      "url": "https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw"
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/5uU9RcqmUxm8z8coudZ8eN"
     },
     {
-      "added_at": "2026-09-18 04:10:04",
+      "added_at": "2026-10-20 00:37:35",
       "album": {
-        "name": "bad taste",
-        "url": "https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL"
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
       },
       "artists": [
         {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 170400,
-      "name": "bad taste",
-      "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+    },
+    {
+      "added_at": "2026-10-16 04:01:42",
+      "album": {
+        "name": "Shy Girl",
+        "url": "https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 187727,
+      "name": "Shy Girl",
+      "url": "https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N"
     },
     {
       "added_at": "2026-10-23 04:15:21",
@@ -129,42 +133,6 @@
       "url": "https://open.spotify.com/track/1PS9KaNbnSggKcR1TelUHA"
     },
     {
-      "added_at": "2026-10-20 00:37:35",
-      "album": {
-        "name": "expectations (feat. Chappell Roan)",
-        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 223935,
-      "name": "expectations (feat. Chappell Roan)",
-      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
-    },
-    {
-      "added_at": "2026-10-21 20:42:10",
-      "album": {
-        "name": "IT girl",
-        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Angel Of My Dreams",
-      "url": "https://open.spotify.com/track/5uU9RcqmUxm8z8coudZ8eN"
-    },
-    {
       "added_at": "2026-10-09 04:00:48",
       "album": {
         "name": "Babydoll",
@@ -181,52 +149,112 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-10-23 04:15:21",
+      "added_at": "2026-09-18 04:10:04",
       "album": {
-        "name": "He's My Man",
-        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+        "name": "bad taste",
+        "url": "https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL"
       },
       "artists": [
         {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
         }
       ],
-      "duration_ms": 232985,
-      "name": "He's My Man",
-      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+      "duration_ms": 170400,
+      "name": "bad taste",
+      "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "Face Card (The Kid LAROI Remix)",
+        "url": "https://open.spotify.com/album/7yeUtECMpr2lzo00a2mscy"
+      },
+      "artists": [
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Face Card - The Kid LAROI Remix",
+      "url": "https://open.spotify.com/track/5DD7mEinRs7bMr6YvbyRXb"
+    },
+    {
+      "added_at": "2026-10-20 00:37:35",
+      "album": {
+        "name": "Hot & talking",
+        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Hot & talking",
+      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "Sensitive to the room, sensitive to the sound",
+        "url": "https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "duration_ms": 237292,
+      "name": "My Vice Is Misery",
+      "url": "https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn"
     },
     {
       "added_at": "2026-10-23 04:15:21",
       "album": {
-        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+        "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 212416,
-      "name": "Home Tonight",
-      "url": "https://open.spotify.com/track/15JWJHmZIpQMP0ojCUEW27"
+      "duration_ms": 193538,
+      "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw"
     },
     {
-      "added_at": "2026-10-23 04:15:21",
+      "added_at": "2026-10-30 04:01:42",
       "album": {
-        "name": "BLUE",
-        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+        "name": "HOW TO QUIT SMOKING",
+        "url": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
         }
       ],
-      "duration_ms": 180890,
-      "name": "missing person",
-      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+      "duration_ms": 191599,
+      "name": "CABBY",
+      "url": "https://open.spotify.com/track/22XqO0FrbFk2qJNlvCYU22"
     },
     {
       "added_at": "2026-10-20 00:37:35",
@@ -247,6 +275,86 @@
     {
       "added_at": "2026-10-23 04:15:21",
       "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "NOBODY'S HERO",
+        "url": "https://open.spotify.com/album/3eYPVRi6W4fG3JyzAcHnAA"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 199014,
+      "name": "NOBODY'S HERO",
+      "url": "https://open.spotify.com/track/4xK0It4Kdk80QGGVSW5ec9"
+    },
+    {
+      "added_at": "2026-10-23 04:15:21",
+      "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 212416,
+      "name": "Home Tonight",
+      "url": "https://open.spotify.com/track/15JWJHmZIpQMP0ojCUEW27"
+    },
+    {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "The Hope That Kills Me",
+        "url": "https://open.spotify.com/album/2zp1vr7BgZ7dIc1deKodmt"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "The Hope That Kills Me",
+      "url": "https://open.spotify.com/track/7lf9B6heWvYJ8Odgnki8uS"
+    },
+    {
+      "added_at": "2026-10-23 04:15:21",
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "added_at": "2026-10-23 04:15:21",
+      "album": {
         "name": "What we want and need from love",
         "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
       },
@@ -261,20 +369,20 @@
       "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
     },
     {
-      "added_at": "2026-10-20 00:37:35",
+      "added_at": "2026-08-28 04:00:50",
       "album": {
-        "name": "Hot & talking",
-        "url": "https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW"
+        "name": "TUNE & PLAY",
+        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
       },
       "artists": [
         {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+          "name": "TUIDE",
+          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
         }
       ],
-      "duration_ms": 191440,
-      "name": "Hot & talking",
-      "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
+      "duration_ms": 181000,
+      "name": "SUN KISS",
+      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
     },
     {
       "added_at": "2026-10-02 04:02:19",
@@ -381,6 +489,22 @@
       "url": "https://open.spotify.com/track/4yBofFU6RdztFsyffEFwIp"
     },
     {
+      "added_at": "2026-10-30 04:01:42",
+      "album": {
+        "name": "wasteland",
+        "url": "https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN"
+      },
+      "artists": [
+        {
+          "name": "Bana",
+          "url": "https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM"
+        }
+      ],
+      "duration_ms": 143335,
+      "name": "wasteland",
+      "url": "https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk"
+    },
+    {
       "added_at": "2026-10-01 04:00:26",
       "album": {
         "name": "we fell in love in october / October Passed Me By",
@@ -411,22 +535,6 @@
       "duration_ms": 156785,
       "name": "Swear On My Sex Life",
       "url": "https://open.spotify.com/track/6Dc2SEXILrBwqWmB1pdqrK"
-    },
-    {
-      "added_at": "2026-08-28 04:00:50",
-      "album": {
-        "name": "TUNE & PLAY",
-        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
-      },
-      "artists": [
-        {
-          "name": "TUIDE",
-          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "SUN KISS",
-      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
     },
     {
       "added_at": "2026-10-20 00:37:35",
@@ -1433,22 +1541,6 @@
       "url": "https://open.spotify.com/track/3bxGv7giekHGcXUtGumcVp"
     },
     {
-      "added_at": "2026-09-04 04:02:32",
-      "album": {
-        "name": "OUTTASIGHT",
-        "url": "https://open.spotify.com/album/4hKK9lShc89pZBDmeb60n6"
-      },
-      "artists": [
-        {
-          "name": "MISSU",
-          "url": "https://open.spotify.com/artist/0mgZJ2lmD9jk1YSF43YwSG"
-        }
-      ],
-      "duration_ms": 123633,
-      "name": "OUTTASIGHT",
-      "url": "https://open.spotify.com/track/5IHMpQ31TkzT3Tv1SUPYOw"
-    },
-    {
       "added_at": "2026-07-31 04:01:38",
       "album": {
         "name": "brand new chanel$",
@@ -1479,22 +1571,6 @@
       "duration_ms": 254026,
       "name": "She\u2019s the Best",
       "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
-    },
-    {
-      "added_at": "2026-08-21 17:02:55",
-      "album": {
-        "name": "THE SIN : BLISS",
-        "url": "https://open.spotify.com/album/2os46ReV779WlryAHPL6ko"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Bloody Paradise",
-      "url": "https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu"
     },
     {
       "added_at": "2026-03-06 05:00:25",
@@ -1597,74 +1673,6 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-08-21 04:02:44",
-      "album": {
-        "name": "Hung Over (You)",
-        "url": "https://open.spotify.com/album/34BLFWocOiggRlsGC3E8Wj"
-      },
-      "artists": [
-        {
-          "name": "Laila Mach",
-          "url": "https://open.spotify.com/artist/7e2OOYhl3Pss82Di6WEyTQ"
-        },
-        {
-          "name": "Henry Thompson",
-          "url": "https://open.spotify.com/artist/1V2jHJ52kMAIxlEPFWIhPE"
-        }
-      ],
-      "duration_ms": 212022,
-      "name": "Hung Over (You)",
-      "url": "https://open.spotify.com/track/6sunlQrapnlyDAafV14sRT"
-    },
-    {
-      "added_at": "2026-06-26 04:02:21",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
-    },
-    {
-      "added_at": "2026-08-14 04:00:17",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/0jR6CGTk0vLgmEMoYFXa5I"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 242741,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/5q6cFFIklSDYN1f9Lijlak"
-    },
-    {
-      "added_at": "2026-08-14 04:00:17",
-      "album": {
-        "name": "Stay Gone",
-        "url": "https://open.spotify.com/album/0fAfTDRDjfWjs4YryqQARn"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 267159,
-      "name": "Stay Gone",
-      "url": "https://open.spotify.com/track/2arjC99T7tiLwCpSFklmmO"
-    },
-    {
       "added_at": "2026-07-24 04:02:42",
       "album": {
         "name": "spilling my guts",
@@ -1679,22 +1687,6 @@
       "duration_ms": 148304,
       "name": "bones",
       "url": "https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton"
-    },
-    {
-      "added_at": "2026-06-26 04:02:21",
-      "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
     },
     {
       "added_at": "2026-04-06 21:52:26",

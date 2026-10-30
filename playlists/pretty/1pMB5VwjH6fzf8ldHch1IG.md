@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 41,485 likes - 102 songs - 5 hr 37 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 41,472 likes - 103 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,6 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 100 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
 | 101 | [The Anthem](https://open.spotify.com/track/6TVhP2a7ESba4pR5ePflRw) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [The Boatlift \- Clean](https://open.spotify.com/album/6ODOJvYpaQ3p0O6Agrlt4B) | 4:05 |
 | 102 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 |
+| 103 | [there's no easy way to put this...](https://open.spotify.com/track/6OCCNtYX4xH5CHe3ey2jsB) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [there's no easy way to put this...](https://open.spotify.com/album/6rlGBIOV37DbGtL3Ijvx5J) | 3:46 |
 
-Snapshot ID: `AABPsAXdhENkGSTymdd/oSjaoBc8jxch`
+Snapshot ID: `AABPsaShYqWXOKkoq878L48Lei1reI45`
