@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Moses Boyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,679 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,686 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 30 | [ViewFinder: Nature's Ratio](https://open.spotify.com/track/7CvlfDGNYSirNXQI9aV11Z) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [ViewFinder: Nature's Ratio](https://open.spotify.com/album/4WvSDAVLsjAR09nHgoEZSS) | 3:06 |
 | 31 | [Grand Prix](https://open.spotify.com/track/0MANz8JX5P50SdvkGWVVY6) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 4:01 |
 | 32 | [DON’T LISTEN](https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [DON’T LISTEN](https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN) | 2:57 |
-| 33 | [Shelter](https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Shelter](https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf) | 3:24 |
+| 33 | [More To Life](https://open.spotify.com/track/1hISEFM7ReNJJV5hCsTxVm) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [SHANTÉH](https://open.spotify.com/artist/5ImFVYKpvCFeFS4SEfZBgz) | [More To Life](https://open.spotify.com/album/39lKH8VPgoBwXA5btiBSg4) | 4:55 |
 | 34 | [Dawning Dusk](https://open.spotify.com/track/56BHtvEwxMoyqm1FVzm5kE) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Terra Incognita](https://open.spotify.com/album/0uNaDvqUwpRcuE0kEyUrAx) | 6:32 |
-| 35 | [More To Life](https://open.spotify.com/track/1hISEFM7ReNJJV5hCsTxVm) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [SHANTÉH](https://open.spotify.com/artist/5ImFVYKpvCFeFS4SEfZBgz) | [More To Life](https://open.spotify.com/album/39lKH8VPgoBwXA5btiBSg4) | 4:55 |
+| 35 | [Shelter](https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Shelter](https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf) | 3:24 |
 | 36 | [In the shade.](https://open.spotify.com/track/7qkVjJLBZH64MlwtY2oAxu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [In the shade.](https://open.spotify.com/album/2F9PeLfWzyBQBuH6tmeZng) | 2:42 |
 | 37 | [THIEF](https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [THIEF](https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ) | 3:02 |
 | 38 | [Twang](https://open.spotify.com/track/5W50Z9xVwrr0zPzZKXhEJp) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [DJ\-Kicks: Quantic](https://open.spotify.com/album/2GgclfMMPdemb5gQHvtHiL) | 3:49 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 56 | [River Native](https://open.spotify.com/track/655ytGqzgDfJ8bBFbFVwQl) | [Azamiah](https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8) | [River Native](https://open.spotify.com/album/65ZqqiYEAqWnVXztKkcOoL) | 6:02 |
 | 57 | [K2 Central](https://open.spotify.com/track/2RQMFM55u8M21CQa3M0OzW) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [K2 Central](https://open.spotify.com/album/0mrnKzGjUoAi1tfCgsH45i) | 4:24 |
 | 58 | [Good Intentions](https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Good Intentions](https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf) | 3:14 |
-| 59 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 |
-| 60 | [Cali](https://open.spotify.com/track/0QLMIFB1tGQBQ3HlGVKWsp) | [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Cali](https://open.spotify.com/album/0Yj5zhtDAOsEX8Ttvf0ezI) | 2:55 |
+| 59 | [Cali](https://open.spotify.com/track/0QLMIFB1tGQBQ3HlGVKWsp) | [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Cali](https://open.spotify.com/album/0Yj5zhtDAOsEX8Ttvf0ezI) | 2:55 |
+| 60 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 |
 | 61 | [ISA](https://open.spotify.com/track/5MHpJS8FDkSleGcV6Lk0Dz) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [ISA](https://open.spotify.com/album/3AYOE4y7iEVsvUPo4T0KXF) | 3:48 |
 | 62 | [Change](https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Kismet](https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48) | 3:08 |
-| 63 | [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 |
-| 64 | [Eyes On Us](https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ) | [IFULKI](https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T) | [Eyes On Us](https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz) | 3:03 |
+| 63 | [Eyes On Us](https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ) | [IFULKI](https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T) | [Eyes On Us](https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz) | 3:03 |
+| 64 | [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 |
 | 65 | [Dawn Patrol](https://open.spotify.com/track/0k0iArgkcuCIbug49dhrzR) | [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Dawn Patrol](https://open.spotify.com/album/5BPZwwJTfD90jBlE9I8Wic) | 7:00 |
 | 66 | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/track/0IHLe0jsqkQokL1At1vwBS) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe) | 3:19 |
 | 67 | [Acid Jazz Revenge](https://open.spotify.com/track/6Pxz8ReFmfZS8V7nr4KxJp) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [Unreliable Memories of Contested Conversations](https://open.spotify.com/album/6TvgsdZeKxKFUTTeGrZmct) | 4:33 |

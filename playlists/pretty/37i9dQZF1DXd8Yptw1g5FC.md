@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sertab Erener ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,062 likes - 104 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,529 likes - 104 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 10 | [Göz](https://open.spotify.com/track/52OJr408L2oFtUJSeVGqfi) | [Zakkum](https://open.spotify.com/artist/70Ya7DKJEo20SAkxjirYnu) | [Göz](https://open.spotify.com/album/52bhjUu2YBiJ1FFPthf1W2) | 3:14 |
 | 11 | [Gülden'e Geldik \- İyi Değilim](https://open.spotify.com/track/7whiCLUXp1MI3UDfo9d6DP) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Gülden'e Geldik \- İyi Değilim](https://open.spotify.com/album/6RTgQvJH9lyLQWp9evD99S) | 3:18 |
 | 12 | [Senden Vazgeçemem ki](https://open.spotify.com/track/6yMbzTUIh9gbKU7wLSDFaf) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Senden Vazgeçemem ki](https://open.spotify.com/album/5GDJCpAIgKMpkOfSEBrVcu) | 2:07 |
-| 13 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 13 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 14 | [Gayrı Sevme](https://open.spotify.com/track/1VqJ1whwAiyclnO9fOCfRY) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [BoomBesk](https://open.spotify.com/album/6TEczKkn9AVewbvz2dMwNx) | 3:27 |
 | 15 | [Gelseydim](https://open.spotify.com/track/3YVqsYtpBQXrVKaPWcpYtS) | [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [Gelseydim](https://open.spotify.com/album/6Vo1eFztLXKJ9HwWghN65g) | 2:50 |
 | 16 | [Ağlama Ben Ağlarım \- Harbiye 2026](https://open.spotify.com/track/0A8JbHInd1mhsKVUHa4WD0) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC), [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Ağlama Ben Ağlarım \(Harbiye 2026\)](https://open.spotify.com/album/3MnBwpIrPlfooCgGaQGJWD) | 3:44 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Every Time I Die. The essential tracks, all in one playlist.",
-  "num_followers": 8095,
+  "num_followers": 8096,
   "original_name": "This Is Every Time I Die",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAA1exCYt3i6zfpGIPqwfqMS",
+  "snapshot_id": "auE7AAAAAAC5MXFVcHd49c7orL+ObpQ/",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 179946,
-      "name": "Roman Holiday",
-      "url": "https://open.spotify.com/track/7jbnEqoo02mfQZSMn1cOJg"
+      "duration_ms": 179106,
+      "name": "For The Record",
+      "url": "https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
         }
       ],
-      "duration_ms": 179106,
-      "name": "For The Record",
-      "url": "https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak"
+      "duration_ms": 179946,
+      "name": "Roman Holiday",
+      "url": "https://open.spotify.com/track/7jbnEqoo02mfQZSMn1cOJg"
     },
     {
       "added_at": null,

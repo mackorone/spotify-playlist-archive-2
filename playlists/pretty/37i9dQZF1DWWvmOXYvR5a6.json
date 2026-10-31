@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: kaogaii(\uac00\uc624\uac00\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221368,
+  "num_followers": 221356,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -484,7 +484,7 @@
           "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "meenoi",
+          "name": "Meenoi",
           "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
+        "name": "SAKOPAK: Birth Mother OST",
+        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 216293,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
-        "name": "SAKOPAK: Birth Mother OST",
-        "url": "https://open.spotify.com/album/1SXGzIIVzpvW4qf2XGKCWb"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/3Aj54sKKwEk90NqwXC0SOe"
     },
     {
       "added_at": "2026-10-23 05:24:01",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
-        "name": "Focused On Getting Rich",
-        "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
-      },
-      "artists": [
-        {
-          "name": "KHAN",
-          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
-        },
-        {
-          "name": "OXYNOVA",
-          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
-        }
-      ],
-      "duration_ms": 138280,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl"
-    },
-    {
-      "added_at": "2026-10-23 05:24:01",
-      "album": {
         "name": "Just Like This",
         "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
       },
@@ -1623,22 +1603,22 @@
     {
       "added_at": "2026-10-23 05:24:01",
       "album": {
-        "name": "BABY CACTUS",
-        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
+        "name": "Focused On Getting Rich",
+        "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
       },
       "artists": [
         {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
         },
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "OXYNOVA",
+          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
         }
       ],
-      "duration_ms": 181384,
-      "name": "BUCKET LIST (feat. Crush)",
-      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
+      "duration_ms": 138280,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl"
     },
     {
       "added_at": "2026-10-23 05:24:01",
@@ -1679,6 +1659,26 @@
       "duration_ms": 224397,
       "name": "Too laid back",
       "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
+    },
+    {
+      "added_at": "2026-10-23 05:24:01",
+      "album": {
+        "name": "BABY CACTUS",
+        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "BUCKET LIST (feat. Crush)",
+      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
     },
     {
       "added_at": "2026-10-23 05:24:01",

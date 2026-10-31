@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "ABERDI",
+        "url": "https://open.spotify.com/album/0gtXA6YpdiX9OAAXQzF2YR"
+      },
+      "artists": [
+        {
+          "name": "Lakamura",
+          "url": "https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "ABERDI",
+      "url": "https://open.spotify.com/track/5VPfBBt3YgeOyZHcY9kCDv"
+    },
+    {
+      "album": {
         "name": "Ach Dani",
         "url": "https://open.spotify.com/album/1NV8RX4FjotSe0X3cYFjw7"
       },
@@ -240,6 +258,24 @@
       "duration_ms": 162461,
       "name": "ACH HADA",
       "url": "https://open.spotify.com/track/1t2a3jcK6TltYE1ffwY41M"
+    },
+    {
+      "album": {
+        "name": "Ach khellah Yetfakarni",
+        "url": "https://open.spotify.com/album/3783OvbEPlHQVwToBsrirf"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202162,
+      "name": "Achkhellah Yetfakarni",
+      "url": "https://open.spotify.com/track/3H54lEEiew66nSG4NyatEF"
     },
     {
       "album": {
@@ -344,7 +380,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 161118,
       "name": "Allo Doctor",
       "url": "https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO"
@@ -670,7 +706,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 150620,
       "name": "Barakin",
       "url": "https://open.spotify.com/track/4E313AQkPCIPASvQZvHbvN"
@@ -2337,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "LBASATA",
+        "url": "https://open.spotify.com/album/1lvbzl0U8pG41tMEk09asg"
+      },
+      "artists": [
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155912,
+      "name": "LBASATA",
+      "url": "https://open.spotify.com/track/34CI2kHw8rt0oQUIc5lfWo"
+    },
+    {
+      "album": {
         "name": "Lberra7",
         "url": "https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq"
       },
@@ -2510,7 +2564,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 148000,
       "name": "Loca",
       "url": "https://open.spotify.com/track/2QVScxNp2qLnKflRftE2Kx"

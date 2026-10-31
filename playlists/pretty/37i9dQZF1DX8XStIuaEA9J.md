@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,930 likes - 69 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,950 likes - 69 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

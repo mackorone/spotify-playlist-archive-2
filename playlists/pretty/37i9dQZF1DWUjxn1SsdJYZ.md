@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Kerser
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,931 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,949 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [clear out the room](https://open.spotify.com/track/61C9oLlD9mo78jLNpyMfVT) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [clear out the room](https://open.spotify.com/album/0hxMEdWolujsfpXAHEPGcY) | 2:59 |
 | 100 | [DONT STOP](https://open.spotify.com/track/4h9sHLLMPWdQ382ahxdxMQ) | [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y) | [DONT STOP](https://open.spotify.com/album/4ZG4jGynLfaPC3lJSmi9Ne) | 2:28 |
 
-Snapshot ID: `AAAAAHBXom5v6o1YEEY6vgBmp9Bldls9`
+Snapshot ID: `AAAAAIKXr/bdn8JW80SRGf36loKj7vWA`

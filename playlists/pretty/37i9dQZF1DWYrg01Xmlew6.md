@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,656 likes - 76 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,655 likes - 76 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 59 | [EL PIBE DE ORO](https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [EL PIBE DE ORO](https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4) | 2:35 |
 | 60 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |
 | 61 | [Int 'o rione](https://open.spotify.com/track/0SbPMAgqOh6hi0xLa5gD8C) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe'mme](https://open.spotify.com/album/5MBHrsqGDt3aEMPvTcuvHt) | 4:27 |
-| 62 | [Ksfa](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [KSFA](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 |
+| 62 | [Ksfa](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Ksfa](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 |
 | 63 | [LUMINOR](https://open.spotify.com/track/4L54Nd3uiIFYMNzBL3j8CT) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [VISIONARE](https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD) | [LUMINOR](https://open.spotify.com/album/7vtQ66PsP8pFPkkRguuSz1) | 2:20 |
 | 64 | [Cognac](https://open.spotify.com/track/67Q1q8qimE7qPaGehMqih8) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [Cognac](https://open.spotify.com/album/5nCMpBVzwTqBa3oRt4JZee) | 2:12 |
 | 65 | [BRATZ](https://open.spotify.com/track/5I3FJAEbsA6wHrCoNb5fhs) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [BRATZ](https://open.spotify.com/album/2Uyn21YkIpQLeBAeWyZZfX) | 2:12 |

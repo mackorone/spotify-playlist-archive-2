@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-3,049 songs - 6 day 13 hr 15 min
+3,050 songs - 6 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [BADLY](https://open.spotify.com/track/1E3qm2suT6hzmxcnE6Ex93) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Misk](https://open.spotify.com/artist/4JMMgnz7NNpnj5okuoV7Xx) | [TAKE NOTES](https://open.spotify.com/album/28QrXkTTfagVncInDoOjgh) | 3:15 | 2023-12-09 | 2023-12-12 |
 | [BADMAN](https://open.spotify.com/track/0B015hZa7aYSZCpPAa4iPy) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [VEGANZE](https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp) | 2:41 | 2026-04-24 | 2026-05-31 |
 | [Badman](https://open.spotify.com/track/3PJ08KHVwAX8HI1PHbVPHj) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm) | [Badman](https://open.spotify.com/album/6bUga9DgcNA5f2soUib6rV) | 3:09 | 2021-10-10 | 2022-03-13 |
-| [BAGHDAD](https://open.spotify.com/track/6DxXQ1T09fmE2tRR9CU14o) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Lived](https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz), [BAKV](https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4) | [BAGHDAD](https://open.spotify.com/album/0NwMKMHgfkyxNtSTCSqm7c) | 2:41 | 2026-10-29 |  |
+| [BAGHDAD](https://open.spotify.com/track/6DxXQ1T09fmE2tRR9CU14o) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Lived](https://open.spotify.com/artist/3IoxYnpv5Bkzms6liQrCLz), [BAKV](https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4) | [BAGHDAD](https://open.spotify.com/album/0NwMKMHgfkyxNtSTCSqm7c) | 2:41 | 2026-10-29 | 2026-10-31 |
 | [Baila](https://open.spotify.com/track/7h1NvRW2thbYlh0esXXORO) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [Romeo II](https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e) | 2:10 | 2026-06-26 |  |
 | [Bailando](https://open.spotify.com/track/6LISglcOyw29DWapVcWLcN) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Bailando](https://open.spotify.com/album/7DLoY6jxmygl6aI7uUAly8) | 3:18 | 2021-04-18 | 2021-04-19 |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2026-02-10 | 2026-02-21 |
@@ -2423,6 +2423,7 @@
 | [Seven Figure Freestyle](https://open.spotify.com/track/3CcbbP95J4znVk3k5eOrWn) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [No Cap](https://open.spotify.com/album/0lQBgLD1s0sFBgE0rEuCz5) | 2:27 | 2024-11-30 | 2024-12-03 |
 | [Sexaki](https://open.spotify.com/track/0sfQyMJmFq4H9DX2duCrBB) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn) | [ZERO2HERO](https://open.spotify.com/album/53yOrOSttz6j2pd9a8QDCE) | 2:52 | 2023-07-08 | 2023-10-11 |
 | [SEYA](https://open.spotify.com/track/1Ljb1Bo6Nc9SqdtKdkXHCN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/70puiNnXbXIRjGTwj1D83e) | 3:08 | 2024-03-10 | 2024-03-24 |
+| [SFAGEIO](https://open.spotify.com/track/5PCV5u3s4m9LYaLlij7FaV) | [DOUBLE R](https://open.spotify.com/artist/0T0Gw6hF15ZztCbYtZlgGY), [Rima](https://open.spotify.com/artist/57YDpbS3CGnSQfRNpSsiNK), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [SFAGEIO](https://open.spotify.com/album/1hRaF6tRP1Pa5wezEVXszU) | 2:27 | 2026-10-30 |  |
 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 | 2026-05-16 | 2026-05-18 |
 | [Shake It](https://open.spotify.com/track/55Iej8nAWkAD7QlgQfpiJp) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB) | [Money and Drugs Can't Live In Poverty](https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC) | 3:02 | 2022-04-29 | 2022-07-01 |
 | [Shake It \- Remix](https://open.spotify.com/track/1J8QxH8Q68W8QEniBR69xh) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [OH6](https://open.spotify.com/artist/0aOmLvJTwAR8x9xoO0YRlb) | [Money and Drugs Can't Live in Poverty \(Deluxe Version\)](https://open.spotify.com/album/3FmU169FLMfnRt9vEronwN) | 3:29 | 2022-07-26 | 2022-07-29 |

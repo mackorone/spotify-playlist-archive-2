@@ -9500,7 +9500,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -9558,7 +9558,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -12734,7 +12734,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 229411,
       "name": "\u05d0\u05d1\u05dc \u05d0\u05ea",
       "url": "https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX"
@@ -17245,6 +17245,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d9\u05d4 \u05dc\u05e0\u05d5 \u05d3\u05d5\u05d0\u05d8",
+        "url": "https://open.spotify.com/album/4xsZzd1h99RcnkNHa8N3Jy"
+      },
+      "artists": [
+        {
+          "name": "Eyal Golan",
+          "url": "https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U"
+        },
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234166,
+      "name": "\u05d4\u05d9\u05d4 \u05dc\u05e0\u05d5 \u05d3\u05d5\u05d0\u05d8",
+      "url": "https://open.spotify.com/track/02aILdfDpcT3h809r86dbZ"
+    },
+    {
+      "album": {
         "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
         "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
       },
@@ -18090,7 +18112,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 179807,
       "name": "\u05d5\u05d0\u05e0\u05d9 \u05d1\u05d7\u05e1\u05d3\u05da \u05d1\u05d8\u05d7\u05ea\u05d9",
       "url": "https://open.spotify.com/track/6EuV78LSE0PCdmYvVklGD7"
@@ -27252,7 +27274,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 203437,
       "name": "\u05e8\u05d9\u05d5 \u05d3\u05d4 \u05d6'\u05e0\u05e8\u05d5",
       "url": "https://open.spotify.com/track/4PQDzCTyZkCW5o4FueSJaa"

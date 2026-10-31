@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Il 2025 del <a href="spotify:playlist:37i9dQZF1DX14EWeH2Pwf3">rap</a> italiano, tra rapstar ed emergenti\. Cover: Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,844 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,845 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 40 | [Sciamanin](https://open.spotify.com/track/5K0Bo9IpqKj4bpHADD587G) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [DBZ](https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa) | [Sciamanin](https://open.spotify.com/album/6g2gDp4v2h6JiQjoJCQt0O) | 2:22 |
 | 41 | [MONEY MACHINE \(feat\. Lazza & Tony Effe\)](https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:48 |
 | 42 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 |
-| 43 | [Ksfa](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [KSFA](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 |
+| 43 | [Ksfa](https://open.spotify.com/track/53Ggzk6QHzzsIeJnoOsDNk) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Ksfa](https://open.spotify.com/album/2Qvg9yZAXZVUY90QR9gWQ4) | 2:40 |
 | 44 | [STUPIDA \(feat\. Artie 5ive\)](https://open.spotify.com/track/0wqZcZXczBKh5wbYUet7vV) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [RAPPER](https://open.spotify.com/album/6UwZiJrgeVIMk24rUyxwWF) | 3:28 |
 | 45 | [Money on my mind \(feat\. Rose Villain & Artie 5ive\)](https://open.spotify.com/track/2QW5EuNN9bnowa0e0JKsVM) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [FAME](https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P) | 2:52 |
 | 46 | [Larry Hoover](https://open.spotify.com/track/5GiisuLYC3uSKRWROIQGGp) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 2:35 |

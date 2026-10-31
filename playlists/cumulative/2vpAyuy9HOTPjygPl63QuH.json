@@ -8379,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Crank That",
+        "url": "https://open.spotify.com/album/0YwsxngSCT4Dx60KIa4Ph4"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Crank That",
+      "url": "https://open.spotify.com/track/6XQqMSx46CLu23i0S97pix"
+    },
+    {
+      "album": {
         "name": "Crayzee",
         "url": "https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM"
       },
@@ -40115,6 +40133,24 @@
     },
     {
       "album": {
+        "name": "So Fly EP",
+        "url": "https://open.spotify.com/album/5F91iaeCzGvUfhXLQ2KgEb"
+      },
+      "artists": [
+        {
+          "name": "Baylee Brown",
+          "url": "https://open.spotify.com/artist/44MHqv2hw9feK14hUxD6Pe"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "So Fly",
+      "url": "https://open.spotify.com/track/2kz3b2IU9nreVGl0GPFlEq"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/3NUsX6WT9Ct43QjHpdjr1Z"
       },
@@ -43040,6 +43076,32 @@
       "duration_ms": 214211,
       "name": "Tell That Boy",
       "url": "https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z"
+    },
+    {
+      "album": {
+        "name": "Tell You Why",
+        "url": "https://open.spotify.com/album/3QA9mQkH5gjHjEe0XKx2cq"
+      },
+      "artists": [
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "VLAD",
+          "url": "https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj"
+        },
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153364,
+      "name": "Tell You Why",
+      "url": "https://open.spotify.com/track/00yg4F2H3joRtA2ptT3fwI"
     },
     {
       "album": {

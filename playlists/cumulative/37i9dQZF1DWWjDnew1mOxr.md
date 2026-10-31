@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Jamie T
 
-508 songs - 1 day 4 hr 45 min
+509 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [I Was Just A Boy](https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [I Was Just A Boy](https://open.spotify.com/album/4ffSTZhbeStSzbPxq5OWLj) | 7:24 | 2026-03-27 |  |
 | [I'm a Liar](https://open.spotify.com/track/3NIphGz3IOMMasC5H3pary) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Shaking Hips and Crashing Cars](https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5) | 3:39 | 2023-07-11 |  |
 | [I'm Feeling it now](https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Jess Newby](https://open.spotify.com/artist/4nfz2i8X2cCmxBW6IuLh84) | [I'm Feeling It Now](https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px) | 3:03 | 2023-07-11 | 2023-10-16 |
-| [I've Never Felt So Hated](https://open.spotify.com/track/1uoF9slbLRJpK71X0BU39G) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [I've Never Felt So Hated](https://open.spotify.com/album/0ME1Bbej2WzlHNY5jx9acx) | 3:16 | 2026-08-28 |  |
+| [I've Never Felt So Hated](https://open.spotify.com/track/1uoF9slbLRJpK71X0BU39G) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [I've Never Felt So Hated](https://open.spotify.com/album/0ME1Bbej2WzlHNY5jx9acx) | 3:16 | 2026-08-28 | 2026-10-31 |
 | [If I Could](https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [If I Could](https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb) | 3:51 | 2026-08-06 | 2026-10-24 |
 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 | 2023-09-19 | 2024-10-21 |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 | 2023-02-03 | 2026-03-28 |
@@ -428,6 +428,7 @@
 | [Talk of the Town \- Radio Edit](https://open.spotify.com/track/0OQAreS9Acr21Py2yr0hNb) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Talk of the Town](https://open.spotify.com/album/3wEckVQAgY7X74TqBlvvpg) | 3:11 | 2024-03-11 | 2024-06-03 |
 | [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-05-31 | 2024-08-22 |
 | [Technofear](https://open.spotify.com/track/6CIrj2Av1omuZonMOxhQX2) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Technofear](https://open.spotify.com/album/74S1PUTNT3ytS3tWQlmkCE) | 3:20 | 2024-10-17 | 2024-12-05 |
+| [Tell It Me Straight](https://open.spotify.com/track/2PkNbKqot8WMuqDwEssK6p) | [XL Poncho](https://open.spotify.com/artist/2Jsgu3UPSWXzicWCwwZLWy) | [Tell It Me Straight](https://open.spotify.com/album/3QnHN82D5eZz77Lt2QWMSm) | 3:16 | 2026-10-23 |  |
 | [Terror TV](https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Terror TV](https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER) | 3:15 | 2026-08-06 | 2026-10-18 |
 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2023-01-10 | 2023-08-04 |
 | [That's Me](https://open.spotify.com/track/3KEovEZXkLJf8dtguk9eO8) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [That's Me](https://open.spotify.com/album/23Ny7HGfmfimPjnjbHkTR7) | 2:11 | 2026-06-18 | 2026-07-17 |

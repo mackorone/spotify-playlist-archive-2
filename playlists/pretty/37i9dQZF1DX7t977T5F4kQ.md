@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,795 likes - 86 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,817 likes - 86 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 85 | [Enjoyment](https://open.spotify.com/track/0v76jMok28fHJmXKpV07dP) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI) | [Enjoyment](https://open.spotify.com/album/4FqxmU2RlFX5bzIa53c6sE) | 4:18 |
 | 86 | [Odo Ankasa](https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Ankasa](https://open.spotify.com/album/7eeOwprfBvmURs63cD8DGy) | 3:52 |
 
-Snapshot ID: `AAAAANXVejo4HD8ITJe7FzKjGnGMEyRf`
+Snapshot ID: `AAAAAKs1qnh6DaXnaYprE6pKyY8D/TQa`

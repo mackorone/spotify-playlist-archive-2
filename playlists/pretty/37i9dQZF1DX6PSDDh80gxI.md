@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Giuse The Lizia felice rilassato perché sa che mica dobbiamo morire adesso \(e noi anche\) 💊
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,518 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,505 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

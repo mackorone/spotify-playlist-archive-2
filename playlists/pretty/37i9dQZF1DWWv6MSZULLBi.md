@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Donovan Woods, Charlotte Cornfield
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,905 likes - 159 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,890 likes - 159 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 17 | [Conversations with No One](https://open.spotify.com/track/1rDUeoQzQXoodNGDEtWDA5) | [Sam Drysdale](https://open.spotify.com/artist/6zWCrZExrSgGtBjCO1jkjY) | [Purgatory Cove](https://open.spotify.com/album/1qK1JZa6SMrFUNhq4GY4NY) | 3:43 |
 | 18 | [Who We Are](https://open.spotify.com/track/2JVHW0rajcTkL1pq5IReyW) | [Michael Feuerstack](https://open.spotify.com/artist/3hQGWHGSGwXM8bY7i884Ey) | [Who We Are](https://open.spotify.com/album/4lDmMY4uH2kJLMtJE5tMMl) | 2:48 |
 | 19 | [Jim Cuddy Dress](https://open.spotify.com/track/0wyMhwWnCvUR19SsSzrpcT) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L) | [Queen of the Strait](https://open.spotify.com/album/7hu5dx7qlVmU4YmjJ6H6SS) | 3:42 |
-| 20 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:06 |
+| 20 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:08 |
 | 21 | [Ships](https://open.spotify.com/track/4Vyi2KbErUF0l2crgfOIlB) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Pain Is a Heavy Door](https://open.spotify.com/album/2N7r4hTbA7bjN6kH8paApN) | 3:44 |
 | 22 | [Hereditary](https://open.spotify.com/track/4z3U0Rv8BEpDQkJbhDanxd) | [Lily like the flower](https://open.spotify.com/artist/2atgOXTEkUmZZ2AfXICaQc) | [Hereditary](https://open.spotify.com/album/0HT5S4WMp1huGsszzSyDFb) | 4:27 |
 | 23 | [Hayride](https://open.spotify.com/track/6LGh1Qq35C9hVoaD4e6Iqn) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Hayride](https://open.spotify.com/album/6Gfl2qQcGGCAoQkbH4CYIg) | 3:07 |

@@ -1,13 +1,45 @@
 {
   "description": "This year's new country holiday songs! Cover: Little Big Town",
-  "num_followers": 12117,
+  "num_followers": 12116,
   "original_name": "New Country Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsAXODNmIO5oFq9JgZ5AP7/wtdQ",
+  "snapshot_id": "AAAAALKrDJnXz/GQWfhEcmV8eSh1v12j",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:02:03",
+      "album": {
+        "name": "Snowed In With Me",
+        "url": "https://open.spotify.com/album/2j7BarIpVo1yEXEphxuf3g"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 188557,
+      "name": "Snowed In With Me",
+      "url": "https://open.spotify.com/track/3hdaU2rPibQW0AgFE2a467"
+    },
+    {
+      "added_at": "2026-10-30 04:02:03",
+      "album": {
+        "name": "Shouldn't It Be Christmas",
+        "url": "https://open.spotify.com/album/46kXjFVYtMieMjI5ExWEIl"
+      },
+      "artists": [
+        {
+          "name": "Anna Rae",
+          "url": "https://open.spotify.com/artist/4aQ52tbH4voTjlrYduJkNA"
+        }
+      ],
+      "duration_ms": 257840,
+      "name": "Shouldn't It Be Christmas",
+      "url": "https://open.spotify.com/track/2vKiGb72PDIryMsJnv41sk"
+    },
     {
       "added_at": "2026-10-16 04:01:58",
       "album": {
@@ -73,6 +105,22 @@
       "url": "https://open.spotify.com/track/1VPhdrOA2wNeDOseBYf9K2"
     },
     {
+      "added_at": "2026-10-30 04:02:03",
+      "album": {
+        "name": "King Size Bed",
+        "url": "https://open.spotify.com/album/2hTAyu2WI7NGKi8CZpuwgt"
+      },
+      "artists": [
+        {
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "King Size Bed",
+      "url": "https://open.spotify.com/track/5hVheB2BEydJG6n9lEc9Cg"
+    },
+    {
       "added_at": "2026-10-16 04:01:58",
       "album": {
         "name": "April's Gone (with Chris Stapleton)",
@@ -91,6 +139,26 @@
       "duration_ms": 272179,
       "name": "April's Gone (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/3dQGIaKFqXMaWunmfxPNjN"
+    },
+    {
+      "added_at": "2026-10-30 04:02:03",
+      "album": {
+        "name": "Christmas in Dixie",
+        "url": "https://open.spotify.com/album/17y61aySQrunp1m5a95hNo"
+      },
+      "artists": [
+        {
+          "name": "Scotty Inman",
+          "url": "https://open.spotify.com/artist/3pWCPKVckgJonKRHNkGY2o"
+        },
+        {
+          "name": "Chosen Road",
+          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+        }
+      ],
+      "duration_ms": 210242,
+      "name": "Christmas in Dixie",
+      "url": "https://open.spotify.com/track/5jHnZ8W8oEmhBu6ZHbyJqs"
     },
     {
       "added_at": "2026-10-16 04:01:58",

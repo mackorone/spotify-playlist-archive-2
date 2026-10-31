@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 464487,
+  "num_followers": 465128,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,22 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
-        "name": "Stay (Ely Oaks Version)",
-        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
+        "name": "Bounce Back (Sped Up)",
+        "url": "https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Acidus",
+          "url": "https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB"
         },
         {
-          "name": "Misdemeanor",
-          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
+          "name": "MXGN",
+          "url": "https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg"
         }
       ],
-      "duration_ms": 159246,
-      "name": "Stay - Ely Oaks Version",
-      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+      "duration_ms": 135000,
+      "name": "Bounce Back - Sped Up",
+      "url": "https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
-        "name": "Bounce Back (Sped Up)",
-        "url": "https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet"
-      },
-      "artists": [
-        {
-          "name": "Acidus",
-          "url": "https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB"
-        },
-        {
-          "name": "MXGN",
-          "url": "https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Bounce Back - Sped Up",
-      "url": "https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
         "name": "What's a Girl to Do in '25",
         "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
+        "name": "Stay (Ely Oaks Version)",
+        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "Misdemeanor",
+          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
+        }
+      ],
+      "duration_ms": 159246,
+      "name": "Stay - Ely Oaks Version",
+      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
         "name": "Sturm und Drang",
         "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 224698,
       "name": "Pain in my Heart",
       "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
-        "name": "Breakin' Dishes",
-        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 133517,
-      "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -915,6 +899,22 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
+        "name": "Breakin' Dishes",
+        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 133517,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
         "name": "Transgender",
         "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
       },
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
-        "name": "My Gasoline",
-        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "F\u0113l\u0113s",
-          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
-        }
-      ],
-      "duration_ms": 236999,
-      "name": "My Gasoline",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
         "name": "Sonne Geht Auf",
         "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 126538,
       "name": "Sonne Geht Auf",
       "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
         "name": "It's That Time",
         "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
+        "name": "I Wanna Feel Alive",
+        "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "duration_ms": 213937,
+      "name": "I Wanna Feel Alive",
+      "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
         "name": "Amor EP",
         "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
       },
@@ -1547,58 +1563,6 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
-        "name": "I Wanna Feel Alive",
-        "url": "https://open.spotify.com/album/0h6CgBHJzlN4HsGgaK5g3m"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "duration_ms": 213937,
-      "name": "I Wanna Feel Alive",
-      "url": "https://open.spotify.com/track/0zAt0nMa8R6Tfs5DGShLTE"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 226831,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
-        "name": "Pumpin",
-        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
-      },
-      "artists": [
-        {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
-        },
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "Pumpin",
-      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1615,6 +1579,22 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -1643,6 +1623,26 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
+        "name": "Pumpin",
+        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "Pumpin",
+      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
-    },
-    {
-      "added_at": "2026-10-23 06:51:51",
-      "album": {
-        "name": "The Midnight Club GT",
-        "url": "https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 286145,
-      "name": "Phonky Tribu",
-      "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -1699,6 +1683,22 @@
       "duration_ms": 217750,
       "name": "You Need The Drugs - Kobosil Kartell Mix",
       "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
+    },
+    {
+      "added_at": "2026-10-23 06:51:51",
+      "album": {
+        "name": "The Midnight Club GT",
+        "url": "https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 286145,
+      "name": "Phonky Tribu",
+      "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
     },
     {
       "added_at": "2026-10-23 06:51:51",
@@ -1907,22 +1907,22 @@
     {
       "added_at": "2026-10-23 06:51:51",
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+        "name": "God Gave Us Techno",
+        "url": "https://open.spotify.com/album/3VxlGgGwrPTL4IW0wfC7IH"
       },
       "artists": [
         {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         },
         {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
         }
       ],
-      "duration_ms": 226064,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
+      "duration_ms": 188357,
+      "name": "God Gave Us Techno",
+      "url": "https://open.spotify.com/track/3qgHj0sK3BAoxD4oOtUXBy"
     },
     {
       "added_at": "2026-10-23 06:51:51",

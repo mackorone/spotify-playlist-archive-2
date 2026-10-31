@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: GEHLEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,680 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,761 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Di Nanaman Tinadhana](https://open.spotify.com/track/4fXYpRrT92HlntrBASmcX1) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Di Nanaman Tinadhana](https://open.spotify.com/album/2o83D8jWrT1qOFtbSIr9pR) | 2:34 |
 | 100 | [Pauwi Na Sa'yo](https://open.spotify.com/track/6fcXKIIOgvDLjALIq9eKyr) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Pauwi Na Sa'yo](https://open.spotify.com/album/2WrkCZhQ2azSUJBjqupbyk) | 5:45 |
 
-Snapshot ID: `AAAAAOMT6EWBIpxb4faOeWpqZ8lk5Dwn`
+Snapshot ID: `AAAAALvCfXE1afvBPkgGYkmP928RYXEK`

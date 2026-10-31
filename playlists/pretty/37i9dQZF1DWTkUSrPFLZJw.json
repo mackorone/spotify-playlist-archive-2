@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 24688,
+  "num_followers": 24701,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,18 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "SUN SHERIF",
-        "url": "https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY"
+        "name": "4 DA POPPIN'",
+        "url": "https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
         }
       ],
-      "duration_ms": 196347,
-      "name": "Forever (feat. AratheJay)",
-      "url": "https://open.spotify.com/track/3tc3pVVcG9S3B30Jte0EJd"
+      "duration_ms": 176118,
+      "name": "BALOTELLI (SUPA)",
+      "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -235,6 +231,26 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "SUN SHERIF",
+        "url": "https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 196347,
+      "name": "Forever (feat. AratheJay)",
+      "url": "https://open.spotify.com/track/3tc3pVVcG9S3B30Jte0EJd"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Dada (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 177692,
       "name": "Dada (feat. Davido) [Remix]",
       "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "4 DA POPPIN'",
-        "url": "https://open.spotify.com/album/7hKjdSxPxbEumo52i77huI"
-      },
-      "artists": [
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        }
-      ],
-      "duration_ms": 176118,
-      "name": "BALOTELLI (SUPA)",
-      "url": "https://open.spotify.com/track/1XOUhnk0aG87PZ4c7MhHfU"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "Puul",
         "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 172486,
       "name": "Puul",
       "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "SUN SHERIF",
         "url": "https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 155504,
       "name": "Love Again (feat. Full Blown)",
       "url": "https://open.spotify.com/track/0zZUq2EqsqD2DDDHZAgPEf"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161639,
-      "name": "Soma Obi",
-      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
         "name": "EVERLASTING",
         "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 139487,
       "name": "EVERLASTING",
       "url": "https://open.spotify.com/track/7J9ZeLEDIQuSSy6TNWN10G"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161639,
+      "name": "Soma Obi",
+      "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Wonda Boy",
+        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Wonda Boy",
+      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -791,42 +807,6 @@
       "duration_ms": 143119,
       "name": "IDK (with Sarkodie)",
       "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
-      },
-      "artists": [
-        {
-          "name": "Khid Ceejay",
-          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Wonda Boy",
-        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "Wonda Boy",
-      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -883,6 +863,26 @@
     {
       "added_at": "2026-10-23 00:01:41",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
+      },
+      "artists": [
+        {
+          "name": "Khid Ceejay",
+          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
         "name": "Down Flat",
         "url": "https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 172747,
       "name": "Down Flat",
       "url": "https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB"
+    },
+    {
+      "added_at": "2026-10-23 00:01:41",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 187187,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
     },
     {
       "added_at": "2026-10-23 00:01:41",
@@ -927,22 +943,6 @@
       "duration_ms": 106997,
       "name": "Catching Glory",
       "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
-    },
-    {
-      "added_at": "2026-10-23 00:01:41",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/2axOP78ZsT56u65SbW1Asx"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 187187,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6EzmOUvFrYs0H7m25S5IwT"
     }
   ],
   "unique_name": "Soloku ",

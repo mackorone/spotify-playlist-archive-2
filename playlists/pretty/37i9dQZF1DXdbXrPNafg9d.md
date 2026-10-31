@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Rockie Rode
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,855 likes - 229 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,877 likes - 229 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

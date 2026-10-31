@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,759 songs - 6 day 16 hr 49 min
+2,763 songs - 6 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1478,6 +1478,7 @@
 | [Media melanco](https://open.spotify.com/track/1oxoK3rc47doNVKCMCduFz) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw) | [Media melanco](https://open.spotify.com/album/7pSTfD8VVcvjek0m0EqGSE) | 3:27 | 2025-05-20 |  |
 | [Medicine](https://open.spotify.com/track/2FGTL4RbwWbPXZrY8XoMQh) | [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 2:42 | 2026-02-20 |  |
 | [Meditation Version](https://open.spotify.com/track/4xz1AZQVP23FfxMomfYlz0) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 4:14 | 2024-07-06 |  |
+| [Meditative Melodies 432 Hz](https://open.spotify.com/track/7nexLjEq9jBN4pzohz6FSC) | [CozyCorner](https://open.spotify.com/artist/6NbAmKbYssuR5149X0EtX4) | [Meditative Melodies 432 Hz](https://open.spotify.com/album/3DXNSAIYpstFr0nz8IzJPP) | 3:00 | 2026-10-31 |  |
 | [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi), [Davide Caddeo](https://open.spotify.com/artist/3xAmH4xE6tJXOvq3U9c5TW) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 | 2026-05-28 |  |
 | [Meditherranea \- Extended Mix](https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 4:03 | 2026-05-28 |  |
 | [Meglio \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/0FWI6Glw2QagTUM8XI2d9U) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Bugatti Cristian](https://open.spotify.com/album/2JFwpVw1ZdevcYCWPrOZKF) | 3:28 | 2023-03-15 |  |
@@ -1505,6 +1506,7 @@
 | [Mi Piaci](https://open.spotify.com/track/3zSlNcv2dBJRtGXAHs2WZI) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Mi Piaci](https://open.spotify.com/album/7mnsDOmktahrGHryyMkG5Y) | 3:23 | 2025-02-28 |  |
 | [Mia cara](https://open.spotify.com/track/3jFBCZ4r9HjSNLNk8C1d3a) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:23 | 2022-08-16 |  |
 | [Mia danz ma zu an Glasl Wein](https://open.spotify.com/track/2YrLwazAHjiPusDIloEk9k) | [Da Miche](https://open.spotify.com/artist/53Fd3yx5vQQ9ANNSf2NqFL) | [Mia danz ma zu an Glasl Wein](https://open.spotify.com/album/4ct9NHIgNB1DUD005yRHPd) | 6:10 | 2026-09-28 |  |
+| [midnight dreamer](https://open.spotify.com/track/3iVkTfyubirkIru8B8bN1r) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [midnight dreamer](https://open.spotify.com/album/1BHH7PJxdZRvzxAiHBl02D) | 1:36 | 2026-10-30 |  |
 | [Midnight Rain Memories](https://open.spotify.com/track/03iJkNfAoB0zr5pBZxl1Mi) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Midnight Rain Memories](https://open.spotify.com/album/4Aj1gfLDaIKBGb4uPx5Cqa) | 2:46 | 2026-10-10 |  |
 | [Midnight Snow](https://open.spotify.com/track/78PlhkOzWF00jT3x7ALb73) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Midnight Snow](https://open.spotify.com/album/73Gribf2AUb6iTWdjBf3U1) | 2:27 | 2026-10-05 |  |
 | [Midnight Symphony in B\-Flat Minor](https://open.spotify.com/track/0jGrZv6oYBMjewGisdMmLf) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Midnight Symphony in B\-Flat Minor](https://open.spotify.com/album/1NSR8MdqFU94rvtZSbiApm) | 3:19 | 2026-02-05 |  |
@@ -2096,6 +2098,7 @@
 | [Si Supieras](https://open.spotify.com/track/5onNZ1zE2WLZljPYeIBo82) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Si Supieras](https://open.spotify.com/album/7mFOfSD3RsF4bYFAtzcJd5) | 3:44 | 2026-03-30 |  |
 | [Si tú no estás](https://open.spotify.com/track/4dQOggX7CIcZSTNtvIR3WY) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:35 | 2026-03-15 |  |
 | [Siamo a due](https://open.spotify.com/track/3OrxQ9hWJhZEfukQgucmyb) | [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [Siamo a due](https://open.spotify.com/album/4g9DmmX83az7Op6ozkoTbk) | 3:19 | 2024-09-06 |  |
+| [Siamo Ancora Qui](https://open.spotify.com/track/17J9Yzsd9pG9w23nBOCEvA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Siamo Ancora Qui](https://open.spotify.com/album/56hT0GGHWP7Gq80RjPLagh) | 4:06 | 2026-10-30 |  |
 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 | 2025-10-07 |  |
 | [Sick Streets](https://open.spotify.com/track/7zVmHW9RwxkJN5QhWEWMgx) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 5:47 | 2026-10-24 |  |
 | [Siempre Asi](https://open.spotify.com/track/3dLLimWacQ18jXzadTG3j3) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N), [Carlos Caro](https://open.spotify.com/artist/4ibfK2HfqnMBNfoYzHVqZA), [Jorge Mesa Valle "El Pirata"](https://open.spotify.com/artist/40k0L6m30y0wPEA2VTAclC) | [DE AIRE Y VIENTO](https://open.spotify.com/album/6CXHERIensmaR5X5Py5mYH) | 7:26 | 2026-04-26 |  |
@@ -2115,6 +2118,7 @@
 | [Simulating Tomorrow](https://open.spotify.com/track/51yR2NONayHELQ0lAklmaV) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 5:47 | 2026-05-09 |  |
 | [Sin aire](https://open.spotify.com/track/6asjutq5xtG1vcYqSr3ug1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 | 2026-03-15 |  |
 | [Sin Condicion](https://open.spotify.com/track/4dCUcPxg14Ax3B4SEjAN4d) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Sin Condicion](https://open.spotify.com/album/2Q0IFbyJMt0x6lX9WWmnWW) | 2:24 | 2026-03-12 |  |
+| [Sin Parar](https://open.spotify.com/track/4ID9eBQ9R3rlvIuoXtV04g) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Sin Parar](https://open.spotify.com/album/7Gdkdz2omH4U69L1JLisbt) | 2:50 | 2026-10-30 |  |
 | [Sinkopasi Rasa](https://open.spotify.com/track/0nziPGJge4BDTwyNDjhW0B) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Sinkopasi Rasa](https://open.spotify.com/album/1zmhCdv90zxAd0fEXvZRLz) | 2:25 | 2026-07-09 |  |
 | [Sisa Cahaya](https://open.spotify.com/track/2MvWTckCHPDDEB8LsOuqb4) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Jebah](https://open.spotify.com/album/3dJFBa3rJi3tuscBOa6QSE) | 3:45 | 2026-01-09 |  |
 | [Sitting On Her Cloud](https://open.spotify.com/track/0nAbS6bU9JkKses2AFzYwD) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [South of The Border](https://open.spotify.com/album/1v0jayOlZrHbmwg0PfqZjy) | 1:55 | 2025-05-11 |  |

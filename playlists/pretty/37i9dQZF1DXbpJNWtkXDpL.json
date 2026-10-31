@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de Pepe Walker",
-  "num_followers": 93949,
+  "num_followers": 93945,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "t escucho al pensar",
+      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "Me acuerdo",
         "url": "https://open.spotify.com/album/4YAcD058WkYrsW9SI1xqxS"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 227754,
       "name": "Me acuerdo",
       "url": "https://open.spotify.com/track/62W6Q8f8xdxRQQAjdCh0yZ"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "t escucho al pensar",
-      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "se subio alatorre",
-        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
-      },
-      "artists": [
-        {
-          "name": "Jose Alatorre",
-          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
-        }
-      ],
-      "duration_ms": 133827,
-      "name": "se subio alatorre",
-      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
         "name": "i Music Listen",
         "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "LOBO",
-        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+        "name": "se subio alatorre",
+        "url": "https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt"
       },
       "artists": [
         {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
         }
       ],
-      "duration_ms": 147386,
-      "name": "LOBO",
-      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
+      "duration_ms": 133827,
+      "name": "se subio alatorre",
+      "url": "https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -539,6 +523,22 @@
       "duration_ms": 147453,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
+        "name": "LOBO",
+        "url": "https://open.spotify.com/album/6X2cduTYmnwObk9vQYUsbb"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "LOBO",
+      "url": "https://open.spotify.com/track/5G2slHqvNBwVi5uefAo0lT"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "ETHEREA",
-        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 224416,
-      "name": "Encu\u00e9ntrame en Tokio",
-      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
         "name": "URUS",
         "url": "https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 146865,
       "name": "URUS",
       "url": "https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "GU\u00c1RDAME.",
+        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "GU\u00c1RDAME.",
+      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "Uno Pal Otro",
         "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 203276,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "GU\u00c1RDAME.",
-        "url": "https://open.spotify.com/album/2Oc768ixeMZuYm1N6oxOJ0"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "GU\u00c1RDAME.",
-      "url": "https://open.spotify.com/track/7n8UU4gGWIaPfKaoXjwQUx"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "Cumbia y Calle",
+        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "duration_ms": 149617,
+      "name": "No Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "Cumbia y Calle",
-        "url": "https://open.spotify.com/album/5SDPeLlYTq1lEW0uaPKnP3"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        }
-      ],
-      "duration_ms": 149617,
-      "name": "No Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/1E0Ok2WEsRmm93n9xNo3wg"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
         "name": "En el sur//Flakita (REMIX)",
         "url": "https://open.spotify.com/album/77xAgVySzn76nQ2fNNYLac"
       },
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2026-10-16 06:00:29",
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
         "name": "mirar adentro",
         "url": "https://open.spotify.com/album/5crFVDguekt65vFoLlKgew"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 209382,
       "name": "mirar adentro",
       "url": "https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq"
+    },
+    {
+      "added_at": "2026-10-16 06:00:29",
+      "album": {
+        "name": "Vasito en mano",
+        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Vasito en mano",
+      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
     },
     {
       "added_at": "2026-10-16 06:00:29",
@@ -1327,22 +1343,6 @@
       "duration_ms": 160661,
       "name": "Bexos",
       "url": "https://open.spotify.com/track/2mMDB5gmG6lNtxe1LDhmMO"
-    },
-    {
-      "added_at": "2026-10-16 06:00:29",
-      "album": {
-        "name": "Vasito en mano",
-        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Vasito en mano",
-      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
     },
     {
       "added_at": "2026-10-16 06:00:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > The ultimate wedding mix and timeless wedding music for your special day\. Celebrate wedding love from ceremony to reception with essential wedding songs by Bruno Mars, John Legend, Taylor Swift &amp; Coldplay\. The complete romantic wedding soundtrack\. Updated weekly for 2026.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 206,730 likes - 151 songs - 9 hr 6 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 206,738 likes - 151 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

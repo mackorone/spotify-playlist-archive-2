@@ -17643,28 +17643,6 @@
     },
     {
       "album": {
-        "name": "PA K T D",
-        "url": "https://open.spotify.com/album/2AeQy5PRIagYpQXMTgC2ug"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Ag Daddy",
-          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
-        }
-      ],
-      "date_added": "2026-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192996,
-      "name": "PA K T D",
-      "url": "https://open.spotify.com/track/21SjZxg26hGe3cDssrALSj"
-    },
-    {
-      "album": {
         "name": "PA K TE ENAMORE",
         "url": "https://open.spotify.com/album/4xLrTiXtCAguTznMly4H5z"
       },
@@ -19456,6 +19434,28 @@
       "duration_ms": 141783,
       "name": "pk tan linda y sola",
       "url": "https://open.spotify.com/track/4DTWRND52X46oSg4jbJKJZ"
+    },
+    {
+      "album": {
+        "name": "PKTD",
+        "url": "https://open.spotify.com/album/2AeQy5PRIagYpQXMTgC2ug"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Ag Daddy",
+          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192996,
+      "name": "PKTD",
+      "url": "https://open.spotify.com/track/21SjZxg26hGe3cDssrALSj"
     },
     {
       "album": {

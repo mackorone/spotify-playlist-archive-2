@@ -265297,6 +265297,28 @@
     },
     {
       "album": {
+        "name": "NOIS QUE \u00c9 O TALIB\u00c3",
+        "url": "https://open.spotify.com/album/2s6CdIjSXDodhTsC26M1O1"
+      },
+      "artists": [
+        {
+          "name": "DJ BONEKINHA IRAQUIANA",
+          "url": "https://open.spotify.com/artist/7wFNG63nfdoeiBctJaC2zI"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "NOIS QUE \u00c9 O TALIB\u00c3",
+      "url": "https://open.spotify.com/track/3WWZW0C7ySyKB4B3LFuAum"
+    },
+    {
+      "album": {
         "name": "Nois T\u00e1 Pra Cima",
         "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
       },
@@ -275300,6 +275322,28 @@
       "duration_ms": 161880,
       "name": "N\u00e3o Terminou Direito - Ao Vivo",
       "url": "https://open.spotify.com/track/3eqggEKbbnLsF3QqxXOLZL"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o toca na lace",
+        "url": "https://open.spotify.com/album/4vaAzCXLSHKFoPJgNLSgH9"
+      },
+      "artists": [
+        {
+          "name": "Kisha zO",
+          "url": "https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu"
+        },
+        {
+          "name": "LINS",
+          "url": "https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132771,
+      "name": "N\u00e3o toca na lace",
+      "url": "https://open.spotify.com/track/1wmrYnjGEuGIDBwDYJXbpO"
     },
     {
       "album": {
@@ -290806,6 +290850,10 @@
         {
           "name": "Andr\u00e9 Nine",
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Deejhay Luh",
+          "url": "https://open.spotify.com/artist/6XgaXQZo0CgLrcXSeqDDWb"
         }
       ],
       "date_added": "2026-10-30",
@@ -295162,12 +295210,12 @@
       },
       "artists": [
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
           "name": "Mc Don Juan",
           "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
         },
         {
           "name": "Mc Alan JR",
@@ -438750,6 +438798,24 @@
       "duration_ms": 173804,
       "name": "Vida Normal",
       "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
+    },
+    {
+      "album": {
+        "name": "Vida Noturna",
+        "url": "https://open.spotify.com/album/2tOnH5uSRV7NBgpnvUXEDz"
+      },
+      "artists": [
+        {
+          "name": "Menor Richard",
+          "url": "https://open.spotify.com/artist/270oVXkThAqFNaoF7vLpNq"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81230,
+      "name": "Vida Noturna",
+      "url": "https://open.spotify.com/track/6nKphoDt9F7iirWfHEjBro"
     },
     {
       "album": {

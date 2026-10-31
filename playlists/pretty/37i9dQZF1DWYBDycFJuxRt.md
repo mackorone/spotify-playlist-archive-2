@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: RADWIMPS\*👉 <a href="https://spice.eplus.jp/articles/349956">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,842 likes - 84 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,837 likes - 85 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 36 | [声](https://open.spotify.com/track/7wIe23aLU6tb2qo7u9DaHb) | [札幌某所](https://open.spotify.com/artist/367JBVnPCzSwWT9hXKgZYo) | [声](https://open.spotify.com/album/5SOdYUvqWmlFeMXHJr7y7W) | 2:59 |
 | 37 | [WORK](https://open.spotify.com/track/4m3s10z63OnPzjnYItchDe) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [WORK](https://open.spotify.com/album/13NcKLAbGTtQwztbT5KSt9) | 2:21 |
 | 38 | [マウススピナー](https://open.spotify.com/track/0PtY1xgU2pb6UeHbl0RElw) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL) | [マウススピナー](https://open.spotify.com/album/0lYZPHSDhKI2AlIhtpyEe6) | 4:02 |
-| 39 | [今あいらびゅ](https://open.spotify.com/track/4mXEYgUbddAV0mMmkZtBdF) | [日曜日のメゾンデ](https://open.spotify.com/artist/1z9KPkfdTIPaq33rlWH5n3), [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl), [PARKGOLF](https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [今あいらびゅ](https://open.spotify.com/album/0ZAEeyWFgDVsXe8tbyxrTT) | 2:45 |
+| 39 | [今あいらびゅ](https://open.spotify.com/track/4mXEYgUbddAV0mMmkZtBdF) | [日曜日のメゾンデ](https://open.spotify.com/artist/1z9KPkfdTIPaq33rlWH5n3), [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl) | [今あいらびゅ](https://open.spotify.com/album/0ZAEeyWFgDVsXe8tbyxrTT) | 2:45 |
 | 40 | [SPIN](https://open.spotify.com/track/1JiI5Qkmvc2UZ5WJy7dYTM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SPIN](https://open.spotify.com/album/0O2KymxU4WJLifb6fJK7Xd) | 3:44 |
 | 41 | [Night Mary](https://open.spotify.com/track/0w3j4oIPbeTkhlwJeC05qz) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [Night Mary](https://open.spotify.com/album/16TiVtuAOvNOUlHDLW065t) | 3:34 |
 | 42 | [チェックメイト](https://open.spotify.com/track/7nHktBlBddEct165JFhqfc) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [チェックメイト](https://open.spotify.com/album/6ubzF5KjvrX29eWW4XNGCq) | 4:24 |
@@ -89,8 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [マイダイヤモンド](https://open.spotify.com/track/3THzlIAVcraYWZhQXAkbbE) | [hinanoma](https://open.spotify.com/artist/5wPfql7giiSs9HKs0qXoCA) | [マイダイヤモンド](https://open.spotify.com/album/56gUy2adCyl9NZuoXLWfkt) | 3:44 |
 | 80 | [グラデーション](https://open.spotify.com/track/1BFmPBxW7KLKLO22rkXSs5) | [夜と私のこと](https://open.spotify.com/artist/0CcdBZMEmMKHOLKv9K2QyW) | [グラデーション](https://open.spotify.com/album/4kT8bI4xscAshuvhVD6ZbZ) | 3:54 |
 | 81 | [怪人](https://open.spotify.com/track/7Hi0UvJRRCRGlqlR8ZgMcL) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp) | [シャンデリア / 怪人 / 圧倒的なアイラブユー](https://open.spotify.com/album/1onNDSRCcoGgTKLEuzEy81) | 2:48 |
-| 82 | [おくすりちょうだい](https://open.spotify.com/track/0wQGkL12Uutn406obKNzI8) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [おくすりちょうだい](https://open.spotify.com/album/0Wg5AVB28YUfQEpY5nE7Wz) | 2:55 |
-| 83 | [kotowari](https://open.spotify.com/track/3of7jF2lw6FsJjKjlpP2Gw) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [krynX](https://open.spotify.com/artist/1py5oZLR8kK3me6CZFcaQo), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [kotowari](https://open.spotify.com/album/08NcY3KFkWjjBNxfEYZ0Zf) | 2:50 |
-| 84 | [The Sea Inside Me](https://open.spotify.com/track/4EJJA1D54gpQdDeVjxN3cu) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [The Sea Inside Me](https://open.spotify.com/album/7caCXE0Vw3WOEPFv7kOUsg) | 5:00 |
+| 82 | [ONIGOKKO](https://open.spotify.com/track/3NWDy9V0K4KooRy2OaWVJL) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [ONIGOKKO](https://open.spotify.com/album/3DCo2Yi11ip77aX8Gn8RtX) | 3:23 |
+| 83 | [おくすりちょうだい](https://open.spotify.com/track/0wQGkL12Uutn406obKNzI8) | [アザミ](https://open.spotify.com/artist/7hvp5ittRpuSvksfusEkmv) | [おくすりちょうだい](https://open.spotify.com/album/0Wg5AVB28YUfQEpY5nE7Wz) | 2:55 |
+| 84 | [kotowari](https://open.spotify.com/track/3of7jF2lw6FsJjKjlpP2Gw) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [krynX](https://open.spotify.com/artist/1py5oZLR8kK3me6CZFcaQo), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [kotowari](https://open.spotify.com/album/08NcY3KFkWjjBNxfEYZ0Zf) | 2:50 |
+| 85 | [The Sea Inside Me](https://open.spotify.com/track/4EJJA1D54gpQdDeVjxN3cu) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [The Sea Inside Me](https://open.spotify.com/album/7caCXE0Vw3WOEPFv7kOUsg) | 5:00 |
 
 Snapshot ID: `AAAAAD4y65nlMepUYYqlXr7PUaBpWf6z`

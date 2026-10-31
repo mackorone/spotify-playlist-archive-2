@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "CARAPACE",
+        "url": "https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "CARAPACE",
+      "url": "https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo"
+    },
+    {
+      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/39TxiVIpZwVtntKtxdenwr"
       },

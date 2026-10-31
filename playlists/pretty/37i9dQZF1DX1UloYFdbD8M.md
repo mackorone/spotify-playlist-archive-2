@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Eechuu
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,147 likes - 76 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,157 likes - 76 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

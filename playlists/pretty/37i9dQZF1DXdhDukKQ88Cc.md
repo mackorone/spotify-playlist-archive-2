@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap øverst 👀  Kris på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,305 likes - 80 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,298 likes - 80 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

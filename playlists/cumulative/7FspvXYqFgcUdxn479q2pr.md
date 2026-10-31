@@ -2,7 +2,7 @@
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Timmy Trumpet
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: MORTEN
 
 1,309 songs - 2 day 18 hr 13 min
 
@@ -1142,7 +1142,7 @@
 | [The Rhythm](https://open.spotify.com/track/617JXb8OeEFxtkIwpc79lm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [The Rhythm](https://open.spotify.com/album/2ah4jT7B50wFbU42YjK0c7) | 3:25 | 2025-03-20 | 2025-05-31 |
 | [The Rhythm](https://open.spotify.com/track/5XOwgvuIpCqCIMnL1sbTB8) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [The Rhythm](https://open.spotify.com/album/67ZkHThH8dM6Yt3vaU4SaZ) | 2:32 | 2025-01-16 | 2025-05-09 |
 | [The Rhythm](https://open.spotify.com/track/2MYSnX6Nqld1zRjZNxYNmC) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [The Rhythm](https://open.spotify.com/album/49KprVMw2TsJ7mPOGak3s3) | 3:32 | 2025-03-20 | 2025-05-31 |
-| [The Sign \(Ti�sto Remix\)](https://open.spotify.com/track/2mpQ27UDus3ObaJV0wJ2f2) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Sign \(Tiësto Remix\)](https://open.spotify.com/album/4UTkTXiTjXCwlR3A2lOb8S) | 2:39 | 2026-10-29 |  |
+| [The Sign \(Tiësto Remix\)](https://open.spotify.com/track/2mpQ27UDus3ObaJV0wJ2f2) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Sign \(Tiësto Remix\)](https://open.spotify.com/album/4UTkTXiTjXCwlR3A2lOb8S) | 2:39 | 2026-10-29 |  |
 | [The Summer Is Magic](https://open.spotify.com/track/7lC25gUPrasUpSuRFS01bR) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [The Summer Is Magic](https://open.spotify.com/album/6MjlZdywOHPQCUSGqGPA7h) | 2:08 | 2025-05-15 | 2025-05-31 |
 | [THE SYMPHONY IS ALIVE](https://open.spotify.com/track/6hwhXsW4vcqTZ6YgfFxf4w) | [TWIIG](https://open.spotify.com/artist/3CShHu0KxcIhKMmg6IaXN0), [LYNDO](https://open.spotify.com/artist/2kcD7cVLNL083jM1gk3g58) | [THE SYMPHONY IS ALIVE](https://open.spotify.com/album/6p3Szf8xMWUB9zHInaqT4N) | 2:04 | 2026-07-24 |  |
 | [The Weekend \(feat\. Ruth Royall\)](https://open.spotify.com/track/2u3vWA61Vw0pFuOrR6alWc) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [The Weekend \(feat\. Ruth Royall\)](https://open.spotify.com/album/14aKD3L9dAOGCRfcHIqXtf) | 2:25 | 2024-05-02 | 2024-05-17 |

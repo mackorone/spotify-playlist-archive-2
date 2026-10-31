@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Josh Ross
 
-494 songs - 1 day 3 hr 1 min
+495 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Stand By Me \- Live at The Print Shop](https://open.spotify.com/track/67hKxSwcDqnccdCBzYaLsS) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Stand By Me \(Live at The Print Shop\)](https://open.spotify.com/album/3K3T6dGp2hguii0PpmYprM) | 4:07 | 2024-11-25 | 2026-05-30 |
 | [Stand By Me \- Live at The Print Shop](https://open.spotify.com/track/72RX8sK4OKFnUX2MBDOdBD) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:07 | 2026-05-29 | 2026-06-23 |
 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 | 2023-11-03 | 2024-05-25 |
+| [Steady Flame](https://open.spotify.com/track/0hYsK0skrmv8lix4CM3Kjp) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Steady Flame](https://open.spotify.com/album/1zuCMCGmT1qCnJDOQKkQDB) | 3:01 | 2026-10-30 |  |
 | [Still Ragin'](https://open.spotify.com/track/0dbdy4RljYj7ZMvnUJdlsv) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Still Ragin'](https://open.spotify.com/album/20BJGeb3AXFs2fGlx8aRAL) | 3:07 | 2024-12-06 | 2025-05-03 |
 | [STRAIGHT LINE](https://open.spotify.com/track/1qpYujgQ6kTteozxFdVB2X) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:46 | 2025-01-26 | 2025-04-26 |
 | [Straight Line](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Straight Line](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 | 2024-02-02 | 2024-05-25 |
@@ -460,7 +461,7 @@
 | [Well Alright](https://open.spotify.com/track/0aHDkn2yqKsDhLptXjQhPt) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Well Alright](https://open.spotify.com/album/43DkVKkSDhVgDzen523ZFe) | 2:12 | 2024-04-26 | 2024-07-30 |
 | [Western Wind](https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Western Wind](https://open.spotify.com/album/5zh5UmVMhLKwa1yJX8pSq7) | 2:52 | 2025-05-09 | 2026-01-25 |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-10 | 2024-10-12 |
-| [What Do I Do If You Don't](https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What Do I Do If You Don't](https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ) | 2:54 | 2026-09-25 |  |
+| [What Do I Do If You Don't](https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What Do I Do If You Don't](https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ) | 2:54 | 2026-09-25 | 2026-10-31 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-18 | 2026-05-04 |
 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 | 2025-11-21 |  |
 | [What Would You Do?](https://open.spotify.com/track/1uMP384HPvCPcYM7qeqU9c) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Would You Do?](https://open.spotify.com/album/12yz6ZKTwBUJT4xxdRoqmd) | 3:03 | 2024-06-08 | 2025-05-10 |

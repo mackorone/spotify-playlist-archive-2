@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 845676,
+  "num_followers": 845734,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Dontcha",
-      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 242440,
       "name": "Golden Cage",
       "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Dontcha",
+      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Miracle Mile",
         "url": "https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 239413,
       "name": "Kahlil Gibran",
       "url": "https://open.spotify.com/track/7zXDaRvqkduUhDUGdhHsap"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Telling The Truth",
         "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
       },
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Lou's Tune",
-        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
       "artists": [
         {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 102634,
-      "name": "Lou's Tune",
-      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1123,6 +1103,26 @@
       "duration_ms": 169333,
       "name": "Water Your Garden",
       "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Lou's Tune",
+        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "duration_ms": 102634,
+      "name": "Lou's Tune",
+      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Imaginary Audience",
-        "url": "https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 193956,
-      "name": "It's Been You",
-      "url": "https://open.spotify.com/track/57HaB5Z4DId8ENrNDfUSiZ"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Anne, If",
         "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 191451,
       "name": "The End of a Gun",
       "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Imaginary Audience",
+        "url": "https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 193956,
+      "name": "It's Been You",
+      "url": "https://open.spotify.com/track/57HaB5Z4DId8ENrNDfUSiZ"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "People Settle Down",
-      "url": "https://open.spotify.com/track/4Bz4E8HofJLXXP9qvYZCUH"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 191037,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "People Settle Down",
+      "url": "https://open.spotify.com/track/4Bz4E8HofJLXXP9qvYZCUH"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "New Slack",
-        "url": "https://open.spotify.com/album/4c7xiN0CIGQFbdqO7KwMKj"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 216577,
-      "name": "New Slack",
-      "url": "https://open.spotify.com/track/1baFNFi82Bj5vwv39ugtJn"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Addicted To You",
         "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 250933,
       "name": "Two Trees",
       "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "New Slack",
+        "url": "https://open.spotify.com/album/4c7xiN0CIGQFbdqO7KwMKj"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 216577,
+      "name": "New Slack",
+      "url": "https://open.spotify.com/track/1baFNFi82Bj5vwv39ugtJn"
     },
     {
       "added_at": "2026-10-13 21:47:39",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-10-13 21:47:39",
       "album": {
-        "name": "Damn It All",
-        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
-      },
-      "artists": [
-        {
-          "name": "Rob Galbraith",
-          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Tell Me With Your Eyes (Just Be You)",
-      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
-    },
-    {
-      "added_at": "2026-10-13 21:47:39",
-      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 240453,
       "name": "One Evening - Remix By VV",
       "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2026-10-13 21:47:39",
+      "album": {
+        "name": "Damn It All",
+        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
+      },
+      "artists": [
+        {
+          "name": "Rob Galbraith",
+          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Tell Me With Your Eyes (Just Be You)",
+      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
     },
     {
       "added_at": "2026-10-13 21:47:39",

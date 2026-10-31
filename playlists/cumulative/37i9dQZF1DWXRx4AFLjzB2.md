@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXRx4AFLjzB2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWXRx4AFLjzB2)
 
-### [Summer Perreo Party ](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
+### [Spooky Perreo Party ](https://open.spotify.com/playlist/37i9dQZF1DWXRx4AFLjzB2)
 
-> Perreo del bueno for your summer 🍑
+> Perreo del bueno for your  Halloween activites 🍑
 
 468 songs - 1 day 1 hr 53 min
 

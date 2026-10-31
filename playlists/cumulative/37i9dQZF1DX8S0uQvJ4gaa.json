@@ -35829,6 +35829,24 @@
     },
     {
       "album": {
+        "name": "Mr. Right / Closer Still",
+        "url": "https://open.spotify.com/album/2KGx4IG55jUfboH5hi7rXV"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236413,
+      "name": "Mr. Right",
+      "url": "https://open.spotify.com/track/4VCf4cLJEMVhAlBLDsvgOY"
+    },
+    {
+      "album": {
         "name": "Mr. Saturday Night",
         "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
       },

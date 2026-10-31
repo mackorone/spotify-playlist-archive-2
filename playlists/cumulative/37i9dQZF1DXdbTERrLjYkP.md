@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Isabel Dumaa
 
-1,180 songs - 2 day 15 hr 46 min
+1,181 songs - 2 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Avalon](https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H) | [Rachel Harlow](https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r) | [Avalon](https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be) | 3:27 | 2025-09-05 | 2026-01-17 |
 | [AVERAGE AMERICAN WOMAN](https://open.spotify.com/track/4yKrWwUOOAt4U4Asxe3igO) | [Lily Mae Harrington](https://open.spotify.com/artist/0VUppYTrblZVeLBqEWjnlJ) | [Average American Woman](https://open.spotify.com/album/1zMZpg939xZFcaEqUjjtDP) | 2:39 | 2025-02-28 | 2025-05-03 |
 | [avoid me](https://open.spotify.com/track/1AEeEOK6AIVFM6BtRfPOYa) | [Mikal Sabella](https://open.spotify.com/artist/48l3CDUNMi5cDJDzatyl8X) | [avoid me](https://open.spotify.com/album/4LQF20TUI2tPxoztReVxSd) | 3:22 | 2026-07-06 |  |
-| [Baby Again](https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [Luck of the Draw](https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh) | 4:17 | 2026-06-19 |  |
+| [Baby Again](https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [Luck of the Draw](https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh) | 4:17 | 2026-06-19 | 2026-10-31 |
 | [Baby Just Be](https://open.spotify.com/track/3500z3pULXj7gW4xP7TnvF) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [Baby Just Be](https://open.spotify.com/album/7FQvxpYqB5FSr34Fi6JFgZ) | 3:46 | 2026-01-16 | 2026-03-14 |
 | [Back to Friends](https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Back to Friends](https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac) | 3:35 | 2022-01-14 | 2022-03-26 |
 | [Back To You](https://open.spotify.com/track/0GlO3iD7ParRcxXPRz6o04) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Back To You](https://open.spotify.com/album/1Pk2SrspKEgZnyqT0wO5V6) | 2:40 | 2022-01-14 | 2022-03-12 |
@@ -777,6 +777,7 @@
 | [One Man Show](https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [One Man Show](https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy) | 2:58 | 2024-02-23 | 2024-08-17 |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-11 | 2023-12-14 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-08 | 2022-04-29 |
+| [or i could go to bed](https://open.spotify.com/track/0x3XZ0hqGR5o3JU7hxPkiS) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [or I could go to bed](https://open.spotify.com/album/0KmTttklhl7uS3nxuScF1Y) | 3:42 | 2026-10-30 |  |
 | [Orange Colored Evenings](https://open.spotify.com/track/55CaqdIL6xkJymEH6vq2Ob) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Orange Colored Evenings](https://open.spotify.com/album/0LFSxUk8Mgt0uWsRM5AFOP) | 2:48 | 2026-09-25 |  |
 | [Ordinary](https://open.spotify.com/track/0LZcaKNQB55dAoq2s4sstA) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Ordinary](https://open.spotify.com/album/2vPCpsqDBfAR15SAFT8lib) | 3:31 | 2025-08-19 | 2025-10-04 |
 | [Ordinary Love](https://open.spotify.com/track/0cFQYjYEgpoY0iP0vnOOoI) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/56fSzLOj5xwc4nNLGUl51S) | 3:15 | 2022-08-19 | 2022-10-19 |

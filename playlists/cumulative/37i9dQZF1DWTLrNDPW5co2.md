@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Pabllo Vittar.
 
-513 songs - 1 day 7 hr 10 min
+514 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [My Little Secret Nasty Habit](https://open.spotify.com/track/0QpH7QcHJL9zFfO8vfAdKN) | [Miqui Brightside](https://open.spotify.com/artist/3Ej5fhuE6M1aEsPq9L5FlQ), [Demmy Sober](https://open.spotify.com/artist/0x8PisLbUrf8zKy4qIs3NS) | [My Little Secret Nasty Habit](https://open.spotify.com/album/3PozzkfYyjwLEyGEfV7IPO) | 3:44 | 2025-08-15 | 2026-01-18 |
 | [My Purple iPod Nano](https://open.spotify.com/track/18ux1xlbmVg2nlNA84NWu7) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/6ZtbaBOXFTZfUEJ13ajgZn) | 6:52 | 2022-06-03 | 2022-07-15 |
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-07-14 | 2024-07-13 |
-| [My Weakness](https://open.spotify.com/track/1kw9MrbB8vSthetSUJl79Y) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [My Weakness](https://open.spotify.com/album/0qNAEeDx3Y1jkalp7tESv9) | 3:51 | 2026-04-17 |  |
+| [My Weakness](https://open.spotify.com/track/1kw9MrbB8vSthetSUJl79Y) | [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor), [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [My Weakness](https://open.spotify.com/album/0qNAEeDx3Y1jkalp7tESv9) | 3:51 | 2026-04-17 | 2026-10-31 |
 | [NEED TO KNOW](https://open.spotify.com/track/0TGdZI0hXizutzvvyBXCdA) | [Terrell Baptiste](https://open.spotify.com/artist/4yzBUKyzRYA4381L8GHvw3), [Deavion](https://open.spotify.com/artist/6iY6E1Fv7wP8PuU0kKah7X) | [NEED TO KNOW](https://open.spotify.com/album/1gQ2z0wuUco7TtvX3J8DOl) | 3:35 | 2026-01-17 | 2026-03-14 |
 | [Never let](https://open.spotify.com/track/3AiaZKDSSrrWwW6Fm9gyuf) | [BULLYACHE](https://open.spotify.com/artist/1U6RHOlK1jvJP055zKxbSo) | [Never let](https://open.spotify.com/album/2UJbbLQvLSrksziSOvn3D3) | 2:46 | 2024-09-06 | 2024-10-12 |
 | [Neverland](https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Neverland](https://open.spotify.com/album/1z8kbd29vvgGVkjaxss02U) | 3:21 | 2021-10-15 | 2023-10-14 |
@@ -485,6 +485,7 @@
 | [TKO](https://open.spotify.com/track/5X48PoyMLYjYVBvU2RtgqB) | [Gottmik](https://open.spotify.com/artist/4ZcGQMsomBkKmqLdyYzVl0), [Violet Chachki](https://open.spotify.com/artist/39MrkAPZRa0GzXX7KaSC3m) | [TKO](https://open.spotify.com/album/6tgsygJMl8v5MhssnpVxbj) | 2:55 | 2025-08-08 | 2025-10-25 |
 | [Training Season \- Chloé Caillet Mix](https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Training Season \(Chloé Caillet Mix\)](https://open.spotify.com/album/0XCixBnX3pucK2merSXAN2) | 4:55 | 2024-06-14 | 2024-07-02 |
 | [Transmission](https://open.spotify.com/track/7kdMnkySYCReo8BsznztAF) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db) | [Transmission](https://open.spotify.com/album/7FyHEcVa1qv5f4AryUbtPH) | 4:19 | 2024-06-01 | 2025-05-10 |
+| [Troubleshooting](https://open.spotify.com/track/1zwtByGWroU5IHzZJtxE7Q) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [Troubleshooting](https://open.spotify.com/album/1J9ywE1T8csA2bKMfUse5J) | 1:55 | 2026-10-30 |  |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2021-10-15 | 2022-06-04 |
 | [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 | 2025-01-24 | 2026-02-28 |
 | [Trust](https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Trust](https://open.spotify.com/album/0fLTZ5thAE6uMVd1GrT2Pa) | 3:57 | 2022-06-03 | 2023-04-01 |

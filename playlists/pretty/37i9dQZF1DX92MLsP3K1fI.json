@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! A.B Quintanilla III y Majo Aguilar en portada \u2728",
-  "num_followers": 96669,
+  "num_followers": 96679,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKCm+us0xWjKF7atLfYVc13mzkxw",
+  "snapshot_id": "AAAAAMjhyy4EgQ3d5afdxwplk1F+TZeu",
   "tracks": [
     {
       "added_at": "2026-10-23 06:00:33",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "Tu Falta De Querer",
-        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 193684,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
+      "duration_ms": 172765,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2"
+        "name": "Tu Falta De Querer",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
       },
       "artists": [
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 172765,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1"
+      "duration_ms": 193684,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "Caer y Levantarse",
-        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 270925,
-      "name": "Caer y Levantarse",
-      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -711,18 +695,34 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "(no) te quiero perder [BY BERSHKA MUSIC]",
-        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
+        "name": "la del proceso",
+        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
       },
       "artists": [
         {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
         }
       ],
-      "duration_ms": 141663,
-      "name": "(no) te quiero perder - BY BERSHKA MUSIC",
-      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
+      "duration_ms": 155454,
+      "name": "la del proceso",
+      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
+        "name": "Caer y Levantarse",
+        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 270925,
+      "name": "Caer y Levantarse",
+      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
-        "name": "la del proceso",
-        "url": "https://open.spotify.com/album/5yvkLxj4WOM7PmG8p3cArY"
+        "name": "(no) te quiero perder [BY BERSHKA MUSIC]",
+        "url": "https://open.spotify.com/album/3aDgxK43chuaG2UTt9HJ9E"
       },
       "artists": [
         {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
         }
       ],
-      "duration_ms": 155454,
-      "name": "la del proceso",
-      "url": "https://open.spotify.com/track/2MgYu1rPCtpBvO4NRl0XuB"
+      "duration_ms": 141663,
+      "name": "(no) te quiero perder - BY BERSHKA MUSIC",
+      "url": "https://open.spotify.com/track/7iOXb777qN8aqu8ulgZd6l"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
       "added_at": "2026-10-23 06:00:33",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-10-23 06:00:33",
       "album": {
+        "name": "Mismo Equipo",
+        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "Mismo Equipo",
+      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
+    },
+    {
+      "added_at": "2026-10-23 06:00:33",
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
-    },
-    {
-      "added_at": "2026-10-23 06:00:33",
-      "album": {
-        "name": "Mismo Equipo",
-        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "Mismo Equipo",
-      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
     },
     {
       "added_at": "2026-10-23 06:00:33",

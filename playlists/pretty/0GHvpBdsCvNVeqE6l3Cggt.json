@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkcYwu5fzJB5xHXNpzkKvXOv8KsuCN",
+  "snapshot_id": "AAAkcnu1JkBr2cyOdqyf545W5rwja7bz",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -683,6 +683,22 @@
       "duration_ms": 257794,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/5SZDQAuJ1Gpzy8RE0E3sD4"
+    },
+    {
+      "added_at": "2026-10-30 15:59:14",
+      "album": {
+        "name": "Synthimacy",
+        "url": "https://open.spotify.com/album/06S4JQAzX9Y8wfQipQWRmY"
+      },
+      "artists": [
+        {
+          "name": "NOXON",
+          "url": "https://open.spotify.com/artist/60v7Pw2EQJBDbGo3vAdCQH"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Synthimacy",
+      "url": "https://open.spotify.com/track/5CPQEzZj3kYN84JDIZmphl"
     }
   ],
   "unique_name": "Alternative Pop Archive",

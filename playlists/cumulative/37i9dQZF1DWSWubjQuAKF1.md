@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: kubera
 
-1,029 songs - 2 day 2 hr 13 min
+1,030 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [boeira](https://open.spotify.com/track/0rMlErDSq2KTWQquy1tFPG) | [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn), [Kaki](https://open.spotify.com/artist/3wePHjo31t64qRMHBj7NnU), [Json](https://open.spotify.com/artist/5OTHI5apGJ4Zs2eloBI5Hz) | [boeira](https://open.spotify.com/album/3jQq4MhMRvNCIGJHOX9X9q) | 2:36 | 2025-07-03 | 2025-07-11 |
 | [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 | 2025-09-30 | 2026-01-31 |
 | [BOJĘ SIĘ](https://open.spotify.com/track/08aHfnN9msWri9j7H16rYe) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [BOJĘ SIĘ](https://open.spotify.com/album/3Buzwi4LOfjQ9ziFS2M5qY) | 2:46 | 2025-11-28 | 2026-03-13 |
-| [boję się bać](https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [boję się bać](https://open.spotify.com/album/1wPfJYhgSlNgRZgD02ZEwq) | 3:29 | 2026-09-10 |  |
+| [boję się bać](https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [boję się bać](https://open.spotify.com/album/1wPfJYhgSlNgRZgD02ZEwq) | 3:29 | 2026-09-10 | 2026-10-31 |
 | [BOOM](https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BOOM](https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ) | 2:44 | 2025-07-03 | 2025-11-12 |
 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 | 2024-11-07 | 2025-01-24 |
 | [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 | 2025-09-16 | 2025-11-05 |
@@ -396,6 +396,7 @@
 | [KIKI](https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [KIKI](https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K) | 2:21 | 2025-07-10 | 2025-11-12 |
 | [kill for me?](https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [kill for me?](https://open.spotify.com/album/6R73G7Td2TIms6bEKqA2zk) | 2:40 | 2025-09-16 | 2025-12-12 |
 | [Kim jestem?](https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kim jestem?](https://open.spotify.com/album/0CcsTAGrXXDZPYPCbhDexc) | 2:30 | 2026-07-09 | 2026-10-09 |
+| [kim mam być?](https://open.spotify.com/track/4bN4eZWTCASsnzf8vK27oc) | [Maja Golec](https://open.spotify.com/artist/5aoyFu4Ipc5PSsDfqgzS2X), [Backstage Brassband](https://open.spotify.com/artist/5Yrovzk2rDUVXNBD6N71jR) | [kim mam być?](https://open.spotify.com/album/5lrhYfmlcjk0eGOaw6ItOt) | 3:23 | 2026-10-29 |  |
 | [Kiss And Fly](https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Terminal 3](https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS) | 2:37 | 2024-06-28 | 2024-10-26 |
 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 | 2025-03-06 | 2025-07-04 |
 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 | 2024-06-28 | 2024-09-14 |

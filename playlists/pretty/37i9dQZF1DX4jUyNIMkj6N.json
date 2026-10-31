@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 225674,
+  "num_followers": 225676,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
+        "name": "Vampire Country",
+        "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
+      },
+      "artists": [
+        {
+          "name": "Harriet Nauer",
+          "url": "https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q"
+        }
+      ],
+      "duration_ms": 247975,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
         "name": "Til the music starts again",
         "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
-        "name": "Vampire Country",
-        "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
-      },
-      "artists": [
-        {
-          "name": "Harriet Nauer",
-          "url": "https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q"
-        }
-      ],
-      "duration_ms": 247975,
-      "name": "Raven",
-      "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "Come Through",
-        "url": "https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS"
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
       "artists": [
         {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 172121,
-      "name": "Come Through",
-      "url": "https://open.spotify.com/track/06nuQASic35njbk01mB2KY"
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+        "name": "Come Through",
+        "url": "https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 203235,
-      "name": "Lonely Cowboy - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+      "duration_ms": 172121,
+      "name": "Come Through",
+      "url": "https://open.spotify.com/track/06nuQASic35njbk01mB2KY"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -779,38 +779,18 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "All Shall Be Well",
-        "url": "https://open.spotify.com/album/20o0u1AOqGujEoInBj5JR9"
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
       "artists": [
         {
           "name": "Susanne Sundf\u00f8r",
           "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        },
-        {
-          "name": "Kit Downes",
-          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
         }
       ],
-      "duration_ms": 247973,
-      "name": "All Shall Be Well",
-      "url": "https://open.spotify.com/track/0yt9HKXnTIPJgx5v3o6WxR"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
-        "name": "It Won't Change Anything",
-        "url": "https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr"
-      },
-      "artists": [
-        {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        }
-      ],
-      "duration_ms": 273500,
-      "name": "It Won't Change Anything",
-      "url": "https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc"
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -847,6 +827,22 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
+        "name": "It Won't Change Anything",
+        "url": "https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "It Won't Change Anything",
+      "url": "https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
         "name": "Laminar Flow",
         "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
       },
@@ -863,34 +859,22 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+        "name": "All Shall Be Well",
+        "url": "https://open.spotify.com/album/20o0u1AOqGujEoInBj5JR9"
       },
       "artists": [
         {
           "name": "Susanne Sundf\u00f8r",
           "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
-        "name": "Feels like That",
-        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
-      },
-      "artists": [
+        },
         {
-          "name": "Victor Lundberg",
-          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+          "name": "Kit Downes",
+          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
         }
       ],
-      "duration_ms": 216955,
-      "name": "Feels like That",
-      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
+      "duration_ms": 247973,
+      "name": "All Shall Be Well",
+      "url": "https://open.spotify.com/track/0yt9HKXnTIPJgx5v3o6WxR"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -923,6 +907,22 @@
       "duration_ms": 203360,
       "name": "Rusletur",
       "url": "https://open.spotify.com/track/0UcIJPL1K8fYZoLvArSO3g"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
+        "name": "Feels like That",
+        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
+      },
+      "artists": [
+        {
+          "name": "Victor Lundberg",
+          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+        }
+      ],
+      "duration_ms": 216955,
+      "name": "Feels like That",
+      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
     },
     {
       "added_at": "2026-10-29 23:00:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-29 23:00:38",
       "album": {
-        "name": "Viking Fair",
-        "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
-      },
-      "artists": [
-        {
-          "name": "forfedre",
-          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
-        }
-      ],
-      "duration_ms": 67112,
-      "name": "Viking Fair",
-      "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
-    },
-    {
-      "added_at": "2026-10-29 23:00:38",
-      "album": {
         "name": "Evigheten n\u00e6rmer seg",
         "url": "https://open.spotify.com/album/77RXk1VrQ9aDWIWcGfnipX"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 171626,
       "name": "Evigheten n\u00e6rmer seg",
       "url": "https://open.spotify.com/track/5pYxllxzdm368L57cbzGIq"
+    },
+    {
+      "added_at": "2026-10-29 23:00:38",
+      "album": {
+        "name": "Brick by Brick",
+        "url": "https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz"
+      },
+      "artists": [
+        {
+          "name": "August Green",
+          "url": "https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu"
+        }
+      ],
+      "duration_ms": 218248,
+      "name": "Brick by Brick",
+      "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
     }
   ],
   "unique_name": "Nordic Folk",

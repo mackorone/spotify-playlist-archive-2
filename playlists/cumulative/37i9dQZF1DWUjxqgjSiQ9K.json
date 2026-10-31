@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Living",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Aline Barros & Daniel Calveti",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1937,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "ASOMBROSO",
+        "url": "https://open.spotify.com/album/3GcC6quUiV2rD3UdgreWqG"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190143,
+      "name": "ASOMBROSO",
+      "url": "https://open.spotify.com/track/30CNQBNkzwcQI5CeHM8RH0"
+    },
+    {
+      "album": {
         "name": "Aunque Lejos Estes",
         "url": "https://open.spotify.com/album/6sufWCj48Pj4frnztAhVgF"
       },
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 132127,
       "name": "Con Yahweh 357",
       "url": "https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj"
@@ -3498,7 +3516,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 210001,
       "name": "Confia Y Cree",
       "url": "https://open.spotify.com/track/6hxwW34jn2v5KDFdSyOUQt"
@@ -3884,6 +3902,28 @@
       "duration_ms": 345805,
       "name": "Cordero",
       "url": "https://open.spotify.com/track/1b0a4asSsnWFtCn9YAIKZu"
+    },
+    {
+      "album": {
+        "name": "Fuego en el Altar Vol.2",
+        "url": "https://open.spotify.com/album/1kvyDTioHzNZvoiR1dRmd2"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        },
+        {
+          "name": "APR MUSIC",
+          "url": "https://open.spotify.com/artist/2ThXbUNvE0NTnuEgKFI0Oj"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475135,
+      "name": "Cordero Redentor",
+      "url": "https://open.spotify.com/track/2h69SKKQRKLmGSekYRTduU"
     },
     {
       "album": {
@@ -4340,6 +4380,28 @@
       "duration_ms": 245621,
       "name": "Cristo Es Necesario",
       "url": "https://open.spotify.com/track/2eKSYUiEmugpewQMEn0bfH"
+    },
+    {
+      "album": {
+        "name": "Mil Gracias",
+        "url": "https://open.spotify.com/album/6zuqReM6uLCSenRfwUrxZT"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561343,
+      "name": "Cristo Y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/17IFQbsQ7Z5YrszdGVH7Nx"
     },
     {
       "album": {
@@ -8904,7 +8966,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 590000,
       "name": "Hay Poder (YESHUA) - Live",
       "url": "https://open.spotify.com/track/3n12kCtTF0CpHtgHnJHKfT"
@@ -11063,6 +11125,28 @@
     },
     {
       "album": {
+        "name": "Ma\u00f1ana Sale El Sol",
+        "url": "https://open.spotify.com/album/2SmOGy5WIn8QiN5F6wXBLG"
+      },
+      "artists": [
+        {
+          "name": "Abraham Velazquez",
+          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191878,
+      "name": "Ma\u00f1ana Sale El Sol",
+      "url": "https://open.spotify.com/track/7viqKIaK16A4GBB21oRMBV"
+    },
+    {
+      "album": {
         "name": "ME BASTA",
         "url": "https://open.spotify.com/album/3txSxEH5522xOOecLCyBSG"
       },
@@ -12250,7 +12334,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 312930,
       "name": "Mira Lo Que Ha Hecho Dios",
       "url": "https://open.spotify.com/track/4rYBj8PbdNVRZ9BxvC9YVo"
@@ -12374,6 +12458,24 @@
       "duration_ms": 198786,
       "name": "Mundo Interior",
       "url": "https://open.spotify.com/track/035xvh5YkERQCTqSBUFM96"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9strame (Live)",
+        "url": "https://open.spotify.com/album/5w1yJMGnWGN54gO9PlNvRN"
+      },
+      "artists": [
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536731,
+      "name": "Mu\u00e9strame - Live",
+      "url": "https://open.spotify.com/track/1eMdusSd1IkcIClhhlpiVc"
     },
     {
       "album": {
@@ -13438,7 +13540,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 247983,
       "name": "NO TIENES IGUAL",
       "url": "https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9"
@@ -14016,6 +14118,32 @@
       "duration_ms": 162000,
       "name": "Para La Wifey :)",
       "url": "https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV"
+    },
+    {
+      "album": {
+        "name": "AL\u00c1BALO",
+        "url": "https://open.spotify.com/album/47jxIx9cXiqga6pO3ts4ez"
+      },
+      "artists": [
+        {
+          "name": "Lenny357",
+          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        },
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Para Mi Familia 357",
+      "url": "https://open.spotify.com/track/0OgjCJyKXyRKkZ3rci9Hc9"
     },
     {
       "album": {
@@ -16028,7 +16156,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 485915,
       "name": "Salvaste Mi Vida",
       "url": "https://open.spotify.com/track/5gXauaIBHrn4I6ZBackxnN"
@@ -17728,7 +17856,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 240036,
       "name": "Te Agradezco",
       "url": "https://open.spotify.com/track/4aLb2CB5a1crGi0Q1dyjo3"
@@ -18558,6 +18686,28 @@
       "duration_ms": 208000,
       "name": "Tomarte de la Mano",
       "url": "https://open.spotify.com/track/1j8xgO0FICUq7wSJZrdHff"
+    },
+    {
+      "album": {
+        "name": "Toy Poderoso (Remix)",
+        "url": "https://open.spotify.com/album/2o3Dtz7Z1QG4ggOy9mzt6z"
+      },
+      "artists": [
+        {
+          "name": "Marky O",
+          "url": "https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205755,
+      "name": "Toy Poderoso - Remix",
+      "url": "https://open.spotify.com/track/37sRN3GdsYxM9pYdTMOxxO"
     },
     {
       "album": {

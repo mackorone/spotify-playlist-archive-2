@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 232872,
+  "num_followers": 232870,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Laura Xmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Patrick Williams Orchestra",
-          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
-        }
-      ],
-      "duration_ms": 181146,
-      "name": "Va a nevar (with the Patrick Williams Orchestra)",
-      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 217877,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Laura Xmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Patrick Williams Orchestra",
+          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
+        }
+      ],
+      "duration_ms": 181146,
+      "name": "Va a nevar (with the Patrick Williams Orchestra)",
+      "url": "https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z"
     },
     {
       "added_at": "2025-12-04 18:43:31",

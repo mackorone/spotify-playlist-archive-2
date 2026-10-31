@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with LISA on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,529 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,592 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 81 | [Cóbrame tú](https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Cóbrame tú](https://open.spotify.com/album/6Ff1vmuejWakKEfWMKDSwc) | 2:56 |
 | 82 | [Yes \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/5hqbhdGf3HC2CvlbbZeFnu) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Yes \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/01oX0iNi2NwvtO59wQtXP9) | 2:41 |
 | 83 | [SO COOL](https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [GODBREATH](https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt) | 2:22 |
-| 84 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:06 |
+| 84 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:08 |
 | 85 | [INNER CHILD](https://open.spotify.com/track/0cINKG9O5F3Tx1hKPcYZlr) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [4x4](https://open.spotify.com/album/5D8FVVVotEixYMIxoSl3cH) | 3:21 |
 | 86 | [Dissolve](https://open.spotify.com/track/4mWXzGysPkzAAMFORnt6Pp) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Kenny Iko](https://open.spotify.com/artist/0GOtzYCeaqjdhAlwJfUxPK) | [Dissolve](https://open.spotify.com/album/1pEsPPPrdGX0SFAS7mNVCo) | 3:14 |
 | 87 | [Get Me on the Way Out](https://open.spotify.com/track/4Jo80L9w3fXa8LUkwzCe7o) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Get Me on the Way Out](https://open.spotify.com/album/494Rzl9dB7mazA48OXdYt9) | 4:46 |

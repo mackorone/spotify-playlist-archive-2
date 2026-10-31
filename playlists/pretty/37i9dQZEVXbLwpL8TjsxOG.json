@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 116941,
+  "num_followers": 116944,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MnbQaAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MngdOAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "goofy",
         "url": "https://open.spotify.com/album/0ABVbMaLderU71g6uR9FU1"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1vKAiIADzfg8yTnZIV4wlV"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "\u5348\u591c\u5834",
         "url": "https://open.spotify.com/album/3PNrJJ6V3r4vW6Wi2saoVS"
@@ -41,23 +41,23 @@
       "url": "https://open.spotify.com/track/0bvvsZ5pb87hXyZ7hQq11U"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+        "name": "\u57f7\u8ff7\u4e0d\u6094",
+        "url": "https://open.spotify.com/album/7dT9AbrVU10dxGmDeJT3zK"
       },
       "artists": [
         {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+          "name": "Faye Wong",
+          "url": "https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp"
         }
       ],
-      "duration_ms": 223803,
-      "name": "\u5bc2\u5bde\u5713\u821e",
-      "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
+      "duration_ms": 276173,
+      "name": "\u5b63\u5019\u98a8",
+      "url": "https://open.spotify.com/track/2ACZ3Gr66MoMzMr6QeXIFG"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 223803,
+      "name": "\u5bc2\u5bde\u5713\u821e",
+      "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/4vGg44GdCw3X8i8r01XJH0"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u57f7\u8ff7\u4e0d\u6094",
-        "url": "https://open.spotify.com/album/7dT9AbrVU10dxGmDeJT3zK"
-      },
-      "artists": [
-        {
-          "name": "Faye Wong",
-          "url": "https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp"
-        }
-      ],
-      "duration_ms": 276173,
-      "name": "\u5b63\u5019\u98a8",
-      "url": "https://open.spotify.com/track/2ACZ3Gr66MoMzMr6QeXIFG"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "Boulder",
         "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "\u6700\u5f8c\u4e00\u500b\u964d\u843d\u5098",
         "url": "https://open.spotify.com/album/0dprxNMkU4LUdKBtCDhl1E"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/7Kv4G8a0IbFSbFy1D9s21H"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "Helicopter",
         "url": "https://open.spotify.com/album/3OqptSJEjyO5PAeRjd1x8s"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/4zWeX8ESpCEUiNVRz9D4xi"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/0Rab0XcfiU6XntjxR5gzKL"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2TuVysg2EcUWv7ZhTuML7l"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "Charisma",
         "url": "https://open.spotify.com/album/6hQVnVXXlrl3VkFGnhudQU"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/5aJmkkGitk4ZLWshLcdDPg"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "\u672c\u547d",
         "url": "https://open.spotify.com/album/6mV5ykEWIa1L8kd9xJmevp"
@@ -237,23 +237,7 @@
       "url": "https://open.spotify.com/track/1DSqBa9qCrbTUwVYJFUPba"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "DESERVE",
-        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "DESERVE",
-      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "THE PROT\u00c9G\u00c9",
         "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
@@ -269,103 +253,23 @@
       "url": "https://open.spotify.com/track/56KAZ7TDmxSHw1L5gNvESi"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
-        "name": "\u6dfa\u7c89\u7d05",
-        "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj"
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 201816,
-      "name": "\u6dfa\u7c89\u7d05 pale pink",
-      "url": "https://open.spotify.com/track/3bHIyMzAs0BC3T0YVn4Ctb"
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 180716,
-      "name": "Don\u2019t Say You Love Me",
-      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "Looks Can Kill",
-        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 195559,
-      "name": "Looks Can Kill",
-      "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u5728\u9060\u65b9\u7684\u4f60",
-        "url": "https://open.spotify.com/album/1dvB4QC4MPwJpQm724YDyO"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 192921,
-      "name": "\u5728\u9060\u65b9\u7684\u4f60",
-      "url": "https://open.spotify.com/track/7mH2Y48yRoEfErv8aYqBmz"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "THE PROT\u00c9G\u00c9",
-        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 222668,
-      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
-      "url": "https://open.spotify.com/track/3qejxDQ65H8Wz5y0GsUgsN"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/7nHF8Dnh6gK9vnwXvpNcnp"
@@ -381,7 +285,119 @@
       "url": "https://open.spotify.com/track/0hKkGlDhaef5OPrXfc8Idx"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "\u6dfa\u7c89\u7d05",
+        "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 201816,
+      "name": "\u6dfa\u7c89\u7d05 pale pink",
+      "url": "https://open.spotify.com/track/3bHIyMzAs0BC3T0YVn4Ctb"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "\u5728\u9060\u65b9\u7684\u4f60",
+        "url": "https://open.spotify.com/album/1dvB4QC4MPwJpQm724YDyO"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 192921,
+      "name": "\u5728\u9060\u65b9\u7684\u4f60",
+      "url": "https://open.spotify.com/track/7mH2Y48yRoEfErv8aYqBmz"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "THE PROT\u00c9G\u00c9",
+        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 222668,
+      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+      "url": "https://open.spotify.com/track/3qejxDQ65H8Wz5y0GsUgsN"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -397,23 +413,7 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -433,7 +433,23 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 249136,
+      "name": "\u8aaa\u8b0a\u8005",
+      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -473,23 +489,39 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
       },
       "artists": [
         {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 249136,
-      "name": "\u8aaa\u8b0a\u8005",
-      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Binary",
+        "url": "https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC"
+      },
+      "artists": [
+        {
+          "name": "Kay Tse",
+          "url": "https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "\u56cd\u5e16\u8857",
+      "url": "https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "\u65cb\u8f49\u6728\u99ac",
         "url": "https://open.spotify.com/album/0QYP20KqKGrDyMYqkrTBhx"
@@ -509,7 +541,55 @@
       "url": "https://open.spotify.com/track/5YOyplpxGqOuxDr0BlQI0u"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "\u5074\u7530",
+        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
+      },
+      "artists": [
+        {
+          "name": "Justin Lo",
+          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "\u547d\u786c",
+      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Let Me Find Love",
+        "url": "https://open.spotify.com/album/7o7YbsS8u22o2fxLbh1eCv"
+      },
+      "artists": [
+        {
+          "name": "Sita Chan",
+          "url": "https://open.spotify.com/artist/42FjIZQ8ICjxyXedscgA2n"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\u871a\u871a",
+      "url": "https://open.spotify.com/track/5LauAY4lEriiCul4br4Hz6"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "BREAK EVEN",
+        "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "You\u2019re Under Arrest",
+      "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "On Hits",
         "url": "https://open.spotify.com/album/1xgpuUCtXFhGXsA1JHYvYl"
@@ -525,39 +605,7 @@
       "url": "https://open.spotify.com/track/0JaChJKM1XYJE48rKaUvG8"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u8a18\u61b6\u68c9",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 273390,
-      "name": "\u8a18\u61b6\u68c9",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "The Astronaut",
-        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 282463,
-      "name": "The Astronaut",
-      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
         "url": "https://open.spotify.com/album/4HRDWKteX0ldGpdvT0RePu"
@@ -577,119 +625,7 @@
       "url": "https://open.spotify.com/track/4JgANNfSO7liTvGAUHJwOP"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u5074\u7530",
-        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
-      },
-      "artists": [
-        {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "\u547d\u786c",
-      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "This is MC",
-        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "\u4e16\u4e00",
-      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u81f3\u5c11\u76f8\u64c1\u6c92\u932f",
-        "url": "https://open.spotify.com/album/6C2D6zIALC1KXOf6oGxeEE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 215154,
-      "name": "\u81f3\u5c11\u76f8\u64c1\u6c92\u932f",
-      "url": "https://open.spotify.com/track/1hUCAVgmwiU3op5Pw16SSf"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
-        "url": "https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 181619,
-      "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
-      "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u5c31\u7b97\u6211\u932f\u6f0f\u767e\u51fa",
-        "url": "https://open.spotify.com/album/1TwVTTXfz2tr2ooTFL8WGK"
-      },
-      "artists": [
-        {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
-        }
-      ],
-      "duration_ms": 226873,
-      "name": "\u5c31\u7b97\u6211\u932f\u6f0f\u767e\u51fa",
-      "url": "https://open.spotify.com/track/6b0Edx5yaxu2NKWO01oczU"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 231535,
-      "name": "Gimme Gimme",
-      "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 227542,
-      "name": "\u6d41\u6d6a\u661f\u7403",
-      "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON"
@@ -705,7 +641,119 @@
       "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "This is MC",
+        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "\u4e16\u4e00",
+      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/0Rab0XcfiU6XntjxR5gzKL"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "\u5927\u54e5",
+      "url": "https://open.spotify.com/track/2HR81zMSX5uRGIVO5oerjr"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Once Said",
+        "url": "https://open.spotify.com/album/4vEDEmoJl6C9gMSArAz7EQ"
+      },
+      "artists": [
+        {
+          "name": "Shiga Lin",
+          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
+        }
+      ],
+      "duration_ms": 251387,
+      "name": "\u53ea\u8981\u548c\u4f60\u5728\u4e00\u8d77",
+      "url": "https://open.spotify.com/track/6BnnESswToNUBdif5h9aGP"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 231535,
+      "name": "Gimme Gimme",
+      "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+        "url": "https://open.spotify.com/album/6ccMGTUqbYc5ouYsS9wYjv"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 181619,
+      "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
+      "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "\u81f3\u5c11\u76f8\u64c1\u6c92\u932f",
+        "url": "https://open.spotify.com/album/6C2D6zIALC1KXOf6oGxeEE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 215154,
+      "name": "\u81f3\u5c11\u76f8\u64c1\u6c92\u932f",
+      "url": "https://open.spotify.com/track/1hUCAVgmwiU3op5Pw16SSf"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
+      "album": {
+        "name": "\u5c31\u7b97\u6211\u932f\u6f0f\u767e\u51fa",
+        "url": "https://open.spotify.com/album/1TwVTTXfz2tr2ooTFL8WGK"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "duration_ms": 226873,
+      "name": "\u5c31\u7b97\u6211\u932f\u6f0f\u767e\u51fa",
+      "url": "https://open.spotify.com/track/6b0Edx5yaxu2NKWO01oczU"
+    },
+    {
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -725,7 +773,7 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "\u56db",
         "url": "https://open.spotify.com/album/1VVjgSImZqAgiEefynSjhc"
@@ -741,23 +789,23 @@
       "url": "https://open.spotify.com/track/0Mdym6sYES65bYALdGQJE4"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+      "duration_ms": 227542,
+      "name": "\u6d41\u6d6a\u661f\u7403",
+      "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/0Rab0XcfiU6XntjxR5gzKL"
@@ -773,55 +821,7 @@
       "url": "https://open.spotify.com/track/6Ntvb49Mctg777yOvGwsNc"
     },
     {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "It\u2019s \u016a",
-        "url": "https://open.spotify.com/album/25kiFb6DT1SFoafMgcQxqS"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "It\u2019s \u016a",
-      "url": "https://open.spotify.com/track/7flVnLkUPtXnSsfrE3WqQj"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "\u5ff5",
-        "url": "https://open.spotify.com/album/59TofyRHvflzaS9JW2pDjD"
-      },
-      "artists": [
-        {
-          "name": "Panther Chan",
-          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "\u51e1\u661f",
-      "url": "https://open.spotify.com/track/07Y64md8ePTQuheCFhdlDZ"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/0Rab0XcfiU6XntjxR5gzKL"
-      },
-      "artists": [
-        {
-          "name": "Janice Vidal",
-          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "\u5927\u54e5",
-      "url": "https://open.spotify.com/track/2HR81zMSX5uRGIVO5oerjr"
-    },
-    {
-      "added_at": "2026-10-29 14:17:54",
+      "added_at": "2026-10-30 14:06:27",
       "album": {
         "name": "What's Going On...?",
         "url": "https://open.spotify.com/album/1dtg7IOdq2Q6zA4nIJ5Qsk"

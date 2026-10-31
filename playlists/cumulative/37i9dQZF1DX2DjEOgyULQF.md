@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [40Hz Sound Of Nature](https://open.spotify.com/track/3nwx8hPz31dVTuNMlybFzn) | [Alex Zenum](https://open.spotify.com/artist/1R7IPqmjjDOWrp2vH7xspV) | [40Hz Sound Of Nature](https://open.spotify.com/album/1MgH6LgiOlhtYVPygkFr0F) | 2:56 | 2026-04-03 |  |
+| [40Hz Sound Of Nature](https://open.spotify.com/track/3nwx8hPz31dVTuNMlybFzn) | [Alex Zenum](https://open.spotify.com/artist/1R7IPqmjjDOWrp2vH7xspV) | [40Hz Sound Of Nature](https://open.spotify.com/album/1MgH6LgiOlhtYVPygkFr0F) | 2:56 | 2026-04-03 | 2026-10-31 |
 | [528 Hz Energy Flow](https://open.spotify.com/track/4Mu9YDxpVfpaBw6np0B3hZ) | [Tranqeel](https://open.spotify.com/artist/4IjrnwZWOZypFplgP2v8Js) | [528 Hz The Healing Collection Vol.1 \- One With Nature](https://open.spotify.com/album/5IWVrQTrYXMn2zfDZjpe7C) | 2:17 | 2026-06-26 | 2026-09-07 |
 | [A Gentle Reminder](https://open.spotify.com/track/1we0KY2eDEKo2ktFl1m3iu) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Garden of Night](https://open.spotify.com/album/6GpMsqjvq3tXazrw9UNOJg) | 2:54 | 2023-04-28 | 2024-06-04 |
 | [A Lovely Morning](https://open.spotify.com/track/5Rch63Aa78BPZj0oCNSxLL) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [A Lovely Morning](https://open.spotify.com/album/0HjC9SYv4MqU1yKjeTUeik) | 3:21 | 2026-06-12 |  |
@@ -334,7 +334,7 @@
 | [Of Younger Days](https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7) | [Sky's Memoirs](https://open.spotify.com/artist/7qMHZInw2IFsTan4o7lZKh) | [Of Younger Days](https://open.spotify.com/album/0cw8E6kq8cc7cEnh1dWXDh) | 3:17 | 2026-06-26 | 2026-07-03 |
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2023-04-28 | 2025-05-22 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
-| [Opening Trees](https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E) | [Morouj](https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK) | [Opening Trees](https://open.spotify.com/album/1ve1MD9koLWiujPSXZxOXO) | 3:05 | 2026-08-19 | 2026-10-02 |
+| [Opening Trees](https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E) | [Morouj](https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK) | [Opening Trees](https://open.spotify.com/album/1ve1MD9koLWiujPSXZxOXO) | 3:05 | 2026-08-19 |  |
 | [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 | 2024-08-23 | 2025-09-11 |
 | [Organesque](https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf) | [Mellow Bars](https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe) | [Organesque](https://open.spotify.com/album/3iBYE3TVsCrIKB69RfIZ7o) | 2:39 | 2023-04-28 | 2024-06-25 |
 | [Orlithan](https://open.spotify.com/track/29phtIWzxNHi76o4bH3qeq) | [Eva Duarte](https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg) | [Orlithan](https://open.spotify.com/album/68894zg6ctvRgb4nw4CQAV) | 2:28 | 2026-06-26 | 2026-07-12 |

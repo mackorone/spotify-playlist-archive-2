@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con iZaak y Chencho Corleone.",
+  "description": "Perreando toda la noche con Ryan Castro.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 204659,
       "name": "B.L.A.S.S.",
       "url": "https://open.spotify.com/track/3vO9dIvDnlyp9ccOKzEMW6"
@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 133608,
       "name": "BAILAS",
       "url": "https://open.spotify.com/track/6qIvysO7Mjp4dcpPyIwKLh"
@@ -3194,6 +3194,24 @@
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
+    },
+    {
+      "album": {
+        "name": "BRINCAITO",
+        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "BRINCAITO",
+      "url": "https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C"
     },
     {
       "album": {
@@ -5602,7 +5620,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 215000,
       "name": "CX5",
       "url": "https://open.spotify.com/track/2T7kTr1KXWXLGDBmMNFp2n"
@@ -6898,7 +6916,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 246290,
       "name": "DUCATI (feat. Hades66)",
       "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
@@ -8143,6 +8161,28 @@
     },
     {
       "album": {
+        "name": "Explotamo\u2019 la Dior",
+        "url": "https://open.spotify.com/album/5Hkv2i0BGSOYEVasbrIUrW"
+      },
+      "artists": [
+        {
+          "name": "Renzo ED",
+          "url": "https://open.spotify.com/artist/2nZdsl4XZtlLoZm4B4F7eh"
+        },
+        {
+          "name": "Reelian",
+          "url": "https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Explotamo\u2019 la Dior",
+      "url": "https://open.spotify.com/track/5mXnap8Tw9pvjZLoo9vgDF"
+    },
+    {
+      "album": {
         "name": "Somos Diferentes",
         "url": "https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J"
       },
@@ -8698,6 +8738,24 @@
       "duration_ms": 165000,
       "name": "Foguenta",
       "url": "https://open.spotify.com/track/05ONRmDTRMCQkGtiBybGPG"
+    },
+    {
+      "album": {
+        "name": "FOREVER TU DUE\u00d1O",
+        "url": "https://open.spotify.com/album/3bhvU8fw9yAQzQowj1Son7"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "FOREVER TU DUE\u00d1O",
+      "url": "https://open.spotify.com/track/47F0U9ZBre22oEUIIbqZ8S"
     },
     {
       "album": {
@@ -10493,6 +10551,24 @@
     },
     {
       "album": {
+        "name": "Joker y Harley",
+        "url": "https://open.spotify.com/album/1Qn8lDWRq1BOy6vbC9pRmY"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Joker y Harley",
+      "url": "https://open.spotify.com/track/302wvxIMy3RwCZhWZDk7vU"
+    },
+    {
+      "album": {
         "name": "JORDAN REMIX (feat. Myke Towers)",
         "url": "https://open.spotify.com/album/1A4exOcm1Rcy1u4fopAIke"
       },
@@ -11999,6 +12075,28 @@
     },
     {
       "album": {
+        "name": "LEER TUS PENSAMIENTOS",
+        "url": "https://open.spotify.com/album/5QRnjpY6S4sTHLioA3myWd"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177368,
+      "name": "LEER TUS PENSAMIENTOS",
+      "url": "https://open.spotify.com/track/6zRAJ97ey0RjKa5uKkXfNA"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0FmvrNa2Pvt0EyjWyACICu"
       },
@@ -13484,7 +13582,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 160000,
       "name": "MARINO",
       "url": "https://open.spotify.com/track/4YsQ3uERJUFPf9cp62lTYI"
@@ -15432,7 +15530,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 228785,
       "name": "no eres buena xika",
       "url": "https://open.spotify.com/track/3Ek8M2HMNx4GPO37fOfaQL"
@@ -16791,6 +16889,28 @@
     },
     {
       "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "PA' QUE LLORAR",
+      "url": "https://open.spotify.com/track/2MWLMgTRRnV5cZm9VVYyTh"
+    },
+    {
+      "album": {
         "name": "Pachingal",
         "url": "https://open.spotify.com/album/6kKsruOsgzknXIkf2Zef9U"
       },
@@ -17736,7 +17856,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 243319,
       "name": "PERDISTE EL EMMY.",
       "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
@@ -18620,7 +18740,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 183673,
       "name": "PONTE LOKITA",
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
@@ -21345,6 +21465,28 @@
     },
     {
       "album": {
+        "name": "LA POSTAL",
+        "url": "https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SE VA",
+      "url": "https://open.spotify.com/track/3xoHVt0FLR05c0QIWHB7lC"
+    },
+    {
+      "album": {
         "name": "Se Va (feat. Noriega, Leinvd & La Mafia del Perreo)",
         "url": "https://open.spotify.com/album/0PAl7FSw7GBbz3kLeIHNWh"
       },
@@ -22308,6 +22450,36 @@
       "duration_ms": 153500,
       "name": "Solida",
       "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
+    },
+    {
+      "album": {
+        "name": "777 VOL. 2",
+        "url": "https://open.spotify.com/album/6jJX5rpTAZpjpyOUntyOsO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298223,
+      "name": "Solita",
+      "url": "https://open.spotify.com/track/3QE1rnjYpqs6XqzQavKjzc"
     },
     {
       "album": {
@@ -25128,7 +25300,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 159280,
       "name": "WHISKY A LA ROCA",
       "url": "https://open.spotify.com/track/3nDhIGkMvnsd8zo5u6eD05"

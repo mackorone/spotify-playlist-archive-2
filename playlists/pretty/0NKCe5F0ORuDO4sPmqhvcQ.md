@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,326 likes - 68 songs - 3 hr 47 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,325 likes - 69 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 66 | [Lightning In A Bottle](https://open.spotify.com/track/5X9akP1OfE8A1PPj5hNJ2k) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [5T4RP0W3R](https://open.spotify.com/album/66V5NZ2YA7kOza3gONqARK) | 3:34 |
 | 67 | [Out Of Sight, Out Of Mind](https://open.spotify.com/track/6ClI5b3S2i6cK21MsSQnJF) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Odd Boys](https://open.spotify.com/album/6Q5xB8T6rX6zFaKM3sAjVt) | 3:04 |
 | 68 | [When We're Dancing](https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [When We're Dancing](https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx) | 3:25 |
+| 69 | [Badman Riddim](https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Badman Riddim](https://open.spotify.com/album/7aLoUpRuTDY7uco9ypWix4) | 3:04 |
 
-Snapshot ID: `AAAradbISlhkcncOekGu1RImodynaEsQ`
+Snapshot ID: `AAArapgMx4S8OzFE1Ye+B2iLeB15bR0D`

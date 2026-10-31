@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Mylène Farmer x DJ Snake, Ronisia, TeddyBear et Gracie Abrams au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,134 likes - 84 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,628 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 12 | [HEART ATTACK](https://open.spotify.com/track/1kbaSH9fGTFauyWz1hvodx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [FREAK](https://open.spotify.com/album/5L7khHmGgAqDmuiu1GKDm7) | 2:58 |
 | 13 | [J'ai menti](https://open.spotify.com/track/4hIa0pbRyJcrFDxwVhBmsW) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [J'ai menti](https://open.spotify.com/album/79Br2DY5nZuY3ZMj7YbuI7) | 2:57 |
 | 14 | [Merci](https://open.spotify.com/track/0w0INM1KnJXEcyFvFw6LzY) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Merci](https://open.spotify.com/album/6EA7192nG5dzrraJ2ohXDU) | 3:15 |
-| 15 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:21 |
+| 15 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:22 |
 | 16 | [Wetin Day](https://open.spotify.com/track/0uCnAzxG1UNLIfFUoCyc4Q) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [Wetin Day](https://open.spotify.com/album/5LnhX5zXzz6c2v78c8nk9d) | 2:14 |
 | 17 | [INDIAN SUMMER](https://open.spotify.com/track/3fhPTs8YgkwC1a6gV2TTtx) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [INDIAN SUMMER](https://open.spotify.com/album/3EquYPRLoMWqXy12Ad28lR) | 3:18 |
 | 18 | [If I Don't Go](https://open.spotify.com/track/5XXXFERLsHPaaO4TI4KC8b) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Everything Under The Sun](https://open.spotify.com/album/09VHUtGwNd9PR9eiRAnrDv) | 3:33 |

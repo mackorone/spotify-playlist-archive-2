@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBTuKIDFlCp.md) - [plain]
 
 > The new era of Hillman begins\. Listen to the music from A Different World.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,040 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,126 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

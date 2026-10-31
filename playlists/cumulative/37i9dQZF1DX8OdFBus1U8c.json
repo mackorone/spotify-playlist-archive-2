@@ -3285,6 +3285,28 @@
     },
     {
       "album": {
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/0c0NJvSM4uIGtSi0g7dbGn"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/2XK7JEW46rkMXsC7W5NaWL"
+    },
+    {
+      "album": {
         "name": "Galatta (From \"Aavesham\")",
         "url": "https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8"
       },
@@ -5444,6 +5466,28 @@
       "duration_ms": 159118,
       "name": "KL42",
       "url": "https://open.spotify.com/track/2akQaKSgo8XjKj5eqccOV4"
+    },
+    {
+      "album": {
+        "name": "Kochi City Vice",
+        "url": "https://open.spotify.com/album/3FbP7D2zgqZTSvooOnmjaC"
+      },
+      "artists": [
+        {
+          "name": "Rakz Radiant",
+          "url": "https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ"
+        },
+        {
+          "name": "SXNATH",
+          "url": "https://open.spotify.com/artist/6VTNgYVavXETAaUlVkZ95U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120710,
+      "name": "Kochi City Vice",
+      "url": "https://open.spotify.com/track/6X9CKe9IsWyYA3nxNuzF5v"
     },
     {
       "album": {

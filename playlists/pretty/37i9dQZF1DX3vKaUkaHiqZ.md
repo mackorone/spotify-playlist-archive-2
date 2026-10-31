@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,534 likes - 69 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,536 likes - 69 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 | 68 | [Louvre](https://open.spotify.com/track/6ut7kdvJqPma6WALk72Zfo) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 1 of the Netflix Original Series\)](https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL) | 3:11 |
 | 69 | [Lupin](https://open.spotify.com/track/4U3wYpZPW7aXyUeL2tPtZd) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 1 of the Netflix Original Series\)](https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL) | 3:52 |
 
-Snapshot ID: `AAAAAIKTy4vPYa23zcaZP9jClyFDrO5R`
+Snapshot ID: `AAAAAEtO1wkAcgLU9XCuXzUnzXuT4Sbt`

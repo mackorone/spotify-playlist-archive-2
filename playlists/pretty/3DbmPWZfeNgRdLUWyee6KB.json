@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAZKI6nIZ4B1wMndufxwP0/z1zS0oIO",
+  "snapshot_id": "AAAZLEXALf60hN0Ez3sAuCZtp18t0IMH",
   "tracks": [
     {
       "added_at": "2026-09-19 10:09:33",
@@ -2107,6 +2107,70 @@
       "duration_ms": 264920,
       "name": "Still Leaving the Light On",
       "url": "https://open.spotify.com/track/5NC2FDssCL1L9BvR1Y7lsQ"
+    },
+    {
+      "added_at": "2026-10-30 09:17:49",
+      "album": {
+        "name": "Tiempo Perso",
+        "url": "https://open.spotify.com/album/6TziAoXSGzDJGxDpfpIfz9"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Aruta",
+          "url": "https://open.spotify.com/artist/53pCU7QV9c6UR0sy6GjNSn"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tiempo Perso",
+      "url": "https://open.spotify.com/track/4H4z6syuw5OgT2XvQoKOoa"
+    },
+    {
+      "added_at": "2026-10-30 09:17:55",
+      "album": {
+        "name": "Reassembly",
+        "url": "https://open.spotify.com/album/6JgsbHNYzV4YGpNsDHFsfE"
+      },
+      "artists": [
+        {
+          "name": "N.A.S.P.",
+          "url": "https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Reassembly",
+      "url": "https://open.spotify.com/track/6Et4dKmgREn3G0zIKvnd37"
+    },
+    {
+      "added_at": "2026-10-30 09:17:55",
+      "album": {
+        "name": "Die Zeit heilt alle Wunden",
+        "url": "https://open.spotify.com/album/0rTZROHETJU7878Sc7wOtp"
+      },
+      "artists": [
+        {
+          "name": "Parksj",
+          "url": "https://open.spotify.com/artist/71guvFwcryVsE5kZwDLH07"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Die Zeit heilt alle Wunden",
+      "url": "https://open.spotify.com/track/5HwfKgNv2wa9Z7XvRbfWbt"
+    },
+    {
+      "added_at": "2026-10-30 09:18:00",
+      "album": {
+        "name": "Wildflower Skin (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4RIviYvR2pU3MvsK3Xghya"
+      },
+      "artists": [
+        {
+          "name": "Bloom Duet",
+          "url": "https://open.spotify.com/artist/553BCMHF8yVAM1hkgB9XEu"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Wildflower Skin - Acoustic Version",
+      "url": "https://open.spotify.com/track/25G6D8vXxBoSsCph9Gy4OB"
     }
   ],
   "unique_name": "New Indie Music",

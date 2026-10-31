@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6c6Ra1iI1JjhADV2gnT7p6.md) - cumulative - [plain](/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6)
 
-### [Compact Cassette](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
+### [Compact Cassette 🎃](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 

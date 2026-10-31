@@ -1,12 +1,12 @@
 {
   "description": "Nuovi brani di Kid Yugi, Lucio Corsi, Alfa, Gracie Abrams, Francesca Michielin e tanti altri.",
-  "num_followers": 371003,
+  "num_followers": 371397,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFgOnWRdhZtdEeKY0eZ2/Em55gsz",
+  "snapshot_id": "AAAAAPLli15A/6gvKZFrm97K0DNf+iZF",
   "tracks": [
     {
       "added_at": "2026-10-29 23:02:28",
@@ -691,6 +691,26 @@
       "duration_ms": 115488,
       "name": "Asociale",
       "url": "https://open.spotify.com/track/7m5vq4fBKanGqZyDlVDv5G"
+    },
+    {
+      "added_at": "2026-10-30 10:07:14",
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        },
+        {
+          "name": "The Hunger Games",
+          "url": "https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF"
+        }
+      ],
+      "duration_ms": 335367,
+      "name": "Favor - From The Hunger Games: Sunrise on the Reaping - The Album",
+      "url": "https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C"
     },
     {
       "added_at": "2026-10-29 23:02:28",

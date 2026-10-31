@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: RADWIMPS\*👉 <a href="https://spice.eplus.jp/articles/349956">連動記事</a>をSPICEでチェック!
 
-16,790 songs - 44 day 15 hr 25 min
+16,791 songs - 44 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7101,6 +7101,7 @@
 | [ONGAKU](https://open.spotify.com/track/7FCNI6FjuW8A4FcNtBAb1a) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [ODORI](https://open.spotify.com/artist/3n6MMtya95Eb9aHvDH2LjL), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [ONGAKU](https://open.spotify.com/album/4SnpDXvUcpqSK7L8buFWCV) | 2:56 | 2026-07-07 | 2026-07-15 |
 | [ONGAKU JUNBISHITSU](https://open.spotify.com/track/0LjJBLSJzWj3g1SWbmu3we) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [ONGAKU JUNBISHITSU](https://open.spotify.com/album/4kwsagxWWGv76MxZbdZ5S5) | 3:35 | 2024-03-13 | 2024-03-20 |
 | [ongakunankakikanakuteiiyouni](https://open.spotify.com/track/2miGY2WqbYUEx8y0QnwJIP) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [ongakunankakikanakuteiiyouni](https://open.spotify.com/album/3NwELJfso6WcGaje3gIXjf) | 3:15 | 2024-12-11 | 2024-12-18 |
+| [ONIGOKKO](https://open.spotify.com/track/3NWDy9V0K4KooRy2OaWVJL) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [ONIGOKKO](https://open.spotify.com/album/3DCo2Yi11ip77aX8Gn8RtX) | 3:23 | 2026-10-27 |  |
 | [Only cry in the rain](https://open.spotify.com/track/0J92BX2A6XcG2ZbWAxtk1x) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Only cry in the rain](https://open.spotify.com/album/5BenIQ2E8TFdZoAtPjUP9a) | 3:04 | 2025-04-22 | 2025-04-30 |
 | [only god discotheque](https://open.spotify.com/track/1X7MW76HEUF10DSE7R1uGd) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [mutist beach](https://open.spotify.com/album/0mD9r3ZpgOtjmOfm7xITiu) | 3:37 | 2025-01-07 | 2025-01-15 |
 | [ONLY HELLO part1](https://open.spotify.com/track/1tVd9LWZC73jxNzYMpN5nQ) | [INABA / SALAS](https://open.spotify.com/artist/2jrmtlq6cZjytdgG8xW6BG) | [ATOMIC CHIHUAHUA](https://open.spotify.com/album/57YC7T7lxxVgfsLFJP3ITt) | 3:24 | 2025-03-04 | 2025-03-12 |
@@ -13974,7 +13975,7 @@
 | [人間界の密かな恋](https://open.spotify.com/track/7gqFzwJHcMqLrcrNqDbqU6) | [weak.butterfly](https://open.spotify.com/artist/7pg8PXKaVlPRaF3trFqGpm) | [人間界の密かな恋](https://open.spotify.com/album/6cpjQyNb0kqccdaDHLm9tv) | 4:56 | 2026-06-02 | 2026-06-10 |
 | [人間讃歌](https://open.spotify.com/track/43H4mEKYHixQucJLmhkiq8) | [渋谷すばる](https://open.spotify.com/artist/7KVGeQvCQQLOKxSaYi7xva) | [人間讃歌](https://open.spotify.com/album/7aeNt5fpQzymTIT2JbllZy) | 4:00 | 2024-08-20 | 2024-08-28 |
 | [今 \-明日 世界が終わっても\-](https://open.spotify.com/track/2dThVzsCkB0L8tWFvQH53N) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [ALWAYS YOURS](https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY) | 3:11 | 2023-08-22 | 2023-08-30 |
-| [今あいらびゅ](https://open.spotify.com/track/4mXEYgUbddAV0mMmkZtBdF) | [日曜日のメゾンデ](https://open.spotify.com/artist/1z9KPkfdTIPaq33rlWH5n3), [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl), [PARKGOLF](https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [今あいらびゅ](https://open.spotify.com/album/0ZAEeyWFgDVsXe8tbyxrTT) | 2:45 | 2026-10-27 |  |
+| [今あいらびゅ](https://open.spotify.com/track/4mXEYgUbddAV0mMmkZtBdF) | [日曜日のメゾンデ](https://open.spotify.com/artist/1z9KPkfdTIPaq33rlWH5n3), [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl) | [今あいらびゅ](https://open.spotify.com/album/0ZAEeyWFgDVsXe8tbyxrTT) | 2:45 | 2026-10-27 |  |
 | [今ここで](https://open.spotify.com/track/4BY0Cuwh3CYlVTDqRRNV2U) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [今ここで](https://open.spotify.com/album/4hQ9ZdErVRKMWk1VNb0ktZ) | 3:53 | 2025-09-23 | 2025-10-01 |
 | [今この瞬間を](https://open.spotify.com/track/3Qws2SXBbgEs1TyLoA1XFC) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今この瞬間を](https://open.spotify.com/album/6cdk5VOBLQ2KpYu8ADzPwq) | 3:29 | 2023-07-18 | 2023-07-26 |
 | [今だから](https://open.spotify.com/track/0HelTLdRDpIAXpR5oBfkmb) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR), [Kazuo Zaitsu](https://open.spotify.com/artist/6BcIYPy8YuukxAZjFpBKcB) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 4:12 | 2023-12-19 | 2023-12-27 |

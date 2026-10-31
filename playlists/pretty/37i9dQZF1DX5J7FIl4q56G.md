@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Fit For A King
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,946 likes - 219 songs - 14 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,241 likes - 219 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

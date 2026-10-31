@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Heuss L'enfoir\u00e9, PLK",
-  "num_followers": 24811,
+  "num_followers": 24841,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
+        "name": "RANIA",
+        "url": "https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "RANIA",
+      "url": "https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
         "name": "ATL",
         "url": "https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "BBL",
-        "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
-      },
-      "artists": [
-        {
-          "name": "OG Plugging",
-          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
-        }
-      ],
-      "duration_ms": 135793,
-      "name": "BBL",
-      "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1"
       },
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "RANIA",
-        "url": "https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV"
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/5vETXvgVjoVMQPuduE0pqM"
       },
       "artists": [
         {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+          "name": "OG Plugging",
+          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
         }
       ],
-      "duration_ms": 222369,
-      "name": "RANIA",
-      "url": "https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL"
+      "duration_ms": 135793,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/3zoUavHhrlojdvFOxZo1Ny"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "NZELA",
-        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "NZELA",
-      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "M.I.L.S 4",
         "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 190938,
       "name": "PILIER",
       "url": "https://open.spotify.com/track/14Gt0PQM7nxO5Etc2wwcpU"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "NZELA",
+        "url": "https://open.spotify.com/album/38rowpiWYFIVqvrL6UFK7s"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "NZELA",
+      "url": "https://open.spotify.com/track/1xBS5qYuqGDF4nTlgItgcq"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "Jet Set",
-        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Jet Set",
-      "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 176190,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "Jet Set",
+        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Jet Set",
+      "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1531,6 +1531,30 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
+        "name": "Cin\u00e9ma",
+        "url": "https://open.spotify.com/album/2lmv8sms6t9KNdpVAlL8Ot"
+      },
+      "artists": [
+        {
+          "name": "No Limit",
+          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cin\u00e9ma",
+      "url": "https://open.spotify.com/track/59NwklVbw1kpggri6gWN9p"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/61mRt0l9LF8v9dIiJw8gat"
       },
@@ -1543,6 +1567,22 @@
       "duration_ms": 129880,
       "name": "Tequila Shot",
       "url": "https://open.spotify.com/track/1HCnGZn2K7cyTqp5Ma7AAm"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
+        "name": "Sarah B.",
+        "url": "https://open.spotify.com/album/3aBWGrSwqmQwcEGpCvXXLu"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Prohib\u00e9",
+      "url": "https://open.spotify.com/track/7oNYzT2f496mdWLzE4J7XK"
     },
     {
       "added_at": "2026-10-30 04:02:47",
@@ -1671,46 +1711,6 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
-        "name": "Cin\u00e9ma",
-        "url": "https://open.spotify.com/album/2lmv8sms6t9KNdpVAlL8Ot"
-      },
-      "artists": [
-        {
-          "name": "No Limit",
-          "url": "https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cin\u00e9ma",
-      "url": "https://open.spotify.com/track/59NwklVbw1kpggri6gWN9p"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
-        "name": "Sarah B.",
-        "url": "https://open.spotify.com/album/3aBWGrSwqmQwcEGpCvXXLu"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Prohib\u00e9",
-      "url": "https://open.spotify.com/track/7oNYzT2f496mdWLzE4J7XK"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
         "name": "De ma fen\u00eatre",
         "url": "https://open.spotify.com/album/1l7e95OCyOoPrxn5klPLfp"
       },
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-10-30 04:02:47",
       "album": {
+        "name": "EXTASIAAAAA",
+        "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "duration_ms": 171776,
+      "name": "L\u00c9 TAL",
+      "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
+    },
+    {
+      "added_at": "2026-10-30 04:02:47",
+      "album": {
         "name": "Les avions dessinent dans le ciel",
         "url": "https://open.spotify.com/album/7EUblqvqDOvXR5eW5HkTqh"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 183694,
       "name": "Les avions dessinent dans le ciel",
       "url": "https://open.spotify.com/track/6wZHHNWL3vGTZRNcIITQci"
-    },
-    {
-      "added_at": "2026-10-30 04:02:47",
-      "album": {
-        "name": "MTV",
-        "url": "https://open.spotify.com/album/1OFJWafyRtAw1CHGBlv4q7"
-      },
-      "artists": [
-        {
-          "name": "Moji x Sboy",
-          "url": "https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/1oW5nJWdFUchCuuIG6Tdsi"
     }
   ],
   "unique_name": "Rap francophone",

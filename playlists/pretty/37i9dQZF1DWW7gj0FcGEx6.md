@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,949 likes - 305 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,151 likes - 305 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 2 | [Time To Go Back](https://open.spotify.com/track/1M8ERYugvHiBSAm79GnzMI) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Wildwood: Original Motion Picture Soundtrack](https://open.spotify.com/album/4QEB0kfFzFgXUX8AxH39De) | 2:29 |
 | 3 | [Ayashure's Theme \(from "Rock Bottom"\)](https://open.spotify.com/track/4BwCZBss80Hpi6WrOYWeyi) | [Diego Navarro](https://open.spotify.com/artist/0p9XfFX7kgFKZ7rDC9OSKy), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Ayashure's Theme \(from "Rock Bottom"\)](https://open.spotify.com/album/6VsWDgcvPmzE4Pauah1UBz) | 3:32 |
 | 4 | [72 Hours](https://open.spotify.com/track/7dU8Vx5jpNAjhJK1D1rkIZ) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Social Reckoning \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6El985JZ5HPJHkoVCXCY2I) | 3:54 |
-| 5 | [Journey To South Wood](https://open.spotify.com/track/5Xw8jRCE1LpDEVX8u3nt2d) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Journey To South Wood](https://open.spotify.com/album/4GyEAP97wSeWFIRC1agBVs) | 1:48 |
+| 5 | [Journey to South Wood](https://open.spotify.com/track/5Xw8jRCE1LpDEVX8u3nt2d) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Journey To South Wood](https://open.spotify.com/album/4GyEAP97wSeWFIRC1agBVs) | 1:48 |
 | 6 | [Brothers United](https://open.spotify.com/track/35WO7Rp8YVVSgw6GUceDiq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [Skategoat \(Original Soundtrack\)](https://open.spotify.com/album/7qXVN6q86g2yXNLkphJVkG) | 2:36 |
 | 7 | [The Bad Guys](https://open.spotify.com/track/1rx0CFgOTRBqX8t7ZPMhTw) | [Polerik Rouvière](https://open.spotify.com/artist/0EacAdA7Yf7SDUdREVfBZb) | [Masterplan \(Original Motion Picture Score\)](https://open.spotify.com/album/3Mk1KihTh01MYvkZ0iVCeb) | 1:56 |
 | 8 | [The Celebration \(feat\. Ani Choying Drolma & Manose Singh\)](https://open.spotify.com/track/1Pmjk95BpMf6vB03UMri5T) | [Rebekka Karijord](https://open.spotify.com/artist/4oPxnYcUKmm0pH33ibXd6u), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI), [Manose Singh](https://open.spotify.com/artist/5SO7F4RayIPDIqSJozXYSc) | [Tenzing \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/1K3hgxkA6Yy9uIqejUAFwx) | 3:14 |

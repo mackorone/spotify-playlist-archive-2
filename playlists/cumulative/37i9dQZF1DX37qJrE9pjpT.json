@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 208000,
       "name": "DEWJI 2",
       "url": "https://open.spotify.com/track/1Qy19oRYbINvEwo5INDNzO"
@@ -2471,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "Lini",
+        "url": "https://open.spotify.com/album/6oaob5DR7W7hHNG3fcmWFK"
+      },
+      "artists": [
+        {
+          "name": "Carlos N",
+          "url": "https://open.spotify.com/artist/4Iy80PCUH8sz5XC42XrUBA"
+        },
+        {
+          "name": "Centano",
+          "url": "https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167131,
+      "name": "Lini",
+      "url": "https://open.spotify.com/track/6h6ILc7nsp1hQfp1dgJBs9"
+    },
+    {
+      "album": {
         "name": "Lissa 3",
         "url": "https://open.spotify.com/album/5r6vsZFp0hKCcuBYrvBKYv"
       },
@@ -2624,7 +2646,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 169926,
       "name": "Maisha",
       "url": "https://open.spotify.com/track/78wevOXTpB6fSuK9PbKHK7"
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 136082,
       "name": "MEMORIES",
       "url": "https://open.spotify.com/track/3O7vU8PNDpXC7jOZcKfRnj"
@@ -3680,7 +3702,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 199200,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4bhxxR5AYj9tVOKF8wjqex"
@@ -3702,7 +3724,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 201405,
       "name": "Nduki (feat. Dutchavelli)",
       "url": "https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk"
@@ -4046,7 +4068,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 178782,
       "name": "Okay",
       "url": "https://open.spotify.com/track/0rpoq9SHC3YSMuV8T89rMp"
@@ -4090,6 +4112,32 @@
       "duration_ms": 166117,
       "name": "ORIGHT",
       "url": "https://open.spotify.com/track/7mGUhdodjJtyTZobpLUANt"
+    },
+    {
+      "album": {
+        "name": "Oversize",
+        "url": "https://open.spotify.com/album/43WHgs6zDngcAU1w9vSv5j"
+      },
+      "artists": [
+        {
+          "name": "Were Mura",
+          "url": "https://open.spotify.com/artist/3l1Dmmuia8EssNiNcarFvP"
+        },
+        {
+          "name": "Bando MC",
+          "url": "https://open.spotify.com/artist/1Pz6XkEo1X3wsc3YxMrT2t"
+        },
+        {
+          "name": "Johmarley",
+          "url": "https://open.spotify.com/artist/1ZCdxDw1ymcutdLDAPdpHV"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148695,
+      "name": "Oversize",
+      "url": "https://open.spotify.com/track/3CKymrmhNQZ568vH31er2b"
     },
     {
       "album": {
@@ -4546,7 +4594,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 199000,
       "name": "Raha",
       "url": "https://open.spotify.com/track/3Dn4qr5Ga3gb0aPBOCZtMZ"
@@ -4830,7 +4878,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 249300,
       "name": "Sayansi",
       "url": "https://open.spotify.com/track/79jk7HytiAKQZS8T27WGPm"
@@ -5242,6 +5290,24 @@
     {
       "album": {
         "name": "Statement",
+        "url": "https://open.spotify.com/album/3z3nT9CuHvAGbIkIdTYGOX"
+      },
+      "artists": [
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141460,
+      "name": "Statement",
+      "url": "https://open.spotify.com/track/47PAlqyooCh1MIPP7gUYT1"
+    },
+    {
+      "album": {
+        "name": "Statement",
         "url": "https://open.spotify.com/album/7g4SgzEN2mhydgogaj0pwy"
       },
       "artists": [
@@ -5270,7 +5336,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 189466,
       "name": "STAY",
       "url": "https://open.spotify.com/track/6pfxZpqFY0CsY6kbqoBYuV"
@@ -5947,6 +6013,28 @@
     },
     {
       "album": {
+        "name": "Yellow Tapes",
+        "url": "https://open.spotify.com/album/522SadeGSkfWCNuISkpIXo"
+      },
+      "artists": [
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "10k Degreez",
+          "url": "https://open.spotify.com/artist/0hL9NKxYiZX01EWaLTWvDN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145752,
+      "name": "Twende Kazi",
+      "url": "https://open.spotify.com/track/5Wpa9BEWcFe2ToDR3YUix7"
+    },
+    {
+      "album": {
         "name": "Umegoma Kuzeeka",
         "url": "https://open.spotify.com/album/2icQm8tFZaZrQUiP9HsSWc"
       },
@@ -5984,6 +6072,24 @@
       "duration_ms": 177293,
       "name": "Underated",
       "url": "https://open.spotify.com/track/7bd4QDW2jxqpV9oGN27xcJ"
+    },
+    {
+      "album": {
+        "name": "Usimuudhi Mwendawazimu",
+        "url": "https://open.spotify.com/album/52skhGlYXP9edIknLJKm8F"
+      },
+      "artists": [
+        {
+          "name": "Msodoki Young Killer",
+          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225175,
+      "name": "Usimuudhi Mwendawazimu",
+      "url": "https://open.spotify.com/track/1aPvNgnPOhKCGBMY3rclMg"
     },
     {
       "album": {

@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 286581,
       "name": "Baby It's Ok",
       "url": "https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR"
@@ -22286,7 +22286,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
@@ -25178,6 +25178,28 @@
       "duration_ms": 169203,
       "name": "Lavendel",
       "url": "https://open.spotify.com/track/4UB3e19Syj6p71JmcEhZin"
+    },
+    {
+      "album": {
+        "name": "(L)ove(I)s(F)or(E)veryone",
+        "url": "https://open.spotify.com/album/6OlizAuU1NhbdlRJF6JPr0"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        },
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "lavender (feat. 1tbsp)",
+      "url": "https://open.spotify.com/track/3iY1JE5aaysnP3h1BNB9n0"
     },
     {
       "album": {
@@ -48806,7 +48828,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 236800,
       "name": "WHAT DO THEY KNOW?",
       "url": "https://open.spotify.com/track/6YcQiXL4WOETStiAp1zRjH"

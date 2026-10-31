@@ -4200,7 +4200,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 230769,
       "name": "Barabelli",
       "url": "https://open.spotify.com/track/7GgPzdY30svYA5j6mJkTrs"
@@ -14482,7 +14482,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 149626,
       "name": "Her Nerdeysen",
       "url": "https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU"
@@ -15758,7 +15758,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 264829,
       "name": "I\u015f\u0131kl\u0131 Yol",
       "url": "https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ"
@@ -17430,7 +17430,7 @@
       ],
       "date_added": "2026-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 207214,
       "name": "karambol",
       "url": "https://open.spotify.com/track/1RPWMJ5ZdVR0xGu7Wpcml7"
@@ -23769,6 +23769,24 @@
     },
     {
       "album": {
+        "name": "ELEMENTAL",
+        "url": "https://open.spotify.com/album/3M2mgZKd4gw6XazUYPnnRf"
+      },
+      "artists": [
+        {
+          "name": "AURA",
+          "url": "https://open.spotify.com/artist/3vv9Y0XUMGmPUfIj8KB7Oo"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153012,
+      "name": "PES",
+      "url": "https://open.spotify.com/track/5cu5POjyl3VqfvyjObDW8v"
+    },
+    {
+      "album": {
         "name": "PES",
         "url": "https://open.spotify.com/album/25CWJzdUW8Wys9Nsaxm0f6"
       },
@@ -26794,7 +26812,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 172900,
       "name": "SEVMEY\u0130 DENEMED\u0130N",
       "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"

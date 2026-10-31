@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: White 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,900 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,907 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 46 | [RANY CAŁY CZAS NAS GONIĄ](https://open.spotify.com/track/752VI3Aervly2F4Vb5Lew3) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [RANY CAŁY CZAS NAS GONIĄ](https://open.spotify.com/album/5gBWPGQ1O6QH1MQE1ECPFN) | 2:46 |
 | 47 | [TO COŚ](https://open.spotify.com/track/1taAzCQwQrChFXMmpbQ4rN) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Palar](https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt), [VVSimon](https://open.spotify.com/artist/4qKXfc0gl62ImELchh15HY), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [CALIFORNIA LOVE EP](https://open.spotify.com/album/2Mk6yP0Xpv0R4Ej9Pi89zd) | 3:00 |
 | 48 | [NAJWIĘKSZA RANA](https://open.spotify.com/track/6WzpBUrOVOvq6UtbcTTqCA) | [spazma](https://open.spotify.com/artist/6bmmtf7rBNZvwxMOlmomN7), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [NAJWIĘKSZA RANA](https://open.spotify.com/album/38trbeSdqzwOzZN5cFCRel) | 1:55 |
-| 49 | [Bandyckie Marki](https://open.spotify.com/track/1ytYGO3zVqYQiStIfeZyff) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [Bandyckie Marki](https://open.spotify.com/album/2eHKWNOHdHUYqgaynygj79) | 1:57 |
+| 49 | [Mini Man](https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Champion](https://open.spotify.com/artist/0emslMBqEZSCRupMRVzyPe) | [Zwolnij?](https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y) | 2:28 |
+| 50 | [Bandyckie Marki](https://open.spotify.com/track/1ytYGO3zVqYQiStIfeZyff) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [Bandyckie Marki](https://open.spotify.com/album/2eHKWNOHdHUYqgaynygj79) | 1:57 |
 
-Snapshot ID: `AAAAAKkTMJOzVyLrx1xifqTFhMe2ap3e`
+Snapshot ID: `AAAAAE2UMZCf5ulNKxZJjPmprxTUXH1L`

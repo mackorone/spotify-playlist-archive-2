@@ -1,12 +1,12 @@
 {
   "description": "Recent hits and new songs from your fave artists. Cover: John Mayer",
-  "num_followers": 956105,
+  "num_followers": 956155,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANyKleoO21Wxw9vz3rEQXMe7J7vp",
+  "snapshot_id": "AAAAAN9c2S2VWuuiQHyLxqFneFxfbw1M",
   "tracks": [
     {
       "added_at": "2026-10-23 04:12:14",
@@ -41,20 +41,56 @@
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
-      "added_at": "2026-10-23 04:12:14",
+      "added_at": "2026-08-07 05:26:06",
       "album": {
-        "name": "Nothing Good is Easy",
-        "url": "https://open.spotify.com/album/7Lu6YydPC7ZKeah9k5ANeQ"
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
       },
       "artists": [
         {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 244424,
-      "name": "Nothing Good is Easy",
-      "url": "https://open.spotify.com/track/0Q5spcR38mMOuWUIEofauq"
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "added_at": "2026-07-24 04:02:42",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "added_at": "2026-10-30 04:26:58",
+      "album": {
+        "name": "My Guy (with Jacob Lusk)",
+        "url": "https://open.spotify.com/album/6DqkILIFo3b3ysqBWoYLZt"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "duration_ms": 240203,
+      "name": "My Guy (with Jacob Lusk)",
+      "url": "https://open.spotify.com/track/7foNDytOErUly5pbxUgN88"
     },
     {
       "added_at": "2026-10-16 04:01:43",
@@ -77,6 +113,22 @@
       "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
     },
     {
+      "added_at": "2026-10-23 04:12:14",
+      "album": {
+        "name": "Nothing Good is Easy",
+        "url": "https://open.spotify.com/album/7Lu6YydPC7ZKeah9k5ANeQ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 244424,
+      "name": "Nothing Good is Easy",
+      "url": "https://open.spotify.com/track/0Q5spcR38mMOuWUIEofauq"
+    },
+    {
       "added_at": "2026-10-02 04:00:57",
       "album": {
         "name": "Midnight Crisis",
@@ -95,22 +147,6 @@
     {
       "added_at": "2026-10-23 04:12:14",
       "album": {
-        "name": "True Violet",
-        "url": "https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 229025,
-      "name": "Up and Down a Mountain",
-      "url": "https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K"
-    },
-    {
-      "added_at": "2026-10-23 04:12:14",
-      "album": {
         "name": "Waiting for love",
         "url": "https://open.spotify.com/album/5uXan79uluUOJ3PmTfnuqr"
       },
@@ -123,6 +159,38 @@
       "duration_ms": 138000,
       "name": "Waiting for love",
       "url": "https://open.spotify.com/track/7Bd9L0NkPH6nJwhnNvq07X"
+    },
+    {
+      "added_at": "2026-10-30 04:26:58",
+      "album": {
+        "name": "GF",
+        "url": "https://open.spotify.com/album/2xERYqyH3lXMEQhDWzEUBu"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "duration_ms": 196092,
+      "name": "GF",
+      "url": "https://open.spotify.com/track/0dtFevDp9cX3tI3cttbHCQ"
+    },
+    {
+      "added_at": "2026-10-23 04:12:14",
+      "album": {
+        "name": "True Violet",
+        "url": "https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 229025,
+      "name": "Up and Down a Mountain",
+      "url": "https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K"
     },
     {
       "added_at": "2026-10-16 04:01:43",
@@ -189,38 +257,6 @@
       "url": "https://open.spotify.com/track/14xLURVIYerktg87WlGdwC"
     },
     {
-      "added_at": "2026-10-30 04:00:53",
-      "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/2e5kH92PPkO8xnAnXX4PU6"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 175125,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/14KGUFscWsUeUNC1haqOji"
-    },
-    {
-      "added_at": "2026-09-18 04:00:21",
-      "album": {
-        "name": "Perfect Man",
-        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 213690,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
-    },
-    {
       "added_at": "2026-09-18 04:00:21",
       "album": {
         "name": "Last Thing You Need (from GTAVI: The Album)",
@@ -241,6 +277,54 @@
       "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
     },
     {
+      "added_at": "2026-10-30 04:00:53",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2e5kH92PPkO8xnAnXX4PU6"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 175125,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/14KGUFscWsUeUNC1haqOji"
+    },
+    {
+      "added_at": "2026-08-07 05:26:06",
+      "album": {
+        "name": "UNETHICAL",
+        "url": "https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 219864,
+      "name": "UNETHICAL",
+      "url": "https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs"
+    },
+    {
+      "added_at": "2026-09-18 04:00:21",
+      "album": {
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
+    },
+    {
       "added_at": "2026-10-02 04:00:57",
       "album": {
         "name": "Too Cute To Be Lonely",
@@ -255,6 +339,22 @@
       "duration_ms": 196509,
       "name": "Too Cute To Be Lonely",
       "url": "https://open.spotify.com/track/5iZbOxJZ2Rmo2ECMXRHU9a"
+    },
+    {
+      "added_at": "2026-10-30 04:26:58",
+      "album": {
+        "name": "The Hope That Kills Me",
+        "url": "https://open.spotify.com/album/2zp1vr7BgZ7dIc1deKodmt"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "The Hope That Kills Me",
+      "url": "https://open.spotify.com/track/7lf9B6heWvYJ8Odgnki8uS"
     },
     {
       "added_at": "2026-10-23 04:12:14",
@@ -307,22 +407,6 @@
       "duration_ms": 199363,
       "name": "Wrapped in Gold",
       "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
-    },
-    {
-      "added_at": "2026-08-07 05:26:06",
-      "album": {
-        "name": "UNETHICAL",
-        "url": "https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 219864,
-      "name": "UNETHICAL",
-      "url": "https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs"
     },
     {
       "added_at": "2026-10-09 04:00:53",
@@ -769,22 +853,6 @@
       "url": "https://open.spotify.com/track/0SU3cUJRXi7RbWoVPC5kD6"
     },
     {
-      "added_at": "2026-08-07 05:26:06",
-      "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
-    },
-    {
       "added_at": "2026-09-25 04:03:24",
       "album": {
         "name": "Chakzilla",
@@ -1057,22 +1125,6 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-07-24 04:02:42",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "Great Expectation",
-      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
-    },
-    {
       "added_at": "2026-05-22 05:03:16",
       "album": {
         "name": "Self Aware",
@@ -1105,22 +1157,6 @@
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
-      "added_at": "2026-09-04 04:02:27",
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 212547,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO"
-    },
-    {
       "added_at": "2026-06-05 04:01:09",
       "album": {
         "name": "Cowgirl",
@@ -1137,22 +1173,6 @@
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 223332,
-      "name": "Mexico Honey",
-      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
-    },
-    {
       "added_at": "2026-08-21 04:02:41",
       "album": {
         "name": "Take Me Back (Leave Me There)",
@@ -1167,22 +1187,6 @@
       "duration_ms": 178573,
       "name": "Take Me Back (Leave Me There)",
       "url": "https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch"
-    },
-    {
-      "added_at": "2026-08-21 04:02:41",
-      "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 291530,
-      "name": "Constant Companion",
-      "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
     },
     {
       "added_at": "2026-09-04 04:02:27",

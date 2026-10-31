@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,923 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,920 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [DNA \- Ian Asher Remix](https://open.spotify.com/track/0D09VKIBmznknpXTXPTKrY) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [DNA \(Ian Asher Remix\)](https://open.spotify.com/album/3XBR6QZ7qKnRAPaVsE8dTH) | 2:35 |
 | 100 | [Paraiso](https://open.spotify.com/track/4AdM5EcWPehGPXivufXQj7) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Paraiso](https://open.spotify.com/album/5VdRN37AB08PPnwgGQYXRf) | 2:27 |
 
-Snapshot ID: `AAAAAEdOraGcFJQFSkYy1xkhj0nF7UyC`
+Snapshot ID: `AAAAAO9sezKXdo8f542PHgHTpqx5GzCs`

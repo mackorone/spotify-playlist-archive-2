@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Dominic Fike, Nickelback, Gracie Abrams, BigXthaPlug, Jahson Paynter, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,171 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,542 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 32 | [Pick Me Up](https://open.spotify.com/track/7Ef9RMLEm51Xs0c66RgyXM) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Pick Me Up](https://open.spotify.com/album/1ML1zb321tUWtD3aS94Pcc) | 2:58 |
 | 33 | [Ecstasy](https://open.spotify.com/track/7Iqys1mK1XLP0ZhA7Wkwww) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [No One Alive Will Listen](https://open.spotify.com/album/3hOjvcK309s7PK0hfdPabx) | 4:42 |
 | 34 | [Reckless Attitude](https://open.spotify.com/track/44Z18Nfxz3C3Pc8ConXFss) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [Reckless Attitude](https://open.spotify.com/album/6DjsqpQ34YdWYOsYNYlLCS) | 4:00 |
-| 35 | [What A Life](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [What A Life](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 |
+| 35 | [WHAT A LIFE](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WHAT A LIFE](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 |
 | 36 | [Marie Céleste](https://open.spotify.com/track/2bER5iE2bOppib04Nmd49x) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1) | [Marie Céleste](https://open.spotify.com/album/46rS6BCpOhczqDDZ7dIOZh) | 4:08 |
 | 37 | [Brokie](https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Brokie](https://open.spotify.com/album/4TpAHIAKmLrbn66UOmvu4c) | 2:14 |
 | 38 | [Dramey](https://open.spotify.com/track/2TK15VflIBwnwH6pltYwpM) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Dramey](https://open.spotify.com/album/3Mf5hG8n8DQLAXGCDp7L4e) | 2:24 |

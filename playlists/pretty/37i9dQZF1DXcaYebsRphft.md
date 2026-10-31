@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『BOYNEXTDOOR TOUR 'KNOCK ON Vol.2' IN JAPAN』のセットリストをスペシャルメッセージとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,642 likes - 28 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,629 likes - 28 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

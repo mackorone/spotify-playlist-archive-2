@@ -1,12 +1,12 @@
 {
   "description": "New Music from Phyno, Omah Lay, Davido, Sarkodoie, M.anifest, Sewa and more ",
-  "num_followers": 226078,
+  "num_followers": 226889,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPzmz9RtwRyQVtxxVIcVQQnyKLWo",
+  "snapshot_id": "AAAAAAjMJdYdkY9Zm1iZT2ZYo5Lzg3gS",
   "tracks": [
     {
       "added_at": "2026-10-30 00:01:18",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/37hUGd9DPyMkKrH9LC5ei0"
     },
     {
+      "added_at": "2026-10-30 11:53:05",
+      "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "African Baddie",
+      "url": "https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG"
+    },
+    {
       "added_at": "2026-10-30 00:01:18",
       "album": {
         "name": "I Wan Knvck",
@@ -416,7 +432,7 @@
           "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
         }
       ],
-      "duration_ms": 172850,
+      "duration_ms": 163200,
       "name": "Gold & Silver",
       "url": "https://open.spotify.com/track/48rD9ua533zOUAGinZklyO"
     },
@@ -803,7 +819,7 @@
     {
       "added_at": "2026-10-30 00:01:18",
       "album": {
-        "name": "Alhamdulilah",
+        "name": "Alhamdulillah",
         "url": "https://open.spotify.com/album/1bTp8MhhmKqwPkOzGCjDp6"
       },
       "artists": [
@@ -813,7 +829,7 @@
         }
       ],
       "duration_ms": 148000,
-      "name": "Alhamdulilah",
+      "name": "Alhamdulillah",
       "url": "https://open.spotify.com/track/4u1ccfH8aFxt5hMFLQezSK"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 
 > Get festive with this selection of videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,627 likes - 72 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,634 likes - 72 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

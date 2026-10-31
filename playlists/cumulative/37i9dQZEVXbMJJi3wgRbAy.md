@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,490 songs - 3 day 7 hr 53 min
+1,491 songs - 3 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [N.C.L.C](https://open.spotify.com/track/5PtzdNNJuu0PVtbNg18MF3) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:26 | 2023-06-24 | 2023-06-26 |
 | [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 | 2022-07-09 | 2022-09-15 |
 | [Nadie Dijo \- Remix](https://open.spotify.com/track/16zPOaEXzmKVAQ8bPPebtZ) | [Ariann Music](https://open.spotify.com/artist/11FSIXdc7G5imj7GMxIJd3), [Juli Obregon](https://open.spotify.com/artist/7iHca5RSetSirlL3e44eKn) | [Nadie Dijo \(Remix\)](https://open.spotify.com/album/0dL6gycR630upMdWrFoYHm) | 2:40 | 2025-06-04 | 2025-06-06 |
+| [Nadie Esta Hablando De Amar](https://open.spotify.com/track/1nQRoMDJBlSokeU8NKiNvY) | [Jesp7Tearz](https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi) | [Nadie Esta Hablando De Amar](https://open.spotify.com/album/7rEgS4NymjvYcfsqAGLeh0) | 3:09 | 2026-10-30 |  |
 | [NADIE SABE](https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 6:19 | 2023-10-14 | 2023-10-17 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-04-21 |
 | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Nathy Peluso: Bzrp Music Sessions, Vol\. 36](https://open.spotify.com/album/3aZthZKHMbbleXcilISjha) | 2:51 | 2021-03-27\* | 2021-04-24 |
@@ -1122,7 +1123,7 @@
 | [Salando las Heridas](https://open.spotify.com/track/5PxWz8PnJbnLbMHA6VO9FS) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 5:02 | 2026-06-06 | 2026-06-09 |
 | [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 | 2023-07-15 | 2024-04-03 |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2021-10-23 | 2022-06-15 |
-| [Salimo del Tarro \- Versión Plena](https://open.spotify.com/track/7qjhzCIOFHAF0m2HxW7Tnu) | [Juanjo Morgade](https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Salimo del Tarro \(Versión Plena\)](https://open.spotify.com/album/7tIaPaMjui02FwRKL5kQrx) | 2:19 | 2026-10-11 |  |
+| [Salimo del Tarro \- Versión Plena](https://open.spotify.com/track/7qjhzCIOFHAF0m2HxW7Tnu) | [Juanjo Morgade](https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Salimo del Tarro \(Versión Plena\)](https://open.spotify.com/album/7tIaPaMjui02FwRKL5kQrx) | 2:19 | 2026-10-11 | 2026-10-31 |
 | [Salimo en Caravana](https://open.spotify.com/track/7aPZrVHFSZrcWakHCNn9Fx) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Salimo en Caravana](https://open.spotify.com/album/3mPvZKCGcj2QVzVARmZUEz) | 3:01 | 2022-02-10 | 2022-04-10 |
 | [Salí a Robarte Corazones](https://open.spotify.com/track/1bPLxk9QsQqczKkJZJ7Inj) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Salí a Robarte Corazones](https://open.spotify.com/album/7tGolNAewn8Gt1XM1wcYRX) | 2:28 | 2026-05-01 | 2026-05-03 |
 | [SAN TURRONA](https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [SAN TURRONA](https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd) | 2:04 | 2024-06-08 | 2024-09-13 |

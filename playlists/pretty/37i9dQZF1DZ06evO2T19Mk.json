@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 603374,
+  "num_followers": 603407,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAD/WLjxtbsS79K2lHkfcV0M",
+  "snapshot_id": "auE7AAAAAAAJILb+tqfhM3kDe49ZoNTO",
   "tracks": [
     {
       "added_at": null,
@@ -663,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "name": "Believers Never Die - Greatest Hits",
+        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 204506,
-      "name": "Young Volcanoes",
-      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
+      "duration_ms": 229400,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
     },
     {
       "added_at": null,
@@ -695,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believers Never Die - Greatest Hits",
-        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
+      "duration_ms": 204506,
+      "name": "Young Volcanoes",
+      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
     },
     {
       "added_at": null,

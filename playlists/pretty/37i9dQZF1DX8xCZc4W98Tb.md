@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xCZc4W98Tb.md) - [plain]
 
 > Witches, spells, and plenty of trouble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

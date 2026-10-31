@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242281,
+  "num_followers": 242277,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO"
       },
       "artists": [
         {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
         },
         {
-          "name": "Rue More",
-          "url": "https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa"
+          "name": "jewels",
+          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf"
+      "duration_ms": 192122,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -655,26 +659,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU"
       },
       "artists": [
         {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
         },
         {
-          "name": "jewels",
-          "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "Rue More",
+          "url": "https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa"
         }
       ],
-      "duration_ms": 192122,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
+      "duration_ms": 197000,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -715,6 +715,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        },
+        {
+          "name": "Steand",
+          "url": "https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Reminders",
         "url": "https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 256052,
       "name": "New Love",
       "url": "https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        },
-        {
-          "name": "Steand",
-          "url": "https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq"
     },
     {
       "added_at": "2024-08-01 10:59:15",

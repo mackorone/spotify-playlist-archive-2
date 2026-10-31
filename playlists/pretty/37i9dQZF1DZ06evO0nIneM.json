@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 96168,
+  "num_followers": 96172,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAACF6PZuD+YVHvmG1gG5egjY",
+  "snapshot_id": "auE7AAAAAAA2Ro9N8zRkfP9iS7ihpV+S",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 219546,
+      "name": "Zoutelande",
+      "url": "https://open.spotify.com/track/6aAJY5FYW0TMLsUe2T7x4p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naakt Onder De Hemel",
         "url": "https://open.spotify.com/album/01QYbTcPYUIw0kNkFRcWiq"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aan",
-        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 219546,
-      "name": "Zoutelande",
-      "url": "https://open.spotify.com/track/6aAJY5FYW0TMLsUe2T7x4p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zo Stil",
         "url": "https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss"
       },
@@ -183,6 +183,26 @@
       "duration_ms": 240030,
       "name": "Zo Stil",
       "url": "https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Zoutelande (feat. Geike)",
+      "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
     },
     {
       "added_at": null,
@@ -219,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aan",
-        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Zoutelande (feat. Geike)",
-      "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
         "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Helder (inclusief Live Bonus Tracks)",
-        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Liefs Uit Londen",
-      "url": "https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watermakers",
         "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 248400,
       "name": "Hier",
       "url": "https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Helder (inclusief Live Bonus Tracks)",
+        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Liefs Uit Londen",
+      "url": "https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radio Berlijn",
         "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 277053,
       "name": "Meer Kan Het Niet Zijn",
       "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Grasbroek Sessies",
+        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Vroeg of Laat",
+      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We doen wat we kunnen (feat. Geike)",
         "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 240562,
       "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
       "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Grasbroek Sessies",
-        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Vroeg of Laat",
-      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Su Presencia
 
-4,385 songs - 13 day 16 hr 3 min
+4,387 songs - 13 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Bad Boy](https://open.spotify.com/track/7Bh6rKIcf6EzRPRQMoySlS) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Bad Boy](https://open.spotify.com/album/5R2JWlDgS00ohMpzVjO6iG) | 2:18 | 2023-05-12 | 2023-07-08 |
 | [Baila](https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [JonCarlos + Gabriella](https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47) | [Baila](https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB) | 3:29 | 2025-09-05 | 2025-10-04 |
 | [Bailando](https://open.spotify.com/track/3UjG1O5avEgsYVAMXSBeg5) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Bailando](https://open.spotify.com/album/6BhuGOZh7HucgeEhZTECJc) | 2:59 | 2025-08-22 | 2025-09-27 |
+| [Bailar](https://open.spotify.com/track/5kyxhs1o58zZhV8lNCeABT) | [Itala & Juanjo](https://open.spotify.com/artist/3sSYhB0dqTSQoe76KnAgvK), [Itala Rodriguez](https://open.spotify.com/artist/75e1ThT3wnK7zWhUi7vY3w), [Riosquad](https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS) | [Bailar](https://open.spotify.com/album/4CHZ3dBUl0xfzzAE9RjiUs) | 3:36 | 2026-10-30 |  |
 | [Bailo Contigo](https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Bailo Contigo](https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc) | 3:03 | 2026-02-06 | 2026-03-28 |
 | [Bailo en la Tormenta](https://open.spotify.com/track/11fZ6wQBF1QUAWiVCJZwsr) | [ZION Worship](https://open.spotify.com/artist/3LIYdNdwb8xwXySayIWYng) | [Bailo en la Tormenta](https://open.spotify.com/album/1nheH5kN0hLEFxfBOxZykC) | 4:32 | 2024-09-06 | 2024-10-05 |
 | [Bajo El Agua](https://open.spotify.com/track/4zEL9LHCQNPmDTc3dsOume) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Lo Que Vemos](https://open.spotify.com/album/0wkdE2eKcK4MBcfiphlEmC) | 4:34 | 2023-04-21 | 2023-06-03 |
@@ -4371,6 +4372,7 @@
 | [Ágape, Te Amo](https://open.spotify.com/track/3loVeAdDfWNZCuzUwiF5DE) | [S1 AFTER](https://open.spotify.com/artist/6Z9dBS0QmfD5fep8lh17VF), [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL), [Dahiana Lizcano](https://open.spotify.com/artist/4Qe3kleCswQSoSijkoL0qu) | [Ágape, Te Amo](https://open.spotify.com/album/0zFkR2TfttpPmzBj2oZCCS) | 4:13 | 2026-07-10 | 2026-08-29 |
 | [Ágape, Te Amo / Cuan Grande Eres Dios \- Acústico](https://open.spotify.com/track/05l5ed9IGO5rsEQ43KwbY7) | [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [S1 AFTER](https://open.spotify.com/artist/6Z9dBS0QmfD5fep8lh17VF), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Momentos II \(Acústico\)](https://open.spotify.com/album/07X6QqngX8bXhIrDV52GrL) | 8:44 | 2026-10-23 |  |
 | [Ámame](https://open.spotify.com/track/35O30nJ6vyta9Om439zm5Q) | [Pablo Sanz](https://open.spotify.com/artist/0pA7tWRsJ4Vz1iBXjfwzC0) | [Ámame](https://open.spotify.com/album/4XsAbZfKBuTgCOP9IEGNH4) | 2:09 | 2024-01-12 | 2024-02-17 |
+| [Ángeles](https://open.spotify.com/track/0tmoV8hxfFG5km4W1F0pFB) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Ángeles](https://open.spotify.com/album/0Bah8J8SR2otwDcQOMlMfM) | 4:24 | 2026-10-30 |  |
 | [Él es a quien Alabo](https://open.spotify.com/track/6f9P6kdBAN0X2kw8pOmQs1) | [Samuel Arroyave](https://open.spotify.com/artist/525KpcmXJz3NFfm6tXS7Cp) | [Él es a quien Alabo](https://open.spotify.com/album/5eDcsz60eyBWHjOrBc1GH2) | 3:47 | 2025-05-09 | 2025-06-07 |
 | [Él Es Digno](https://open.spotify.com/track/28Kkx3DxBcPECvfuUgDExB) | [Eric Bustamante](https://open.spotify.com/artist/18l3k6ykopWuzk0Z3yrhyW), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb), [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Miqueas Veliz](https://open.spotify.com/artist/1pmmvtm6vsENbkPlDHw1tD), [Evangelina Crubinca](https://open.spotify.com/artist/7aquXEXSrOvSZyWkOln2hi) | [Él Es Digno](https://open.spotify.com/album/2JjUHkJkg3x76fIwiHui3c) | 8:29 | 2025-11-21 | 2026-01-17 |
 | [Él Es Grande](https://open.spotify.com/track/5TGuNIcbnaLPtoH6S7gNNG) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Él Es Grande](https://open.spotify.com/album/2cL82bBlEbgmiP36xli5cJ) | 4:42 | 2022-05-13 | 2022-07-02 |

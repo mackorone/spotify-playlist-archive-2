@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,615 likes - 34 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,616 likes - 34 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,17 +30,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 20 | [Don't Go Away](https://open.spotify.com/track/2kuEjhcmLdBcUt8Ph4junl) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:32 |
 | 21 | [Blackmail](https://open.spotify.com/track/4OQSUXmadIEnu1zH0uKgiI) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:40 |
 | 22 | [Heart Beat](https://open.spotify.com/track/2FyotyCTPhkPPUyIFUVkMR) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 2:51 |
-| 23 | [I'm A Million](https://open.spotify.com/track/0paf4ryjjdklDseuFJOePy) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 5:59 |
+| 23 | [Is It Day Or Night \- Live](https://open.spotify.com/track/5Qrdg3udLE1r1lofzlIl63) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 2:35 |
 | 24 | [Trash Can Murders](https://open.spotify.com/track/4MZyqgbeAf9VdWdyak146s) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:16 |
-| 25 | [Is It Day Or Night \- Live](https://open.spotify.com/track/5Qrdg3udLE1r1lofzlIl63) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 2:35 |
+| 25 | [I'm A Million](https://open.spotify.com/track/0paf4ryjjdklDseuFJOePy) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 5:59 |
 | 26 | [All Right You Guys \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/2nRrFBDAMsB2SMrV55NsU1) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 3:30 |
-| 27 | [Black Leather](https://open.spotify.com/track/2tLjF7R9BBYoWS9AkWfpEG) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:49 |
+| 27 | [Don't Abuse Me \- Live](https://open.spotify.com/track/62aAPkyyAoI5muhig0aLD4) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 3:29 |
 | 28 | [Kangaroo Hop](https://open.spotify.com/track/4RWXHU8nmgF31B4ftLrIUA) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Explosive Doowops, Vol\. 6](https://open.spotify.com/album/1eV51QEW7s52YzPROjTQV1) | 2:20 |
-| 29 | [Don't Abuse Me \- Live](https://open.spotify.com/track/62aAPkyyAoI5muhig0aLD4) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 3:29 |
+| 29 | [Black Leather](https://open.spotify.com/track/2tLjF7R9BBYoWS9AkWfpEG) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:49 |
 | 30 | [Wild Thing \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/0QLh8gGYP4t7RXOEl1REmA) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 3:47 |
-| 31 | [Little Lost Girls](https://open.spotify.com/track/5voJquNkFnFPNW1WQWmp3I) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 4:43 |
+| 31 | [Rock And Roll \- Live](https://open.spotify.com/track/7ceetu1BbvkNuVasWaJNpv) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 4:09 |
 | 32 | [Pure Funk](https://open.spotify.com/track/2m0LZUGCCTmy3WrgCr5EZl) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Straight out the Cat Litter Scoop 3](https://open.spotify.com/album/1XST4WnW47QUyDN53KQ83V) | 5:14 |
-| 33 | [Rock And Roll \- Live](https://open.spotify.com/track/7ceetu1BbvkNuVasWaJNpv) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 4:09 |
+| 33 | [Little Lost Girls](https://open.spotify.com/track/5voJquNkFnFPNW1WQWmp3I) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 4:43 |
 | 34 | [C' Mon \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/4wCRQHZSGTfQ1evOYpaxGT) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 4:13 |
 
-Snapshot ID: `at/pgAAAAAA7yJgnXHC4+In9PQOyJGqM`
+Snapshot ID: `auE7AAAAAACdw+6hznNqS+dDOp1gRsr/`

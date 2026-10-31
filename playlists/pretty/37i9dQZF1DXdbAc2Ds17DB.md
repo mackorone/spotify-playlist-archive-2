@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 
 > Get ready for JANNABI's upcoming concert \[Sweat & Stardust\] by listening to the band's best songs! \(잔나비 베스트곡과 함께 다가오는 \[스웨트 앤 스타더스트\] 서울 공연을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,147 likes - 27 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,156 likes - 27 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

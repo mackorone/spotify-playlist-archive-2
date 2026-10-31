@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > Spotify teams up with Good Housekeeping for 14 ideal songs to test your headphones with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,653 likes - 14 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,562 likes - 14 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

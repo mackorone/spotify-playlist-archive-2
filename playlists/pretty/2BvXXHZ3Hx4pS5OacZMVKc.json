@@ -1,12 +1,12 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 130008,
+  "num_followers": 130007,
   "original_name": "Gaming Music 2026",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAMvKHvt4VSda8v/DDVnn2m9btWYCUX",
+  "snapshot_id": "AAAMviqYJzeDt69sYewg71TfCHCSn2jW",
   "tracks": [
     {
       "added_at": "2026-10-02 09:09:31",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/7ccJWOfAs6R4XlaVzOUv5o"
     },
     {
+      "added_at": "2026-10-30 08:57:16",
+      "album": {
+        "name": "wherever you go",
+        "url": "https://open.spotify.com/album/0jsVD9LAg0oRbZuALxxlzu"
+      },
+      "artists": [
+        {
+          "name": "vinter",
+          "url": "https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "wherever you go",
+      "url": "https://open.spotify.com/track/4B87cZBMZrorUlAdDWohcL"
+    },
+    {
       "added_at": "2026-08-26 09:27:47",
       "album": {
         "name": "Heaven & Hell",
@@ -143,6 +159,22 @@
       "duration_ms": 248444,
       "name": "Heaven & Hell",
       "url": "https://open.spotify.com/track/12mUiAGnkttkpoqRrZvjtF"
+    },
+    {
+      "added_at": "2026-10-30 08:53:25",
+      "album": {
+        "name": "Crawlspace",
+        "url": "https://open.spotify.com/album/00fePA8kIiMjhwBEJnvyLj"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "duration_ms": 171638,
+      "name": "Crawlspace",
+      "url": "https://open.spotify.com/track/7e6VMJpc2g9Olxd2T7dn1J"
     },
     {
       "added_at": "2026-10-27 10:10:44",

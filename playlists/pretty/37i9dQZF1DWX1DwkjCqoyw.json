@@ -1,6 +1,6 @@
 {
   "description": "Inspired by the islands and into the mainstream. Cover: Destin Conrad",
-  "num_followers": 644192,
+  "num_followers": 644162,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-07-02 23:00:30",
       "album": {
-        "name": "Is This Love",
-        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 136318,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
-    },
-    {
-      "added_at": "2026-07-02 23:00:30",
-      "album": {
         "name": "Reggae Gold 2018: 25th Anniversary",
         "url": "https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 220964,
       "name": "Stay So",
       "url": "https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf"
+    },
+    {
+      "added_at": "2026-07-02 23:00:30",
+      "album": {
+        "name": "Is This Love",
+        "url": "https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 136318,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF"
     },
     {
       "added_at": "2026-07-02 23:00:30",

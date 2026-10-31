@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: aiko
 
-3,927 songs - 10 day 9 hr 46 min
+3,928 songs - 10 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Burnt Tears The Moon and the Lighter](https://open.spotify.com/track/4KPdyIkmecjgMZ44HvnUsz) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [cinema/capsule](https://open.spotify.com/album/0Unpmr6dQdf37fCosnuc1L) | 5:01 | 2025-04-29 | 2025-05-07 |
 | [Busy Girl](https://open.spotify.com/track/41R3Iqb3sRFka9OJNQ9pEr) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Busy Girl](https://open.spotify.com/album/2BCqLRGBjBvDu41pHHfyEe) | 2:30 | 2025-07-22 | 2025-08-06 |
 | [Butohkai](https://open.spotify.com/track/2YPyHDyTlMGFDAfGANRBrt) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Butohkai](https://open.spotify.com/album/4fQ3PorkC0d1xWdSrf4tCh) | 4:34 | 2024-03-05 | 2024-03-27 |
+| [Butter](https://open.spotify.com/track/4oDkcyR28qZS9pfU5BxdtX) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [Butter](https://open.spotify.com/album/5VW7VeqLHjtz6lH9mMlD2l) | 2:58 | 2026-10-20 |  |
 | [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 | 2025-05-29 |
 | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/track/0GTeyD3fKkDzy81I3u32yl) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/album/2ajTXT9fYCCBGIsAQnP6H0) | 4:34 | 2023-01-24 | 2023-01-26 |
 | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/track/3kxwqpINAbuqo2jlW0MwYs) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [Butterfly \- From THE FIRST TAKE](https://open.spotify.com/album/0Xy27LJYDsqky0xkGXeeUt) | 4:34 | 2023-01-24 | 2023-02-08 |
@@ -402,7 +403,7 @@
 | [Closed](https://open.spotify.com/track/3EE8sYt2cSZs0T5tdjNwlR) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [ming](https://open.spotify.com/artist/3nfUx7nk0cGeeV1LLPGEVt) | [Closed](https://open.spotify.com/album/4c1UclJW01bdgnkh7TvVGC) | 2:57 | 2025-09-16 | 2025-09-24 |
 | [cloud](https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x) | [hyou](https://open.spotify.com/artist/5MKWIRBAlanbDXXUTGaCRT) | [cloud](https://open.spotify.com/album/3MPWlGx8FPXB14cugsvrFA) | 3:52 | 2022-07-19 | 2022-07-27 |
 | [Cloudy's just right](https://open.spotify.com/track/14zuiKpK4DOr9Fkjf5FpQq) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [Cloudy's just right](https://open.spotify.com/album/0PjxFB0gTY9p7xqxAsOrhS) | 3:40 | 2023-08-15 | 2023-08-23 |
-| [Clover](https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [Clover](https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2) | 2:56 | 2026-07-21 |  |
+| [Clover](https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [Clover](https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2) | 2:56 | 2026-07-21 | 2026-10-31 |
 | [CLUTCH!](https://open.spotify.com/track/5Z2PJNkWiQMvThOwVmEKBQ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [CLUTCH!](https://open.spotify.com/album/4bU30og2JBEC25bxIjy6WJ) | 3:28 | 2026-06-09 | 2026-08-07 |
 | [COCOON](https://open.spotify.com/track/0zfTJreY2lVJ98Dv3KDXUc) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [COCOON](https://open.spotify.com/album/13a3coid2lL3Ke2C3DsjX2) | 3:41 | 2026-07-14 | 2026-09-09 |
 | [Collection](https://open.spotify.com/track/2FJKEYDWEw1lRxOCUmUQgN) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Collection](https://open.spotify.com/album/1yUmyUBohq1WxkMb3yfkaG) | 4:42 | 2024-11-05 | 2024-11-13 |
@@ -850,7 +851,7 @@
 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-01-23 | 2024-03-13 |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-02-23 | 2023-05-24 |
 | [hunch\_A](https://open.spotify.com/track/7ci4GaBkmUd33D2JR7AhdT) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [hunch\_A](https://open.spotify.com/album/0DpmjX5wqSs3MHthH7ok7T) | 2:42 | 2022-06-07 | 2022-07-26 |
-| [Hurricane](https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Hurricane](https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej) | 3:25 | 2026-08-04 | 2026-10-30 |
+| [Hurricane](https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Hurricane](https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej) | 3:25 | 2026-08-04 |  |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2022-09-13 | 2023-02-01 |
 | [Hurt to heal](https://open.spotify.com/track/0KGRcpEEwnuJP99OmJV7XF) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb) | [Hurt to heal](https://open.spotify.com/album/2RaRTHKMsHmmbZEdOAC101) | 3:26 | 2023-06-22 | 2023-06-28 |
 | [HUSH\-HUSH](https://open.spotify.com/track/03mTAqRHHalhuMBbYADwUM) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [HUSH\-HUSH](https://open.spotify.com/album/1ophSwGVohLkMzHr4v7QF4) | 2:39 | 2022-12-06 | 2022-12-14 |
@@ -2039,7 +2040,7 @@
 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 | 2023-05-23 | 2023-05-31 |
 | [Tsuyoku Hakanai Mono Tachi](https://open.spotify.com/track/1onuj5J1hTrnjBLdavrEOu) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Tsuyoku Hakanai Mono Tachi](https://open.spotify.com/album/1NQRPfiX1L1U65Ixf85cCY) | 4:21 | 2025-03-18 | 2025-04-02 |
 | [Tsuzuite\-ikuyo](https://open.spotify.com/track/5HhjMw3X6wxVh9lcpRzMrN) | [JONAGOLD](https://open.spotify.com/artist/4TqO6bEnbP7FEi2dJEaU2F) | [Tsuzuite\-ikuyo](https://open.spotify.com/album/4cV8O4YKCciuQqVmwE4XuT) | 3:34 | 2024-01-16 | 2024-01-24 |
-| [TTTTOKYO](https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:37 | 2026-07-28 |  |
+| [TTTTOKYO](https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [From Tokyo with Love](https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB) | 3:37 | 2026-07-28 | 2026-10-31 |
 | [Tuesday Butterfly \- feat\. Misi Ke](https://open.spotify.com/track/0ezYoov46hgipHPUtk7Pm5) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Tuesday Butterfly \(feat\. Misi Ke\)](https://open.spotify.com/album/3EmYHtnxH9f46MdkoRcSvQ) | 3:09 | 2023-08-31 | 2023-09-06 |
 | [Turn It Up](https://open.spotify.com/track/61BKVZCNFySRO9vvakKJBr) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Turn It Up](https://open.spotify.com/album/0mYgHylfIKnZ8oBSd3nqSa) | 3:18 | 2026-01-20 | 2026-04-08 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-01-31 | 2024-12-05 |

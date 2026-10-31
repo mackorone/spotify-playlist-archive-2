@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > dom fike returns with some familiar friends <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,128 likes - 153 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,093 likes - 153 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

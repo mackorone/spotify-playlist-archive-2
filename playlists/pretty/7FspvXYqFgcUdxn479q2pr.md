@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Timmy Trumpet
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: MORTEN
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,310 likes - 398 songs - 20 hr 22 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 31,314 likes - 398 songs - 20 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Sign \(Ti�sto Remix\)](https://open.spotify.com/track/2mpQ27UDus3ObaJV0wJ2f2) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Sign \(Tiësto Remix\)](https://open.spotify.com/album/4UTkTXiTjXCwlR3A2lOb8S) | 2:39 |
+| 1 | [The Sign \(Tiësto Remix\)](https://open.spotify.com/track/2mpQ27UDus3ObaJV0wJ2f2) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Sign \(Tiësto Remix\)](https://open.spotify.com/album/4UTkTXiTjXCwlR3A2lOb8S) | 2:39 |
 | 2 | [Time After Time](https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Time After Time](https://open.spotify.com/album/2d0ZL2C2YAUWejedK1dgBU) | 2:40 |
 | 3 | [We Used To Dance Here](https://open.spotify.com/track/6vbgxOSyw64p5VzkQOHT8g) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [We Used To Dance Here](https://open.spotify.com/album/3DsmScR385rdRLYzrwt1RW) | 2:51 |
 | 4 | [Gimme Dat](https://open.spotify.com/track/3xX7ay4XLGuJ5DNB67qpU1) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Gimme Dat](https://open.spotify.com/album/11lrFLFcMimfwJJoaAaNpg) | 3:15 |
@@ -407,4 +407,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 397 | [Like A Drug](https://open.spotify.com/track/4OPpaJNuTo0j6XyvwDhrxF) | [Ben Wood](https://open.spotify.com/artist/2iDVKvq83UePPjZlTivOcR) | [Like A Drug](https://open.spotify.com/album/6D2mnM4kzrffNbSjNHPaRG) | 2:16 |
 | 398 | [Addicted To Our Chemistry](https://open.spotify.com/track/2Fekdhq7wnbSp8uk8EtkE8) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Addicted To Our Chemistry](https://open.spotify.com/album/2mwUICka1TnVDUyBwUELYg) | 2:44 |
 
-Snapshot ID: `AAAxSpicXjlFoKTgZT4D2BPRAluWEMkf`
+Snapshot ID: `AAAxS51K2NNfRdsfJ72O3zqFJ7OleoyC`

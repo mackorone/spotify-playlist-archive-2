@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 229227,
       "name": "Asi Es Este Juego",
       "url": "https://open.spotify.com/track/7BFfhLTWTZXpJB8R4aj6BF"
@@ -1586,6 +1586,28 @@
       "duration_ms": 198285,
       "name": "Por Si Acaso",
       "url": "https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz"
+    },
+    {
+      "album": {
+        "name": "Preparado",
+        "url": "https://open.spotify.com/album/2rFw73lyiu1bG4cE9fHOLi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triple L",
+          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Preparado",
+      "url": "https://open.spotify.com/track/5DSOagocvvf355gyZMgegT"
     },
     {
       "album": {

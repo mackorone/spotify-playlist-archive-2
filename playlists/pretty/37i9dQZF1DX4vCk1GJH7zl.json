@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwSEE/Ii3opzwUsqPhbXkU+PMUz",
+  "snapshot_id": "AAAAAJrnsA3vax9LFtWb54LP+oo0TX3D",
   "tracks": [
     {
       "added_at": "2026-10-23 03:00:28",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
+        "name": "Pra Cima Todo Santo Ajuda",
+        "url": "https://open.spotify.com/album/1vjpz8k7gSDHkk0xQmL059"
+      },
+      "artists": [
+        {
+          "name": "Vitor Isensee",
+          "url": "https://open.spotify.com/artist/5LoeEmuJwRxB69JDe6H09s"
+        }
+      ],
+      "duration_ms": 179448,
+      "name": "Se Rimar, Rimou",
+      "url": "https://open.spotify.com/track/6fJoFhW4vcrk0QBnlEPxQ9"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
         "name": "N\u00e3o Diga Nada",
         "url": "https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 250133,
       "name": "N\u00e3o Diga Nada",
       "url": "https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
-        "name": "Pra Cima Todo Santo Ajuda",
-        "url": "https://open.spotify.com/album/1vjpz8k7gSDHkk0xQmL059"
-      },
-      "artists": [
-        {
-          "name": "Vitor Isensee",
-          "url": "https://open.spotify.com/artist/5LoeEmuJwRxB69JDe6H09s"
-        }
-      ],
-      "duration_ms": 179448,
-      "name": "Se Rimar, Rimou",
-      "url": "https://open.spotify.com/track/6fJoFhW4vcrk0QBnlEPxQ9"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -867,6 +867,26 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
+        "name": "No Fundo Todo Mundo Quer Amor",
+        "url": "https://open.spotify.com/album/7dTScgnL3EIqHMvVahb6tH"
+      },
+      "artists": [
+        {
+          "name": "Luca Latorre",
+          "url": "https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6"
+        },
+        {
+          "name": "J\u00e9f",
+          "url": "https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR"
+        }
+      ],
+      "duration_ms": 206489,
+      "name": "No Fundo Todo Mundo Quer Amor",
+      "url": "https://open.spotify.com/track/6BQhvkbSK4jVoZUB4Z60J2"
+    },
+    {
+      "added_at": "2026-10-23 03:00:28",
+      "album": {
         "name": "Pris\u00e3o das Ruas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KpmuoHTaT6qNYTv3zxzKh"
       },
@@ -879,22 +899,6 @@
       "duration_ms": 214004,
       "name": "Pris\u00e3o das Ruas - Ao Vivo",
       "url": "https://open.spotify.com/track/5WiDk2Pe2Oj8x6woFwS6VF"
-    },
-    {
-      "added_at": "2026-10-23 03:00:28",
-      "album": {
-        "name": "Douraddo",
-        "url": "https://open.spotify.com/album/3m89RKjTjqZv4XzxaGaXDC"
-      },
-      "artists": [
-        {
-          "name": "Sopr\u00fc",
-          "url": "https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Douraddo",
-      "url": "https://open.spotify.com/track/75jOQ3d6y36N09fpnUSQR7"
     },
     {
       "added_at": "2026-10-23 03:00:28",
@@ -927,22 +931,18 @@
     {
       "added_at": "2026-10-23 03:00:28",
       "album": {
-        "name": "No Fundo Todo Mundo Quer Amor",
-        "url": "https://open.spotify.com/album/7dTScgnL3EIqHMvVahb6tH"
+        "name": "Douraddo",
+        "url": "https://open.spotify.com/album/3m89RKjTjqZv4XzxaGaXDC"
       },
       "artists": [
         {
-          "name": "Luca Latorre",
-          "url": "https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6"
-        },
-        {
-          "name": "J\u00e9f",
-          "url": "https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR"
+          "name": "Sopr\u00fc",
+          "url": "https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9"
         }
       ],
-      "duration_ms": 206489,
-      "name": "No Fundo Todo Mundo Quer Amor",
-      "url": "https://open.spotify.com/track/6BQhvkbSK4jVoZUB4Z60J2"
+      "duration_ms": 161933,
+      "name": "Douraddo",
+      "url": "https://open.spotify.com/track/75jOQ3d6y36N09fpnUSQR7"
     },
     {
       "added_at": "2026-10-23 03:00:28",

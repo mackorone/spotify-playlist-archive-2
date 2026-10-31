@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20404,
+  "num_followers": 20408,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Bowie",
-      "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 855093,
       "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
       "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Bowie",
+      "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Uno Lovis Party",
+        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
+      },
+      "artists": [
+        {
+          "name": "Kury",
+          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
+        }
+      ],
+      "duration_ms": 202921,
+      "name": "Memento Amoris",
+      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "M\u00d3J TRUP JEST WI\u0118KSZY NI\u017b TW\u00d3J",
         "url": "https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 230124,
       "name": "Dubbrat",
       "url": "https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Uno Lovis Party",
-        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
-      },
-      "artists": [
-        {
-          "name": "Kury",
-          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "Memento Amoris",
-      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Romeo i Julia \u017cyj\u0105",
         "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 333250,
       "name": "Sonda uliczna",
       "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
-      },
-      "artists": [
-        {
-          "name": "Karolina B\u0142achnia",
-          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
-        }
-      ],
-      "duration_ms": 470111,
-      "name": "Dawno I Nieprawda",
-      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Through The Hourglass (Acoustic)",
         "url": "https://open.spotify.com/album/776qd7dIOzM2n4x9jO6IqE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 550813,
       "name": "Through The Hourglass",
       "url": "https://open.spotify.com/track/1qK1QaIsVwDGtpoEZO1nku"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+      },
+      "artists": [
+        {
+          "name": "Karolina B\u0142achnia",
+          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+        }
+      ],
+      "duration_ms": 470111,
+      "name": "Dawno I Nieprawda",
+      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
     },
     {
       "added_at": "2026-05-26 09:05:26",

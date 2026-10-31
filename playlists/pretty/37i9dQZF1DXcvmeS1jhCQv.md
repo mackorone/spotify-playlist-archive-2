@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Bleech 9:3
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,103 likes - 103 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,123 likes - 103 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

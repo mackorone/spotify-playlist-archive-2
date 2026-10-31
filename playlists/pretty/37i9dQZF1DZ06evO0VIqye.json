@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62664,
+  "num_followers": 62666,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAABoOPYDLNiyP34/3oX0Z9fY",
+  "snapshot_id": "auE7AAAAAAAyQAcM5vKXcd54kUkp2C6k",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "(I'm Gonna) Run Away",
+      "url": "https://open.spotify.com/track/5xa98AOYx4nY4yj0MF9AFX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 247470,
       "name": "I Hate Myself For Loving You",
       "url": "https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "(I'm Gonna) Run Away",
-      "url": "https://open.spotify.com/track/5xa98AOYx4nY4yj0MF9AFX"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Fake Friends",
-      "url": "https://open.spotify.com/track/0VmPPpFGWRwhXvNN9YpdUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 174146,
       "name": "Victim of Circumstance",
       "url": "https://open.spotify.com/track/1xLQkXYNUY4sequtLRmGYD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/0VmPPpFGWRwhXvNN9YpdUA"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Demento Covered In Punk",
-        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 234795,
-      "name": "Science Fiction/Double Feature",
-      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 187560,
       "name": "Love Is Pain",
       "url": "https://open.spotify.com/track/7s8dkp8b8cKKRuq1Q4ENcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dr. Demento Covered In Punk",
+        "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 234795,
+      "name": "Science Fiction/Double Feature",
+      "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Little Liar",
+      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4LbWRk6NSbB7XvyXGKvgas"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Little Liar",
-      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hit List",
         "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 186600,
       "name": "Love Me Two Times",
       "url": "https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changeup (Acoustic)",
+        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Long Time - Acoustic",
+      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
     },
     {
       "added_at": null,
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changeup (Acoustic)",
-        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
+        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Long Time - Acoustic",
-      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
+      "duration_ms": 199080,
+      "name": "I Love You Love Me Love",
+      "url": "https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 213666,
       "name": "Roadrunner",
       "url": "https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "I Love You Love Me Love",
-      "url": "https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAACPrZcbrqmFYpPxE+eOs2kj",
+  "snapshot_id": "auE7AAAAAACfyzP6CF5Hjn3r4aCO9+QW",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Steven",
-      "url": "https://open.spotify.com/track/5ildD6YKswSUMvlycdc25p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Searching (Deluxe Version)",
         "url": "https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 230119,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/4K6edNM205oiq5j8GDzllr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Steven",
+      "url": "https://open.spotify.com/track/5ildD6YKswSUMvlycdc25p"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 294306,
-      "name": "Dreaming A Reality",
-      "url": "https://open.spotify.com/track/2SZ9IPQHDsHjfCTlQ49r6K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 214306,
       "name": "Gold Jacket, Green Jacket...",
       "url": "https://open.spotify.com/track/6RTH6uELdnpz9zrPleN1BP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 294306,
+      "name": "Dreaming A Reality",
+      "url": "https://open.spotify.com/track/2SZ9IPQHDsHjfCTlQ49r6K"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 205373,
       "name": "Double Cross",
       "url": "https://open.spotify.com/track/4pyAV6Qvq7xEsxzCsMmjjG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 377600,
       "name": "If There Is Light, It Will Find You",
       "url": "https://open.spotify.com/track/2ycUYO0JIm5vQtCyy4OpDV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Lifeboats",
-      "url": "https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 179466,
       "name": "New Jersey Makes, The World Takes",
       "url": "https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Lifeboats",
+      "url": "https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Coward",
-      "url": "https://open.spotify.com/track/1LRGDPUAo5HedSS7VT6UNA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224000,
       "name": "Elevator to the Gallows",
       "url": "https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Coward",
+      "url": "https://open.spotify.com/track/1LRGDPUAo5HedSS7VT6UNA"
     }
   ],
   "unique_name": "This Is Senses Fail",

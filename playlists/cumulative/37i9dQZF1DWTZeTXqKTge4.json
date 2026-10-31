@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Meeko",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Fl\u00e9au Dicaprio, Lary Kidd",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -3955,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Brokie",
+        "url": "https://open.spotify.com/album/4TpAHIAKmLrbn66UOmvu4c"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134752,
+      "name": "Brokie",
+      "url": "https://open.spotify.com/track/2IuiVOploNTYCiJI30PJdw"
+    },
+    {
+      "album": {
         "name": "Broski",
         "url": "https://open.spotify.com/album/6H13ZaSvNXNPWFmhgaBdZz"
       },
@@ -4694,6 +4712,24 @@
       "duration_ms": 205083,
       "name": "CANARUN 2",
       "url": "https://open.spotify.com/track/2d4KtdYLXpjeYIrNweNDsw"
+    },
+    {
+      "album": {
+        "name": "CAP",
+        "url": "https://open.spotify.com/album/5Dwqd6Xymq56KrOjqmpskx"
+      },
+      "artists": [
+        {
+          "name": "The Alone",
+          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188084,
+      "name": "CAP",
+      "url": "https://open.spotify.com/track/4a38khPRsyXOWTaQbLFP1i"
     },
     {
       "album": {
@@ -11176,7 +11212,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 125538,
       "name": "Helen Quelle Heure",
       "url": "https://open.spotify.com/track/2OKLiEIW4hZPaNpb6kMtdL"
@@ -14302,6 +14338,28 @@
       "duration_ms": 212586,
       "name": "Le c\u0153ur \u00e0 la bonne place",
       "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
+    },
+    {
+      "album": {
+        "name": "Le dernier MC",
+        "url": "https://open.spotify.com/album/7DnhsUCMr6kpveA3fCVnSV"
+      },
+      "artists": [
+        {
+          "name": "St-Saoul",
+          "url": "https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ"
+        },
+        {
+          "name": "Madizm",
+          "url": "https://open.spotify.com/artist/2GoFhPq0tLBQaFm0dZyHYj"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Le Dernier MC",
+      "url": "https://open.spotify.com/track/0InwMluSYPrvm9aiTqRLrW"
     },
     {
       "album": {
@@ -19578,7 +19636,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 169411,
       "name": "Passe Passe",
       "url": "https://open.spotify.com/track/6vpHBvY5C6S7Dfd5qeOhN0"
@@ -22624,7 +22682,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 121846,
       "name": "rules",
       "url": "https://open.spotify.com/track/2BTRbcij5UNvQ8ATrWjGhY"
@@ -23442,7 +23500,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 166530,
       "name": "Selfmade",
       "url": "https://open.spotify.com/track/3eu4MfnSGNgSY5kY0DUFHP"
@@ -24962,7 +25020,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
@@ -27395,6 +27453,32 @@
     },
     {
       "album": {
+        "name": "Best of the best",
+        "url": "https://open.spotify.com/album/53XEqxKG6huhhhb3TUtL3b"
+      },
+      "artists": [
+        {
+          "name": "Shoddy",
+          "url": "https://open.spotify.com/artist/0LasoLziQEHms8MYnzYrmq"
+        },
+        {
+          "name": "Ruffneck",
+          "url": "https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO"
+        },
+        {
+          "name": "Buzzy Bwoy",
+          "url": "https://open.spotify.com/artist/4uHPcSf5IvvY1gfKIA1RjQ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203468,
+      "name": "Woah!",
+      "url": "https://open.spotify.com/track/2TjhyL8UCI0VnsxVwspabf"
+    },
+    {
+      "album": {
         "name": "Wooh",
         "url": "https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5"
       },
@@ -28082,6 +28166,28 @@
       "duration_ms": 206511,
       "name": "\u00c9poque",
       "url": "https://open.spotify.com/track/7xlUaCvYw7hHmGZy0iuAiV"
+    },
+    {
+      "album": {
+        "name": "\u00c9tat d'urgence (avec Lary Kidd)",
+        "url": "https://open.spotify.com/album/4QOYZdy6ExcDdWdYCzZVsS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        },
+        {
+          "name": "Lary Kidd",
+          "url": "https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "\u00c9tat d'urgence (avec Lary Kidd)",
+      "url": "https://open.spotify.com/track/71h8uOcuM47WEt3AaDx8hK"
     },
     {
       "album": {

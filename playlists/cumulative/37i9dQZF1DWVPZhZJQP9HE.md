@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Siri Xander
 
-830 songs - 2 day 0 hr 42 min
+831 songs - 2 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Summertime Kaadhal](https://open.spotify.com/track/3L0p5KOOlxL9InRN6oBXwj) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h) | [Summertime Kaadhal](https://open.spotify.com/album/4PQgAODNFSmImNMjN76aHN) | 2:58 | 2022-05-18 | 2023-06-24 |
 | [Summertime Kaadhal](https://open.spotify.com/track/5nkn93sR9oU8XBuWRnpC44) | [Ashwin Vinayagamoorthy](https://open.spotify.com/artist/7rT3iNEH8cFBmfMu7V4A7h) | [Summertime Kaadhal](https://open.spotify.com/album/0uMFEpvLWVwlb507BCDyiP) | 2:58 | 2022-05-18 | 2023-05-14 |
 | [SuNaPaNa](https://open.spotify.com/track/3cWWmzOqkHkMnAR1ER8hKM) | [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w), [Sriram Seethapathy](https://open.spotify.com/artist/294LTYgwMylGoWZp3O6CCX), [Ramya Vasanth](https://open.spotify.com/artist/7FPtsbiDbRhJt2yoYnzigU) | [SuNaPaNa](https://open.spotify.com/album/4wXjujaVpp2gvi3lEXBkZD) | 3:19 | 2022-03-07 | 2022-12-20 |
+| [Sundara Malli](https://open.spotify.com/track/3HKkqpO1plqN9SDwtuGo7O) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Manoj Kumar Maddie](https://open.spotify.com/artist/7i2GxFywnezuA61hdljCvH), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Sundara Malli](https://open.spotify.com/album/4PyMHEv3byExL8vB80zZ4Q) | 3:30 | 2026-10-31 |  |
 | [Swipe Right Material](https://open.spotify.com/track/1iqvIcsgUfOGuqSltgPfQY) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Swipe Right Material](https://open.spotify.com/album/5PVTBm7DZXOXBfKdkDVFVN) | 3:23 | 2022-02-15 | 2022-07-16 |
 | [Swipe Swipe](https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1) | [Swipe Swipe](https://open.spotify.com/album/64CwTALMK8Hv2fjvnEt6YO) | 3:00 | 2024-09-19 | 2025-03-04 |
 | [Tamil Birthday Song](https://open.spotify.com/track/2WRyfdN6BJRTN1H9Q2PvnQ) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Deepak Blue](https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao), [Maria Roe Vincent](https://open.spotify.com/artist/3KrlaLub4zgw8yNCLJq4nC), [Sam Lawrence](https://open.spotify.com/artist/0BKjca1pkv2L87KeiXSeVI), [Ailaah](https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Tamil Birthday Song](https://open.spotify.com/album/6LrBZ3y37YFf3pSQeKw59z) | 8:18 | 2026-08-10 | 2026-08-25 |

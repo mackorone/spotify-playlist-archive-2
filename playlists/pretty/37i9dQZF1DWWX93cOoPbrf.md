@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. El De Las R's, El Rabbanito en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,895 likes - 113 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 992,418 likes - 113 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

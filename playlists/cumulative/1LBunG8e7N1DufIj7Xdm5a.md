@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,949 songs - 11 day 4 hr 54 min
+4,956 songs - 11 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Boomerang Heart \(another\)](https://open.spotify.com/track/7kLVL7CJwNtJFwdJeE5WRD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Songs](https://open.spotify.com/album/05FrEwmYYgu2IwnICoZLiB) | 2:50 | 2025-09-17 |  |
 | [Boomerang Love](https://open.spotify.com/track/76Cd6S2mp79CzoWQylm8Ff) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn th Night, Vol\. 2](https://open.spotify.com/album/732QXoYcUYkM9K7nICidlq) | 2:27 | 2025-09-12 |  |
 | [Boost!](https://open.spotify.com/track/2gdQbCDQmsmIUFE90S1s6E) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Boost!](https://open.spotify.com/album/0ZUhH4fq2QTr8RLuEHQbKN) | 2:59 | 2025-05-22 |  |
+| [Boots By The Door](https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Boots By The Door](https://open.spotify.com/album/5DlaXWnCS75sNV0YQSQPmg) | 2:26 | 2026-10-30 |  |
 | [Boots Off!](https://open.spotify.com/track/6UJyniFdOsG46BVxIzRACm) | [Angst Party](https://open.spotify.com/artist/7IDGjkJM9ghKoiDW1ipKW0) | [Boots Off!](https://open.spotify.com/album/3gCtn0iKbsYQK4nmXwEdrv) | 2:27 | 2025-06-30 |  |
 | [Bop](https://open.spotify.com/track/0dpT8MKoqLeshWAlgxdvOE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 1:45 | 2025-09-17 |  |
 | [Bored](https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bored](https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb) | 1:55 | 2025-07-28 |  |
@@ -788,6 +789,7 @@
 | [Come immortali](https://open.spotify.com/track/2XNznLeDqSQqCDEt71gk8K) | [Giorgia Gambini](https://open.spotify.com/artist/2xxgXfBQyeVRJGmTytQnLZ) | [Come immortali](https://open.spotify.com/album/1DZQ55GyM54rTXO40c1Yxb) | 2:50 | 2026-03-18 |  |
 | [Come In](https://open.spotify.com/track/3r99kYKzRVXYyAbLzMJ8kz) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Come In](https://open.spotify.com/album/59ntSYr0IFfQcoBaZgwqNH) | 3:42 | 2025-11-26 |  |
 | [Come On California](https://open.spotify.com/track/4XYuAWnpSZs6qIV1CzCbzH) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Come On California](https://open.spotify.com/album/7AktV6uVnjl284AXdQDPYy) | 2:57 | 2026-10-25 |  |
+| [Come On Home](https://open.spotify.com/track/5FzC2qoqgm0o621K6jQ6Kp) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Come On Home](https://open.spotify.com/album/2Wh6xDm9kiExycfUEJpiSX) | 3:41 | 2026-10-30 |  |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-02-25 |  |
 | [Come se non ci fosse un domani](https://open.spotify.com/track/3AGRiS8AeMZ3bZF3ne6pSl) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 1:57 | 2025-04-04 |  |
 | [Come Un Ultras Che Grida \- Vivere da Ultras \- Sessione Intima](https://open.spotify.com/track/1PsSE8RXbV6IfsmnQrkTCL) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Come Un Ultras Che Grida \(Vivere da Ultras \- Sessione Intima\)](https://open.spotify.com/album/33xJM8vQ7ljQrQC2jctwqQ) | 2:34 | 2025-04-04 |  |
@@ -3141,6 +3143,7 @@
 | [Only Against Yesterday](https://open.spotify.com/track/5e75TI39IgaBwWu6TwZywH) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:24 | 2026-08-20 |  |
 | [Only Against Yesterday \(fomo mode\)](https://open.spotify.com/track/3H5EMDNSqiKHEMBmocrsr7) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:09 | 2026-08-20 |  |
 | [Only Dreamer is Real](https://open.spotify.com/track/52yMT5xCwSivgSHXuohwXl) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Only Dreamer is Real](https://open.spotify.com/album/1YkKOsvGuRpYMzWgqN5W8f) | 9:31 | 2025-06-04 |  |
+| [Only Human](https://open.spotify.com/track/1jsk1IKcrcTh7yeV0JFgd1) | [Decybel](https://open.spotify.com/artist/3eM6ibGISvLDXrJDqlB9eb) | [Only Human](https://open.spotify.com/album/4so6QfPlbj4lbNIrMVo5yX) | 4:44 | 2026-10-30 |  |
 | [Only If](https://open.spotify.com/track/7E3znxuTcgo6IabVmn409Q) | [GRG T](https://open.spotify.com/artist/5oTck4BXfW8SzyEkQRyozd) | [Only If](https://open.spotify.com/album/4lMnQhU9PMqmeDD6FhUl1n) | 1:40 | 2026-10-05 |  |
 | [Only love matters](https://open.spotify.com/track/7kl0acdjYhuxJgF4w7muMd) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters](https://open.spotify.com/album/7nCc9JShXPUm0N3WysAMO6) | 3:11 | 2025-09-02 |  |
 | [OnlyFans](https://open.spotify.com/track/1SAvOYT71gQehrhVQmf2t1) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Lo Scommettitore](https://open.spotify.com/album/5IfnJZpGKhohKV3yjQUuc0) | 2:47 | 2025-04-04 |  |
@@ -3305,6 +3308,7 @@
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-05-09 |  |
 | [Plugged In](https://open.spotify.com/track/3l6Ny015uFC2QESTbVaE5f) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 2:39 | 2025-09-17 |  |
 | [Plugged In \(another\)](https://open.spotify.com/track/6okXwJUlNh8HclxgBk3uqK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 2:42 | 2025-09-17 |  |
+| [Poco a poco](https://open.spotify.com/track/0fLbOaWKH5VPEFzu1uaLTC) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:44 | 2026-10-30 |  |
 | [Poesia de Liquidificador](https://open.spotify.com/track/2dA5Hv7RDD59fWOB27kd9Y) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 5:07 | 2025-06-09 |  |
 | [Pogo in the Streets](https://open.spotify.com/track/6vvoCK5al4sSro1gObcCWH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:48 | 2025-09-19 |  |
 | [pogoasana](https://open.spotify.com/track/4hYg1rLkqtvziccn5jhnOZ) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Su\-PER\-GIu](https://open.spotify.com/album/4yPh7FzQJJ31adWMGLUZfZ) | 2:02 | 2025-09-06 |  |
@@ -3624,6 +3628,7 @@
 | [Scroll My Soul](https://open.spotify.com/track/76ytRcwR3RRSynDSWUMrJ8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits vol.2](https://open.spotify.com/album/2zbvE0dDisIOuP9XCRXe0n) | 2:23 | 2025-09-17 |  |
 | [Scroll My Soul \(another\)](https://open.spotify.com/track/0Pcm9Pj6hx783F55oKVj02) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits vol.2](https://open.spotify.com/album/2zbvE0dDisIOuP9XCRXe0n) | 1:48 | 2025-09-17 |  |
 | [Se](https://open.spotify.com/track/1xM9aqcmyStdBFAwl3anoO) | [Luca Caperna](https://open.spotify.com/artist/3Qv0BzsqKNH5yUtu0EXM1X) | [Se](https://open.spotify.com/album/3cWFyRff6gpiDgxXPOggjr) | 5:06 | 2025-01-24 |  |
+| [Se fue mi amor](https://open.spotify.com/track/79q0cbSIB161JYrWUg1XlR) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:44 | 2026-10-30 |  |
 | [Se lo senti lo sai](https://open.spotify.com/track/3kpsk2sSo9bC3uVtfWRxI9) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Se lo senti lo sai](https://open.spotify.com/album/1OYfU00iRcws2LU8CbUVc9) | 3:44 | 2022-12-27 |  |
 | [Se lo senti lo sai](https://open.spotify.com/track/6AgxtPvNjEKXCqB3zKI2FM) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Il Disco Del Sole](https://open.spotify.com/album/0miIc3BQ2BNZh78S5FDhaH) | 3:44 | 2022-12-27 |  |
 | [Se Tu fossi lontana da Me](https://open.spotify.com/track/31lmg0OLWer8885wHmk4hq) | [Guerrillah](https://open.spotify.com/artist/7FdK1NhPiiPO1KwmC1NAJp) | [Se Tu fossi lontana da Me](https://open.spotify.com/album/3txpJwzbJ8jW3MsMP0yV1Z) | 4:12 | 2026-02-13 |  |
@@ -3752,6 +3757,7 @@
 | [Si no eres tú](https://open.spotify.com/track/20bSrYTqKB0yqEq7NYPTzy) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 4:20 | 2026-03-15 |  |
 | [Si tú no estás](https://open.spotify.com/track/4dQOggX7CIcZSTNtvIR3WY) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:35 | 2026-03-15 |  |
 | [Sia quel che sia](https://open.spotify.com/track/7klJkBA2fEIcE5OyXbxmUf) | [the Vinyle](https://open.spotify.com/artist/1eoKOmSS7FJFjJWFPACcod) | [Superstar](https://open.spotify.com/album/3d2aZLErCQOg56Ql8raaKP) | 4:15 | 2026-02-13 |  |
+| [Siamo Ancora Qui](https://open.spotify.com/track/17J9Yzsd9pG9w23nBOCEvA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Siamo Ancora Qui](https://open.spotify.com/album/56hT0GGHWP7Gq80RjPLagh) | 4:06 | 2026-10-30 |  |
 | [Siamo Diversi](https://open.spotify.com/track/6akK3bQ2pbXlzICPPw1gEa) | [NoFake](https://open.spotify.com/artist/6xMViEatODJaPVD2oj4Z2N) | [Siamo Diversi](https://open.spotify.com/album/2IcQkeFMK9yFpAGukPNbGf) | 2:29 | 2025-06-25 |  |
 | [Siamo la cura](https://open.spotify.com/track/64eIrIz4Lv2j5fCQ3mvOJY) | [Luce](https://open.spotify.com/artist/6mfosE9RmLsAAoTIkr7iJt) | [Siamo la cura](https://open.spotify.com/album/2lQCaP88QVPtsODn39SQzc) | 2:33 | 2025-06-18 |  |
 | [Siamo perduti](https://open.spotify.com/track/2KFK8mkYe4OwT2XxDcZlcm) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Siamo perduti](https://open.spotify.com/album/4j9UylK8c7HBB9dTqsZ3Ub) | 3:31 | 2025-05-09 |  |
@@ -4219,6 +4225,7 @@
 | [The Blueprint in the Blue \(fomo mode\)](https://open.spotify.com/track/0gzBBZ5BNL122dGxN1zLxD) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [UNBROKEN LEGACY](https://open.spotify.com/album/705K785hTBEwawYwJhKjUR) | 3:07 | 2026-08-20 |  |
 | [The burn](https://open.spotify.com/track/1TeRROlVlxHVWotfg8Aofl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:56 | 2025-09-20 |  |
 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 | 2025-04-09 |  |
+| [The City My heart belongs to](https://open.spotify.com/track/5YQQHePUGNVyqOlPTedvGG) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 4:45 | 2026-10-30 |  |
 | [The Clockwork Stone](https://open.spotify.com/track/7gIilCVS2ELuWmPplKRzEW) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:08 | 2026-09-06 |  |
 | [The Clockwork Stone \(fomo mode\)](https://open.spotify.com/track/1YQDexgffasdPy7dIcA3KT) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:43 | 2026-09-06 |  |
 | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/track/28onWsoR8929yLq7Npxbd7) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/album/7wL9N0B0ZxJcYNRQh3L6dO) | 3:59 | 2026-09-18 |  |

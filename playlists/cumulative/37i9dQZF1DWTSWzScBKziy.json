@@ -2472,7 +2472,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 144798,
       "name": "big energy.wav",
       "url": "https://open.spotify.com/track/2Rh1hfKV3dg8WbWID4W5D2"
@@ -5434,6 +5434,28 @@
       "duration_ms": 261056,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/6lyzPp8vwD2BJHr6fBAiaa"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/1rjQ6dSvk3hCVMbwrCs81r"
+      },
+      "artists": [
+        {
+          "name": "Baily Hager",
+          "url": "https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb"
+        },
+        {
+          "name": "Johnny Songs",
+          "url": "https://open.spotify.com/artist/1Klr0ZjipQgD7otXBzZ4gt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180961,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/29mQeq9Z7JvCkFYxgNuUVU"
     },
     {
       "album": {

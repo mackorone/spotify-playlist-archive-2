@@ -1,12 +1,12 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Shallipopi",
-  "num_followers": 163825,
+  "num_followers": 163929,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADPKscUdvb33kGN2bhvOep3Z2r2T",
+  "snapshot_id": "AAAAACNOrVtRRjFYVzPjLqvQxMCJcZiV",
   "tracks": [
     {
       "added_at": "2026-10-23 00:01:35",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-10-23 00:01:35",
       "album": {
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+    },
+    {
+      "added_at": "2026-10-23 00:01:35",
+      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -407,6 +423,22 @@
       "duration_ms": 139424,
       "name": "Lakute",
       "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-10-23 00:01:35",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 183708,
+      "name": "Skilful",
+      "url": "https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l"
     },
     {
       "added_at": "2026-10-23 00:01:35",
@@ -431,54 +463,6 @@
     {
       "added_at": "2026-10-23 00:01:35",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 183708,
-      "name": "Skilful",
-      "url": "https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l"
-    },
-    {
-      "added_at": "2026-10-23 00:01:35",
-      "album": {
-        "name": "NOMADINHO: 4TH PRIME",
-        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "CA$H OUT",
-      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
-    },
-    {
-      "added_at": "2026-10-23 00:01:35",
-      "album": {
-        "name": "A Street Kid's Diary (Disk 2)",
-        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "Gentleman",
-      "url": "https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo"
-    },
-    {
-      "added_at": "2026-10-23 00:01:35",
-      "album": {
         "name": "Shenk Me",
         "url": "https://open.spotify.com/album/5yNwyn1a11z9XW46Nlm1kI"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 199285,
       "name": "Shenk Me",
       "url": "https://open.spotify.com/track/0Zuc6Ez9Y9qVt5Sp6AfoUK"
+    },
+    {
+      "added_at": "2026-10-23 00:01:35",
+      "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "Gentleman",
+      "url": "https://open.spotify.com/track/3q7X6eqrpved0b0EQYV6Mo"
     },
     {
       "added_at": "2026-10-23 00:01:35",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-10-23 00:01:35",
       "album": {
-        "name": "Timileyin 2.0",
-        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Where I\u2019m from",
-      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
-    },
-    {
-      "added_at": "2026-10-23 00:01:35",
-      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -607,6 +587,26 @@
     {
       "added_at": "2026-10-23 00:01:35",
       "album": {
+        "name": "Timileyin 2.0",
+        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Where I\u2019m from",
+      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
+    },
+    {
+      "added_at": "2026-10-23 00:01:35",
+      "album": {
         "name": "All Hail Muyeez",
         "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 153103,
       "name": "Water",
       "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
+    },
+    {
+      "added_at": "2026-10-23 00:01:35",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
     },
     {
       "added_at": "2026-10-23 00:01:35",
@@ -639,18 +655,22 @@
     {
       "added_at": "2026-10-23 00:01:35",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
         }
       ],
-      "duration_ms": 162063,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
     },
     {
       "added_at": "2026-10-23 00:01:35",
@@ -679,22 +699,38 @@
     {
       "added_at": "2026-10-23 00:01:35",
       "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+        "name": "WINDOW",
+        "url": "https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd"
       },
       "artists": [
         {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
         },
         {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+          "name": "OctobersRich",
+          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
         }
       ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
+      "duration_ms": 99487,
+      "name": "WINDOW",
+      "url": "https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u"
+    },
+    {
+      "added_at": "2026-10-23 00:01:35",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4G0QrA5dSghrSpRIz7cxtI"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/47lAumJmAKOAtG4nPX6TVi"
     },
     {
       "added_at": "2026-10-23 00:01:35",
@@ -719,58 +755,6 @@
     {
       "added_at": "2026-10-23 00:01:35",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/4G0QrA5dSghrSpRIz7cxtI"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/47lAumJmAKOAtG4nPX6TVi"
-    },
-    {
-      "added_at": "2026-10-23 00:01:35",
-      "album": {
-        "name": "WINDOW",
-        "url": "https://open.spotify.com/album/6MjkCmEG6cTnLGx8YinkMd"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        },
-        {
-          "name": "OctobersRich",
-          "url": "https://open.spotify.com/artist/6dP9m5sDjgdelhCAzABDgz"
-        }
-      ],
-      "duration_ms": 99487,
-      "name": "WINDOW",
-      "url": "https://open.spotify.com/track/3E6gQhE8gZRIMCdWLBjH6u"
-    },
-    {
-      "added_at": "2026-10-23 00:01:35",
-      "album": {
-        "name": "A Street Kid's Diary (Disk 2)",
-        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 167527,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
-    },
-    {
-      "added_at": "2026-10-23 00:01:35",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/6fP0kGbNyAKmb4O3hVvrB7"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 144065,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/72lmgehnF1PA34gXDqlFjD"
+    },
+    {
+      "added_at": "2026-10-23 00:01:35",
+      "album": {
+        "name": "A Street Kid's Diary (Disk 2)",
+        "url": "https://open.spotify.com/album/5XvdrswbICcbJ0sM03NaGz"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 167527,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/0kKqtxBzAdIsGYctrvKLXD"
     },
     {
       "added_at": "2026-10-23 00:01:35",

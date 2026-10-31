@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. Malte Ebert på cover 🪭
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,690 likes - 180 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,698 likes - 180 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

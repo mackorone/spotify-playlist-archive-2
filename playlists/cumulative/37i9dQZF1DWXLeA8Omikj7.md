@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,247 songs - 3 day 20 hr 0 min
+1,248 songs - 3 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,6 +1032,7 @@
 | [Superior](https://open.spotify.com/track/1OO83YJHRvcQ8MVl7lAF3b) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/27HGND1rcDXj1Yrjywg2Lf) | 2:02 | 2019-05-26\* | 2019-06-19 |
 | [Superman Lost](https://open.spotify.com/track/5tJwqIURhPZInrFxWT0cGB) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Damage Control](https://open.spotify.com/album/5Nrx0GEDuLwrQcEvb1IM8l) | 2:08 | 2019-05-26\* | 2020-10-22 |
 | [Support](https://open.spotify.com/track/2SUd3ORLlbQKeIXMmKDMqk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp) | 4:10 | 2019-06-21 | 2020-08-26 |
+| [Surface Breathes Scent](https://open.spotify.com/track/6gg6wUaI0VlxuglMZKxZTs) | [Eerie Enterprise](https://open.spotify.com/artist/5tdZgtguZEwKtwSGqfSwDE) | [Places Remember Events](https://open.spotify.com/album/1yuH3TKLvw0ezuVNXYbYWQ) | 3:11 | 2026-10-30 |  |
 | [Surrender \- Pablo Fierro Remix](https://open.spotify.com/track/3DioyryIiTFOavvhrQ00G6) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 7:40 | 2020-11-13 | 2021-03-09 |
 | [Surrender Yourself](https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 5:47 | 2021-04-29 | 2025-04-16 |
 | [Swans On Drums](https://open.spotify.com/track/0v6yGtEgzbrJKgbxPlX47H) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Swans On Drums](https://open.spotify.com/album/0DEL8v3HSCHNAuoAblvsng) | 5:58 | 2021-03-08 | 2022-07-06 |
@@ -1182,7 +1183,7 @@
 | [VIII](https://open.spotify.com/track/251hpvLqaASyMfT8pyRPYM) | [Anushka Chkheidze](https://open.spotify.com/artist/67m6HVMSpQbjioHGsdmXWs), [Robert Lippok](https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF) | [The Sky Was Out of Tune VIII](https://open.spotify.com/album/6GyvR14ZLLiPI4XTTrl6wz) | 2:46 | 2026-07-10 |  |
 | [Vinyl](https://open.spotify.com/track/1BuayIlgZp7H4kuOgmCpge) | [Adrian Roland](https://open.spotify.com/artist/6BOm2bSNuYGS9IeyER3cq2) | [Vinyl](https://open.spotify.com/album/1q94s3rNr164SzFcHEqzpu) | 1:04 | 2019-07-25 | 2025-08-30 |
 | [Violo](https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Madre](https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP) | 7:07 | 2021-05-27 | 2022-04-18 |
-| [Visages Visages](https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Visages Visages](https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c) | 5:59 | 2025-06-09 |  |
+| [Visages Visages](https://open.spotify.com/track/41EeXkqV9iXLKdQv36EEAP) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Visages Visages](https://open.spotify.com/album/5lYGHwWDorsrfjWB4gkj9c) | 5:59 | 2025-06-09 | 2026-10-31 |
 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-07-25 |  |
 | [Voices In My Head](https://open.spotify.com/track/0JUO6DhIHlpZ4GJWWhr2RG) | [Vikram Dhakal](https://open.spotify.com/artist/4rAXFOfQ4Q5hwOF492tEuI) | [Voices In My Head](https://open.spotify.com/album/1bBeLI0tu55M0Sd7bd7uxB) | 2:57 | 2020-08-26 | 2020-11-06 |
 | [volc4](https://open.spotify.com/track/3IExaQvA4xa2Fv61xCVuip) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [volc4](https://open.spotify.com/album/2KoU78rsQe3AfBOsZPZsTo) | 5:16 | 2025-10-24 | 2026-06-11 |

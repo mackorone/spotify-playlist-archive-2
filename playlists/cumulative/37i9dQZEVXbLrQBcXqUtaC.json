@@ -8606,7 +8606,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -12978,7 +12978,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 213838,
       "name": "Heseeny",
       "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj"
@@ -15044,7 +15044,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 216773,
       "name": "Join Me - Razorblade Mix",
       "url": "https://open.spotify.com/track/0d510tdfPL5wEdjUDe9CjH"
@@ -15080,7 +15080,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 218760,
       "name": "Join Me In Death - Strongroom Mix",
       "url": "https://open.spotify.com/track/3M19tMWNijQ9UCQdXS6Ill"
@@ -18350,7 +18350,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 190432,
       "name": "Ma Sar",
       "url": "https://open.spotify.com/track/64v6LW97P5Y4beQXBrUxwG"
@@ -21332,7 +21332,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -22882,7 +22882,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
@@ -22900,7 +22900,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -24596,7 +24596,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 244013,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
@@ -28682,7 +28682,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -28700,7 +28700,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -29596,7 +29596,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -34243,6 +34243,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0631\u0634\u064a\u0641 \u0639\u0631\u0627\u0642\u064a | \u0631\u0627\u062d \u062a\u062a\u0646\u062f\u0645 \u0639\u0644\u064a\u0647",
+        "url": "https://open.spotify.com/album/2g2ltvL8L8CiflUbVlR1j7"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0628\u0648 \u0633\u0644\u0637\u0627\u0646 \u0645\u064a\u0648\u0632\u0643",
+          "url": "https://open.spotify.com/artist/4JNB5pM1EqHBKCmlvqPt2U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223027,
+      "name": "\u0627\u0631\u0634\u064a\u0641 \u0639\u0631\u0627\u0642\u064a | \u0631\u0627\u062d \u062a\u062a\u0646\u062f\u0645 \u0639\u0644\u064a\u0647",
+      "url": "https://open.spotify.com/track/5mhqBBCnq4Dqs4dAQXAPiS"
+    },
+    {
+      "album": {
         "name": "\u0627\u0631\u064a\u062f\u0643",
         "url": "https://open.spotify.com/album/3tZ2twM4OcubjdN745NNYO"
       },
@@ -34812,7 +34830,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 271441,
       "name": "\u0627\u0644\u0639\u0645\u0631 \u0631\u0627\u062d - \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u0629",
       "url": "https://open.spotify.com/track/1rwhsMQoNtMn2PGJsUJ0aZ"
@@ -36995,6 +37013,24 @@
     },
     {
       "album": {
+        "name": "\u0634\u064a\u0644\u0629 - \u0631\u063a\u0628\u0629 \u0648\u0644\u064a \u0642\u0627\u0628\u0644\u064a\u0629",
+        "url": "https://open.spotify.com/album/6MCOjxI5B5oepiEcRTHRcs"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0628\u0648 \u0633\u0644\u0637\u0627\u0646 \u0645\u064a\u0648\u0632\u0643",
+          "url": "https://open.spotify.com/artist/4JNB5pM1EqHBKCmlvqPt2U"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126172,
+      "name": "\u0634\u064a\u0644\u0629 - \u0631\u063a\u0628\u0629 \u0648\u0644\u064a \u0642\u0627\u0628\u0644\u064a\u0629",
+      "url": "https://open.spotify.com/track/4R14R2sFtanCdAHP5f7ugQ"
+    },
+    {
+      "album": {
         "name": "\u0634\u064a\u0644\u0629 \u0637\u0631\u0628 \u062d\u0645\u0627\u0633\u064a\u0629",
         "url": "https://open.spotify.com/album/4fxLhDr7vudKUMgMsjUmDk"
       },
@@ -38900,7 +38936,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 348003,
       "name": "\u0648\u064a\u0646 \u0635\u0631\u062a\u064a",
       "url": "https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw"

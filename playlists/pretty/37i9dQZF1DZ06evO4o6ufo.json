@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 102255,
+  "num_followers": 102275,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAD/roQTWAeoJeFah+RZAI4W",
+  "snapshot_id": "auE7AAAAAACvYgV6Bz4vpJwvk/CyJNIP",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 229568,
+      "name": "Te Ves Fatal",
+      "url": "https://open.spotify.com/track/2pxP1nxPA1brO6gtZg2OED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 179450,
       "name": "La 701",
       "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 229568,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/2pxP1nxPA1brO6gtZg2OED"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Hay Unos Ojos - En Vivo",
-      "url": "https://open.spotify.com/track/5XYqS4FF4WSfyhiGvn1dkh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORAZ\u00d3N ERRANTE",
         "url": "https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 199274,
       "name": "Y Tu",
       "url": "https://open.spotify.com/track/3YzK5ai82cZ7PewBtMul78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Hay Unos Ojos - En Vivo",
+      "url": "https://open.spotify.com/track/5XYqS4FF4WSfyhiGvn1dkh"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Chuyito",
+          "url": "https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65"
+        }
+      ],
+      "duration_ms": 197016,
+      "name": "Amor De Locos",
+      "url": "https://open.spotify.com/track/5NjbyNc5cgu1BSURtiNgXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a - En Vivo",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Chuyito",
-          "url": "https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65"
-        }
-      ],
-      "duration_ms": 197016,
-      "name": "Amor De Locos",
-      "url": "https://open.spotify.com/track/5NjbyNc5cgu1BSURtiNgXQ"
     },
     {
       "added_at": null,

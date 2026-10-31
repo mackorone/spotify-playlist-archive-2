@@ -2279,6 +2279,28 @@
     },
     {
       "album": {
+        "name": "GRACIAS",
+        "url": "https://open.spotify.com/album/79qbYw6iBGYgweLwhRmC2V"
+      },
+      "artists": [
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        },
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/64pKD1DXwfmSEvD7pbHNxk"
+    },
+    {
+      "album": {
         "name": "Gracias A Ti",
         "url": "https://open.spotify.com/album/0gMHccAgjbeyF6HuSm8zPu"
       },
@@ -5286,7 +5308,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 145244,
       "name": "\u00bfQU\u00c9 PAS\u00d3 AYER?",
       "url": "https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG"

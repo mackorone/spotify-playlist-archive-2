@@ -1,13 +1,85 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Khal!l",
-  "num_followers": 60484,
+  "description": "R&B of the moment by the artists of the future. Cover: Qiuntelli",
+  "num_followers": 60485,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAABSGH/1vqnyWXm+T2R6DV2+UtHT",
+  "snapshot_id": "AAAAALeSR9stTP0alP4dgeTw/V1wWdoe",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:36:33",
+      "album": {
+        "name": "Room Service",
+        "url": "https://open.spotify.com/album/1NMqwbfgyjdZ9e1X4pvzVh"
+      },
+      "artists": [
+        {
+          "name": "Qiuntellii",
+          "url": "https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "duration_ms": 163279,
+      "name": "J.L.U",
+      "url": "https://open.spotify.com/track/7MqUydriLlNMzPPMS6bb4h"
+    },
+    {
+      "added_at": "2026-10-30 04:36:33",
+      "album": {
+        "name": "this wolf may cry",
+        "url": "https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "r u?",
+      "url": "https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr"
+    },
+    {
+      "added_at": "2026-09-18 06:45:47",
+      "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-10-30 04:36:33",
+      "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "Catch Me If You Can - feat. JID",
+      "url": "https://open.spotify.com/track/1NnuJJhYaiY5sRaanMyj7P"
+    },
     {
       "added_at": "2026-10-23 04:01:59",
       "album": {
@@ -39,54 +111,6 @@
       "duration_ms": 224690,
       "name": "SO MUCH, SO MUCH",
       "url": "https://open.spotify.com/track/0MfFIfcySy8KR3Zqi2QHgT"
-    },
-    {
-      "added_at": "2026-10-16 05:41:06",
-      "album": {
-        "name": "right/left",
-        "url": "https://open.spotify.com/album/4UEnqdMtJ3TlgA25OsRG5A"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 129925,
-      "name": "right/left",
-      "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
-    },
-    {
-      "added_at": "2026-09-18 06:45:47",
-      "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
-    },
-    {
-      "added_at": "2026-10-09 06:44:31",
-      "album": {
-        "name": "MACHIKO",
-        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 222970,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
     },
     {
       "added_at": "2026-09-25 07:19:01",
@@ -165,24 +189,20 @@
       "url": "https://open.spotify.com/track/4J3KSbDGoSj1iWq5aWBY88"
     },
     {
-      "added_at": "2026-10-16 05:41:06",
+      "added_at": "2026-10-30 04:36:33",
       "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/3BWt0ekoMAC8kNDItB6gKh"
+        "name": "FATED",
+        "url": "https://open.spotify.com/album/2shkUGbb8RzdKFhgJFxTcA"
       },
       "artists": [
         {
           "name": "Devin Donnell",
           "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
-        },
-        {
-          "name": "Jay Versace",
-          "url": "https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5"
         }
       ],
-      "duration_ms": 161967,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/0oPBh5q8QufzdxoYQ3Zn7C"
+      "duration_ms": 168064,
+      "name": "I DID IT",
+      "url": "https://open.spotify.com/track/5339AH7RExrPkEGvU0VcWu"
     },
     {
       "added_at": "2026-09-11 04:02:25",
@@ -253,10 +273,10 @@
       "url": "https://open.spotify.com/track/3lHS33KwhJWbDNyB3DNUwu"
     },
     {
-      "added_at": "2026-10-16 05:41:06",
+      "added_at": "2026-10-30 04:36:33",
       "album": {
-        "name": "boys don't cry!",
-        "url": "https://open.spotify.com/album/6JENAcYgM5fWKIdWFxWaw6"
+        "name": "hold me, don't hold back!",
+        "url": "https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r"
       },
       "artists": [
         {
@@ -264,9 +284,9 @@
           "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
         }
       ],
-      "duration_ms": 235000,
-      "name": "boys don't cry!",
-      "url": "https://open.spotify.com/track/4EXVXNbKOEAVQ6r4FNVFgq"
+      "duration_ms": 181828,
+      "name": "no self respect!",
+      "url": "https://open.spotify.com/track/3N5j3gFJ95qVY9babWKo6E"
     },
     {
       "added_at": "2026-10-09 06:44:31",
@@ -447,6 +467,26 @@
       "duration_ms": 181728,
       "name": "Souls Tied",
       "url": "https://open.spotify.com/track/5PuBX5ovZuAsTHSBEXl9vS"
+    },
+    {
+      "added_at": "2026-09-04 04:02:39",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5JETRTeIdaRlVLtUNAGtnc"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "duration_ms": 137509,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/5MeDN4LNfsWh5HLGD6xDQv"
     },
     {
       "added_at": "2026-10-09 06:44:31",
@@ -991,26 +1031,6 @@
       "duration_ms": 153290,
       "name": "Music All Over Her Body",
       "url": "https://open.spotify.com/track/2RKLOqwsqYlDqj8oqSbRGw"
-    },
-    {
-      "added_at": "2026-09-04 04:02:39",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5JETRTeIdaRlVLtUNAGtnc"
-      },
-      "artists": [
-        {
-          "name": "Devin Donnell",
-          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
-        },
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        }
-      ],
-      "duration_ms": 137509,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/5MeDN4LNfsWh5HLGD6xDQv"
     },
     {
       "added_at": "2026-09-11 04:02:25",
@@ -3155,22 +3175,6 @@
       "duration_ms": 148815,
       "name": "580",
       "url": "https://open.spotify.com/track/5c6UnUvN5JUaCQRPxweoDS"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Don\u2019t Come Home",
-        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 109966,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
     },
     {
       "added_at": "2026-05-29 04:02:53",

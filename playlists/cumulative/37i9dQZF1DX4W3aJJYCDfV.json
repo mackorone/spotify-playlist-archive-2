@@ -35046,10 +35046,6 @@
         {
           "name": "IRAH",
           "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "Ezra Joshua Bryant",
-          "url": "https://open.spotify.com/artist/0us37RdZ0CmfbcdIrgqmr9"
         }
       ],
       "date_added": "2026-10-30",
@@ -71471,6 +71467,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0kM00NtjdpNkgDra778Lf9"
+      },
+      "artists": [
+        {
+          "name": "deed0t",
+          "url": "https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3Hx9VNVA54pkwO3Wf5Sqdm"
+    },
+    {
+      "album": {
         "name": "Another Picture",
         "url": "https://open.spotify.com/album/4KX3JNsNm2zB2VZO7xMfvk"
       },
@@ -106795,7 +106809,7 @@
     },
     {
       "album": {
-        "name": "Dont Ask",
+        "name": "Don't Ask",
         "url": "https://open.spotify.com/album/5sxcjnYgpgAN4wRAZP4EAo"
       },
       "artists": [
@@ -296631,7 +296645,7 @@
     },
     {
       "album": {
-        "name": "Officer",
+        "name": "Officer (feat. Darkoo)",
         "url": "https://open.spotify.com/album/1OycXceEuI6nZfVcXzsbat"
       },
       "artists": [
@@ -296648,7 +296662,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 161460,
-      "name": "Officer",
+      "name": "Officer (feat. Darkoo)",
       "url": "https://open.spotify.com/track/3ehkr3ogsT0p5KqfNno97o"
     },
     {
@@ -375367,6 +375381,28 @@
     },
     {
       "album": {
+        "name": "SOUND OF THE SOUTH",
+        "url": "https://open.spotify.com/album/0l9xDGL3wCul1c8AkoarDJ"
+      },
+      "artists": [
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "SOUND OF THE SOUTH",
+      "url": "https://open.spotify.com/track/1F20jGNfCjT1qjuuE9lBkw"
+    },
+    {
+      "album": {
         "name": "Sound of The Underground",
         "url": "https://open.spotify.com/album/46j6wJ2lKw8AOqRvdE5CkG"
       },
@@ -391808,6 +391844,24 @@
       "duration_ms": 182019,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4Qa8mbZYA24jNGI5vkjob5"
+    },
+    {
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2BcUYeinHQuCSvQWfGZaYi"
+      },
+      "artists": [
+        {
+          "name": "MISSU",
+          "url": "https://open.spotify.com/artist/0mgZJ2lmD9jk1YSF43YwSG"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147518,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/2xZk0W8K0J4zEFczDjVjrZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-1,365 songs - 3 day 3 hr 46 min
+1,367 songs - 3 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Digital Dash](https://open.spotify.com/track/0GR7iJLhj80KD5LkA14ZRn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:51 | 2024-01-25 | 2025-03-28 |
 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 | 2024-02-14 |  |
 | [Dip \(\#thewoah\)](https://open.spotify.com/track/1rcEtzR9Z07PvQBqUxhFcU) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Dip \(\#thewoah\)](https://open.spotify.com/album/4K6CTmLpIJkxCJo0Ri5C1y) | 1:58 | 2024-01-25 |  |
+| [Dirty Dan](https://open.spotify.com/track/6aHrHgjnK3amArpfPyGFTV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Dirty Dan](https://open.spotify.com/album/7ChXfVDvpK6QIJaSSDrlTz) | 2:15 | 2026-10-30 |  |
 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 | 2024-01-25 | 2024-02-07 |
 | [DIS 1 GOT IT](https://open.spotify.com/track/4tMhjP02FRQ0KIUUEJ2oGK) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:03 | 2025-03-27 | 2025-04-25 |
 | [Discussion](https://open.spotify.com/track/1N0VXvVxSoMp66StV03Opo) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Luca Brasi 3](https://open.spotify.com/album/0iU6k5p5NFNbAc1MOFMusJ) | 2:42 | 2024-01-25 | 2025-03-28 |
@@ -1112,6 +1113,7 @@
 | [Spend Dat \(feat\. Lil Baby & Kodak Black\) \- Remix](https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Spend Dat \(Remix\)](https://open.spotify.com/album/4QFNvWaitTyvKr3yoDXjc5) | 3:14 | 2026-08-28 |  |
 | [Spicy Margarita](https://open.spotify.com/track/6TFUhEcEsqGVMZeZtAeUzN) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spicy Margarita](https://open.spotify.com/album/0axDmm6r0mlrw4SRIXpIER) | 2:34 | 2024-02-14 | 2024-02-27 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2024-01-25 |  |
+| [Spinnin \(feat\. 21 Savage\)](https://open.spotify.com/track/6u82jr3MnmUbG1th452h4u) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Just Doin Me](https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf) | 3:44 | 2026-10-30 |  |
 | [Spot Rusherz](https://open.spotify.com/track/72RfIiWDCJqiZEC6ZNCSdB) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 3:13 | 2024-01-25 |  |
 | [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 | 2024-05-17 |  |
 | [Sprung](https://open.spotify.com/track/5QryAaFK2iXUBX4KhC6QaZ) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Zombieland 2](https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9) | 2:14 | 2024-08-23 |  |

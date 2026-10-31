@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Mountain Grass Unit
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,554 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,551 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 2 | [Failing](https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 3:13 |
 | 3 | [Burled Woods](https://open.spotify.com/track/7m6xKcmsf3hb5aCs6sUsBH) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [Burled Woods](https://open.spotify.com/album/1kUOlNxd4x7zaay7LBNpGJ) | 2:49 |
 | 4 | [Grounded Anymore](https://open.spotify.com/track/3Ddt1ye9MO0U977ScJe6ai) | [Clayton Nile Young](https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm), [Sunriver](https://open.spotify.com/artist/3JBOTREK1frB1kw3ZhRbtd) | [Eddy](https://open.spotify.com/album/5RFhAWk92FgO7iQbsryDWr) | 2:46 |
-| 5 | [Trouble In Mind](https://open.spotify.com/track/4l2hyj3Wj2F2h9rAoTaYzc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Trouble In Mind](https://open.spotify.com/album/4RGyBhfOtvkhuSYcbCerrR) | 3:09 |
+| 5 | [Trouble In Mind \(Feat\. Sam Amidon\)](https://open.spotify.com/track/4l2hyj3Wj2F2h9rAoTaYzc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Trouble In Mind \(Feat\. Sam Amidon\)](https://open.spotify.com/album/4RGyBhfOtvkhuSYcbCerrR) | 3:09 |
 | 6 | [Black River Gospel](https://open.spotify.com/track/7mJaQ6we8lznZdG9K4vl7A) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Susto Stringband](https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d) | [Susto Stringband \(Volume 2\)](https://open.spotify.com/album/3ydetPC1SpvworJqDuChU5) | 3:12 |
 | 7 | [Roadrunner](https://open.spotify.com/track/3PcmT2zJcq3i0ZxF4UMiE7) | [Two Runner](https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg) | [Roadrunner](https://open.spotify.com/album/3voUIbtY0Gz68S6yKnobMk) | 3:08 |
 | 8 | [See It To Believe It](https://open.spotify.com/track/7MkTQjk66d8yfyCD98uMIF) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [See It To Believe It](https://open.spotify.com/album/43lihhHwldsvcMHLE4tEAK) | 4:08 |

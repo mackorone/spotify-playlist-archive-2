@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Sylvie Miles
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,002 likes - 90 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,118 likes - 90 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [5th Gen](https://open.spotify.com/track/4sP63Z6Yx91kpI6Tap4oI6) | [ALVES \(PT\)](https://open.spotify.com/artist/40wBMmT0Xnq5UFxvMM0lcU), [Ghoul \(ZA\)](https://open.spotify.com/artist/1PCo4OSRCiClmjmir02vA5), [Luca Napoli](https://open.spotify.com/artist/5m83FA5g3AEC8ZEwGYZSLE) | [5th Gen](https://open.spotify.com/album/0PQix4eN6ET8cRj8PeRTzK) | 6:03 |
 | 90 | [Groove Again](https://open.spotify.com/track/3ARJHyg1YdsjG48QTHvGN6) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Groove Again](https://open.spotify.com/album/6Qcfv9XTIWeORmrhpllqYZ) | 5:22 |
 
-Snapshot ID: `AAAAAOlrJ12P0YOeS76tFWWABsUNbz4U`
+Snapshot ID: `AAAAAEBZKxN8XRSgB5kK4caV12oJBRSD`

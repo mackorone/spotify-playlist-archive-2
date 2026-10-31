@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 ### [New Classical](https://open.spotify.com/playlist/37i9dQZF1DWV0gynK7G6pD)
 
-> Updated every Friday with the very best classical new releases\. Cover:  Igor Levit
+> Updated every Friday with the very best classical new releases\. Cover:  Anastasia Kobekina
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,881 likes - 99 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,067 likes - 99 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 98 | [3 Preludes and Fugues, Op\. 7: Prélude et Fugue No\. 3 in G Minor: II\. Fugue](https://open.spotify.com/track/5gltXHT2XgLe3PQA2GkQjF) | [Marcel Dupré](https://open.spotify.com/artist/1wyuV2UwDaVUPcvuC8YG68), [Olivier Latry](https://open.spotify.com/artist/26hVc4pAHA9g5tO1bqEZ0k) | [Legends: Dupré & Liszt](https://open.spotify.com/album/01vVpx4cyamSX8wav3jAea) | 3:12 |
 | 99 | [Fantasia sull'opera Aida di Verdi, Op\. 11](https://open.spotify.com/track/4gIqSn3EAjcYbSufFyhKub) | [Giovanni Caramiello](https://open.spotify.com/artist/1sE9zcfMyY0m7jFiMc1F2H), [Sofia Marzetti](https://open.spotify.com/artist/79n1rJcak6amExjhtGsoY6) | [Metamorphoses: Folk Songs and Virtuoso Transcriptions for Harp : Giovanni Caramiello, Camille Saint\-Saëns, Carlos Salzedo, Bedřich Smetana, Reinhold Glière](https://open.spotify.com/album/7JVoTyA6f9y1oBUgpJ9rLJ) | 6:34 |
 
-Snapshot ID: `AAAAAOLF9Ka/dARD0ORuk4TWF5jCcy+4`
+Snapshot ID: `AAAAAFC/h+tPnkOoYgDaDnDsV5Lo4QQB`

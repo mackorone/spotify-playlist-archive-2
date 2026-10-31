@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag och ny musik fr\u00e5n FELICIA, H\u00e5kan Hellstr\u00f6m och waterbaby med flera. Happy New Music Friday!",
-  "num_followers": 236709,
+  "num_followers": 236887,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFTKVTbtlY9IekqjATRz/eyYEwIl",
+  "snapshot_id": "AAAAADFHpy5KAaKdTD2Sxh9D1/o24ZDb",
   "tracks": [
     {
       "added_at": "2026-10-29 23:00:46",
@@ -36,7 +36,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 169647,
+      "duration_ms": 170582,
       "name": "Here You Come, There You Go",
       "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
     },
@@ -295,6 +295,58 @@
       "duration_ms": 160671,
       "name": "Vill Ha Dig (Feat. Hanna Ferm)",
       "url": "https://open.spotify.com/track/1vJTlLaXQ4eUmzSbodIgh7"
+    },
+    {
+      "added_at": "2026-10-30 07:24:58",
+      "album": {
+        "name": "saxofonk\u00e5t",
+        "url": "https://open.spotify.com/album/0rUi9bJcDAe0JQEYNvceyq"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 226086,
+      "name": "saxofonk\u00e5t",
+      "url": "https://open.spotify.com/track/4kRFbAZUp4G30qe98ttqHF"
+    },
+    {
+      "added_at": "2026-10-30 07:24:58",
+      "album": {
+        "name": "Dia de los Muertos",
+        "url": "https://open.spotify.com/album/06m666PYfhzKJiXW0bbHYH"
+      },
+      "artists": [
+        {
+          "name": "STOR",
+          "url": "https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw"
+        },
+        {
+          "name": "Linda Pira",
+          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Dia de los Muertos",
+      "url": "https://open.spotify.com/track/0DsFxjab8vccP2EHsAFqo1"
+    },
+    {
+      "added_at": "2026-10-30 08:13:53",
+      "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/5P75S5qM1EX3kUXLLRHzqf"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 181545,
+      "name": "BAD IDEA",
+      "url": "https://open.spotify.com/track/7FfG4gnPZfM5ksxl1WvF1w"
     },
     {
       "added_at": "2026-10-29 23:00:46",
@@ -1065,6 +1117,26 @@
       "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
     },
     {
+      "added_at": "2026-10-30 09:51:36",
+      "album": {
+        "name": "3AM+",
+        "url": "https://open.spotify.com/album/6GQwxHlfagukI1JCejREfE"
+      },
+      "artists": [
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "JD Cliffe",
+          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
+        }
+      ],
+      "duration_ms": 156909,
+      "name": "3AM+",
+      "url": "https://open.spotify.com/track/5o57aD4b54U1LwOzNN38yW"
+    },
+    {
       "added_at": "2026-10-29 23:00:46",
       "album": {
         "name": "Tell You Why",
@@ -1155,7 +1227,7 @@
     {
       "added_at": "2026-10-29 23:00:46",
       "album": {
-        "name": "Livredd for \u00e5 bli kjent",
+        "name": "livredd for \u00e5 bli kjent",
         "url": "https://open.spotify.com/album/2R0CyA0VAKvOLt3l5UdTKE"
       },
       "artists": [

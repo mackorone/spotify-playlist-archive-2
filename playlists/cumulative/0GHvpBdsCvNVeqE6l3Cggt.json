@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Synthimacy",
+        "url": "https://open.spotify.com/album/06S4JQAzX9Y8wfQipQWRmY"
+      },
+      "artists": [
+        {
+          "name": "NOXON",
+          "url": "https://open.spotify.com/artist/60v7Pw2EQJBDbGo3vAdCQH"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Synthimacy",
+      "url": "https://open.spotify.com/track/5CPQEzZj3kYN84JDIZmphl"
+    },
+    {
+      "album": {
         "name": "Wheatus",
         "url": "https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW"
       },

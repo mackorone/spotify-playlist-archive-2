@@ -21599,6 +21599,32 @@
     },
     {
       "album": {
+        "name": "Smashing Pumpkins",
+        "url": "https://open.spotify.com/album/45wTOmW6TeoBin61NgyvKB"
+      },
+      "artists": [
+        {
+          "name": "Psy Trance Mafia",
+          "url": "https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476689,
+      "name": "Smashing Pumpkins",
+      "url": "https://open.spotify.com/track/7qtKsfwxWLrgIfOTxYlFDZ"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2"
       },

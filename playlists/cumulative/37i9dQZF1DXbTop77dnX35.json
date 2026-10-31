@@ -3821,6 +3821,24 @@
     },
     {
       "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "African Baddie",
+      "url": "https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG"
+    },
+    {
+      "album": {
         "name": "African Buoy",
         "url": "https://open.spotify.com/album/4ZzsWY2WUETPUEZc4kNmkl"
       },
@@ -5705,7 +5723,7 @@
     },
     {
       "album": {
-        "name": "Alhamdulilah",
+        "name": "Alhamdulillah",
         "url": "https://open.spotify.com/album/1bTp8MhhmKqwPkOzGCjDp6"
       },
       "artists": [
@@ -5718,7 +5736,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148000,
-      "name": "Alhamdulilah",
+      "name": "Alhamdulillah",
       "url": "https://open.spotify.com/track/4u1ccfH8aFxt5hMFLQezSK"
     },
     {
@@ -52223,7 +52241,7 @@
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172850,
+      "duration_ms": 163200,
       "name": "Gold & Silver",
       "url": "https://open.spotify.com/track/48rD9ua533zOUAGinZklyO"
     },

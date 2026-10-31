@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Bensoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,703 likes - 64 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,705 likes - 64 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

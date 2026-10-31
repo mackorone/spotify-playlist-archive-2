@@ -515,6 +515,22 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
+        "name": "Touch Down",
+        "url": "https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 133369,
+      "name": "Touch Down",
+      "url": "https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ"
+    },
+    {
+      "added_at": "2026-10-01 04:01:04",
+      "album": {
         "name": "Alright, alright",
         "url": "https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2026-10-01 04:01:04",
       "album": {
-        "name": "Touch Down",
-        "url": "https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e"
+        "name": "Cry When I'm Alone",
+        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
         }
       ],
-      "duration_ms": 133369,
-      "name": "Touch Down",
-      "url": "https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ"
+      "duration_ms": 167226,
+      "name": "Cry When I'm Alone",
+      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
     },
     {
       "added_at": "2026-10-01 04:01:04",
@@ -599,22 +615,6 @@
       "duration_ms": 194444,
       "name": "Versailles",
       "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
-    },
-    {
-      "added_at": "2026-10-01 04:01:04",
-      "album": {
-        "name": "Cry When I'm Alone",
-        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Cry When I'm Alone",
-      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
     },
     {
       "added_at": "2026-10-01 04:01:04",

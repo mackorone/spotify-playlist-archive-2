@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Ella Langley, and the biggest hits in country music.
+> Zach Bryan and the biggest hits in country music.
 
 1,011 songs - 2 day 6 hr 52 min
 

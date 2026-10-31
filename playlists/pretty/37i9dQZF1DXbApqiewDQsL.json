@@ -1,13 +1,81 @@
 {
-  "description": "The best new music by independent artists and labels, featuring  Muriel",
-  "num_followers": 17771,
+  "description": "The best new music by independent artists and labels, featuring  Estilo Real",
+  "num_followers": 17786,
   "original_name": "Fresh Finds M\u00fasica Mexicana ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnjC3J63PCCA5/6lT0YQ+Zx17f8",
+  "snapshot_id": "AAAAAPFlcqvTOupLdsS7l208E40NYeqv",
   "tracks": [
+    {
+      "added_at": "2026-10-30 07:02:59",
+      "album": {
+        "name": "Ve y Dile",
+        "url": "https://open.spotify.com/album/0MDn9KCzZUksxniEf5SAYj"
+      },
+      "artists": [
+        {
+          "name": "Estilo Real",
+          "url": "https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN"
+        }
+      ],
+      "duration_ms": 112950,
+      "name": "Ve y Dile",
+      "url": "https://open.spotify.com/track/1euRZaOqwF8sSsiP1VMBDO"
+    },
+    {
+      "added_at": "2026-10-30 07:02:59",
+      "album": {
+        "name": "Por antig\u00fcedad",
+        "url": "https://open.spotify.com/album/4oWGlvnBUJ0SDlmMC2t5tn"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "duration_ms": 149971,
+      "name": "Por antig\u00fcedad",
+      "url": "https://open.spotify.com/track/29R9iMsijuHJMhrwyS42Ho"
+    },
+    {
+      "added_at": "2026-10-30 07:02:59",
+      "album": {
+        "name": "PERRA HAMBRE",
+        "url": "https://open.spotify.com/album/3A35xdnQ1WlngkRFAZqOjH"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Leyva",
+          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
+        }
+      ],
+      "duration_ms": 156247,
+      "name": "PERRA HAMBRE",
+      "url": "https://open.spotify.com/track/4XAfw0OQDyjRE40ShP9xq9"
+    },
+    {
+      "added_at": "2026-10-30 07:02:59",
+      "album": {
+        "name": "Da\u00f1ada",
+        "url": "https://open.spotify.com/album/0QWBvMtlxhEmm8IpEByXZr"
+      },
+      "artists": [
+        {
+          "name": "Benz J",
+          "url": "https://open.spotify.com/artist/2JUhZwxsGuEp52HFfKn3WO"
+        },
+        {
+          "name": "Arre",
+          "url": "https://open.spotify.com/artist/1xnSdmB7fgS0JcfOJFzBF1"
+        }
+      ],
+      "duration_ms": 180972,
+      "name": "Da\u00f1ada",
+      "url": "https://open.spotify.com/track/0X0Qf5X9h8cOwTNFXY1CeH"
+    },
     {
       "added_at": "2026-10-14 20:53:10",
       "album": {
@@ -55,6 +123,46 @@
       "duration_ms": 193002,
       "name": "CHVLN",
       "url": "https://open.spotify.com/track/27hnlzFJNtZhYULYTfRCHb"
+    },
+    {
+      "added_at": "2026-10-30 07:02:59",
+      "album": {
+        "name": "Pecado",
+        "url": "https://open.spotify.com/album/4gG3PpVyhspjMHywgPihlV"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "MEDIOKRES",
+          "url": "https://open.spotify.com/artist/1B2AnkJUNWFxiWkHK0jo8X"
+        }
+      ],
+      "duration_ms": 182317,
+      "name": "Pecado",
+      "url": "https://open.spotify.com/track/4nqUIQcVg69pUWaJf9gb8U"
+    },
+    {
+      "added_at": "2026-10-30 07:02:59",
+      "album": {
+        "name": "Vestido De Besos",
+        "url": "https://open.spotify.com/album/40MGhFat3oUcFNVMr8Zsl9"
+      },
+      "artists": [
+        {
+          "name": "Los 3 De La M",
+          "url": "https://open.spotify.com/artist/3aubh7jrz67zJEn17yJuLP"
+        },
+        {
+          "name": "Decreto Real",
+          "url": "https://open.spotify.com/artist/7AthXwx27wyMbTkzJV0oN0"
+        }
+      ],
+      "duration_ms": 207847,
+      "name": "Vestido De Besos",
+      "url": "https://open.spotify.com/track/7Ac6mA4MmVIVwKH9a95sfj"
     },
     {
       "added_at": "2026-10-14 20:53:10",
@@ -723,38 +831,6 @@
     {
       "added_at": "2026-10-02 06:51:57",
       "album": {
-        "name": "Paso Firme",
-        "url": "https://open.spotify.com/album/20kx0RYMvXKdpFwjp96vBK"
-      },
-      "artists": [
-        {
-          "name": "Joan Y Su Elite",
-          "url": "https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1"
-        }
-      ],
-      "duration_ms": 160085,
-      "name": "Paso Firme",
-      "url": "https://open.spotify.com/track/4Mra8EdCYTUeIwFAathPXI"
-    },
-    {
-      "added_at": "2026-10-02 06:51:57",
-      "album": {
-        "name": "COSAS QUE A TI TE CONTABA.",
-        "url": "https://open.spotify.com/album/1SE5rhFC0LKu25F5k0KFuc"
-      },
-      "artists": [
-        {
-          "name": "Ramses Rico",
-          "url": "https://open.spotify.com/artist/6J3O2ixka3HAaIuRrR9YQU"
-        }
-      ],
-      "duration_ms": 212312,
-      "name": "Por Accidente",
-      "url": "https://open.spotify.com/track/2DLxFEl2aVe8JB6UOMf2jR"
-    },
-    {
-      "added_at": "2026-10-02 06:51:57",
-      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/2mSU9zlVPSWpGYbzw8IJ5N"
       },
@@ -787,22 +863,6 @@
     {
       "added_at": "2026-10-02 06:51:57",
       "album": {
-        "name": "El Quarterback",
-        "url": "https://open.spotify.com/album/5W6j9i2emyWCFqdzjoAVGU"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 135542,
-      "name": "El Quarterback",
-      "url": "https://open.spotify.com/track/7ij4iKaDMPlsoJyDo2i9VD"
-    },
-    {
-      "added_at": "2026-10-02 06:51:57",
-      "album": {
         "name": "Me Cans\u00e9",
         "url": "https://open.spotify.com/album/4QAZjZixdVZvsWjNDjJk7P"
       },
@@ -819,62 +879,6 @@
       "duration_ms": 163728,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/4mGhy84yKIKCdeXkIkMVE3"
-    },
-    {
-      "added_at": "2026-10-02 06:51:57",
-      "album": {
-        "name": "VERTE FELIZ",
-        "url": "https://open.spotify.com/album/6rASLjJ2Vt4HtNQ7CZX4lI"
-      },
-      "artists": [
-        {
-          "name": "EXPA",
-          "url": "https://open.spotify.com/artist/4RuKH2vORrHFcveDfo2Fz7"
-        },
-        {
-          "name": "Jerold",
-          "url": "https://open.spotify.com/artist/636inJTjso0ZCSifE4d3mH"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "VERTE FELIZ",
-      "url": "https://open.spotify.com/track/4s6VfPfp92MvK6GP2tmA6R"
-    },
-    {
-      "added_at": "2026-10-02 06:51:57",
-      "album": {
-        "name": "DaVinci",
-        "url": "https://open.spotify.com/album/6X8pFW6yquR8sPiAfLRiWG"
-      },
-      "artists": [
-        {
-          "name": "Julio LV",
-          "url": "https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S"
-        },
-        {
-          "name": "Julian Leyva",
-          "url": "https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv"
-        }
-      ],
-      "duration_ms": 174484,
-      "name": "DaVinci",
-      "url": "https://open.spotify.com/track/20KQXLYF4MVENCUxHwjpdY"
-    },
-    {
-      "added_at": "2026-10-02 06:51:57",
-      "album": {
-        "name": "La Gata Bajo La Lluvia",
-        "url": "https://open.spotify.com/album/27LwFp5BJx9xYGatnh3cXf"
-      },
-      "artists": [
-        {
-          "name": "Gabby Tamez",
-          "url": "https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2"
-        }
-      ],
-      "duration_ms": 234134,
-      "name": "La Gata Bajo La Lluvia",
-      "url": "https://open.spotify.com/track/6xBR4IYdK9MzO5u1FjDyNN"
     }
   ],
   "unique_name": "Fresh Finds M\u00fasica Mexicana ",

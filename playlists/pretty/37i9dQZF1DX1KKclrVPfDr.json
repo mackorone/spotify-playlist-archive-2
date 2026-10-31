@@ -1,6 +1,6 @@
 {
   "description": "\u0917\u093e\u0901\u0935-\u0918\u0930 \u0915\u0940 \u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0905\u0938\u0932\u0940 \u0938\u0902\u0917\u0940\u0924 '\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0935\u093f\u0935\u093e\u0939 \u0917\u0940\u0924'.",
-  "num_followers": 11537,
+  "num_followers": 11535,
   "original_name": "Bhojpuri Vivah Geet",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-08-21 10:07:01",
       "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 293856,
-      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
-      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
-    },
-    {
-      "added_at": "2026-08-21 10:07:01",
-      "album": {
         "name": "Shubh Vivah",
         "url": "https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 778125,
       "name": "Shubh Vivah",
       "url": "https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ"
+    },
+    {
+      "added_at": "2026-08-21 10:07:01",
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "duration_ms": 293856,
+      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
+      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
     },
     {
       "added_at": "2026-08-21 10:07:01",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-08-21 10:07:01",
       "album": {
-        "name": "Mangal Geet",
-        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
+        "name": "Beti Ke Biaah",
+        "url": "https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR"
       },
       "artists": [
         {
-          "name": "Devi",
-          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
         }
       ],
-      "duration_ms": 269488,
-      "name": "Seeta Ke Sakal Dekhi",
-      "url": "https://open.spotify.com/track/6zdVpdazwqRj8JfekfuzcW"
+      "duration_ms": 343853,
+      "name": "Shri Ganeshay Namah",
+      "url": "https://open.spotify.com/track/5WoSQKlucY7p6W4laXFGLd"
     },
     {
       "added_at": "2026-08-21 10:07:01",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-08-21 10:07:01",
       "album": {
-        "name": "Beti Ke Biaah",
-        "url": "https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR"
+        "name": "Mangal Geet",
+        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
       },
       "artists": [
         {
-          "name": "Anuradha Paudwal",
-          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+          "name": "Devi",
+          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
         }
       ],
-      "duration_ms": 343853,
-      "name": "Shri Ganeshay Namah",
-      "url": "https://open.spotify.com/track/5WoSQKlucY7p6W4laXFGLd"
+      "duration_ms": 269488,
+      "name": "Seeta Ke Sakal Dekhi",
+      "url": "https://open.spotify.com/track/6zdVpdazwqRj8JfekfuzcW"
     },
     {
       "added_at": "2026-08-21 10:07:01",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-08-21 10:07:01",
       "album": {
-        "name": "Mangal Geet",
-        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
+        "name": "Beti Ke Biaah",
+        "url": "https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR"
       },
       "artists": [
         {
-          "name": "Devi",
-          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
         }
       ],
-      "duration_ms": 404096,
-      "name": "Hare-Hare Hare Dada",
-      "url": "https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL"
+      "duration_ms": 407066,
+      "name": "Samdhi Khala Rasbuniya",
+      "url": "https://open.spotify.com/track/1m8Le98QXAnVapcSwUcL3y"
     },
     {
       "added_at": "2026-08-21 10:07:01",

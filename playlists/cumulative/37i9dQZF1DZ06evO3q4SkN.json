@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 66893,
       "name": "Felipe's Theme",
       "url": "https://open.spotify.com/track/7DCnWWU7KEswRD2qoqFRbU"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 71400,
       "name": "George And Doris",
       "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 61293,
       "name": "George's Pancake Practice",
       "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 52093,
       "name": "Monkey Mixup",
       "url": "https://open.spotify.com/track/0Ou4tfO0Zel3VtA5gFQRAR"
@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 66040,
       "name": "Royal Jet",
       "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 92773,
       "name": "Ted And Felipe Arrive",
       "url": "https://open.spotify.com/track/5luoWuuRXpjursM5bDKtGN"
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 49120,
       "name": "The King's Royal Toys",
       "url": "https://open.spotify.com/track/7yEH6l5TiI0jsFDzFWZbLa"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 119240,
       "name": "The Landscape Medley",
       "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 47800,
       "name": "The Porcupine Song",
       "url": "https://open.spotify.com/track/55l2zVDdCDWGDg8oMBn3DH"
@@ -3088,6 +3088,24 @@
       "duration_ms": 143946,
       "name": "The Stampede",
       "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
+    },
+    {
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57066,
+      "name": "The Tuba Zip Line Escape",
+      "url": "https://open.spotify.com/track/16gdicjvd83t6KFd1m74Zm"
     },
     {
       "album": {

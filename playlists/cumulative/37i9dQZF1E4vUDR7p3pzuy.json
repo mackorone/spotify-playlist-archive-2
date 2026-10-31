@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 190236,
       "name": "A Perfect Day",
       "url": "https://open.spotify.com/track/5mrFLqxBLS7t8cMnuLMiVY"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 206654,
       "name": "All Eternity - MaXi-P Remake",
       "url": "https://open.spotify.com/track/15JTmvNOgnKTydL3ewdDte"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 265072,
       "name": "C.L.C",
       "url": "https://open.spotify.com/track/79nGNGEJExUcBT80MajWOT"
@@ -4917,6 +4917,32 @@
     },
     {
       "album": {
+        "name": "Curse of the Golden Touch",
+        "url": "https://open.spotify.com/album/5KORv8uDGht7CUI70OWEZ0"
+      },
+      "artists": [
+        {
+          "name": "HyenaXXL",
+          "url": "https://open.spotify.com/artist/2RtFmKHXC94QNZDLjt1ycs"
+        },
+        {
+          "name": "Discomid",
+          "url": "https://open.spotify.com/artist/0vhngz1IcMIh1D1fuEhJ4I"
+        },
+        {
+          "name": "Ralphy Grey",
+          "url": "https://open.spotify.com/artist/1KYolWUKHGoVTewSaMB2ti"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257857,
+      "name": "Curse of the Golden Touch",
+      "url": "https://open.spotify.com/track/1ugw0BeiI2PhaXdWvZD7VE"
+    },
+    {
+      "album": {
         "name": "Vantage Point",
         "url": "https://open.spotify.com/album/3rerUGhrvGrfz7nRXItHiX"
       },
@@ -6384,7 +6410,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 234881,
       "name": "Drive Me Far",
       "url": "https://open.spotify.com/track/3xITmk4oLCcSV2iOWmEXHy"
@@ -6831,6 +6857,24 @@
     },
     {
       "album": {
+        "name": "Empty Love",
+        "url": "https://open.spotify.com/album/0jl7Ox31aLXZDYtu7ShTkN"
+      },
+      "artists": [
+        {
+          "name": "Ded and Buryd",
+          "url": "https://open.spotify.com/artist/5227FF8feipCXYr05M8KnD"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "Empty Love",
+      "url": "https://open.spotify.com/track/4QC9OZgkvoKtGPM5HULNQN"
+    },
+    {
+      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/4WD7I8qFCq0L96N8yTGeSO"
       },
@@ -6842,7 +6886,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 250136,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/0auX5w6US3LPwAQcpjMygH"
@@ -8572,7 +8616,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 216506,
       "name": "Gazing Back",
       "url": "https://open.spotify.com/track/0wLwXaiQfTdsbToiIU3kso"
@@ -9126,7 +9170,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "Half the Glass",
       "url": "https://open.spotify.com/track/6e9AiR1hqiJ6x9PCFMFRuK"
@@ -10505,6 +10549,32 @@
     },
     {
       "album": {
+        "name": "I WALK AROUND ON HALLOWEEN (LOOKING FOR YOUR GHOST) [Radio Edit]",
+        "url": "https://open.spotify.com/album/1HzW6uYdVnPhPKTSpNjfGe"
+      },
+      "artists": [
+        {
+          "name": "Sugar Skeletons",
+          "url": "https://open.spotify.com/artist/1JJ3u7nuYTbUOnXIKIvv9X"
+        },
+        {
+          "name": "FABIAN DEAD",
+          "url": "https://open.spotify.com/artist/5WUFeD231i1lEvdEcKXyat"
+        },
+        {
+          "name": "BENNY CALAVERA",
+          "url": "https://open.spotify.com/artist/5eMyWqXNpHytHuZhv2tPX4"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212343,
+      "name": "I WALK AROUND ON HALLOWEEN (LOOKING FOR YOUR GHOST) - Radio Edit",
+      "url": "https://open.spotify.com/track/0CEPIXPoBemKxIJv6Hhwcl"
+    },
+    {
+      "album": {
         "name": "I WANNA KNOW",
         "url": "https://open.spotify.com/album/3XmLj0BwsIyJxnj5LMZsI1"
       },
@@ -11512,7 +11582,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -14634,7 +14704,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 239496,
       "name": "My Pain",
       "url": "https://open.spotify.com/track/6rXmUDj5JyOIgcfzZoU9Lk"
@@ -16797,6 +16867,24 @@
     },
     {
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/3R8lfu9VTlwMkrEX9J7rDw"
+      },
+      "artists": [
+        {
+          "name": "2:45",
+          "url": "https://open.spotify.com/artist/702UR3h89QRIHqEXPOoPiH"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/3iVUil2ipWNK6MvSGQREVI"
+    },
+    {
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/4PPMwGENVBX3PCDDE78P07"
       },
@@ -18006,7 +18094,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -18158,7 +18246,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 243565,
       "name": "shadow boxing",
       "url": "https://open.spotify.com/track/5sM2p9eZCSkiu2hFLLZH5W"
@@ -18396,7 +18484,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 197824,
       "name": "Sharehouse Blues",
       "url": "https://open.spotify.com/track/4AG2vjhfDzudK7KKQNLgyM"
@@ -19446,7 +19534,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 162063,
       "name": "Sou1/Spiri7",
       "url": "https://open.spotify.com/track/1QIG4U1pHWp4DU9bNFNoF8"
@@ -19594,7 +19682,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -19634,7 +19722,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 272533,
       "name": "Spinal Combiner",
       "url": "https://open.spotify.com/track/6fsNj309A8Xc4STeB6xHzT"
@@ -19688,7 +19776,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 199906,
       "name": "St. Vitus' Dance",
       "url": "https://open.spotify.com/track/4m592SxaLeKxghz6vAlY8P"
@@ -20190,7 +20278,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 188808,
       "name": "Suburban Princess - Not Suitable for Radio Edit",
       "url": "https://open.spotify.com/track/1HaOig40QKrMbx1d6XQklA"
@@ -20896,7 +20984,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 265511,
       "name": "Template",
       "url": "https://open.spotify.com/track/2U3ZCVEM5t3V2kgfBgJAFa"
@@ -23504,7 +23592,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 237888,
       "name": "Undead",
       "url": "https://open.spotify.com/track/5KA1lM5sdwMzuKn386tb1Q"
@@ -25012,7 +25100,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 151876,
       "name": "where is the sign",
       "url": "https://open.spotify.com/track/0t3jA9lPbkAXrGgs6J7FYg"
@@ -25402,7 +25490,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"

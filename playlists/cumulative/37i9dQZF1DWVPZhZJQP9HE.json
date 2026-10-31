@@ -14917,6 +14917,36 @@
     },
     {
       "album": {
+        "name": "Sundara Malli",
+        "url": "https://open.spotify.com/album/4PyMHEv3byExL8vB80zZ4Q"
+      },
+      "artists": [
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        },
+        {
+          "name": "Manoj Kumar Maddie",
+          "url": "https://open.spotify.com/artist/7i2GxFywnezuA61hdljCvH"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210902,
+      "name": "Sundara Malli",
+      "url": "https://open.spotify.com/track/3HKkqpO1plqN9SDwtuGo7O"
+    },
+    {
+      "album": {
         "name": "Swipe Right Material",
         "url": "https://open.spotify.com/album/5PVTBm7DZXOXBfKdkDVFVN"
       },

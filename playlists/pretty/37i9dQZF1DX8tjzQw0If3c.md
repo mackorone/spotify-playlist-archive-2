@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Meet the future\. Cover: Estelle Fly
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,484 likes - 63 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,482 likes - 63 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

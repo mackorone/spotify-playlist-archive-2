@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Enemy X",
+        "url": "https://open.spotify.com/album/4cjeqEQHheC6NGcawSACfE"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196926,
+      "name": "Enemy X",
+      "url": "https://open.spotify.com/track/6UHlqccJtmbnUSFaZWNPd6"
+    },
+    {
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY"
       },

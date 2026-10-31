@@ -4,7 +4,7 @@
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-75 songs - 6 hr 15 min
+76 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 | 2023-07-09 |  |
 | [Oi, Jesus](https://open.spotify.com/track/24yMODgKNyQDvvCKlbwlxR) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus](https://open.spotify.com/album/1mQXcTWqbRM5DNgOPN70N4) | 3:53 | 2023-07-09 |  |
 | [Oi, Jesus 2 \- Ao Vivo](https://open.spotify.com/track/0tCWQmv79OdJXnIHungKVt) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Oi, Jesus 2 \(Ao Vivo\)](https://open.spotify.com/album/3XpCverbmaqWNW8AH59Tu6) | 5:29 | 2025-08-17 |  |
+| [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/0HvUDLZSDd6QMocnkf2O9n) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [A Palavra Através do Pandeiro Vol.3 \(Ao Vivo\)](https://open.spotify.com/album/4HaDzeSJGNzi5U5bd3MNw5) | 5:22 | 2026-10-31 |  |
 | [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/0tIeWlRo1s3R2R83GLzXN3) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Os Sonhos de Deus \(Ao Vivo\)](https://open.spotify.com/album/6ixU3Qh1Lob6kEI02SeGQM) | 5:22 | 2026-07-04 | 2026-08-01 |
-| [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/6OSWTd3XcVNiXSFumvl2Uo) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [A Palavra Através do Pandeiro Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/04JRZQxRJBC8KpZhaQFvPm) | 5:22 | 2026-08-01 |  |
+| [Os Sonhos de Deus \- Ao Vivo](https://open.spotify.com/track/6OSWTd3XcVNiXSFumvl2Uo) | [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [A Palavra Através do Pandeiro Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/04JRZQxRJBC8KpZhaQFvPm) | 5:22 | 2026-08-01 | 2026-10-31 |
 | [Ovelha Em Treinamento](https://open.spotify.com/track/2enOwKM3juIzJQS9pkrSo5) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelha Em Treinamento](https://open.spotify.com/album/6kUI9W1yLD53e0oBIabItL) | 4:15 | 2026-08-01 |  |
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 | 2024-06-09 |  |
 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/5k21RXqN11N0TIeLLySlDv) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:36 | 2026-04-05 | 2026-10-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 169003,
+  "num_followers": 169033,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Adi\u00f3s A La Diosa",
+        "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
+      },
+      "artists": [
+        {
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Me Dejaste Sin Nada",
+      "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "La Combinaci\u00f3n Vallenata Elite, Vol. 5",
         "url": "https://open.spotify.com/album/79rVP1bPDpu4JtPhBZ0VBY"
       },
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Adi\u00f3s A La Diosa",
-        "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Me Dejaste Sin Nada",
-      "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Pisando Fuerte",
         "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
       },
@@ -1047,6 +1031,26 @@
       "duration_ms": 268042,
       "name": "Acu\u00e9rdate",
       "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+        }
+      ],
+      "duration_ms": 289253,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 315087,
-      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464 likes - 15 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,462 likes - 15 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

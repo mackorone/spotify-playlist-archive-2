@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 999335,
+  "num_followers": 999393,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "LOS VOLTAJE",
         "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 99285,
       "name": "LOS VOLTAJE",
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "MOTINHA 2.0 (Mete Marcha)",
         "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha)",
       "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "COM MEDO!",
-        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
-      },
-      "artists": [
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        }
-      ],
-      "duration_ms": 69736,
-      "name": "COM MEDO!",
-      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "DERNIERE DANCE FUNK",
         "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "COM MEDO!",
+        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
+      },
+      "artists": [
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "duration_ms": 69736,
+      "name": "COM MEDO!",
+      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "WAKE UP!",
         "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
+        "name": "Devil Eyes",
+        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        }
+      ],
+      "duration_ms": 136651,
+      "name": "Devil Eyes",
+      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 231236,
       "name": "GHOST!",
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
-        "name": "Devil Eyes",
-        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
-      },
-      "artists": [
-        {
-          "name": "ZODIVK",
-          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
-        }
-      ],
-      "duration_ms": 136651,
-      "name": "Devil Eyes",
-      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
     },
     {
       "added_at": "2026-04-03 16:00:07",

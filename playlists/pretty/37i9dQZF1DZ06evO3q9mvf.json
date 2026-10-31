@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3336,
+  "num_followers": 3337,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAArtwJf9rZY4wZUPPVqfa2V",
+  "snapshot_id": "auE7AAAAAADgSJhBMI1ym7idWnV1Q0YE",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
+      "duration_ms": 146586,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 146586,
-      "name": "Slime",
-      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
+      "duration_ms": 221306,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
     },
     {
       "added_at": null,

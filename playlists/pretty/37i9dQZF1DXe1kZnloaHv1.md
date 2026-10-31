@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,660 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,672 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 8 | [favorite things](https://open.spotify.com/track/2dCEOB0ETs7xydmxUVL7lg) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [favorite things](https://open.spotify.com/album/47LNVoOXsgKbKlq3EGIKSF) | 3:42 |
 | 9 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 |
 | 10 | [ZzZz](https://open.spotify.com/track/1JglVfTor06BLZvd5wl6Ym) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HIDE & SEEK](https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8) | 3:46 |
-| 11 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
+| 11 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [Meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
 | 12 | [I Need a Break \- New Version](https://open.spotify.com/track/4404HNIsGzdPguGiBOfK06) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Days of Disturbance](https://open.spotify.com/album/0yhlRbGiLQ1Z8CbRVM0VMj) | 3:19 |
 | 13 | [CHILLAX](https://open.spotify.com/track/1smeEAYwdjmdcLjcH67ASl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2DTATWEmzMCckJka5QZiJC) | 3:06 |
 | 14 | [Artificial Grass](https://open.spotify.com/track/1GQnsBrIvXjHtaVFuWtcS9) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 99 | [I'm not a hero](https://open.spotify.com/track/6SI9wSxkc9mBoTUWileqsq) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:58 |
 | 100 | [\(Because we\) Fall in Love](https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Polar](https://open.spotify.com/album/7ksHT5o2iwBZr0kDYL4LSa) | 3:06 |
 
-Snapshot ID: `AAAAAFC/WZayTS2t5LVcxOfgG5gcgzfZ`
+Snapshot ID: `AAAAAMIp62El7cyamjMXspqk3QJnocMm`

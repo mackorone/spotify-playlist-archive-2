@@ -15213,6 +15213,40 @@
     },
     {
       "album": {
+        "name": "FORTUNA",
+        "url": "https://open.spotify.com/album/1C17UFyP4zav6vAbOHKewG"
+      },
+      "artists": [
+        {
+          "name": "GASP",
+          "url": "https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "DBZ",
+          "url": "https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa"
+        },
+        {
+          "name": "Dapper",
+          "url": "https://open.spotify.com/artist/3HjiMSCJso9sKnJO6HEIJk"
+        },
+        {
+          "name": "Ed Mars",
+          "url": "https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146996,
+      "name": "DRG & XNX",
+      "url": "https://open.spotify.com/track/6ejQ3SKacV0Epywv3Sq93N"
+    },
+    {
+      "album": {
         "name": "Driftando (feat. Tony 2Milli)",
         "url": "https://open.spotify.com/album/4R1P9WFBnwmIuI0Cb88tjW"
       },
@@ -37820,6 +37854,10 @@
         {
           "name": "N'Dreamer",
           "url": "https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8"
+        },
+        {
+          "name": "YD Teddy",
+          "url": "https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4"
         }
       ],
       "date_added": "2026-10-15",
@@ -51424,24 +51462,6 @@
       "duration_ms": 118651,
       "name": "tra parentesi",
       "url": "https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo"
-    },
-    {
-      "album": {
-        "name": "FORTUNA",
-        "url": "https://open.spotify.com/album/1C17UFyP4zav6vAbOHKewG"
-      },
-      "artists": [
-        {
-          "name": "GASP",
-          "url": "https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V"
-        }
-      ],
-      "date_added": "2026-10-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6ejQ3SKacV0Epywv3Sq93N"
     },
     {
       "album": {

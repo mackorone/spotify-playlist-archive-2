@@ -2447,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/66z1FARiSKLUnbO31Hfo5Z"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1f7wOMiAv4Pt80YCwuqXaz"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Come Home",
         "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
       },
@@ -12231,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "this wolf may cry",
+        "url": "https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "r u?",
+      "url": "https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr"
+    },
+    {
+      "album": {
         "name": "Release Some Tension",
         "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
       },
@@ -12668,7 +12704,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 129925,
       "name": "right/left",
       "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
@@ -16910,6 +16946,24 @@
       "duration_ms": 174757,
       "name": "Who\u2019s Better",
       "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
+    },
+    {
+      "album": {
+        "name": "I'll Wait For You",
+        "url": "https://open.spotify.com/album/1gC8fKOA5RnJpvREjwtr9Z"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170550,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4clrm9D9tO72yE2eNFRMDP"
     },
     {
       "album": {

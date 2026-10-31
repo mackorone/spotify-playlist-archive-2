@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1289,
+  "num_followers": 1298,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEmKQB4vWdAH+WiPHH4QoqHyMOvdzo",
+  "snapshot_id": "AAAEmRX13hXK2JMnMchT5M6N7KzMM4oq",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -863,6 +863,22 @@
       "duration_ms": 244782,
       "name": "Insolvent Love",
       "url": "https://open.spotify.com/track/5TMBHV3UPXiuaSA1oy2vxz"
+    },
+    {
+      "added_at": "2026-10-30 20:43:22",
+      "album": {
+        "name": "No Room For Mistakes",
+        "url": "https://open.spotify.com/album/5HvHXK8emGWuET339Quh5Y"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Revival",
+          "url": "https://open.spotify.com/artist/7tEfnUn9b37STFIIEBkogv"
+        }
+      ],
+      "duration_ms": 185846,
+      "name": "No Room For Mistakes",
+      "url": "https://open.spotify.com/track/24Flmni6C0usFionuuAWA9"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

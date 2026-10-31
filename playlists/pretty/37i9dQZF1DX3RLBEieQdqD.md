@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Joaquin Guiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,960 likes - 85 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,004 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 6 | [Bandido Retirado](https://open.spotify.com/track/561vviXjNbKS5gXTI8QzW2) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bandido Retirado](https://open.spotify.com/album/23NV0BcdonkkabcGsnSQbV) | 2:52 |
 | 7 | [Ayer Y Hoy](https://open.spotify.com/track/5HCk7iruzhQ1FbxyS3igmM) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Iván Calderón](https://open.spotify.com/artist/7nQZUpVqCQNmNKmqkzP0Li) | [La Combinación Vallenata Vol.7](https://open.spotify.com/album/6JZGVYfdNiHZhVXI5BNbil) | 5:05 |
 | 8 | [Sin Medir Distancias](https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Grandes Exitos](https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz) | 4:58 |
-| 9 | [Pa' Que No Me Anden Contando \- Remix](https://open.spotify.com/track/5FjpV47OZnzaU85s0KToQS) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Juan Pablo Marquez](https://open.spotify.com/artist/6vQ0XC3lBnVgYUzUzDv990), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Pa' Que No Me Anden Contando \(Remix\)](https://open.spotify.com/album/08kLAE1CtYDg0EklM8LhwW) | 2:44 |
-| 10 | [En Manos Ajenas](https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [En Manos Ajenas](https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m) | 3:07 |
-| 11 | [¿QUÉ PASÓ AYER?](https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿QUÉ PASÓ AYER?](https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t) | 2:25 |
+| 9 | [GRACIAS](https://open.spotify.com/track/64pKD1DXwfmSEvD7pbHNxk) | [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [GRACIAS](https://open.spotify.com/album/79qbYw6iBGYgweLwhRmC2V) | 3:15 |
+| 10 | [Pa' Que No Me Anden Contando \- Remix](https://open.spotify.com/track/5FjpV47OZnzaU85s0KToQS) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Juan Pablo Marquez](https://open.spotify.com/artist/6vQ0XC3lBnVgYUzUzDv990), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Pa' Que No Me Anden Contando \(Remix\)](https://open.spotify.com/album/08kLAE1CtYDg0EklM8LhwW) | 2:44 |
+| 11 | [En Manos Ajenas](https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [En Manos Ajenas](https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m) | 3:07 |
 | 12 | [Infidelidad](https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Despecho a 2 Voces](https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY) | 2:33 |
 | 13 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
 | 14 | [Con el corazón](https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el corazón](https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1) | 3:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 84 | [El Último No](https://open.spotify.com/track/72iaGfH2eadMiQqseAJ8G4) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Último No](https://open.spotify.com/album/1r6z23zwQ719W2vxbnvawD) | 3:13 |
 | 85 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 
-Snapshot ID: `AAAAAKUetG0OByZvlsy4OJlXQhZLiKSn`
+Snapshot ID: `AAAAABe7CRG6WQ4TMqTLFXU6qlyjaHij`

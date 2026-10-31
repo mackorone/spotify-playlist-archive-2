@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment avec Charlotte Cardin
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,290 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,285 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 49 | [Tu seul](https://open.spotify.com/track/3YNMOtv15BakUjuZT6ADoR) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [Qu'acoustis\-je Qu'ouïs\-je Qu'entends\-je](https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq) | 5:21 |
 | 50 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
 
-Snapshot ID: `AAAAAJe/0z9zvA2S7uulhJT3rSuXiqy9`
+Snapshot ID: `AAAAAD+XJPXjfN0Wa09TKFIzrkryiefe`

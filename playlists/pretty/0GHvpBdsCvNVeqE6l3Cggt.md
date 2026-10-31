@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,288 likes - 42 songs - 2 hr 45 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,288 likes - 43 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 40 | [Barebones](https://open.spotify.com/track/2aWzmqndr6lsVJqqQkuaWa) | [MKTM](https://open.spotify.com/artist/0OLjwojWrPQT1pQY8lUGKf), [WARD](https://open.spotify.com/artist/4P39VLTSGfAkfPgascJj16) | [Barebones](https://open.spotify.com/album/1B86dpWBr8KajNzOHk27iB) | 4:28 |
 | 41 | [No Hard Feelings](https://open.spotify.com/track/7vV9QDHk4grxd2VGG7eq3R) | [Pascal Brochu](https://open.spotify.com/artist/7pO322Zg9e1EZ0RVB64F1o) | [No Hard Feelings](https://open.spotify.com/album/0GF23WOvjJjLqNjtWDnbAW) | 3:18 |
 | 42 | [Hurt Me](https://open.spotify.com/track/5SZDQAuJ1Gpzy8RE0E3sD4) | [Sia Vaiz](https://open.spotify.com/artist/3KXDHgGTsVxS9tVl3bVX64) | [Muscle](https://open.spotify.com/album/3QmwsT82fU3YeGYPAbKGyX) | 4:17 |
+| 43 | [Synthimacy](https://open.spotify.com/track/5CPQEzZj3kYN84JDIZmphl) | [NOXON](https://open.spotify.com/artist/60v7Pw2EQJBDbGo3vAdCQH) | [Synthimacy](https://open.spotify.com/album/06S4JQAzX9Y8wfQipQWRmY) | 3:31 |
 
-Snapshot ID: `AAAkcYwu5fzJB5xHXNpzkKvXOv8KsuCN`
+Snapshot ID: `AAAkcnu1JkBr2cyOdqyf545W5rwja7bz`

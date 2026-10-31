@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Jude York
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,975 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,967 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Hunting](https://open.spotify.com/track/6defcp1X7hdRQWtFT9HxWP) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Hunting](https://open.spotify.com/album/0HZyqJyXsVIlgSZNFJtfC1) | 3:32 |
 | 100 | [Sticky](https://open.spotify.com/track/6QWwqwQstzSHL9LWwYThA2) | [Abby Wallace](https://open.spotify.com/artist/5wShZYkkd5GXqJJupCdKkc) | [Sticky](https://open.spotify.com/album/2jgKDsiyfzKhsbIyo7BLDe) | 2:57 |
 
-Snapshot ID: `AAAAAFnOk2PgJHu2WEPmP3fQioW4kgOK`
+Snapshot ID: `AAAAAGV2SoTgR0K6SpjcDDXwtrmrbEPM`

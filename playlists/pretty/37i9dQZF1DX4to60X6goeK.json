@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77129,
+  "num_followers": 77144,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFRW+dH+seDXIuhuYPwRnfcwftWG",
+  "snapshot_id": "AAAAAEOx5Zq9fuaL5oI7Oa3M5MRYG0/H",
   "tracks": [
     {
       "added_at": "2026-10-22 23:00:31",
@@ -247,26 +247,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Touchdown",
-        "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
+        "name": "DRACULA",
+        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         },
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+          "name": "B-Line",
+          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
         }
       ],
-      "duration_ms": 160172,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
+      "duration_ms": 182400,
+      "name": "DRACULA",
+      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -287,22 +283,26 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "DRACULA",
-        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
         },
         {
-          "name": "B-Line",
-          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
         }
       ],
-      "duration_ms": 182400,
-      "name": "DRACULA",
-      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
+      "duration_ms": 160172,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -443,6 +443,26 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Hijack",
+        "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 155913,
+      "name": "Hijack",
+      "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/6p8Sc2FVKeIYUHUuEdp6cA"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 215172,
       "name": "USB",
       "url": "https://open.spotify.com/track/3GfLEp6Cj3al4Zjk1t2EXN"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Hijack",
-        "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
-      },
-      "artists": [
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 155913,
-      "name": "Hijack",
-      "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -819,18 +799,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Holy Moly (VIP)",
-        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
       "artists": [
         {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
         }
       ],
-      "duration_ms": 253793,
-      "name": "Holy Moly - VIP",
-      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -891,6 +875,22 @@
       "duration_ms": 227657,
       "name": "OH YEAH",
       "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Holy Moly (VIP)",
+        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "Holy Moly - VIP",
+      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
     },
     {
       "added_at": "2026-10-22 23:00:31",

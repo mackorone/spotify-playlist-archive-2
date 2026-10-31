@@ -2,7 +2,7 @@
 
 ### [New Classical](https://open.spotify.com/playlist/37i9dQZF1DWV0gynK7G6pD)
 
-> Updated every Friday with the very best classical new releases\. Cover:  Igor Levit
+> Updated every Friday with the very best classical new releases\. Cover:  Anastasia Kobekina
 
 17,726 songs - 56 day 5 hr 21 min
 

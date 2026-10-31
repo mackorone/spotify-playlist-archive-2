@@ -1,13 +1,33 @@
 {
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Living",
-  "num_followers": 693334,
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Aline Barros & Daniel Calveti",
+  "num_followers": 693391,
   "original_name": "\u00c9xitos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZYWT+d146KwqI8HFUxNiYqbEuf",
+  "snapshot_id": "AAAAABesBzVN8M7t1hz0qawTK8qs+UrR",
   "tracks": [
+    {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "Mil Gracias",
+        "url": "https://open.spotify.com/album/6zuqReM6uLCSenRfwUrxZT"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 561343,
+      "name": "Cristo Y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/17IFQbsQ7Z5YrszdGVH7Nx"
+    },
     {
       "added_at": "2026-10-23 04:04:35",
       "album": {
@@ -165,6 +185,50 @@
       "url": "https://open.spotify.com/track/75ZGX7w9qgNcLVbZC94K37"
     },
     {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "Ma\u00f1ana Sale El Sol",
+        "url": "https://open.spotify.com/album/2SmOGy5WIn8QiN5F6wXBLG"
+      },
+      "artists": [
+        {
+          "name": "Abraham Velazquez",
+          "url": "https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 191878,
+      "name": "Ma\u00f1ana Sale El Sol",
+      "url": "https://open.spotify.com/track/7viqKIaK16A4GBB21oRMBV"
+    },
+    {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "AL\u00c1BALO",
+        "url": "https://open.spotify.com/album/47jxIx9cXiqga6pO3ts4ez"
+      },
+      "artists": [
+        {
+          "name": "Lenny357",
+          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        },
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Para Mi Familia 357",
+      "url": "https://open.spotify.com/track/0OgjCJyKXyRKkZ3rci9Hc9"
+    },
+    {
       "added_at": "2026-10-09 04:00:04",
       "album": {
         "name": "Blanco y Negro",
@@ -201,6 +265,26 @@
       "url": "https://open.spotify.com/track/3ZMipSU7Gc1eek4XPJEXqz"
     },
     {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "Toy Poderoso (Remix)",
+        "url": "https://open.spotify.com/album/2o3Dtz7Z1QG4ggOy9mzt6z"
+      },
+      "artists": [
+        {
+          "name": "Marky O",
+          "url": "https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 205755,
+      "name": "Toy Poderoso - Remix",
+      "url": "https://open.spotify.com/track/37sRN3GdsYxM9pYdTMOxxO"
+    },
+    {
       "added_at": "2026-10-09 04:00:04",
       "album": {
         "name": "HIPOTENUSA",
@@ -219,26 +303,6 @@
       "duration_ms": 200813,
       "name": "HIPOTENUSA",
       "url": "https://open.spotify.com/track/6Wep9zwGrDcf6XggANEEwx"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
-        "name": "Confia Y Cree",
-        "url": "https://open.spotify.com/album/1gV7sqHWoSwt19VEkUnn5Z"
-      },
-      "artists": [
-        {
-          "name": "Brayan Booz",
-          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
-        },
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 210001,
-      "name": "Confia Y Cree",
-      "url": "https://open.spotify.com/track/6hxwW34jn2v5KDFdSyOUQt"
     },
     {
       "added_at": "2026-10-16 08:57:04",
@@ -263,6 +327,42 @@
       "duration_ms": 240727,
       "name": "DIME QU\u00c9",
       "url": "https://open.spotify.com/track/5L2FqFhNzVYHqnKh4X7cHv"
+    },
+    {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "Mu\u00e9strame (Live)",
+        "url": "https://open.spotify.com/album/5w1yJMGnWGN54gO9PlNvRN"
+      },
+      "artists": [
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "duration_ms": 536731,
+      "name": "Mu\u00e9strame - Live",
+      "url": "https://open.spotify.com/track/1eMdusSd1IkcIClhhlpiVc"
+    },
+    {
+      "added_at": "2026-10-30 04:00:35",
+      "album": {
+        "name": "Fuego en el Altar Vol.2",
+        "url": "https://open.spotify.com/album/1kvyDTioHzNZvoiR1dRmd2"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        },
+        {
+          "name": "APR MUSIC",
+          "url": "https://open.spotify.com/artist/2ThXbUNvE0NTnuEgKFI0Oj"
+        }
+      ],
+      "duration_ms": 475135,
+      "name": "Cordero Redentor",
+      "url": "https://open.spotify.com/track/2h69SKKQRKLmGSekYRTduU"
     },
     {
       "added_at": "2026-10-23 04:04:35",
@@ -569,28 +669,20 @@
       "url": "https://open.spotify.com/track/04lt1XqYHhSsXBSfmCQ4ak"
     },
     {
-      "added_at": "2026-10-09 04:00:04",
+      "added_at": "2026-10-30 04:00:35",
       "album": {
-        "name": "Mira Lo Que Ha Hecho Dios",
-        "url": "https://open.spotify.com/album/3qLl1pAfqfJPfcOq3tC9vn"
+        "name": "ASOMBROSO",
+        "url": "https://open.spotify.com/album/3GcC6quUiV2rD3UdgreWqG"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
-        },
-        {
-          "name": "Emely Williams",
-          "url": "https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H"
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
         }
       ],
-      "duration_ms": 312930,
-      "name": "Mira Lo Que Ha Hecho Dios",
-      "url": "https://open.spotify.com/track/4rYBj8PbdNVRZ9BxvC9YVo"
+      "duration_ms": 190143,
+      "name": "ASOMBROSO",
+      "url": "https://open.spotify.com/track/30CNQBNkzwcQI5CeHM8RH0"
     },
     {
       "added_at": "2026-10-09 04:00:04",
@@ -703,22 +795,6 @@
     {
       "added_at": "2026-10-09 04:00:04",
       "album": {
-        "name": "Salvaste Mi Vida",
-        "url": "https://open.spotify.com/album/37o66RuaOtW8sNILXeG4jK"
-      },
-      "artists": [
-        {
-          "name": "Enoc Parra",
-          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
-        }
-      ],
-      "duration_ms": 485915,
-      "name": "Salvaste Mi Vida",
-      "url": "https://open.spotify.com/track/5gXauaIBHrn4I6ZBackxnN"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
         "name": "Habita (con Ingrid Rosario)",
         "url": "https://open.spotify.com/album/6JY1E3w0rnYBZOoHPZEvVD"
       },
@@ -803,22 +879,6 @@
     {
       "added_at": "2026-10-09 04:00:04",
       "album": {
-        "name": "Te Agradezco",
-        "url": "https://open.spotify.com/album/4ADzA0loYEx3rRoUhJiQeH"
-      },
-      "artists": [
-        {
-          "name": "Marcos Yaroide",
-          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
-        }
-      ],
-      "duration_ms": 240036,
-      "name": "Te Agradezco",
-      "url": "https://open.spotify.com/track/4aLb2CB5a1crGi0Q1dyjo3"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
         "name": "T\u00fa Has Sido Bueno",
         "url": "https://open.spotify.com/album/1q9L9cgHmHG2UThbIL8L5c"
       },
@@ -895,46 +955,6 @@
       "duration_ms": 285915,
       "name": "Sin Reflectores",
       "url": "https://open.spotify.com/track/2MEep18MblsiDHN2Gjad4c"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
-        "name": "Con Yahweh 357",
-        "url": "https://open.spotify.com/album/0YX3ImYiB3lShSjoFVIjWD"
-      },
-      "artists": [
-        {
-          "name": "Lenny357",
-          "url": "https://open.spotify.com/artist/5mJr77O0o0QHkcD24dwCse"
-        },
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        },
-        {
-          "name": "Frank Miami",
-          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
-        }
-      ],
-      "duration_ms": 132127,
-      "name": "Con Yahweh 357",
-      "url": "https://open.spotify.com/track/6ugafxRL2qE1sbhWUdgcZj"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
-        "name": "NO TIENES IGUAL",
-        "url": "https://open.spotify.com/album/4Nrx6RkWTYqGr3IW2XLdNT"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 247983,
-      "name": "NO TIENES IGUAL",
-      "url": "https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9"
     },
     {
       "added_at": "2026-10-09 04:00:04",
@@ -1047,22 +1067,6 @@
       "duration_ms": 703551,
       "name": "Solo Hay Uno",
       "url": "https://open.spotify.com/track/4fDCyStKB2X6Apq2bZa8fk"
-    },
-    {
-      "added_at": "2026-10-09 04:00:04",
-      "album": {
-        "name": "Hay Poder (YESHUA) [Live]",
-        "url": "https://open.spotify.com/album/3cZoGPZmi8ogTAbSlzU3E8"
-      },
-      "artists": [
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
-        }
-      ],
-      "duration_ms": 590000,
-      "name": "Hay Poder (YESHUA) - Live",
-      "url": "https://open.spotify.com/track/3n12kCtTF0CpHtgHnJHKfT"
     },
     {
       "added_at": "2026-10-09 04:00:04",

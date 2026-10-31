@@ -21087,6 +21087,24 @@
     },
     {
       "album": {
+        "name": "LAMB",
+        "url": "https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "BOUNDLESS LOVE",
+      "url": "https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C"
+    },
+    {
+      "album": {
         "name": "Bow",
         "url": "https://open.spotify.com/album/3lBS5OztAmfFxLqM0LlRuW"
       },
@@ -66087,24 +66105,6 @@
     },
     {
       "album": {
-        "name": "HIDE & SEEK",
-        "url": "https://open.spotify.com/album/6wBYo3fM3kkS3GF9p9roRX"
-      },
-      "artists": [
-        {
-          "name": "Paul Payne837",
-          "url": "https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp"
-        }
-      ],
-      "date_added": "2026-10-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 159600,
-      "name": "HIDE & SEEK",
-      "url": "https://open.spotify.com/track/0B6y16S4O1Vx7RWgLvBNH6"
-    },
-    {
-      "album": {
         "name": "HIFB (Head is for blessings)",
         "url": "https://open.spotify.com/album/5zFZdflRX1478uZqLCPYpa"
       },
@@ -93124,6 +93124,36 @@
       "duration_ms": 126641,
       "name": "Kulu My Heart",
       "url": "https://open.spotify.com/track/1tViX5JT9vr4bqhCfPfTlz"
+    },
+    {
+      "album": {
+        "name": "Gospel Yano",
+        "url": "https://open.spotify.com/album/3vut54S6J6ltn0kxjXM3DD"
+      },
+      "artists": [
+        {
+          "name": "Yanga Grenade",
+          "url": "https://open.spotify.com/artist/7Hr1rJkoRxDX06YI7VpGIj"
+        },
+        {
+          "name": "Zimvo",
+          "url": "https://open.spotify.com/artist/5eOVZdQNBoHqNnosZTM1hk"
+        },
+        {
+          "name": "Ofentse Mo",
+          "url": "https://open.spotify.com/artist/47py4wgYpqOnTC2Z18CFVR"
+        },
+        {
+          "name": "Tumisho",
+          "url": "https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412245,
+      "name": "Kulungile",
+      "url": "https://open.spotify.com/track/2a02kPtxXvo5os5HnHhtJE"
     },
     {
       "album": {
@@ -146657,6 +146687,24 @@
     },
     {
       "album": {
+        "name": "SEEKING & HIDING",
+        "url": "https://open.spotify.com/album/6wBYo3fM3kkS3GF9p9roRX"
+      },
+      "artists": [
+        {
+          "name": "Paul Payne837",
+          "url": "https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "SEEKING & HIDING",
+      "url": "https://open.spotify.com/track/0B6y16S4O1Vx7RWgLvBNH6"
+    },
+    {
+      "album": {
         "name": "Seen",
         "url": "https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV"
       },
@@ -161587,6 +161635,24 @@
     },
     {
       "album": {
+        "name": "AFFIRMED",
+        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155089,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
+    },
+    {
+      "album": {
         "name": "The Declaration (Jesus is Lord)",
         "url": "https://open.spotify.com/album/7oSJT1KwBBsk5l3eYuSFc6"
       },
@@ -168167,60 +168233,6 @@
     },
     {
       "album": {
-        "name": "AFFIRMED",
-        "url": "https://open.spotify.com/album/2ymLCxSwoP4uZof0gH7LTD"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "date_added": "2026-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
-    },
-    {
-      "album": {
-        "name": "Gospel Yano",
-        "url": "https://open.spotify.com/album/3vut54S6J6ltn0kxjXM3DD"
-      },
-      "artists": [
-        {
-          "name": "Yanga Grenade",
-          "url": "https://open.spotify.com/artist/7Hr1rJkoRxDX06YI7VpGIj"
-        }
-      ],
-      "date_added": "2026-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2a02kPtxXvo5os5HnHhtJE"
-    },
-    {
-      "album": {
-        "name": "LAMB",
-        "url": "https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn"
-      },
-      "artists": [
-        {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        }
-      ],
-      "date_added": "2026-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -171988,6 +172000,36 @@
       "duration_ms": 255040,
       "name": "Unyaka Omusha",
       "url": "https://open.spotify.com/track/47wMwviQLeGPGSGsWTzsJN"
+    },
+    {
+      "album": {
+        "name": "UNYIELDED",
+        "url": "https://open.spotify.com/album/3S6k4Va4McwLaSTI1qNHfq"
+      },
+      "artists": [
+        {
+          "name": "Emino Music",
+          "url": "https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a"
+        },
+        {
+          "name": "Joebee",
+          "url": "https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1"
+        },
+        {
+          "name": "Mckelv",
+          "url": "https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia"
+        },
+        {
+          "name": "J3:16",
+          "url": "https://open.spotify.com/artist/5KL8TE5kpFXmPqm3i3Les5"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149740,
+      "name": "UNYIELDED",
+      "url": "https://open.spotify.com/track/5QeO1X840dR7hAIXuVyGNn"
     },
     {
       "album": {

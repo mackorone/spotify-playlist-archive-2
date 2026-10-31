@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Dominic Fike, JISOO, Gracie Abrams, GANGGA, dia, Weird Genius dan masih banyak lagi dari dalam dan mancanegara.
 
-33,921 songs - 80 day 8 hr 49 min
+33,923 songs - 80 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9595,6 +9595,7 @@
 | [Fly Again](https://open.spotify.com/track/5id7emNLRhCrhgoiulNp1D) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [GAME](https://open.spotify.com/album/07aHn1SMzaqYuEAjQVwROs) | 3:09 | 2026-09-17 | 2026-09-25 |
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-06 | 2023-04-14 |
 | [Fly Away](https://open.spotify.com/track/3Rmp8eQ5HuNDYh0W3hXXTc) | [Ardawan](https://open.spotify.com/artist/0yN1YoVjyMgjRwJFwGUVno), [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Fly Away](https://open.spotify.com/album/1cylGxuou6hNdKdgbmovCQ) | 3:30 | 2024-07-04 | 2024-07-12 |
+| [Fly Away](https://open.spotify.com/track/7grS5Br1qVQOum5sTuuFrF) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Pokémon \| Wonder Voyage \(Original Soundtrack, Korea\)](https://open.spotify.com/album/5AhS6xDA0DseHumcOXK6gs) | 3:24 | 2026-10-30 |  |
 | [Fly Away](https://open.spotify.com/track/5ri4zqtWhG07hIuNNDWP76) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/7jRjPcWQMYGtD6gPBDZiAq) | 2:58 | 2020-11-13 | 2020-11-20 |
 | [Fly Away](https://open.spotify.com/track/13bt4UPJUoUUxrW51ShzU1) | [Xeva Al Gazel](https://open.spotify.com/artist/6eJAxZZ18R9bsueqikw05i) | [Fly Away](https://open.spotify.com/album/4qkJU0xkEO6roRmcEiMoWG) | 3:26 | 2024-07-18 | 2024-07-27 |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-03-23 | 2023-03-31 |
@@ -11258,6 +11259,7 @@
 | [Halfway](https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Halfway](https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi) | 3:02 | 2022-11-10 | 2022-11-18 |
 | [halfway](https://open.spotify.com/track/5llZZok5HQxZHWRAJAAPH4) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [halfway](https://open.spotify.com/album/1U8RgoB55dmxH2WaigE3Uo) | 3:53 | 2026-10-08 | 2026-10-16 |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-10-22 | 2021-10-29 |
+| [Hali Mahira](https://open.spotify.com/track/3E8ecDT12v1wgTUE19Um40) | [Mister Nobody](https://open.spotify.com/artist/1B0DN6kNBoZlfQzXOFTz3z) | [The Story of Kapita](https://open.spotify.com/album/6oDJq07NsLSajsaMUx15ie) | 2:43 | 2026-10-30 |  |
 | [Hallelujah](https://open.spotify.com/track/3aCu4VabG9Bynysh1jx3EK) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Hallelujah](https://open.spotify.com/album/4LwP7u8UtMIJalMgZtu5EP) | 3:37 | 2026-04-30 | 2026-05-08 |
 | [Hallelujah](https://open.spotify.com/track/1nLZY9rmmi5l9TgYjv0mQm) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Hallelujah](https://open.spotify.com/album/4Ypr345ZDelmTzuoGDMgs5) | 3:09 | 2023-05-11 | 2023-05-19 |
 | [Halloweenie III: Seven Days](https://open.spotify.com/track/0OStKKAuXlxA0fMH54Qs6E) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie III: Seven Days](https://open.spotify.com/album/1UdHs4K8sjSKy3BJJP1h8q) | 2:30 | 2020-10-23 | 2020-10-30 |
@@ -11925,7 +11927,7 @@
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/67JwJPsnpTB6jVwXgARZAn) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 2:19 | 2022-02-10 | 2022-02-18 |
 | [Here with Me / Stay](https://open.spotify.com/track/5wZqQc6k3RTgD7wSZWgaM9) | [Valdy Marshall](https://open.spotify.com/artist/0Z6LfUBto48FzTKDrDODsO) | [Here with Me / Stay](https://open.spotify.com/album/6ualLUl2zKrd79tAUAZKhQ) | 3:49 | 2020-06-19 | 2020-06-29 |
 | [Here With Me Now](https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Here With Me Now](https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf) | 4:20 | 2026-06-11 | 2026-06-19 |
-| [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 | 2026-10-29 |  |
+| [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 | 2026-10-29 |  |
 | [Here's Hopin'](https://open.spotify.com/track/7bZ8q4lFrzHkkY92VA4smb) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Here's Hopin'](https://open.spotify.com/album/4Ypsn5fDUlXdoxRXMi3iZ8) | 3:53 | 2022-06-02 | 2022-06-10 |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-08 | 2024-08-16 |
 | [Here's To Another](https://open.spotify.com/track/4Ob4ZQ6yiB6WhFGcZaC5qo) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Here's To Another](https://open.spotify.com/album/5HhdWgcutL2dYPUazA2OO0) | 3:07 | 2021-03-26 | 2021-04-02 |

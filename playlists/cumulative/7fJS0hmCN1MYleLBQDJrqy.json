@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Het Gaat Gebeuren...",
+        "url": "https://open.spotify.com/album/1xAnXTBNXdYnbur72qM1pk"
+      },
+      "artists": [
+        {
+          "name": "Dries Roelvink",
+          "url": "https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "Het Gaat Gebeuren...",
+      "url": "https://open.spotify.com/track/6F5TLHftd7S49x1y0R7QYY"
+    },
+    {
+      "album": {
         "name": "Het Is Al Laat Toch",
         "url": "https://open.spotify.com/album/3RtDWaClh52W8VjqCrYqwK"
       },
@@ -2984,6 +3002,24 @@
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "album": {
+        "name": "LOLA",
+        "url": "https://open.spotify.com/album/2DlYrFM8ubDI9czxaUstw5"
+      },
+      "artists": [
+        {
+          "name": "Juwls",
+          "url": "https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135008,
+      "name": "LOLA",
+      "url": "https://open.spotify.com/track/6eyhjEZ4gUZVKAMu3r1BnH"
     },
     {
       "album": {

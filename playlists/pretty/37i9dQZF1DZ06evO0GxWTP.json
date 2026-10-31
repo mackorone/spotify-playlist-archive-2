@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 26018,
+  "num_followers": 26025,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAAVGJ75cAdRvz0mrqJ9j88W",
+  "snapshot_id": "auE7AAAAAACchGWzbqNf5qTaidOl9cko",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harder Dan Ik Spenden Kan",
+        "url": "https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Harder Dan Ik Spenden Kan",
+      "url": "https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huisfeestje",
         "url": "https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 149732,
       "name": "Huisfeestje",
       "url": "https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harder Dan Ik Spenden Kan",
-        "url": "https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Harder Dan Ik Spenden Kan",
-      "url": "https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz"
     },
     {
       "added_at": null,

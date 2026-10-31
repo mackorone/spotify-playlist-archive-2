@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "DEMOS",
+        "url": "https://open.spotify.com/album/7zQ8bD7zGpk27yc2tHf6FN"
+      },
+      "artists": [
+        {
+          "name": "St. Augustine",
+          "url": "https://open.spotify.com/artist/64Z3eqSabqBVpnGRRaUAfD"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Buzzcut",
+      "url": "https://open.spotify.com/track/7MtoF9z1wMtDqjbS7SJtEQ"
+    },
+    {
+      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/3tF2Cjls2RsgUG4szvpCZz"
       },

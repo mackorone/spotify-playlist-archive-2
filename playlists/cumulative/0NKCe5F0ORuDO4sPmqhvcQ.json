@@ -1303,6 +1303,28 @@
     },
     {
       "album": {
+        "name": "Badman Riddim",
+        "url": "https://open.spotify.com/album/7aLoUpRuTDY7uco9ypWix4"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184962,
+      "name": "Badman Riddim",
+      "url": "https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u"
+    },
+    {
+      "album": {
         "name": "Basement Party",
         "url": "https://open.spotify.com/album/20azjqHfH8AlPwwchnSLMw"
       },

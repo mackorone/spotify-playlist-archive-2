@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-919 songs - 1 day 21 hr 43 min
+921 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Cozy Thunder](https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:16 | 2023-02-17 | 2023-08-10 |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
 | [Crash](https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crash](https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs) | 3:25 | 2024-08-06 |  |
+| [Crawlspace](https://open.spotify.com/track/7e6VMJpc2g9Olxd2T7dn1J) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Crawlspace](https://open.spotify.com/album/00fePA8kIiMjhwBEJnvyLj) | 2:51 | 2026-10-30 |  |
 | [Crazy](https://open.spotify.com/track/5nihLVpUd4birzwDlSp1Ph) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Crazy](https://open.spotify.com/album/59yKZOWSuX7wYlH5nZneRY) | 3:08 | 2023-08-08 | 2023-12-14 |
 | [Crossed The Line](https://open.spotify.com/track/1j3N4TCykSmXy12iUiMQWk) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Crossed The Line](https://open.spotify.com/album/2hlugmYMiNqGeMYmksckMe) | 2:27 | 2023-08-08 | 2024-03-08 |
 | [Crowded Room](https://open.spotify.com/track/5E9MkOulHaMk4Uxerg0eho) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crowded Room](https://open.spotify.com/album/3w7sgD73mYLQ8xJkb16aQc) | 3:12 | 2024-11-19 |  |
@@ -893,6 +894,7 @@
 | [whenyoufindout.](https://open.spotify.com/track/3rqhya8bcjUymz9e4FJMl0) | [dg.](https://open.spotify.com/artist/3FVO5thIWXe2SHW6ZTWCm6), [Coben](https://open.spotify.com/artist/0jdKD1yBCUmUAUmvh1X0oT), [SMOORIBA](https://open.spotify.com/artist/1CMsNzudMd14qTGeFs2Uvk) | [whenyoufindout.](https://open.spotify.com/album/31RRYL5eUhYKqIzuIa0kyp) | 3:39 | 2026-04-17 |  |
 | [Where We Are](https://open.spotify.com/track/3GYqn2Vl2JMTqi129cML3z) | [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Triangle](https://open.spotify.com/artist/5VIY8D1hZVFHP9AUWR4iRo), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Where We Are](https://open.spotify.com/album/4zSBd7jkLGjl1fkBSrcfef) | 2:06 | 2025-12-16 |  |
 | [Where We Started](https://open.spotify.com/track/3m71VLuekxke2MO8yHkOYg) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Where We Started](https://open.spotify.com/album/00cF1cvOq2v6K0roASUiWX) | 3:42 | 2023-08-08 | 2023-12-14 |
+| [wherever you go](https://open.spotify.com/track/4B87cZBMZrorUlAdDWohcL) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs) | [wherever you go](https://open.spotify.com/album/0jsVD9LAg0oRbZuALxxlzu) | 2:59 | 2026-10-30 |  |
 | [Whiplash](https://open.spotify.com/track/64spXyGyh0oONfSnNvuz12) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:31 | 2025-07-25 |  |
 | [whole](https://open.spotify.com/track/06rm9eTLNGv1a8AgKszcAh) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [whole](https://open.spotify.com/album/3AB9SGBNNZqSYrcUdzU4oX) | 2:13 | 2023-12-13 | 2024-04-03 |
 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 | 2023-08-08 | 2023-12-14 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-610 songs - 1 day 10 hr 34 min
+611 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [NO MORE](https://open.spotify.com/track/3qHpMci96Sgq3mam3pdDBz) | [Amanda Holley](https://open.spotify.com/artist/2ASA4rXgSzpdkJ7khMDj5j) | [NO MORE](https://open.spotify.com/album/3qrUMGe7eqlbinJrDOJKJw) | 2:55 | 2026-08-29 |  |
 | [No More Heroes](https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr) | [Chris Corey](https://open.spotify.com/artist/4tGupj3nwiwHdv8hyHhJLZ) | [Midnight Forever](https://open.spotify.com/album/48WzX6lRKNkIVlScImDdGZ) | 3:07 | 2026-02-08 | 2026-07-02 |
 | [No puedo pensar](https://open.spotify.com/track/2QWqsVpYnzMgUeIl2JCvNC) | [Carles Giuliani](https://open.spotify.com/artist/0mIqIlApPH7AVy5DO1Q3A0), [Caro Norte](https://open.spotify.com/artist/4wYRZ47TgRCFTlGuP27e2t) | [No puedo pensar](https://open.spotify.com/album/05DkJnHEO5uj6HRavpncNw) | 2:35 | 2025-11-17 | 2026-01-05 |
+| [No Room For Mistakes](https://open.spotify.com/track/24Flmni6C0usFionuuAWA9) | [Cosmic Revival](https://open.spotify.com/artist/7tEfnUn9b37STFIIEBkogv) | [No Room For Mistakes](https://open.spotify.com/album/5HvHXK8emGWuET339Quh5Y) | 3:05 | 2026-10-30 |  |
 | [Nocturne](https://open.spotify.com/track/0nBPCrqxDHWR8leTgH7aFk) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8) | [Nocturne / Wintermute](https://open.spotify.com/album/1fBhQYKqo508kLWAxpFoGm) | 3:28 | 2025-11-08 | 2025-12-01 |
 | [noise around](https://open.spotify.com/track/27fE1mDoOHqkExHkgThqYc) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [noise around](https://open.spotify.com/album/0GqjQS5cIPFGyyVJOrwAtL) | 3:43 | 2026-07-06 | 2026-08-08 |
 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 | 2026-03-09 | 2026-05-26 |

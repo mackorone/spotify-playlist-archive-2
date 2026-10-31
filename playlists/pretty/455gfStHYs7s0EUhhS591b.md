@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 54,752 likes - 219 songs - 12 hr 46 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 54,748 likes - 219 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Girls Like Us \- Fiesta Mix](https://open.spotify.com/track/3ZhnAgNZcjLrSt7dawJm6p) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ) | [Girls Like Us \(B\-15's Siesta Fiesta Mix\)](https://open.spotify.com/album/2SfP5w0poyAKmRJCoC8sTE) | 2:51 |
+| 1 | [Girls Like Us \- B\-15's Siesta Fiesta Mix](https://open.spotify.com/track/3ZhnAgNZcjLrSt7dawJm6p) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ) | [Girls Like Us \(B\-15's Siesta Fiesta Mix\)](https://open.spotify.com/album/2SfP5w0poyAKmRJCoC8sTE) | 2:51 |
 | 2 | [Most Precious Love](https://open.spotify.com/track/1Ldw6s3GxtPbnpWrcTiNNy) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/2okApCQGjBq76SInGD7tbP) | 3:44 |
 | 3 | [Never Let Go](https://open.spotify.com/track/5HHDd5lMr4eE7J54cFTuZR) | [Hyper Go Go](https://open.spotify.com/artist/0qmNfpBqNTC0gldJ4B48Ir), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Never Let Go](https://open.spotify.com/album/7dpfWeXUTzL6JKDGQismsI) | 2:40 |
 | 4 | [Shed My Skin](https://open.spotify.com/track/1r1YI0vAu4QocqjsxinvHe) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Therese](https://open.spotify.com/artist/4wfoAaFRdaZdrn782iDlCD) | [Shed My Skin](https://open.spotify.com/album/1f4OrlXMf9hGdITiunDMgw) | 3:53 |

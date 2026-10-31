@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 646001,
+  "num_followers": 646029,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAAquoKB5O7bzorVbZRU0kf6",
+  "snapshot_id": "auE7AAAAAADTR86Kb1BxmSgydHU3z6FG",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 210680,
-      "name": "Yo Me Voy",
-      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
+      "duration_ms": 217133,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp"
+      "duration_ms": 210680,
+      "name": "Yo Me Voy",
+      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
     },
     {
       "added_at": null,

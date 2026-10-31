@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Jordan Davis, HARDY, Koe Wetzel with Stephen Wilson Jr\. and more.
 
-14,287 songs - 32 day 13 hr 44 min
+14,288 songs - 32 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8455,6 +8455,7 @@
 | [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 | 2025-02-21 | 2025-03-01 |
 | [Mr\. Red White and Blue \- Rock Version](https://open.spotify.com/track/4ypd7o3hMGXW6KbYO73aux) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Mr\. Red White and Blue \(Rock Version\)](https://open.spotify.com/album/4Q6rlqinQ5A6mmN6wGGrJ6) | 3:32 | 2022-07-01 | 2022-07-09 |
 | [Mr\. Right](https://open.spotify.com/track/6QffT9P4ykictMeTl9q571) | [Avery Roberson](https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU) | [Mr\. Right](https://open.spotify.com/album/1hEvg2vAY0Z0PyiT82Ws1C) | 4:07 | 2025-11-21 | 2025-12-20 |
+| [Mr\. Right](https://open.spotify.com/track/4VCf4cLJEMVhAlBLDsvgOY) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Mr\. Right / Closer Still](https://open.spotify.com/album/2KGx4IG55jUfboH5hi7rXV) | 3:56 | 2026-10-30 |  |
 | [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 | 2022-07-30 |
 | [Mr\. Tennessee](https://open.spotify.com/track/0RazyTwgOnGvm6PkLvnDqt) | [Wesko](https://open.spotify.com/artist/65JTh6O744ikcSz4K1AGeF) | [Mr\. Tennessee](https://open.spotify.com/album/5dUlHObhDR2gGdCYat4MO5) | 4:31 | 2025-07-18 | 2025-07-26 |
 | [Mr\. Wrong](https://open.spotify.com/track/6UeiYV3UOe4RBbm5TdCGQY) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Mr\. Wrong](https://open.spotify.com/album/0OytsSJgPARa57vcn6I0kZ) | 3:17 | 2025-11-21 | 2025-12-20 |

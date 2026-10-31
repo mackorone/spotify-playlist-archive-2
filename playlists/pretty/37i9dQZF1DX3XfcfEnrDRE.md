@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Isla Vista Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,782 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,777 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 79 | [Mysterious Something](https://open.spotify.com/track/4ylgl0sHZBXH8KpJbVcvl9) | [Skye Peterson](https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ) | [Through Line](https://open.spotify.com/album/59hZj7d5JR0luIUmvr0xvo) | 3:41 |
 | 80 | [UP A LEVEL](https://open.spotify.com/track/5x8Bmt7LtS9x0VAq3aKuiU) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [UP A LEVEL](https://open.spotify.com/album/5wJMDoABnnJuc3qVgxucpM) | 2:34 |
 
-Snapshot ID: `AAAAAIjW+fYwzStEK5fANvEObfB24H7g`
+Snapshot ID: `AAAAAIzPOrnV3AcD/BzbZGkjs5L++LIN`

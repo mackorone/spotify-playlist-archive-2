@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 171997,
       "name": "BACCARAT",
       "url": "https://open.spotify.com/track/4OAMaLzU60uGSiAp5wqB30"
@@ -3474,6 +3474,28 @@
       "duration_ms": 180656,
       "name": "WHISKEY DE PI\u00d1A",
       "url": "https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B"
+    },
+    {
+      "album": {
+        "name": "SABIA DELUXE",
+        "url": "https://open.spotify.com/album/6ywGBu7bbtMTzzdb46iRs7"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "YAKUZA",
+      "url": "https://open.spotify.com/track/6w8x8af75ZBRxwdPxxPzzC"
     },
     {
       "album": {

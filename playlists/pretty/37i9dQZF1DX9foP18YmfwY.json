@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 383345,
+  "num_followers": 383357,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -415,18 +415,22 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
-        "name": "Eu Descansarei",
-        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
+        "name": "Um Grito",
+        "url": "https://open.spotify.com/album/6PufRrnEYKhv19O6RGsHGo"
       },
       "artists": [
         {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+          "name": "Gerados pela Imaculada",
+          "url": "https://open.spotify.com/artist/3r8g1RAaeYKY3ZtjrGhpjg"
+        },
+        {
+          "name": "Padre Renn\u00e9 Viana",
+          "url": "https://open.spotify.com/artist/3psM78wfH2Vt91KjGzDVNY"
         }
       ],
-      "duration_ms": 378461,
-      "name": "Eu Descansarei",
-      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
+      "duration_ms": 450877,
+      "name": "Um Grito",
+      "url": "https://open.spotify.com/track/7cNWw9AQFouxTr6el0nNLy"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -451,22 +455,18 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
-        "name": "Um Grito",
-        "url": "https://open.spotify.com/album/6PufRrnEYKhv19O6RGsHGo"
+        "name": "Eu Descansarei",
+        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
       },
       "artists": [
         {
-          "name": "Gerados pela Imaculada",
-          "url": "https://open.spotify.com/artist/3r8g1RAaeYKY3ZtjrGhpjg"
-        },
-        {
-          "name": "Padre Renn\u00e9 Viana",
-          "url": "https://open.spotify.com/artist/3psM78wfH2Vt91KjGzDVNY"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
         }
       ],
-      "duration_ms": 450877,
-      "name": "Um Grito",
-      "url": "https://open.spotify.com/track/7cNWw9AQFouxTr6el0nNLy"
+      "duration_ms": 378461,
+      "name": "Eu Descansarei",
+      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-10-19 15:48:51",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-10-19 15:48:51",
       "album": {
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/018atuMM1ijpOKwYXruE7C"
+      },
+      "artists": [
+        {
+          "name": "BENITO",
+          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Se \u00c9 L\u00e1 Que C\u00ea Ta",
+      "url": "https://open.spotify.com/track/5GvxAieHgW8vlir5JfhHD8"
+    },
+    {
+      "added_at": "2026-10-19 15:48:51",
+      "album": {
         "name": "Todos os Minutos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5QYwx3MBDKFPponl7UKH21"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 371242,
       "name": "Todos os Minutos - Ao Vivo",
       "url": "https://open.spotify.com/track/6bxLtwqewzPeONN9tsaOae"
-    },
-    {
-      "added_at": "2026-10-19 15:48:51",
-      "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/018atuMM1ijpOKwYXruE7C"
-      },
-      "artists": [
-        {
-          "name": "BENITO",
-          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Se \u00c9 L\u00e1 Que C\u00ea Ta",
-      "url": "https://open.spotify.com/track/5GvxAieHgW8vlir5JfhHD8"
     },
     {
       "added_at": "2026-10-19 15:48:51",

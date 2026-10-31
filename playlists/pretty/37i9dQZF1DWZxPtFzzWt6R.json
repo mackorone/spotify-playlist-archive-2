@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115972,
+  "num_followers": 115990,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o e Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 272695,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "Trajet\u00f3ria",
         "url": "https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 233472,
       "name": "Trajet\u00f3ria",
       "url": "https://open.spotify.com/track/64mFWof8nKdLgHpFSSDbEf"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o e Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 272695,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -379,22 +379,18 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Deus Ouviu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2QrGXyQn83lcGEmuHWmgXb"
+        "name": "Estou de Volta",
+        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
       "artists": [
         {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Tuca Nascimento",
-          "url": "https://open.spotify.com/artist/4TksVnQmXsjKlm9JjdzcWf"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 262854,
-      "name": "Deus Ouviu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5iJsUblS3HGFWMfOK6nrHf"
+      "duration_ms": 245000,
+      "name": "Estou de Volta",
+      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -415,18 +411,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Estou de Volta",
-        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
+        "name": "Deus Ouviu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QrGXyQn83lcGEmuHWmgXb"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Tuca Nascimento",
+          "url": "https://open.spotify.com/artist/4TksVnQmXsjKlm9JjdzcWf"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Estou de Volta",
-      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
+      "duration_ms": 262854,
+      "name": "Deus Ouviu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5iJsUblS3HGFWMfOK6nrHf"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "Vai Ter Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        }
+      ],
+      "duration_ms": 307721,
+      "name": "Vai Ter Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Somente Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 249824,
       "name": "Somente Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "Vai Ter Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        }
-      ],
-      "duration_ms": 307721,
-      "name": "Vai Ter Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Quem \u00c9 Como Tu, Senhor?",
-        "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
-        }
-      ],
-      "duration_ms": 331061,
-      "name": "Quem \u00c9 Como Tu, Senhor?",
-      "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
         "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
         "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 274261,
       "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
       "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
+        "name": "Quem \u00c9 Como Tu, Senhor?",
+        "url": "https://open.spotify.com/album/6EDEC4aFYSkngJJHfbFVAj"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "\u00c9 Gospel Music",
+          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
+        }
+      ],
+      "duration_ms": 331061,
+      "name": "Quem \u00c9 Como Tu, Senhor?",
+      "url": "https://open.spotify.com/track/1nNS0y2jhHcCBFMHWTUS5p"
     },
     {
       "added_at": "2026-09-08 19:57:09",

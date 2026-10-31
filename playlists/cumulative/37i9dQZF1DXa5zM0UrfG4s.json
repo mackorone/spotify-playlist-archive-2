@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 166297,
       "name": "En gammal Amazon",
       "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
@@ -5490,6 +5490,24 @@
       "duration_ms": 205818,
       "name": "Kongen av campingplassen",
       "url": "https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi"
+    },
+    {
+      "album": {
+        "name": "Korr ska du g\u00e5",
+        "url": "https://open.spotify.com/album/3y9LzxIyZNrsTmdUgR7l89"
+      },
+      "artists": [
+        {
+          "name": "Harlekin",
+          "url": "https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265121,
+      "name": "Korr ska du g\u00e5",
+      "url": "https://open.spotify.com/track/3HyN6W5BvRHxvs9DRAmo6C"
     },
     {
       "album": {

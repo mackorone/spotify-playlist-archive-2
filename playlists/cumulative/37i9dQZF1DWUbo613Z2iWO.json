@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Khal!l",
+  "description": "R&B of the moment by the artists of the future. Cover: Qiuntelli",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 235000,
       "name": "boys don't cry!",
       "url": "https://open.spotify.com/track/4EXVXNbKOEAVQ6r4FNVFgq"
@@ -5952,6 +5952,28 @@
       "duration_ms": 154560,
       "name": "Catch Me (Before It's Too Late)",
       "url": "https://open.spotify.com/track/3cXTJ9Sll0axx5leptQShq"
+    },
+    {
+      "album": {
+        "name": "MACHIKO",
+        "url": "https://open.spotify.com/album/4sbsIebNfM8SrLOnQNXOgc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197198,
+      "name": "Catch Me If You Can - feat. JID",
+      "url": "https://open.spotify.com/track/1NnuJJhYaiY5sRaanMyj7P"
     },
     {
       "album": {
@@ -8206,7 +8228,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 222970,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4Cjdia5gVaTKHXuXkod2t5"
@@ -16121,6 +16143,24 @@
     },
     {
       "album": {
+        "name": "FATED",
+        "url": "https://open.spotify.com/album/2shkUGbb8RzdKFhgJFxTcA"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168064,
+      "name": "I DID IT",
+      "url": "https://open.spotify.com/track/5339AH7RExrPkEGvU0VcWu"
+    },
+    {
+      "album": {
         "name": "I Didn't Want It This Way",
         "url": "https://open.spotify.com/album/1I0dLTwIAWzDYSHlk8QrAE"
       },
@@ -18002,6 +18042,28 @@
       "duration_ms": 187943,
       "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+    },
+    {
+      "album": {
+        "name": "Room Service",
+        "url": "https://open.spotify.com/album/1NMqwbfgyjdZ9e1X4pvzVh"
+      },
+      "artists": [
+        {
+          "name": "Qiuntellii",
+          "url": "https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS"
+        },
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163279,
+      "name": "J.L.U",
+      "url": "https://open.spotify.com/track/7MqUydriLlNMzPPMS6bb4h"
     },
     {
       "album": {
@@ -23525,6 +23587,24 @@
     },
     {
       "album": {
+        "name": "hold me, don't hold back!",
+        "url": "https://open.spotify.com/album/5ZcevGakdEaDIK8R2JSH1r"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181828,
+      "name": "no self respect!",
+      "url": "https://open.spotify.com/track/3N5j3gFJ95qVY9babWKo6E"
+    },
+    {
+      "album": {
         "name": "no self respect!",
         "url": "https://open.spotify.com/album/2cE9NykoNpph3aah241eKp"
       },
@@ -26935,6 +27015,24 @@
     },
     {
       "album": {
+        "name": "this wolf may cry",
+        "url": "https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "r u?",
+      "url": "https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr"
+    },
+    {
+      "album": {
         "name": "Racing - A COLORS SHOW",
         "url": "https://open.spotify.com/album/57lI0Xm6BW9HsreBu9Grv9"
       },
@@ -27936,7 +28034,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 129925,
       "name": "right/left",
       "url": "https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ"
@@ -32130,7 +32228,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 161967,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/0oPBh5q8QufzdxoYQ3Zn7C"
@@ -35962,7 +36060,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 109966,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"

@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 45 | [This I Pray For You](https://open.spotify.com/track/4hxvSOSi7kAgVf3wPmhKWT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 |
 | 46 | [Good Things Go Bad](https://open.spotify.com/track/3TjjPc5qSavGTFqR6f3zHe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:44 |
 | 47 | [I Love Being Wrong](https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn) | 4:48 |
-| 48 | [Easy As Pie](https://open.spotify.com/track/6FWBEwjFOZgp7baVeUeTBk) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN) | 1:59 |
+| 48 | [Easy As Pie](https://open.spotify.com/track/3jNHVejMUqdi3kRcNHJLs2) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Easy As Pie](https://open.spotify.com/album/5a3jaoVV1yMQObEXlwhNvO) | 1:59 |
 | 49 | [Clean Up Song](https://open.spotify.com/track/0ViTassxJjdgz5WBWllzkq) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/50lXa6OwQUzBnpX2kK3knn) | 2:46 |
-| 50 | [Something to Lose](https://open.spotify.com/track/0JuB4qKFqDul6VgTUJnMYs) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN) | 3:26 |
-| 51 | [Grow](https://open.spotify.com/track/1rUVGch03Niwmkp9Lmblh5) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/4xCmgPunJsy7CdwXNk5e7U) | 3:11 |
+| 50 | [Something To Lose](https://open.spotify.com/track/2o3zplckwvV9EkG3b1IQv7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something To Lose](https://open.spotify.com/album/6RIbr9d7RF12xrmB5CUlFs) | 3:25 |
+| 51 | [Grow](https://open.spotify.com/track/531cqVAvnZvwHk6EMbsjPR) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/2E3kLPOrCJXhfEAOHicVyY) | 3:11 |
 | 52 | [My Body's My Buddy \- Instrumental](https://open.spotify.com/track/73VlYqBADyfgjTe5FLcKcL) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy \(gender neutral version\)](https://open.spotify.com/album/6OwLW6P6lv129aXbvRmCZr) | 3:28 |
 
-Snapshot ID: `AcgRogAAAAAQWWxz/kxkX4XpiUo2iccg`
+Snapshot ID: `AcgXQgAAAAANV2xdQPen5qEexMQdfWS4`

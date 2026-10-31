@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,522,613 likes - 92 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,522,718 likes - 92 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

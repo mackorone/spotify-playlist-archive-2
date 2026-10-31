@@ -9205,20 +9205,24 @@
     },
     {
       "album": {
-        "name": "Trouble In Mind",
+        "name": "Trouble In Mind (Feat. Sam Amidon)",
         "url": "https://open.spotify.com/album/4RGyBhfOtvkhuSYcbCerrR"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
         }
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189119,
-      "name": "Trouble In Mind",
+      "name": "Trouble In Mind (Feat. Sam Amidon)",
       "url": "https://open.spotify.com/track/4l2hyj3Wj2F2h9rAoTaYzc"
     },
     {

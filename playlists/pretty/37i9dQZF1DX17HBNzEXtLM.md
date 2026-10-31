@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17HBNzEXtLM.md) - [plain]
 
 > A collection of music that inspired DIGGER, curated by Alejandro G\. Iñárritu\. Featuring songs from the film plus the original score.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309 likes - 54 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

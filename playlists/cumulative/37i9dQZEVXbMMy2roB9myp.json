@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 154502,
       "name": "BAILAR O MORIR",
       "url": "https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y"
@@ -9180,7 +9180,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -9246,7 +9246,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -11758,7 +11758,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 268213,
       "name": "Hab\u00eda una Vez...",
       "url": "https://open.spotify.com/track/3ayHT7okY784fCWMYDbspt"
@@ -19018,7 +19018,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -23648,6 +23648,28 @@
       "duration_ms": 168374,
       "name": "QUE CABRONA",
       "url": "https://open.spotify.com/track/2oZqk6nAy2CSAcmINCMi2N"
+    },
+    {
+      "album": {
+        "name": "EL ALBA\u00d1IL CUMBIERO (El Lauti) / Enganchado En Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "url": "https://open.spotify.com/album/54beYkypJj2vFVAAjP8ZtF"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "El Lauti",
+          "url": "https://open.spotify.com/artist/5mLpWP9gHfet60QwUS1Yvc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153553,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/3DSnsAOlSrovXI4vnqnw04"
     },
     {
       "album": {

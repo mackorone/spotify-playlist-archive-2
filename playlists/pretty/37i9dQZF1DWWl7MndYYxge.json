@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 1177274,
+  "num_followers": 1177271,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
-      },
-      "artists": [
-        {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+      },
+      "artists": [
+        {
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "The Essential Kenny Loggins",
-        "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "The Essential Kenny Loggins",
+        "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+        "name": "Libert\u00e9",
+        "url": "https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu"
       },
       "artists": [
         {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+          "name": "Gilbert Montagn\u00e9",
+          "url": "https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
+      "duration_ms": 246826,
+      "name": "On va s'aimer",
+      "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Libert\u00e9",
-        "url": "https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu"
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
       },
       "artists": [
         {
-          "name": "Gilbert Montagn\u00e9",
-          "url": "https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu"
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
         }
       ],
-      "duration_ms": 246826,
-      "name": "On va s'aimer",
-      "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
-        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
-      },
-      "artists": [
-        {
-          "name": "Bandolero",
-          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Paris Latino - Original Version 1983",
-      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 286533,
       "name": "Confidence pour confidence - Version originale 1981",
       "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
+        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
+      },
+      "artists": [
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Paris Latino - Original Version 1983",
+      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
     },
     {
       "added_at": "2026-09-09 09:06:15",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-09-09 09:06:15",
       "album": {
+        "name": "Dure limite (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
+    },
+    {
+      "added_at": "2026-09-09 09:06:15",
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 236293,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
-    },
-    {
-      "added_at": "2026-09-09 09:06:15",
-      "album": {
-        "name": "Dure limite (Remasteris\u00e9 en 2015)",
-        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9phone",
-          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "\u00c7a (c'est vraiment toi) - Remasteris\u00e9 en 2015",
-      "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
     },
     {
       "added_at": "2026-09-09 09:06:15",

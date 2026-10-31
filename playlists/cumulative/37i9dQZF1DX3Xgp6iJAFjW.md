@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-197 songs - 13 hr 24 min
+198 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 | 2022-11-25 |  |
 | [El Lechon Se Coge](https://open.spotify.com/track/3GM1LSfCOvBEv91v1V9t7h) | [Ismael Quiles](https://open.spotify.com/artist/7c1VoHAdMXX4eww8lPfcTu) | [El Lechon Se Coge](https://open.spotify.com/album/7KFONzS15RNWQGoPtr9hih) | 2:24 | 2022-12-18 |  |
 | [El Mejor Día Del Año](https://open.spotify.com/track/1O4oJxeeu5alzp2MLBDn65) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:44 | 2023-08-16 |  |
+| [El Pavochón \(feat\. Charlie Aponte\)](https://open.spotify.com/track/4ihz4lWWhQk9KjIMFm7O0Y) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:15 | 2025-12-05 |  |
 | [El Rondon](https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:34 | 2022-11-25 |  |
 | [El Santo Nombre de Jesus](https://open.spotify.com/track/5R3ZA98XR11HeuZFDLR59S) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Navidad](https://open.spotify.com/album/27wDLLPOvc1D2uAv4AifKp) | 2:18 | 2022-12-18 | 2025-12-16 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 | 2022-11-25 |  |
@@ -141,7 +142,7 @@
 | [Me Gustan las Navidades \- En Vivo](https://open.spotify.com/track/26kESCwVzPwCYhTDerNhe3) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Navidad Con Gilberto \(En Vivo\)](https://open.spotify.com/album/3B3dUnRjitOuDvc7RT43FW) | 5:55 | 2022-11-25 | 2023-11-18 |
 | [Me Huele a Fiesta](https://open.spotify.com/track/6TsFZ419DUrr9hS3d48fQ4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 3:49 | 2023-11-17 | 2024-11-27 |
 | [Me Huele a Ron](https://open.spotify.com/track/4YhDW1o2isKZJwWgp8OSbs) | [Marcos Caminero](https://open.spotify.com/artist/6Kd2SrUH7oY4KC78UhIiNS) | [Merenboom Navideño](https://open.spotify.com/album/4RGmR8zZuKEHaObpwAeEK2) | 4:38 | 2022-12-18 |  |
-| [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 | 2022-11-25 |  |
+| [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 | 2022-11-25 | 2026-10-31 |
 | [Me Voy A Regalar](https://open.spotify.com/track/3zgmOyM7uUT1xdEXU9r8Bl) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:25 | 2022-11-25 |  |
 | [Mensaje De Navidad](https://open.spotify.com/track/22DPi3AFrPkY2YORQWyR3U) | [ClaraLuna](https://open.spotify.com/artist/4rivVQoxYegkPQjH3yuyr4), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Mensaje De Navidad](https://open.spotify.com/album/2tyXtxPPV6YsX9HiOb1dSV) | 3:56 | 2024-12-13 |  |
 | [Mensaje De Navidad](https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj) | [Para Mi Fanaticada](https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa) | 4:15 | 2022-11-25 |  |

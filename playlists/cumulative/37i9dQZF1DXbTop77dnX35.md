@@ -4,7 +4,7 @@
 
 > New Music from Phyno, Omah Lay, Davido, Sarkodoie, M.anifest, Sewa and more
 
-7,218 songs - 15 day 4 hr 0 min
+7,219 songs - 15 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Afraid, Pt\. 2](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 | 2025-03-21 |
 | [Africa](https://open.spotify.com/track/3BR9P6VLNk4PlJtxlSj0LQ) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU) | [Africa](https://open.spotify.com/album/0CJtUyNwyy5zeGnHZWjw3M) | 3:26 | 2026-06-19 | 2026-06-26 |
 | [Africa \(JAM \(MA\) Remix\) \- Radio Edit](https://open.spotify.com/track/523HRFyu4ekmKUjaPMROaq) | [JAM \(MA\)](https://open.spotify.com/artist/0tUjb3OtIiFAXtVeUSGJX1), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto), [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [Africa \(Jam \(Ma\) Remix\)](https://open.spotify.com/album/2u5ip5EqwWEnnQYOPBvdOp) | 2:47 | 2026-07-10 | 2026-07-17 |
+| [African Baddie](https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [African Baddie](https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96) | 2:37 | 2026-10-30 |  |
 | [African Boy](https://open.spotify.com/track/0yDywYHIi5BfNYESzXWwtH) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [African Buoy](https://open.spotify.com/album/4ZzsWY2WUETPUEZc4kNmkl) | 2:04 | 2025-08-29 | 2025-09-05 |
 | [African Boy, on a Cruise](https://open.spotify.com/track/3iKSXR7Xm5sA6q5NcpWFl6) | [Toby $pades](https://open.spotify.com/artist/6qAxyOBitKnug0z70yc2ih) | [Pieces](https://open.spotify.com/album/1hubduTkpAtoo68MPDm6rT) | 4:00 | 2025-08-22 | 2025-08-29 |
 | [AFRICAN CHAMPIONS](https://open.spotify.com/track/01HwymYXH9MLc5frzUZlhK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Reefer Tym](https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Stanley Enow](https://open.spotify.com/artist/1FEzMUWFcZynVzahFj6Xny), [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV), [Suintement](https://open.spotify.com/artist/0Bh9H8ou1XlZtws4A705IA) | [AFRICAN CHAMPIONS](https://open.spotify.com/album/7iJeJg9vrz0OGP0DsTx801) | 3:44 | 2026-01-09 | 2026-01-16 |
@@ -278,7 +279,7 @@
 | [ALHAJI \(INTRO\)](https://open.spotify.com/track/4x9OCXXPSC9igGXN3Lvd2d) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [ALHAJI \(INTRO\)](https://open.spotify.com/album/2ugpbOnUxP33GhLL68BH6D) | 2:19 | 2025-07-11 | 2025-07-18 |
 | [Alhaji Peter](https://open.spotify.com/track/2AERAiY4aWgJphULGBvPKT) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Alhaji Peter](https://open.spotify.com/album/7j2pw5tiAnCDXmb6Vnon4V) | 3:14 | 2026-05-29 | 2026-06-05 |
 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 | 2025-06-27 |
-| [Alhamdulilah](https://open.spotify.com/track/4u1ccfH8aFxt5hMFLQezSK) | [Okwi](https://open.spotify.com/artist/16pK3YXYLCyvrFwq2BJoXH) | [Alhamdulilah](https://open.spotify.com/album/1bTp8MhhmKqwPkOzGCjDp6) | 2:28 | 2026-10-30 |  |
+| [Alhamdulillah](https://open.spotify.com/track/4u1ccfH8aFxt5hMFLQezSK) | [Okwi](https://open.spotify.com/artist/16pK3YXYLCyvrFwq2BJoXH) | [Alhamdulillah](https://open.spotify.com/album/1bTp8MhhmKqwPkOzGCjDp6) | 2:28 | 2026-10-30 |  |
 | [Ali Bomaye](https://open.spotify.com/track/69ljijBlGBQ82ce3SidtVu) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Ali Bomaye](https://open.spotify.com/album/1B7xewToSrEgG5AtuISwdx) | 2:28 | 2025-01-24 | 2025-01-31 |
 | [Alimanjiri \(Remix\)](https://open.spotify.com/track/3hMIUxq62stTi3d3NWdS3u) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Alimanjiri \(Remix\)](https://open.spotify.com/album/7MRouae9adndVPMnCj6KHG) | 2:41 | 2025-05-23 | 2025-05-30 |
 | [Alive](https://open.spotify.com/track/4jWgREzNq1RRAlCMaRlPcY) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Alive](https://open.spotify.com/album/2S9QP1X7CjvpngvhGNN0MM) | 3:28 | 2026-06-19 | 2026-06-26 |
@@ -2489,7 +2490,7 @@
 | [Going Up](https://open.spotify.com/track/0JnGbAkB3bda0pX6zjgjik) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Nextee](https://open.spotify.com/artist/6Vtd4CyHV0peHLymMcKCXu) | [Going Up](https://open.spotify.com/album/1EmwN3NKzUBdvpzzdMsVTs) | 2:32 | 2024-08-02 | 2024-08-09 |
 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 | 2025-06-27 | 2025-07-04 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 | 2025-05-30 |
-| [Gold & Silver](https://open.spotify.com/track/48rD9ua533zOUAGinZklyO) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Gold & Silver](https://open.spotify.com/album/4zXC5J8ViWeji7RIM6XdzS) | 2:52 | 2026-10-30 |  |
+| [Gold & Silver](https://open.spotify.com/track/48rD9ua533zOUAGinZklyO) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Gold & Silver](https://open.spotify.com/album/4zXC5J8ViWeji7RIM6XdzS) | 2:43 | 2026-10-30 |  |
 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 | 2024-07-12 | 2024-07-19 |
 | [Gold Digger](https://open.spotify.com/track/02D1c5p1YaBcGHmei9aX3s) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [Introvert Disco](https://open.spotify.com/album/3pHGMyIporBBRCpCU9tAs9) | 3:10 | 2026-03-27 | 2026-04-03 |
 | [Gold Petal](https://open.spotify.com/track/63gcxcSZmmsnvwPSoMPp9J) | [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [SIMPLE](https://open.spotify.com/album/0CkTil8OBjq3APeWFWOQRW) | 1:41 | 2026-08-07 | 2026-08-14 |

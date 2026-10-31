@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 155428,
       "name": "10 MINUTES",
       "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
@@ -21652,6 +21652,28 @@
       "duration_ms": 281025,
       "name": "Salama",
       "url": "https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL"
+    },
+    {
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/2DNWgX1Ki4dmTL5oNVTzKa"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5HzwwlPfwcqDr04WWmfseI"
     },
     {
       "album": {

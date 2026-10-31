@@ -4,11 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 8 hr 9 min
+166 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Ways](https://open.spotify.com/track/3bdf03GVNLm9GOhjSFvdd9) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [100 Ways](https://open.spotify.com/album/7Di9g9Wr0V8kAgY8irZ3Ha) | 2:48 | 2024-06-13 |  |
+| [100 Ways](https://open.spotify.com/track/3bdf03GVNLm9GOhjSFvdd9) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [100 Ways](https://open.spotify.com/album/7Di9g9Wr0V8kAgY8irZ3Ha) | 2:48 | 2024-06-13 | 2026-10-31 |
 | [100 Ways \- MK Remix](https://open.spotify.com/track/1NDFWFXR8Jctvpm6vxZRFJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Ways \(MK Remix\)](https://open.spotify.com/album/5kHChDjJaFpPwedDPqkWJ6) | 3:51 | 2024-06-13 |  |
 | [1000 Suns](https://open.spotify.com/track/0RCPht2olSTB22MRujYR9t) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [1000 Suns](https://open.spotify.com/album/0GE43BJCb2bVzlM4s5jtoJ) | 3:24 | 2025-04-27 |  |
 | [1000 Suns](https://open.spotify.com/track/1zfq89eoPIvQFveUgOwU8W) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [PABLO ESCAPAR!](https://open.spotify.com/album/4Cs7btLNavBT6wcuNJUQWv) | 3:24 | 2025-04-19 | 2025-04-28 |
@@ -101,7 +101,8 @@
 | [Kendi Yoluna](https://open.spotify.com/track/19cm0LA9GS3ib8PH5IHsx7) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:07 | 2024-06-13 |  |
 | [Kendine Gel](https://open.spotify.com/track/33M46WVzB3S94em09c9kkG) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 3:31 | 2024-06-13 |  |
 | [Leap Of Faith](https://open.spotify.com/track/60RaJR9WDuED6orXYyXOAR) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Leap Of Faith](https://open.spotify.com/album/6dESR87X8I2nUW6rOlaDH8) | 3:22 | 2024-06-13 |  |
-| [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2024-06-13 |  |
+| [Leave Before You Love Me](https://open.spotify.com/track/4Fq9yXFRDjQbSy921muUcm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/5XB9vPy0364LRhG0wtDsBV) | 2:34 | 2026-10-30 |  |
+| [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2024-06-13 | 2026-10-31 |
 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/5fdbH2X0eyH3T6lBh2ZtVU) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:33 | 2024-06-13 |  |
 | [Lifted](https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79), [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Lifted](https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY) | 2:47 | 2024-06-13 |  |
 | [LMLY](https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd) | 3:29 | 2024-06-13 |  |

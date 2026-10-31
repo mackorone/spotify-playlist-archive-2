@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 20920,
+  "num_followers": 20925,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADUIfGNu2HlVJm4XcaK+qO0",
+  "snapshot_id": "auE7AAAAAAAy2Hpoa2K2ElMWN7ob/YAz",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos de Mentira",
-        "url": "https://open.spotify.com/album/5ljNvqbdWphhOe9BnRO9Yx"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 258415,
-      "name": "Besos de Mentira",
-      "url": "https://open.spotify.com/track/3nBTkjrzVEgalBfEuptN3e"
+      "duration_ms": 249000,
+      "name": "Domest\u00edcame",
+      "url": "https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+        "name": "Besos de Mentira",
+        "url": "https://open.spotify.com/album/5ljNvqbdWphhOe9BnRO9Yx"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Domest\u00edcame",
-      "url": "https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD"
+      "duration_ms": 258415,
+      "name": "Besos de Mentira",
+      "url": "https://open.spotify.com/track/3nBTkjrzVEgalBfEuptN3e"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/7MdMyVXQ3FVprk7htpv11E"
+      "duration_ms": 230146,
+      "name": "Yo Llorar\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/4n01Y1FkuhXPRFnbP9YOjV"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 230146,
-      "name": "Yo Llorar\u00e9 Por Ti",
-      "url": "https://open.spotify.com/track/4n01Y1FkuhXPRFnbP9YOjV"
+      "duration_ms": 227213,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/7MdMyVXQ3FVprk7htpv11E"
     },
     {
       "added_at": null,

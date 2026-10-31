@@ -1,32 +1,60 @@
 {
   "description": "\ud83c\uddf2\ud83c\udde6 \u0623\u062d\u0633\u0646 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u063a\u0631\u0628\u064a",
-  "num_followers": 111690,
+  "num_followers": 111735,
   "original_name": "POPSTARS*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABc2ob+EYBH7lbmB1Nvpzl/KBl+2",
+  "snapshot_id": "AAAAANzHojxjzVZjSuniyIzAysXcpGMb",
   "tracks": [
     {
-      "added_at": "2026-09-10 18:26:36",
+      "added_at": "2026-10-30 18:19:12",
       "album": {
-        "name": "TITIZ A KHAY",
-        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
+        "name": "LBASATA",
+        "url": "https://open.spotify.com/album/1lvbzl0U8pG41tMEk09asg"
       },
       "artists": [
-        {
-          "name": "Zouhair Bahaoui",
-          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
-        },
         {
           "name": "LAZARO",
           "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
         }
       ],
-      "duration_ms": 189579,
-      "name": "TITIZ A KHAY",
-      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
+      "duration_ms": 155912,
+      "name": "LBASATA",
+      "url": "https://open.spotify.com/track/34CI2kHw8rt0oQUIc5lfWo"
+    },
+    {
+      "added_at": "2026-10-30 18:19:55",
+      "album": {
+        "name": "Ach khellah Yetfakarni",
+        "url": "https://open.spotify.com/album/3783OvbEPlHQVwToBsrirf"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "duration_ms": 202162,
+      "name": "Achkhellah Yetfakarni",
+      "url": "https://open.spotify.com/track/3H54lEEiew66nSG4NyatEF"
+    },
+    {
+      "added_at": "2026-10-30 18:19:12",
+      "album": {
+        "name": "ABERDI",
+        "url": "https://open.spotify.com/album/0gtXA6YpdiX9OAAXQzF2YR"
+      },
+      "artists": [
+        {
+          "name": "Lakamura",
+          "url": "https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b"
+        }
+      ],
+      "duration_ms": 147878,
+      "name": "ABERDI",
+      "url": "https://open.spotify.com/track/5VPfBBt3YgeOyZHcY9kCDv"
     },
     {
       "added_at": "2026-10-14 06:56:22",
@@ -43,22 +71,6 @@
       "duration_ms": 217500,
       "name": "7OLM KBIR",
       "url": "https://open.spotify.com/track/68mqCeVZzPbaKn1g27MNTw"
-    },
-    {
-      "added_at": "2026-09-10 18:26:36",
-      "album": {
-        "name": "Allo Wesh",
-        "url": "https://open.spotify.com/album/5i0vpFrP36Fmvp3S8uUFhf"
-      },
-      "artists": [
-        {
-          "name": "Ayoub Anbaoui",
-          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Allo Wesh",
-      "url": "https://open.spotify.com/track/7lIGrwm9EozgjjGDyXYnov"
     },
     {
       "added_at": "2026-09-10 18:26:36",
@@ -111,18 +123,38 @@
     {
       "added_at": "2026-09-10 18:26:36",
       "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
+        "name": "Allo Wesh",
+        "url": "https://open.spotify.com/album/5i0vpFrP36Fmvp3S8uUFhf"
       },
       "artists": [
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Allo Wesh",
+      "url": "https://open.spotify.com/track/7lIGrwm9EozgjjGDyXYnov"
+    },
+    {
+      "added_at": "2026-09-10 18:26:36",
+      "album": {
+        "name": "TITIZ A KHAY",
+        "url": "https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb"
+      },
+      "artists": [
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        },
         {
           "name": "LAZARO",
           "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
         }
       ],
-      "duration_ms": 178800,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
+      "duration_ms": 189579,
+      "name": "TITIZ A KHAY",
+      "url": "https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W"
     },
     {
       "added_at": "2026-09-10 18:26:36",
@@ -187,6 +219,22 @@
       "duration_ms": 187669,
       "name": "LIAM",
       "url": "https://open.spotify.com/track/21aSPwD9zwJly334s2qUJM"
+    },
+    {
+      "added_at": "2026-09-10 18:26:36",
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
+      },
+      "artists": [
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
     },
     {
       "added_at": "2026-09-10 18:26:36",
@@ -291,22 +339,6 @@
       "duration_ms": 171428,
       "name": "Ghir Ana",
       "url": "https://open.spotify.com/track/5pPBbSleU1nnknHrGqADep"
-    },
-    {
-      "added_at": "2026-09-10 18:26:36",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/531r0snKCGKu4Eb6yNMsNS"
-      },
-      "artists": [
-        {
-          "name": "Lakamura",
-          "url": "https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/2QVScxNp2qLnKflRftE2Kx"
     },
     {
       "added_at": "2026-09-10 18:26:36",
@@ -663,22 +695,6 @@
     {
       "added_at": "2026-09-10 18:26:36",
       "album": {
-        "name": "Allo Doctor",
-        "url": "https://open.spotify.com/album/7LXkPXjAdBby2vyfA4wySk"
-      },
-      "artists": [
-        {
-          "name": "LAZARO",
-          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
-        }
-      ],
-      "duration_ms": 161118,
-      "name": "Allo Doctor",
-      "url": "https://open.spotify.com/track/1njTOLN0cJSTGPTH3mNElO"
-    },
-    {
-      "added_at": "2026-09-10 18:26:36",
-      "album": {
         "name": "YA BABA",
         "url": "https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 186857,
       "name": "Walidia",
       "url": "https://open.spotify.com/track/6lMibyYmZ1TrpXOMdzdetu"
-    },
-    {
-      "added_at": "2026-09-10 18:26:36",
-      "album": {
-        "name": "Barakin",
-        "url": "https://open.spotify.com/album/6R9XnKxka0nN1Kpet39x5u"
-      },
-      "artists": [
-        {
-          "name": "LAZARO",
-          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Barakin",
-      "url": "https://open.spotify.com/track/4E313AQkPCIPASvQZvHbvN"
     },
     {
       "added_at": "2026-09-10 18:26:36",

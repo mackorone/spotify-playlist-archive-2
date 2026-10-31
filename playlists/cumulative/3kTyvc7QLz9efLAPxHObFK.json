@@ -16425,6 +16425,28 @@
     },
     {
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/7IaATgGKasyabzvas5DTE1"
+      },
+      "artists": [
+        {
+          "name": "Srav3R",
+          "url": "https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0"
+        },
+        {
+          "name": "Getty",
+          "url": "https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222766,
+      "name": "DUAL BREAKER XX -Re:BOOT-",
+      "url": "https://open.spotify.com/track/1BiKzRUhS0b5N9ojyn6lKt"
+    },
+    {
+      "album": {
         "name": "Dum Dubi Doom (Alaguan Radio Mix)",
         "url": "https://open.spotify.com/album/5cX8fMM68RvsPdlBgNaevK"
       },

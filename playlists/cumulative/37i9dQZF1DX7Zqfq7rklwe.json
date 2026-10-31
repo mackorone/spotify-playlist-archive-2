@@ -4117,6 +4117,24 @@
     },
     {
       "album": {
+        "name": "Minun kaupunkini (Live)",
+        "url": "https://open.spotify.com/album/1bOKD3phfZAKkUE25GcWVu"
+      },
+      "artists": [
+        {
+          "name": "Zen Cafe",
+          "url": "https://open.spotify.com/artist/13l03qv7mpBV432l5t8fpq"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244912,
+      "name": "Minun kaupunkini - Live",
+      "url": "https://open.spotify.com/track/0F68ctqfmpMOHoeYllWmtj"
+    },
+    {
+      "album": {
         "name": "Stockholm Syndrome",
         "url": "https://open.spotify.com/album/3uMfXWCv23mz4DB5wTcvw1"
       },

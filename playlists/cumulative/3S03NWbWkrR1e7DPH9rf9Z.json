@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 164517,
       "name": "Ai Caralho",
       "url": "https://open.spotify.com/track/2PboxVJSjQJRZgQcVKNDFk"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 165521,
       "name": "Camera Flash",
       "url": "https://open.spotify.com/track/02Jp00dHUFueWTKKhNgEPB"
@@ -3066,6 +3066,24 @@
       "duration_ms": 190285,
       "name": "Legends",
       "url": "https://open.spotify.com/track/4C9uiUGtAuaqwOyDBlENWf"
+    },
+    {
+      "album": {
+        "name": "Let's Bring It Back",
+        "url": "https://open.spotify.com/album/1rmAQXuVCm8avQlmi9MIaP"
+      },
+      "artists": [
+        {
+          "name": "MatricK",
+          "url": "https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Let's Bring It Back",
+      "url": "https://open.spotify.com/track/4glkZPB7YMRnDoQLDuTjcm"
     },
     {
       "album": {
@@ -5522,6 +5540,24 @@
       "duration_ms": 129260,
       "name": "Thunderbolt (Jaxx & Vega Remix)",
       "url": "https://open.spotify.com/track/1XtnKmKyKisMPCCrM0T59C"
+    },
+    {
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/5Mzxrx1rH30B1Mk2zXwRAC"
+      },
+      "artists": [
+        {
+          "name": "Jarred",
+          "url": "https://open.spotify.com/artist/7vpO8c2Ver8gJHCcRskbjF"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150441,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/1xmqmzzO1QpatOrYAMogeP"
     },
     {
       "album": {

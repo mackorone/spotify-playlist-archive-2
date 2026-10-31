@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-276 songs - 14 hr 52 min
+280 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [christmas comes in waves](https://open.spotify.com/track/0wYQEHRa98AdPdmOofZXbS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [christmas comes in waves](https://open.spotify.com/album/6lIIrC3M60Oi45B7D0QAyQ) | 3:41 | 2023-11-24 | 2024-10-19 |
 | [Christmas Cookies](https://open.spotify.com/track/2K2UmIJHUptAkAeFwUQUzg) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Cookies](https://open.spotify.com/album/00MAHDFOnNoJqp2cGwoBGp) | 3:19 | 2025-11-14 |  |
 | [Christmas In Dixie](https://open.spotify.com/track/2HUqqFjgoqUgkfckEQo7RX) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Christmas In Dixie](https://open.spotify.com/album/0HGDbKzBdcSBA2feW9A2bG) | 3:36 | 2024-11-22 | 2025-11-08 |
+| [Christmas in Dixie](https://open.spotify.com/track/5jHnZ8W8oEmhBu6ZHbyJqs) | [Scotty Inman](https://open.spotify.com/artist/3pWCPKVckgJonKRHNkGY2o), [Chosen Road](https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh) | [Christmas in Dixie](https://open.spotify.com/album/17y61aySQrunp1m5a95hNo) | 3:30 | 2026-10-30 |  |
 | [Christmas In The Backyard](https://open.spotify.com/track/4tb8C9aWere1hZXiC5CQcR) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Christmas In The Backyard](https://open.spotify.com/album/29beFzNrz6x5wI3vAqJytO) | 2:36 | 2023-11-24 | 2024-10-19 |
 | [Christmas Is](https://open.spotify.com/track/3bevuid8HsXwCo3RIzJv0Y) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Christmas Is](https://open.spotify.com/album/6vsBjtv7f5laIdOB6NNUcM) | 2:55 | 2024-11-01 | 2025-11-08 |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Christmas Isn't Christmas](https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h) | 3:12 | 2023-11-24 | 2024-10-19 |
@@ -138,6 +139,7 @@
 | [Joy To The World](https://open.spotify.com/track/3Wc6clK3BdmeW0Ce20Du2u) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Joy To The World](https://open.spotify.com/album/1yhL0vfvEp2P5JX7UrMnva) | 3:05 | 2024-11-15 | 2025-11-08 |
 | [Joy To The World](https://open.spotify.com/track/4pCfx1Mghl9ccOTK40wRBP) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Joy To The World](https://open.spotify.com/album/4KPj94cA1iorxv8Ki9rBrv) | 2:51 | 2023-11-24 | 2024-10-19 |
 | [Just Takes Two \(To Make It Christmas\)](https://open.spotify.com/track/6HwrjfBjnbyfgKRDzX3jdk) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Just Takes Two \(To Make It Christmas\)](https://open.spotify.com/album/6mByerb31tq2Ng8teBvMqj) | 3:21 | 2024-11-15 | 2025-11-08 |
+| [King Size Bed](https://open.spotify.com/track/5hVheB2BEydJG6n9lEc9Cg) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [King Size Bed](https://open.spotify.com/album/2hTAyu2WI7NGKi8CZpuwgt) | 3:16 | 2026-10-30 |  |
 | [Last Christmas](https://open.spotify.com/track/7CUcT0glaMVgtBAtUE4i1y) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Homesick For The Holidays](https://open.spotify.com/album/579d5n23nFLVIJY5a7JP1D) | 4:35 | 2024-12-06 | 2025-11-08 |
 | [Last Christmas](https://open.spotify.com/track/2Deggx5Ehhuk7tVkryLZA1) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Carols and Candlelight](https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg) | 3:49 | 2024-11-08 | 2025-11-08 |
 | [Last Christmas](https://open.spotify.com/track/1va0FsVXFh3w8KpRHQQbtd) | [Maddie Lenhart](https://open.spotify.com/artist/2vqBHPrnigNJCWusHebgMV) | [Last Christmas](https://open.spotify.com/album/468O1r06duRjqElPdT7uPN) | 3:35 | 2025-11-14 |  |
@@ -212,6 +214,7 @@
 | [Santa Had A Rough Year](https://open.spotify.com/track/7K27V7RXFTFGB9FT2D3PfZ) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Santa Had A Rough Year](https://open.spotify.com/album/4Gqf1g3PjducjMN9dSWuMc) | 3:23 | 2025-10-24 |  |
 | [Santa Tell Me](https://open.spotify.com/track/07Zk7BhwZjJQDemcWymMzF) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Cross\-Legged By The Fireplace](https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi) | 2:52 | 2023-12-01 | 2024-10-19 |
 | [Season of Lights and Wonder \- Piano](https://open.spotify.com/track/3GxgMI2dlBJGsm12T3iKNC) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Season of Lights and Wonder](https://open.spotify.com/album/0kznKv2v97ozUEpBICwtpl) | 2:53 | 2024-11-15 | 2025-11-08 |
+| [Shouldn't It Be Christmas](https://open.spotify.com/track/2vKiGb72PDIryMsJnv41sk) | [Anna Rae](https://open.spotify.com/artist/4aQ52tbH4voTjlrYduJkNA) | [Shouldn't It Be Christmas](https://open.spotify.com/album/46kXjFVYtMieMjI5ExWEIl) | 4:17 | 2026-10-30 |  |
 | [Silent Night](https://open.spotify.com/track/4jFdwSu9GPNkBsg0tnnXHu) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Silent Night](https://open.spotify.com/album/22uqau4SfPEdek3YzrTgbK) | 3:44 | 2024-11-01 | 2025-11-08 |
 | [Silent Night](https://open.spotify.com/track/7s85owcMvtlPMBRG5TWeWs) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 3:24 | 2024-10-18 | 2025-11-08 |
 | [Silent Night](https://open.spotify.com/track/4QNsjxsZMaoZCU8Qu7EyNg) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silent Night](https://open.spotify.com/album/6rKpq3TVg2RtNCaMsfHscq) | 2:06 | 2024-11-15 | 2025-11-08 |
@@ -227,6 +230,7 @@
 | [Silverado Santa](https://open.spotify.com/track/5QTiDBP5AoZRZFz2vhujXY) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Silverado Santa](https://open.spotify.com/album/2EfhiBTVKligRG4ZxlyMe8) | 3:22 | 2023-11-24 | 2024-10-19 |
 | [Single Bells](https://open.spotify.com/track/06CjrlHkZsur79YA4yLauG) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Single Bells](https://open.spotify.com/album/0VP7tSAR1OMjggz22o75gu) | 3:27 | 2024-11-01 | 2025-11-08 |
 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-11-24 | 2024-10-19 |
+| [Snowed In With Me](https://open.spotify.com/track/3hdaU2rPibQW0AgFE2a467) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Snowed In With Me](https://open.spotify.com/album/2j7BarIpVo1yEXEphxuf3g) | 3:08 | 2026-10-30 |  |
 | [Someday at Christmas](https://open.spotify.com/track/5DHoHmdoVIPT9G3JlCz3SF) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Someday at Christmas](https://open.spotify.com/album/6HiYZZCYkS6FnbPx7zqjsc) | 3:00 | 2025-11-14 |  |
 | [Sounds Like Christmas](https://open.spotify.com/track/6GtDtiBIQHnV9XIOLTSjMH) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Sounds Like Christmas](https://open.spotify.com/album/6mHqfMpPrKwtmDwZJpyIyw) | 3:42 | 2024-11-22 | 2025-11-08 |
 | [Star on the Tree](https://open.spotify.com/track/7yRdVuwDlTH6daU0xYiXGi) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Star on the Tree](https://open.spotify.com/album/7o4xdIClx8XUKnuCfFCv4E) | 2:45 | 2025-11-14 |  |

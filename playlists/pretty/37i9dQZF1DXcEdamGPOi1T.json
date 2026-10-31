@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "Tant pis pour elle",
+        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 158185,
+      "name": "Tant pis pour elle",
+      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "Hit Sale",
         "url": "https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 184400,
       "name": "Hit Sale",
       "url": "https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Tant pis pour elle",
-        "url": "https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 158185,
-      "name": "Tant pis pour elle",
-      "url": "https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi"
     },
     {
       "added_at": "2026-08-28 04:03:37",

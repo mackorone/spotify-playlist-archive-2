@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,006 songs - 11 day 7 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,013 songs - 11 day 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5014,5 +5014,12 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5004 | [Tap Your Toe And Follow Me](https://open.spotify.com/track/4RO7kDpQwMVzjpYmpRZuiu) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:52 |
 | 5005 | [Dyin 2 Liv](https://open.spotify.com/track/544q7U2gM6eSJQtfcoXkw8) | [The Purple Helmets](https://open.spotify.com/artist/6BGEohHczI6MUGmg4bG76N) | [Dyin 2 Liv](https://open.spotify.com/album/0cQWCCHCNzgkjCtEd76ePx) | 3:54 |
 | 5006 | [Can we start again](https://open.spotify.com/track/16fZgUAyy2xWXlymwJ6eaU) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Can we start again?](https://open.spotify.com/album/4Q345WTjwHW2UbuXyQ7Ims) | 4:58 |
+| 5007 | [Siamo Ancora Qui](https://open.spotify.com/track/17J9Yzsd9pG9w23nBOCEvA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Siamo Ancora Qui](https://open.spotify.com/album/56hT0GGHWP7Gq80RjPLagh) | 4:06 |
+| 5008 | [Poco a poco](https://open.spotify.com/track/0fLbOaWKH5VPEFzu1uaLTC) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:44 |
+| 5009 | [Se fue mi amor](https://open.spotify.com/track/79q0cbSIB161JYrWUg1XlR) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 3:44 |
+| 5010 | [The City My heart belongs to](https://open.spotify.com/track/5YQQHePUGNVyqOlPTedvGG) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 4:45 |
+| 5011 | [Boots By The Door](https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Boots By The Door](https://open.spotify.com/album/5DlaXWnCS75sNV0YQSQPmg) | 2:26 |
+| 5012 | [Come On Home](https://open.spotify.com/track/5FzC2qoqgm0o621K6jQ6Kp) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Come On Home](https://open.spotify.com/album/2Wh6xDm9kiExycfUEJpiSX) | 3:41 |
+| 5013 | [Only Human](https://open.spotify.com/track/1jsk1IKcrcTh7yeV0JFgd1) | [Decybel](https://open.spotify.com/artist/3eM6ibGISvLDXrJDqlB9eb) | [Only Human](https://open.spotify.com/album/4so6QfPlbj4lbNIrMVo5yX) | 4:44 |
 
-Snapshot ID: `AAAK1rAka9fI4vVkkavfTwDkFnhd2KAM`
+Snapshot ID: `AAAK3c/ymuoNqkJxy8JiwY6P1igV03TZ`

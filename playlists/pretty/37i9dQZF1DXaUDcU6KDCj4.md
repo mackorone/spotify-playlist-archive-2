@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,464 likes - 190 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,574 likes - 190 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 9 | [Quitter](https://open.spotify.com/track/2tGR2aOhVgEhB6JF7W3p8h) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Quitter](https://open.spotify.com/album/3C8B4YhjTstroxHTiP8Vqq) | 2:48 |
 | 10 | [Smartest Person in the Room](https://open.spotify.com/track/6VDE9z9Ld25UhlC9SXnbRX) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Sleeping Lion](https://open.spotify.com/album/1uDux5bGlSh9JUxMkQ05dE) | 3:22 |
 | 11 | [Scarlett](https://open.spotify.com/track/0VkA3rug1fdlSPGw1rMnos) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Scarlett](https://open.spotify.com/album/7hUGKO4CfgGFAmw3qc0UQb) | 3:04 |
-| 12 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:06 |
+| 12 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:08 |
 | 13 | [Up and Down a Mountain](https://open.spotify.com/track/0FknOu4D8csA7MLxBE7L9K) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [True Violet](https://open.spotify.com/album/2eWgxkjH8BZR652lXDfDB5) | 3:49 |
 | 14 | [George Clanton](https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Unfindable Ring](https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu) | 4:31 |
 | 15 | [Sing](https://open.spotify.com/track/0wLidBi3HZJwTxMQr8jSk5) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [FUDGE](https://open.spotify.com/album/4Qy4QeE6QL941JsIyEVqF2) | 6:11 |

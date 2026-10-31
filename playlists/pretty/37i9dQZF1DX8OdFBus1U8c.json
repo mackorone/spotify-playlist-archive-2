@@ -1,12 +1,12 @@
 {
   "description": "Best of Malayalam Hip-Hop! \nCover :  Parimal Shais, MC Couper, The Imbachi, Dabzee",
-  "num_followers": 214972,
+  "num_followers": 214987,
   "original_name": "RAP 91 Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANcqif6x2SSiZDVIZYUmiSY40WhR",
+  "snapshot_id": "AAAAAPuiBb5ob5ezUGqj0feIgDnNwhZK",
   "tracks": [
     {
       "added_at": "2026-10-21 05:22:03",
@@ -35,6 +35,26 @@
       "duration_ms": 154368,
       "name": "Entha Haal - From \"Kerala Underground\"",
       "url": "https://open.spotify.com/track/5hEYWCzHY16Tyieti7xlQ6"
+    },
+    {
+      "added_at": "2026-10-30 23:12:22",
+      "album": {
+        "name": "Kochi City Vice",
+        "url": "https://open.spotify.com/album/3FbP7D2zgqZTSvooOnmjaC"
+      },
+      "artists": [
+        {
+          "name": "Rakz Radiant",
+          "url": "https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ"
+        },
+        {
+          "name": "SXNATH",
+          "url": "https://open.spotify.com/artist/6VTNgYVavXETAaUlVkZ95U"
+        }
+      ],
+      "duration_ms": 120710,
+      "name": "Kochi City Vice",
+      "url": "https://open.spotify.com/track/6X9CKe9IsWyYA3nxNuzF5v"
     },
     {
       "added_at": "2026-10-21 05:22:03",
@@ -67,6 +87,26 @@
       "duration_ms": 265125,
       "name": "The War Cry",
       "url": "https://open.spotify.com/track/48jW3xdddYmgBZrBM4k2cR"
+    },
+    {
+      "added_at": "2026-10-30 23:27:41",
+      "album": {
+        "name": "For A Reason",
+        "url": "https://open.spotify.com/album/0c0NJvSM4uIGtSi0g7dbGn"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "For A Reason",
+      "url": "https://open.spotify.com/track/2XK7JEW46rkMXsC7W5NaWL"
     },
     {
       "added_at": "2026-10-21 05:22:03",

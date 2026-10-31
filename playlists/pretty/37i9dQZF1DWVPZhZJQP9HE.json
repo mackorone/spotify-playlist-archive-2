@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Siri Xander",
-  "num_followers": 85994,
+  "num_followers": 86020,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNQiquUrX4dIiIJELg1HhsukRVL",
+  "snapshot_id": "AAAAALoqyijTBALIAw6cjXSKyR/Um64m",
   "tracks": [
     {
       "added_at": "2026-08-27 11:24:03",
@@ -87,6 +87,22 @@
       "duration_ms": 237841,
       "name": "Pon Vizhi",
       "url": "https://open.spotify.com/track/2Fg13KXXr1tTQukjeKagqa"
+    },
+    {
+      "added_at": "2026-10-07 09:58:11",
+      "album": {
+        "name": "Rathinamo",
+        "url": "https://open.spotify.com/album/0mhWO74xsaV16ZOEVvP4xO"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "duration_ms": 189912,
+      "name": "Rathinamo",
+      "url": "https://open.spotify.com/track/0S3d0It6FKSAVfRSjjveP2"
     },
     {
       "added_at": "2026-05-06 10:50:13",
@@ -293,20 +309,32 @@
       "url": "https://open.spotify.com/track/6OBigDNxPz7c9P5YWnnecH"
     },
     {
-      "added_at": "2026-10-07 09:58:11",
+      "added_at": "2026-10-31 00:53:37",
       "album": {
-        "name": "Rathinamo",
-        "url": "https://open.spotify.com/album/0mhWO74xsaV16ZOEVvP4xO"
+        "name": "Sundara Malli",
+        "url": "https://open.spotify.com/album/4PyMHEv3byExL8vB80zZ4Q"
       },
       "artists": [
         {
-          "name": "Saurav Srisan",
-          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        },
+        {
+          "name": "Manoj Kumar Maddie",
+          "url": "https://open.spotify.com/artist/7i2GxFywnezuA61hdljCvH"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
         }
       ],
-      "duration_ms": 189912,
-      "name": "Rathinamo",
-      "url": "https://open.spotify.com/track/0S3d0It6FKSAVfRSjjveP2"
+      "duration_ms": 210902,
+      "name": "Sundara Malli",
+      "url": "https://open.spotify.com/track/3HKkqpO1plqN9SDwtuGo7O"
     },
     {
       "added_at": "2026-10-23 05:16:45",

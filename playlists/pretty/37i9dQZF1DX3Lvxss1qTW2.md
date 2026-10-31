@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: TUFF KING
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,066 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,100 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Daddy, I'm Going Out](https://open.spotify.com/track/3PkU0NhQmbeh1lIsDi8tyr) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Daddy, I'm Going Out](https://open.spotify.com/album/26l5EcfY8MUwU0W86Eo3Qy) | 2:32 |
 | 80 | [O rí mi](https://open.spotify.com/track/3R4GEid3JLlWuujA7HlRQt) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR) | [O rí mi](https://open.spotify.com/album/1O6BfPiNKoMy1iIZOHekVG) | 2:45 |
 
-Snapshot ID: `AAAAAH0VqhNOEujfXY6s9NeskzkKacOM`
+Snapshot ID: `AAAAAMArFl+5B3R05gWWe32ShmeuWQeq`

@@ -4,7 +4,7 @@
 
 > Lucio Corsi in versione Napoleone in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,967 songs - 8 day 13 hr 12 min
+3,968 songs - 8 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [Azucar](https://open.spotify.com/track/2YGbdJobuSUnfHUGVIHVXb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Mixed Feelings \(Bonus Track Edition\)](https://open.spotify.com/album/5c3R42LrfZhbFc4UfYAORE) | 3:26 | 2026-01-29 | 2026-02-20 |
 | [AZZURRISSIMO](https://open.spotify.com/track/65A1gOtlKS8JMuSh2hANFX) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [AZZURRISSIMO](https://open.spotify.com/album/5oL73fuYtMxhO5wf8WmzBJ) | 3:13 | 2025-06-20 | 2025-07-18 |
 | [Baby](https://open.spotify.com/track/061HqlGR7nPHyCUM4raLXy) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Baby](https://open.spotify.com/album/5QI1TWbg2dsDDS8RB0P24B) | 3:21 | 2025-04-10 | 2025-05-09 |
-| [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 | 2026-10-15 |  |
+| [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 | 2026-10-15 | 2026-10-31 |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-07 | 2025-02-28 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-27 | 2024-07-05 |
 | [Baby Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 | 2025-11-20 | 2025-12-19 |
@@ -1172,6 +1172,7 @@
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-23 | 2025-02-14 |
 | [Fatalità](https://open.spotify.com/track/0mJK6xLIvrX2Vi47LKFHbj) | [Stunk](https://open.spotify.com/artist/6eHbpr6dxKAYDUvL0kCU0t) | [Raccolta stanca](https://open.spotify.com/album/28bDuOq8V04FA2fnIlQR52) | 2:52 | 2026-07-09 | 2026-07-31 |
 | [FATTO COSÌ](https://open.spotify.com/track/53iwkYVNMHTRji6H5iPjqU) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [FATTO COSÌ](https://open.spotify.com/album/4OkL5F7GyKwZq88MYrPHkC) | 2:29 | 2026-01-29 | 2026-02-20 |
+| [Favor \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Favor](https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr) | 5:35 | 2026-10-30 |  |
 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 | 2026-01-01 | 2026-01-30 |
 | [FEBBRE](https://open.spotify.com/track/2no1HLYjXuCpr4Gf4XVhXg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [FEBBRE](https://open.spotify.com/album/5RetRrT1ek0vcw7ppAEVAN) | 3:12 | 2025-02-12 | 2025-03-07 |
 | [FEDERICA](https://open.spotify.com/track/3JLupEEqEjmXIHzS9EniLf) | [zafina](https://open.spotify.com/artist/0xtREruxB0K1dTUYdNCGe1) | [FEDERICA](https://open.spotify.com/album/4WemgP52K18oItUuWHBLzi) | 2:26 | 2026-09-24 | 2026-10-16 |

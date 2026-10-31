@@ -1265,6 +1265,32 @@
     },
     {
       "album": {
+        "name": "Ajnabi Nahi",
+        "url": "https://open.spotify.com/album/5WmVXRWfy9KCgfpRVVkBRh"
+      },
+      "artists": [
+        {
+          "name": "Ali Mustafa",
+          "url": "https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN"
+        },
+        {
+          "name": "Jibran Raheel",
+          "url": "https://open.spotify.com/artist/5Ziai02jpq91fjNgV6mF9k"
+        },
+        {
+          "name": "Daud Raheel",
+          "url": "https://open.spotify.com/artist/6NPzI9FlO53oaQmk6Yn2SG"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160018,
+      "name": "Ajnabi Nahi",
+      "url": "https://open.spotify.com/track/6FSDqN44NhKW3ABBlOwU50"
+    },
+    {
+      "album": {
         "name": "Akela",
         "url": "https://open.spotify.com/album/6KNPgGbznb8Snm7GtUhoFb"
       },
@@ -1758,7 +1784,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 173233,
       "name": "Ambran De Taare",
       "url": "https://open.spotify.com/track/4Vv92d0E3lZIdjCblsag05"
@@ -2366,7 +2392,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 213199,
       "name": "Ayza",
       "url": "https://open.spotify.com/track/2P9iGYlazDNb71rl6NZQ7a"
@@ -6236,7 +6262,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 274666,
       "name": "Dhund",
       "url": "https://open.spotify.com/track/62hLTSPkZXmDOcPEzStF79"
@@ -6582,7 +6608,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 184478,
       "name": "Dil Maybe",
       "url": "https://open.spotify.com/track/5jBbJugL4sFNbCDMih4bxp"
@@ -12431,6 +12457,28 @@
     },
     {
       "album": {
+        "name": "Jhumka",
+        "url": "https://open.spotify.com/album/4mhxTKeRJ9B4ONQhF8ZNhf"
+      },
+      "artists": [
+        {
+          "name": "Bilal Khalid",
+          "url": "https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf"
+        },
+        {
+          "name": "Seventean",
+          "url": "https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159408,
+      "name": "Jhumka",
+      "url": "https://open.spotify.com/track/0K6l9roa4gPGggGHmNg0Gn"
+    },
+    {
+      "album": {
         "name": "Ram Pam Para",
         "url": "https://open.spotify.com/album/6DiiOftBUslEpML79kbVNW"
       },
@@ -12650,7 +12698,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 173684,
       "name": "Judai",
       "url": "https://open.spotify.com/track/0dIc1TF9GOxbtZtl1lmr5c"
@@ -15802,6 +15850,24 @@
       "duration_ms": 236470,
       "name": "Mahiya - Reimagined",
       "url": "https://open.spotify.com/track/6H9wzw1X4Ojd9TvFtMs4B5"
+    },
+    {
+      "album": {
+        "name": "Main Aur Tu",
+        "url": "https://open.spotify.com/album/6vM6BVvuuWMg8Vh70y6Xhu"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Haider",
+          "url": "https://open.spotify.com/artist/0c8E2S7cYBXqoo51XkVX3L"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126923,
+      "name": "Main Aur Tu",
+      "url": "https://open.spotify.com/track/0s2tyXTT414Ysyw5YCVQ4Y"
     },
     {
       "album": {
@@ -25486,7 +25552,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 288000,
       "name": "Tere Naal Jeena",
       "url": "https://open.spotify.com/track/5oP9EXzAKuvHKV45ZW56kU"
@@ -26715,6 +26781,28 @@
     },
     {
       "album": {
+        "name": "Tu Yaad Aayega",
+        "url": "https://open.spotify.com/album/7jEirgEFnSByCz7k8NBlwS"
+      },
+      "artists": [
+        {
+          "name": "Aizaz Ahmad",
+          "url": "https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm"
+        },
+        {
+          "name": "Rachel",
+          "url": "https://open.spotify.com/artist/4mogZsrI9MKrJ64jZ4Yyvp"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208031,
+      "name": "Tu Yaad Aayega",
+      "url": "https://open.spotify.com/track/0EmArfkuPuasJvCmODDrwA"
+    },
+    {
+      "album": {
         "name": "tujhe",
         "url": "https://open.spotify.com/album/4Rh4oXfmCLxO21ff6d5dYm"
       },
@@ -26844,6 +26932,24 @@
       "duration_ms": 189393,
       "name": "Tum Jo Aye",
       "url": "https://open.spotify.com/track/4aAaF4t3HBL0Esis5nxpXs"
+    },
+    {
+      "album": {
+        "name": "Tum Koi Aur",
+        "url": "https://open.spotify.com/album/3q6Cu2xmojC9MPFw9u5VjA"
+      },
+      "artists": [
+        {
+          "name": "Najaf Ali",
+          "url": "https://open.spotify.com/artist/5D04BKowdcEciyByNMzAEX"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236970,
+      "name": "Tum Koi Aur",
+      "url": "https://open.spotify.com/track/0Rh8qDgVyNZMN2hKVp9rYm"
     },
     {
       "album": {

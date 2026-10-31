@@ -4,7 +4,7 @@
 
 > Latest music from Sonu Nigam, Guru Randhawa, Hansika Pareeek and more.
 
-1,979 songs - 4 day 16 hr 24 min
+1,980 songs - 4 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1441,6 +1441,7 @@
 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 | 2022-06-10 | 2022-09-02 |
 | [Rangrez](https://open.spotify.com/track/0hpkrnDK1a21CX3uylUocb) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Rangrez](https://open.spotify.com/album/1TqRxCaSNE08PZ5WzhrX31) | 4:06 | 2022-07-29 | 2022-09-16 |
 | [Rangreza](https://open.spotify.com/track/0PO3CJpN4CjP5uF5gSUCq4) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Rangreza](https://open.spotify.com/album/2f8VtYnVc9LgGv813311Xl) | 3:48 | 2025-03-14 | 2025-04-26 |
+| [Rani Tu Hi Diwali](https://open.spotify.com/track/4ozTOPaacVgbZmfvo8SeZR) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Rani Tu Hi Diwali](https://open.spotify.com/album/1fiV4DqIEHpk7c71mVi5Om) | 2:32 | 2026-10-30 |  |
 | [Ras Ke Bhare](https://open.spotify.com/track/00Z4zBOh25NUzsUGffMrZS) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Ras Ke Bhare](https://open.spotify.com/album/2zFQCsirZmXXl4qNNO55D9) | 3:53 | 2022-12-01 | 2022-12-03 |
 | [Rasiya](https://open.spotify.com/track/7cjgBIq8uvAz9uKv27mMCQ) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Rasiya](https://open.spotify.com/album/7a5jf2Rhak081lCBY0dPD9) | 2:14 | 2023-07-21 | 2023-08-12 |
 | [Rasm\-E\-Mohabbat](https://open.spotify.com/track/3kaDB3IEndPypXi9Jiy8AC) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Dr\. Ankita Chaturvedi](https://open.spotify.com/artist/5nHaMNmLx4e40zzOGQAfjF), [Dev Sharma](https://open.spotify.com/artist/6MBw1eLcZi4P7MyT5C4PlA), [Saira Mukhtar](https://open.spotify.com/artist/2yQ7VxLAkCDrxgW0P1Hg1l) | [Rasm\-E\-Mohabbat](https://open.spotify.com/album/5Vs2wNqZTcmJkvB0Egowp9) | 3:13 | 2025-10-17 | 2025-11-28 |

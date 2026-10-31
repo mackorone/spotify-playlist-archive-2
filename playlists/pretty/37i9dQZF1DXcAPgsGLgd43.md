@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,132 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,153 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 97 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
 | 98 | [Morenita](https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Paradise Inc.](https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka) | [Morenita](https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr) | 2:58 |
 | 99 | [Claro](https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [Claro](https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA) | 2:39 |
-| 100 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 |
+| 100 | [Chimba](https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB) | [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [BIG KAPOH](https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8) | [Chimba](https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp) | 3:27 |
 
 Snapshot ID: `AAAAALtbkSz0JwVGCunQEcWJAfx+ps9b`

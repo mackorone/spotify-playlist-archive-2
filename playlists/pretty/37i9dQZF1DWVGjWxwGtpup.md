@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,408 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,430 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 50 | [Demain t'es ou](https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Demain t'es ou](https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk) | 2:36 |
 
-Snapshot ID: `AAAAANOen7TPHjaSoK5iMcn/y5FDdDSA`
+Snapshot ID: `AAAAAOaxpfiIqwNTtuhs7XvyWn/MAzaO`

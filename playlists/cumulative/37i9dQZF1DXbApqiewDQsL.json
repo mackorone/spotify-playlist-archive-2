@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The best new music by independent artists and labels, featuring  Muriel",
+  "description": "The best new music by independent artists and labels, featuring  Estilo Real",
   "name": "Fresh Finds M\u00fasica Mexicana ",
   "tracks": [
     {
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 174484,
       "name": "DaVinci",
       "url": "https://open.spotify.com/track/20KQXLYF4MVENCUxHwjpdY"
@@ -3216,6 +3216,28 @@
       "duration_ms": 208524,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/1aOpfe9bFkKY175YQmNOjf"
+    },
+    {
+      "album": {
+        "name": "Da\u00f1ada",
+        "url": "https://open.spotify.com/album/0QWBvMtlxhEmm8IpEByXZr"
+      },
+      "artists": [
+        {
+          "name": "Benz J",
+          "url": "https://open.spotify.com/artist/2JUhZwxsGuEp52HFfKn3WO"
+        },
+        {
+          "name": "Arre",
+          "url": "https://open.spotify.com/artist/1xnSdmB7fgS0JcfOJFzBF1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180972,
+      "name": "Da\u00f1ada",
+      "url": "https://open.spotify.com/track/0X0Qf5X9h8cOwTNFXY1CeH"
     },
     {
       "album": {
@@ -4434,7 +4456,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 135542,
       "name": "El Quarterback",
       "url": "https://open.spotify.com/track/7ij4iKaDMPlsoJyDo2i9VD"
@@ -6402,7 +6424,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 234134,
       "name": "La Gata Bajo La Lluvia",
       "url": "https://open.spotify.com/track/6xBR4IYdK9MzO5u1FjDyNN"
@@ -9588,7 +9610,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 160085,
       "name": "Paso Firme",
       "url": "https://open.spotify.com/track/4Mra8EdCYTUeIwFAathPXI"
@@ -9610,6 +9632,28 @@
       "duration_ms": 162900,
       "name": "Pecado",
       "url": "https://open.spotify.com/track/5yXG0XX0vlaR3OCe8fyAYt"
+    },
+    {
+      "album": {
+        "name": "Pecado",
+        "url": "https://open.spotify.com/album/4gG3PpVyhspjMHywgPihlV"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "MEDIOKRES",
+          "url": "https://open.spotify.com/artist/1B2AnkJUNWFxiWkHK0jo8X"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182317,
+      "name": "Pecado",
+      "url": "https://open.spotify.com/track/4nqUIQcVg69pUWaJf9gb8U"
     },
     {
       "album": {
@@ -9740,6 +9784,24 @@
       "duration_ms": 214805,
       "name": "Pero Me Da\u00f1aste",
       "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
+    },
+    {
+      "album": {
+        "name": "PERRA HAMBRE",
+        "url": "https://open.spotify.com/album/3A35xdnQ1WlngkRFAZqOjH"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Leyva",
+          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156247,
+      "name": "PERRA HAMBRE",
+      "url": "https://open.spotify.com/track/4XAfw0OQDyjRE40ShP9xq9"
     },
     {
       "album": {
@@ -9956,7 +10018,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 212312,
       "name": "Por Accidente",
       "url": "https://open.spotify.com/track/2DLxFEl2aVe8JB6UOMf2jR"
@@ -9978,6 +10040,24 @@
       "duration_ms": 202133,
       "name": "Por Amarte As\u00ed",
       "url": "https://open.spotify.com/track/3xNs3XzmAyEdkXSItLHztU"
+    },
+    {
+      "album": {
+        "name": "Por antig\u00fcedad",
+        "url": "https://open.spotify.com/album/4oWGlvnBUJ0SDlmMC2t5tn"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149971,
+      "name": "Por antig\u00fcedad",
+      "url": "https://open.spotify.com/track/29R9iMsijuHJMhrwyS42Ho"
     },
     {
       "album": {
@@ -13429,6 +13509,24 @@
     },
     {
       "album": {
+        "name": "Ve y Dile",
+        "url": "https://open.spotify.com/album/0MDn9KCzZUksxniEf5SAYj"
+      },
+      "artists": [
+        {
+          "name": "Estilo Real",
+          "url": "https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112950,
+      "name": "Ve y Dile",
+      "url": "https://open.spotify.com/track/1euRZaOqwF8sSsiP1VMBDO"
+    },
+    {
+      "album": {
         "name": "Versos De Mi Alma",
         "url": "https://open.spotify.com/album/5gJ3p7Rk8CzYUQ7GBqOG9q"
       },
@@ -13480,10 +13578,32 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 157714,
       "name": "VERTE FELIZ",
       "url": "https://open.spotify.com/track/4s6VfPfp92MvK6GP2tmA6R"
+    },
+    {
+      "album": {
+        "name": "Vestido De Besos",
+        "url": "https://open.spotify.com/album/40MGhFat3oUcFNVMr8Zsl9"
+      },
+      "artists": [
+        {
+          "name": "Los 3 De La M",
+          "url": "https://open.spotify.com/artist/3aubh7jrz67zJEn17yJuLP"
+        },
+        {
+          "name": "Decreto Real",
+          "url": "https://open.spotify.com/artist/7AthXwx27wyMbTkzJV0oN0"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207847,
+      "name": "Vestido De Besos",
+      "url": "https://open.spotify.com/track/7Ac6mA4MmVIVwKH9a95sfj"
     },
     {
       "album": {

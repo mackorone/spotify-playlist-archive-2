@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium con Soziedad Alkoholika.
 
-496 songs - 1 day 1 hr 7 min
+497 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 | 2024-02-08 | 2024-04-19 |
 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 |  |
 | [Grano pus](https://open.spotify.com/track/6UVWLQVawmVr9Eq2vyp6tZ) | [Tomate mature](https://open.spotify.com/artist/06He1OH8vET1FciGCjJlBo) | [Grano pus](https://open.spotify.com/album/1mEJFI0oi7RNNIl5b2jUZY) | 2:33 | 2025-01-20 | 2025-02-14 |
+| [Guiri Style](https://open.spotify.com/track/2hGuIIsnQyAWc1GzEUVMmG) | [Punk Sailor](https://open.spotify.com/artist/4r9UwmrPx85eon7CA4Oj4B), [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Guiri Style](https://open.spotify.com/album/2w1urFWsbcPc7tFDGnJzTj) | 2:54 | 2026-10-29 |  |
 | [Habitamos el vertedero](https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO) | [El Destello](https://open.spotify.com/artist/5wD750GwDjY6P7zAYKKSof) | [Habitamos el vertedero](https://open.spotify.com/album/1SQkzdMFNhbRdCCIw6PMv3) | 2:05 | 2024-11-07 | 2024-12-06 |
 | [Hacienda somos todos](https://open.spotify.com/track/4TG90FYw3XmALA06STlLGb) | [Inteligente Artificial](https://open.spotify.com/artist/25Cw8B1Pap84pzY0n3JvXn) | [Hacienda somos todos](https://open.spotify.com/album/3rCYf0aZazThKezJzR52AB) | 3:32 | 2025-11-06 | 2025-12-19 |
 | [HARRERA LEKU BAT](https://open.spotify.com/track/1uApsPmvPTyzr4T4SBTHON) | [Brigade Loco](https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd), [Zea Mays](https://open.spotify.com/artist/00NQwUnyEhXRMG7i0N5UIv) | [HARRERA LEKU BAT](https://open.spotify.com/album/0jxfXOaoffTj6hng0Uljip) | 2:59 | 2025-07-17 | 2026-03-27 |
@@ -480,7 +481,7 @@
 | [Venganza](https://open.spotify.com/track/7CjVqHc2nvksJ5h2k1Kd33) | [Velocidad Absurda](https://open.spotify.com/artist/1tQApq8Z7Maz9Gls5VSqtD) | [Venganza](https://open.spotify.com/album/5KXHPURnpmmbHoTbfGYSP8) | 2:32 | 2025-05-15 | 2025-07-03 |
 | [Vestiglo](https://open.spotify.com/track/0fbuBJHt8REl3gqI8bbsRB) | [Desastre Sozial](https://open.spotify.com/artist/1Ippr3uOdh1syEi5tiJsRK) | [Vestiglo](https://open.spotify.com/album/3Wq36wotVY9MNe1Q3PUBXe) | 2:57 | 2025-01-30 | 2025-03-14 |
 | [Viajemos](https://open.spotify.com/track/5znyKIKjrJBGcZfF5TkOjH) | [Generador](https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm) | [Queremos Diversión](https://open.spotify.com/album/4qW1DKOqCqElwTBfZNuYQN) | 2:33 | 2024-10-03 | 2024-11-08 |
-| [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 | 2024-06-20 |  |
+| [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 | 2024-06-20 | 2026-10-31 |
 | [Vivir la Vida](https://open.spotify.com/track/4CeVTya5DmyswFPaiukYJ7) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Vivir la Vida](https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF) | 2:52 | 2026-04-09 | 2026-07-31 |
 | [Vomitar](https://open.spotify.com/track/46zbYY4L48207KQCoIffPj) | [Tres Pollos](https://open.spotify.com/artist/1S5Lext1vYpgwvhrnJVncu) | [Vomitar](https://open.spotify.com/album/7MruW4G3XRTTa1MDbFFksC) | 2:25 | 2025-01-30 | 2025-02-28 |
 | [Vpo](https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD) | [Bellotaris Fallecidos](https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl) | [Y el Que Sea Feo Que Haga los Recaos de Noche](https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne) | 1:36 | 2024-07-19 | 2024-12-06 |

@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista.
 
-399 songs - 1 day 1 hr 53 min
+400 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Metacognitive Failure](https://open.spotify.com/track/2nISMvfFtjVBLKOAPT9otM) | [\(Psychoparalysis\)](https://open.spotify.com/artist/559Svw2FZqV0JQncUwvHLx) | [Metacognitive Failure](https://open.spotify.com/album/2KhaXIlcFdJ1WUUvjlUXor) | 5:29 | 2026-09-24 |  |
 | [Michael, the Knight](https://open.spotify.com/track/4pZNDJqmNB68cFlTE3VCrz) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Michael, the Knight](https://open.spotify.com/album/54RkiHxYAKpisnJnAtBr25) | 3:30 | 2024-09-11 | 2024-10-25 |
 | [Middle of a Breakdown](https://open.spotify.com/track/7pWUbvNkMapD0ZIeIvX0SA) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Middle of a Breakdown](https://open.spotify.com/album/520bhURjFQSJbwwXVtNpcs) | 3:14 | 2025-01-23 | 2025-03-07 |
+| [Minun kaupunkini \- Live](https://open.spotify.com/track/0F68ctqfmpMOHoeYllWmtj) | [Zen Cafe](https://open.spotify.com/artist/13l03qv7mpBV432l5t8fpq) | [Minun kaupunkini \(Live\)](https://open.spotify.com/album/1bOKD3phfZAKkUE25GcWVu) | 4:04 | 2026-10-29 |  |
 | [Minus Celsius](https://open.spotify.com/track/5CTc5YCNKT5FGe9dWvJZFd) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Stockholm Syndrome](https://open.spotify.com/album/3uMfXWCv23mz4DB5wTcvw1) | 3:34 | 2024-09-11 | 2025-09-27 |
 | [Mitä ihminen katuu](https://open.spotify.com/track/3YvtNf7AZIFH0ghnFrct0I) | [Sara](https://open.spotify.com/artist/2vWRgNboMcV1z1g7TrFsQr) | [Mitä ihminen katuu](https://open.spotify.com/album/1daqKzXj8nJtNPltrbPTOd) | 3:52 | 2026-10-29 |  |
 | [Mitä jää](https://open.spotify.com/track/3J4YG4PfgimicYyeJHzq2G) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [Surullinen tapaus – sellaista on vapaus](https://open.spotify.com/album/55JvF5GgYdLTN7RwyfmcIB) | 2:51 | 2024-11-08 | 2024-11-29 |

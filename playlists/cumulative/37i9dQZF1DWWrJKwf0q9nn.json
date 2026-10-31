@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 156461,
       "name": "Alors On Danse (Estan Locas) [with Daddy Yankee]",
       "url": "https://open.spotify.com/track/1A01zOjZzMLbUIMeZZXNqO"
@@ -10296,7 +10296,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 185538,
       "name": "Forever",
       "url": "https://open.spotify.com/track/67rhowGXT0Ivhje7optNDe"
@@ -12116,7 +12116,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 176223,
       "name": "Hard To be Around",
       "url": "https://open.spotify.com/track/5rjtekAXWrmLGQKCYQ3ytF"
@@ -28473,6 +28473,28 @@
     },
     {
       "album": {
+        "name": "Meisje Van Het Noorden",
+        "url": "https://open.spotify.com/album/59Htiw60K0NE276cUSguCw"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169852,
+      "name": "Spijt Komt Later",
+      "url": "https://open.spotify.com/track/4vAhRwKWmeAXaoRuoyz9GX"
+    },
+    {
+      "album": {
         "name": "Stack it 99",
         "url": "https://open.spotify.com/album/6ptuqg2fFovUshvzCsBwxz"
       },
@@ -28756,7 +28778,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 209262,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5iidtSsx7Vpz29H8UdGjaw"
@@ -31898,7 +31920,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 150735,
       "name": "Trust The Melody",
       "url": "https://open.spotify.com/track/5K3NgHPiGVm9nqmetTHdue"

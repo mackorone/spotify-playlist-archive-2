@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: Allie X
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,785 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,796 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 84 | [i kinda like how u know just how beautiful u are](https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [getting up to no good](https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf) | 2:31 |
 | 85 | [buzzin](https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [buzzin](https://open.spotify.com/album/1q5KduupT5hI0EKYA9rtyi) | 2:41 |
 
-Snapshot ID: `AAAAAHMmtt4sSBFThXti9gxMxxGykWkv`
+Snapshot ID: `AAAAAM0FFoTMInHcTP+u0ZsTjHrv5KYB`

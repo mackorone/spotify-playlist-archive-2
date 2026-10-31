@@ -4,7 +4,7 @@
 
 > Nuovi brani di Kid Yugi, Lucio Corsi, Alfa, Gracie Abrams, Francesca Michielin e tanti altri.
 
-10,957 songs - 23 day 4 hr 4 min
+10,958 songs - 23 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3254,6 +3254,7 @@
 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 | 2025-11-28 | 2025-12-05 |
 | [Favole](https://open.spotify.com/track/0ifdsKu4rE9r9HO4BnLuN5) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Favole](https://open.spotify.com/album/1AE0jGcrfFv3UVqXLQ34ik) | 3:29 | 2025-04-10 | 2025-04-18 |
 | [Favole](https://open.spotify.com/track/4KaxkCtwTHBfdrZRzrIYft) | [Primo Amore](https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo) | [Favole](https://open.spotify.com/album/7Knoi90E5t5d8vvOEpt8Gp) | 2:48 | 2025-01-23 | 2025-01-31 |
+| [Favor \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/4ZlBJ0KOEOz2WbaO3BN50C) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Favor](https://open.spotify.com/album/0BoKFQz38FyG4DyrGbALRr) | 5:35 | 2026-10-30 |  |
 | [Favour](https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Favour](https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq) | 3:14 | 2026-04-02 | 2026-04-10 |
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-20 | 2024-06-28 |
 | [FDTCK \- Red Bull Posse](https://open.spotify.com/track/4A3DlSk3JKCvuiqT5cwq8u) | [STABBER](https://open.spotify.com/artist/1eKwVaINKkLrCkOQFRVM6g), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [FDTCK \- Red Bull Posse](https://open.spotify.com/album/0izUSwLKrtdBdoZ8zQboi9) | 3:29 | 2024-07-25 | 2024-08-02 |

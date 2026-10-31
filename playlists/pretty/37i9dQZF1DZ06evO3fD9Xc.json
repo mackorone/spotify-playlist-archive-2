@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103845,
+  "num_followers": 103846,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAADL/3U7Y2ZRoySdrI9XJ0wR",
+  "snapshot_id": "auE7AAAAAACS13+hDgADKN9j4qsc5y1f",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Lo S\u00e9 Todo",
+        "url": "https://open.spotify.com/album/3ELow8rGPkFS4AyJj7sffv"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor De Arturo Rodriguez",
+          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "Ya Lo S\u00e9 Todo",
+      "url": "https://open.spotify.com/track/1ErEKhh7Tro9hteuTewTLA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Quieres (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 160000,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/1qpEUr8HPiTfaJTNon7deM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Lo S\u00e9 Todo",
-        "url": "https://open.spotify.com/album/3ELow8rGPkFS4AyJj7sffv"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor De Arturo Rodriguez",
-          "url": "https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "Ya Lo S\u00e9 Todo",
-      "url": "https://open.spotify.com/track/1ErEKhh7Tro9hteuTewTLA"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intermedio (En Vivo)",
         "url": "https://open.spotify.com/album/2CwfmIR8GCaAlkXNpbMG8g"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 248204,
       "name": "Me dediqu\u00e9 a perderte - En Vivo",
       "url": "https://open.spotify.com/track/1XGSBhZPKeoiHDCuWhYDdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     }
   ],
   "unique_name": "This Is Carolina Ross",

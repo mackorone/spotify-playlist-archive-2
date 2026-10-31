@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 268178,
       "name": "Anh \u0110\u00e3 Quen V\u1edbi C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/39KWnPNEvbXt423CzjvBfA"
@@ -4216,7 +4216,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -8206,7 +8206,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 284288,
       "name": "D\u1ea1o N\u00e0y",
       "url": "https://open.spotify.com/track/6vq9mSv7KaZj193QEAAkAt"
@@ -18744,7 +18744,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 219500,
       "name": "Ng\u01b0\u1eddi D\u01b0ng",
       "url": "https://open.spotify.com/track/2SQbLJNXEiCG4AnVvvRDgI"
@@ -19294,6 +19294,28 @@
       "duration_ms": 230571,
       "name": "Nh\u01b0 C\u00e1ch Anh \u0110\u00e3 T\u1eebng Th\u00f4i",
       "url": "https://open.spotify.com/track/41BMz3IQeR78smfT5aifuW"
+    },
+    {
+      "album": {
+        "name": "Nh\u01b0 M\u1ed9t Ng\u01b0\u1eddi R\u01b0ng",
+        "url": "https://open.spotify.com/album/0eZwcNtXmJJ9fthH4TTx6N"
+      },
+      "artists": [
+        {
+          "name": "Osad",
+          "url": "https://open.spotify.com/artist/6sJBvMCAi9NuNCxI9RDYDW"
+        },
+        {
+          "name": "H\u00e0 An Huy",
+          "url": "https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Nh\u01b0 M\u1ed9t Ng\u01b0\u1eddi R\u01b0ng",
+      "url": "https://open.spotify.com/track/3vazRRgWcQXqWVmD0PJejS"
     },
     {
       "album": {
@@ -20482,7 +20504,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 260488,
       "name": "N\u1ebfu Nh\u1eefng Ti\u1ebfc Nu\u1ed1i",
       "url": "https://open.spotify.com/track/2dPJtlvoa3GDowCh035M8P"
@@ -23656,7 +23678,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 293000,
       "name": "She Neva Knows",
       "url": "https://open.spotify.com/track/0NyrI1tMvqcK3vU5z9DMdI"
@@ -27274,7 +27296,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 271503,
       "name": "Trong \u0110\u00f4i M\u1eaft Thi\u1ebfu N\u1eef",
       "url": "https://open.spotify.com/track/251z7MoHRghXdptalUMcL1"
@@ -27906,7 +27928,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -27942,7 +27964,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -28620,7 +28642,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 174545,
       "name": "T\u1eebng Quen",
       "url": "https://open.spotify.com/track/4qYfRfSxsmhJ1WMaywtLyI"
@@ -29126,7 +29148,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -29368,7 +29390,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 210067,
       "name": "V\u1ebft M\u01b0a",
       "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"
@@ -31748,7 +31770,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 275077,
       "name": "\u0110\u00f4 Tr\u01b0\u1edfng (Remake)",
       "url": "https://open.spotify.com/track/78V670OSHmeb1fF4CJBR4P"

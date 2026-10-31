@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 224912,
+  "num_followers": 224904,
   "original_name": "Hip-Hop and Play",
   "owner": {
     "name": "PlayStation\u00ae\ufe0f",
     "url": "https://open.spotify.com/user/playstation_music"
   },
-  "snapshot_id": "AAALm8i8c9Ou/eLgsMauYNro4yrFzFBb",
+  "snapshot_id": "AAALoODizN0mfrTC++E6WgLRxs0FoxWR",
   "tracks": [
     {
       "added_at": "2026-10-23 20:02:28",
@@ -129,24 +129,24 @@
       "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
     },
     {
-      "added_at": "2026-10-23 20:02:28",
+      "added_at": "2026-10-30 20:24:20",
       "album": {
-        "name": "COCOON",
-        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+        "name": "Just Doin Me",
+        "url": "https://open.spotify.com/album/7rrFGnr2bhrNu2Ns4Imhsf"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 188503,
-      "name": "MISS MY DAWG (feat. Drake)",
-      "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
+      "duration_ms": 224173,
+      "name": "Spinnin (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6u82jr3MnmUbG1th452h4u"
     },
     {
       "added_at": "2026-10-23 20:02:28",
@@ -167,6 +167,42 @@
       "duration_ms": 180000,
       "name": "RHYNO (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+    },
+    {
+      "added_at": "2026-10-30 20:27:04",
+      "album": {
+        "name": "Dirty Dan",
+        "url": "https://open.spotify.com/album/7ChXfVDvpK6QIJaSSDrlTz"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 135878,
+      "name": "Dirty Dan",
+      "url": "https://open.spotify.com/track/6aHrHgjnK3amArpfPyGFTV"
+    },
+    {
+      "added_at": "2026-10-23 20:02:28",
+      "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 188503,
+      "name": "MISS MY DAWG (feat. Drake)",
+      "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
     },
     {
       "added_at": "2026-10-23 20:02:28",

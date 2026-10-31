@@ -1,12 +1,12 @@
 {
   "description": "All this week's best new pop releases. Cover: Chloe Qisha",
-  "num_followers": 350823,
+  "num_followers": 351459,
   "original_name": "All New Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAhfmyDTL3tzEwgR6YFyg5Sv7y0c",
+  "snapshot_id": "AAAAACpaz8ZmOcwTWmuJotcB3TYuSzaM",
   "tracks": [
     {
       "added_at": "2026-10-30 04:01:55",
@@ -511,7 +511,7 @@
     {
       "added_at": "2026-10-30 04:01:55",
       "album": {
-        "name": "What A Life",
+        "name": "WHAT A LIFE",
         "url": "https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX"
       },
       "artists": [
@@ -521,8 +521,24 @@
         }
       ],
       "duration_ms": 157310,
-      "name": "What A Life",
+      "name": "WHAT A LIFE",
       "url": "https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq"
+    },
+    {
+      "added_at": "2026-10-30 16:52:20",
+      "album": {
+        "name": "GF",
+        "url": "https://open.spotify.com/album/2xERYqyH3lXMEQhDWzEUBu"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "duration_ms": 196092,
+      "name": "GF",
+      "url": "https://open.spotify.com/track/0dtFevDp9cX3tI3cttbHCQ"
     },
     {
       "added_at": "2026-10-30 04:01:55",
@@ -2851,22 +2867,6 @@
       "duration_ms": 228521,
       "name": "Small Town Girls",
       "url": "https://open.spotify.com/track/4EvIeYaNzKCIGLGic8lEB3"
-    },
-    {
-      "added_at": "2026-10-02 04:02:36",
-      "album": {
-        "name": "Fuck Without Feelings",
-        "url": "https://open.spotify.com/album/2krjzTsK934ywr7s3d693H"
-      },
-      "artists": [
-        {
-          "name": "IDER",
-          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "Fuck Without Feelings",
-      "url": "https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks"
     },
     {
       "added_at": "2026-09-25 04:03:25",

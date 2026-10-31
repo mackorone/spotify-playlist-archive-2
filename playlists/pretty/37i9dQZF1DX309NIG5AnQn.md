@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo y sudamericano\. <br/>📷 Lagrimitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,135 likes - 109 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,137 likes - 109 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640 likes - 317 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641 likes - 317 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 290 | [Boys Can Swim](https://open.spotify.com/track/2ZVDx3XedIhBvefzvyU2e6) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Love Center](https://open.spotify.com/album/2y5JTyJ84CYPR2EbFuKDCv) | 2:21 |
 | 291 | [Human Zoo](https://open.spotify.com/track/46mTDJmmYPScprkHsQVSCt) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 3:23 |
 | 292 | [Slow Motion](https://open.spotify.com/track/6gaTvbfNVdunxa0cHSAjgm) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 3:52 |
-| 293 | [She's Dangerous \(Bang Bang\) \- Main](https://open.spotify.com/track/0GopF0UibSo045RiM9odyg) | [Hal Linton](https://open.spotify.com/artist/6leDkBro4K4uvQv4wixCUp) | [She's Dangerous \(Bang Bang\)](https://open.spotify.com/album/7JXfZcIhS7ugzkexxnoSJF) | 3:44 |
-| 294 | [Gimme Little](https://open.spotify.com/track/0ADZzpt70BEp4PlqrEwZ27) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:56 |
+| 293 | [Gimme Little](https://open.spotify.com/track/0ADZzpt70BEp4PlqrEwZ27) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:56 |
+| 294 | [She's Dangerous \(Bang Bang\) \- Main](https://open.spotify.com/track/0GopF0UibSo045RiM9odyg) | [Hal Linton](https://open.spotify.com/artist/6leDkBro4K4uvQv4wixCUp) | [She's Dangerous \(Bang Bang\)](https://open.spotify.com/album/7JXfZcIhS7ugzkexxnoSJF) | 3:44 |
 | 295 | [It's Not Easy](https://open.spotify.com/track/7B6k7t7gcZaSv050n4GgQl) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:53 |
 | 296 | [I'm Tore Up](https://open.spotify.com/track/6pKG7iidL9514kgLJPrl06) | [Dolla](https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI) | [I'm Tore Up \(Main Version\)](https://open.spotify.com/album/30774AGnVi6PMNcyIeuwNx) | 3:26 |
 | 297 | [Where Will I Remember You](https://open.spotify.com/track/4F4gY99KTW9ACNH5mNwMzn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:16 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 316 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 317 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcgRmAAAAAAbAN6EXFs8SlfbMhyE5HR3`
+Snapshot ID: `AcgXOAAAAAAQJRi966EJ6iuk/W17+DPL`

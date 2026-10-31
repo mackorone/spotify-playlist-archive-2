@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > pinegrove autumn 🍂 sadurn on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,423 likes - 159 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,441 likes - 159 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

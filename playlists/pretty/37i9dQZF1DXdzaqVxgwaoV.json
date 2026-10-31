@@ -1,6 +1,6 @@
 {
   "description": "En modo: simulacro navide\u00f1o \ud83c\udf84 \ud83c\udf85\ud83c\udffc",
-  "num_followers": 144010,
+  "num_followers": 144007,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
-        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Imperial",
-          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
-        }
-      ],
-      "duration_ms": 479480,
-      "name": "Mosaico de Merengues - Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamor\u00f3 de Manuel / El P\u00e1jaro Amarillo / El Gavil\u00e1n",
-      "url": "https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
         "name": "Al Que Le Gusta...Le Sabe",
         "url": "https://open.spotify.com/album/6rl4jrERozHBK1svCyNUyJ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 245560,
       "name": "Las Dos Camisas",
       "url": "https://open.spotify.com/track/5WBONPqKLcu4Mhd6qNyJ6M"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
+        "name": "Para Bailar y Bailar con El Cuarteto Imperial",
+        "url": "https://open.spotify.com/album/6Fc5kI4aGrWAEH067iJQmd"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Imperial",
+          "url": "https://open.spotify.com/artist/4oBHTIwTL6w4QsqBDK0F87"
+        }
+      ],
+      "duration_ms": 479480,
+      "name": "Mosaico de Merengues - Rio Manzanares / La Lora / Hace un Mes / La Cinta Verde / El Perico / Se Enamor\u00f3 de Manuel / El P\u00e1jaro Amarillo / El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/71boEve6Xf0iiORrgVkwiP"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Que Bueno Baila Celina",
-        "url": "https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m"
+        "name": "Navidad Colombiana - Para Cantar Y Bailar La Novena De Aguinaldos",
+        "url": "https://open.spotify.com/album/3P5Kp1FhrmAUaPRJ5QDU7O"
       },
       "artists": [
         {
-          "name": "Celina Y Reutilio",
-          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
+          "name": "La S\u00faper Banda",
+          "url": "https://open.spotify.com/artist/1MAXIsPNjPxCxZS6fdOSMJ"
         }
       ],
-      "duration_ms": 184786,
-      "name": "La Casa De Yagua",
-      "url": "https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc"
+      "duration_ms": 240720,
+      "name": "Parranda De Navidad",
+      "url": "https://open.spotify.com/track/1BXjTw8PFbnINTje3RaYOn"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Navidad Colombiana - Para Cantar Y Bailar La Novena De Aguinaldos",
-        "url": "https://open.spotify.com/album/3P5Kp1FhrmAUaPRJ5QDU7O"
+        "name": "Que Bueno Baila Celina",
+        "url": "https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m"
       },
       "artists": [
         {
-          "name": "La S\u00faper Banda",
-          "url": "https://open.spotify.com/artist/1MAXIsPNjPxCxZS6fdOSMJ"
+          "name": "Celina Y Reutilio",
+          "url": "https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD"
         }
       ],
-      "duration_ms": 240720,
-      "name": "Parranda De Navidad",
-      "url": "https://open.spotify.com/track/1BXjTw8PFbnINTje3RaYOn"
+      "duration_ms": 184786,
+      "name": "La Casa De Yagua",
+      "url": "https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
         }
       ],
-      "duration_ms": 206453,
-      "name": "Festival Vallenato",
-      "url": "https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4"
+      "duration_ms": 182333,
+      "name": "Muchacha de 15",
+      "url": "https://open.spotify.com/track/3kHLuCDIx0OV1pawSLgarA"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
         }
       ],
-      "duration_ms": 182333,
-      "name": "Muchacha de 15",
-      "url": "https://open.spotify.com/track/3kHLuCDIx0OV1pawSLgarA"
+      "duration_ms": 206453,
+      "name": "Festival Vallenato",
+      "url": "https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
+        "url": "https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL"
+      },
+      "artists": [
+        {
+          "name": "Checo Acosta",
+          "url": "https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q"
+        }
+      ],
+      "duration_ms": 231758,
+      "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
+      "url": "https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Nuestras 30 Mejores Caciones",
         "url": "https://open.spotify.com/album/5D09nX6nUUjYInX3U2VfjY"
       },
@@ -1123,18 +1139,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
-        "url": "https://open.spotify.com/album/3xAxuGpPMomZyGbghtbuyL"
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
       "artists": [
         {
-          "name": "Checo Acosta",
-          "url": "https://open.spotify.com/artist/3idErFl9hCXFLxlXKhim3Q"
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
         }
       ],
-      "duration_ms": 231758,
-      "name": "CHENAVIDE\u00d1O: Brisas de Diciembre / La Inmaculada / Como Se Acaban Las Velas",
-      "url": "https://open.spotify.com/track/2miys5Vv0WHRj2fehIhpsF"
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1223,22 +1243,18 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "Rescatando los \u00c9xitos Originales de Long Play",
-        "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
+        "name": "\u00c9xitos los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 207566,
-      "name": "Plegaria",
-      "url": "https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE"
+      "duration_ms": 266949,
+      "name": "El Santo Cach\u00f3n",
+      "url": "https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1283,18 +1299,22 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
-        "name": "\u00c9xitos los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
+        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "La Nueva Generaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
         }
       ],
-      "duration_ms": 266949,
-      "name": "El Santo Cach\u00f3n",
-      "url": "https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX"
+      "duration_ms": 259015,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
     },
     {
       "added_at": "2026-10-24 04:59:12",
@@ -1319,6 +1339,26 @@
     {
       "added_at": "2026-10-24 04:59:12",
       "album": {
+        "name": "\u00c9xitos los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        },
+        {
+          "name": "Robinson Dami\u00e1n",
+          "url": "https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat"
+        }
+      ],
+      "duration_ms": 258217,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn"
+    },
+    {
+      "added_at": "2026-10-24 04:59:12",
+      "album": {
         "name": "Rep\u00edtela",
         "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
       },
@@ -1331,46 +1371,6 @@
       "duration_ms": 209075,
       "name": "Rep\u00edtela",
       "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "Luis Mateus y la Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "La Nueva Generaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo"
-    },
-    {
-      "added_at": "2026-10-24 04:59:12",
-      "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 288194,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/5BX4ez5Wz62RdJANkifj3k"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

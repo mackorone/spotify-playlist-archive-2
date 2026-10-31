@@ -1,64 +1,32 @@
 {
-  "description": "Xavi poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
-  "num_followers": 3120212,
+  "description": "LOS DOS DE TAMAULIPAS & Grupo Frontera poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras.",
+  "num_followers": 3119535,
   "original_name": "Los Que Mandan - M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+GZXlGVpoFZSOOzIdnqBK+xWkL",
+  "snapshot_id": "AAAAAFLkO+Bf+xVa6KbQWY43pmM3OnXy",
   "tracks": [
     {
-      "added_at": "2026-10-23 20:11:41",
+      "added_at": "2026-10-30 06:49:22",
       "album": {
-        "name": "Nadie Te Extra\u00f1a",
-        "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 151607,
-      "name": "Nadie Te Extra\u00f1a",
-      "url": "https://open.spotify.com/track/1hoJ9H798o6HaJ9pDTov5r"
-    },
-    {
-      "added_at": "2026-10-23 20:11:41",
-      "album": {
-        "name": "No Fue Suerte",
-        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
+        "name": "Piquito",
+        "url": "https://open.spotify.com/album/0OyJ4nlrzyWbT4EVlNbMXH"
       },
       "artists": [
         {
           "name": "LOS DOS DE TAMAULIPAS",
           "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 156646,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/0kSfVpAjQDL7wNQCdejOB5"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "WA SA BI",
-        "url": "https://open.spotify.com/album/1iKMgTVCqAqQBJiKATiwrL"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 195453,
-      "name": "WA SA BI",
-      "url": "https://open.spotify.com/track/2wTFTwX7CeKVwRDHD4GoOR"
+      "duration_ms": 189396,
+      "name": "Piquito",
+      "url": "https://open.spotify.com/track/4orfYexzxUFp4XPfjjWeUC"
     },
     {
       "added_at": "2026-10-23 20:11:41",
@@ -99,22 +67,6 @@
     {
       "added_at": "2026-10-16 04:01:15",
       "album": {
-        "name": "LINAJE",
-        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 336026,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
       },
@@ -131,38 +83,34 @@
     {
       "added_at": "2026-10-16 04:01:15",
       "album": {
-        "name": "PJM",
-        "url": "https://open.spotify.com/album/0qKaJwbXwmZ9AmxnGsQCYK"
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
       },
       "artists": [
         {
-          "name": "El Randal",
-          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 131628,
-      "name": "PJM",
-      "url": "https://open.spotify.com/track/0YopquwKvnkylezOWZmHat"
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
-      "added_at": "2026-10-16 04:01:15",
+      "added_at": "2026-10-23 20:11:41",
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 127029,
-      "name": "Rey Le\u00f3n",
-      "url": "https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev"
+      "duration_ms": 156646,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/0kSfVpAjQDL7wNQCdejOB5"
     },
     {
       "added_at": "2026-10-16 04:01:15",
@@ -189,92 +137,24 @@
       "url": "https://open.spotify.com/track/3OZFtuFUdr3x8klpQ0BOJJ"
     },
     {
-      "added_at": "2026-10-16 04:01:15",
+      "added_at": "2026-10-30 06:49:22",
       "album": {
-        "name": "No Fue Suerte",
-        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 143577,
-      "name": "5.0",
-      "url": "https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "La Formula",
-        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
+        "name": "La Formula (Deluxe Album)",
+        "url": "https://open.spotify.com/album/5ZL09JRhK4OQBVCf9Sr6fi"
       },
       "artists": [
         {
           "name": "El Rabbanito",
           "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "La Formula",
-      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "The Gemeliza",
-        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 156471,
-      "name": "Soy Un Joven",
-      "url": "https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "NUMBER ONE",
-        "url": "https://open.spotify.com/album/4iK80CPuM4qXIMaoNASIhd"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        }
-      ],
-      "duration_ms": 161900,
-      "name": "NUMBER ONE",
-      "url": "https://open.spotify.com/track/5ycPjGNxz5iuIKcXfBcEGs"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "Beretta (De Los Cerros La Escuela) [Remix]",
-        "url": "https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI"
-      },
-      "artists": [
-        {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 141177,
-      "name": "Beretta (De Los Cerros La Escuela) - Remix",
-      "url": "https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL"
+      "duration_ms": 154899,
+      "name": "Frenchie",
+      "url": "https://open.spotify.com/track/5iO3suCSAD2tQA20uQWuOY"
     },
     {
       "added_at": "2026-10-16 04:01:15",
@@ -299,8 +179,120 @@
     {
       "added_at": "2026-10-16 04:01:15",
       "album": {
-        "name": "Ay\u00fadame",
-        "url": "https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu"
+        "name": "WA SA BI",
+        "url": "https://open.spotify.com/album/1iKMgTVCqAqQBJiKATiwrL"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "WA SA BI",
+      "url": "https://open.spotify.com/track/2wTFTwX7CeKVwRDHD4GoOR"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "The Gemeliza",
+        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156471,
+      "name": "Soy Un Joven",
+      "url": "https://open.spotify.com/track/2FlYT9gGYsfeRp3x6R1sdn"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "El Beneficio De La Duda",
+      "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/0opXTeDZShv3Si2I2XWJsi"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 127029,
+      "name": "Rey Le\u00f3n",
+      "url": "https://open.spotify.com/track/5ikzjvLe1zsAJkgimIz1ev"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "PJM",
+        "url": "https://open.spotify.com/album/0qKaJwbXwmZ9AmxnGsQCYK"
+      },
+      "artists": [
+        {
+          "name": "El Randal",
+          "url": "https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "duration_ms": 131628,
+      "name": "PJM",
+      "url": "https://open.spotify.com/track/0YopquwKvnkylezOWZmHat"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Cabez\u00f3n",
+        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        },
+        {
+          "name": "Clemente y su Elexion Privada",
+          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
+        }
+      ],
+      "duration_ms": 176504,
+      "name": "Cabez\u00f3n",
+      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "No Fue Suerte",
+        "url": "https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV"
       },
       "artists": [
         {
@@ -308,9 +300,9 @@
           "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 161348,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W"
+      "duration_ms": 143577,
+      "name": "5.0",
+      "url": "https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi"
     },
     {
       "added_at": "2026-10-16 04:01:15",
@@ -355,18 +347,186 @@
     {
       "added_at": "2026-10-16 04:01:15",
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 245500,
-      "name": "El Beneficio De La Duda",
-      "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
+      "duration_ms": 166801,
+      "name": "M&M",
+      "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
+    },
+    {
+      "added_at": "2026-10-23 20:11:41",
+      "album": {
+        "name": "Nadie Te Extra\u00f1a",
+        "url": "https://open.spotify.com/album/1cyosajQlz2hBQv3hFajV8"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 151607,
+      "name": "Nadie Te Extra\u00f1a",
+      "url": "https://open.spotify.com/track/1hoJ9H798o6HaJ9pDTov5r"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "NUMBER ONE",
+        "url": "https://open.spotify.com/album/4iK80CPuM4qXIMaoNASIhd"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "duration_ms": 161900,
+      "name": "NUMBER ONE",
+      "url": "https://open.spotify.com/track/5ycPjGNxz5iuIKcXfBcEGs"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Condenados",
+        "url": "https://open.spotify.com/album/2LGBuLWnKMgUB6WPVZmEgr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 167146,
+      "name": "Condenados",
+      "url": "https://open.spotify.com/track/4NfWpoovz1tPDLM1ehoFkz"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "STAR (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 177942,
+      "name": "\u00daLTIMAMENTE",
+      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "La Formula",
+      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
+    },
+    {
+      "added_at": "2026-10-30 06:49:22",
+      "album": {
+        "name": "Yo y La Luna",
+        "url": "https://open.spotify.com/album/3qXzZAgoFihs94yboDzhn9"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 187829,
+      "name": "Yo y La Luna",
+      "url": "https://open.spotify.com/track/4FiYVoZVwofrD5sAPm19kl"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Beretta (De Los Cerros La Escuela) [Remix]",
+        "url": "https://open.spotify.com/album/75lZ4NLo7qi9U3z2hEEXaI"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 141177,
+      "name": "Beretta (De Los Cerros La Escuela) - Remix",
+      "url": "https://open.spotify.com/track/3q2T7y63m6TAFKvIuJUfbL"
+    },
+    {
+      "added_at": "2026-10-16 04:01:15",
+      "album": {
+        "name": "Ay\u00fadame",
+        "url": "https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 161348,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W"
     },
     {
       "added_at": "2026-10-23 20:11:41",
@@ -387,42 +547,6 @@
       "duration_ms": 200607,
       "name": "7 Pecados",
       "url": "https://open.spotify.com/track/2gQLsrjC79nh1ungYRz8AA"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "Cabez\u00f3n",
-        "url": "https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB"
-      },
-      "artists": [
-        {
-          "name": "Christian Ortega",
-          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
-        },
-        {
-          "name": "Clemente y su Elexion Privada",
-          "url": "https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7"
-        }
-      ],
-      "duration_ms": 176504,
-      "name": "Cabez\u00f3n",
-      "url": "https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "M&M",
-      "url": "https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4"
     },
     {
       "added_at": "2026-10-16 04:01:15",
@@ -463,58 +587,6 @@
     {
       "added_at": "2026-10-16 04:01:15",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 194180,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "Condenados",
-        "url": "https://open.spotify.com/album/2LGBuLWnKMgUB6WPVZmEgr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 167146,
-      "name": "Condenados",
-      "url": "https://open.spotify.com/track/4NfWpoovz1tPDLM1ehoFkz"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
         "name": "MudaH",
         "url": "https://open.spotify.com/album/7KpY255V8Z2lC5du1920wJ"
       },
@@ -551,22 +623,6 @@
       "duration_ms": 221663,
       "name": "DEMENCIA",
       "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
-    },
-    {
-      "added_at": "2026-10-16 04:01:15",
-      "album": {
-        "name": "STAR (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3ulpgz1vE0A0Mw8wrUbdnn"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 177942,
-      "name": "\u00daLTIMAMENTE",
-      "url": "https://open.spotify.com/track/5MULsNlAMhxUPvDFznwZfo"
     },
     {
       "added_at": "2026-10-16 04:01:15",

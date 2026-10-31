@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "New Romantic Sailors",
+        "url": "https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF"
+      },
+      "artists": [
+        {
+          "name": "Guilty Kiss",
+          "url": "https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270320,
+      "name": "Love Pulsar",
+      "url": "https://open.spotify.com/track/1RC5cSSGRNyYMFCuvCEEt5"
+    },
+    {
+      "album": {
         "name": "smile smile ship Start!",
         "url": "https://open.spotify.com/album/0oOZ8lcPPmAPo4iaPAnQOe"
       },
@@ -521,18 +539,18 @@
     },
     {
       "album": {
-        "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \u301cOne More Sunshine Story\u301c",
+        "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album \uff5eOne More Sunshine Story\uff5e",
         "url": "https://open.spotify.com/album/634zNexQcxLqmJ9e884bdp"
       },
       "artists": [
         {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39) from Aqours",
-          "url": "https://open.spotify.com/artist/1nooN5DIt9Zps8shc8Sbno"
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
         }
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 234746,
       "name": "Never giving up!",
       "url": "https://open.spotify.com/track/3wowUlcFYoM9CvSG0U7U92"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 282866,
       "name": "New Romantic Sailors",
       "url": "https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 343413,
       "name": "WATER BLUE NEW WORLD",
       "url": "https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 250266,
       "name": "\u672a\u6765\u306e\u50d5\u3089\u306f\u77e5\u3063\u3066\u308b\u3088",
       "url": "https://open.spotify.com/track/4Kr4DGSLD2SRmjxNjfm3uS"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 302506,
       "name": "\u7a7a\u3082\u5fc3\u3082\u6674\u308c\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/6XXu1HySrCSd25li37RADe"

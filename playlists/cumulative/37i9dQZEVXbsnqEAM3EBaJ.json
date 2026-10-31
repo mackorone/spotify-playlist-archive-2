@@ -908,7 +908,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 113417,
       "name": "20 trajes de l\u00e1grimas II",
       "url": "https://open.spotify.com/track/5gMISnwITS37NO6O7wbyVJ"
@@ -42581,6 +42581,24 @@
     },
     {
       "album": {
+        "name": "La vanguardia es as\u00ed",
+        "url": "https://open.spotify.com/album/5muUpZkDLQTu5dWdOGFsyK"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212302,
+      "name": "Los dinosaurios",
+      "url": "https://open.spotify.com/track/4QkfesUSZqpsnjXOL6SZN7"
+    },
+    {
+      "album": {
         "name": "Los Hermanos",
         "url": "https://open.spotify.com/album/2SMv8PtmP4VqErZPAozrdQ"
       },
@@ -71371,6 +71389,24 @@
     },
     {
       "album": {
+        "name": "The Iron Rose",
+        "url": "https://open.spotify.com/album/5br0WYHB0AJdj9BRWgRaaI"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319960,
+      "name": "The Iron Rose",
+      "url": "https://open.spotify.com/track/4EL8aZH11TwZf6VVU6gSd3"
+    },
+    {
+      "album": {
         "name": "Lucro Sucio; Unfinished Business",
         "url": "https://open.spotify.com/album/0ELF3EMBRnfpjJ5e05gbEW"
       },
@@ -71382,7 +71418,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 319960,
       "name": "The Iron Rose",
       "url": "https://open.spotify.com/track/7peXThN0l40wzq34WBx2Yu"
@@ -71994,6 +72030,32 @@
       "duration_ms": 211773,
       "name": "The New State",
       "url": "https://open.spotify.com/track/4xHyYR3GLcFzRnnl6vsT4S"
+    },
+    {
+      "album": {
+        "name": "Nocturnes of a Bygone Age",
+        "url": "https://open.spotify.com/album/4Jf58mXe4FiJwxRzJpvLJO"
+      },
+      "artists": [
+        {
+          "name": "COB",
+          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "The Nobleman\u2019s Evening Waltz",
+      "url": "https://open.spotify.com/track/6PVu6FFtdH0gLHhtOFl3po"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chill r&b\. Cover: Gabriel Jacoby
+> Chill r&b\. Cover: Vedo
 
-1,857 songs - 4 day 5 hr 51 min
+1,859 songs - 4 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [IT'S YOURS](https://open.spotify.com/track/10wts7gW6XFI4k1BrDKsAc) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 1:30 | 2022-12-16 | 2023-05-20 |
 | [It’s Not Me, It’s You \(feat\. Destin Conrad\)](https://open.spotify.com/track/2N6s3852GdbqhV29or63En) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:45 | 2023-07-14 | 2023-11-18 |
 | [IYD](https://open.spotify.com/track/4y6dllKXayYv9qGKWHkSyg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-03 | 2023-10-28 |
+| [J.L.U](https://open.spotify.com/track/7MqUydriLlNMzPPMS6bb4h) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS), [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Room Service](https://open.spotify.com/album/1NMqwbfgyjdZ9e1X4pvzVh) | 2:43 | 2026-10-30 |  |
 | [JAI'S SONG \(FALLING\) \- PT\. 2](https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [JAI'S SONG \(FALLING\) \[PT\. 2\]](https://open.spotify.com/album/5E9g2J6iUYTtTrOlp8HWCw) | 3:10 | 2025-01-17 | 2025-08-09 |
 | [Jealousy](https://open.spotify.com/track/1y5n54EBmBwDyjnOk9bzzB) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Jealousy](https://open.spotify.com/album/69vJR99yBLY3ETEi4yl0Mk) | 3:11 | 2024-09-20 | 2025-04-26 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-18 | 2023-11-18 |
@@ -1297,6 +1298,7 @@
 | [Question](https://open.spotify.com/track/5tkygnHoO2NhFkYPoNd1LL) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [Question](https://open.spotify.com/album/3zoXmuTK3jJTXVe0EdIwQm) | 3:21 | 2023-09-29 | 2024-03-02 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 | 2024-06-08 |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 | 2024-02-10 |
+| [r u?](https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [this wolf may cry](https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv) | 2:46 | 2026-10-30 |  |
 | [Racing Home](https://open.spotify.com/track/0iUtGIaO5gGI10zPD5qkh4) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Racing Home](https://open.spotify.com/album/3hQBmJ9haqOVdp0xt7xCHi) | 2:23 | 2022-10-28 | 2023-08-26 |
 | [radio silence](https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [radio silence](https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs) | 2:11 | 2023-05-19 | 2023-09-23 |
 | [RAIN](https://open.spotify.com/track/3Hmf6mXacl4M8Z939wMH9Y) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [RAIN](https://open.spotify.com/album/1XgYT2GT7VDQIIbyevEJ4T) | 2:46 | 2026-09-11 | 2026-10-10 |

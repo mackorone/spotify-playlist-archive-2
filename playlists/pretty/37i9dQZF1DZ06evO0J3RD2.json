@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10785,
+  "num_followers": 10799,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAAB8IKfXSlp2Dm+y9hBs6zNM",
+  "snapshot_id": "auE7AAAAAADyc/helk9xQtYXKgy9F97z",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cherry Thrill",
-        "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 199521,
-      "name": "Cherry Thrill",
-      "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afraid To Die",
         "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 182216,
       "name": "Afraid To Die",
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cherry Thrill",
+        "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 199521,
+      "name": "Cherry Thrill",
+      "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 241034,
-      "name": "Nineteen",
-      "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
+      "duration_ms": 237558,
+      "name": "No Silhouette",
+      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give (B-Sides)",
-        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 237558,
-      "name": "No Silhouette",
-      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
+      "duration_ms": 241034,
+      "name": "Nineteen",
+      "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 230590,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE"
+      "duration_ms": 281022,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 281022,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky"
+      "duration_ms": 230590,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE"
     }
   ],
   "unique_name": "This Is Movements",

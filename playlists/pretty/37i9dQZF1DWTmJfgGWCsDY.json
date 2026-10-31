@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Zuchu",
-  "num_followers": 12637,
+  "num_followers": 12664,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Nitafanyaje",
-        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "Nitafanyaje",
-      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Ganda",
         "url": "https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 196040,
       "name": "Ganda",
       "url": "https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Nitafanyaje",
+        "url": "https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "Nitafanyaje",
+      "url": "https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Toilet",
-        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
       },
       "artists": [
         {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 228806,
-      "name": "Toilet",
-      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
         }
       ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
+      "duration_ms": 228806,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "Pita Huku",
+        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 296727,
+      "name": "Pita Huku",
+      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "Gharama",
         "url": "https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 200921,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Pita Huku",
-        "url": "https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 296727,
-      "name": "Pita Huku",
-      "url": "https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "Hainaga Ushemeji",
+        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
+      },
+      "artists": [
+        {
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
+        }
+      ],
+      "duration_ms": 296507,
+      "name": "Hainaga Ushemeji",
+      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "Kuachana Shingapi (Remix)",
         "url": "https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 248764,
       "name": "Kuachana Shingapi (Remix)",
       "url": "https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Hainaga Ushemeji",
-        "url": "https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6"
-      },
-      "artists": [
-        {
-          "name": "Man Fongo",
-          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
-        }
-      ],
-      "duration_ms": 296507,
-      "name": "Hainaga Ushemeji",
-      "url": "https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Singeli Icon",
-        "url": "https://open.spotify.com/album/0Wp4zaVQ2ldZ37HIJRK7jX"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "Ilikua Kidogo",
-      "url": "https://open.spotify.com/track/0Pf5sXX0CAZfKtFd69S9a5"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Twende",
         "url": "https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 140971,
       "name": "TRUST",
       "url": "https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Singeli Icon",
+        "url": "https://open.spotify.com/album/0Wp4zaVQ2ldZ37HIJRK7jX"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Ilikua Kidogo",
+      "url": "https://open.spotify.com/track/0Pf5sXX0CAZfKtFd69S9a5"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Makombolelo singeli version",
-        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
-      },
-      "artists": [
-        {
-          "name": "Mazegele Boy",
-          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Makombolelo singeli version",
-      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
         "name": "Umekopwa",
         "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 283884,
       "name": "Umekopwa",
       "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
+      },
+      "artists": [
+        {
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        }
+      ],
+      "duration_ms": 308654,
+      "name": "Kamaliza (feat. Sholo Mwamba)",
+      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 239046,
       "name": "Kama Ujui Utajua",
       "url": "https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Sholo Mwamba",
-          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
-        }
-      ],
-      "duration_ms": 308654,
-      "name": "Kamaliza (feat. Sholo Mwamba)",
-      "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "BELIEVE",
+        "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 101009,
+      "name": "BELIEVE",
+      "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "BELIEVE",
-        "url": "https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB"
-      },
-      "artists": [
-        {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
-        }
-      ],
-      "duration_ms": 101009,
-      "name": "BELIEVE",
-      "url": "https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "Singeli Funk",
+        "url": "https://open.spotify.com/album/5stFPTtiCk2KmMHQxtbGYD"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 147204,
+      "name": "Singeli Funk",
+      "url": "https://open.spotify.com/track/2haTkqqkP8dtKRXsRQ8Rk4"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "Rudi Tena",
         "url": "https://open.spotify.com/album/5H4d2QdcvEgYhNHtLgb5Pa"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 226208,
       "name": "Rudi Tena",
       "url": "https://open.spotify.com/track/1DPac0fiYlY493E9QCdwY1"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "Singeli Funk",
-        "url": "https://open.spotify.com/album/5stFPTtiCk2KmMHQxtbGYD"
-      },
-      "artists": [
-        {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
-        }
-      ],
-      "duration_ms": 147204,
-      "name": "Singeli Funk",
-      "url": "https://open.spotify.com/track/2haTkqqkP8dtKRXsRQ8Rk4"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
+        "name": "Weeeweeeeeeee",
+        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Weeeweeeeeeee",
+      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
+    },
+    {
+      "added_at": "2026-10-09 18:37:41",
+      "album": {
         "name": "Niite Mbwa",
         "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2026-10-09 18:37:41",
       "album": {
-        "name": "Dj Travella Filimbi",
-        "url": "https://open.spotify.com/album/2Jr5ecyEHpYcqfDrZpToUT"
+        "name": "GUGO",
+        "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
       },
       "artists": [
         {
-          "name": "DJ Travella",
-          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
         }
       ],
-      "duration_ms": 141724,
-      "name": "Dj Travella Filimbi",
-      "url": "https://open.spotify.com/track/7fdKNlSFk54tp7fDSnLVqF"
+      "duration_ms": 137806,
+      "name": "GUGO",
+      "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
     },
     {
       "added_at": "2026-10-09 18:37:41",
@@ -1415,22 +1431,6 @@
       "duration_ms": 224545,
       "name": "Natafuta Hela",
       "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
-    },
-    {
-      "added_at": "2026-10-09 18:37:41",
-      "album": {
-        "name": "GUGO",
-        "url": "https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv"
-      },
-      "artists": [
-        {
-          "name": "Mavokali",
-          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "GUGO",
-      "url": "https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5"
     },
     {
       "added_at": "2026-10-09 18:37:41",

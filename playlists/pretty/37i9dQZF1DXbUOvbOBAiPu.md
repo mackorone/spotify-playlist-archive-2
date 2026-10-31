@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Dressed Like Boys, TeddyBear, Mylène Farmer & DJ Snake, Ronisia, MEAU,  Armin van Buuren and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,578 likes - 118 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,682 likes - 118 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 3 | [Combien pour la nuit](https://open.spotify.com/track/7gI8SNtmqxXMHwm04aWmRL) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Combien pour la nuit](https://open.spotify.com/album/5JHC4sDUVCc1PXe7hM9baV) | 3:34 |
 | 4 | [Replay](https://open.spotify.com/track/38bfxRHZXxdIgikV4xFYuP) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Sensation](https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM) | 2:33 |
 | 5 | [Karma](https://open.spotify.com/track/4iLk5iLSNkdUNtEfezfIhS) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Karma](https://open.spotify.com/album/6Gs0vdXD7eSA78AKOEr9vT) | 3:16 |
-| 6 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 6 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 7 | [Let's Find Out](https://open.spotify.com/track/6hO5wqXapjeCnDa6p20Wxe) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Let's Find Out](https://open.spotify.com/album/0pcF55L6SXAIUBjfwdteA4) | 2:53 |
 | 8 | [Koh\-Lanta](https://open.spotify.com/track/59vMTdfrk4H6Vua1y5YgRp) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [Koh\-Lanta](https://open.spotify.com/album/3v8TLhsflfaLQWJfQHqTWY) | 2:39 |
 | 9 | [What If I Told You](https://open.spotify.com/track/1Prjbm3rLgAsp10cI0RVia) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [What If I Told You](https://open.spotify.com/album/0s5dJYJD3Ya9i2bhqvslOl) | 2:54 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 25 | [If I Were A Boy](https://open.spotify.com/track/3HKUbFWsUfXps5YwzK5Mva) | [sleepy dude](https://open.spotify.com/artist/3IIgBMK6g6AltNT8iPPJsI), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [If I Were A Boy](https://open.spotify.com/album/4978UjQpTlYTx7eFbSkAgM) | 2:23 |
 | 26 | [Merci](https://open.spotify.com/track/0w0INM1KnJXEcyFvFw6LzY) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Merci](https://open.spotify.com/album/6EA7192nG5dzrraJ2ohXDU) | 3:15 |
 | 27 | [Wees Voorzichtig Met Mijn Hart](https://open.spotify.com/track/7gKc80RPemdMXkjvMW6bUc) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Wees Voorzichtig Met Mijn Hart](https://open.spotify.com/album/7n2kmd04Cvy0v5fW3K7gAW) | 3:08 |
-| 28 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:21 |
+| 28 | [TAKE \(feat\. Tiakola\)](https://open.spotify.com/track/6OCuUyODOy951ky1yu4nVz) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:22 |
 | 29 | [Feelings](https://open.spotify.com/track/1I1J5PKyYma6QjBQTpQnNM) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Feelings](https://open.spotify.com/album/5a9QfV16uH5DVzLFyBd7qZ) | 3:24 |
 | 30 | [Wetin Day](https://open.spotify.com/track/0uCnAzxG1UNLIfFUoCyc4Q) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [Wetin Day](https://open.spotify.com/album/5LnhX5zXzz6c2v78c8nk9d) | 2:14 |
 | 31 | [F£ELING MYSELF](https://open.spotify.com/track/4ssqFV5CiUDiaoN0AIVxbW) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [NOBODYPANICC](https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [OLYMPIA](https://open.spotify.com/album/7tjANrVYCWX3mxqL6A7q0V) | 2:20 |

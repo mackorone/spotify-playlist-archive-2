@@ -1,12 +1,12 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 185429,
+  "num_followers": 185518,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALay04eiW/RhxlFVcaON6g+GdapK",
+  "snapshot_id": "AAAAAIvCVpAP3CeFEk4um4ao6x1XVH1r",
   "tracks": [
     {
       "added_at": "2023-09-01 16:42:45",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Atemahawke",
-        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Host of a Ghost",
-      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 393453,
       "name": "Azul",
       "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Atemahawke",
+        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Host of a Ghost",
+      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Vuelo del Pez",
         "url": "https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 211319,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Ya Lo Dijo Rufis Taylor",
-        "url": "https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B"
+        "name": "Mtv Unplugged",
+        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
       },
       "artists": [
         {
-          "name": "Los Romanticos de Zacatecas",
-          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 145306,
-      "name": "Es por Ti",
-      "url": "https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C"
+      "duration_ms": 230346,
+      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
+      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -855,18 +855,34 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mtv Unplugged",
-        "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
+        "name": "Sistema Solar",
+        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
       },
       "artists": [
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Disco Ruido",
+          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
         }
       ],
-      "duration_ms": 230346,
-      "name": "Soun Tha Mi Primer Amor - Mtv Unplugged (En Vivo)",
-      "url": "https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM"
+      "duration_ms": 313107,
+      "name": "Go Twisters",
+      "url": "https://open.spotify.com/track/2ZaGShFCTU1PptY61nLzoT"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Ya Lo Dijo Rufis Taylor",
+        "url": "https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B"
+      },
+      "artists": [
+        {
+          "name": "Los Romanticos de Zacatecas",
+          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "Es por Ti",
+      "url": "https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -883,22 +899,6 @@
       "duration_ms": 189693,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Sistema Solar",
-        "url": "https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi"
-      },
-      "artists": [
-        {
-          "name": "Disco Ruido",
-          "url": "https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH"
-        }
-      ],
-      "duration_ms": 313107,
-      "name": "Go Twisters",
-      "url": "https://open.spotify.com/track/2ZaGShFCTU1PptY61nLzoT"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Historias De Un Cowboy",
-        "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
-      },
-      "artists": [
-        {
-          "name": "Los Marty",
-          "url": "https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx"
-        }
-      ],
-      "duration_ms": 166504,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bella \u00c9poca",
         "url": "https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+        "name": "Historias De Un Cowboy",
+        "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
       },
       "artists": [
         {
-          "name": "Baltazar",
-          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+          "name": "Los Marty",
+          "url": "https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx"
         }
       ],
-      "duration_ms": 254889,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+      "duration_ms": 166504,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1219,6 +1203,22 @@
       "duration_ms": 247800,
       "name": "T\u00fa Est\u00e1s M\u00e1s",
       "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+      },
+      "artists": [
+        {
+          "name": "Baltazar",
+          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+        }
+      ],
+      "duration_ms": 254889,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Sentado Aqu\u00ed",
         "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 260949,
       "name": "Sentado Aqu\u00ed",
       "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Natsuko",
-        "url": "https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u"
-      },
-      "artists": [
-        {
-          "name": "Los Plastics Revolution",
-          "url": "https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Natsuko",
-      "url": "https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Happy-fi Compilaci\u00f3n Vol. 3",
         "url": "https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 173840,
       "name": "No Coke",
       "url": "https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Natsuko",
+        "url": "https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u"
+      },
+      "artists": [
+        {
+          "name": "Los Plastics Revolution",
+          "url": "https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Natsuko",
+      "url": "https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Buffalo Beat EP",
-        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
-      },
-      "artists": [
-        {
-          "name": "Timothy The Master",
-          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
-        }
-      ],
-      "duration_ms": 315447,
-      "name": "Psicomagia",
-      "url": "https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 218060,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Buffalo Beat EP",
+        "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
+      },
+      "artists": [
+        {
+          "name": "Timothy The Master",
+          "url": "https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ"
+        }
+      ],
+      "duration_ms": 315447,
+      "name": "Psicomagia",
+      "url": "https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx"
     },
     {
       "added_at": "2023-09-01 16:42:45",

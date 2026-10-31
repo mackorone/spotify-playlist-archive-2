@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Joaquin Guiller
 
-259 songs - 14 hr 40 min
+260 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Frecuencia](https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:10 | 2025-08-22 |  |
 | [Frente a Frente](https://open.spotify.com/track/3KBMyJbu0EcUrfz2uw1L0B) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Frente a Frente](https://open.spotify.com/album/7FAnwy6AapFnMUbJlJ8tap) | 3:00 | 2026-01-23 | 2026-05-08 |
 | [GPS \#6 \- Solito](https://open.spotify.com/track/1fKPrxO4NGBaDUll4McQ7q) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [GPS \#6 \- Solito](https://open.spotify.com/album/5hFxLJNZ5flQkHXy0FOGHN) | 3:02 | 2026-03-20 | 2026-09-26 |
+| [GRACIAS](https://open.spotify.com/track/64pKD1DXwfmSEvD7pbHNxk) | [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A) | [GRACIAS](https://open.spotify.com/album/79qbYw6iBGYgweLwhRmC2V) | 3:15 | 2026-10-30 |  |
 | [Gracias A Ti](https://open.spotify.com/track/6si8DH4KS3qLuC1JEIyCBv) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Gracias A Ti](https://open.spotify.com/album/0gMHccAgjbeyF6HuSm8zPu) | 2:54 | 2022-08-18 | 2023-02-04 |
 | [Guaro](https://open.spotify.com/track/7c5BadLvrL7faXN19ro8t5) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Guaro](https://open.spotify.com/album/21mVqXjyeZqoYRtgcNlWsn) | 3:23 | 2022-08-18 | 2023-10-19 |
 | [Guaro \- Remix](https://open.spotify.com/track/5fNJ6mhN9NBOELN7Nw8dzJ) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Guaro \(Remix\)](https://open.spotify.com/album/3NnJPRCFbWl8UuMm78YnyK) | 3:42 | 2024-03-29 |  |
@@ -265,7 +266,7 @@
 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 | 2023-02-03 | 2024-05-18 |
 | [YA TE SUPERE](https://open.spotify.com/track/2Xn4lAWzmwAs2b9E0ZS1Eu) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [YA TE SUPERE](https://open.spotify.com/album/4Lorr569WDO17iUNk8h2yj) | 3:01 | 2026-02-13 | 2026-06-10 |
 | [Yo Se Cuando Miente](https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo Se Cuando Miente](https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk) | 3:18 | 2025-06-06 | 2026-05-08 |
-| [¿QUÉ PASÓ AYER?](https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿QUÉ PASÓ AYER?](https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t) | 2:25 | 2026-07-24 |  |
+| [¿QUÉ PASÓ AYER?](https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿QUÉ PASÓ AYER?](https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t) | 2:25 | 2026-07-24 | 2026-10-31 |
 | [¿Qué Te Parece?](https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [¿Qué Te Parece?](https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8) | 3:02 | 2024-11-29 | 2025-03-22 |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

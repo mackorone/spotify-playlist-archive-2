@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: verygently
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,775 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,781 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 14 | [Waiting](https://open.spotify.com/track/0rorWZIu2F2EmYrLEN9P5F) | [Paige Plaisance](https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9) | [Waiting](https://open.spotify.com/album/4gOLqWKnL15bfDqymX59re) | 4:09 |
 | 15 | [Appalachian Raised](https://open.spotify.com/track/4fIHkwFU2L36TqKrDtUWey) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Appalachian Raised](https://open.spotify.com/album/3cAZNZ7KJYzfzGaiimK2fR) | 3:43 |
 | 16 | [Take Me Down \(feat\. Michael Marcagi\)](https://open.spotify.com/track/4aYd1yB6NLjBdQULSF2InK) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N), [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Take Me Down \(feat\. Michael Marcagi\)](https://open.spotify.com/album/1dxhvnTss5Kua3l6ohCGvg) | 2:26 |
-| 17 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:06 |
+| 17 | [Every Season](https://open.spotify.com/track/6jc7iv21sDilae9apwCort) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Every Season](https://open.spotify.com/album/6b2VLRm2IQfMKTddYqNzVE) | 3:08 |
 | 18 | [Nothin Rich](https://open.spotify.com/track/2pXRw1M1Qr9c9ws7R4dJ8s) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Nothin Rich](https://open.spotify.com/album/7qaoqUvD06Zb5ZOJ19svYA) | 2:55 |
 | 19 | [Planting by the Signs](https://open.spotify.com/track/7qB8Pvr0oWnO92MXnv8t8V) | [Senora May](https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD), [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [\(Re\) Planting by the Signs](https://open.spotify.com/album/4nxiqzjRT2HKMdgt6nJYrB) | 3:49 |
 | 20 | [The Leaving Kind](https://open.spotify.com/track/6IRzHSf6UBVFfXC4Lqh2JF) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [The Leaving Kind](https://open.spotify.com/album/2icvLcu0xWjqlrvuAvu2YC) | 3:23 |

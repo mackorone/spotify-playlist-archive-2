@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Gracie Abrams, Dominic Fike, Skye Newman, MK and more! ",
-  "num_followers": 1039746,
+  "num_followers": 1040365,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANQKP8GntHpIvrKR5yBrs/nIHKlp",
+  "snapshot_id": "AAAAAGCJ2YNmc+JZUo9WG5l7Jxbxy0PR",
   "tracks": [
     {
       "added_at": "2026-10-30 00:00:25",
@@ -395,7 +395,7 @@
     {
       "added_at": "2026-10-30 00:00:25",
       "album": {
-        "name": "Officer",
+        "name": "Officer (feat. Darkoo)",
         "url": "https://open.spotify.com/album/1OycXceEuI6nZfVcXzsbat"
       },
       "artists": [
@@ -409,7 +409,7 @@
         }
       ],
       "duration_ms": 161460,
-      "name": "Officer",
+      "name": "Officer (feat. Darkoo)",
       "url": "https://open.spotify.com/track/3ehkr3ogsT0p5KqfNno97o"
     },
     {
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/6LaPQWySsvuXfpFb2vt1CN"
     },
     {
+      "added_at": "2026-10-30 10:12:10",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0kM00NtjdpNkgDra778Lf9"
+      },
+      "artists": [
+        {
+          "name": "deed0t",
+          "url": "https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3Hx9VNVA54pkwO3Wf5Sqdm"
+    },
+    {
       "added_at": "2026-10-30 00:00:25",
       "album": {
         "name": "HARDCORE HEALING",
@@ -679,6 +695,22 @@
       "duration_ms": 202840,
       "name": "I don\u2019t want to fall in love",
       "url": "https://open.spotify.com/track/5oI4fVw2iCZQlWxD85hly8"
+    },
+    {
+      "added_at": "2026-10-30 10:12:10",
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2BcUYeinHQuCSvQWfGZaYi"
+      },
+      "artists": [
+        {
+          "name": "MISSU",
+          "url": "https://open.spotify.com/artist/0mgZJ2lmD9jk1YSF43YwSG"
+        }
+      ],
+      "duration_ms": 147518,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/2xZk0W8K0J4zEFczDjVjrZ"
     },
     {
       "added_at": "2026-10-30 00:00:25",
@@ -975,7 +1007,7 @@
     {
       "added_at": "2026-10-30 00:00:25",
       "album": {
-        "name": "Dont Ask",
+        "name": "Don't Ask",
         "url": "https://open.spotify.com/album/5sxcjnYgpgAN4wRAZP4EAo"
       },
       "artists": [
@@ -1090,10 +1122,6 @@
         {
           "name": "IRAH",
           "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "Ezra Joshua Bryant",
-          "url": "https://open.spotify.com/artist/0us37RdZ0CmfbcdIrgqmr9"
         }
       ],
       "duration_ms": 184962,
@@ -1135,6 +1163,26 @@
       "duration_ms": 206024,
       "name": "War",
       "url": "https://open.spotify.com/track/0EjOVz3qCWuYWceLlanJFZ"
+    },
+    {
+      "added_at": "2026-10-30 10:12:10",
+      "album": {
+        "name": "SOUND OF THE SOUTH",
+        "url": "https://open.spotify.com/album/0l9xDGL3wCul1c8AkoarDJ"
+      },
+      "artists": [
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        }
+      ],
+      "duration_ms": 167368,
+      "name": "SOUND OF THE SOUTH",
+      "url": "https://open.spotify.com/track/1F20jGNfCjT1qjuuE9lBkw"
     },
     {
       "added_at": "2026-10-30 00:00:25",

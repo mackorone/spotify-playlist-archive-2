@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dominic Fike, BigXthaPlug, Gracie Abrams,  OMAH LAY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,649,808 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,653,388 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 41 | [Never Let Go](https://open.spotify.com/track/6dKm9TPP9w9UQ6Yb8zfPWc) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Never Let Go](https://open.spotify.com/album/0Otsjsv1DoFGwcmEzVk31D) | 3:50 |
 | 42 | [You're the Only One \(I Never Performed For\)](https://open.spotify.com/track/4LtOlJEraMqp3i9rK60K84) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [You're the Only One \(I Never Performed For\)](https://open.spotify.com/album/6mUeTOMh838S1pNUEqdI7D) | 3:32 |
 | 43 | [The Bartender](https://open.spotify.com/track/46ZQZWNYBj2i4vfryEZaKm) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hello, Honky Tonk](https://open.spotify.com/album/2I18OBK7XsoDVcVR6OZBjd) | 4:16 |
-| 44 | [What A Life](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [What A Life](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 |
+| 44 | [WHAT A LIFE](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WHAT A LIFE](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 |
 | 45 | [Heart Shaped Bed](https://open.spotify.com/track/7gjOdGi8agj10BCbcKaiiw) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Plain Jane](https://open.spotify.com/album/3d219WSRvmx2bMOjktulEK) | 3:28 |
 | 46 | [Tell You Why](https://open.spotify.com/track/00yg4F2H3joRtA2ptT3fwI) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [VLAD](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Tell You Why](https://open.spotify.com/album/3QA9mQkH5gjHjEe0XKx2cq) | 2:33 |
 | 47 | [2002](https://open.spotify.com/track/2J2WCxTJqGCWo8huHHnXUf) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [N5ON](https://open.spotify.com/album/5tUymTDVSwVGC1fV8sPo04) | 2:52 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 59 | [Survival](https://open.spotify.com/track/2PEr5UBQqLCtEXH64zInV0) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Survival](https://open.spotify.com/album/2YnK3g9CH18njRleef6mNT) | 3:14 |
 | 60 | [Voodoo](https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Voodoo](https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i) | 3:42 |
 | 61 | [i wanted to be a singer](https://open.spotify.com/track/39yGQhkMG9tQ4kd6wueLQK) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [you made me / skin on linen](https://open.spotify.com/album/4L3aQdOW11hKFGRbpkw3wN) | 2:40 |
-| 62 | [Badman Riddim](https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Ezra Joshua Bryant](https://open.spotify.com/artist/0us37RdZ0CmfbcdIrgqmr9) | [Badman Riddim](https://open.spotify.com/album/7aLoUpRuTDY7uco9ypWix4) | 3:04 |
+| 62 | [Badman Riddim](https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Badman Riddim](https://open.spotify.com/album/7aLoUpRuTDY7uco9ypWix4) | 3:04 |
 | 63 | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/track/4Gh8CTxxxAJkA8iejRHhQM) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Felicidades \(feat\. Maluma\)](https://open.spotify.com/album/15c2jNMyhIsaDBbtHJEkX0) | 2:21 |
 | 64 | [Canary](https://open.spotify.com/track/2RqoTukas6v1tFb35pG2u6) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Nu Zamrock](https://open.spotify.com/album/3XRKBEcQMSiMzGcGQJ2qDz) | 2:51 |
 | 65 | [Lost In The Night](https://open.spotify.com/track/1PxXhbDslbSNzO1SvqzQ4o) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Lost In The Night](https://open.spotify.com/album/3nt3G4RFOSqdGTTA60VMrg) | 5:00 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 6223,
+  "num_followers": 6227,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAACw04061Dw60jORxIMf2gVz",
+  "snapshot_id": "auE7AAAAAABbhefHa7RBXGGw/WY5v1sE",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superposition",
         "url": "https://open.spotify.com/album/7cefdWw7RyJXmKZEX0PduI"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 215453,
       "name": "Superposition",
       "url": "https://open.spotify.com/track/5vR7uJE1YTA9p3n6xBE1p1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3kjLA2VXiLYzenxpjkzhEP"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 149253,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/4dQzXJwYGaVOx2gs4Hz2KI"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 230560,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0zRtbhAtRmXXrhyfiBOio2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 149253,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0605IFCVNYSchpfcoS77YU"
     },
     {
       "added_at": null,

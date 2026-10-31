@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。10月27日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,910 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,950 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 16 | [こころにくだもの](https://open.spotify.com/track/0hgoDtkHodJXQPYOYfgE4m) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [アンビリーバーズ](https://open.spotify.com/album/3sEAIGuIv29u4NbylrcBpU) | 4:06 |
 | 17 | [Cypher C 2026](https://open.spotify.com/track/7u4z7Aai8ERGdfZUAOlmuV) | [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW), [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU), [Esosa Vee](https://open.spotify.com/artist/5kPHeikKvfVPeoJ9n1BgfN), [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC), [SEISA](https://open.spotify.com/artist/2SKIyJAgsW4mKWYRwM4xcN) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 4:40 |
 | 18 | [いいんじゃない](https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [いいんじゃない](https://open.spotify.com/album/71eZv4CCScNApcSYATHObm) | 2:56 |
-| 19 | [Cypher D 2026](https://open.spotify.com/track/27M9lAsEW6PRa8a9p8BV1f) | [JAYBAB](https://open.spotify.com/artist/0TbXfSriM9SVScrlsEXceB), [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM), [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG), [lyricsbyrico](https://open.spotify.com/artist/03isOmFA60Kt84pNFmCOds), [MADEINBEN10](https://open.spotify.com/artist/74YzbjrVP4lO9yGEEZTH3n) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 5:34 |
+| 19 | [Cypher D 2026](https://open.spotify.com/track/27M9lAsEW6PRa8a9p8BV1f) | [Gabby Neeley](https://open.spotify.com/artist/4nvgZDf1BDNYJovkWf0T47), [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM), [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG), [lyricsbyrico](https://open.spotify.com/artist/03isOmFA60Kt84pNFmCOds), [MADEINBEN10](https://open.spotify.com/artist/74YzbjrVP4lO9yGEEZTH3n) | [RAPSTAR 2026 SELECTION CYPHER](https://open.spotify.com/album/693lu2u6zL4kS0SlQkygcJ) | 5:34 |
 | 20 | [さながらロンリー](https://open.spotify.com/track/4fksLHcbww26MwMJ2FdLqr) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [さながらロンリー](https://open.spotify.com/album/250LpstRy6HPHxPaABRjUm) | 3:03 |
 | 21 | [咲き誇れ](https://open.spotify.com/track/2t5C9K8bQMCHXG0zdXRI12) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [咲き誇れ](https://open.spotify.com/album/24oSk67TQF7dlvkVJwWtWt) | 4:06 |
 | 22 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |

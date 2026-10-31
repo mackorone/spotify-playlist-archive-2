@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Sur la piste" d'Eva est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,753 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,718 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [ça pik un peu quand même](https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i) | 2:17 |
 | 40 | [Systaime](https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Systaime](https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t) | 2:34 |
 
-Snapshot ID: `AAAAAKrZ6fIEAXIyySHe+424AMgBEVq3`
+Snapshot ID: `AAAAAHeNtL3WwTeg8s6BEro6XEbR+Fn5`

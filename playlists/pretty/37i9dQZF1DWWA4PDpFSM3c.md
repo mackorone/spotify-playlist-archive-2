@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,586 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,624 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 10 | [Gala Gala Paruthunna](https://open.spotify.com/track/7kIkKzjeL1IVphTYYWIaQJ) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Nihal](https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl) | [Pokiri](https://open.spotify.com/album/3kqeFrlPfnGdhHraAvAByi) | 4:33 |
 | 11 | [Challa Gaali Thakuthunna](https://open.spotify.com/track/6IWD4Vklpj6wHVGaMB89dO) | [Senthil](https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3), [Rihitha](https://open.spotify.com/artist/7HCfn98lJJNkmv6Gn0F2Fc), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananth Sriram](https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz) | [Yevade Subramanyam](https://open.spotify.com/album/6bO23GNwB0rVPb9fduDb2b) | 4:08 |
 | 12 | [Snehithudaa](https://open.spotify.com/track/0b7HiR0vRs2gUbwZeJjfN3) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:07 |
-| 13 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
+| 13 | [Nee Tholisariga](https://open.spotify.com/track/5bRsCXzjpkjDXmVGkgfL4w) | [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy), [Usha Munukutla](https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw) | [Santhosham](https://open.spotify.com/album/5e1sQOcB4PnyMXxQ6BMZJf) | 4:50 |
 | 14 | [Arare Arare](https://open.spotify.com/track/4siD8OfWU2SrxAam41kgpJ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Happy Days](https://open.spotify.com/album/3zwlmA5XSHN0ovt9Y0Vkjk) | 4:59 |
 | 15 | [Emantaro](https://open.spotify.com/track/0ZOlLikCYIMHF2sJcx3oS8) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Gudumba Shankar](https://open.spotify.com/album/4NZCKWyfrZC82wCR5fC7in) | 6:18 |
-| 16 | [Nee Tholisariga](https://open.spotify.com/track/5bRsCXzjpkjDXmVGkgfL4w) | [R\. P\. Patnaik](https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy), [Usha Munukutla](https://open.spotify.com/artist/3ZuUs3HhXssOQ3mt9WpBfw) | [Santhosham](https://open.spotify.com/album/5e1sQOcB4PnyMXxQ6BMZJf) | 4:50 |
+| 16 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 |
 | 17 | [Atu Itu Ooguthu](https://open.spotify.com/track/24K2mrj2EdYowxLweHaEAl) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [Life Is Beautiful](https://open.spotify.com/album/31evgMUroCibkdMwan4s0W) | 5:27 |
 | 18 | [Taanu Nenu](https://open.spotify.com/track/4mWLe7ZircrFST9RPCQklC) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Saahasam Swaasaga Saagipo](https://open.spotify.com/album/2AVXf1Pdi3oud8FQ6NcC2S) | 4:13 |
 | 19 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 |

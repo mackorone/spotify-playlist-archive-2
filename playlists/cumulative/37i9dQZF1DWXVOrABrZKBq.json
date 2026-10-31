@@ -9227,6 +9227,24 @@
     },
     {
       "album": {
+        "name": "EXTASIAAAAA",
+        "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171776,
+      "name": "L\u00c9 TAL",
+      "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
+    },
+    {
+      "album": {
         "name": "L\u00c9CHAGE",
         "url": "https://open.spotify.com/album/3CzW00o7qXZ2rhoWyrWFJz"
       },
@@ -10340,7 +10358,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 109714,
       "name": "MTV",
       "url": "https://open.spotify.com/track/1oW5nJWdFUchCuuIG6Tdsi"

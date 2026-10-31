@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,057 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,055 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 12 | [โคมไฟระย้า](https://open.spotify.com/track/2ke4oJzLPO4QUfgMPUgBZQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 3:28 |
 | 13 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
 | 14 | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/track/0GPUeoz4n9Uw6wnwHwY1JD) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ปล่อยให้ฉันร้องไป](https://open.spotify.com/album/3KUh9eIcpGAyd3QQWJLIp4) | 5:03 |
-| 15 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
-| 16 | [Zindaria](https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [Zindaria](https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V) | 2:23 |
+| 15 | [Zindaria](https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [Zindaria](https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V) | 2:23 |
+| 16 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 17 | [ประดับ](https://open.spotify.com/track/0Y4JbGKpTzV4gpRgOgglAE) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:06 |
 | 18 | [แม่บอก](https://open.spotify.com/track/4XUDYi6va8dS7VlY39lnHQ) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [แม่บอก](https://open.spotify.com/album/4tVX02x5uKETZGMuAxT4Ms) | 3:22 |
 | 19 | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/track/0LIrz28O9gQqKgki2i09l5) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [ไปต่อหรือพอแค่นี้](https://open.spotify.com/album/0wktt1y5XwMR8qXvKaXNtM) | 3:36 |

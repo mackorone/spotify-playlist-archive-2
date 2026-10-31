@@ -1,12 +1,12 @@
 {
   "description": "Holdin' it down for the westside. Cover: Anderson .Paak and Cordae",
-  "num_followers": 753259,
+  "num_followers": 753172,
   "original_name": "Westside",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADx55dR50pXZ+EQZ7TuVHotjlLT9",
+  "snapshot_id": "AAAAAEQ7Ct3MLz3mHvLIHIOY8h2dziPl",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:52",
@@ -23,6 +23,22 @@
       "duration_ms": 152946,
       "name": "Lamb Truck Keys",
       "url": "https://open.spotify.com/track/0YZkkvAyPLdpNLB8Uj07XE"
+    },
+    {
+      "added_at": "2026-10-30 04:02:00",
+      "album": {
+        "name": "Unreleased Lost Files",
+        "url": "https://open.spotify.com/album/0XCKnQhtw0K3JUKMNPqlIV"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 188670,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/3duSBN1lsVBSZJx4mnMBZJ"
     },
     {
       "added_at": "2026-10-23 04:01:56",
@@ -45,6 +61,22 @@
       "url": "https://open.spotify.com/track/4xBSR1MvDskoAGOwQERjX8"
     },
     {
+      "added_at": "2026-10-30 04:02:00",
+      "album": {
+        "name": "Can Y'all Hear Me Now?",
+        "url": "https://open.spotify.com/album/4baagbo1DFP6xwup5lX2QP"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "duration_ms": 190807,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/2hKgDLF3MSsZQ081R0NObj"
+    },
+    {
       "added_at": "2026-10-23 04:01:56",
       "album": {
         "name": "Luh Leakyz Vol. 1",
@@ -63,30 +95,6 @@
       "duration_ms": 165000,
       "name": "Lil Krazy",
       "url": "https://open.spotify.com/track/3301sy6RP2XMn67qrjzY0y"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
-        "name": "LEFT RIGHT (feat. Big Sean)",
-        "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Shoreline Mafia",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "LEFT RIGHT (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -129,24 +137,20 @@
       "url": "https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ"
     },
     {
-      "added_at": "2026-10-23 04:01:56",
+      "added_at": "2026-10-30 04:02:00",
       "album": {
-        "name": "DnD (feat. Luhh Dyl)",
-        "url": "https://open.spotify.com/album/7iKG32N0nhNZr0ctV8rSl2"
+        "name": "On That Shit",
+        "url": "https://open.spotify.com/album/6mfltS9sZbDK4FS7ao8WWk"
       },
       "artists": [
         {
-          "name": "PayGotti",
-          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
-        },
-        {
-          "name": "Luhh Dyl",
-          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
         }
       ],
-      "duration_ms": 193381,
-      "name": "DnD (feat. Luhh Dyl)",
-      "url": "https://open.spotify.com/track/4OpAciGCBuoLij64eoFqyO"
+      "duration_ms": 126071,
+      "name": "On That Shit",
+      "url": "https://open.spotify.com/track/0KjFUWbmdVayrBzr8FOE3f"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -167,6 +171,30 @@
       "duration_ms": 163098,
       "name": "WINDO",
       "url": "https://open.spotify.com/track/2bCR8odsE65ME4wMnGz43h"
+    },
+    {
+      "added_at": "2026-10-30 04:02:00",
+      "album": {
+        "name": "Ruff & Tuff (From \"The Drop: A Snowfall Saga\")",
+        "url": "https://open.spotify.com/album/51CSspMLm6hE8upla7xfhd"
+      },
+      "artists": [
+        {
+          "name": "The Drop - Cast",
+          "url": "https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        },
+        {
+          "name": "Roger Troutman",
+          "url": "https://open.spotify.com/artist/196ioJKSOxXwm5Tki2JYuA"
+        }
+      ],
+      "duration_ms": 60811,
+      "name": "Ruff & Tuff",
+      "url": "https://open.spotify.com/track/1LzaIbkP84sBq82mb8IWcJ"
     },
     {
       "added_at": "2026-10-23 04:01:56",
@@ -219,6 +247,22 @@
       "duration_ms": 210909,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/5K3PfFhzjgXhB0rDuXU79C"
+    },
+    {
+      "added_at": "2026-10-30 04:02:00",
+      "album": {
+        "name": "Can Y'all Hear Me Now?",
+        "url": "https://open.spotify.com/album/4baagbo1DFP6xwup5lX2QP"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "Family Man",
+      "url": "https://open.spotify.com/track/2M0Lk1D2dfBCvhMguPyP8d"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -471,26 +515,6 @@
     {
       "added_at": "2026-10-16 04:01:52",
       "album": {
-        "name": "The Documentary III",
-        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 138682,
-      "name": "No Brakes (feat. Drake)",
-      "url": "https://open.spotify.com/track/4kzHrtFZN81CuF0HHTiDyu"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
         "name": "BTA",
         "url": "https://open.spotify.com/album/2HZmYCprQljNZUJqw2Ce2T"
       },
@@ -503,6 +527,30 @@
       "duration_ms": 109800,
       "name": "BTA",
       "url": "https://open.spotify.com/track/6wJijkfeXK0NWJuN8wcgte"
+    },
+    {
+      "added_at": "2026-10-16 04:01:52",
+      "album": {
+        "name": "LEFT RIGHT (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "LEFT RIGHT (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/2pz2fuZbrWNoCxpmZrimWw"
     },
     {
       "added_at": "2026-10-16 04:01:52",
@@ -591,26 +639,6 @@
     {
       "added_at": "2026-10-16 04:01:52",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/5V5T7KAPzWdWcsncFDKDqr"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        },
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        }
-      ],
-      "duration_ms": 153505,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/6J1ReKLy0EuDHgCSkG2tdO"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
         "name": "Last Night Out",
         "url": "https://open.spotify.com/album/4wQrmkNmT0oMOYW3zikYNl"
       },
@@ -663,26 +691,6 @@
       "duration_ms": 142222,
       "name": "Just Another Day",
       "url": "https://open.spotify.com/track/0HAYT4AtHH6UOudcVxGMV9"
-    },
-    {
-      "added_at": "2026-10-16 04:01:52",
-      "album": {
-        "name": "Rydah (From \"The Drop: A Snowfall Saga\")",
-        "url": "https://open.spotify.com/album/4bP9H04X9fRg9yLFcArTlD"
-      },
-      "artists": [
-        {
-          "name": "The Drop - Cast",
-          "url": "https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 109008,
-      "name": "Officer Blackman",
-      "url": "https://open.spotify.com/track/7MaBbSrilprZz8Xp7vifg0"
     },
     {
       "added_at": "2026-10-16 04:01:52",

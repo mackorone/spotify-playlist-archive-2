@@ -1,13 +1,77 @@
 {
-  "description": "Hottest indie sounds from Asia. Cover: mpq (Indonesia)",
-  "num_followers": 150147,
+  "description": "Hottest indie sounds from Asia. Cover: mindfreakk! (Thailand)",
+  "num_followers": 150180,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALRpMpaIlE07yJ74jkMy/g0NyBzn",
+  "snapshot_id": "AAAAAD3Dwo43BBLvzZ8/DD6FHn5L6y3s",
   "tracks": [
+    {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "aftertears",
+        "url": "https://open.spotify.com/album/0qtTQO2tmH6a03Dey9zeaz"
+      },
+      "artists": [
+        {
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 387606,
+      "name": "aftertears",
+      "url": "https://open.spotify.com/track/7lyewi26KwzRM9XNB7Sl6y"
+    },
+    {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "KOMOREBI",
+        "url": "https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 266913,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o"
+    },
+    {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "Be Nobody",
+        "url": "https://open.spotify.com/album/1wF6muaHw38UkYd8E4Ezgc"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "duration_ms": 278937,
+      "name": "Be Nobody",
+      "url": "https://open.spotify.com/track/5olzgqKd2mJOf7UxDvkgtW"
+    },
+    {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "Mirror Muscle",
+        "url": "https://open.spotify.com/album/2ye9lqSHYkXGGMHBMk3Dma"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Mirror Muscle",
+      "url": "https://open.spotify.com/track/7CyLHHATV7JXFWz6P2SBB0"
+    },
     {
       "added_at": "2026-10-22 16:00:36",
       "album": {
@@ -41,20 +105,20 @@
       "url": "https://open.spotify.com/track/26oKdWzutBsJWGS3GIwXdr"
     },
     {
-      "added_at": "2026-10-15 23:16:47",
+      "added_at": "2026-10-30 10:21:06",
       "album": {
-        "name": "All Tomorrows",
-        "url": "https://open.spotify.com/album/6JRke0thZV22zjwv797jba"
+        "name": "Enjoy Life, Anyway",
+        "url": "https://open.spotify.com/album/5Ln9ULJs6uM7cXurG8sXSY"
       },
       "artists": [
         {
-          "name": "DYGL",
-          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
         }
       ],
-      "duration_ms": 202736,
-      "name": "Unloaded",
-      "url": "https://open.spotify.com/track/2HJYOteIQ7Zp7PrCUQDeTd"
+      "duration_ms": 174389,
+      "name": "Do Nothing!",
+      "url": "https://open.spotify.com/track/1PSLmLgHTjZCItdRXeqtEw"
     },
     {
       "added_at": "2026-10-15 23:16:47",
@@ -177,20 +241,52 @@
       "url": "https://open.spotify.com/track/7GGOKe8Pn1jVzNIw3MzAc8"
     },
     {
-      "added_at": "2026-10-11 05:44:34",
+      "added_at": "2026-10-15 23:16:47",
       "album": {
-        "name": "To: Hana",
-        "url": "https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9"
+        "name": "All Tomorrows",
+        "url": "https://open.spotify.com/album/6JRke0thZV22zjwv797jba"
       },
       "artists": [
         {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
         }
       ],
-      "duration_ms": 302188,
-      "name": "HANA",
-      "url": "https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5"
+      "duration_ms": 202736,
+      "name": "Unloaded",
+      "url": "https://open.spotify.com/track/2HJYOteIQ7Zp7PrCUQDeTd"
+    },
+    {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "Angie",
+        "url": "https://open.spotify.com/album/5MG6d7rouuswGJxOsjkcJQ"
+      },
+      "artists": [
+        {
+          "name": "Johnnivan",
+          "url": "https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe"
+        }
+      ],
+      "duration_ms": 288876,
+      "name": "Dead Language",
+      "url": "https://open.spotify.com/track/1c28wpBWEJ2NxL3z3LldEQ"
+    },
+    {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "Hey, Monster!",
+        "url": "https://open.spotify.com/album/6LD0K43F0gKTBCDJyZVLp8"
+      },
+      "artists": [
+        {
+          "name": "CORAL",
+          "url": "https://open.spotify.com/artist/3mhk7DLhAyZqIEuNWwRybV"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Trick Or Treat",
+      "url": "https://open.spotify.com/track/2I1QCvKiv2rAxYT6aUZdQS"
     },
     {
       "added_at": "2026-10-22 16:00:36",
@@ -261,6 +357,22 @@
       "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
     },
     {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "La nuit",
+        "url": "https://open.spotify.com/album/6ZvmigPIlJGtFVguw4wuGq"
+      },
+      "artists": [
+        {
+          "name": "LOLOET",
+          "url": "https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "La nuit",
+      "url": "https://open.spotify.com/track/6i5FLUHgG9ouMk5Kpo3eK6"
+    },
+    {
       "added_at": "2026-10-22 16:00:36",
       "album": {
         "name": "meet me in my head",
@@ -307,22 +419,6 @@
       "duration_ms": 261780,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/4x2iQNSS8uG0UaWK9S159K"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "Mirror Chamber",
-        "url": "https://open.spotify.com/album/36jZhVxqmxcLGvYliXEmuX"
-      },
-      "artists": [
-        {
-          "name": "KyoYoko",
-          "url": "https://open.spotify.com/artist/7CgWtTJr3z1XVtSevOHMqT"
-        }
-      ],
-      "duration_ms": 302222,
-      "name": "Post-man",
-      "url": "https://open.spotify.com/track/4Xxsc2pcYCULmsJUUIVm1q"
     },
     {
       "added_at": "2026-10-22 16:00:36",
@@ -387,26 +483,6 @@
       "duration_ms": 183462,
       "name": "Belati",
       "url": "https://open.spotify.com/track/5BbXhV5i1TWOGPEiObqdNZ"
-    },
-    {
-      "added_at": "2026-10-15 23:16:47",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/5Fkebg96kutu73o4ATRAXj"
-      },
-      "artists": [
-        {
-          "name": "J\u016bji",
-          "url": "https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn"
-        },
-        {
-          "name": "Taiyu Fujiwara",
-          "url": "https://open.spotify.com/artist/6YQRaLwG5sXsugAhlY5Lx3"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/78p5QIjMqUurh4LTbAFm4x"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -475,6 +551,22 @@
       "duration_ms": 438750,
       "name": "ON(\u767e)",
       "url": "https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7"
+    },
+    {
+      "added_at": "2026-10-30 10:21:06",
+      "album": {
+        "name": "Pecha Kucha",
+        "url": "https://open.spotify.com/album/415Dpe5cR4K84hUw1glsV6"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "duration_ms": 119225,
+      "name": "Pecha Kucha",
+      "url": "https://open.spotify.com/track/3m0CklzaQxXEx1dAgm5XfE"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -547,6 +639,26 @@
       "duration_ms": 348820,
       "name": "Ice King",
       "url": "https://open.spotify.com/track/2P1g2sQsAgh8JHorGfItZt"
+    },
+    {
+      "added_at": "2026-10-15 23:16:47",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5Fkebg96kutu73o4ATRAXj"
+      },
+      "artists": [
+        {
+          "name": "J\u016bji",
+          "url": "https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn"
+        },
+        {
+          "name": "Taiyu Fujiwara",
+          "url": "https://open.spotify.com/artist/6YQRaLwG5sXsugAhlY5Lx3"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/78p5QIjMqUurh4LTbAFm4x"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -675,18 +787,18 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/0HF9K90d1J5p6KdYeKS7xH"
+        "name": "To: Hana",
+        "url": "https://open.spotify.com/album/2DrgbIxldbp8Tb8hsuwZP9"
       },
       "artists": [
         {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
         }
       ],
-      "duration_ms": 428573,
-      "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/67VIh76HwGphyoUtYamb6U"
+      "duration_ms": 302188,
+      "name": "HANA",
+      "url": "https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -751,22 +863,6 @@
       "duration_ms": 241454,
       "name": "Mt. Whateverest",
       "url": "https://open.spotify.com/track/0ea3Hxi24z3KGVj1QSuQKm"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "Mirror Ball",
-        "url": "https://open.spotify.com/album/24zHy2cZMEXCABQzFq2su8"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Mirror Ball",
-      "url": "https://open.spotify.com/track/0DrPQboDFuy3ORmMTlAcd3"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -1243,22 +1339,6 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "Nocturne to Sunrise",
-        "url": "https://open.spotify.com/album/6WKvMlOkR05XLpMGPVXf7K"
-      },
-      "artists": [
-        {
-          "name": "Inis",
-          "url": "https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/2ZUcV0Lh31FJGFc0ud8f9u"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
         "name": "GPT",
         "url": "https://open.spotify.com/album/19g6dvBQhyPvhQyDrRSf6i"
       },
@@ -1319,22 +1399,6 @@
       "duration_ms": 226525,
       "name": "Gotta Find My Way",
       "url": "https://open.spotify.com/track/1aaAdvmwe0kfGjYRgL3cU5"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "\u733f\u4f3c\u4eba(awake the silence)",
-        "url": "https://open.spotify.com/album/7HPyvpmJ70HcacfaYgWZo9"
-      },
-      "artists": [
-        {
-          "name": "SCAMPER \u8df3\u8e8d\u865f",
-          "url": "https://open.spotify.com/artist/1KPhrXAUBgbj2HUVI5tuvD"
-        }
-      ],
-      "duration_ms": 241071,
-      "name": "\u733f\u4f3c\u4eba(awake the silence)",
-      "url": "https://open.spotify.com/track/2bwrKDtsHw1vB1AxUe554I"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -1443,38 +1507,6 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "Keep Walking",
-        "url": "https://open.spotify.com/album/6bR697fQAxDhXp63C5Da3R"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 253031,
-      "name": "Keep Walking",
-      "url": "https://open.spotify.com/track/6ylP166aTcPrcdgW3Ws1DD"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "The Veil",
-        "url": "https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9"
-      },
-      "artists": [
-        {
-          "name": "Gliiico",
-          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
-        }
-      ],
-      "duration_ms": 145266,
-      "name": "Gut",
-      "url": "https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
         "name": "Modern Music",
         "url": "https://open.spotify.com/album/1ojD5yjzqTYD01iCrdz8tn"
       },
@@ -1535,22 +1567,6 @@
       "duration_ms": 278977,
       "name": "So Long",
       "url": "https://open.spotify.com/track/4dCUYXN977HMB5JCAmUULv"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "Homebound",
-        "url": "https://open.spotify.com/album/18iyGi60DsPln6akXO3M5X"
-      },
-      "artists": [
-        {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
-        }
-      ],
-      "duration_ms": 250392,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/4trCDJ2kV036TrQwTugy3r"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -1647,22 +1663,6 @@
       "duration_ms": 258000,
       "name": "Forest",
       "url": "https://open.spotify.com/track/6Yk3Q1wWdPB5RJksJfPqpx"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "\u9748\u9b42\u7684\u56de\u8072",
-        "url": "https://open.spotify.com/album/0gm1R8HQnzw1WPyj8nKlhO"
-      },
-      "artists": [
-        {
-          "name": "Echo of Your Soul",
-          "url": "https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Amazon",
-      "url": "https://open.spotify.com/track/1nDRafsgruHWWEan85OHGX"
     },
     {
       "added_at": "2026-10-11 05:44:34",

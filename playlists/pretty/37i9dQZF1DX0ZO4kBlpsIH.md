@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture ☕️ jazz for slow mornings, sunny terraces, and long afternoons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,693 likes - 57 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,867 likes - 57 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 56 | [Montagne Ste Genevieve](https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Introducing Stephane Wrembel](https://open.spotify.com/album/4sz3Jgvhv7jAzxwQRxtGZD) | 2:10 |
 | 57 | [Donne moi ta fleur](https://open.spotify.com/track/4uInfO1vqoQps8Si4sHZxo) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Donne moi ta fleur](https://open.spotify.com/album/0eUYB0WKygXR6vz6F5JBq7) | 3:22 |
 
-Snapshot ID: `AAAAAINHw/M4Tlg6e1Ru9acEcc0SqUHz`
+Snapshot ID: `AAAAAJRJMrrhloZcl0z3CZu2w4L1sj9s`

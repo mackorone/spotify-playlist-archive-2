@@ -8365,6 +8365,24 @@
     },
     {
       "album": {
+        "name": "pins",
+        "url": "https://open.spotify.com/album/0E5wwFhihxPnTT4sz8V9cn"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169980,
+      "name": "pins",
+      "url": "https://open.spotify.com/track/55mMqGdd6GxNh6eYSf3Fdt"
+    },
+    {
+      "album": {
         "name": "Clocks",
         "url": "https://open.spotify.com/album/3K0xnDDCyXlhJFjoXYQoHY"
       },

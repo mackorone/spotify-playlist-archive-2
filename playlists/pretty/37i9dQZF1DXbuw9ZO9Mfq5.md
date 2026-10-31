@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 57th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show Fri, Oct\. 9 at 7:30pm & 10pm ET on TBN & the TBN+ app\. Cover \(Host\): Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,450 likes - 115 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,454 likes - 115 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 26 | [Broken Man Can](https://open.spotify.com/track/2WV1TrQ21NjBRzbzxeHpsi) | [Scotty Inman](https://open.spotify.com/artist/3pWCPKVckgJonKRHNkGY2o) | [Broken Man Can](https://open.spotify.com/album/5sXX3qZc0MphSnQGDqVicJ) | 3:35 |
 | 27 | [Speaking Terms](https://open.spotify.com/track/4i5V2VKzoW7h9Sl9UBWBZ7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/14l4mGBY4BJYi5TNJk9kV6) | 4:23 |
 | 28 | [Still Do](https://open.spotify.com/track/7asvJ0DTMq8PTJYTcW0L8G) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stars \(Blue Hour Deluxe\)](https://open.spotify.com/album/3OMBUTRjGHezf7PxuRsO6c) | 3:03 |
-| 29 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
+| 29 | [The Jesus I Know Now \- with Lainey Wilson](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now \(with Lainey Wilson\)](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
 | 30 | [A God Thing](https://open.spotify.com/track/7JSaafcbJDx3YqRQjAdbw1) | [Chosen Road](https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh) | [American Morning \(Deluxe Edition\)](https://open.spotify.com/album/6YjUzIrwCL2RdrNh6UElzq) | 3:46 |
 | 31 | [Above the Clouds](https://open.spotify.com/track/3lef4aldBsJrmIyrWKYMZJ) | [Eighteen Mile](https://open.spotify.com/artist/1A4aTqCTibvs6uQrYyeiSp) | [Above the Clouds](https://open.spotify.com/album/44pHag8GCWqwsL8KT9kTiN) | 2:53 |
 | 32 | [Broken Angels](https://open.spotify.com/track/2ZKZrxcDj3kQitLwiPzivQ) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Broken Angels](https://open.spotify.com/album/6UyF4XPRRXIGdaOsu3X3vR) | 3:40 |

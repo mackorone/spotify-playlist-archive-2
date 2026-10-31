@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Matt Crocker
 
-1,654 songs - 4 day 6 hr 54 min
+1,655 songs - 4 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Better Yet](https://open.spotify.com/track/09B7bzzmF8nWZnBlyWO6cE) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters \(Deluxe\)](https://open.spotify.com/album/7pQOANzJHd49X22IgJvjIf) | 3:10 | 2025-02-22 | 2025-06-07 |
 | [Between](https://open.spotify.com/track/3AICIEQnsewizFGyYwAcjj) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Between](https://open.spotify.com/album/1qNJyP0eRso20NlO47QXTl) | 3:45 | 2026-09-18 | 2026-10-24 |
 | [Bibles Again](https://open.spotify.com/track/3BpGShSSLe8vIxtQvuWILQ) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Bibles Again](https://open.spotify.com/album/3kx3JtanfbamWIGtqIFOwn) | 3:18 | 2026-05-01 | 2026-07-04 |
-| [big energy.wav](https://open.spotify.com/track/2Rh1hfKV3dg8WbWID4W5D2) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [big energy.wav](https://open.spotify.com/album/441DOkBH454XFYiUZ9Z4x1) | 2:24 | 2026-09-18 |  |
+| [big energy.wav](https://open.spotify.com/track/2Rh1hfKV3dg8WbWID4W5D2) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [big energy.wav](https://open.spotify.com/album/441DOkBH454XFYiUZ9Z4x1) | 2:24 | 2026-09-18 | 2026-10-31 |
 | [Big Shoulders](https://open.spotify.com/track/43glZtpqaJ2JK3eFgNHbSL) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Big Shoulders](https://open.spotify.com/album/0UosUjGSNpSKYk8pHf2L7y) | 2:45 | 2025-09-14 | 2025-11-16 |
 | [Big Tent Revival](https://open.spotify.com/track/6HwopkhVngqyPILoTSF7Cs) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Big Tent Revival](https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro) | 3:38 | 2022-10-29 | 2024-06-08 |
 | [bigger than me](https://open.spotify.com/track/2Md0Y3y0aLExhcXqjPX6WN) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Better Things](https://open.spotify.com/album/0hLFN6WGBCotVJIS9msTts) | 2:31 | 2026-05-29 | 2026-06-20 |
@@ -292,6 +292,7 @@
 | [Don't Blink](https://open.spotify.com/track/7htJg18GoDNL2WLLLvynE7) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Don't Blink](https://open.spotify.com/album/2qnU4LiUZcPJcZVxdPqV63) | 2:52 | 2026-07-03 | 2026-07-18 |
 | [Don't Count Me Out](https://open.spotify.com/track/0zuJsIOYKAir5r0ZcjtTLf) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Don't Count Me Out](https://open.spotify.com/album/2FePLiHwZ9hrrX53Zj4sUR) | 3:24 | 2025-10-06 | 2025-11-16 |
 | [Don't Forget](https://open.spotify.com/track/6lyzPp8vwD2BJHr6fBAiaa) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij) | [Don't Forget](https://open.spotify.com/album/60C8iOzbSE7cz81T4QP9AB) | 4:21 | 2025-06-06 | 2025-07-20 |
+| [Don't Give Up](https://open.spotify.com/track/29mQeq9Z7JvCkFYxgNuUVU) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb), [Johnny Songs](https://open.spotify.com/artist/1Klr0ZjipQgD7otXBzZ4gt) | [Don't Give Up](https://open.spotify.com/album/1rjQ6dSvk3hCVMbwrCs81r) | 3:00 | 2026-10-23 |  |
 | [Don't Let Me Forget](https://open.spotify.com/track/4k5Lh18WXNRcyu3BE2hn8k) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Don't Let Me Forget](https://open.spotify.com/album/6Rq7yFaU8ZRIJWEfTTZA5d) | 3:17 | 2024-10-11 | 2024-11-30 |
 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 | 2025-11-15 | 2026-02-08 |
 | [Don't Rob That Man](https://open.spotify.com/track/4UXe3gT5cmd8otr2pSeL6O) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Don't Rob That Man](https://open.spotify.com/album/6XA9clEkBvuBrfXnLaLef5) | 2:21 | 2026-08-21 | 2026-10-24 |

@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d1\u05d9\u05ea\u05e8 \u05d1\u05e0\u05d0\u05d9",
-  "num_followers": 34628,
+  "num_followers": 34631,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFw/TggxMd44JlRsKj5jL8bSYk2a",
+  "snapshot_id": "AAAAAEa0oM5e3H3qd+nbltYBPRreVFoC",
   "tracks": [
     {
       "added_at": "2026-10-22 21:00:27",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-10-22 21:00:27",
       "album": {
-        "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
-        "url": "https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0"
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
       },
       "artists": [
         {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
         }
       ],
-      "duration_ms": 256000,
-      "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
-      "url": "https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se"
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2026-10-22 21:00:27",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-10-22 21:00:27",
       "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+        "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0"
       },
       "artists": [
         {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+      "duration_ms": 256000,
+      "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se"
     },
     {
       "added_at": "2026-10-22 21:00:27",
@@ -506,15 +506,11 @@
         {
           "name": "Shae",
           "url": "https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6"
-        },
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
         }
       ],
-      "duration_ms": 235909,
-      "name": "\u05d2\u05f3\u05d9\u05df",
-      "url": "https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es"
+      "duration_ms": 204000,
+      "name": "\u05e0\u05d9\u05d2\u05d5\u05df \u05e2\u05ea\u05d9\u05e7",
+      "url": "https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI"
     },
     {
       "added_at": "2026-10-22 21:00:27",
@@ -606,11 +602,15 @@
         {
           "name": "Shae",
           "url": "https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6"
+        },
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
         }
       ],
-      "duration_ms": 204000,
-      "name": "\u05e0\u05d9\u05d2\u05d5\u05df \u05e2\u05ea\u05d9\u05e7",
-      "url": "https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI"
+      "duration_ms": 235909,
+      "name": "\u05d2\u05f3\u05d9\u05df",
+      "url": "https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es"
     },
     {
       "added_at": "2026-10-22 21:00:27",

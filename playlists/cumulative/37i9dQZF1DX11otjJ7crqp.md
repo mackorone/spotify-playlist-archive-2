@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Chloe Qisha
 
-12,460 songs - 26 day 3 hr 41 min
+12,461 songs - 26 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3944,7 +3944,7 @@
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-17 | 2023-04-01 |
 | [Fuck Up](https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Triple Shooting Star](https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR) | 3:58 | 2025-11-14 | 2025-11-29 |
 | [FUCK UP MY MAKE UP](https://open.spotify.com/track/0MVflYwPIchxoyb2WCaRyF) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [FUCK UP MY MAKE UP](https://open.spotify.com/album/6mNc406rR3OORVgsBmUgwc) | 2:06 | 2023-07-07 | 2023-07-22 |
-| [Fuck Without Feelings](https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Fuck Without Feelings](https://open.spotify.com/album/2krjzTsK934ywr7s3d693H) | 3:28 | 2026-10-02 |  |
+| [Fuck Without Feelings](https://open.spotify.com/track/3OgiN8HuDd4suA01Tbo5Ks) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Fuck Without Feelings](https://open.spotify.com/album/2krjzTsK934ywr7s3d693H) | 3:28 | 2026-10-02 | 2026-10-31 |
 | [Fuck You](https://open.spotify.com/track/4XcJLTSiFcSxymMBAfG2Qe) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Fuck You](https://open.spotify.com/album/6s4fgB4zdqPJN7eheY7j52) | 2:35 | 2025-07-25 | 2025-08-09 |
 | [fuck, marry, kill](https://open.spotify.com/track/6Y5y54rLwNr54ohaVnrouY) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [fuck, marry, kill](https://open.spotify.com/album/7G4MDz3HzywU2oR24VBtHY) | 3:25 | 2025-03-21 | 2025-03-29 |
 | [Fucking Married](https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c) | 3:13 | 2022-10-14 | 2022-10-29 |
@@ -4055,6 +4055,7 @@
 | [Getting Older](https://open.spotify.com/track/49KrmVRV7Ir7EmdlxNA0iN) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Getting Older](https://open.spotify.com/album/1FOR3sV1icIWjgCZ19EfDl) | 4:24 | 2023-01-27 | 2023-02-18 |
 | [getting older](https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [getting older](https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01) | 2:46 | 2022-12-09 | 2023-01-14 |
 | [Getting Over You](https://open.spotify.com/track/22hCW8J2tHYdaBhdDX44HI) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Getting Over You](https://open.spotify.com/album/0JxpmNUNXqfXFDpZgaJ4My) | 2:10 | 2022-07-15 | 2022-07-30 |
+| [GF](https://open.spotify.com/track/0dtFevDp9cX3tI3cttbHCQ) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [GF](https://open.spotify.com/album/2xERYqyH3lXMEQhDWzEUBu) | 3:16 | 2026-10-30 |  |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-05-27 | 2022-06-18 |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-01-27 | 2023-02-18 |
 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 | 2024-08-02 | 2024-08-17 |
@@ -11797,7 +11798,7 @@
 | [What A Bummer!](https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Dull Red](https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq) | 3:33 | 2026-05-15 | 2026-05-30 |
 | [What a Coward](https://open.spotify.com/track/6fBdOTjZA21BCzXWojNqh2) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [What a Coward](https://open.spotify.com/album/1bdEjKMvckaZIebRXEMvOE) | 3:39 | 2023-02-17 | 2023-03-04 |
 | [What A Girl Wants](https://open.spotify.com/track/2t1jIysMVjJmTLsICQtevb) | [Mckayla Twiggs](https://open.spotify.com/artist/6cAwTZhJ1jlCrTlNGKzvAt) | [What A Girl Wants](https://open.spotify.com/album/4GeXTN63azhsPsKF8G4jO5) | 2:29 | 2025-12-19 | 2026-01-15 |
-| [What A Life](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [What A Life](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 | 2026-10-30 |  |
+| [WHAT A LIFE](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WHAT A LIFE](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 | 2026-10-30 |  |
 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 | 2025-09-12 | 2025-09-27 |
 | [WHAT A SHAME](https://open.spotify.com/track/75ZOy5u1dmK6BTatUgjK6T) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [MAYBE ON THE OTHER SIDE](https://open.spotify.com/album/3Ov0WxCYEjm9BZpB19tZ6E) | 2:53 | 2026-08-07 | 2026-08-22 |
 | [What A Waste](https://open.spotify.com/track/51PlFhgkrZ4JKJzd1iz0aE) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [What A Waste](https://open.spotify.com/album/0bXYmiK8ZbpqPmXAbj7lmO) | 2:39 | 2025-05-30 | 2025-06-07 |

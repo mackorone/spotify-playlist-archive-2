@@ -1,6 +1,6 @@
 {
   "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Aubree Archibeck of Bethel Music & Martin Smith",
-  "num_followers": 1623468,
+  "num_followers": 1623560,
   "original_name": "WorshipNow",
   "owner": {
     "name": "Spotify",
@@ -748,12 +748,12 @@
       },
       "artists": [
         {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        },
-        {
           "name": "The River Worship",
           "url": "https://open.spotify.com/artist/5FmxD8Ox8Fr0wd01yEsca0"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
       "duration_ms": 263096,

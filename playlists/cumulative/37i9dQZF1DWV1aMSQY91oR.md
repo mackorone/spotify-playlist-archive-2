@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest in hip\-hop, refreshed weekly\. Cover: City Fidelia, Malik Yusef, VIC MENSA
+> We'll be back next week with the latest in hip\-hop\. Cover: City Fidelia, Malik Yusef, VIC MENSA
 
 5,621 songs - 11 day 2 hr 19 min
 

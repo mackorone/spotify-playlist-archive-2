@@ -6439,6 +6439,24 @@
     },
     {
       "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "African Baddie",
+      "url": "https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG"
+    },
+    {
+      "album": {
         "name": "Cobra Queen",
         "url": "https://open.spotify.com/album/1LMAktT0V8jfUufB1uPPsS"
       },
@@ -68271,7 +68289,7 @@
         },
         {
           "name": "Sleazy",
-          "url": "https://open.spotify.com/artist/3RUkVCv0E5vkTbR2g4NmEz"
+          "url": "https://open.spotify.com/artist/6PzSfB1y18O3Bmnq5jhPS9"
         },
         {
           "name": "Optimist Music ZA",
@@ -91575,7 +91593,7 @@
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169647,
+      "duration_ms": 170582,
       "name": "Here You Come, There You Go",
       "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
     },
@@ -101628,6 +101646,28 @@
       "duration_ms": 204114,
       "name": "I'm Breaking Out",
       "url": "https://open.spotify.com/track/315fIyRNyp398DyhtTjGf2"
+    },
+    {
+      "album": {
+        "name": "Outsiders III",
+        "url": "https://open.spotify.com/album/0pPVLtSZUaygaorpYB5pU9"
+      },
+      "artists": [
+        {
+          "name": "Kudbeu",
+          "url": "https://open.spotify.com/artist/2HbUBaeQKxeIjd0sOfHyFX"
+        },
+        {
+          "name": "Aizo Clutch",
+          "url": "https://open.spotify.com/artist/52prduwoZJCA7ql3zPG6Bl"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365128,
+      "name": "I'm Easy",
+      "url": "https://open.spotify.com/track/2GdnaZLJLUlWDBzrbBoqMM"
     },
     {
       "album": {
@@ -144408,6 +144448,24 @@
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
+    },
+    {
+      "album": {
+        "name": "Make Me Believe",
+        "url": "https://open.spotify.com/album/3HZr1ltoGVr0Pb7ebclPsi"
+      },
+      "artists": [
+        {
+          "name": "RICKY",
+          "url": "https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180527,
+      "name": "Make Me Believe",
+      "url": "https://open.spotify.com/track/2BLc8yO5Rf6233hFynzg3y"
     },
     {
       "album": {
@@ -206313,7 +206371,7 @@
     },
     {
       "album": {
-        "name": "Selina ft J-Smash",
+        "name": "Selina",
         "url": "https://open.spotify.com/album/4S4GvNaHS9xaR1Nyf19qzP"
       },
       "artists": [
@@ -206330,7 +206388,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215276,
-      "name": "Selina ft J-Smash",
+      "name": "Selina",
       "url": "https://open.spotify.com/track/0usHTeqxcbSgD7EUTc6wHN"
     },
     {

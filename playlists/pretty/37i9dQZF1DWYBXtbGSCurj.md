@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Oreozin, Meno Tody
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,949 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,014 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [BABALOO](https://open.spotify.com/track/7vH34U5acovjMdticBQIvW) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [SONHOS SÃO À PROVA DE BALAS](https://open.spotify.com/album/0Asyf4TuJh7JnlqdxpeE8J) | 3:00 |
 | 75 | [CAÇA DO TESOURO](https://open.spotify.com/track/39ndb5aaoDJh5opNildstN) | [THE BOX](https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw), [MC Fr da Norte](https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj), [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ouroempessoa](https://open.spotify.com/artist/7tdbteHDBsaDH29OAQvMBb), [Rucinni](https://open.spotify.com/artist/7JGJNUGGZl51b98oCJErGj), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [PLATA O PLOMO](https://open.spotify.com/album/04YE4SzQn55927shW5TDjA) | 2:38 |
 
-Snapshot ID: `AAAAAPaQZBaV9oi7TUzQgHo+Ky7oJuDL`
+Snapshot ID: `AAAAAETp7kozBAo8s8dLubsp5vhSV18E`

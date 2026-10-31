@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16780,
+  "num_followers": 16783,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAAgcqEY8be126+wdFILHntV",
+  "snapshot_id": "auE7AAAAAAAqwdXAbQShZ19wPJJ3K0UO",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 171773,
-      "name": "We Are The Lamb",
-      "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
+      "duration_ms": 131853,
+      "name": "I've Failed You",
+      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 131853,
-      "name": "I've Failed You",
-      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
+      "duration_ms": 171773,
+      "name": "We Are The Lamb",
+      "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
+      "duration_ms": 270653,
+      "name": "Time Never Heals",
+      "url": "https://open.spotify.com/track/012vdVPwJ2GtBaEHIXAPWH"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 270653,
-      "name": "Time Never Heals",
-      "url": "https://open.spotify.com/track/012vdVPwJ2GtBaEHIXAPWH"
+      "duration_ms": 177000,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
     }
   ],
   "unique_name": "This Is Kittie",

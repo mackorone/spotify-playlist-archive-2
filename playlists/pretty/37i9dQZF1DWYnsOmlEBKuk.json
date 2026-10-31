@@ -1,6 +1,6 @@
 {
   "description": "Ruido blanco para ayudar a los beb\u00e9s a dormir.",
-  "num_followers": 204363,
+  "num_followers": 204485,
   "original_name": "Ruido Blanco para Beb\u00e9s",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise For The Soul",
-        "url": "https://open.spotify.com/album/4yVinqdZMK73D1DnRbRam9"
+        "name": "Sphere of White Noise",
+        "url": "https://open.spotify.com/album/2wkcsYwf8lbKal2eA0hd6j"
       },
       "artists": [
         {
-          "name": "Ambient Traumspiel",
-          "url": "https://open.spotify.com/artist/7ux6kNQXzqPcstyKGrslUN"
+          "name": "Spheres of Air",
+          "url": "https://open.spotify.com/artist/4ocFgSJFk2gM8GdSkAo3jv"
         }
       ],
-      "duration_ms": 165000,
-      "name": "White Noise For The Soul",
-      "url": "https://open.spotify.com/track/1TruTiwd2MoXRkMwsX14XI"
+      "duration_ms": 146000,
+      "name": "Sphere of White Noise",
+      "url": "https://open.spotify.com/track/7li9YpEf6UHef3eLNQCmDZ"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Sphere of White Noise",
-        "url": "https://open.spotify.com/album/2wkcsYwf8lbKal2eA0hd6j"
+        "name": "White Noise For The Soul",
+        "url": "https://open.spotify.com/album/4yVinqdZMK73D1DnRbRam9"
       },
       "artists": [
         {
-          "name": "Spheres of Air",
-          "url": "https://open.spotify.com/artist/4ocFgSJFk2gM8GdSkAo3jv"
+          "name": "Ambient Traumspiel",
+          "url": "https://open.spotify.com/artist/7ux6kNQXzqPcstyKGrslUN"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Sphere of White Noise",
-      "url": "https://open.spotify.com/track/7li9YpEf6UHef3eLNQCmDZ"
+      "duration_ms": 165000,
+      "name": "White Noise For The Soul",
+      "url": "https://open.spotify.com/track/1TruTiwd2MoXRkMwsX14XI"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Cloud Dreamscape",
-        "url": "https://open.spotify.com/album/16jIj4vPU3lKtKHzL5Gi9F"
+        "name": "White Noise Trace",
+        "url": "https://open.spotify.com/album/3lghFmCHZt7CPEUp5dx7gS"
       },
       "artists": [
         {
-          "name": "Sleeping Parachuter",
-          "url": "https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq"
+          "name": "Bruits Abstraits",
+          "url": "https://open.spotify.com/artist/5XuNycZQddvgkuH8Jh7V7C"
         }
       ],
-      "duration_ms": 184636,
-      "name": "White Cloud Dreamscape",
-      "url": "https://open.spotify.com/track/0NNcVrT5UMYukfgMhP41UU"
+      "duration_ms": 161000,
+      "name": "Bruits Abstraits",
+      "url": "https://open.spotify.com/track/7cadBE0k9GVZMyu9YGq5Wn"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Calm Sleep (Noise)",
-        "url": "https://open.spotify.com/album/7FtankGXHvGLTAfWz5zDpc"
-      },
-      "artists": [
-        {
-          "name": "NatuREM",
-          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Wide Skies (Noise)",
-      "url": "https://open.spotify.com/track/2t59Nh57fvHOwfiV7aZwTn"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Noise Veil",
         "url": "https://open.spotify.com/album/51byy40EH3iBASJxFnjNdZ"
       },
@@ -699,18 +683,34 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise Trace",
-        "url": "https://open.spotify.com/album/3lghFmCHZt7CPEUp5dx7gS"
+        "name": "White Cloud Dreamscape",
+        "url": "https://open.spotify.com/album/16jIj4vPU3lKtKHzL5Gi9F"
       },
       "artists": [
         {
-          "name": "Bruits Abstraits",
-          "url": "https://open.spotify.com/artist/5XuNycZQddvgkuH8Jh7V7C"
+          "name": "Sleeping Parachuter",
+          "url": "https://open.spotify.com/artist/00NdWBjv7CpdfDBXUfg5qq"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Bruits Abstraits",
-      "url": "https://open.spotify.com/track/7cadBE0k9GVZMyu9YGq5Wn"
+      "duration_ms": 184636,
+      "name": "White Cloud Dreamscape",
+      "url": "https://open.spotify.com/track/0NNcVrT5UMYukfgMhP41UU"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Calm Sleep (Noise)",
+        "url": "https://open.spotify.com/album/7FtankGXHvGLTAfWz5zDpc"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Wide Skies (Noise)",
+      "url": "https://open.spotify.com/track/2t59Nh57fvHOwfiV7aZwTn"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Quiet White Noise Morning",
-        "url": "https://open.spotify.com/album/19vHWDrb4u1ov80PM4e7cT"
-      },
-      "artists": [
-        {
-          "name": "wellnoise",
-          "url": "https://open.spotify.com/artist/1aGR04vEOI0YooPS02lR6I"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Quiet White Noise Morning",
-      "url": "https://open.spotify.com/track/7CFmfaN5uMEtTRcelBbB0b"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Noise Sleep",
         "url": "https://open.spotify.com/album/6Sh8wGLvcJKy6ydUx1gcub"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 147491,
       "name": "White Noise Sleep",
       "url": "https://open.spotify.com/track/7HUWop5lXtuoPZqNk0m0mX"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Quiet White Noise Morning",
+        "url": "https://open.spotify.com/album/19vHWDrb4u1ov80PM4e7cT"
+      },
+      "artists": [
+        {
+          "name": "wellnoise",
+          "url": "https://open.spotify.com/artist/1aGR04vEOI0YooPS02lR6I"
+        }
+      ],
+      "duration_ms": 220540,
+      "name": "Quiet White Noise Morning",
+      "url": "https://open.spotify.com/track/7CFmfaN5uMEtTRcelBbB0b"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise Sleeping Pill",
-        "url": "https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ"
-      },
-      "artists": [
-        {
-          "name": "Atmosphere of Calm",
-          "url": "https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09"
-        }
-      ],
-      "duration_ms": 254907,
-      "name": "White Noise Sleeping Pill",
-      "url": "https://open.spotify.com/track/37EoUoGfIfSEprR0UboDNp"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "White Noise Healing Energies",
         "url": "https://open.spotify.com/album/3m9IYueKuKljNp9NvqQWs2"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 275632,
       "name": "White Noise Healing Energies",
       "url": "https://open.spotify.com/track/6N5IDVq97uM3g54wipzint"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "White Noise Sleeping Pill",
+        "url": "https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ"
+      },
+      "artists": [
+        {
+          "name": "Atmosphere of Calm",
+          "url": "https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09"
+        }
+      ],
+      "duration_ms": 254907,
+      "name": "White Noise Sleeping Pill",
+      "url": "https://open.spotify.com/track/37EoUoGfIfSEprR0UboDNp"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "White Noise Flakes",
-        "url": "https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p"
-      },
-      "artists": [
-        {
-          "name": "The White Noise Travelers",
-          "url": "https://open.spotify.com/artist/5UwPTMbhjImSJov9c1wraJ"
-        }
-      ],
-      "duration_ms": 273500,
-      "name": "Calming White Noise Generator",
-      "url": "https://open.spotify.com/track/4aDDlJRc1WbIlFqhc4aMgx"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "Distant White Horizon",
         "url": "https://open.spotify.com/album/663GO7YGxykTSXBpqcTu3H"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 198545,
       "name": "Distant White Horizon",
       "url": "https://open.spotify.com/track/3FjYuLKdaeCc2kqVBeQR4z"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "White Noise Flakes",
+        "url": "https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p"
+      },
+      "artists": [
+        {
+          "name": "The White Noise Travelers",
+          "url": "https://open.spotify.com/artist/5UwPTMbhjImSJov9c1wraJ"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "Calming White Noise Generator",
+      "url": "https://open.spotify.com/track/4aDDlJRc1WbIlFqhc4aMgx"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Ondas de Sonido Blancas",
-        "url": "https://open.spotify.com/album/763mIagaLoDTcpWcVwmgSR"
-      },
-      "artists": [
-        {
-          "name": "Ardeon",
-          "url": "https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Sonido Sonora",
-      "url": "https://open.spotify.com/track/2XW35SHWNOv15kYLwbeCcn"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "I Can Focus On Noise",
         "url": "https://open.spotify.com/album/2qYTV8zfUmW2t7XIl3eoh3"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 120730,
       "name": "I Can Focus On Noise",
       "url": "https://open.spotify.com/track/3ugZnVvlP1kjNvluSLlGLy"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Ondas de Sonido Blancas",
+        "url": "https://open.spotify.com/album/763mIagaLoDTcpWcVwmgSR"
+      },
+      "artists": [
+        {
+          "name": "Ardeon",
+          "url": "https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Sonido Sonora",
+      "url": "https://open.spotify.com/track/2XW35SHWNOv15kYLwbeCcn"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "The best Sleep Noise",
-        "url": "https://open.spotify.com/album/2YX5LALBMTwcmbT0U0tU4I"
-      },
-      "artists": [
-        {
-          "name": "Wavelab",
-          "url": "https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21"
-        }
-      ],
-      "duration_ms": 274341,
-      "name": "The best Sleep Noise",
-      "url": "https://open.spotify.com/track/6cNCm1mNVc81UwLQc3Ze03"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "The White Noise of the Sky",
         "url": "https://open.spotify.com/album/3i814d5JVh4964jVr47iph"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 121858,
       "name": "White Noise and the Snow",
       "url": "https://open.spotify.com/track/1jhbb8XmxDL5SsngpUx2fq"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "The best Sleep Noise",
+        "url": "https://open.spotify.com/album/2YX5LALBMTwcmbT0U0tU4I"
+      },
+      "artists": [
+        {
+          "name": "Wavelab",
+          "url": "https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21"
+        }
+      ],
+      "duration_ms": 274341,
+      "name": "The best Sleep Noise",
+      "url": "https://open.spotify.com/track/6cNCm1mNVc81UwLQc3Ze03"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -2100,9 +2100,9 @@
           "url": "https://open.spotify.com/artist/6j4XeEBTfgrUEfjZR7ygAD"
         }
       ],
-      "duration_ms": 139691,
-      "name": "White Noise in the Distance",
-      "url": "https://open.spotify.com/track/3PdfDCIdYkjvm9tIxIEleN"
+      "duration_ms": 135233,
+      "name": "The White Noise of the Waves",
+      "url": "https://open.spotify.com/track/6cjaNyCJ5EanutZrA6IZtg"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -2180,9 +2180,9 @@
           "url": "https://open.spotify.com/artist/6j4XeEBTfgrUEfjZR7ygAD"
         }
       ],
-      "duration_ms": 135233,
-      "name": "The White Noise of the Waves",
-      "url": "https://open.spotify.com/track/6cjaNyCJ5EanutZrA6IZtg"
+      "duration_ms": 139691,
+      "name": "White Noise in the Distance",
+      "url": "https://open.spotify.com/track/3PdfDCIdYkjvm9tIxIEleN"
     },
     {
       "added_at": "2026-03-24 16:45:11",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2026-03-24 16:45:11",
       "album": {
-        "name": "Relaxed State of Mind",
-        "url": "https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ"
-      },
-      "artists": [
-        {
-          "name": "Zaestro",
-          "url": "https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "White Noise in the Clouds",
-      "url": "https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6"
-    },
-    {
-      "added_at": "2026-03-24 16:45:11",
-      "album": {
         "name": "Dreaming under Water",
         "url": "https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 172129,
       "name": "White Noise Ambience",
       "url": "https://open.spotify.com/track/2uzB21fohLT12TfjlRoMOz"
+    },
+    {
+      "added_at": "2026-03-24 16:45:11",
+      "album": {
+        "name": "Relaxed State of Mind",
+        "url": "https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ"
+      },
+      "artists": [
+        {
+          "name": "Zaestro",
+          "url": "https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "White Noise in the Clouds",
+      "url": "https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6"
     },
     {
       "added_at": "2026-03-24 16:45:11",

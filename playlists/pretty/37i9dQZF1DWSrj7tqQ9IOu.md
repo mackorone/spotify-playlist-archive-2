@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,231 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,250 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 9 | [Love Triangle](https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Love Triangle](https://open.spotify.com/album/2pMOWlF8r0xfUkrloQEO49) | 3:44 |
 | 10 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
 | 11 | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/track/67DiJbDsk3s5qWtsszq5jM) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [PA' TOUCH \- A COLORS SHOW](https://open.spotify.com/album/4QVtj3Qj0WpwwgmF00r1cu) | 2:52 |
-| 12 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
-| 13 | [Zoblazo](https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Zoblazo](https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY) | 2:40 |
+| 12 | [Zoblazo](https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Zoblazo](https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY) | 2:40 |
+| 13 | [Versailles](https://open.spotify.com/track/4rMGpY2xBikSUKgqQcKjmN) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Day and Night](https://open.spotify.com/album/1XWFzAYlF1ihMFPU4a9YQg) | 3:14 |
 | 14 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
 | 15 | [Air](https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [SOARR](https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl) | [Air / Lemonder / Viper](https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q) | 4:22 |
 | 16 | [Ta peau](https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu) | [Anouk](https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS) | [Ta peau](https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K) | 3:07 |

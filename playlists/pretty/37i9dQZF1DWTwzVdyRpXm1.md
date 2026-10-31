@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Hasan Raheem, Izzchughtai, Umair
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,238 likes - 95 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,306 likes - 95 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

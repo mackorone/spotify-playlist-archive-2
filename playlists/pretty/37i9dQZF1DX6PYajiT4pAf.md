@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Metrika, Álvaro de Luna, Love of Lesbian, Belén Aguilera, Samuraï con Juanes  y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,246 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,789 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

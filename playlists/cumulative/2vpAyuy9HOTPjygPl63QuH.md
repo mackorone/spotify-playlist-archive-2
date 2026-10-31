@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,528 songs - 5 day 22 hr 4 min
+2,531 songs - 5 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Count On You](https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Count On You](https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH) | 2:45 | 2025-04-11 | 2025-05-10 |
 | [Cover Me](https://open.spotify.com/track/2SrZSj3el4ft8ZmZuBaFxz) | [Giuseppe Raimondi](https://open.spotify.com/artist/6qeL483pMXYT2NyjLgAx7I) | [Trick Presents Lethal Bangers Vol\. 1](https://open.spotify.com/album/37dOkKKFnbHAanbhzcmwaJ) | 4:59 | 2023-04-14 | 2023-04-22 |
 | [Crank](https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Crank](https://open.spotify.com/album/2LP73ifQTZ6b7B8XTGQlLD) | 2:58 | 2022-09-17 | 2022-09-24 |
+| [Crank That](https://open.spotify.com/track/6XQqMSx46CLu23i0S97pix) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Crank That](https://open.spotify.com/album/0YwsxngSCT4Dx60KIa4Ph4) | 2:33 | 2026-10-30 |  |
 | [Crayzee](https://open.spotify.com/track/66CUbKAyBWX7KBjqEsG6q3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Crayzee](https://open.spotify.com/album/4khifJrNoldvxOE1CLWJdM) | 2:53 | 2022-07-29 | 2022-08-06 |
 | [Crazy](https://open.spotify.com/track/1Clf1jcstC9QdyMGMWyv39) | [Belcastro](https://open.spotify.com/artist/4UoXHqJLN1lxSuKWR7KgpJ), [Chas](https://open.spotify.com/artist/6brdpm7YpDIYClNlVA2EfJ) | [Crazy](https://open.spotify.com/album/4qurnhN5d0EuxeGQVooXW6) | 3:58 | 2023-02-10 | 2023-02-18 |
 | [Crazy Chick \- Streaming Edit](https://open.spotify.com/track/71JiCVGRe4bP6N3acNnnxh) | [Sergiodnine](https://open.spotify.com/artist/42w8AmEl8uyrHJIvzoXg5q) | [Crazy Chick](https://open.spotify.com/album/1PC1WmMKCx3NxW79pCujtR) | 2:32 | 2024-06-19 | 2024-06-22 |
@@ -1987,6 +1988,7 @@
 | [So Deep](https://open.spotify.com/track/7vaLOu63uCBn1Rj3buCNJs) | [Wilder \(ITA\)](https://open.spotify.com/artist/3K3Svv7PzPEkx29PHPVwhP) | [So Deep](https://open.spotify.com/album/6yN3CjldTpdxruxtLg0sDa) | 5:44 | 2024-09-12 | 2024-10-13 |
 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 | 2024-07-26 | 2024-08-31 |
 | [So Done](https://open.spotify.com/track/0mCE8jx5bRIF3pg9D2are3) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [So Done](https://open.spotify.com/album/6qXB7L2TBwUp0A10uL5znx) | 3:52 | 2022-07-15 | 2022-07-17 |
+| [So Fly](https://open.spotify.com/track/2kz3b2IU9nreVGl0GPFlEq) | [Baylee Brown](https://open.spotify.com/artist/44MHqv2hw9feK14hUxD6Pe) | [So Fly EP](https://open.spotify.com/album/5F91iaeCzGvUfhXLQ2KgEb) | 3:50 | 2026-10-30 |  |
 | [So Good](https://open.spotify.com/track/111f87qSJCQ7tYZP1zHlkQ) | [Jeff Service](https://open.spotify.com/artist/4H3t1JPHocqaca99qRD19L) | [So Good](https://open.spotify.com/album/3NUsX6WT9Ct43QjHpdjr1Z) | 2:41 | 2022-06-24 | 2022-07-02 |
 | [So Many Things](https://open.spotify.com/track/7GFmcdwDWWyCHWlJCpITbt) | [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [So Many Things](https://open.spotify.com/album/4Q94mDdckL71bS0wBrGyMX) | 3:00 | 2023-11-17 | 2023-11-28 |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-21 | 2023-04-29 |
@@ -2133,6 +2135,7 @@
 | [Telephone Ringin'](https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Telephone Ringin'](https://open.spotify.com/album/3UwV194TvGEHaEt5ySu5ML) | 3:33 | 2025-05-02 | 2025-05-31 |
 | [Tell Me](https://open.spotify.com/track/7wcBjem7yS10mCTL7Tf14k) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Tell Me](https://open.spotify.com/album/2Ij05JnZx2T3CaWMWhPuLS) | 3:30 | 2025-02-28 | 2025-04-05 |
 | [Tell That Boy](https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Tell That Boy](https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R) | 3:34 | 2023-10-13 | 2023-10-28 |
+| [Tell You Why](https://open.spotify.com/track/00yg4F2H3joRtA2ptT3fwI) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [VLAD](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Tell You Why](https://open.spotify.com/album/3QA9mQkH5gjHjEe0XKx2cq) | 2:33 | 2026-10-30 |  |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-28 | 2023-05-06 |
 | [Tembleque](https://open.spotify.com/track/15t3R0uJ8ZCBv75FGmTDoq) | [Close Friends Only](https://open.spotify.com/artist/12TskTYVyjY7GU8v6niFoz) | [Tembleque](https://open.spotify.com/album/5TE3PWvyhLHhjutfdyUOCs) | 2:45 | 2026-03-20 | 2026-09-14 |
 | [Temperature](https://open.spotify.com/track/5wrbv0M46yx1gcC4t8QQBL) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Temperature](https://open.spotify.com/album/28olOVuLQDVY7XLH6W4USG) | 3:27 | 2022-10-28 | 2022-11-06 |

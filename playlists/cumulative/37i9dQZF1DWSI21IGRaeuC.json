@@ -7902,7 +7902,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 193749,
       "name": "Friction",
       "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
@@ -18856,6 +18856,24 @@
       "duration_ms": 214895,
       "name": "Schwer",
       "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+    },
+    {
+      "album": {
+        "name": "Scope / Backseat",
+        "url": "https://open.spotify.com/album/7h77uhxf7JBzvpMqdcTPLn"
+      },
+      "artists": [
+        {
+          "name": "BAGGI",
+          "url": "https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Scope",
+      "url": "https://open.spotify.com/track/3oOzvKiZlHD47XFpD5PUXb"
     },
     {
       "album": {

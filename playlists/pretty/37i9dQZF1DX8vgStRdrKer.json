@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  Mercy Chinwo",
-  "num_followers": 21177,
+  "num_followers": 21182,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -209,6 +209,42 @@
       "url": "https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST"
     },
     {
+      "added_at": "2026-10-23 00:01:23",
+      "album": {
+        "name": "Glorified",
+        "url": "https://open.spotify.com/album/50NJLke2qbJYVvsaYjhTn6"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "duration_ms": 1125880,
+      "name": "Glorified",
+      "url": "https://open.spotify.com/track/2CvLzpnCmSngJLwNzlcS6S"
+    },
+    {
+      "added_at": "2025-12-12 00:01:23",
+      "album": {
+        "name": "Done It Again",
+        "url": "https://open.spotify.com/album/00VbqNN4JPpyNqOXK9iVh4"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        }
+      ],
+      "duration_ms": 372869,
+      "name": "Done It Again",
+      "url": "https://open.spotify.com/track/5iqZcZQlGVnyu7lCaYrFyB"
+    },
+    {
       "added_at": "2026-01-30 00:01:25",
       "album": {
         "name": "God, In all Seasons",
@@ -229,22 +265,6 @@
       "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
     },
     {
-      "added_at": "2025-12-12 00:01:23",
-      "album": {
-        "name": "Done It Again",
-        "url": "https://open.spotify.com/album/00VbqNN4JPpyNqOXK9iVh4"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        }
-      ],
-      "duration_ms": 372869,
-      "name": "Done It Again",
-      "url": "https://open.spotify.com/track/5iqZcZQlGVnyu7lCaYrFyB"
-    },
-    {
       "added_at": "2025-10-10 00:01:09",
       "album": {
         "name": "Anointed",
@@ -263,26 +283,6 @@
       "duration_ms": 426655,
       "name": "Anointed",
       "url": "https://open.spotify.com/track/0DOc9cCC5j07CXIAC02onH"
-    },
-    {
-      "added_at": "2026-10-23 00:01:23",
-      "album": {
-        "name": "Glorified",
-        "url": "https://open.spotify.com/album/50NJLke2qbJYVvsaYjhTn6"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        },
-        {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
-        }
-      ],
-      "duration_ms": 1125880,
-      "name": "Glorified",
-      "url": "https://open.spotify.com/track/2CvLzpnCmSngJLwNzlcS6S"
     },
     {
       "added_at": "2026-02-27 00:01:21",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
     },
     {
+      "added_at": "2026-01-30 00:01:25",
+      "album": {
+        "name": "Sound of Many Waters",
+        "url": "https://open.spotify.com/album/30GBt9ojOzWlkNOG9PGDXd"
+      },
+      "artists": [
+        {
+          "name": "Faith Captain",
+          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
+        }
+      ],
+      "duration_ms": 662101,
+      "name": "Oshimiriatata",
+      "url": "https://open.spotify.com/track/3d9kRH83SVWiCr0aQEgUGf"
+    },
+    {
       "added_at": "2025-10-17 00:01:27",
       "album": {
         "name": "Adoration",
@@ -327,22 +343,6 @@
       "duration_ms": 155667,
       "name": "Adoration",
       "url": "https://open.spotify.com/track/47odPUY0DR9vwPK6wkWGfu"
-    },
-    {
-      "added_at": "2026-01-30 00:01:25",
-      "album": {
-        "name": "Sound of Many Waters",
-        "url": "https://open.spotify.com/album/30GBt9ojOzWlkNOG9PGDXd"
-      },
-      "artists": [
-        {
-          "name": "Faith Captain",
-          "url": "https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK"
-        }
-      ],
-      "duration_ms": 662101,
-      "name": "Oshimiriatata",
-      "url": "https://open.spotify.com/track/3d9kRH83SVWiCr0aQEgUGf"
     },
     {
       "added_at": "2026-07-17 00:01:16",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/6h3SIM1JXtfeMqLoFzjk7R"
     },
     {
+      "added_at": "2026-07-24 00:01:58",
+      "album": {
+        "name": "I Know A God",
+        "url": "https://open.spotify.com/album/61fQxNA5nP4PPxjzBWGzdA"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "duration_ms": 177551,
+      "name": "I Know A God",
+      "url": "https://open.spotify.com/track/4nQbDeYVl8Vb04PQhSxZpk"
+    },
+    {
       "added_at": "2026-07-31 00:01:32",
       "album": {
         "name": "This Joy",
@@ -621,22 +637,6 @@
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
-      "added_at": "2026-07-24 00:01:58",
-      "album": {
-        "name": "I Know A God",
-        "url": "https://open.spotify.com/album/61fQxNA5nP4PPxjzBWGzdA"
-      },
-      "artists": [
-        {
-          "name": "I-fee Sound",
-          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
-        }
-      ],
-      "duration_ms": 177551,
-      "name": "I Know A God",
-      "url": "https://open.spotify.com/track/4nQbDeYVl8Vb04PQhSxZpk"
-    },
-    {
       "added_at": "2026-07-10 00:01:17",
       "album": {
         "name": "Can't Live Without You",
@@ -651,6 +651,22 @@
       "duration_ms": 255452,
       "name": "Can't Live Without You",
       "url": "https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3"
+    },
+    {
+      "added_at": "2026-10-23 00:01:23",
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/7jWaMT1wNb48NPNR8eFFOt"
+      },
+      "artists": [
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "duration_ms": 1024226,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/1CbqiEyptcXH4B6otHzdwo"
     },
     {
       "added_at": "2026-10-16 00:01:29",
@@ -683,22 +699,6 @@
       "duration_ms": 189557,
       "name": "Want to Grow",
       "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
-    },
-    {
-      "added_at": "2026-10-23 00:01:23",
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/7jWaMT1wNb48NPNR8eFFOt"
-      },
-      "artists": [
-        {
-          "name": "Oncemore Six",
-          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
-        }
-      ],
-      "duration_ms": 1024226,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/1CbqiEyptcXH4B6otHzdwo"
     },
     {
       "added_at": "2026-09-25 00:01:24",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD"
     },
     {
-      "added_at": "2026-07-17 00:01:16",
-      "album": {
-        "name": "Nothing Without Him",
-        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
-      },
-      "artists": [
-        {
-          "name": "Remnant House",
-          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
-        }
-      ],
-      "duration_ms": 176565,
-      "name": "Nothing Without Him",
-      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
-    },
-    {
       "added_at": "2025-05-02 00:01:25",
       "album": {
         "name": "Pentecost",
@@ -859,6 +843,22 @@
       "duration_ms": 683500,
       "name": "Pentecost",
       "url": "https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL"
+    },
+    {
+      "added_at": "2026-07-17 00:01:16",
+      "album": {
+        "name": "Nothing Without Him",
+        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
+      },
+      "artists": [
+        {
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        }
+      ],
+      "duration_ms": 176565,
+      "name": "Nothing Without Him",
+      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
       "added_at": "2025-08-08 00:01:24",
@@ -895,6 +895,26 @@
       "duration_ms": 308636,
       "name": "We Need Your Mercy",
       "url": "https://open.spotify.com/track/0QWo72wWFYr189PTEDJnrp"
+    },
+    {
+      "added_at": "2026-10-16 00:01:29",
+      "album": {
+        "name": "Righteous One",
+        "url": "https://open.spotify.com/album/2cWbIMnEVzMfzlz6M8a1Jv"
+      },
+      "artists": [
+        {
+          "name": "Victoria Asi",
+          "url": "https://open.spotify.com/artist/2sVPdxLNh2OmgkiNih3LeB"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 317250,
+      "name": "Righteous One",
+      "url": "https://open.spotify.com/track/0Mhpqg33CpDyzCkhZjSNC8"
     },
     {
       "added_at": "2026-05-22 00:01:32",
@@ -953,26 +973,6 @@
       "url": "https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl"
     },
     {
-      "added_at": "2026-10-16 00:01:29",
-      "album": {
-        "name": "Righteous One",
-        "url": "https://open.spotify.com/album/2cWbIMnEVzMfzlz6M8a1Jv"
-      },
-      "artists": [
-        {
-          "name": "Victoria Asi",
-          "url": "https://open.spotify.com/artist/2sVPdxLNh2OmgkiNih3LeB"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 317250,
-      "name": "Righteous One",
-      "url": "https://open.spotify.com/track/0Mhpqg33CpDyzCkhZjSNC8"
-    },
-    {
       "added_at": "2026-09-18 00:01:37",
       "album": {
         "name": "ALPHA and OMEGA (Revelation 1:8)",
@@ -1029,6 +1029,54 @@
       "url": "https://open.spotify.com/track/47bC07IzXb7zjM5d2T8VYZ"
     },
     {
+      "added_at": "2025-08-15 00:01:31",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/4t0XROk7L1wPmWdjSX0LrP"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/393nJe8YyZXrx7uJDmlGT5"
+    },
+    {
+      "added_at": "2026-05-29 00:01:37",
+      "album": {
+        "name": "Okaka (The Mighty One)",
+        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 498267,
+      "name": "Okaka (The Mighty One)",
+      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
+    },
+    {
+      "added_at": "2026-09-18 00:01:37",
+      "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 450960,
+      "name": "Lifted High",
+      "url": "https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB"
+    },
+    {
       "added_at": "2026-08-14 00:01:30",
       "album": {
         "name": "Speak Lord",
@@ -1051,54 +1099,6 @@
       "duration_ms": 230823,
       "name": "Speak Lord",
       "url": "https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD"
-    },
-    {
-      "added_at": "2026-05-29 00:01:37",
-      "album": {
-        "name": "Okaka (The Mighty One)",
-        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 498267,
-      "name": "Okaka (The Mighty One)",
-      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
-    },
-    {
-      "added_at": "2025-08-15 00:01:31",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/4t0XROk7L1wPmWdjSX0LrP"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/393nJe8YyZXrx7uJDmlGT5"
-    },
-    {
-      "added_at": "2026-09-18 00:01:37",
-      "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 450960,
-      "name": "Lifted High",
-      "url": "https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB"
     },
     {
       "added_at": "2025-06-20 00:01:13",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/7atCNNuitn4dC0FVAcScRS"
     },
     {
-      "added_at": "2026-10-02 00:01:23",
-      "album": {
-        "name": "Hollow of Your Hands",
-        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
-      },
-      "artists": [
-        {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Hollow of Your Hands",
-      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
-    },
-    {
       "added_at": "2026-06-12 00:01:21",
       "album": {
         "name": "Say So",
@@ -1167,6 +1151,22 @@
       "duration_ms": 414437,
       "name": "Say So",
       "url": "https://open.spotify.com/track/7wD9rUT1Bxlt73DoZBlKb6"
+    },
+    {
+      "added_at": "2026-10-02 00:01:23",
+      "album": {
+        "name": "Hollow of Your Hands",
+        "url": "https://open.spotify.com/album/1WxjNXWW9tcct8k9Z07GIK"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Hollow of Your Hands",
+      "url": "https://open.spotify.com/track/0qNXioiAXhoRi5IuCBSRGN"
     },
     {
       "added_at": "2025-06-06 00:01:27",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/0avSfabWivCociv7l1vKRM"
     },
     {
-      "added_at": "2025-08-29 00:01:15",
-      "album": {
-        "name": "Joy Chant",
-        "url": "https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN"
-      },
-      "artists": [
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 531724,
-      "name": "Joy Chant",
-      "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
-    },
-    {
       "added_at": "2026-02-27 00:01:21",
       "album": {
         "name": "Beautiful Exchange",
@@ -1219,6 +1203,22 @@
       "duration_ms": 262325,
       "name": "Beautiful Exchange",
       "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
+    },
+    {
+      "added_at": "2025-08-29 00:01:15",
+      "album": {
+        "name": "Joy Chant",
+        "url": "https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN"
+      },
+      "artists": [
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 531724,
+      "name": "Joy Chant",
+      "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
     },
     {
       "added_at": "2026-08-21 00:01:33",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/2bCgY5Cud7djpC0mATonOi"
     },
     {
-      "added_at": "2026-10-02 00:01:23",
-      "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/01RkSrTKnYuFjcm6Kla4qP"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 475546,
-      "name": "Attributes",
-      "url": "https://open.spotify.com/track/1dSWQxV3zravd96vFAbcPp"
-    },
-    {
       "added_at": "2025-08-29 00:01:15",
       "album": {
         "name": "WORTHY",
@@ -1311,6 +1295,22 @@
       "duration_ms": 236000,
       "name": "WORTHY",
       "url": "https://open.spotify.com/track/01VqTmMt86wGlRVjvrhZ23"
+    },
+    {
+      "added_at": "2026-10-02 00:01:23",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/01RkSrTKnYuFjcm6Kla4qP"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 475546,
+      "name": "Attributes",
+      "url": "https://open.spotify.com/track/1dSWQxV3zravd96vFAbcPp"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1373,6 +1373,26 @@
       "url": "https://open.spotify.com/track/1dWrrmOqCkMr0puVaMiVXI"
     },
     {
+      "added_at": "2026-10-02 00:01:23",
+      "album": {
+        "name": "Oloruko Aperire (The God whose name brings good tidings)",
+        "url": "https://open.spotify.com/album/6QajJ7qolBeiNWvYAD44EP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 762750,
+      "name": "Oloruko Aperire (The God whose name brings good tidings)",
+      "url": "https://open.spotify.com/track/03jto4VJ7fBUXCkYKyN43t"
+    },
+    {
       "added_at": "2025-07-04 04:47:35",
       "album": {
         "name": "Praise Jesus",
@@ -1413,24 +1433,20 @@
       "url": "https://open.spotify.com/track/2yHAk6q2S0xol1xxYo2P72"
     },
     {
-      "added_at": "2026-10-02 00:01:23",
+      "added_at": "2025-10-17 00:01:27",
       "album": {
-        "name": "Oloruko Aperire (The God whose name brings good tidings)",
-        "url": "https://open.spotify.com/album/6QajJ7qolBeiNWvYAD44EP"
+        "name": "You Remain God",
+        "url": "https://open.spotify.com/album/5ZOl6lBSHQxctJiMVB0lqH"
       },
       "artists": [
         {
-          "name": "Daniel Ojo",
-          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+          "name": "Anthony Kani",
+          "url": "https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO"
         }
       ],
-      "duration_ms": 762750,
-      "name": "Oloruko Aperire (The God whose name brings good tidings)",
-      "url": "https://open.spotify.com/track/03jto4VJ7fBUXCkYKyN43t"
+      "duration_ms": 575012,
+      "name": "You Remain God",
+      "url": "https://open.spotify.com/track/0Xa1G3THEfQG0KHQjBdA72"
     },
     {
       "added_at": "2025-07-11 00:02:02",
@@ -1515,22 +1531,6 @@
       "duration_ms": 398774,
       "name": "Alagbara",
       "url": "https://open.spotify.com/track/66g4fnzci8lcrbs1pYNZhR"
-    },
-    {
-      "added_at": "2025-10-17 00:01:27",
-      "album": {
-        "name": "You Remain God",
-        "url": "https://open.spotify.com/album/5ZOl6lBSHQxctJiMVB0lqH"
-      },
-      "artists": [
-        {
-          "name": "Anthony Kani",
-          "url": "https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO"
-        }
-      ],
-      "duration_ms": 575012,
-      "name": "You Remain God",
-      "url": "https://open.spotify.com/track/0Xa1G3THEfQG0KHQjBdA72"
     },
     {
       "added_at": "2026-08-14 00:01:30",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/2LndZcoSxFmf5NtG4w3yey"
     },
     {
-      "added_at": "2025-11-14 00:01:37",
-      "album": {
-        "name": "OLD CLASSICS",
-        "url": "https://open.spotify.com/album/2mQVV6ZwmF2SokAz4qrhaa"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 707212,
-      "name": "OLD CLASSICS",
-      "url": "https://open.spotify.com/track/4zcUIRgt8G3oqMXJM0BeIR"
-    },
-    {
       "added_at": "2026-01-23 00:01:17",
       "album": {
         "name": "El Gibbor",
@@ -1717,20 +1701,20 @@
       "url": "https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ"
     },
     {
-      "added_at": "2026-06-26 00:01:36",
+      "added_at": "2025-11-14 00:01:37",
       "album": {
-        "name": "In His Presence, Vol. 16 - The Reason Why I Live",
-        "url": "https://open.spotify.com/album/5sFrrho3L4OIHLRDc7urAD"
+        "name": "OLD CLASSICS",
+        "url": "https://open.spotify.com/album/2mQVV6ZwmF2SokAz4qrhaa"
       },
       "artists": [
         {
-          "name": "Dr Paul Enenche",
-          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 262705,
-      "name": "Lord I Thirst For You",
-      "url": "https://open.spotify.com/track/6UEvZwMCATRY6hw7xSCv9O"
+      "duration_ms": 707212,
+      "name": "OLD CLASSICS",
+      "url": "https://open.spotify.com/track/4zcUIRgt8G3oqMXJM0BeIR"
     },
     {
       "added_at": "2025-10-10 00:01:09",
@@ -1751,6 +1735,22 @@
       "duration_ms": 595797,
       "name": "Balogun ( the Army Commander )",
       "url": "https://open.spotify.com/track/5vkJqTq7fFd2fchzQL4LuB"
+    },
+    {
+      "added_at": "2026-06-26 00:01:36",
+      "album": {
+        "name": "In His Presence, Vol. 16 - The Reason Why I Live",
+        "url": "https://open.spotify.com/album/5sFrrho3L4OIHLRDc7urAD"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "duration_ms": 262705,
+      "name": "Lord I Thirst For You",
+      "url": "https://open.spotify.com/track/6UEvZwMCATRY6hw7xSCv9O"
     },
     {
       "added_at": "2025-08-22 00:01:28",

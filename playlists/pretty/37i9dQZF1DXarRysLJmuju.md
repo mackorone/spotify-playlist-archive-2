@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,559 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,475 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
 | 2 | [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 |
 | 3 | [driving](https://open.spotify.com/track/2zNJRJXvXU4xhazymB2C4y) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [aries baby: ghost](https://open.spotify.com/album/5XOnEFOkzttmU7TDLw8oeK) | 2:20 |
-| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 5 | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/track/7kcoZ1f6a3KEvk0HLHcrr0) | [Jay Essiambre](https://open.spotify.com/artist/3EReot0tNC1QWReYq1OBy8) | [Tout ce que tu fais c'est de la musique](https://open.spotify.com/album/219CwHX00N5Bg9xFbtu9Xq) | 3:09 |
 | 6 | [Tranquille](https://open.spotify.com/track/7CRBbeHM29gIW9663RCmLT) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Tranquille](https://open.spotify.com/album/4nfdz9M18atYTOCVUVqKkI) | 2:24 |
 | 7 | [SOFTER](https://open.spotify.com/track/7b4ZxX9iEyPyppCyx53ea2) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [SOFTER](https://open.spotify.com/album/33wM3dzPI4rDo43KEfN3ya) | 2:53 |

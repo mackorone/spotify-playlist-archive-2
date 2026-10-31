@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Northlane are on top of today's best Metal playlist.",
+  "description": "Rev3rent are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -4835,6 +4835,24 @@
     },
     {
       "album": {
+        "name": "Crackology",
+        "url": "https://open.spotify.com/album/3y0FEzEgiVuLjYs9ddOKL5"
+      },
+      "artists": [
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173244,
+      "name": "Crackology",
+      "url": "https://open.spotify.com/track/44LKq2xDLGrApS4VxjufWd"
+    },
+    {
+      "album": {
         "name": "Electrified Brain",
         "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
       },
@@ -6662,7 +6680,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 213146,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/0pyFy1WKgJ64vTI73iLRvc"
@@ -7460,7 +7478,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 213533,
       "name": "Dying To Forget",
       "url": "https://open.spotify.com/track/58n0MyTEOVHzAlPowTVt4P"
@@ -8532,6 +8550,24 @@
       "duration_ms": 233037,
       "name": "Eyes Wide Open",
       "url": "https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20"
+    },
+    {
+      "album": {
+        "name": "She Let The World Run Rampant",
+        "url": "https://open.spotify.com/album/6GJl7skIeGqtZZqqQPglHS"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/4EMQgiOJcduxSGqjwbDorP"
     },
     {
       "album": {
@@ -9992,6 +10028,24 @@
       "duration_ms": 244911,
       "name": "Give Up The Ghost",
       "url": "https://open.spotify.com/track/579m9YJsOMXEukNFvESTQ8"
+    },
+    {
+      "album": {
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/17kdDVpDQpOZUPVQEhA4kN"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/6kefW3Y1dDyrGRiuzhCWqV"
     },
     {
       "album": {
@@ -11733,6 +11787,28 @@
     },
     {
       "album": {
+        "name": "Mi\u00f0",
+        "url": "https://open.spotify.com/album/4YMrTpx1I30qGlSsRzzwMm"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        },
+        {
+          "name": "Johan Sara Jr.",
+          "url": "https://open.spotify.com/artist/2P466JXaRfp8M9fX2eVhwR"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302306,
+      "name": "I Am Ice",
+      "url": "https://open.spotify.com/track/6ZNscYeVhHgM3RHU4TjEMZ"
+    },
+    {
+      "album": {
         "name": "Dethalbum IV",
         "url": "https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC"
       },
@@ -13438,7 +13514,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 131706,
       "name": "King",
       "url": "https://open.spotify.com/track/3VRsMiwkWnPGfcdeMHr1H0"
@@ -13702,7 +13778,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 176198,
       "name": "Lacerations and the Feeling of Dying",
       "url": "https://open.spotify.com/track/5Sr1BUUdukXb6GiAoYAiha"
@@ -15686,7 +15762,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 112613,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/3idCOc9hW8wjFVd9SWvwJM"
@@ -15892,7 +15968,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 196353,
       "name": "nepenthe",
       "url": "https://open.spotify.com/track/25jsM8QzO8gg4uo0p0wNjf"
@@ -17453,6 +17529,28 @@
     },
     {
       "album": {
+        "name": "From the Dark",
+        "url": "https://open.spotify.com/album/4iAUrFmilfatLq7lBeH29p"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328333,
+      "name": "Over the Violent Sun",
+      "url": "https://open.spotify.com/track/5NYH5eJbFkchsNmV2L2YXW"
+    },
+    {
+      "album": {
         "name": "Overdose (feat. Blindside)",
         "url": "https://open.spotify.com/album/6fiUohfi86KTzXkf2OGOYi"
       },
@@ -17612,7 +17710,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 287332,
       "name": "Pangs of Conscience",
       "url": "https://open.spotify.com/track/5pD2JxlCEtcNV9cKJijmwr"
@@ -20466,7 +20564,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 224488,
       "name": "Shut Up and Bleed",
       "url": "https://open.spotify.com/track/2DHm4NLf5eSu4u5DaqjwAg"
@@ -20596,6 +20694,24 @@
       "duration_ms": 226712,
       "name": "Silence Isn't Helping Us",
       "url": "https://open.spotify.com/track/34LT97EvA73UvXBycsYA3o"
+    },
+    {
+      "album": {
+        "name": "Silent Attraction",
+        "url": "https://open.spotify.com/album/25gX8weJaCuKPr542C6EKt"
+      },
+      "artists": [
+        {
+          "name": "Sunborn",
+          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Silent Attraction",
+      "url": "https://open.spotify.com/track/43aYw2wY4BkbGASAn0QXyU"
     },
     {
       "album": {
@@ -21258,7 +21374,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 279040,
       "name": "Solar Will",
       "url": "https://open.spotify.com/track/7vK8MwPgzAHyEKphAdBarr"
@@ -22147,6 +22263,24 @@
     },
     {
       "album": {
+        "name": "Lonely God (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/45OHU8EgCVMQbLtTfOOWju"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171016,
+      "name": "Steady Doom",
+      "url": "https://open.spotify.com/track/4KYabQAVvuTRf3ec28MYXp"
+    },
+    {
+      "album": {
         "name": "death fetish",
         "url": "https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9"
       },
@@ -22686,6 +22820,24 @@
       "duration_ms": 187460,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
+    },
+    {
+      "album": {
+        "name": "Sweet Suicide",
+        "url": "https://open.spotify.com/album/1N0lZPbTzobPEKka5GndDg"
+      },
+      "artists": [
+        {
+          "name": "200 Stab Wounds",
+          "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306960,
+      "name": "Sweet Suicide",
+      "url": "https://open.spotify.com/track/5ggq3t2ROeYE7DDkthlR5d"
     },
     {
       "album": {
@@ -24944,6 +25096,24 @@
       "duration_ms": 353500,
       "name": "Throne Of Want",
       "url": "https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX"
+    },
+    {
+      "album": {
+        "name": "Dogma",
+        "url": "https://open.spotify.com/album/35fCwI0kqyptJbWYFv7Srf"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134525,
+      "name": "Through Prayer",
+      "url": "https://open.spotify.com/track/2GVI1sdEL4WHK5wtWu73YR"
     },
     {
       "album": {

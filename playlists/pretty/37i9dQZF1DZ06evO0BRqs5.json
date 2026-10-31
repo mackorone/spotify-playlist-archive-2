@@ -1,12 +1,12 @@
 {
   "description": "This is Eir Aoi. The essential tracks, all in one playlist.",
-  "num_followers": 21874,
+  "num_followers": 21876,
   "original_name": "This Is Eir Aoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at1GgAAAAADGeqjxVRS2lAPXDMElHeBS",
+  "snapshot_id": "auE7AAAAAADEahnKc8ys71WCiDo+3HZS",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 274320,
       "name": "I will...",
       "url": "https://open.spotify.com/track/4DGJQEY7NUtuKRL6IX20U6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scrapping and Building",
+        "url": "https://open.spotify.com/album/0lLguAJQXrhqaeTctXHeT7"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 178833,
+      "name": "Scrapping and Building",
+      "url": "https://open.spotify.com/track/1zmRxRd2VXBlmqHhJxg5uz"
     },
     {
       "added_at": null,
@@ -247,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5fc3\u81d3",
-        "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "\u5fc3\u81d3",
-      "url": "https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walk on your way",
         "url": "https://open.spotify.com/album/2xvNbAscHnJSTrggMk98vG"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 185371,
       "name": "Walk on your way",
       "url": "https://open.spotify.com/track/7zqoPFIlmZpFZMKhhHFXSo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5fc3\u81d3",
+        "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "\u5fc3\u81d3",
+      "url": "https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM"
     },
     {
       "added_at": null,
@@ -503,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEST -A-",
+        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "\u30b7\u30e5\u30fc\u30b2\u30a4\u30b6\u30fc",
+      "url": "https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FRAGMENT \uff08Special Edition\uff09",
         "url": "https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO"
       },
@@ -515,22 +547,6 @@
       "duration_ms": 286306,
       "name": "\u7d04\u675f",
       "url": "https://open.spotify.com/track/28YoNQJtIp77Nn3h8fl5Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEST -A-",
-        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 276346,
-      "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
-      "url": "https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9"
     },
     {
       "added_at": null,
@@ -567,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BEST -A-",
+        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 276346,
+      "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AUBE",
         "url": "https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT"
       },
@@ -579,22 +611,6 @@
       "duration_ms": 280160,
       "name": "KASUMI",
       "url": "https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEST -A-",
-        "url": "https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "\u30b7\u30e5\u30fc\u30b2\u30a4\u30b6\u30fc",
-      "url": "https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C"
     },
     {
       "added_at": null,
@@ -663,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLAU",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
+        "name": "BEST -E-",
+        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
       },
       "artists": [
         {
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 311293,
-      "name": "\u9583\u5149\u524d\u591c",
-      "url": "https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe"
+      "duration_ms": 291746,
+      "name": "\u30a2\u30ab\u30c4\u30ad",
+      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
     },
     {
       "added_at": null,
@@ -695,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST -E-",
-        "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
+        "name": "BLAU",
+        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
       },
       "artists": [
         {
@@ -704,25 +720,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 291746,
-      "name": "\u30a2\u30ab\u30c4\u30ad",
-      "url": "https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
-        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 269253,
-      "name": "Close Friend",
-      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
+      "duration_ms": 311293,
+      "name": "\u9583\u5149\u524d\u591c",
+      "url": "https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
       "duration_ms": 232026,
       "name": "\u30d2\u30c8\u30ab\u30b1\u30e9\u306e\u52c7\u6c17",
       "url": "https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30af\u30bb\u30f3\u30c6\u30a3\u30a2",
+        "url": "https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 269253,
+      "name": "Close Friend",
+      "url": "https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 300960,
       "name": "\u6ce1\u6cab",
       "url": "https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLAU",
-        "url": "https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 289346,
-      "name": "\u30a2\u30f4\u30a1\u30ed\u30f3\u30fb\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7"
     }
   ],
   "unique_name": "This Is Eir Aoi",

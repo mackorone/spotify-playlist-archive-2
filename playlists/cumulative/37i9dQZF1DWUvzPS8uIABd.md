@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-1,122 songs - 2 day 7 hr 52 min
+1,123 songs - 2 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 | 2025-05-15 | 2025-06-13 |
 | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/track/7HAtisoxJ9jmNud1DjvHir) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi) | 3:37 | 2024-10-31 | 2024-11-08 |
 | [Jos sä tahdot niin \- Vain elämää kausi 17](https://open.spotify.com/track/4TEltpKDSVEWsUOgsGndk2) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Jos sä tahdot niin \(Vain elämää kausi 17\)](https://open.spotify.com/album/0r9KljWL9fPuhRD1TmtYtL) | 3:54 | 2026-10-22 |  |
-| [Jos sä tahdot niin \- Vain elämää kausi 17](https://open.spotify.com/track/6iIiswSKniCX1AnAo6avE4) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Piha ilman sadettajaa \(Vain elämää kausi 17\)](https://open.spotify.com/album/4jsWotrGG8SpdblLnUkqo3) | 3:54 | 2026-10-29 |  |
+| [Jos sä tahdot niin \- Vain elämää kausi 17](https://open.spotify.com/track/6iIiswSKniCX1AnAo6avE4) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Piha ilman sadettajaa \(Vain elämää kausi 17\)](https://open.spotify.com/album/4jsWotrGG8SpdblLnUkqo3) | 3:54 | 2026-10-29 | 2026-10-31 |
 | [Jos tuut vielä vastaan](https://open.spotify.com/track/15O33QdWhnWQIO7M7Vo2Lu) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Jos tuut vielä vastaan](https://open.spotify.com/album/0m14F9RLRrP56ffKJLHfD7) | 2:53 | 2024-09-19 | 2024-10-18 |
 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 | 2025-10-09 | 2026-03-08 |
 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 | 2025-09-18 | 2026-04-24 |
@@ -719,6 +719,7 @@
 | [Pienestä kii](https://open.spotify.com/track/5yD1a0mhu8NvoWFMtf8CE3) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Pienestä kii](https://open.spotify.com/album/4IWKJ7WggyvcCMqD73jl56) | 3:05 | 2025-09-26 | 2025-11-14 |
 | [Pieni ystävä](https://open.spotify.com/track/3Gnt3zrmjmtfg5zmcfgehp) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pieni ystävä](https://open.spotify.com/album/6T59VioHQazN7bAVDcZCwU) | 3:17 | 2025-04-03 | 2025-08-19 |
 | [Pieninä palasina \- Vain elämää kausi 15](https://open.spotify.com/track/0ENnmQINMQL5iTkPEf9NgQ) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Pieninä palasina \(Vain elämää kausi 15\)](https://open.spotify.com/album/3tzTtF3LJ02KwHc5KU18M4) | 3:13 | 2024-10-17 | 2024-10-25 |
+| [Piha ilman sadettajaa \- Vain elämää kausi 17](https://open.spotify.com/track/69pd4nOpSaG7AQLzYrLw2c) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Piha ilman sadettajaa \(Vain elämää kausi 17\)](https://open.spotify.com/album/4jsWotrGG8SpdblLnUkqo3) | 3:43 | 2026-10-30 |  |
 | [Piironkinjalka \(Vain elämää kausi 15\)](https://open.spotify.com/track/5o65auMpqaCFFT1AiYNfin) | [Waldo's People](https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF) | [Piironkinjalka \(Vain elämää kausi 15\)](https://open.spotify.com/album/24LzKxBnzV2dR67UFmewwS) | 2:49 | 2024-10-31 | 2024-11-08 |
 | [Pikajunat](https://open.spotify.com/track/2HXTtO4jFgDn72kSRL1cll) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Pikajunat](https://open.spotify.com/album/4oTP2YGdTCO1UKzMTNfPnZ) | 3:09 | 2024-07-02 | 2024-11-08 |
 | [Pikatie](https://open.spotify.com/track/4XGR0bFoP8VPNOSCd3PnrM) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Pikatie](https://open.spotify.com/album/396bXuH5biFYTxGpaWBlK6) | 2:55 | 2024-11-28 | 2025-01-10 |

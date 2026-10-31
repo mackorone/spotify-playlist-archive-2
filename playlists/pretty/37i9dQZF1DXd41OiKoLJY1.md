@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Mika Yusay\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,141 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,158 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [5AM](https://open.spotify.com/track/4eyEuejVygsDJbOlDVIiwF) | [Monty Gi](https://open.spotify.com/artist/2TBFowoG8SRg9opiTfO5r9) | [5AM](https://open.spotify.com/album/6tJLNtMiKLl8tSBTrNRudw) | 3:10 |
 | 50 | [Urong Sulong](https://open.spotify.com/track/069wBYuPG4AHBucoNW5StN) | [Paul Monserrate](https://open.spotify.com/artist/3sa2GW7TbeCFIYLacBk4kD) | [Urong Sulong](https://open.spotify.com/album/2NSPpIGvccI3sYQ5991e5o) | 3:34 |
 
-Snapshot ID: `AAAAAJtbS8QC4lBKL1RuWLjkOO0y6L+C`
+Snapshot ID: `AAAAAJRHFfQg8ZOGevx1OyDEhY7Q9R32`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Aubree Archibeck of Bethel Music & Martin Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,468 likes - 80 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,623,560 likes - 80 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 37 | [Give Me Joy](https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Give Me Joy](https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7) | 4:43 |
 | 38 | [I Surrender All](https://open.spotify.com/track/1NXQ7OJ3WrIwDRpalvRlbM) | [Mission Worship](https://open.spotify.com/artist/7GoguaRlMdJQXwhCaektit), [MISSION MUSICA](https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw) | [I Surrender All](https://open.spotify.com/album/3Q3aeXYtd7OUKAxe9pfKlr) | 6:14 |
 | 39 | [Praise You All The Same](https://open.spotify.com/track/0g9OD1jRtonXNJaw0xSZgW) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Praise You All The Same](https://open.spotify.com/album/65yCammrWtXoXuuodc7XJN) | 3:56 |
-| 40 | [GAIN & GLORY \- Live](https://open.spotify.com/track/2NqZh3T22HXTQITPb1vXgK) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [The River Worship](https://open.spotify.com/artist/5FmxD8Ox8Fr0wd01yEsca0) | [GAIN & GLORY \(Live\)](https://open.spotify.com/album/0M166gvnQfbK4fPSu43iDG) | 4:23 |
+| 40 | [GAIN & GLORY \- Live](https://open.spotify.com/track/2NqZh3T22HXTQITPb1vXgK) | [The River Worship](https://open.spotify.com/artist/5FmxD8Ox8Fr0wd01yEsca0), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [GAIN & GLORY \(Live\)](https://open.spotify.com/album/0M166gvnQfbK4fPSu43iDG) | 4:23 |
 | 41 | [Road Less Traveled](https://open.spotify.com/track/4B9rtS3inS4qsmbEB8ysGl) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Road Less Traveled](https://open.spotify.com/album/3N003bQiYF4NymTauky8B3) | 3:03 |
 | 42 | [Thank The Lord](https://open.spotify.com/track/4hvR3kSiV3opZ9v7lffVEu) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Jami Garcia](https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz) | [House Of Worship \(Deluxe\)](https://open.spotify.com/album/5lkkzGifyKChKzHZkafoNr) | 4:12 |
 | 43 | [How Great Is The Greatness Of God](https://open.spotify.com/track/1vHXuQeMPXZqIt88zMlk79) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [How Great Is The Greatness Of God](https://open.spotify.com/album/6kxhiPvCosAl1WkkEwDghM) | 3:31 |

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,814 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,851 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [อย่ามากกว่าฉันก็พอ \(Jealous\)](https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [IN MY ROOM SESSION](https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq) | 3:48 |
-| 2 | [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 |
-| 3 | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv) | 3:23 |
-| 4 | [ขึ้นใจ \(3am call\)](https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ขึ้นใจ \(3am call\)](https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy) | 4:21 |
-| 5 | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG) | 4:15 |
-| 6 | [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 |
+| 1 | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/track/687OL6QdsLt1H8oU108dO5) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เขียว เหลือง แดง \(Get high\)](https://open.spotify.com/album/6p2B9XaCjhgTllt45zBufv) | 3:23 |
+| 2 | [อย่ามากกว่าฉันก็พอ \(Jealous\)](https://open.spotify.com/track/1MByAT550hFxW3RZgb6EGy) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [IN MY ROOM SESSION](https://open.spotify.com/album/3aPXrz0ZpzkrD5rUKxPheq) | 3:48 |
+| 3 | [ขึ้นใจ \(3am call\)](https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ขึ้นใจ \(3am call\)](https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy) | 4:21 |
+| 4 | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG) | 4:15 |
+| 5 | [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 |
+| 6 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
 | 7 | [ไม่ได้เลวขนาดนั้น](https://open.spotify.com/track/39AgEgwkAasTQgKgaO7KWI) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [ไม่ได้เลวขนาดนั้น](https://open.spotify.com/album/4sEAqrhYwapYYBC2LXgTlJ) | 4:21 |
-| 8 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
+| 8 | [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 |
 | 9 | [รอ SIS \(TER\)](https://open.spotify.com/track/0jJ4i5wVYz6ENRrJqDWfz6) | [DICEBLUE](https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [รอ SIS \(TER\)](https://open.spotify.com/album/3FPSENJW4gkgLHKSe2j28K) | 4:00 |
 | 10 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
 | 11 | [Rain Zone](https://open.spotify.com/track/7nSkSqb1WDtZ7hY2dVEvWY) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Rain Zone](https://open.spotify.com/album/5oAY1ajznhsPn951S81bMa) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 |
 | 50 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
 
-Snapshot ID: `AAAAAF2sRz5cWUbca0z05GJ8fzCS4ZYq`
+Snapshot ID: `AAAAAO1fzg7zjawhFQXAfs489jueB4dd`

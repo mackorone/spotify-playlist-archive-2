@@ -1,12 +1,12 @@
 {
   "description": "Country music's latest offerings featuring Jordan Davis, HARDY, Koe Wetzel with Stephen Wilson Jr. and more.",
-  "num_followers": 410558,
+  "num_followers": 410682,
   "original_name": "All New Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDBdiz4N6vFoGE25WzMlkd/7KSQ",
+  "snapshot_id": "AAAAABQ2UEU2Hz5haAZUc+tZyg/Men2L",
   "tracks": [
     {
       "added_at": "2026-10-30 04:02:02",
@@ -171,6 +171,22 @@
       "duration_ms": 218119,
       "name": "Don't Slow Down",
       "url": "https://open.spotify.com/track/0laHAcHv87cGO44OrZhsV7"
+    },
+    {
+      "added_at": "2026-10-30 18:43:45",
+      "album": {
+        "name": "Mr. Right / Closer Still",
+        "url": "https://open.spotify.com/album/2KGx4IG55jUfboH5hi7rXV"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Mr. Right",
+      "url": "https://open.spotify.com/track/4VCf4cLJEMVhAlBLDsvgOY"
     },
     {
       "added_at": "2026-10-30 04:02:02",

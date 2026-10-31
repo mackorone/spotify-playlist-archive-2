@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-110 songs - 6 hr 50 min
+112 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,13 @@
 | [Angola](https://open.spotify.com/track/4ie2Gi47TfHrlan7gcL5Fd) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/5uIcFalqC6QjvKesBf4erF) | 7:26 | 2023-10-20 | 2024-04-19 |
 | [Angola](https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW) | [Bheki Mseleku](https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj) | [Celebration](https://open.spotify.com/album/2OFQgGsXO2ZpcUkGyaQ37y) | 7:26 | 2023-10-09 | 2026-04-18 |
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 |  |
+| [BACK TO LAGOS \(feat\. Gunna\)](https://open.spotify.com/track/1MFulYZ17VNHqJFfPK6HO1) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:05 | 2026-10-30 |  |
 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 | 2024-07-12 |  |
 | [Bobo](https://open.spotify.com/track/3pfz2lC3SxolfEeUVo1sPE) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 3:02 | 2026-06-19 |  |
 | [Botswana](https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis) | [Carto](https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE), [Midday](https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0) | [Cartostrophe](https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw) | 2:58 | 2023-09-08 |  |
 | [Cairo](https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Cairo](https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR) | 3:16 | 2023-09-08 | 2025-04-12 |
 | [Cairo FM](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:01 | 2026-06-26 |  |
+| [CANADA BREEZE](https://open.spotify.com/track/3c6pwnmm13oxqUbFIcWMU3) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:42 | 2026-10-30 |  |
 | [CANADA BREEZE](https://open.spotify.com/track/5bZoHEhzsgj49TZR6R7Uc3) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc) | 2:42 | 2026-04-17 |  |
 | [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/track/6ovxhOjCU6SzPLtfNnzVQk) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/album/23neUYDSWEpEPAmQwVxoKk) | 2:43 | 2025-04-17 |  |
 | [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 | 2026-05-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,590 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,520 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [DEMMI MARROKI](https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [DEMMI MARROKI](https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp) | 3:31 |
 | 75 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 |
 
-Snapshot ID: `AAAAAFh903BZg3jIS5hnP0YSLpMMBAb3`
+Snapshot ID: `AAAAAJ7cSlhRvuWjiwOcrt7fPJ7JaVYx`

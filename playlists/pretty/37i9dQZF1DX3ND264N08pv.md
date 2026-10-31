@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,391 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,422 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 24 | [Bass Go Boom](https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Bass Go Boom](https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk) | 2:40 |
 | 25 | [Voices In My Head](https://open.spotify.com/track/1Wh4d4pQj9LXkTb02OYbQA) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Voices In My Head](https://open.spotify.com/album/7KpN5YOLMSR9L1BZEjTtD8) | 3:08 |
 | 26 | [Dark Smile](https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Dark Smile](https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc) | 3:36 |
-| 27 | [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 |
-| 28 | [PSSY MTHRFCKRZ \- Chaos Project & Sakyra Remix](https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz) | [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [Sakyra](https://open.spotify.com/artist/2GR3DT7wsxRnjNckRcNMpD) | [PSSY MTHRFCKRZ \(Chaos Project & Sakyra Remix\)](https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc) | 2:42 |
+| 27 | [PSSY MTHRFCKRZ \- Chaos Project & Sakyra Remix](https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz) | [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [Sakyra](https://open.spotify.com/artist/2GR3DT7wsxRnjNckRcNMpD) | [PSSY MTHRFCKRZ \(Chaos Project & Sakyra Remix\)](https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc) | 2:42 |
+| 28 | [Round My Mind](https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Round My Mind](https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI) | 3:36 |
 | 29 | [Burn Out](https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl) | [Burn Out](https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w) | 2:41 |
 | 30 | [EAT SLEEP NOISE REPEAT](https://open.spotify.com/track/7L5a90A4haEoeWnzmcRYAr) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [EAT SLEEP NOISE REPEAT](https://open.spotify.com/album/0z7tHHoZuhYoY48G9vOzo6) | 2:18 |
 | 31 | [Bring The Hammer Down](https://open.spotify.com/track/2zjlS4UQAgZaxtJCDB79Mt) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Bring The Hammer Down](https://open.spotify.com/album/6dvA9ZepS0SFnVXkKi9E1F) | 2:20 |

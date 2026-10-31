@@ -4,7 +4,7 @@
 
 > New music from your favorite women\.  Cover: Halle
 
-919 songs - 2 day 4 hr 7 min
+922 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2023-11-10 | 2024-02-10 |
 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 | 2023-08-25 | 2023-11-11 |
 | [Cadillac \(A Pimp's Anthem\)](https://open.spotify.com/track/23VB6t2KnNL1l38ZZC8c37) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:02 | 2023-08-25 | 2023-11-11 |
+| [Caffeine](https://open.spotify.com/track/1f7wOMiAv4Pt80YCwuqXaz) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Caffeine](https://open.spotify.com/album/66z1FARiSKLUnbO31Hfo5Z) | 3:02 | 2026-10-30 |  |
 | [Call Me When You Can](https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 2:11 | 2026-05-01 | 2026-09-26 |
 | [Call Security](https://open.spotify.com/track/4guaicBZF35p1P5IQHheAV) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:22 | 2026-05-29 | 2026-06-06 |
 | [Callin \(feat\. Blu june\)](https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu june](https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr) | [Callin \(feat\. Blu june\)](https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS) | 2:34 | 2026-05-29 | 2026-06-20 |
@@ -649,6 +650,7 @@
 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 | 2023-08-25 | 2023-11-11 |
 | [Queen](https://open.spotify.com/track/1YPlzmEG2yjwEu1AmOAEYR) | [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw) | [Queen](https://open.spotify.com/album/0d9OEvT4UQYqmTWDGkQUyz) | 3:15 | 2021-11-24 | 2022-02-12 |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/2dOUErBzFZJ8l7MbV6FcYW) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 3:50 | 2023-08-25 | 2023-11-11 |
+| [r u?](https://open.spotify.com/track/4WxZocojIggeAJJtDLAKHr) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [this wolf may cry](https://open.spotify.com/album/77Bom1fhqTXKzmOxcE2fkv) | 2:46 | 2026-10-30 |  |
 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 | 2023-11-10 | 2024-02-10 |
 | [Rain](https://open.spotify.com/track/1RWZDdIe9TwL1vUlyti5aD) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Rain](https://open.spotify.com/album/58zT0QIvIoPR17pcS4S8uJ) | 3:09 | 2026-09-18 |  |
 | [Rain On Me](https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Rain On Me](https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy) | 3:00 | 2026-04-03 | 2026-06-27 |
@@ -672,7 +674,7 @@
 | [RETRO 10'S](https://open.spotify.com/track/10JOURyDQf9Ui3gNAHDm09) | [THEARTISTJADE](https://open.spotify.com/artist/57RNgEPI3W3Xamvg8kYrJ9) | [RETRO 10'S](https://open.spotify.com/album/57Nmh5X0uInF9ZasO5LEbE) | 2:45 | 2021-11-24 | 2022-02-12 |
 | [REVENGE](https://open.spotify.com/track/6WFUjFm7cUN44fWrcHQpaN) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [THE NAIJAMERICAN DREAM](https://open.spotify.com/album/4RsrgQml0MbefvMQN6r35I) | 3:02 | 2026-07-24 |  |
 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 | 2026-06-26 | 2026-08-15 |
-| [right/left](https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [right/left](https://open.spotify.com/album/4UEnqdMtJ3TlgA25OsRG5A) | 2:09 | 2026-10-16 |  |
+| [right/left](https://open.spotify.com/track/7a8wV2hBds7Enc8MUVL8UJ) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [right/left](https://open.spotify.com/album/4UEnqdMtJ3TlgA25OsRG5A) | 2:09 | 2026-10-16 | 2026-10-31 |
 | [RIGHT/WRONG](https://open.spotify.com/track/1kdWhxp9RbFFkv5exPEfrB) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [people stories](https://open.spotify.com/album/0XfiOPqfpikqCUmvSs2kRS) | 2:48 | 2025-08-22 | 2026-05-02 |
 | [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 | 2026-06-26 |  |
 | [Rock The Boat](https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:34 | 2023-08-25 | 2025-06-21 |
@@ -898,6 +900,7 @@
 | [Whoa](https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:19 | 2022-02-11 | 2022-10-14 |
 | [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 | 2022-02-11 | 2024-10-05 |
 | [Who’s Better](https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Who's Better](https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1) | 2:54 | 2026-02-06 | 2026-05-02 |
+| [Why](https://open.spotify.com/track/4clrm9D9tO72yE2eNFRMDP) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [I'll Wait For You](https://open.spotify.com/album/1gC8fKOA5RnJpvREjwtr9Z) | 2:50 | 2026-10-30 |  |
 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 | 2024-02-09 | 2024-10-05 |
 | [Window Seat](https://open.spotify.com/track/74HYrIbnpc2xKCTenv5qKM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 4:49 | 2023-08-25 | 2023-11-11 |
 | [Window To The Soul](https://open.spotify.com/track/7wNqcryc6nxY7fXKm9Y6cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Window To The Soul](https://open.spotify.com/album/1ng7DPYpbK1yhjGqL5oTcW) | 4:56 | 2026-05-15 | 2026-06-06 |

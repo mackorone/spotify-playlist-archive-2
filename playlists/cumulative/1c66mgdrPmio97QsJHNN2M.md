@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-3,151 songs - 6 day 21 hr 44 min
+3,153 songs - 6 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Fermion](https://open.spotify.com/track/5FeDG9kHAmqS6gbSRXECr2) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 3 \- Particles](https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn) | 4:37 | 2026-01-23 |  |
 | [ferric dust](https://open.spotify.com/track/7xyolnzBVFKF1InuJZFCJX) | [ferric dust](https://open.spotify.com/artist/3cXeLNuw7EvxZsgvVrmpHh) | [ferric dust](https://open.spotify.com/album/2HQ2ZdCN1SbJf5uMBS7B87) | 4:26 | 2026-07-23 | 2026-08-25 |
 | [Fetter of Your Love](https://open.spotify.com/track/0CjwhqMpFVv30bhoKk5VEh) | [Connected Path](https://open.spotify.com/artist/1O7V9rFk7s415L4D3G9qwi) | [Fetter of Your Love](https://open.spotify.com/album/4AX5r34cEPCyWNGFSM3e94) | 3:19 | 2026-01-01 | 2026-02-03 |
+| [Fight for Me](https://open.spotify.com/track/1vjVykkHrg5iHO9TtUIj9Y) | [SASH X](https://open.spotify.com/artist/5HgusvBejzN4OuZUhlrYj7) | [Fight for Me](https://open.spotify.com/album/51d2dxwHZDD8LxVMaog4fL) | 2:32 | 2026-10-30 |  |
 | [Fighting Hard](https://open.spotify.com/track/2kQVEXi0ElGXb3t0kgfeks) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd), [JC Lowko](https://open.spotify.com/artist/2t1ivpXFQ0uODF12SLUHIi), [Fabio Rubato](https://open.spotify.com/artist/67aPZuRn0HMlgLwcsokP50) | [Once in a Blue Moon](https://open.spotify.com/album/7u1fHSpSzM1emTpd2xgZ7E) | 3:30 | 2026-04-06 | 2026-05-08 |
 | [Fighting Shadows](https://open.spotify.com/track/5Je4cjbgFp4eOUeT1VFPNb) | [Sams Beatz](https://open.spotify.com/artist/31sor2nBOhCr8OTC2X92wI) | [Fighting Shadows](https://open.spotify.com/album/6MmwI1527M4BinNWo3227H) | 3:02 | 2026-08-17 | 2026-09-20 |
 | [Fill My Heart](https://open.spotify.com/track/3Jdk6l7TF3vhcWmNIak7OA) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Fill My Heart](https://open.spotify.com/album/1IwUlJ7cnTfce1iVNgCPaQ) | 3:37 | 2026-06-26 | 2026-07-28 |
@@ -2961,6 +2962,7 @@
 | [What Am I](https://open.spotify.com/track/2pTAmnEvkTCAJst2V6YM5Q) | [Horizon Beyond](https://open.spotify.com/artist/7xYPCMdIWqDBS1gUzAtFad) | [What Am I](https://open.spotify.com/album/14MOERu7JP2u8tB50FkhqL) | 4:57 | 2026-10-04 |  |
 | [What Do You Think?](https://open.spotify.com/track/4PfAbnetZ9d8fZUIYeKZD9) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [What Do You Think?](https://open.spotify.com/album/0oO9HH6cjXK0qGTHyW46AG) | 3:04 | 2026-09-02 | 2026-10-04 |
 | [What Follows Me Home](https://open.spotify.com/track/33qqTowI1pKP4Sxoi9z7sx) | [Syzygy](https://open.spotify.com/artist/0xBVYVLFNqsTe6SIJ9eiGz) | [What Follows Me Home](https://open.spotify.com/album/3UywPoec4QhWziKV8u0plq) | 3:20 | 2026-06-09 | 2026-07-10 |
+| [What I Deserve](https://open.spotify.com/track/1O34geZ9P66jH3YUk5J6Ji) | [YME BEATS](https://open.spotify.com/artist/48LruDqvGQIrHzoa3sxfys) | [What I Deserve](https://open.spotify.com/album/1EfCNKRjX2uQP8qhGmTENi) | 3:04 | 2026-10-30 |  |
 | [What If](https://open.spotify.com/track/6OthO7QTOcFrklwyR8xgLp) | [It‘s Me, Amelie](https://open.spotify.com/artist/4Wz0SDLT0SqkMhIKI6FmLD) | [What If](https://open.spotify.com/album/2xgXLeKv84o0hW2mSBj1XT) | 2:40 | 2026-04-05 | 2026-05-07 |
 | [What If](https://open.spotify.com/track/2lmR0OQFM5KhsqqW0MEfxJ) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [What If](https://open.spotify.com/album/7657GhwmE2YZVWTi5YFDi8) | 3:28 | 2026-04-04 | 2026-05-06 |
 | [What Love Really Is](https://open.spotify.com/track/1HraOB1UXKCMb5VtDqQ8R5) | [PhillipNoah](https://open.spotify.com/artist/1132tu4mx4LUVx8emsBX6j) | [What Love Really Is](https://open.spotify.com/album/1PZnlr8gytWzs63YazoFVE) | 3:21 | 2025-10-31 | 2025-12-03 |

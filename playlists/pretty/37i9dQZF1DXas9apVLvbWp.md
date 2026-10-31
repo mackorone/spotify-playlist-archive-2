@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > BLUE GIANT MOMENTUMとSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,052 likes - 30 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,058 likes - 30 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

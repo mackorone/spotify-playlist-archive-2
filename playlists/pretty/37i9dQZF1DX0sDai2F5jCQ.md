@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover:BigXthaPlug
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,082 likes - 79 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,062 likes - 79 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

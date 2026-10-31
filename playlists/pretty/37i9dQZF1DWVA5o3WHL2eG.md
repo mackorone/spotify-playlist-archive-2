@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: LIA LIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,576 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,571 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Audacity](https://open.spotify.com/track/1UUptXuoSwtWIoj76gn0Fn) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Armor](https://open.spotify.com/album/6PV9UuqMA3mB9acdDj06DX) | 2:35 |
 | 24 | [Ich und Ich Selbst](https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS) | [Malina](https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF) | [Ich und Ich Selbst](https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace) | 2:36 |
 | 25 | [SOS](https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [SOS](https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj) | 2:17 |
-| 26 | [Ich versteh es jetzt](https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ich versteh es jetzt](https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr) | 2:35 |
-| 27 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
+| 26 | [What I Need](https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [What I Need](https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8) | 3:38 |
+| 27 | [Ich versteh es jetzt](https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Ich versteh es jetzt](https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr) | 2:35 |
 | 28 | [Colours](https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Colours](https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp) | 3:02 |
 | 29 | [AMG](https://open.spotify.com/track/4xgcD58eqn1D51v9ETd2XE) | [Drei Geile Chayas](https://open.spotify.com/artist/17wFC9W0Gg4SQu02LbdDq9), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [AMG](https://open.spotify.com/album/6j1LFvHglLSVGl8TTyzlfo) | 2:50 |
 | 30 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |

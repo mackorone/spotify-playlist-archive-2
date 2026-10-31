@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Palak Muchhal",
-  "num_followers": 110479,
+  "num_followers": 110507,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -187,30 +187,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Deepali Sahay",
-          "url": "https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q"
-        }
-      ],
-      "duration_ms": 244647,
-      "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
-      "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Tees Maar Khan",
         "url": "https://open.spotify.com/album/0fLp8N5bQ1wDOc4iCFUOX8"
       },
@@ -231,6 +207,30 @@
       "duration_ms": 281707,
       "name": "Sheila Ki Jawani",
       "url": "https://open.spotify.com/track/6VbmeIWTbNHM5uqoW7GTE4"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Deepali Sahay",
+          "url": "https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q"
+        }
+      ],
+      "duration_ms": 244647,
+      "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -675,6 +675,26 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "HISAAB",
+        "url": "https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "duration_ms": 143644,
+      "name": "HISAAB",
+      "url": "https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Mirzapur The Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Strc5WebWKsRXuN4bl6qH"
       },
@@ -723,22 +743,26 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "HISAAB",
-        "url": "https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26"
+        "name": "Bindaas (From \"Rajini The Jailer 2\")",
+        "url": "https://open.spotify.com/album/1kaUylqRjDsBLsRlHzWZzj"
       },
       "artists": [
         {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         },
         {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ritesh G Rao",
+          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
         }
       ],
-      "duration_ms": 143644,
-      "name": "HISAAB",
-      "url": "https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq"
+      "duration_ms": 254304,
+      "name": "Bindaas (From \"Rajini The Jailer 2\")",
+      "url": "https://open.spotify.com/track/7pzb0l1VPGlAwNIjHCQjg0"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -763,30 +787,6 @@
       "duration_ms": 196444,
       "name": "Phata Patakha - From \"Nayyi Navelli\"",
       "url": "https://open.spotify.com/track/6K7O2zTFOukjnOE1jxwV9s"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Bindaas (From \"Rajini The Jailer 2\")",
-        "url": "https://open.spotify.com/album/1kaUylqRjDsBLsRlHzWZzj"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ritesh G Rao",
-          "url": "https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz"
-        }
-      ],
-      "duration_ms": 254304,
-      "name": "Bindaas (From \"Rajini The Jailer 2\")",
-      "url": "https://open.spotify.com/track/7pzb0l1VPGlAwNIjHCQjg0"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
+        "url": "https://open.spotify.com/album/4HlXMQ8upHOYvtVUoJv7sh"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        }
+      ],
+      "duration_ms": 167662,
+      "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
+      "url": "https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Jalwa E Jaanaan (Maati S2)",
         "url": "https://open.spotify.com/album/1vtOYY3c8O3mTMzrkX88nd"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 252587,
       "name": "Jalwa E Jaanaan - Maati S2",
       "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
-        "url": "https://open.spotify.com/album/4HlXMQ8upHOYvtVUoJv7sh"
-      },
-      "artists": [
-        {
-          "name": "Rekha Bhardwaj",
-          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
-        },
-        {
-          "name": "Vishal Bhardwaj",
-          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
-        }
-      ],
-      "duration_ms": 167662,
-      "name": "Aaye Miyan Khat-Pat (From \"Lust Stories 3\")",
-      "url": "https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "Piya Bina",
+        "url": "https://open.spotify.com/album/22d6u8cUyUbzy4TZJ1J9Wq"
+      },
+      "artists": [
+        {
+          "name": "Maahi Zaveri",
+          "url": "https://open.spotify.com/artist/0qFb3gineKxVVhJsoHaQEe"
+        },
+        {
+          "name": "Aakash Rajan",
+          "url": "https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW"
+        }
+      ],
+      "duration_ms": 198837,
+      "name": "Piya Bina",
+      "url": "https://open.spotify.com/track/5ZzyOL637Vkvp2K6nIjYrp"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
       },
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Piya Bina",
-        "url": "https://open.spotify.com/album/22d6u8cUyUbzy4TZJ1J9Wq"
-      },
-      "artists": [
-        {
-          "name": "Maahi Zaveri",
-          "url": "https://open.spotify.com/artist/0qFb3gineKxVVhJsoHaQEe"
-        },
-        {
-          "name": "Aakash Rajan",
-          "url": "https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW"
-        }
-      ],
-      "duration_ms": 198837,
-      "name": "Piya Bina",
-      "url": "https://open.spotify.com/track/5ZzyOL637Vkvp2K6nIjYrp"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Gal Dil Di",
         "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 149662,
       "name": "Gal Dil Di",
       "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Sochun Main",
-        "url": "https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz"
-      },
-      "artists": [
-        {
-          "name": "Noor Chahal",
-          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Sochun Main",
-      "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1147,6 +1131,22 @@
       "duration_ms": 178954,
       "name": "Jagmaga (From \"Meethe Mein Kya Hai\")",
       "url": "https://open.spotify.com/track/77iRngGnrJB8XqP8dzar1r"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Sochun Main",
+        "url": "https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Sochun Main",
+      "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Toxic (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Raj Shekhar",
-          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
-        }
-      ],
-      "duration_ms": 171547,
-      "name": "Chingariyaan - From \"Toxic\"",
-      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/31IK2iRy13nI7JeepjD1X4"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 165818,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/351dCswaJ118gyxKoIlmbV"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
+        "name": "Toxic (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jGcNTPz6qjQxPM7uTQJUV"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "duration_ms": 171547,
+      "name": "Chingariyaan - From \"Toxic\"",
+      "url": "https://open.spotify.com/track/3w2rfa8YIAgLEqwRBublOJ"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "Kaise Kahoon",
+        "url": "https://open.spotify.com/album/2xqBJ25q6lQiMMnSNfbzJx"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "duration_ms": 168599,
+      "name": "Kaise Kahoon",
+      "url": "https://open.spotify.com/track/6qlZ1V2PSqcS7QrdJ6GpH0"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Tum Yun Mile Ho",
         "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
       },
@@ -1351,30 +1375,6 @@
       "duration_ms": 153124,
       "name": "Tum Yun Mile Ho",
       "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Drishyam: The Conclusion (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4OWLuM8E8AhOxPLuXUq8oe"
-      },
-      "artists": [
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        },
-        {
-          "name": "Aamil Keeyan Khan",
-          "url": "https://open.spotify.com/artist/0sZTLjtoeLphLluBNsTrbF"
-        }
-      ],
-      "duration_ms": 252621,
-      "name": "Daastaan - The Drishyam Recap",
-      "url": "https://open.spotify.com/track/7mOUFPpcuIkvkNigz1Swe5"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1403,22 +1403,26 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Chori Chori",
-        "url": "https://open.spotify.com/album/3KU12REmT7VnMhKepNA8el"
+        "name": "Drishyam: The Conclusion (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4OWLuM8E8AhOxPLuXUq8oe"
       },
       "artists": [
         {
-          "name": "POPCORN Inc.",
-          "url": "https://open.spotify.com/artist/0gpRn0U1orS4HnTwGkpBLY"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         },
         {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Aamil Keeyan Khan",
+          "url": "https://open.spotify.com/artist/0sZTLjtoeLphLluBNsTrbF"
         }
       ],
-      "duration_ms": 136668,
-      "name": "Chori Chori",
-      "url": "https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU"
+      "duration_ms": 252621,
+      "name": "Daastaan - The Drishyam Recap",
+      "url": "https://open.spotify.com/track/7mOUFPpcuIkvkNigz1Swe5"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1439,26 +1443,22 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
-        "name": "Kaise Kahoon",
-        "url": "https://open.spotify.com/album/2xqBJ25q6lQiMMnSNfbzJx"
+        "name": "Chori Chori",
+        "url": "https://open.spotify.com/album/3KU12REmT7VnMhKepNA8el"
       },
       "artists": [
         {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+          "name": "POPCORN Inc.",
+          "url": "https://open.spotify.com/artist/0gpRn0U1orS4HnTwGkpBLY"
         },
         {
-          "name": "Trosk",
-          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
-        },
-        {
-          "name": "Akarsh Shetty",
-          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
         }
       ],
-      "duration_ms": 168599,
-      "name": "Kaise Kahoon",
-      "url": "https://open.spotify.com/track/6qlZ1V2PSqcS7QrdJ6GpH0"
+      "duration_ms": 136668,
+      "name": "Chori Chori",
+      "url": "https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU"
     },
     {
       "added_at": "2026-10-23 04:23:13",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-10-23 04:23:13",
       "album": {
+        "name": "Dil Ki Giraft",
+        "url": "https://open.spotify.com/album/4dSzooKWDRYIOxUMWfYOJN"
+      },
+      "artists": [
+        {
+          "name": "Dhairya Sharma",
+          "url": "https://open.spotify.com/artist/0iN0jINxS8965AGWQvGj1n"
+        }
+      ],
+      "duration_ms": 246374,
+      "name": "Dil Ki Giraft",
+      "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
+    },
+    {
+      "added_at": "2026-10-23 04:23:13",
+      "album": {
         "name": "Ummeed",
         "url": "https://open.spotify.com/album/5AY2OLG3qKgENLWJohfa8U"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 260000,
       "name": "Ummeed",
       "url": "https://open.spotify.com/track/2spNzt48cglEh6vgoRi283"
-    },
-    {
-      "added_at": "2026-10-23 04:23:13",
-      "album": {
-        "name": "Dil Ki Giraft",
-        "url": "https://open.spotify.com/album/4dSzooKWDRYIOxUMWfYOJN"
-      },
-      "artists": [
-        {
-          "name": "Dhairya Sharma",
-          "url": "https://open.spotify.com/artist/0iN0jINxS8965AGWQvGj1n"
-        }
-      ],
-      "duration_ms": 246374,
-      "name": "Dil Ki Giraft",
-      "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
     },
     {
       "added_at": "2026-10-23 04:23:13",

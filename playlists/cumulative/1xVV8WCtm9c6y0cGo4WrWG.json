@@ -10495,6 +10495,24 @@
     },
     {
       "album": {
+        "name": "Draft Day",
+        "url": "https://open.spotify.com/album/2NVz064wIitXZaBqMUQvNP"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Trap 4 a Year II",
+      "url": "https://open.spotify.com/track/67IaxrIoCn7GbcNF2E57f6"
+    },
+    {
+      "album": {
         "name": "Trap 4 a Year II",
         "url": "https://open.spotify.com/album/4DuESzDuDknm7FSzzGz4iB"
       },

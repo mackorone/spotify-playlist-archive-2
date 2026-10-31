@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2026 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-209 songs - 11 hr 9 min
+210 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Snowman](https://open.spotify.com/track/1E7hmvzwFcW9KVIFYwXwOI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:45 | 2023-12-09 | 2025-07-02 |
 | [Someday at Christmas](https://open.spotify.com/track/06x8nkpEpJjV08EQj43v2d) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Someday at Christmas](https://open.spotify.com/album/5kZrwHikVD399t9tma5Xza) | 2:57 | 2023-12-09 | 2025-07-02 |
 | [Someday At Christmas](https://open.spotify.com/track/0OdTRhhGt8aq4UXh67CKQg) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas \(Expanded Edition\)](https://open.spotify.com/album/5u5N49bmeRViCYzcDq3fsA) | 2:48 | 2025-07-01 | 2025-12-16 |
+| [Somewhere Only We Know](https://open.spotify.com/track/2HpzAvm4wiue7W2gmFRjSC) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:28 | 2026-10-30 |  |
 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 | 2023-12-09 |  |
 | [Step into Christmas](https://open.spotify.com/track/2xY094hXsCMKC7tqUsTFzW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [X\-mas](https://open.spotify.com/album/28NRSDWFek3KRsEMb7AyAq) | 4:29 | 2023-12-09 | 2025-07-02 |
 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2025-07-01 | 2025-12-19 |
@@ -191,7 +192,7 @@
 | [This Time of Year](https://open.spotify.com/track/1gaIo5EzATXDsJoYgfklSc) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/2Qqr2SBEHLPEyqsQPYTa6y) | 3:29 | 2025-12-08 |  |
 | [Together This Christmas](https://open.spotify.com/track/4HFjy6OPBSzZdm1b0xBM3D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Together This Christmas \(From The Original Motion Picture Soundtrack “Your Christmas or Mine”\)](https://open.spotify.com/album/1WfPnzuSUwBboYdXynt8Yq) | 3:13 | 2023-12-09 |  |
 | [Twelve Nights of Christmas](https://open.spotify.com/track/7ldZwZnZ9FTpmb07SgqN2M) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:03 | 2023-12-09 | 2025-07-02 |
-| [Twinkling Lights](https://open.spotify.com/track/6vOrRKQo9GVBjLZzZe8Y1H) | [Auni](https://open.spotify.com/artist/2nUvyvqdFqe0pSmCDsoDjw) | [Twinkling Lights](https://open.spotify.com/album/3Atf6DIPZtVZxaPeFylbzf) | 3:32 | 2025-12-19 |  |
+| [Twinkling Lights](https://open.spotify.com/track/6vOrRKQo9GVBjLZzZe8Y1H) | [Auni](https://open.spotify.com/artist/2nUvyvqdFqe0pSmCDsoDjw) | [Twinkling Lights](https://open.spotify.com/album/3Atf6DIPZtVZxaPeFylbzf) | 3:32 | 2025-12-19 | 2026-10-31 |
 | [Under the Mistletoe](https://open.spotify.com/track/0OciKTNrWHda78cixRGJdq) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:45 | 2023-12-09 | 2025-07-02 |
 | [Under The Mistletoe \- Bonus Track](https://open.spotify.com/track/2CYnG4UCBBEKIiux3S0jBU) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:45 | 2025-07-01 |  |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-26 |  |

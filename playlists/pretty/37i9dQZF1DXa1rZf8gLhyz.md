@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,789 likes - 175 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,858 likes - 175 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 174 | [The Long Way Home](https://open.spotify.com/track/1rz29fI7F9hwCuXFGDT9hd) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [The Long Way Home](https://open.spotify.com/album/5pSEQWT3skSHS6JW12MMrG) | 2:15 |
 | 175 | [When shadows fall](https://open.spotify.com/track/3fZhmPTU8TFCNqp2FQkQG9) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [When shadows fall](https://open.spotify.com/album/314JkcRJ3k6bAZkSu5Nf0m) | 2:41 |
 
-Snapshot ID: `AAAAADz5zi3xxAwFUN+T3U1kwj0RV2nT`
+Snapshot ID: `AAAAAIFTBZYNMzjtoifacdkW2Q6Eg/rh`

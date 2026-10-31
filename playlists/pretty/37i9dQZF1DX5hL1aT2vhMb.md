@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Jeneba Kanneh Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,655 likes - 172 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,665 likes - 172 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

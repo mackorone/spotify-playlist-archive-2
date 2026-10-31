@@ -6979,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "No Room For Mistakes",
+        "url": "https://open.spotify.com/album/5HvHXK8emGWuET339Quh5Y"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Revival",
+          "url": "https://open.spotify.com/artist/7tEfnUn9b37STFIIEBkogv"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185846,
+      "name": "No Room For Mistakes",
+      "url": "https://open.spotify.com/track/24Flmni6C0usFionuuAWA9"
+    },
+    {
+      "album": {
         "name": "Nocturne / Wintermute",
         "url": "https://open.spotify.com/album/1fBhQYKqo508kLWAxpFoGm"
       },

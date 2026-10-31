@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,607 likes - 126 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,668 likes - 126 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

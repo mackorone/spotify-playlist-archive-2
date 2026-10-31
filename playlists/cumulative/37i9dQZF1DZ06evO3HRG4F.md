@@ -4,13 +4,14 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 22 min
+81 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ataque](https://open.spotify.com/track/3SdI7oIwqdpZcwuTf6TqCp) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:48 | 2023-01-14 | 2024-01-18 |
 | [Blues para Trabajar \- En Vivo](https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 3:10 | 2023-01-14 |  |
 | [Brillando en la Obscuridad](https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:47 | 2023-01-14 | 2026-10-11 |
+| [Brillando en la Oscuridad](https://open.spotify.com/track/5lzOcS594OcqqbUifg97ZF) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Montamorfosis](https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT) | 4:45 | 2026-10-31 |  |
 | [Bájale de Huevos](https://open.spotify.com/track/30RhKloFNLHUaCdbPL3cGc) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 5:07 | 2026-08-26 | 2026-08-28 |
 | [Cayendo](https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 4:02 | 2023-01-14 | 2026-05-28 |
 | [Como las Hojas](https://open.spotify.com/track/29zaOzj0yjImJ8yltwD1KG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:17 | 2023-02-19 |  |
@@ -22,7 +23,7 @@
 | [De Que el Amor Apesta Apesta \- En Vivo](https://open.spotify.com/track/6icW8z4zbebBK4oCVmJsti) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7x8Knu6fbmp4CDcYg7GcR7) | 5:01 | 2024-03-07 |  |
 | [Derramando Mi Corazón](https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:34 | 2023-02-16 | 2026-10-20 |
 | [Déjame Rocanrolearte](https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 2:59 | 2023-03-24 | 2026-06-14 |
-| [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 | 2023-01-14 |  |
+| [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 | 2023-01-14 | 2026-10-31 |
 | [El Burro Siempre Hablando de Orejas](https://open.spotify.com/track/1UIOXV2J2exhh0NpSbDEr8) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:48 | 2024-05-01 |  |
 | [El Domador](https://open.spotify.com/track/4bH1M9pP9eZlkNs9JbCv3n) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Ford Monttana 69](https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3) | 3:34 | 2026-01-25 | 2026-02-11 |
 | [El Vaquero Rocanrolero](https://open.spotify.com/track/5qIkSQH1NhKJlInZpmbsiy) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Lalo Tex](https://open.spotify.com/artist/32qNFnXBJ97qsGNVVOUJ7w) | [Pares y Duetos, Disco 3](https://open.spotify.com/album/2RP9lmCNj2n5vGL6POGWZU) | 4:30 | 2023-01-14 |  |

@@ -4,7 +4,7 @@
 
 > New music from Insomniacks, XONE, JISOO, Dominic Fike, Gracie Abrams, Hael Husaini, and more!
 
-23,888 songs - 55 day 1 hr 0 min
+23,889 songs - 55 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6359,6 +6359,7 @@
 | [Fly Again](https://open.spotify.com/track/5id7emNLRhCrhgoiulNp1D) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [GAME](https://open.spotify.com/album/07aHn1SMzaqYuEAjQVwROs) | 3:09 | 2026-09-17 | 2026-09-25 |
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-06 | 2023-04-14 |
 | [Fly Away](https://open.spotify.com/track/3Rmp8eQ5HuNDYh0W3hXXTc) | [Ardawan](https://open.spotify.com/artist/0yN1YoVjyMgjRwJFwGUVno), [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Fly Away](https://open.spotify.com/album/1cylGxuou6hNdKdgbmovCQ) | 3:30 | 2024-07-04 | 2024-07-12 |
+| [Fly Away](https://open.spotify.com/track/7grS5Br1qVQOum5sTuuFrF) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Pokémon \| Wonder Voyage \(Original Soundtrack, Korea\)](https://open.spotify.com/album/5AhS6xDA0DseHumcOXK6gs) | 3:24 | 2026-10-30 |  |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-03-23 | 2023-03-31 |
 | [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-06-06 | 2024-06-14 |
 | [Fly Me To The Sun](https://open.spotify.com/track/6UsNGfDVuoMhbgkmdWRvnz) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Fly Me To The Sun](https://open.spotify.com/album/3rA2enTCB87keTrwFKcncI) | 4:34 | 2022-06-23 | 2022-07-01 |

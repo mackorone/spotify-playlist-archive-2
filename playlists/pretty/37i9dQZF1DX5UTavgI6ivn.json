@@ -1,12 +1,12 @@
 {
   "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: ARIA VEGA\n",
-  "num_followers": 954750,
+  "num_followers": 954696,
   "original_name": "Made in Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEM01aG4rts27JUqXqCSmBVRAl1/",
+  "snapshot_id": "AAAAAL4KVKLWpLQSq7v9gFKhKy2uOBul",
   "tracks": [
     {
       "added_at": "2026-10-16 04:59:31",
@@ -47,6 +47,26 @@
     {
       "added_at": "2026-10-16 04:59:31",
       "album": {
+        "name": "Antes que el tiempo se vaya",
+        "url": "https://open.spotify.com/album/4zB7tPp60O1M5dWo1zDlxe"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 175801,
+      "name": "Antes que el tiempo se vaya",
+      "url": "https://open.spotify.com/track/4lz3N9CKsrJEvNHA5irhEJ"
+    },
+    {
+      "added_at": "2026-10-16 04:59:31",
+      "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
@@ -69,6 +89,30 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
+      "added_at": "2026-10-30 04:59:36",
+      "album": {
+        "name": "PARACA\u00cdDAS",
+        "url": "https://open.spotify.com/album/0VhOjpHRE9lUk0yJE39bYq"
+      },
+      "artists": [
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "PARACA\u00cdDAS",
+      "url": "https://open.spotify.com/track/2Erg9cMQHdIXWBmhoSgiFl"
+    },
+    {
       "added_at": "2026-10-16 04:59:31",
       "album": {
         "name": "Tengo Ganas 2.0",
@@ -87,26 +131,6 @@
       "duration_ms": 159419,
       "name": "Tengo Ganas 2.0",
       "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"
-    },
-    {
-      "added_at": "2026-10-16 04:59:31",
-      "album": {
-        "name": "Antes que el tiempo se vaya",
-        "url": "https://open.spotify.com/album/4zB7tPp60O1M5dWo1zDlxe"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 175801,
-      "name": "Antes que el tiempo se vaya",
-      "url": "https://open.spotify.com/track/4lz3N9CKsrJEvNHA5irhEJ"
     },
     {
       "added_at": "2026-10-23 04:59:30",
@@ -131,6 +155,22 @@
       "duration_ms": 176470,
       "name": "C\u00f3brame t\u00fa",
       "url": "https://open.spotify.com/track/3Y3M7wKLxnxKByDDFVGc6V"
+    },
+    {
+      "added_at": "2026-10-30 04:59:36",
+      "album": {
+        "name": "BRINCAITO",
+        "url": "https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "BRINCAITO",
+      "url": "https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C"
     },
     {
       "added_at": "2026-10-16 04:59:31",
@@ -175,26 +215,6 @@
     {
       "added_at": "2026-10-16 04:59:31",
       "album": {
-        "name": "ETDK 2",
-        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
-      },
-      "artists": [
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "GeezyDee",
-          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
-        }
-      ],
-      "duration_ms": 174418,
-      "name": "PLATO TIPICO",
-      "url": "https://open.spotify.com/track/2SzbVOMBeeq7imXX5a9Ydt"
-    },
-    {
-      "added_at": "2026-10-16 04:59:31",
-      "album": {
         "name": "Vallenatico pa la Disco",
         "url": "https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH"
       },
@@ -227,6 +247,22 @@
       "duration_ms": 203480,
       "name": "La Medalla",
       "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
+    },
+    {
+      "added_at": "2026-10-30 04:59:36",
+      "album": {
+        "name": "Hay Amores",
+        "url": "https://open.spotify.com/album/6iaXzhvalK3rmFvcu0Ftof"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "Hay Amores",
+      "url": "https://open.spotify.com/track/6esW9v3oXe41QxiWl0Ydeo"
     },
     {
       "added_at": "2026-10-23 04:59:30",
@@ -575,26 +611,6 @@
     {
       "added_at": "2026-10-16 04:59:31",
       "album": {
-        "name": "El Pacto",
-        "url": "https://open.spotify.com/album/5z91VerhktfjoCowldQlno"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 172997,
-      "name": "El Pacto",
-      "url": "https://open.spotify.com/track/0tUJwCdSzXzHJaarIEm5pN"
-    },
-    {
-      "added_at": "2026-10-16 04:59:31",
-      "album": {
         "name": "EL PEOR HOMBRE DEL MUNDO",
         "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
       },
@@ -615,26 +631,6 @@
       "duration_ms": 212783,
       "name": "MERO TOTE",
       "url": "https://open.spotify.com/track/26wRv00loYD9urTl85LFbI"
-    },
-    {
-      "added_at": "2026-10-16 04:59:31",
-      "album": {
-        "name": "Las Mu\u00f1equitas",
-        "url": "https://open.spotify.com/album/2w7YR5gaVkKxrUMfnfEEnz"
-      },
-      "artists": [
-        {
-          "name": "Mr Plata",
-          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
-        },
-        {
-          "name": "El Americano 4KT",
-          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Las Mu\u00f1equitas",
-      "url": "https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"
     },
     {
       "added_at": "2026-10-16 04:59:31",

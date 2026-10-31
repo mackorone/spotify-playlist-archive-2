@@ -8427,6 +8427,32 @@
     },
     {
       "album": {
+        "name": "Bailar",
+        "url": "https://open.spotify.com/album/4CHZ3dBUl0xfzzAE9RjiUs"
+      },
+      "artists": [
+        {
+          "name": "Itala & Juanjo",
+          "url": "https://open.spotify.com/artist/3sSYhB0dqTSQoe76KnAgvK"
+        },
+        {
+          "name": "Itala Rodriguez",
+          "url": "https://open.spotify.com/artist/75e1ThT3wnK7zWhUi7vY3w"
+        },
+        {
+          "name": "Riosquad",
+          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216087,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/5kyxhs1o58zZhV8lNCeABT"
+    },
+    {
+      "album": {
         "name": "Bailo Contigo",
         "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
       },
@@ -90928,6 +90954,24 @@
       "duration_ms": 129991,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/35O30nJ6vyta9Om439zm5Q"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngeles",
+        "url": "https://open.spotify.com/album/0Bah8J8SR2otwDcQOMlMfM"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "\u00c1ngeles",
+      "url": "https://open.spotify.com/track/0tmoV8hxfFG5km4W1F0pFB"
     },
     {
       "album": {

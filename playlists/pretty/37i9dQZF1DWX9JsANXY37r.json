@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123587,
+  "num_followers": 123588,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "Sweet Time",
+        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 251433,
+      "name": "Sweet Time",
+      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
-        "name": "Sweet Time",
-        "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 251433,
-      "name": "Sweet Time",
-      "url": "https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL"
     },
     {
       "added_at": "2026-10-19 16:00:13",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-10-19 16:00:13",
       "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
+    },
+    {
+      "added_at": "2026-10-19 16:00:13",
+      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 199200,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
-    },
-    {
-      "added_at": "2026-10-19 16:00:13",
-      "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
     },
     {
       "added_at": "2026-10-19 16:00:13",

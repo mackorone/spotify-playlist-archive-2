@@ -215,26 +215,18 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
-        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
       "artists": [
         {
-          "name": "BimBomBam Orchestra",
-          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
-        },
-        {
-          "name": "\u5143\u6674",
-          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
-        },
-        {
-          "name": "\u67f4\u7530\u4eae",
-          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
         }
       ],
-      "duration_ms": 427000,
-      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
-      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -275,22 +267,6 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
-      },
-      "artists": [
-        {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
-    },
-    {
-      "added_at": "2026-09-15 15:00:16",
-      "album": {
         "name": "C",
         "url": "https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW"
       },
@@ -303,6 +279,30 @@
       "duration_ms": 327160,
       "name": "The bell tolls",
       "url": "https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp"
+    },
+    {
+      "added_at": "2026-09-15 15:00:16",
+      "album": {
+        "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
+        "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
+      },
+      "artists": [
+        {
+          "name": "BimBomBam Orchestra",
+          "url": "https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6"
+        },
+        {
+          "name": "\u5143\u6674",
+          "url": "https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L"
+        },
+        {
+          "name": "\u67f4\u7530\u4eae",
+          "url": "https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "regalecus glesne - feat.\u5143\u6674 & \u67f4\u7530\u4eae",
+      "url": "https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2"
+        "name": "seed",
+        "url": "https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg"
       },
       "artists": [
         {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+          "name": "The Hey Song",
+          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
         }
       ],
-      "duration_ms": 404426,
-      "name": "\u767d\u9ce5",
-      "url": "https://open.spotify.com/track/5cFJ2DLxeLgNE4AZsuWOrB"
+      "duration_ms": 207000,
+      "name": "\u30cf\u30eb\u30ab\u30bc",
+      "url": "https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

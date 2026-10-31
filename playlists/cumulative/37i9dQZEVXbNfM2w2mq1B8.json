@@ -5309,6 +5309,28 @@
     },
     {
       "album": {
+        "name": "Bolnitsa",
+        "url": "https://open.spotify.com/album/5JYQBJEOH0H4vX6VnpM3jz"
+      },
+      "artists": [
+        {
+          "name": "KSIOR",
+          "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
+        },
+        {
+          "name": "Diona",
+          "url": "https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Bolnitsa",
+      "url": "https://open.spotify.com/track/2FNPFo76QS9NXtMITSgMp3"
+    },
+    {
+      "album": {
         "name": "Bonbonche",
         "url": "https://open.spotify.com/album/1poSXKaIE2HiiDVevHtAMA"
       },
@@ -25448,17 +25470,13 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
           "name": "Ultra Nat\u00e9",
           "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -32029,6 +32047,28 @@
     },
     {
       "album": {
+        "name": "RIKOSHET",
+        "url": "https://open.spotify.com/album/4IdW4HOsCpKTuBPO35w1sw"
+      },
+      "artists": [
+        {
+          "name": "Menfis",
+          "url": "https://open.spotify.com/artist/1MHSqUazy7BjU8NytnUl0Q"
+        },
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169246,
+      "name": "RIKOSHET",
+      "url": "https://open.spotify.com/track/02zX0wgHupX29Nhq8RAEoy"
+    },
+    {
+      "album": {
         "name": "Rim Tim Tagi Dim",
         "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
       },
@@ -35216,7 +35256,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 255082,
       "name": "SPIDERMAN",
       "url": "https://open.spotify.com/track/5rMcccz09zBOPrG0g36WgI"
@@ -40968,7 +41008,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 159081,
       "name": "VASHA",
       "url": "https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR"
@@ -41490,7 +41530,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 203708,
       "name": "Vreme e",
       "url": "https://open.spotify.com/track/3JOJCNsWThMKEeWBXWDgxI"
@@ -44524,7 +44564,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 158439,
       "name": "\u0411\u0435\u0437 \u0442\u0435\u0431",
       "url": "https://open.spotify.com/track/4cLi9bZRMvDITlmKdo6D2l"
@@ -45064,7 +45104,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "\u0412\u0440\u0435\u043c\u0435\u0442\u043e \u043b\u0435\u043a\u0443\u0432\u0430",
       "url": "https://open.spotify.com/track/4kuW4hHAIl9tn8LuFQbAoz"
@@ -50816,7 +50856,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 211578,
       "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
       "url": "https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g"
@@ -52506,7 +52546,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 194000,
       "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
       "url": "https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X"

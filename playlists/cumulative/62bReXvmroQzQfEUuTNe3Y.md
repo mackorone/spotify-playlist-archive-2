@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-608 songs - 1 day 9 hr 9 min
+609 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Paralyzed](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Paralyzed](https://open.spotify.com/album/2g1R9kNBhCFih34KqUN3J4) | 2:38 | 2021-09-04 | 2021-11-11 |
 | [Particles](https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Particles](https://open.spotify.com/album/7wRWEQGKnOdSRvqxRO9uDU) | 3:20 | 2022-09-02 | 2023-02-04 |
 | [Pines](https://open.spotify.com/track/4DPPA8Sdx1VjH8hWKxDyub) | [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Pines](https://open.spotify.com/album/3nEs96fYQgouQ2QzOk13zM) | 2:47 | 2025-05-16 |  |
+| [pins](https://open.spotify.com/track/55mMqGdd6GxNh6eYSf3Fdt) | [all things break](https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P) | [pins](https://open.spotify.com/album/0E5wwFhihxPnTT4sz8V9cn) | 2:49 | 2026-10-30 |  |
 | [Playback](https://open.spotify.com/track/1cIwWZ0UUervIBRfl8mwzc) | [Daydream Affiliate](https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV) | [Clocks](https://open.spotify.com/album/3K0xnDDCyXlhJFjoXYQoHY) | 2:20 | 2026-01-09 | 2026-08-22 |
 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 | 2025-07-30 | 2026-01-06 |
 | [Pound Cake](https://open.spotify.com/track/5YamuejZEXkcPMGMy0OPTi) | [DEVI](https://open.spotify.com/artist/0MjRae1b4bhNsm6msUcgaL) | [Pound Cake](https://open.spotify.com/album/1kwFRVRvcOBKyi2NuGEwbp) | 4:14 | 2020-09-13\* | 2021-03-06 |

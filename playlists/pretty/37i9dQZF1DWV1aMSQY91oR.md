@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest in hip\-hop, refreshed weekly\. Cover: City Fidelia, Malik Yusef, VIC MENSA
+> We'll be back next week with the latest in hip\-hop\. Cover: City Fidelia, Malik Yusef, VIC MENSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,910 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,936 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Sin City \(Ft\. Vory\)](https://open.spotify.com/track/0mwS7Dy7G305ZRL4vh2tE7) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Sin City \(Ft\. Vory\)](https://open.spotify.com/album/0JzE36lKt2fyNbrIP3AGgZ) | 2:26 |
 | 50 | [Block Is Hot](https://open.spotify.com/track/6qFdvV5wh7g7lxOxsUHufA) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Block Is Hot](https://open.spotify.com/album/7gqNj3i2KynHdmFd5iSsUh) | 2:17 |
 
-Snapshot ID: `AAAAAFXlvtKhTpAhYiiTeipsOhLIlXEd`
+Snapshot ID: `AAAAAAQGOzLcZ65J+ESovuIlxBE8ha5x`

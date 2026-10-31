@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122318,
+  "num_followers": 122312,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV35zZmYy4xwcW3zAR07kXOiSvFLmc",
+  "snapshot_id": "AAAV4EvBil/4yU4jAdwgKg0PnqA2o4Hk",
   "tracks": [
+    {
+      "added_at": "2026-10-30 15:42:19",
+      "album": {
+        "name": "Smashing Pumpkins",
+        "url": "https://open.spotify.com/album/45wTOmW6TeoBin61NgyvKB"
+      },
+      "artists": [
+        {
+          "name": "Psy Trance Mafia",
+          "url": "https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        }
+      ],
+      "duration_ms": 476689,
+      "name": "Smashing Pumpkins",
+      "url": "https://open.spotify.com/track/7qtKsfwxWLrgIfOTxYlFDZ"
+    },
     {
       "added_at": "2026-10-29 14:37:15",
       "album": {

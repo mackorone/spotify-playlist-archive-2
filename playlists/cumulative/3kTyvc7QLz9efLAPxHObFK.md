@@ -4,7 +4,7 @@
 
 > 
 
-3,249 songs - 6 day 23 hr 0 min
+3,250 songs - 6 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Drums In My Hand](https://open.spotify.com/track/1MF01Zh5bFl5llhaHtyIKc) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Drums In My Hand](https://open.spotify.com/album/6zyLcpTafY55gOacmCfMkT) | 3:05 | 2023-01-16 |  |
 | [Drums In My Hand \- Atomic Warfare Edit](https://open.spotify.com/track/5parjW5CRSYnS8FzZMRPx6) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Atomic Warfare EP](https://open.spotify.com/album/17h9UZuzLevVf9YpbdEEqU) | 1:26 | 2024-07-09 |  |
 | [DUAL BREAKER XX](https://open.spotify.com/track/5GZ4Y1rxkPQtvUQyacov0E) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [DUAL BREAKER XX](https://open.spotify.com/album/150pHH4cdSPGn13EbgHeZe) | 2:24 | 2023-01-09 |  |
+| [DUAL BREAKER XX \-Re:BOOT\-](https://open.spotify.com/track/1BiKzRUhS0b5N9ojyn6lKt) | [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [XX](https://open.spotify.com/album/7IaATgGKasyabzvas5DTE1) | 3:42 | 2026-10-30 |  |
 | [Dum Dubi Doom \- Alaguan Radio Mix](https://open.spotify.com/track/0wSc5xV7Aau36yx2pgb2JK) | [No Left Turn](https://open.spotify.com/artist/60oreIOeO1GZOVmPiUtcSX), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Dum Dubi Doom \(Alaguan Radio Mix\)](https://open.spotify.com/album/5cX8fMM68RvsPdlBgNaevK) | 3:08 | 2024-03-01 |  |
 | [Dumb](https://open.spotify.com/track/6cyB5iYZOLW63PYF8AmphR) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Dumb](https://open.spotify.com/album/3rl6vUWO9kxCAqIe9453sT) | 3:04 | 2025-10-03 |  |
 | [Dusk Till Dawn](https://open.spotify.com/track/6WaOGAo31msFRLXsOglBVB) | [Frenzy](https://open.spotify.com/artist/555S6x5I9gWD8U5GjOey8d), [HARDSTYLE DEMON](https://open.spotify.com/artist/1pHV2NLZqJVvMQruGS9Fir), [Frenchcore Demon](https://open.spotify.com/artist/3UvCWdX3cvRzDAFQBqfpbV) | [Dusk Till Dawn](https://open.spotify.com/album/31nJyntS5XxG0OMB5yPuuZ) | 3:25 | 2025-10-27 |  |

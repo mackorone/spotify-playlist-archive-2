@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-54 songs - 2 hr 47 min
+57 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,14 @@
 | [Clean Up Song](https://open.spotify.com/track/0ViTassxJjdgz5WBWllzkq) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Clean Up Song](https://open.spotify.com/album/50lXa6OwQUzBnpX2kK3knn) | 2:46 | 2026-07-28 |  |
 | [Crush](https://open.spotify.com/track/6MYJv37Mpj5njLLbxKWNun) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:36 | 2023-12-30 |  |
 | [Dream](https://open.spotify.com/track/6fQPfycZ0rU13R4Cu6gz8S) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Dream](https://open.spotify.com/album/4KIybFkyj4jtLHRFqtCxGG) | 3:24 | 2023-12-30 |  |
-| [Easy As Pie](https://open.spotify.com/track/6FWBEwjFOZgp7baVeUeTBk) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN) | 1:59 | 2026-07-28 |  |
+| [Easy As Pie](https://open.spotify.com/track/3jNHVejMUqdi3kRcNHJLs2) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Easy As Pie](https://open.spotify.com/album/5a3jaoVV1yMQObEXlwhNvO) | 1:59 | 2026-10-30 |  |
+| [Easy As Pie](https://open.spotify.com/track/6FWBEwjFOZgp7baVeUeTBk) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN) | 1:59 | 2026-07-28 | 2026-10-31 |
 | [Feelin](https://open.spotify.com/track/3xUjq31mZugtR9gkZuzdJt) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 3:04 | 2023-12-30 |  |
 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 | 2023-12-30 |  |
 | [Games \- The Punk AF Matt Squire Mix](https://open.spotify.com/track/712WvUxCO6Boj4Rl919hRG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [Games \(The Punk AF Matt Squire Mix\)](https://open.spotify.com/album/5Zn9eH8IXs4bK10nfBoJQF) | 3:31 | 2023-12-30 |  |
 | [Good Things Go Bad](https://open.spotify.com/track/3TjjPc5qSavGTFqR6f3zHe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:44 | 2026-07-28 |  |
-| [Grow](https://open.spotify.com/track/1rUVGch03Niwmkp9Lmblh5) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/4xCmgPunJsy7CdwXNk5e7U) | 3:11 | 2026-07-28 |  |
+| [Grow](https://open.spotify.com/track/1rUVGch03Niwmkp9Lmblh5) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/4xCmgPunJsy7CdwXNk5e7U) | 3:11 | 2026-07-28 | 2026-10-31 |
+| [Grow](https://open.spotify.com/track/531cqVAvnZvwHk6EMbsjPR) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/2E3kLPOrCJXhfEAOHicVyY) | 3:11 | 2026-10-30 |  |
 | [Haze](https://open.spotify.com/track/0nb8EZAhGSMM66lrhLIsml) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 3:46 | 2023-12-30 |  |
 | [Honest](https://open.spotify.com/track/6VJo03UtC1uXfdk93NvfMb) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 4:12 | 2023-12-30 |  |
 | [I Don't Get to Say I Love You Anymore](https://open.spotify.com/track/0ftCbviWA5aWopBjsBK6Pv) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Halloway](https://open.spotify.com/album/7yKTHZCOlmTOmvama52jEc) | 3:30 | 2023-12-30 |  |
@@ -49,7 +51,8 @@
 | [Prelude](https://open.spotify.com/track/2ZgFgrxaenAAcsbdO7hE5M) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 1:03 | 2023-12-30 |  |
 | [Small](https://open.spotify.com/track/1OssFHKP8AZlj1ouoQ9vcN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:47 | 2026-06-28 |  |
 | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Smoke Signals \(feat\. Tessa Violet\)](https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ) | 3:28 | 2023-12-30 |  |
-| [Something to Lose](https://open.spotify.com/track/0JuB4qKFqDul6VgTUJnMYs) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN) | 3:26 | 2026-08-20 |  |
+| [Something To Lose](https://open.spotify.com/track/2o3zplckwvV9EkG3b1IQv7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something To Lose](https://open.spotify.com/album/6RIbr9d7RF12xrmB5CUlFs) | 3:25 | 2026-10-30 |  |
+| [Something to Lose](https://open.spotify.com/track/0JuB4qKFqDul6VgTUJnMYs) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Something to Lose](https://open.spotify.com/album/4iZi1Lbp0s5unY3zqjdsYN) | 3:26 | 2026-08-20 | 2026-10-31 |
 | [song without a title](https://open.spotify.com/track/5zjVEx4eLpdV78hrWp0pv1) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:38 | 2026-07-28 |  |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4SwltcKHPkCVrvBSOrO0Er) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:48 | 2026-06-28 |  |
 | [Spend Some Time](https://open.spotify.com/track/2jHq8QIir2nXNxfLyMBqos) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 | 2026-06-28 |  |

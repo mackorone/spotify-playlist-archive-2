@@ -10676,7 +10676,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -11492,7 +11492,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 130800,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10"
@@ -16144,7 +16144,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 178000,
       "name": "D\u00e9gun",
       "url": "https://open.spotify.com/track/42KE76b1zWzeyFYYz6xKTF"
@@ -30200,7 +30200,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -49894,7 +49894,7 @@
       ],
       "date_added": "2026-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 170000,
       "name": "Te rencontrer encore",
       "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
@@ -55226,6 +55226,24 @@
       "duration_ms": 180893,
       "name": "WEMBY (feat. Offset)",
       "url": "https://open.spotify.com/track/6ggnoBwRtFo0jphM5sNJgr"
+    },
+    {
+      "album": {
+        "name": "Wetin Day",
+        "url": "https://open.spotify.com/album/5LnhX5zXzz6c2v78c8nk9d"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134493,
+      "name": "Wetin Day",
+      "url": "https://open.spotify.com/track/0uCnAzxG1UNLIfFUoCyc4Q"
     },
     {
       "album": {

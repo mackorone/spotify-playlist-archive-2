@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,548 likes - 101 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,567 likes - 101 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,551 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,537 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 12 | [Maksan kaiken takas](https://open.spotify.com/track/2PTs04hECkjq3oTzFDFaok) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Maksan kaiken takas](https://open.spotify.com/album/3QoODFnqeJo0SlLaLzo7Bz) | 3:03 |
 | 13 | [Kyynelien arvoinen](https://open.spotify.com/track/4CvqjZuBFI494VqE39E1yv) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Tuhlaajapojan totuus](https://open.spotify.com/album/7fuXdJRWDolbtJFgCFnN3Q) | 3:17 |
 | 14 | [Vaihe](https://open.spotify.com/track/46RU6bMFpK7OTOoxbt1zNZ) | [Diya](https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5) | [Vaihe](https://open.spotify.com/album/46so9PutFHYGb4VHKS7VMO) | 3:11 |
-| 15 | [Jos sä tahdot niin \- Vain elämää kausi 17](https://open.spotify.com/track/6iIiswSKniCX1AnAo6avE4) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Piha ilman sadettajaa \(Vain elämää kausi 17\)](https://open.spotify.com/album/4jsWotrGG8SpdblLnUkqo3) | 3:54 |
+| 15 | [Piha ilman sadettajaa \- Vain elämää kausi 17](https://open.spotify.com/track/69pd4nOpSaG7AQLzYrLw2c) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Piha ilman sadettajaa \(Vain elämää kausi 17\)](https://open.spotify.com/album/4jsWotrGG8SpdblLnUkqo3) | 3:43 |
 | 16 | [Se kuuluu kaduille \(Vain elämää kausi 17\)](https://open.spotify.com/track/4zqW9oxHZf6tAUQTenozpI) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Se kuuluu kaduille \(Vain elämää kausi 17\)](https://open.spotify.com/album/4MIes6nf6Mlj5sRre1gcDx) | 3:33 |
 | 17 | [Sydän \(feat\. Elastinen\)](https://open.spotify.com/track/5AcEKHR3zXgnYUvA6FMan9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Herkkisten liiga](https://open.spotify.com/album/4RkusM584xfB3xMgyufXzt) | 3:15 |
 | 18 | [missaa](https://open.spotify.com/track/3A3TNeDWLjPICABdh7dwjx) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [missaa](https://open.spotify.com/album/4aBAuOgqzj38ScLWgbnhDJ) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 99 | [Pahoille teille](https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Pahoille teille](https://open.spotify.com/album/30uvqyR8zMCrmnZ6IGwH31) | 2:38 |
 | 100 | [Pidä kii](https://open.spotify.com/track/308QHU9tQ8hDQouvmHM7Ay) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Pidä kii](https://open.spotify.com/album/2jLbBZZgDM6F8n4NJsinXo) | 3:38 |
 
-Snapshot ID: `AAAAACQLC0IspOAoucFMLTGXBmVrrzYg`
+Snapshot ID: `AAAAAMxois4iLTrkwHwePb+oCgGAuW4Z`

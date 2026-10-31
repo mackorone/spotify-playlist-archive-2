@@ -1,18 +1,18 @@
 {
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Alikiba",
-  "num_followers": 139081,
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu & Diamond Platnumz",
+  "num_followers": 139150,
   "original_name": "Bongo Flava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOq5PH6MxzsQJLZNSNbxFm948X4+",
+  "snapshot_id": "AAAAAM7hvfAxajIG+6dWMpNx4wfw0lBY",
   "tracks": [
     {
-      "added_at": "2026-10-09 16:04:12",
+      "added_at": "2026-10-30 07:49:22",
       "album": {
-        "name": "Kucheza Unajua",
-        "url": "https://open.spotify.com/album/0B7uZ8fM9oD2XUCphO5zJ2"
+        "name": "Mvua Ya Baraka",
+        "url": "https://open.spotify.com/album/3B1RMoDlUgY0TnNtdBIgvB"
       },
       "artists": [
         {
@@ -20,17 +20,13 @@
           "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
         },
         {
-          "name": "MATUA TZ",
-          "url": "https://open.spotify.com/artist/7y8XLns0z2kz1Yp4eM0bmj"
-        },
-        {
-          "name": "Desmile TZ",
-          "url": "https://open.spotify.com/artist/2k3DJ6bYAOTGFCcmx2uM5K"
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         }
       ],
-      "duration_ms": 212204,
-      "name": "Kucheza Unajua",
-      "url": "https://open.spotify.com/track/5xs64jwzTCbN6693W2MoPv"
+      "duration_ms": 183559,
+      "name": "Mvua Ya Baraka",
+      "url": "https://open.spotify.com/track/311cLh7CmURKW2qBXiCgpC"
     },
     {
       "added_at": "2026-10-23 08:45:26",
@@ -67,6 +63,46 @@
       "duration_ms": 245454,
       "name": "Nikumbuke",
       "url": "https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh"
+    },
+    {
+      "added_at": "2026-10-30 07:49:22",
+      "album": {
+        "name": "Tse Monate (feat. Focalistic, Uncool MC, Angekebabuye Mc & Ricky Lenyora)",
+        "url": "https://open.spotify.com/album/1FDBM8hHrf1koro9PDNyfd"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Angekebabuye Mc",
+          "url": "https://open.spotify.com/artist/43bzhXRLYpIEutFybHmm6H"
+        },
+        {
+          "name": "Ricky Lenyora",
+          "url": "https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ"
+        }
+      ],
+      "duration_ms": 362500,
+      "name": "Tse Monate (feat. Focalistic, Uncool MC, Angekebabuye Mc & Ricky Lenyora)",
+      "url": "https://open.spotify.com/track/3482G6eXLoT5TOcOI9Qy5G"
     },
     {
       "added_at": "2026-09-25 00:59:32",
@@ -125,6 +161,30 @@
       "url": "https://open.spotify.com/track/6nQyBIqqMRmKcdlkaCyWZ6"
     },
     {
+      "added_at": "2026-10-09 16:04:12",
+      "album": {
+        "name": "Kucheza Unajua",
+        "url": "https://open.spotify.com/album/0B7uZ8fM9oD2XUCphO5zJ2"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "MATUA TZ",
+          "url": "https://open.spotify.com/artist/7y8XLns0z2kz1Yp4eM0bmj"
+        },
+        {
+          "name": "Desmile TZ",
+          "url": "https://open.spotify.com/artist/2k3DJ6bYAOTGFCcmx2uM5K"
+        }
+      ],
+      "duration_ms": 212204,
+      "name": "Kucheza Unajua",
+      "url": "https://open.spotify.com/track/5xs64jwzTCbN6693W2MoPv"
+    },
+    {
       "added_at": "2026-09-25 00:59:32",
       "album": {
         "name": "Rwanda",
@@ -143,6 +203,26 @@
       "duration_ms": 205416,
       "name": "Rwanda",
       "url": "https://open.spotify.com/track/497KEgCt6cqKsxxrw5YeP6"
+    },
+    {
+      "added_at": "2026-10-30 07:49:22",
+      "album": {
+        "name": "My Fever",
+        "url": "https://open.spotify.com/album/4nRQrKhCViZ6vioAgaNyfd"
+      },
+      "artists": [
+        {
+          "name": "Malaika Gray",
+          "url": "https://open.spotify.com/artist/6B2fQQYMCjpuQqHdoRCg6E"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 181343,
+      "name": "My Fever",
+      "url": "https://open.spotify.com/track/1bD4N93OLBP9Pjcbt3UoSV"
     },
     {
       "added_at": "2026-09-25 00:59:32",
@@ -219,6 +299,38 @@
       "duration_ms": 221739,
       "name": "Uhakika - Remix",
       "url": "https://open.spotify.com/track/6Lr6yCLJz8dYhdvhvlCoDv"
+    },
+    {
+      "added_at": "2026-10-30 07:49:22",
+      "album": {
+        "name": "Kautaka",
+        "url": "https://open.spotify.com/album/75Z9ITLWmlLzHAd2Ceqta8"
+      },
+      "artists": [
+        {
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        },
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        },
+        {
+          "name": "K2ga",
+          "url": "https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW"
+        }
+      ],
+      "duration_ms": 237875,
+      "name": "Kautaka",
+      "url": "https://open.spotify.com/track/7jetY5d1xv6UNZy2Qn3tkD"
     },
     {
       "added_at": "2026-09-25 00:59:32",
@@ -511,6 +623,26 @@
       "duration_ms": 223199,
       "name": "Love Design",
       "url": "https://open.spotify.com/track/7zkZ8iKtTAt97oEosdKMpK"
+    },
+    {
+      "added_at": "2026-10-30 07:49:22",
+      "album": {
+        "name": "Gambe",
+        "url": "https://open.spotify.com/album/4QQjQm3RwiZq0dzDZ0zjT7"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "S2kizzy",
+          "url": "https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc"
+        }
+      ],
+      "duration_ms": 197288,
+      "name": "Gambe",
+      "url": "https://open.spotify.com/track/3St5O9Uh3xoSBj3jf7XZHy"
     },
     {
       "added_at": "2026-09-25 00:59:32",

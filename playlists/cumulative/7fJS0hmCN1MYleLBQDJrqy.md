@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-275 songs - 12 hr 22 min
+277 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-07-18 |  |
 | [Hartenbreker](https://open.spotify.com/track/5MJEH4CwlbbsSjNR5k1k4s) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Hartenbreker](https://open.spotify.com/album/0lGHnncRE7ZX2fbPNnpC6e) | 2:49 | 2026-09-25 |  |
 | [Haver Cappu \(feat\. Milolaathetlukken & ADF Samski\)](https://open.spotify.com/track/645mR9ln7ISijLQJDq1a3M) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Haver Cappu \(feat\. Milolaathetlukken & ADF Samski\)](https://open.spotify.com/album/6vVMdhEOvfcVh7YDqLRaKl) | 2:24 | 2025-07-18 | 2026-02-11 |
+| [Het Gaat Gebeuren...](https://open.spotify.com/track/6F5TLHftd7S49x1y0R7QYY) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09) | [Het Gaat Gebeuren...](https://open.spotify.com/album/1xAnXTBNXdYnbur72qM1pk) | 3:07 | 2026-10-30 |  |
 | [Het Is Al Laat Toch](https://open.spotify.com/track/5OhjkylPjKnmR7I2gnVNwz) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Het Is Al Laat Toch](https://open.spotify.com/album/3RtDWaClh52W8VjqCrYqwK) | 3:28 | 2026-10-27 |  |
 | [Hey DJ](https://open.spotify.com/track/5XpOirYCo6qMxAuC2LPs7x) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [brittneySGAT](https://open.spotify.com/artist/2Jn6vhCVYekLnLrDBXpfny) | [Hey DJ](https://open.spotify.com/album/2v9ZXJx8pxIcvDzSQSBM1v) | 1:48 | 2026-10-23 |  |
 | [Hier Mag Alles](https://open.spotify.com/track/45EKfvWwZMfBT0jnjgRo5S) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/2ibr4XFCe3a6fdrTOeWogY) | 3:15 | 2026-05-19 |  |
@@ -157,6 +158,7 @@
 | [Liefdesverdriet](https://open.spotify.com/track/2GMVReNSsJhHds116zpLXQ) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Liefdesverdriet](https://open.spotify.com/album/3pObjYeEC5hk7c5sbnh4Ly) | 3:00 | 2026-09-25 |  |
 | [Lijntje](https://open.spotify.com/track/6oKMItNFA2iAtqdQbV9bXm) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [F\*CK KLEINE](https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk) | 2:49 | 2026-04-24 |  |
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2026-02-10 |  |
+| [LOLA](https://open.spotify.com/track/6eyhjEZ4gUZVKAMu3r1BnH) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [LOLA](https://open.spotify.com/album/2DlYrFM8ubDI9czxaUstw5) | 2:15 | 2026-10-30 |  |
 | [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 | 2025-11-14 | 2026-02-11 |
 | [Lotje](https://open.spotify.com/track/7KJ021unkPr4E8Z8waQ5L7) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/2EZYI8AVfZxCzzKuRKCfS1) | 2:46 | 2025-07-18 |  |
 | [Lotje](https://open.spotify.com/track/289NOT3DzIaOL5usnMEU4V) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [ANNO ONS](https://open.spotify.com/album/5iIkKAfIrIqcUNxQWS8mLf) | 2:47 | 2026-09-25 |  |

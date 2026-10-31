@@ -6,191 +6,391 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAGCdZwmiLh9nzuoRQAwteMjp5pTQhl",
+  "snapshot_id": "AAAGDDy4WkveiOHnW4z0ZeVCV0wWj0jH",
   "tracks": [
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "Prison In Heaven",
-        "url": "https://open.spotify.com/album/6zdAvuLKB1oi8BuNd8ZGB6"
+        "name": "Mit\u00e4 ihminen katuu",
+        "url": "https://open.spotify.com/album/1daqKzXj8nJtNPltrbPTOd"
       },
       "artists": [
         {
-          "name": "Paul Allen",
-          "url": "https://open.spotify.com/artist/1ewhAtkWJhsTs8GsseqBft"
+          "name": "Sara",
+          "url": "https://open.spotify.com/artist/2vWRgNboMcV1z1g7TrFsQr"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "Mit\u00e4 ihminen katuu",
+      "url": "https://open.spotify.com/track/3YvtNf7AZIFH0ghnFrct0I"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/6ME9JqmJL4dqByVtBggEC6"
+      },
+      "artists": [
+        {
+          "name": "Michael Feel & Aleco",
+          "url": "https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni"
+        }
+      ],
+      "duration_ms": 138095,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/4copQRgQZkx1oMArc1pR7o"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "Arabella",
+        "url": "https://open.spotify.com/album/738suhGEMv6uWdtc3hEzTN"
+      },
+      "artists": [
+        {
+          "name": "Tian Nienaber",
+          "url": "https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf"
+        }
+      ],
+      "duration_ms": 161046,
+      "name": "Arabella",
+      "url": "https://open.spotify.com/track/6q0JfWp1LQj057cRUCDt9u"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "He Will Be Back",
+        "url": "https://open.spotify.com/album/3wliOcQRzfMCjVxZLMEaqu"
+      },
+      "artists": [
+        {
+          "name": "Upploppet",
+          "url": "https://open.spotify.com/artist/7y4wEN1hYr1qm9d6gQMyFd"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "He Will Be Back",
+      "url": "https://open.spotify.com/track/49h3uXQk9TOQO1IQpXs9BW"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "\u00d6gonblick av dyrbar existens",
+        "url": "https://open.spotify.com/album/1EsbNgUnYrGo8d9efPxSE0"
+      },
+      "artists": [
+        {
+          "name": "Ensamhush\u00e5ll",
+          "url": "https://open.spotify.com/artist/0klWm6vQh24USrr222vkbr"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "K\u00e4rleksvisa #2",
+      "url": "https://open.spotify.com/track/4FymYF5lVY5lqbCylUTgS4"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "Halki aikain kaikuu \u2013 Joulumusiikkia Euroopasta pianolla ja uruilla",
+        "url": "https://open.spotify.com/album/4bEsW5U0FuWtNwzxvySwv3"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
         },
         {
-          "name": "Jesus & The Seven Dwarves",
-          "url": "https://open.spotify.com/artist/4821PRyKqBhSEiTCkqMWBf"
-        }
-      ],
-      "duration_ms": 161222,
-      "name": "Prison In Heaven",
-      "url": "https://open.spotify.com/track/7HKvCvDxYKkOwSKjgfvEDl"
-    },
-    {
-      "added_at": "2026-10-23 14:33:37",
-      "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0cHayo62S1Z4QquoQRZEPc"
-      },
-      "artists": [
-        {
-          "name": "B-complex",
-          "url": "https://open.spotify.com/artist/46oL0QioEQMSSvkxxifCok"
+          "name": "Elisa Vikki",
+          "url": "https://open.spotify.com/artist/59GlLWQ1h5sZHJJuxFhqZ0"
         },
         {
-          "name": "Tanukichi",
-          "url": "https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP"
+          "name": "Kaisa Hartikainen",
+          "url": "https://open.spotify.com/artist/1MPkzr9KrgJm7ekeA4mF14"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/07Yj7bAHW1nZwHDRMn9tBi"
+      "duration_ms": 234231,
+      "name": "Stille Nacht, heilige Nacht",
+      "url": "https://open.spotify.com/track/2nmHhSUJBsC7q13F1ZDX9V"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "Kompass",
-        "url": "https://open.spotify.com/album/7sb9Us88bTKpvuXt1Rj3BR"
+        "name": "La Sangre Tira",
+        "url": "https://open.spotify.com/album/76uH7KtmUwzOsg4YmMAUv2"
       },
       "artists": [
         {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/6IeVrt47kE26dHQbHB1CdM"
+          "name": "La Porte\u00f1a y los Piratas",
+          "url": "https://open.spotify.com/artist/0DKfMFEEr3YNpSu4kTKkPi"
         }
       ],
-      "duration_ms": 178580,
-      "name": "Hand in Hand",
-      "url": "https://open.spotify.com/track/6g03nK8IceXouMh5vq3Ixi"
+      "duration_ms": 210384,
+      "name": "Sexo en Transilvania",
+      "url": "https://open.spotify.com/track/3IITxYBTAeS59E6D18H8Mv"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "Don't Call Me White",
-        "url": "https://open.spotify.com/album/0uQPj4tBs0KnJ5SR2ezibJ"
+        "name": "MAGIC LOVE DESTRUCTION",
+        "url": "https://open.spotify.com/album/135dljM1jwsEHNkyjQL30N"
       },
       "artists": [
         {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+          "name": "PreHistoric animals",
+          "url": "https://open.spotify.com/artist/35C49Ko2ZqxepW3lgnYc78"
         }
       ],
-      "duration_ms": 194540,
-      "name": "Don't Call Me White",
-      "url": "https://open.spotify.com/track/7uPbVrRFNtBzr4RtvuDjNh"
+      "duration_ms": 343448,
+      "name": "Finding love in dark places: MAGIC LOVE DESTRUCTION",
+      "url": "https://open.spotify.com/track/4EbMTAyJLgZDBnoand6nh3"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "You might never see me again",
-        "url": "https://open.spotify.com/album/19KG18hHisS4ZbAlkF4nDj"
+        "name": "Ankahi",
+        "url": "https://open.spotify.com/album/01LO9NNkUWpvDk71m5my8t"
       },
       "artists": [
         {
-          "name": "KORALL",
-          "url": "https://open.spotify.com/artist/2ygua3FzBvxZL0UD0bPY0l"
+          "name": "Ameer Mustafa",
+          "url": "https://open.spotify.com/artist/0Sgcir6j2eryd3HMRExpug"
         }
       ],
-      "duration_ms": 204425,
-      "name": "You might never see me again",
-      "url": "https://open.spotify.com/track/1IlhbSBAcMrmRIzp8iah5v"
+      "duration_ms": 186000,
+      "name": "Ankahi",
+      "url": "https://open.spotify.com/track/2TF3kdiAGjpmgCccPJ92lf"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "Alarma de Fuego",
-        "url": "https://open.spotify.com/album/3TtT2FWwSi0cF9GkIxPnqd"
+        "name": "Masterplan",
+        "url": "https://open.spotify.com/album/3ryF8RsMefX7UffxC6pgkV"
       },
       "artists": [
         {
-          "name": "Muri\u00f3 el Doctor",
-          "url": "https://open.spotify.com/artist/0zpcT4TLVcexOv1WOjci2J"
+          "name": "There Will Be Robots",
+          "url": "https://open.spotify.com/artist/4Q0upjqxErqYJsGxHB7TPf"
         }
       ],
-      "duration_ms": 190311,
-      "name": "Alarma de Fuego",
-      "url": "https://open.spotify.com/track/4wyObgDF9qYXWdPBW2IXtd"
+      "duration_ms": 265416,
+      "name": "Masterplan",
+      "url": "https://open.spotify.com/track/2zLKOEm3oN57MlQl2iYmuU"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "Tenayi Allah Ihenik",
-        "url": "https://open.spotify.com/album/72zVCcKg72SUAW1ZjmvBQt"
+        "name": "Out of Order",
+        "url": "https://open.spotify.com/album/1CckeQhO4CIcKWO6HPxqxD"
       },
       "artists": [
         {
-          "name": "Rachid Kasmi",
-          "url": "https://open.spotify.com/artist/36wD11p3VIwHH25Glcn2ut"
+          "name": "TypingtoLeila",
+          "url": "https://open.spotify.com/artist/0RXdAvGg73qgsLLt4ecwFD"
         }
       ],
-      "duration_ms": 218428,
-      "name": "Tenayi Allah Ihenik",
-      "url": "https://open.spotify.com/track/1mjWMPwLCcI4yviqcoGBE8"
+      "duration_ms": 253400,
+      "name": "Out of Order",
+      "url": "https://open.spotify.com/track/22EqIuMypCbUJtS81DkBUJ"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/5QvDalM4y2FvIiipxyeNxC"
+        "name": "I May Be Superstitious",
+        "url": "https://open.spotify.com/album/4dQVztltweURXXnroJAR9V"
       },
       "artists": [
         {
-          "name": "Isak Jakobsson",
-          "url": "https://open.spotify.com/artist/6p1dSTtiCvXjnCeAQsUodb"
+          "name": "Lightnin' Jay",
+          "url": "https://open.spotify.com/artist/1FXagTGWgdbPDoeSUicbEV"
         }
       ],
-      "duration_ms": 160611,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/0ohoqnmtMOYYmQJulOi7Sy"
+      "duration_ms": 178066,
+      "name": "I May Be Superstitious",
+      "url": "https://open.spotify.com/track/4mxST7k47V2uQNeo8jhPBs"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "Sankta Lucia (Ett krossat hj\u00e4rtas bedjan)",
-        "url": "https://open.spotify.com/album/5Fo1aOQlEn2FlF58dZMMQm"
+        "name": "Aqualore",
+        "url": "https://open.spotify.com/album/2WbUsyTrQ3lqlTPakdWTMG"
       },
       "artists": [
         {
-          "name": "GINAxC",
-          "url": "https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ"
+          "name": "jules sea rena",
+          "url": "https://open.spotify.com/artist/0SmiN40j8tabLXhlZu6YF3"
         }
       ],
-      "duration_ms": 172061,
-      "name": "Sankta Lucia (Ett krossat hj\u00e4rtas bedjan)",
-      "url": "https://open.spotify.com/track/2rmObHE0W4gGysyBuzDyNI"
+      "duration_ms": 144301,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/1btMiFclprifpY3y6GNrbb"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/1rGVlBtlR35sVYlMTmrHZ8"
+        "name": "Seats That Face On Trains",
+        "url": "https://open.spotify.com/album/4XrHaMfCMMpwFgkYO3TQ4q"
       },
       "artists": [
         {
-          "name": "MR BOB`S MACHINERY",
-          "url": "https://open.spotify.com/artist/6laqg8F3FS7ubw5wHorxlm"
+          "name": "Drop Shadow",
+          "url": "https://open.spotify.com/artist/5pFJt8Elph23Cwvdt7EfHX"
         }
       ],
-      "duration_ms": 253477,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/1ztpJlWQPU1AJxDc3j4owc"
+      "duration_ms": 257377,
+      "name": "Seats That Face On Trains",
+      "url": "https://open.spotify.com/track/0rhHfu1aQjpaimUfJL0B7I"
     },
     {
-      "added_at": "2026-10-23 14:33:37",
+      "added_at": "2026-10-30 15:58:06",
       "album": {
-        "name": "I Djupet Av Min Sj\u00e4l",
-        "url": "https://open.spotify.com/album/7hSNx2PRddQ6w0om1PfoYI"
+        "name": "Human Coil",
+        "url": "https://open.spotify.com/album/1elf8fLst30uJZ2JqaGume"
       },
       "artists": [
         {
-          "name": "Py B\u00e4ckman",
-          "url": "https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3"
+          "name": "INLEGION",
+          "url": "https://open.spotify.com/artist/3uTISJ4t9NgYeNipenoFxY"
         }
       ],
-      "duration_ms": 187974,
-      "name": "I Djupet Av Min Sj\u00e4l",
-      "url": "https://open.spotify.com/track/5FS0wYXaaTNGzOmRLVjETo"
+      "duration_ms": 260725,
+      "name": "InHuman Being",
+      "url": "https://open.spotify.com/track/4xWhkbHEWXyIcr2wv9ydsI"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "S3LFSH",
+        "url": "https://open.spotify.com/album/1lJnvBRqHFoMzwoyNxtxT9"
+      },
+      "artists": [
+        {
+          "name": "Cujo La'Vel",
+          "url": "https://open.spotify.com/artist/2rypu0U43AYINAbj23j3ei"
+        }
+      ],
+      "duration_ms": 229156,
+      "name": "S3LFSH",
+      "url": "https://open.spotify.com/track/3qTT6IG5I6ogCvLv8MKlyD"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "I'm Doing This For Me",
+        "url": "https://open.spotify.com/album/3Ic9a6oxydQjyLXf49p3W7"
+      },
+      "artists": [
+        {
+          "name": "Matt Billman",
+          "url": "https://open.spotify.com/artist/2bKV6GkUI1tx451l5ZrayM"
+        }
+      ],
+      "duration_ms": 237847,
+      "name": "Still Strong",
+      "url": "https://open.spotify.com/track/3ZMZd7UIqSayuCsJhV6Sx0"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "Nightmare Delirium",
+        "url": "https://open.spotify.com/album/0kRSvJ3bPOYEqnLPv5yzzq"
+      },
+      "artists": [
+        {
+          "name": "Grotesqueries",
+          "url": "https://open.spotify.com/artist/3ZSt8Wvfw4BqGvQM1gr8mB"
+        }
+      ],
+      "duration_ms": 229763,
+      "name": "Corporeal Purulence",
+      "url": "https://open.spotify.com/track/4SCIMJZbycCm0MBZDyYTx3"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "Sambal Tteokbokki (From \"Sambal Tteokbokki\")",
+        "url": "https://open.spotify.com/album/4XB1mNW24qBjNjQS7lm8pl"
+      },
+      "artists": [
+        {
+          "name": "Dhany Saputra",
+          "url": "https://open.spotify.com/artist/66xWVu9lqCxyng5woTwfJZ"
+        },
+        {
+          "name": "JIIN",
+          "url": "https://open.spotify.com/artist/5OZ4vHJceES8j4SiBEDv2K"
+        }
+      ],
+      "duration_ms": 182775,
+      "name": "Sambal Tteokbokki - From \"Sambal Tteokbokki\"",
+      "url": "https://open.spotify.com/track/2yUNRPf41vyDZj6XorTXdm"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "Christmas Is Upon Us",
+        "url": "https://open.spotify.com/album/5JKVAktT3UCdaWZU2TaLmE"
+      },
+      "artists": [
+        {
+          "name": "BJ Foster",
+          "url": "https://open.spotify.com/artist/0ImYSClvtVS3zHS7HM1GEY"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Christmas Is Upon Us",
+      "url": "https://open.spotify.com/track/0q1Gjt5w8yvaFuSUhcvoOC"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "All I've Bled",
+        "url": "https://open.spotify.com/album/6pdvkV8b6vAaz0Z3XR4Cb6"
+      },
+      "artists": [
+        {
+          "name": "MAAGE",
+          "url": "https://open.spotify.com/artist/2Oaf69HFSa1VVkuVTNJvum"
+        },
+        {
+          "name": "Mirage",
+          "url": "https://open.spotify.com/artist/3pm2nYtIVFTHslDh2CbIiR"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "All I've Bled",
+      "url": "https://open.spotify.com/track/5pyq3CY3pijO8dAUhtv2SH"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "Gl\u00f8d",
+        "url": "https://open.spotify.com/album/0sVO6LaXGFAmHoo17rTSP9"
+      },
+      "artists": [
+        {
+          "name": "Rider",
+          "url": "https://open.spotify.com/artist/3SDzjcyd1lBhWSeEaC0GCa"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Gl\u00f8d",
+      "url": "https://open.spotify.com/track/6EO7uYx5psdyRafNyqJSg1"
+    },
+    {
+      "added_at": "2026-10-30 15:58:06",
+      "album": {
+        "name": "Glam!",
+        "url": "https://open.spotify.com/album/4UZZBierRwQBjkkq6p8e6P"
+      },
+      "artists": [
+        {
+          "name": "Electric Pets",
+          "url": "https://open.spotify.com/artist/5vcnO1y3jGvpaTc22C5QLi"
+        }
+      ],
+      "duration_ms": 184179,
+      "name": "Glam!",
+      "url": "https://open.spotify.com/track/4MBkKIdVtjYvrmd7g13A7k"
     }
   ],
   "unique_name": "Independent Music Friday",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Sant
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,118 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,191 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [introdução](https://open.spotify.com/track/1XcqHWpI9uOvLpXyVpwMO5) | [VirginGod](https://open.spotify.com/artist/2WsyJKnl3oBtl3uorFlKp9) | [mesma alma](https://open.spotify.com/album/1piqUYSLm6n1CKDWrmKZNb) | 2:02 |
 | 75 | [O Que Será \(À Flor Da Terra\)](https://open.spotify.com/track/2fwV398Ref8Q3ZDCDsR7nI) | [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Felipe Poeta](https://open.spotify.com/artist/3gZcF1tlgvrjYOaMOUW8Px) | [O Que Será \(À Flor Da Terra\)](https://open.spotify.com/album/7dCJBJ6x6xJqlUMSDkPejs) | 2:42 |
 
-Snapshot ID: `AAAAABoAnMDC3KI1NuWuekoa4UPKJoWn`
+Snapshot ID: `AAAAAJHWMRgIxbchAULJaDOl2qsQZG4W`

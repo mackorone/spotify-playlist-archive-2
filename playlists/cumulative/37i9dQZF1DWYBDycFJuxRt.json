@@ -137783,6 +137783,24 @@
     },
     {
       "album": {
+        "name": "ONIGOKKO",
+        "url": "https://open.spotify.com/album/3DCo2Yi11ip77aX8Gn8RtX"
+      },
+      "artists": [
+        {
+          "name": "Chogakusei",
+          "url": "https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo"
+        }
+      ],
+      "date_added": "2026-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "ONIGOKKO",
+      "url": "https://open.spotify.com/track/3NWDy9V0K4KooRy2OaWVJL"
+    },
+    {
+      "album": {
         "name": "Only cry in the rain",
         "url": "https://open.spotify.com/album/5BenIQ2E8TFdZoAtPjUP9a"
       },
@@ -269104,14 +269122,6 @@
         {
           "name": "\u793c\u8863",
           "url": "https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl"
-        },
-        {
-          "name": "PARKGOLF",
-          "url": "https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9"
-        },
-        {
-          "name": "Emi Okamoto",
-          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
         }
       ],
       "date_added": "2026-10-27",

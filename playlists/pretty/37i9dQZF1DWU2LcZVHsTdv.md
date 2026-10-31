@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,415 likes - 191 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,442 likes - 191 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brand New](https://open.spotify.com/track/0Pkriar8XTpg2rjunec0Da) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Christian Name](https://open.spotify.com/album/3LNDQsQCdV8NHgahTHWprZ) | 6:56 |
-| 2 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
+| 2 | [The Jesus I Know Now \- with Lainey Wilson](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now \(with Lainey Wilson\)](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
 | 3 | [Bigger Picture \- Demo](https://open.spotify.com/track/2RgHwSfgQR6g1xqxV9P07m) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:36 |
 | 4 | [Saving Jesus](https://open.spotify.com/track/6iQvJ9xfEBdvnrIGyYF6dQ) | [Micah Christopher](https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi), [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Saving Jesus](https://open.spotify.com/album/7cOv0Xce93bcsujrxmjBTX) | 3:54 |
 | 5 | [Saved](https://open.spotify.com/track/2AJjGdc0WV9Iz67mfsvUy9) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Saved](https://open.spotify.com/album/6hQaSoZpkoPIk0MC85Hn3n) | 3:34 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 19 | [Well Water](https://open.spotify.com/track/4fpoIB1b6pA0K41UTpvxqW) | [Micah Christopher](https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi) | [Well Water](https://open.spotify.com/album/3Xvch3VWF9z7LE5Pl2cF4c) | 3:41 |
 | 20 | [If God Lives Here](https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves \(Deluxe\)](https://open.spotify.com/album/27SAGWQhgRIMrsaXyiGge2) | 3:41 |
 | 21 | [The Baptism of Jesse Taylor](https://open.spotify.com/track/3I1g3df1iiVB9MvBQkRwlK) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Charlie McCoy](https://open.spotify.com/artist/4LwB86Ve6LpHYtsbnu6bvC), [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [The Baptism of Jesse Taylor](https://open.spotify.com/album/3dhw3hStafRCEl3iQlhaeH) | 3:58 |
-| 22 | [The Author](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 |
+| 22 | [The Author \- with Nick Jonas](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author \(with Nick Jonas\)](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 |
 | 23 | [Make Heaven Crowded](https://open.spotify.com/track/6tl9lCo2dhDMFUEQTB695d) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Make Heaven Crowded](https://open.spotify.com/album/1eokdrcUTUUlJjuNRTLmRp) | 3:11 |
 | 24 | [My Country](https://open.spotify.com/track/0NOIhvYEBUKcR6lBW2eD0w) | [Band Reeves](https://open.spotify.com/artist/2KuImPwSXezVrIEtpeRVmk) | [My Country](https://open.spotify.com/album/3NvJJj5UaCYMj9Aua3DLeg) | 3:10 |
 | 25 | [Speaking Terms](https://open.spotify.com/track/3run9sUbpxozM6Cw0k3VfA) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 4:23 |

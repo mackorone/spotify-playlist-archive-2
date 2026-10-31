@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Scene",
-  "num_followers": 769146,
+  "num_followers": 769283,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMpG4VdRpxNTV8UtROae+1LPocx0",
+  "snapshot_id": "AAAAAISbBawWpmrhNj6pYadq1dLzJcyc",
   "tracks": [
     {
       "added_at": "2026-10-19 12:33:02",
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/6VjtbN9C73Xof1xhPVU4Xx"
     },
     {
+      "added_at": "2026-10-31 00:48:28",
+      "album": {
+        "name": "OM Special Duty (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+        "url": "https://open.spotify.com/album/3z7AwIsn0G4Z00kZ84p1m7"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 108235,
+      "name": "OM Special Duty (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+      "url": "https://open.spotify.com/track/2Oe1iRINEKAeyjtQawhHPO"
+    },
+    {
       "added_at": "2026-09-30 17:51:13",
       "album": {
         "name": "Jailer 2 (Original Motion Picture Soundtrack)",
@@ -139,6 +155,34 @@
       "duration_ms": 217142,
       "name": "One Sun One Moon",
       "url": "https://open.spotify.com/track/5JWHSTAUiaCSeWwWlaVnyg"
+    },
+    {
+      "added_at": "2026-10-31 00:48:28",
+      "album": {
+        "name": "Mangala Vanname (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/72nDkX643kiknBxoHpYpI6"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "duration_ms": 277025,
+      "name": "Mangala Vanname (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/5eQ52p3sx7ozbcpWcJBjc4"
     },
     {
       "added_at": "2026-10-08 12:31:09",
@@ -178,6 +222,10 @@
         {
           "name": "Kaushik Krish",
           "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        },
+        {
+          "name": "Yuki Praveen",
+          "url": "https://open.spotify.com/artist/6Nke0y2Gwq2uESBYvuz7Qq"
         }
       ],
       "duration_ms": 170362,
@@ -309,7 +357,7 @@
         }
       ],
       "duration_ms": 176889,
-      "name": "Mahashakthi Trance",
+      "name": "Mahasakthi Trance",
       "url": "https://open.spotify.com/track/73d76sIVtFMnATaay6XzAY"
     },
     {
@@ -333,6 +381,34 @@
       "url": "https://open.spotify.com/track/3QMfo44lz1oGmZY2wWAQb5"
     },
     {
+      "added_at": "2026-10-31 00:48:28",
+      "album": {
+        "name": "Haiku (Tamil)",
+        "url": "https://open.spotify.com/album/7t7t0ZGdsYMrdJXfw7yZGv"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Thithikiriye",
+      "url": "https://open.spotify.com/track/6flZ1ley6Z0bTBkovmqRGl"
+    },
+    {
       "added_at": "2026-10-29 16:33:35",
       "album": {
         "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
@@ -354,6 +430,10 @@
         {
           "name": "Kaushik Krish",
           "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/61Xhq2HQz0Sv3h5EJRYlfv"
         }
       ],
       "duration_ms": 211338,
@@ -417,6 +497,70 @@
       "url": "https://open.spotify.com/track/5ZWZ0zGL5nYaqzBlzLGLqQ"
     },
     {
+      "added_at": "2026-10-31 00:48:28",
+      "album": {
+        "name": "Haiku (Tamil)",
+        "url": "https://open.spotify.com/album/7t7t0ZGdsYMrdJXfw7yZGv"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Jigala Jillelo",
+      "url": "https://open.spotify.com/track/0bFYnadvjYcx9bbWudrhtN"
+    },
+    {
+      "added_at": "2026-10-31 00:50:28",
+      "album": {
+        "name": "Pudhu Jodi (From \"Ramayana\")",
+        "url": "https://open.spotify.com/album/1VJNes1rFOsVztkvZW7L4W"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/2xa9mQkvZzkBY1cPIi3m7q"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "duration_ms": 239034,
+      "name": "Pudhu Jodi (From \"Ramayana\")",
+      "url": "https://open.spotify.com/track/0IZH7d7PpPC2XMtgWxahpk"
+    },
+    {
+      "added_at": "2026-10-31 00:36:09",
+      "album": {
+        "name": "Usure Needhan Pulla - Reprise (From \"Mandaadi\")",
+        "url": "https://open.spotify.com/album/1ZEtQY4ZdLURLcZrgAlICq"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "duration_ms": 74117,
+      "name": "Usure Needhan Pulla - Reprise (From \"Mandaadi\")",
+      "url": "https://open.spotify.com/track/3jBNJu7EcG86bV3v0rvUAp"
+    },
+    {
       "added_at": "2026-10-29 16:33:35",
       "album": {
         "name": "Mookuthi Amman 2 - Mahasakthi (Original Motion Picture Soundtrack)",
@@ -430,6 +574,10 @@
         {
           "name": "Kharesma Ravichandran",
           "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
         }
       ],
       "duration_ms": 128318,
@@ -463,6 +611,30 @@
       "duration_ms": 270009,
       "name": "Kaalangaalama",
       "url": "https://open.spotify.com/track/6gxVlAlihxRjDjYRSpIVhd"
+    },
+    {
+      "added_at": "2026-10-31 00:48:28",
+      "album": {
+        "name": "Devatha Odittalaa (From \"Marriage Story\")",
+        "url": "https://open.spotify.com/album/3vlVS9TBNxnTUASpAqvIPg"
+      },
+      "artists": [
+        {
+          "name": "Saran Raghavan",
+          "url": "https://open.spotify.com/artist/2pSMQrMGmAi7CZ9I9XwYxu"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Gana Guna",
+          "url": "https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW"
+        }
+      ],
+      "duration_ms": 256744,
+      "name": "Devatha Odittalaa (From \"Marriage Story\")",
+      "url": "https://open.spotify.com/track/3fPBLCMZa6EdrWC1rdJm5x"
     },
     {
       "added_at": "2026-10-29 16:33:35",
@@ -809,22 +981,6 @@
       "url": "https://open.spotify.com/track/19wVdiE7ukNcEuRUHIwboZ"
     },
     {
-      "added_at": "2026-10-12 05:20:31",
-      "album": {
-        "name": "Nandhini (From \"Gods and Soldiers\") (Tamil)",
-        "url": "https://open.spotify.com/album/0MBlTxeFeyTQDZ3vOIKidg"
-      },
-      "artists": [
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        }
-      ],
-      "duration_ms": 129562,
-      "name": "Nandhini (From \"Gods and Soldiers\") (Tamil)",
-      "url": "https://open.spotify.com/track/2qHBhyZaoizXYT11yNf0sa"
-    },
-    {
       "added_at": "2026-10-21 12:01:16",
       "album": {
         "name": "Bottle Gang (From \"Delivery Boy\")",
@@ -1005,34 +1161,6 @@
       "url": "https://open.spotify.com/track/7zQEwPu5L50YFbZDlof14S"
     },
     {
-      "added_at": "2026-10-12 05:20:31",
-      "album": {
-        "name": "Terror Error (From \"Drones\")",
-        "url": "https://open.spotify.com/album/4IGeL238QSfFbqUQISeRfA"
-      },
-      "artists": [
-        {
-          "name": "Hari S R",
-          "url": "https://open.spotify.com/artist/2JE6c6KUpnyUqx8JcyU7d7"
-        },
-        {
-          "name": "Iykki Berry",
-          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
-        },
-        {
-          "name": "Kelithee",
-          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
-        },
-        {
-          "name": "Gana Gowtham",
-          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
-        }
-      ],
-      "duration_ms": 216020,
-      "name": "Terror Error (From \"Drones\")",
-      "url": "https://open.spotify.com/track/1p6s0I3e7XOBoadlX44qw0"
-    },
-    {
       "added_at": "2026-09-02 14:45:35",
       "album": {
         "name": "Mandaadi (Original Motion Picture Soundtrack)",
@@ -1123,30 +1251,6 @@
       "duration_ms": 238395,
       "name": "Annakiliye",
       "url": "https://open.spotify.com/track/6z5rgilnfViBiGBqHAPxN9"
-    },
-    {
-      "added_at": "2026-10-12 05:20:31",
-      "album": {
-        "name": "Karuvizhi (From \"Haiku\") (Tamil)",
-        "url": "https://open.spotify.com/album/36WqsrzAmGd6pXVFsTVaSM"
-      },
-      "artists": [
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Karuvizhi (From \"Haiku\") (Tamil)",
-      "url": "https://open.spotify.com/track/0gH3wyL1PzPbiCbfIh9LqM"
     },
     {
       "added_at": "2026-09-30 17:51:13",
@@ -1319,30 +1423,6 @@
       "duration_ms": 147432,
       "name": "Poda Padichiruken",
       "url": "https://open.spotify.com/track/2XAEvHAgyc5SQVC8PSXKIT"
-    },
-    {
-      "added_at": "2026-10-10 00:51:50",
-      "album": {
-        "name": "Ulagam Oru Urunda (From \"Pulavar\")",
-        "url": "https://open.spotify.com/album/4q8IWuYkhljhvA0Lxb8YEC"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Ajmal Khan",
-          "url": "https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR"
-        },
-        {
-          "name": "Ravi Murukaiyah",
-          "url": "https://open.spotify.com/artist/3ABuiHL9T4Ih3N3LxPxwF5"
-        }
-      ],
-      "duration_ms": 259793,
-      "name": "Ulagam Oru Urunda (From \"Pulavar\")",
-      "url": "https://open.spotify.com/track/3FM03MA2Tn1NkOjIYn2kmR"
     },
     {
       "added_at": "2026-10-07 15:34:52",
@@ -2275,74 +2355,6 @@
       "duration_ms": 156176,
       "name": "Bloody Band (From \"DC\")",
       "url": "https://open.spotify.com/track/6HaqRVq9t26NjWNhH193V4"
-    },
-    {
-      "added_at": "2026-08-26 12:38:36",
-      "album": {
-        "name": "MAGUDAM (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6LxHZ8lPBMw4JTSALNd8Eb"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "V7h",
-          "url": "https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl"
-        }
-      ],
-      "duration_ms": 204041,
-      "name": "Rise of Linga (From \"MAGUDAM\")",
-      "url": "https://open.spotify.com/track/1TgpAVyLDNekhIBkKbuRzm"
-    },
-    {
-      "added_at": "2026-08-25 15:01:53",
-      "album": {
-        "name": "Hi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ynUVhKeXeIOhlygKTjxwR"
-      },
-      "artists": [
-        {
-          "name": "Jen Martin",
-          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
-        },
-        {
-          "name": "Sathya Narayanan",
-          "url": "https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt"
-        },
-        {
-          "name": "Ashique AR",
-          "url": "https://open.spotify.com/artist/7a2hwgmPEziltEjQBW9kNI"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Pacha Pulla",
-      "url": "https://open.spotify.com/track/5fTlUsamMxnh4kVG3UCazS"
-    },
-    {
-      "added_at": "2026-08-25 15:01:53",
-      "album": {
-        "name": "Hi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ynUVhKeXeIOhlygKTjxwR"
-      },
-      "artists": [
-        {
-          "name": "Jen Martin",
-          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Vishnu Edavan",
-          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
-        }
-      ],
-      "duration_ms": 186551,
-      "name": "Kannakuzhiya",
-      "url": "https://open.spotify.com/track/7M26jsZqOWgBb4nNoLF8XY"
     }
   ],
   "unique_name": "Latest Tamil",

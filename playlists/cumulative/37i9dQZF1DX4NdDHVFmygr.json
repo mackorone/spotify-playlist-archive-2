@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits marocains du moment. Cover: Draganov",
+  "description": "Les hits marocains du moment. Cover: Shaw",
   "name": "Hit Maghribi",
   "tracks": [
     {
@@ -1582,6 +1582,24 @@
       "duration_ms": 183728,
       "name": "Carabina",
       "url": "https://open.spotify.com/track/2fxWooJ4Mymjo0nVk2HqFo"
+    },
+    {
+      "album": {
+        "name": "CARAPACE",
+        "url": "https://open.spotify.com/album/3jPN88bqcOFS8Mx7OzgxVX"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "CARAPACE",
+      "url": "https://open.spotify.com/track/5Xy0qqP85xyAD7epPutFDo"
     },
     {
       "album": {
@@ -9686,7 +9704,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 152951,
       "name": "WALLAHI",
       "url": "https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb"

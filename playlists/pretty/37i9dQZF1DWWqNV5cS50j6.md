@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Hockitay
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,414 likes - 89 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,436 likes - 89 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

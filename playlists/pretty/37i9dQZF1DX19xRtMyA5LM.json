@@ -1,12 +1,12 @@
 {
   "description": "\u2757\ufe0fNieuwe tracks van HIGH SOCIETY & OYSTER (Spotify RADAR-artiest); 3robi, Mensa & Henkie T; Idaly, Adje & CHO en meer..",
-  "num_followers": 701202,
+  "num_followers": 701168,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWapm5Z5b55+6L1hGddvaP76STT",
+  "snapshot_id": "AAAAAEVSk4G2KbA2KCjO3tDl/+OR/B4K",
   "tracks": [
     {
       "added_at": "2026-10-29 23:01:18",
@@ -99,22 +99,6 @@
       "duration_ms": 194010,
       "name": "SRRY",
       "url": "https://open.spotify.com/track/2lGnl3YSGwG5glYC4l7Jxv"
-    },
-    {
-      "added_at": "2026-10-29 23:01:18",
-      "album": {
-        "name": "DOMUS",
-        "url": "https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "TF3",
-      "url": "https://open.spotify.com/track/2G2gYyRTNzAW5X7BBlx5Vf"
     },
     {
       "added_at": "2026-10-22 22:01:00",
@@ -225,6 +209,22 @@
       "url": "https://open.spotify.com/track/1RvV0atdwwLGQYBnqlD823"
     },
     {
+      "added_at": "2026-10-30 23:00:30",
+      "album": {
+        "name": "DOMUS",
+        "url": "https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "TF3",
+      "url": "https://open.spotify.com/track/2G2gYyRTNzAW5X7BBlx5Vf"
+    },
+    {
       "added_at": "2026-10-22 22:01:00",
       "album": {
         "name": "Qlassiek",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc"
     },
     {
+      "added_at": "2026-10-29 23:01:18",
+      "album": {
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/0vj1rWe8o5Q4ACBaQXzi3u"
+      },
+      "artists": [
+        {
+          "name": "ILLIE",
+          "url": "https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/3qbfFVsA8M8v3KiMRBxeHY"
+    },
+    {
       "added_at": "2026-10-15 22:00:20",
       "album": {
         "name": "DOMUS",
@@ -291,22 +307,6 @@
       "duration_ms": 172320,
       "name": "METEN & WEGEN",
       "url": "https://open.spotify.com/track/28bjLDVYB7Eu7S1zDYEBTY"
-    },
-    {
-      "added_at": "2026-10-29 23:01:18",
-      "album": {
-        "name": "KTM",
-        "url": "https://open.spotify.com/album/0vj1rWe8o5Q4ACBaQXzi3u"
-      },
-      "artists": [
-        {
-          "name": "ILLIE",
-          "url": "https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "KTM",
-      "url": "https://open.spotify.com/track/3qbfFVsA8M8v3KiMRBxeHY"
     },
     {
       "added_at": "2026-10-22 22:01:00",

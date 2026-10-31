@@ -4,7 +4,7 @@
 
 > Songs to skate to.
 
-341 songs - 19 hr 24 min
+342 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [D](https://open.spotify.com/track/7a0NFwISP8tiMJrUCj1vO7) | [Silver Scooter](https://open.spotify.com/artist/0RElSbsCqHCHVW9z6lXpA7) | [Silver Scooter](https://open.spotify.com/album/5uvbjwYBksjeFFtvmMHPts) | 3:03 | 2024-06-14 | 2024-09-19 |
 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 | 2024-09-18 | 2024-11-07 |
 | [DEATHCAMP \(feat\. Cole Alexander\)](https://open.spotify.com/track/1dXYBALYTj3AMxa8hgiQhA) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Cole Alexander](https://open.spotify.com/artist/6GfUoRDcHtCLyGKyrwFYyh) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 3:09 | 2025-09-01 | 2026-03-17 |
+| [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2026-03-19 |  |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2024-09-18 |  |
 | [Disco Crimson](https://open.spotify.com/track/00TazEoB0bLPQMkGOslGlp) | [CQ](https://open.spotify.com/artist/7HNhnD4Yu2sJWyvWbRyc2e) | [Communication, Cultural, Curiosity Quotient](https://open.spotify.com/album/2SjH6VMdKVKYDKl6MD4Yio) | 4:29 | 2025-09-01 | 2026-03-17 |
 | [Disengage](https://open.spotify.com/track/69uzINcNSPed3szOtSpNRl) | [Symbiote ATL](https://open.spotify.com/artist/2ZPWF6BVOKAmhnH4r2gYRz) | [Disengage](https://open.spotify.com/album/0RdaOKd8hbYXIGWZxyA00O) | 4:36 | 2024-06-14 | 2024-09-19 |
@@ -204,7 +205,7 @@
 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 | 2025-05-12 |  |
 | [Money](https://open.spotify.com/track/0UCu4HpiLEFEJiSHCx5df7) | [Embrace](https://open.spotify.com/artist/5Lzz2tZ2hKO8PDslKBQgZL) | [Embrace](https://open.spotify.com/album/6hgvPpFtEUDYVsBwvkiSty) | 2:37 | 2024-06-14 | 2024-09-19 |
 | [Mr\. Carter](https://open.spotify.com/track/2tQM1BUrXp2kqOM6mN11TC) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 5:16 | 2025-04-01 | 2025-05-13 |
-| [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2024-09-18 |  |
+| [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2024-09-18 | 2026-10-31 |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2024-09-18 | 2026-03-20 |
 | [MYSELF](https://open.spotify.com/track/4FkdvRVrTBi3LLszmtq0Gv) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH](https://open.spotify.com/album/4QzLpl3oZx1P1BnhvkkAYW) | 3:17 | 2025-09-01 | 2026-03-17 |
 | [NEED IT](https://open.spotify.com/track/5P4DB18ovxpMrvBTxHIf63) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [MEMENTO](https://open.spotify.com/album/5wKEjEjxFRClAAL2j9bWHR) | 2:19 | 2024-09-18 | 2024-11-07 |

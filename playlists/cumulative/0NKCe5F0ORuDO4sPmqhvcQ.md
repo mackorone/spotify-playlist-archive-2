@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-739 songs - 1 day 17 hr 17 min
+740 songs - 1 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [bad dream](https://open.spotify.com/track/1rNivTOt4vBbta3vYWruTL) | [reptilelegit](https://open.spotify.com/artist/3eEJnQZUZcQDjJLkBiqQMd) | [bad dream](https://open.spotify.com/album/7eL4zkRptGACvb00H6wjvv) | 2:53 | 2022-01-21 | 2022-02-05 |
 | [Bad Girl Like Me](https://open.spotify.com/track/6J9A9BonPgsE2zH1bEe2QC) | [Sabby Sousa](https://open.spotify.com/artist/4wGT7z6uSZfL2KdmUtG8d6), [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Bad Girl Like Me](https://open.spotify.com/album/2toy13E6wMIWqa2nf9fS9M) | 3:24 | 2022-08-06 | 2024-08-07 |
 | [Bad Habit](https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [Bad Habit](https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK) | 2:34 | 2026-09-15 |  |
+| [Badman Riddim](https://open.spotify.com/track/2ziL2h3KBY2ABkUZEPBG4u) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Badman Riddim](https://open.spotify.com/album/7aLoUpRuTDY7uco9ypWix4) | 3:04 | 2026-10-30 |  |
 | [Basement Party](https://open.spotify.com/track/3bL9oOZNpzrsNCYs2YgeEM) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Basement Party](https://open.spotify.com/album/20azjqHfH8AlPwwchnSLMw) | 1:56 | 2022-11-11 | 2023-01-30 |
 | [Be Some Body](https://open.spotify.com/track/25etNFi42QQx8lc97rLp55) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Be Some Body](https://open.spotify.com/album/1T2D4Si1kGylfXkPj7VjyW) | 3:01 | 2022-06-24 | 2025-06-07 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-31 | 2022-03-10 |

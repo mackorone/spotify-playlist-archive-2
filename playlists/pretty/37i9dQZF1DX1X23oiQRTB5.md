@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > L2B au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,431,550 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,431,308 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [POUSSETTE \- Nouvelle École](https://open.spotify.com/track/6uwsbNdXdKmxqTbXj5mbwo) | [Typhee](https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Typhee \| Nouvelle École \| Saison 5 \(Série Netflix\)](https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq) | 2:48 |
 | 40 | [Histoire sans fin](https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [MATHILDE](https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1) | [Histoire sans fin](https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj) | 3:29 |
 
-Snapshot ID: `AAAAAKuj08vXJUkf1oxzvju7HFJpaBv9`
+Snapshot ID: `AAAAAMcOmyyt9ifO8Cdb+sGUaYEcTsOa`

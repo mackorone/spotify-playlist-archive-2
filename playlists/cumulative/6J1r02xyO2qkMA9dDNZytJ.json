@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "313",
+        "url": "https://open.spotify.com/album/7e32wVYfeAYtC7tIBwGtv1"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Matthew Dear",
+          "url": "https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "313",
+      "url": "https://open.spotify.com/track/08nAH7ZAxpc0qFAresvFrr"
+    },
+    {
+      "album": {
         "name": "4Get The Girl",
         "url": "https://open.spotify.com/album/06mEYqnxJNqLm5Jh1iX4cb"
       },
@@ -624,7 +646,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 217611,
       "name": "Best Be Believing",
       "url": "https://open.spotify.com/track/6PrNlcO0taE0XUyyYIO1tP"
@@ -1057,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Cause That's The Way",
+        "url": "https://open.spotify.com/album/1xoQMaJMroFhzkdBBFmXLx"
+      },
+      "artists": [
+        {
+          "name": "Saliva Commandos",
+          "url": "https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191340,
+      "name": "Cause That's The Way",
+      "url": "https://open.spotify.com/track/4QpZdZVd2hlcQPXrNlYPIA"
+    },
+    {
+      "album": {
         "name": "Change Our Love",
         "url": "https://open.spotify.com/album/0lyif5z9JLlaJ416sUHLQX"
       },
@@ -1246,7 +1286,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 227076,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/5j0kkMchEwYuuLgIPXIwiU"
@@ -1972,6 +2012,32 @@
       "duration_ms": 138750,
       "name": "Feel The Rush",
       "url": "https://open.spotify.com/track/1sWN2UbugfuyXwGFDj0ewb"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/5a9QfV16uH5DVzLFyBd7qZ"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/1I1J5PKyYma6QjBQTpQnNM"
     },
     {
       "album": {
@@ -4366,7 +4432,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 176883,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/6zvTPelXF2N1h9Mf5nGE6H"
@@ -4622,7 +4688,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 159615,
       "name": "My Place",
       "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
@@ -4905,6 +4971,24 @@
     },
     {
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/2butoupcYhsMrCOWpM54nw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/1ybQKmpKRvTWEDzbWfKZQq"
       },
@@ -5051,6 +5135,24 @@
     },
     {
       "album": {
+        "name": "Peace & Patience",
+        "url": "https://open.spotify.com/album/0pM5BoxoJ2cU1cuZhuyafd"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209723,
+      "name": "Peace & Patience",
+      "url": "https://open.spotify.com/track/5fdyY4Pm6lbuMJ1pjT88gN"
+    },
+    {
+      "album": {
         "name": "Pedal To The Floor EP",
         "url": "https://open.spotify.com/album/6NJTWa9ZWRBs18UJgw4k1H"
       },
@@ -5088,6 +5190,32 @@
       "duration_ms": 305413,
       "name": "People In The Back",
       "url": "https://open.spotify.com/track/19OScDYAG1hMgNzRAdq2Yg"
+    },
+    {
+      "album": {
+        "name": "PEOPLE IN THE PLACE",
+        "url": "https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ"
+      },
+      "artists": [
+        {
+          "name": "A.B.C.",
+          "url": "https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203105,
+      "name": "PEOPLE IN THE PLACE",
+      "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
     },
     {
       "album": {
@@ -5220,6 +5348,28 @@
       "duration_ms": 212443,
       "name": "Pitcha",
       "url": "https://open.spotify.com/track/75PWC7VGYNaL3bihF461MP"
+    },
+    {
+      "album": {
+        "name": "Play With Me Daddy",
+        "url": "https://open.spotify.com/album/7JP97Esl2CEFfGA3UqdD2d"
+      },
+      "artists": [
+        {
+          "name": "Carlo Lio",
+          "url": "https://open.spotify.com/artist/51NwQz5MA32kigUGYjdA3z"
+        },
+        {
+          "name": "Carabetta",
+          "url": "https://open.spotify.com/artist/2sKXxsusGiIBJIVIqYyyUT"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Play With Me Daddy",
+      "url": "https://open.spotify.com/track/1aYSQQuwP7TwnjkcU71vbg"
     },
     {
       "album": {
@@ -5528,6 +5678,24 @@
       "duration_ms": 203636,
       "name": "Pushin' On - Radio Edit",
       "url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5"
+    },
+    {
+      "album": {
+        "name": "Meaning LP",
+        "url": "https://open.spotify.com/album/1JLoGM4RQtbjqvH4P4WkXR"
+      },
+      "artists": [
+        {
+          "name": "KiRiK",
+          "url": "https://open.spotify.com/artist/2kQveut2J5sz6PPKL99qF2"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243950,
+      "name": "Put The Phone Down",
+      "url": "https://open.spotify.com/track/0vUUDDLRyAhLj5xJpYXBsh"
     },
     {
       "album": {
@@ -6210,7 +6378,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 184320,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s"
@@ -6474,7 +6642,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 149119,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7skdREPq445Rdr87KSTaUW"
@@ -6964,7 +7132,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 203437,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0FWGt6JGeKbE059deaWocm"
@@ -7506,7 +7674,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 224438,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/45FTnF7YPwGWFebjG8AmGO"

@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 90411,
+  "num_followers": 90420,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185000,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
-        "name": "The One (feat. Jocelyn Brown)",
-        "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 182498,
-      "name": "The One (feat. Jocelyn Brown)",
-      "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
         "name": "Freaky 1",
         "url": "https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 232093,
       "name": "Freaky 1",
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "The One (feat. Jocelyn Brown)",
+        "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 182498,
+      "name": "The One (feat. Jocelyn Brown)",
+      "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/6BguZq2rejbft6NBT95dBe"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5JjO5PjxA1tm3PD6z7tXiZ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 218076,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7aYBPp0VIdidTQr7H77pio"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2026-10-02 10:12:09",
@@ -1547,34 +1547,6 @@
     {
       "added_at": "2026-10-02 10:12:09",
       "album": {
-        "name": "Mi Combi EP",
-        "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
-      },
-      "artists": [
-        {
-          "name": "Ollie BC",
-          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
-        },
-        {
-          "name": "Mason Collective",
-          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
-        },
-        {
-          "name": "Dany Gomez",
-          "url": "https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt"
-        },
-        {
-          "name": "EMBI",
-          "url": "https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Mi Combi",
-      "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
-    },
-    {
-      "added_at": "2026-10-02 10:12:09",
-      "album": {
         "name": "Club Rompas, Vol. 2",
         "url": "https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX"
       },
@@ -1599,6 +1571,34 @@
       "duration_ms": 169090,
       "name": "Rock The Rhythm (I Like That)",
       "url": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2"
+    },
+    {
+      "added_at": "2026-10-02 10:12:09",
+      "album": {
+        "name": "Mi Combi EP",
+        "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
+      },
+      "artists": [
+        {
+          "name": "Ollie BC",
+          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Dany Gomez",
+          "url": "https://open.spotify.com/artist/5kMchfwW30VxyO1hwOnaCt"
+        },
+        {
+          "name": "EMBI",
+          "url": "https://open.spotify.com/artist/6NBXnI1dWJ0gh8CrmV4Wg0"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Mi Combi",
+      "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
     }
   ],
   "unique_name": "The Dance Tent",

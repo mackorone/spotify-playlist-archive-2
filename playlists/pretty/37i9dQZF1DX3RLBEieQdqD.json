@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Joaquin Guiller",
-  "num_followers": 167960,
+  "num_followers": 168004,
   "original_name": "Ranchenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUetG0OByZvlsy4OJlXQhZLiKSn",
+  "snapshot_id": "AAAAABe7CRG6WQ4TMqTLFXU6qlyjaHij",
   "tracks": [
     {
       "added_at": "2026-09-25 04:59:19",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G"
     },
     {
+      "added_at": "2026-10-30 04:59:35",
+      "album": {
+        "name": "GRACIAS",
+        "url": "https://open.spotify.com/album/79qbYw6iBGYgweLwhRmC2V"
+      },
+      "artists": [
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        },
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/64pKD1DXwfmSEvD7pbHNxk"
+    },
+    {
       "added_at": "2026-09-25 04:59:19",
       "album": {
         "name": "Pa' Que No Me Anden Contando (Remix)",
@@ -207,22 +227,6 @@
       "duration_ms": 187578,
       "name": "En Manos Ajenas",
       "url": "https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2"
-    },
-    {
-      "added_at": "2026-09-25 04:59:19",
-      "album": {
-        "name": "\u00bfQU\u00c9 PAS\u00d3 AYER?",
-        "url": "https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 145244,
-      "name": "\u00bfQU\u00c9 PAS\u00d3 AYER?",
-      "url": "https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG"
     },
     {
       "added_at": "2026-09-25 04:59:19",

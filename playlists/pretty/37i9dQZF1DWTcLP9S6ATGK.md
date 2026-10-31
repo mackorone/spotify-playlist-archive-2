@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Ari Lesmana
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,074 likes - 107 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,086 likes - 107 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

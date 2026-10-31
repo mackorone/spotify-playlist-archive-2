@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36756,
+  "num_followers": 36761,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAB9XSuXkC6Id2EjWSdGR0nK",
+  "snapshot_id": "auE7AAAAAABj8tyR4KhDN54vC780xhn1",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Ole Fancy House (Acoustic)",
-        "url": "https://open.spotify.com/album/6oNgOpksiHjRzxceMkNCrq"
+        "name": "Tommy Jackson",
+        "url": "https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc"
       },
       "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 303300,
-      "name": "Big Ole Fancy House - Acoustic",
-      "url": "https://open.spotify.com/track/5q6AeXUb3Qq9i2Q6WgPQGH"
+      "duration_ms": 305609,
+      "name": "Tommy Jackson",
+      "url": "https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tommy Jackson",
-        "url": "https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc"
+        "name": "Big Ole Fancy House (Acoustic)",
+        "url": "https://open.spotify.com/album/6oNgOpksiHjRzxceMkNCrq"
       },
       "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 305609,
-      "name": "Tommy Jackson",
-      "url": "https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo"
+      "duration_ms": 303300,
+      "name": "Big Ole Fancy House - Acoustic",
+      "url": "https://open.spotify.com/track/5q6AeXUb3Qq9i2Q6WgPQGH"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 300466,
-      "name": "Kill Me Now - Acoustic",
-      "url": "https://open.spotify.com/track/1GHynpEMqAxdg9lTkloc2C"
+      "duration_ms": 213973,
+      "name": "Far, Far Away - Acoustic",
+      "url": "https://open.spotify.com/track/3DXy5O4NkXIteVV0JURPpI"
     }
   ],
   "unique_name": "This Is Parker McCollum",

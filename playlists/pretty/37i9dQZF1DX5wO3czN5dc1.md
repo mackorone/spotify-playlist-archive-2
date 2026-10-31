@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House, curated by Shamiso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,656 likes - 45 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,703 likes - 45 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

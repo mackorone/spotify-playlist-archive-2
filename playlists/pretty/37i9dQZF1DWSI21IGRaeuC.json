@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 93559,
+  "num_followers": 93631,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMX527c1KAvMeo2qn+ALqll1BbOb",
+  "snapshot_id": "AAAAAHgEhVzVPSZhrrk5cmQtlij/shfm",
   "tracks": [
     {
       "added_at": "2026-10-23 04:03:24",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-10-23 04:03:24",
       "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
+    },
+    {
+      "added_at": "2026-10-23 04:03:24",
+      "album": {
         "name": "PEOPLE IN THE PLACE",
         "url": "https://open.spotify.com/album/78iUsF9B6QeA6p5nG6GHoQ"
       },
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/3Mep8LVvhULlNgkn6oTLNu"
     },
     {
+      "added_at": "2026-10-30 04:00:46",
+      "album": {
+        "name": "Scope / Backseat",
+        "url": "https://open.spotify.com/album/7h77uhxf7JBzvpMqdcTPLn"
+      },
+      "artists": [
+        {
+          "name": "BAGGI",
+          "url": "https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Scope",
+      "url": "https://open.spotify.com/track/3oOzvKiZlHD47XFpD5PUXb"
+    },
+    {
       "added_at": "2026-10-16 04:00:45",
       "album": {
         "name": "Hey Everybody (L.P. Rhythm Remix)",
@@ -123,22 +155,6 @@
       "duration_ms": 198181,
       "name": "Hey Everybody - L.P. Rhythm Remix",
       "url": "https://open.spotify.com/track/1Yx7mkfQ1etpKWcxovRRci"
-    },
-    {
-      "added_at": "2026-10-23 04:03:24",
-      "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/4uJjNkWEE0JFhGyG1LgboQ"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6xxQxSXcJhgT5QBan2DtF2"
     },
     {
       "added_at": "2026-10-09 04:01:48",
@@ -1071,26 +1087,6 @@
       "duration_ms": 219111,
       "name": "Back To Funk",
       "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
-    },
-    {
-      "added_at": "2026-08-28 04:01:45",
-      "album": {
-        "name": "Friction",
-        "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
     },
     {
       "added_at": "2026-08-28 04:01:45",

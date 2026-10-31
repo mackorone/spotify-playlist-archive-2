@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Heuss L'enfoiré, PLK
 
-822 songs - 1 day 15 hr 21 min
+823 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Lululemon](https://open.spotify.com/track/4NUbhcdKi2nfq6RUUgKyWV) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Lululemon](https://open.spotify.com/album/2Apc6tczxlwREDpRKW7q1P) | 2:51 | 2026-08-28 |  |
 | [Lune](https://open.spotify.com/track/6hnKJYWP54cSJjzUd0g7U1) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [ROSE NOIRE](https://open.spotify.com/album/4jAc7IOMjbr9b4EeQfPZtO) | 2:46 | 2025-11-07 | 2026-01-17 |
 | [Là\-Haut](https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Là\-Haut](https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP) | 2:42 | 2025-09-05 | 2025-11-22 |
+| [LÉ TAL](https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 2:51 | 2026-10-30 |  |
 | [LÉCHAGE](https://open.spotify.com/track/7mPBYHkPipRkQBz2AMcP0B) | [éther](https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY) | [LÉCHAGE](https://open.spotify.com/album/3CzW00o7qXZ2rhoWyrWFJz) | 1:49 | 2025-11-07 | 2026-01-17 |
 | [léger et pensif](https://open.spotify.com/track/3bnfha00IGe5KqDSbpDx5a) | [Opus Crew](https://open.spotify.com/artist/5Mfsm0jJWnltGxluaz7Wnp), [Linkrust](https://open.spotify.com/artist/3W6MD03BtPEx7yJnj9jT2z), [faust.opcm](https://open.spotify.com/artist/2N6VZ1YQa8TPTYpE6L6gtK) | [léger et pensif](https://open.spotify.com/album/2a3j6ZGeb4q2JY2lnX1Dgj) | 2:33 | 2026-06-05 | 2026-08-08 |
 | [M.D](https://open.spotify.com/track/3bz3hKFyCsy60V2uURnEYZ) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Silence Radio](https://open.spotify.com/album/34QueCrNb3m1GZxzjvnk20) | 2:55 | 2026-10-16 |  |
@@ -516,7 +517,7 @@
 | [MOULA SOLITUDE](https://open.spotify.com/track/3kvIHD7EIlMQ86X3w7kW0Y) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [EXTASIA](https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX) | 3:15 | 2025-10-10 | 2025-10-18 |
 | [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2023-03-03 | 2023-07-01 |
 | [MTL2P](https://open.spotify.com/track/7KUqGBFoix0z2aj34pG8TM) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Mv](https://open.spotify.com/artist/4NCWWjplzDnwE3YAkRLHjc) | [MTL2P](https://open.spotify.com/album/0xVbkxvGrnilMoXkglznBn) | 2:14 | 2025-10-31 | 2026-01-03 |
-| [MTV](https://open.spotify.com/track/1oW5nJWdFUchCuuIG6Tdsi) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [MTV](https://open.spotify.com/album/1OFJWafyRtAw1CHGBlv4q7) | 1:49 | 2026-10-09 |  |
+| [MTV](https://open.spotify.com/track/1oW5nJWdFUchCuuIG6Tdsi) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [MTV](https://open.spotify.com/album/1OFJWafyRtAw1CHGBlv4q7) | 1:49 | 2026-10-09 | 2026-10-31 |
 | [MURDER \#1](https://open.spotify.com/track/10vR2hk8TnzycH1dRNnM6S) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez), [HMZ](https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6), [2 Mètres](https://open.spotify.com/artist/3WUHUmukg1hiSrVCfCoSbF), [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE), [Python Loco](https://open.spotify.com/artist/35Zw0oC1da1CwlwfAYlaWx) | [MURDER \#1](https://open.spotify.com/album/2ChgWLE06AzkkeVsNqgYD8) | 4:01 | 2025-11-07 | 2026-01-17 |
 | [MURDER \#2](https://open.spotify.com/track/4F3z28WNC6SADZv5Xj88OK) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez), [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [BatBat](https://open.spotify.com/artist/04q4egoK1OOrukoyGCXy0k), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [MURDER \#2](https://open.spotify.com/album/2Ya2KEwHD2oZnaSNTY1lNi) | 3:09 | 2026-01-23 | 2026-03-21 |
 | [MURDER \#4](https://open.spotify.com/track/1XoMvAcsQprKifICAMmae3) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS) | [MURDER \#4](https://open.spotify.com/album/7M6pibt1zcDcphovr7zFkp) | 3:46 | 2026-05-15 | 2026-10-17 |

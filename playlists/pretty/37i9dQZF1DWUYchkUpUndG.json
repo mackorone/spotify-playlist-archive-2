@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover: Anendlessocean",
-  "num_followers": 67838,
+  "num_followers": 67966,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -188,8 +188,8 @@
           "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 168461,
+      "name": "BOUNDLESS LOVE",
       "url": "https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C"
     },
     {
@@ -390,10 +390,22 @@
         {
           "name": "Yanga Grenade",
           "url": "https://open.spotify.com/artist/7Hr1rJkoRxDX06YI7VpGIj"
+        },
+        {
+          "name": "Zimvo",
+          "url": "https://open.spotify.com/artist/5eOVZdQNBoHqNnosZTM1hk"
+        },
+        {
+          "name": "Ofentse Mo",
+          "url": "https://open.spotify.com/artist/47py4wgYpqOnTC2Z18CFVR"
+        },
+        {
+          "name": "Tumisho",
+          "url": "https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 412245,
+      "name": "Kulungile",
       "url": "https://open.spotify.com/track/2a02kPtxXvo5os5HnHhtJE"
     },
     {
@@ -428,8 +440,8 @@
           "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 155089,
+      "name": "THE DAY",
       "url": "https://open.spotify.com/track/6rx68bkerYYaQJB76gVWxB"
     },
     {
@@ -1089,6 +1101,34 @@
       "url": "https://open.spotify.com/track/5aOss4ZyOsbtmjfgcoNDxs"
     },
     {
+      "added_at": "2026-10-30 00:01:02",
+      "album": {
+        "name": "UNYIELDED",
+        "url": "https://open.spotify.com/album/3S6k4Va4McwLaSTI1qNHfq"
+      },
+      "artists": [
+        {
+          "name": "Emino Music",
+          "url": "https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a"
+        },
+        {
+          "name": "Joebee",
+          "url": "https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1"
+        },
+        {
+          "name": "Mckelv",
+          "url": "https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia"
+        },
+        {
+          "name": "J3:16",
+          "url": "https://open.spotify.com/artist/5KL8TE5kpFXmPqm3i3Les5"
+        }
+      ],
+      "duration_ms": 149740,
+      "name": "UNYIELDED",
+      "url": "https://open.spotify.com/track/5QeO1X840dR7hAIXuVyGNn"
+    },
+    {
       "added_at": "2026-10-23 00:01:18",
       "album": {
         "name": "A Ri O (We See You) [live]",
@@ -1463,7 +1503,7 @@
     {
       "added_at": "2026-10-23 00:01:18",
       "album": {
-        "name": "HIDE & SEEK",
+        "name": "SEEKING & HIDING",
         "url": "https://open.spotify.com/album/6wBYo3fM3kkS3GF9p9roRX"
       },
       "artists": [
@@ -1473,7 +1513,7 @@
         }
       ],
       "duration_ms": 159600,
-      "name": "HIDE & SEEK",
+      "name": "SEEKING & HIDING",
       "url": "https://open.spotify.com/track/0B6y16S4O1Vx7RWgLvBNH6"
     },
     {

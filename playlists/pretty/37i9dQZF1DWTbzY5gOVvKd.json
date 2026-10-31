@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1300025,
+  "num_followers": 1300020,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
+        "name": "Around The City",
+        "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Save Your Love For Me",
+      "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
         "name": "Someone to Watch Over Me",
         "url": "https://open.spotify.com/album/0M0ZSXJGbqMQKjRnQrcIBc"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 254760,
       "name": "Someone to Watch Over Me",
       "url": "https://open.spotify.com/track/4prCm5SggdmrG7recE4Eqo"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
-        "name": "Around The City",
-        "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Save Your Love For Me",
-      "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "French Fries & Champagne",
-        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
-      },
-      "artists": [
-        {
-          "name": "The Hot Sardines",
-          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
-        }
-      ],
-      "duration_ms": 141640,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 186880,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "French Fries & Champagne",
+        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+      },
+      "artists": [
+        {
+          "name": "The Hot Sardines",
+          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+        }
+      ],
+      "duration_ms": 141640,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -815,6 +815,26 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
+        "name": "Sweet Pumpkin",
+        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Dave Baron",
+          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Sweet Pumpkin",
+      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
-        "name": "Sweet Pumpkin",
-        "url": "https://open.spotify.com/album/2bBo9j8YRj5ex1S0iTT9aP"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Dave Baron",
-          "url": "https://open.spotify.com/artist/37Wh12iAcmGIAWZv0rQyMB"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Sweet Pumpkin",
-      "url": "https://open.spotify.com/track/5WQoFUcnsT6eulTlFkBpSN"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Our Love Is Here to Stay",
         "url": "https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 200327,
       "name": "I'll Love You Just The Same",
       "url": "https://open.spotify.com/track/55UPUHJa2r4j1ePS071Hik"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Cheek to Cheek",
-        "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        },
-        {
-          "name": "Magnus Lindgren",
-          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
-        }
-      ],
-      "duration_ms": 423013,
-      "name": "Cheek to Cheek",
-      "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
-    },
-    {
-      "added_at": "2026-09-25 08:21:10",
-      "album": {
         "name": "Laura Benanti",
         "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 264653,
       "name": "Go Slow",
       "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
+    },
+    {
+      "added_at": "2026-09-25 08:21:10",
+      "album": {
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+      },
+      "artists": [
+        {
+          "name": "Neal Hefti",
+          "url": "https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8"
+        },
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
     },
     {
       "added_at": "2026-09-25 08:21:10",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2026-09-25 08:21:10",
       "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+        "name": "Cheek to Cheek",
+        "url": "https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot"
       },
       "artists": [
         {
-          "name": "Neal Hefti",
-          "url": "https://open.spotify.com/artist/3IjVHk8Mo8GBMKyHnwmth8"
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
         },
         {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+          "name": "Magnus Lindgren",
+          "url": "https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN"
         }
       ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+      "duration_ms": 423013,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn"
     },
     {
       "added_at": "2026-09-25 08:21:10",

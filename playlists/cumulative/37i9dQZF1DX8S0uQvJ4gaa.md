@@ -4,7 +4,7 @@
 
 > Break them in, wear them out\. Cover: HARDY
 
-3,300 songs - 7 day 11 hr 0 min
+3,301 songs - 7 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1936,6 +1936,7 @@
 | [Mr\. Lonely](https://open.spotify.com/track/3sEa95MTLJ8JcoP5A97bWl) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Mr\. Lonely](https://open.spotify.com/album/3UIccz6UJbRSikhYrzMqy5) | 2:59 | 2019-06-02 | 2019-06-11 |
 | [Mr\. Middleman](https://open.spotify.com/track/5XPfps9zgPxn5za0ZL56vU) | [Jackson Wendell](https://open.spotify.com/artist/7MtdY1LjSnjTTKJHGmHqf3) | [Mr\. Middleman](https://open.spotify.com/album/08n0UrsShqJs1Dr1ooEjCu) | 3:33 | 2026-09-18 | 2026-10-24 |
 | [Mr\. Predictable](https://open.spotify.com/track/4fpf5WsrRHR38hMgqGbqhG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mr\. Predictable](https://open.spotify.com/album/22v4TOSJFegBKWAWg3BtKv) | 3:21 | 2025-02-21 | 2025-03-08 |
+| [Mr\. Right](https://open.spotify.com/track/4VCf4cLJEMVhAlBLDsvgOY) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Mr\. Right / Closer Still](https://open.spotify.com/album/2KGx4IG55jUfboH5hi7rXV) | 3:56 | 2026-10-30 |  |
 | [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 | 2022-09-17 |
 | [Mull It Over](https://open.spotify.com/track/16rgQ1nC6uiWRjKRdyIrDM) | [Hot Country Knights](https://open.spotify.com/artist/1jTJwPsDcdPQRh2JCWYdtY) | [The K Is Silent](https://open.spotify.com/album/3yKFOG6pV96OtkgKgKFt18) | 3:36 | 2020-05-02 | 2020-05-16 |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 | 2022-11-12 |

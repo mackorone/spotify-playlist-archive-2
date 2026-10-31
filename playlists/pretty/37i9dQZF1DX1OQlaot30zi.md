@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Latrelle, Kid Yugi, Slings, Finesse e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,334 likes - 91 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,344 likes - 91 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 81 | [CASSANO \(feat\. YD Frost\)](https://open.spotify.com/track/4n6SJU9F4B35KVtQX8Kius) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH), [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [CODICE DA INCIS II](https://open.spotify.com/album/1yykpKpeHXZaiLq2JoYxoZ) | 2:31 |
 | 82 | [M.E.R.D.A.](https://open.spotify.com/track/5bqfhwlwu2RKiTUa2lkasJ) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ), [Peter Wit](https://open.spotify.com/artist/4d1ZdUOl3ZPWLC4FjYu0N8) | [M.E.R.D.A.](https://open.spotify.com/album/7qIjmcmyeLelSBMnlVKoX4) | 2:27 |
 | 83 | [FOGLIE DI TABACCO \(feat\. Shama24k\)](https://open.spotify.com/track/6779Vm2PYeM1gXoPeiMxBk) | [ArtiKo](https://open.spotify.com/artist/1XJWVZguwF8VOyMyYQwpRk), [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm) | [FOGLIE DI TABACCO \(feat\. Shama24k\)](https://open.spotify.com/album/1r0rQMv3OwqJgm3lDLsKuU) | 2:47 |
-| 84 | [Paradiso Champagne](https://open.spotify.com/track/63atLbrk93mGjwYDYI8a49) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [MAMMA MUOIO LEGGENDA](https://open.spotify.com/album/6d6xsaxQRqCcSulyNq3LYo) | 2:41 |
+| 84 | [Paradiso Champagne](https://open.spotify.com/track/63atLbrk93mGjwYDYI8a49) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [MAMMA MUOIO LEGGENDA](https://open.spotify.com/album/6d6xsaxQRqCcSulyNq3LYo) | 2:41 |
 | 85 | [Limite](https://open.spotify.com/track/3MoRM9naSTxiDZ9imxnnfP) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [Limite](https://open.spotify.com/album/101b4k5g4gnYQmP8sRVg8k) | 2:28 |
 | 86 | [Lacrime Endorfine \(feat\. Clemi\)](https://open.spotify.com/track/1ibovHNmrLu5bN6Jjf9sG7) | [Sixty4](https://open.spotify.com/artist/0egBeT7AHJDY8szSY8k1sj), [Clemi](https://open.spotify.com/artist/315sdH2D4pWLT8Q45Bv6ai) | [Lacrime Endorfine \(feat\. Clemi\)](https://open.spotify.com/album/327vT1jn37yM3PuaLULCla) | 2:52 |
 | 87 | [Gelosa](https://open.spotify.com/track/56heWdfDJCzwwYDEZyimGa) | [Pepeta](https://open.spotify.com/artist/4UjE6BTjmh30zgF0oqkNaR) | [Gelosa](https://open.spotify.com/album/09TSsAM857ZjPYz6lVeeeO) | 2:22 |

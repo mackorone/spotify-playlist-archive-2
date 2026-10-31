@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-488 songs - 22 hr 30 min
+489 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [En drikkesang](https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [En drikkesang](https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl) | 2:14 | 2023-04-06 | 2023-06-29 |
 | [En dårlig idé](https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [En dårlig idé](https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy) | 2:37 | 2024-10-31 |  |
 | [EN GAMMAL AMAZON](https://open.spotify.com/track/4910aDasJAeKxAAo5fNHll) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [EN GAMMAL AMAZON](https://open.spotify.com/album/1Vi6Fpf8sGX9PAFY0q2bz6) | 2:16 | 2023-09-21 | 2024-02-16 |
-| [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 | 2022-07-07 |  |
+| [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 | 2022-07-07 | 2026-10-31 |
 | [En gång till](https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [En gång till](https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy) | 2:43 | 2022-06-02 | 2025-03-28 |
 | [En jävel på att ragga bil](https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [En jävel på att ragga bil](https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C) | 2:46 | 2023-08-10 | 2024-02-09 |
 | [En liten plass](https://open.spotify.com/track/2vuqZNKtukufFAxw7ur0vv) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [En liten plass](https://open.spotify.com/album/1GZN0qJ29ZlPxnAw1Kuayh) | 3:08 | 2021-12-16 | 2022-07-28 |
@@ -282,6 +282,7 @@
 | [Konge på bøgda](https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Konge på bøgda](https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb) | 3:00 | 2022-05-12 |  |
 | [Kongen av campen](https://open.spotify.com/track/5hwySzV76a0LyYExMoK5tq) | [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC), [Stjørna Heimbrentslag](https://open.spotify.com/artist/40WYRdzpABj4U2tEGEUpHP) | [Kongen av campen](https://open.spotify.com/album/2tNoKYU0O4q6hwXiJbhmOC) | 2:42 | 2022-05-19 | 2022-07-13 |
 | [Kongen av campingplassen](https://open.spotify.com/track/13JJKKGZW8iiCOOeaEItMi) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6) | [En får være som en er](https://open.spotify.com/album/3F21yfZ0Jl0Ufs15kqrABT) | 3:25 | 2022-10-13 | 2024-04-19 |
+| [Korr ska du gå](https://open.spotify.com/track/3HyN6W5BvRHxvs9DRAmo6C) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Korr ska du gå](https://open.spotify.com/album/3y9LzxIyZNrsTmdUgR7l89) | 4:25 | 2026-10-29 |  |
 | [Kunna vorre vær](https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Kunna vorre vær](https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt) | 2:18 | 2025-02-20 | 2026-05-26 |
 | [Kursiv](https://open.spotify.com/track/0YyED0H9S499O2c8U7ydtV) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Kursiv](https://open.spotify.com/album/1zWg0ttvnAe0KIoolgn7NX) | 2:12 | 2022-06-23 | 2022-10-14 |
 | [Kveldssang til bonden](https://open.spotify.com/track/2qK9qwG8vrRcVCaqz5K4JK) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Kveldssang til bonden](https://open.spotify.com/album/4uufMBFyhdWMv8EMNtTzUH) | 2:53 | 2026-04-23 | 2026-10-05 |

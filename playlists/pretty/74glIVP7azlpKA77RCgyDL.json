@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9196,
+  "num_followers": 9197,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAARUWvGtNcb6wH9eDGrYm997mgsUq2w",
+  "snapshot_id": "AAARXvEJchBdUkmLM2HEmUu3fDDsvEto",
   "tracks": [
+    {
+      "added_at": "2026-10-30 17:49:16",
+      "album": {
+        "name": "She Let The World Run Rampant",
+        "url": "https://open.spotify.com/album/6GJl7skIeGqtZZqqQPglHS"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/4EMQgiOJcduxSGqjwbDorP"
+    },
+    {
+      "added_at": "2026-10-30 17:49:03",
+      "album": {
+        "name": "I don\u2019t want to fall in love",
+        "url": "https://open.spotify.com/album/6nObkiIzpgeMgQiQxsS7Gl"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "I don\u2019t want to fall in love",
+      "url": "https://open.spotify.com/track/5oI4fVw2iCZQlWxD85hly8"
+    },
+    {
+      "added_at": "2026-10-30 17:49:28",
+      "album": {
+        "name": "Sweet Suicide",
+        "url": "https://open.spotify.com/album/1N0lZPbTzobPEKka5GndDg"
+      },
+      "artists": [
+        {
+          "name": "200 Stab Wounds",
+          "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        }
+      ],
+      "duration_ms": 306960,
+      "name": "Sweet Suicide",
+      "url": "https://open.spotify.com/track/5ggq3t2ROeYE7DDkthlR5d"
+    },
+    {
+      "added_at": "2026-10-30 17:48:47",
+      "album": {
+        "name": "Hate To Go - Take Out Or Delivery",
+        "url": "https://open.spotify.com/album/6r5iO2FWfBQkRJnsl6uGNZ"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 267346,
+      "name": "We're Still Here",
+      "url": "https://open.spotify.com/track/50BkPKh8btmlzDPt52D31B"
+    },
+    {
+      "added_at": "2026-10-30 17:50:05",
+      "album": {
+        "name": "Cannula",
+        "url": "https://open.spotify.com/album/47Oil1OuMu3iBeUNrbC8Cj"
+      },
+      "artists": [
+        {
+          "name": "Crowquill",
+          "url": "https://open.spotify.com/artist/6pUEVEFvxk4xakMzo6wHFR"
+        }
+      ],
+      "duration_ms": 240561,
+      "name": "Cannula",
+      "url": "https://open.spotify.com/track/48VFCobJfuWrCs8ArLSSvS"
+    },
+    {
+      "added_at": "2026-10-30 17:49:45",
+      "album": {
+        "name": "Retributioner",
+        "url": "https://open.spotify.com/album/1FA93MgH91LJC4hp6d5rOM"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Retributioner",
+      "url": "https://open.spotify.com/track/3TCz47OzCVAiw3UWbD3z2X"
+    },
     {
       "added_at": "2026-10-23 16:56:01",
       "album": {

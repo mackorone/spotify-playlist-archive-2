@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Alex Isab nos comparte el soundtrack de la Semana de la Moda en México\. Pop, House y vibes Tumbadas y con nuestras raíces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,501 likes - 30 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,486 likes - 30 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

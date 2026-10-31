@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,820 songs - 6 day 20 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,824 songs - 6 day 20 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2828,5 +2828,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2818 | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/track/4TZRYdHcEM5n8ASoJWi6sW) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Lucia Sargenti](https://open.spotify.com/artist/4jgc4kfZs4XNlmopUHiR6N) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/4s81PdkmxYrS0sxXPke3lU) | 4:09 |
 | 2819 | [Bang Bang \(My Baby Shot Me Down\) \- Dub Version](https://open.spotify.com/track/6uXf7xZTLJHZZ7QQ5IijUq) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Lucia Sargenti](https://open.spotify.com/artist/4jgc4kfZs4XNlmopUHiR6N) | [Bang Bang \(My Baby Shot Me Down\)](https://open.spotify.com/album/4s81PdkmxYrS0sxXPke3lU) | 3:57 |
 | 2820 | [El Viaje](https://open.spotify.com/track/34Y0RVgKoBnEkMT35CyFek) | [LLPana](https://open.spotify.com/artist/4QWfgpilKrrmsF5yU9lDtk) | [El Viaje](https://open.spotify.com/album/4PYiKLQpFO5ZBcCcB3DYTA) | 4:02 |
+| 2821 | [Sin Parar](https://open.spotify.com/track/4ID9eBQ9R3rlvIuoXtV04g) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Sin Parar](https://open.spotify.com/album/7Gdkdz2omH4U69L1JLisbt) | 2:50 |
+| 2822 | [Siamo Ancora Qui](https://open.spotify.com/track/17J9Yzsd9pG9w23nBOCEvA) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Siamo Ancora Qui](https://open.spotify.com/album/56hT0GGHWP7Gq80RjPLagh) | 4:06 |
+| 2823 | [midnight dreamer](https://open.spotify.com/track/3iVkTfyubirkIru8B8bN1r) | [Cold Water](https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw) | [midnight dreamer](https://open.spotify.com/album/1BHH7PJxdZRvzxAiHBl02D) | 1:36 |
+| 2824 | [Meditative Melodies 432 Hz](https://open.spotify.com/track/7nexLjEq9jBN4pzohz6FSC) | [CozyCorner](https://open.spotify.com/artist/6NbAmKbYssuR5149X0EtX4) | [Meditative Melodies 432 Hz](https://open.spotify.com/album/3DXNSAIYpstFr0nz8IzJPP) | 3:00 |
 
-Snapshot ID: `AAAL+XhPQ5foH8OMSQA2AV/nsitJeYLA`
+Snapshot ID: `AAAL/ezY5kWdsMfoCu/xnQRlYtLdK2B6`

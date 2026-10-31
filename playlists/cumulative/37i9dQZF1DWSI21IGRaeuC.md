@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-1,320 songs - 3 day 17 hr 39 min
+1,321 songs - 3 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [Freq The Frequency](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freq The Frequency](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 | 2026-03-13 | 2026-06-06 |
 | [Frequency](https://open.spotify.com/track/65xDnHGrbUPYDcVZxr8swb) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Frequency](https://open.spotify.com/album/6yDLLrovlQGJzie4ZPpzsc) | 2:32 | 2026-01-16 | 2026-04-18 |
 | [Frequency](https://open.spotify.com/track/49DRk5QjrcI6RXJ6Fwvq10) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O), [David LeSal](https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa) | [Frequency](https://open.spotify.com/album/3u6d18OyOmopIN2mkAaKD0) | 3:46 | 2024-12-13 | 2025-06-10 |
-| [Friction](https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Friction](https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB) | 3:13 | 2026-08-28 |  |
+| [Friction](https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Friction](https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB) | 3:13 | 2026-08-28 | 2026-10-31 |
 | [From L to R](https://open.spotify.com/track/2m1hBmg6FtgY9Ouz4qMTd1) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [From L to R](https://open.spotify.com/album/4Jg42Y6rrywR82J2N1Uk6J) | 3:44 | 2025-11-21 | 2026-02-21 |
 | [Front & Back Seat](https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Front & Back Seat](https://open.spotify.com/album/3prlLKT6UH9wH4zmIhiNyG) | 2:51 | 2025-07-25 | 2025-09-13 |
 | [Front, Left](https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd) | [Secret Floor](https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm) | [Front, Left](https://open.spotify.com/album/4VtJjZ6t72YVSOWcS0KYBq) | 2:22 | 2026-03-20 | 2026-10-10 |
@@ -981,6 +981,7 @@
 | [Sativa Jazz \- Detlef Remix](https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI) | [Abana](https://open.spotify.com/artist/50IriuukwhBFpJS9WOk2a1), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Sativa Jazz \(Detlef Remix\)](https://open.spotify.com/album/1qfo60yjGAwfXQ9CUK1uz2) | 6:02 | 2022-08-12 | 2022-09-05 |
 | [Say What?](https://open.spotify.com/track/2cyqfeXRo1mijttR0Jp6CL) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM) | [Say What?](https://open.spotify.com/album/1UGIzC7T4rTwtFNG5fvdsl) | 2:17 | 2026-03-13 | 2026-07-11 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-07-14 | 2025-03-01 |
+| [Scope](https://open.spotify.com/track/3oOzvKiZlHD47XFpD5PUXb) | [BAGGI](https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom) | [Scope / Backseat](https://open.spotify.com/album/7h77uhxf7JBzvpMqdcTPLn) | 2:53 | 2026-10-30 |  |
 | [Scout](https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Scout](https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig) | 3:54 | 2023-08-25 | 2023-12-30 |
 | [Scrap](https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [JS04](https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL) | 5:46 | 2024-03-01 | 2024-04-28 |
 | [Searching](https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [Searching](https://open.spotify.com/album/1wtegba6llZ8I6UeKGyFlY) | 4:07 | 2024-11-04 | 2025-07-26 |

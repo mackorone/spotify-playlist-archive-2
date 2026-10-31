@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Parimal Shais, MC Couper, The Imbachi, Dabzee
 
-604 songs - 1 day 6 hr 56 min
+606 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Fly](https://open.spotify.com/track/0iSVHgbveiiQ3KWD2JGsRB) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL) | 4:06 | 2024-02-13 | 2024-04-23 |
 | [Fly](https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 4:06 | 2022-06-23 | 2024-04-19 |
 | [FLY](https://open.spotify.com/track/1nm5egyfvuJmla7MUWCi7a) | [Vishwa Music](https://open.spotify.com/artist/3ZBSWwfr6Aumjgz8J0aIW7), [L4TERN](https://open.spotify.com/artist/3ocwwpzYk8POOMqGiPP6N4) | [FLY](https://open.spotify.com/album/4rtlJnY2i9dNpoAwuBDhSA) | 2:51 | 2025-09-03 | 2025-11-08 |
+| [For A Reason](https://open.spotify.com/track/2XK7JEW46rkMXsC7W5NaWL) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [For A Reason](https://open.spotify.com/album/0c0NJvSM4uIGtSi0g7dbGn) | 3:06 | 2026-10-30 |  |
 | [Galatta \- From "Aavesham"](https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Galatta \(From "Aavesham"\)](https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8) | 2:10 | 2024-04-17 | 2025-03-27 |
 | [Gang](https://open.spotify.com/track/7J9oMy41nNhNxuEUDHaXxD) | [Slaya](https://open.spotify.com/artist/1gHrrXq8gRv3gBIxOgOdcD), [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Gang](https://open.spotify.com/album/6L6dOgEB7Q14QvYaPSZjSF) | 2:42 | 2025-06-23 | 2025-07-31 |
 | [Gang B](https://open.spotify.com/track/649iHHlfV5MjNIMsmeRDzW) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Gang B](https://open.spotify.com/album/6tPkFSgCB5fzzPqb3pMhZw) | 3:59 | 2025-08-25 | 2025-11-21 |
@@ -247,6 +248,7 @@
 | [KINGSIZE](https://open.spotify.com/track/4Pfl7shtw8t0Z3fYq1KHod) | [raze](https://open.spotify.com/artist/2bHCMsJhQQqw4A3RvzryGP), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [ZÆD](https://open.spotify.com/artist/47HBMfdBtKl8e6Fdogk2aJ) | [KINGSIZE](https://open.spotify.com/album/3vovjGusrhfZPwcDcJbxmv) | 2:45 | 2025-10-06 | 2025-11-21 |
 | [Kireedam \- From "Nadikar"](https://open.spotify.com/track/2g4039ejgn6ANY5cj3zPAh) | [Yakzan Gary Pereira](https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [Kireedam \(From "Nadikar"\)](https://open.spotify.com/album/5ZCDubJcQbrJBA0ixYqwdh) | 2:54 | 2024-04-17 | 2024-05-22 |
 | [KL42](https://open.spotify.com/track/2akQaKSgo8XjKj5eqccOV4) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Kevin Soney](https://open.spotify.com/artist/7dGRq77QLo5zlEMXGEd3wI) | [KL42](https://open.spotify.com/album/7jp8mlpnbba5T3Mjj0A49w) | 2:39 | 2025-04-04 | 2026-06-20 |
+| [Kochi City Vice](https://open.spotify.com/track/6X9CKe9IsWyYA3nxNuzF5v) | [Rakz Radiant](https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ), [SXNATH](https://open.spotify.com/artist/6VTNgYVavXETAaUlVkZ95U) | [Kochi City Vice](https://open.spotify.com/album/3FbP7D2zgqZTSvooOnmjaC) | 2:00 | 2026-10-30 |  |
 | [KOMB](https://open.spotify.com/track/5yqOM8fqofo3UXQI3HbESF) | [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [IRUTHALA PAKSHI](https://open.spotify.com/album/7s0xY54MjcJdw1kBrv9e4z) | 1:42 | 2023-07-23 | 2024-05-22 |
 | [Komban \- From "Nadikar"](https://open.spotify.com/track/1TN2YrviftjNXgJRlTly9a) | [Yakzan Gary Pereira](https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Komban \(From "Nadikar"\)](https://open.spotify.com/album/42r0o0zmFsla9wttlxy5hT) | 3:03 | 2024-05-02 | 2025-03-21 |
 | [Kondaattam](https://open.spotify.com/track/3LOYZStvbXBOLXp9mOpZ7i) | [The Ray](https://open.spotify.com/artist/7n1Ew2dYaHBPGdDVcmxbFF) | [Kondaattam](https://open.spotify.com/album/2NnlVerJKVvPUcqEzUT1Ys) | 3:42 | 2025-07-15 | 2025-08-23 |

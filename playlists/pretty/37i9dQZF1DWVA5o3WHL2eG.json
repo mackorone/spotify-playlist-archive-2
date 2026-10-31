@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51576,
+  "num_followers": 51571,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
-        "name": "Ich versteh es jetzt",
-        "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
-      },
-      "artists": [
-        {
-          "name": "Domiziana",
-          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "Ich versteh es jetzt",
-      "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
         "name": "What I Need",
         "url": "https://open.spotify.com/album/21AfNPpOR90xByW1wCbDo8"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 218949,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/05lkFXYG6D3iUmEsmxjUMf"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
+        "name": "Ich versteh es jetzt",
+        "url": "https://open.spotify.com/album/5BYDGJqLLJIVcuddYx1HQr"
+      },
+      "artists": [
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Ich versteh es jetzt",
+      "url": "https://open.spotify.com/track/3PqQC3SV6fhPEoxHA9D5xf"
     },
     {
       "added_at": "2026-10-07 22:00:17",

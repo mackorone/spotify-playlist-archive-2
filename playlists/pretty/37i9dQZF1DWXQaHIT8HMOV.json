@@ -1,28 +1,32 @@
 {
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Dokta Brain",
-  "num_followers": 14322,
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Joshua Baraka",
+  "num_followers": 14338,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPkol+LgRkO5u4/Q3GOJWX8wswaa",
+  "snapshot_id": "AAAAABEBEJWNjgq4aqf4YsguXVUqwjIR",
   "tracks": [
     {
-      "added_at": "2026-10-01 23:59:27",
+      "added_at": "2026-10-30 16:04:35",
       "album": {
-        "name": "YoYo",
-        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/31htNCnKv0SUQqISftKMb8"
       },
       "artists": [
         {
           "name": "Joshua Baraka",
           "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 200666,
-      "name": "YoYo",
-      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
+      "duration_ms": 148000,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1VWGibPsJzoO6MQKi17Dpf"
     },
     {
       "added_at": "2026-10-01 23:59:27",
@@ -57,6 +61,22 @@
       "url": "https://open.spotify.com/track/5YXwtHacsQiPVd0Yk6fwzs"
     },
     {
+      "added_at": "2026-10-30 16:04:35",
+      "album": {
+        "name": "Empisa",
+        "url": "https://open.spotify.com/album/39pDgWZBS0H3RXbyWNc7e0"
+      },
+      "artists": [
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Empisa",
+      "url": "https://open.spotify.com/track/548dJ3jaTVnUWLyo801mDQ"
+    },
+    {
       "added_at": "2026-10-01 23:59:27",
       "album": {
         "name": "Buntu Butono II",
@@ -75,6 +95,26 @@
       "duration_ms": 190000,
       "name": "Buntu Butono II",
       "url": "https://open.spotify.com/track/7IeG5XoZKoF6AQO92XmFim"
+    },
+    {
+      "added_at": "2026-10-30 16:04:35",
+      "album": {
+        "name": "Kyazanga",
+        "url": "https://open.spotify.com/album/5z2htx1a6kPgMMmSnDNV8I"
+      },
+      "artists": [
+        {
+          "name": "JOWY LANDA",
+          "url": "https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X"
+        },
+        {
+          "name": "Hozambe D Star",
+          "url": "https://open.spotify.com/artist/305lcQgZWfSRWWjcj15PC2"
+        }
+      ],
+      "duration_ms": 128304,
+      "name": "Kyazanga",
+      "url": "https://open.spotify.com/track/0zHWrvYgcZYQNQ7nDPtlGe"
     },
     {
       "added_at": "2026-10-01 23:59:27",
@@ -107,6 +147,50 @@
       "duration_ms": 184421,
       "name": "Away",
       "url": "https://open.spotify.com/track/7232f7vSM6IDr1aV1P81T8"
+    },
+    {
+      "added_at": "2026-10-30 16:04:35",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1BpX50aVBVlfkc98tbi7pD"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Mr. Kagame",
+          "url": "https://open.spotify.com/artist/2mRkVuTLj0Gyr42vc4C6Fq"
+        },
+        {
+          "name": "Sintex",
+          "url": "https://open.spotify.com/artist/0QMV9rjeKVU8bq3QD4dvuI"
+        },
+        {
+          "name": "TAREL TALA",
+          "url": "https://open.spotify.com/artist/7kT8UnxPBFJnPrktaiTEFc"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/7JDsL43CKalyypxm6O2Y41"
+    },
+    {
+      "added_at": "2026-10-01 23:59:27",
+      "album": {
+        "name": "YoYo",
+        "url": "https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "YoYo",
+      "url": "https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo"
     },
     {
       "added_at": "2026-10-01 23:59:27",
@@ -171,6 +255,22 @@
       "duration_ms": 154096,
       "name": "Muntu Wange",
       "url": "https://open.spotify.com/track/5vov2bIJyCGYY88cGPDZby"
+    },
+    {
+      "added_at": "2026-10-30 16:04:35",
+      "album": {
+        "name": "Ekyana & Time",
+        "url": "https://open.spotify.com/album/3HCm6u6A3o7fNsLvz9s3uE"
+      },
+      "artists": [
+        {
+          "name": "Expect XHAVI",
+          "url": "https://open.spotify.com/artist/2UD1QtSxiIQHdWdDIXJPwT"
+        }
+      ],
+      "duration_ms": 149677,
+      "name": "Ekyana",
+      "url": "https://open.spotify.com/track/16TvQAt6SMpiwjbIxlS5NK"
     },
     {
       "added_at": "2026-10-01 23:59:27",

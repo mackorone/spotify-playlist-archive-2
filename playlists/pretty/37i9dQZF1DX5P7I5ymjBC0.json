@@ -1,12 +1,12 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 86798,
+  "num_followers": 86816,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIg3ZpZuA41/CZ4V2c+D4x3n9/tT",
+  "snapshot_id": "AAAAACGgRkQOGrUVGc+SpDJCRu510wCv",
   "tracks": [
     {
       "added_at": "2026-09-29 11:47:09",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
+        "name": "The Burning Ghat",
+        "url": "https://open.spotify.com/album/61jipsWyfpfNMuHgkEUIWp"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 418588,
+      "name": "The Burning Ghat",
+      "url": "https://open.spotify.com/track/1qIJIfT39cWz9W4tZBIJAx"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
         "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 217078,
       "name": "Garaj Garaj Rock",
       "url": "https://open.spotify.com/track/7xoSO0L4sNEQiAlE2cVxg9"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
-        "name": "The Burning Ghat",
-        "url": "https://open.spotify.com/album/61jipsWyfpfNMuHgkEUIWp"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 418588,
-      "name": "The Burning Ghat",
-      "url": "https://open.spotify.com/track/1qIJIfT39cWz9W4tZBIJAx"
     },
     {
       "added_at": "2026-09-29 11:47:09",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
-        "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) (From The Living Room)",
-        "url": "https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn"
-      },
-      "artists": [
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        }
-      ],
-      "duration_ms": 307006,
-      "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) - From The Living Room",
-      "url": "https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
         "name": "Chanakya",
         "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 163071,
       "name": "Chanakya",
       "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
+        "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) (From The Living Room)",
+        "url": "https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "duration_ms": 307006,
+      "name": "Apne Khilaaf (Irshad - Mehfilz with Papon) - From The Living Room",
+      "url": "https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb"
     },
     {
       "added_at": "2026-09-29 11:47:09",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
+        "name": "Shiv Kailash (Live in Mumbai)",
+        "url": "https://open.spotify.com/album/2bm5hg3zmNX5uWRIVxhrcu"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 460000,
+      "name": "Shiv Kailash (Live in Mumbai)",
+      "url": "https://open.spotify.com/track/0zZ86TrgtxtJVrFgBTI6SI"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
         "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 175075,
       "name": "Ghar Aa Maahi",
       "url": "https://open.spotify.com/track/7b0n7IkWqpECubGjiPODqW"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
-        "name": "Shiv Kailash (Live in Mumbai)",
-        "url": "https://open.spotify.com/album/2bm5hg3zmNX5uWRIVxhrcu"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 460000,
-      "name": "Shiv Kailash (Live in Mumbai)",
-      "url": "https://open.spotify.com/track/0zZ86TrgtxtJVrFgBTI6SI"
     },
     {
       "added_at": "2026-09-29 11:47:09",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
-        "name": "Saawariyo",
-        "url": "https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB"
-      },
-      "artists": [
-        {
-          "name": "Atmanam",
-          "url": "https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz"
-        },
-        {
-          "name": "Aditya Gadhvi",
-          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
-        }
-      ],
-      "duration_ms": 265124,
-      "name": "Saawariyo",
-      "url": "https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
         "name": "Text me when you reach",
         "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 91325,
       "name": "Text me when you reach",
       "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
+        "name": "Saawariyo",
+        "url": "https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB"
+      },
+      "artists": [
+        {
+          "name": "Atmanam",
+          "url": "https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz"
+        },
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        }
+      ],
+      "duration_ms": 265124,
+      "name": "Saawariyo",
+      "url": "https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV"
     },
     {
       "added_at": "2026-09-29 11:47:09",
@@ -807,30 +807,6 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
-        "name": "Natkhat Nadiya (From \"Song of the Rive Ganga\")",
-        "url": "https://open.spotify.com/album/22jn06qdCRudAJi5lciG6G"
-      },
-      "artists": [
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Natkhat Nadiya - From \"Song of the Rive Ganga\"",
-      "url": "https://open.spotify.com/track/4la89hn6yNlbm2jcBXliY1"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
         "name": "Mannde Ji Mala",
         "url": "https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 329200,
       "name": "Mannde Ji Mala",
       "url": "https://open.spotify.com/track/1Wf25igBukyJcb684oEYvY"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
+        "name": "Natkhat Nadiya (From \"Song of the Rive Ganga\")",
+        "url": "https://open.spotify.com/album/22jn06qdCRudAJi5lciG6G"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Natkhat Nadiya - From \"Song of the Rive Ganga\"",
+      "url": "https://open.spotify.com/track/4la89hn6yNlbm2jcBXliY1"
     },
     {
       "added_at": "2026-09-29 11:47:09",
@@ -979,18 +979,30 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
-        "name": "Vari",
-        "url": "https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI"
+        "name": "Jhoomelo (feat. Hansa Devi) [Maati S1]",
+        "url": "https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn"
       },
       "artists": [
         {
-          "name": "Varijashree Venugopal",
-          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Raghav & Arjun",
+          "url": "https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot"
+        },
+        {
+          "name": "Deepak Ramola",
+          "url": "https://open.spotify.com/artist/27sLJoziHcUlgivULGSga4"
+        },
+        {
+          "name": "Hansa Devi",
+          "url": "https://open.spotify.com/artist/0Ja0ekncJTeJ9zn1qJ9Fn9"
         }
       ],
-      "duration_ms": 224225,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp"
+      "duration_ms": 259200,
+      "name": "Jhoomelo (feat. Hansa Devi) - Maati S1",
+      "url": "https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE"
     },
     {
       "added_at": "2026-09-29 11:47:09",
@@ -1019,30 +1031,18 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
-        "name": "Jhoomelo (feat. Hansa Devi) [Maati S1]",
-        "url": "https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn"
+        "name": "Vari",
+        "url": "https://open.spotify.com/album/0yP0Y5UeIqn0PaMMczQVtI"
       },
       "artists": [
         {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Raghav & Arjun",
-          "url": "https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot"
-        },
-        {
-          "name": "Deepak Ramola",
-          "url": "https://open.spotify.com/artist/27sLJoziHcUlgivULGSga4"
-        },
-        {
-          "name": "Hansa Devi",
-          "url": "https://open.spotify.com/artist/0Ja0ekncJTeJ9zn1qJ9Fn9"
+          "name": "Varijashree Venugopal",
+          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Jhoomelo (feat. Hansa Devi) - Maati S1",
-      "url": "https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE"
+      "duration_ms": 224225,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/52JCzatsNXrdTo5UvjA7Tp"
     },
     {
       "added_at": "2026-09-29 11:47:09",

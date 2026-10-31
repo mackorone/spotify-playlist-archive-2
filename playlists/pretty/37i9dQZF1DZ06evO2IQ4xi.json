@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 108584,
+  "num_followers": 108598,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "at/pgAAAAAAMnnRDVCtXDUmTRtkwQqSZ",
+  "snapshot_id": "auE7AAAAAAAwhNopf+t30STymMyWLRx/",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,22 @@
       "duration_ms": 92739,
       "name": "Oh The Places You'll Go",
       "url": "https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 86021,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5Nj1zRjADsyBn5uRt5BRNK"
     }
   ],
   "unique_name": "This Is Doechii",

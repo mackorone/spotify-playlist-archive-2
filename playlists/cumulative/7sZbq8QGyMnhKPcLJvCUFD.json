@@ -3341,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Crawlspace",
+        "url": "https://open.spotify.com/album/00fePA8kIiMjhwBEJnvyLj"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171638,
+      "name": "Crawlspace",
+      "url": "https://open.spotify.com/track/7e6VMJpc2g9Olxd2T7dn1J"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/59yKZOWSuX7wYlH5nZneRY"
       },
@@ -18680,6 +18698,24 @@
       "duration_ms": 222005,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/3m71VLuekxke2MO8yHkOYg"
+    },
+    {
+      "album": {
+        "name": "wherever you go",
+        "url": "https://open.spotify.com/album/0jsVD9LAg0oRbZuALxxlzu"
+      },
+      "artists": [
+        {
+          "name": "vinter",
+          "url": "https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "wherever you go",
+      "url": "https://open.spotify.com/track/4B87cZBMZrorUlAdDWohcL"
     },
     {
       "album": {

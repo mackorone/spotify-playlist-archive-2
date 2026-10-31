@@ -1,12 +1,12 @@
 {
   "description": "New music from TEEKS, Xduppy, Gracie Abrahams, Mr Thela and more.",
-  "num_followers": 195640,
+  "num_followers": 195939,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPFtMfOMKvAHKSjOCmbHtjReNRMZ",
+  "snapshot_id": "AAAAAAw5aXGKgM6FlNQBoPsc0pIIAoi4",
   "tracks": [
     {
       "added_at": "2026-10-29 22:00:24",
@@ -53,7 +53,7 @@
         },
         {
           "name": "Sleazy",
-          "url": "https://open.spotify.com/artist/3RUkVCv0E5vkTbR2g4NmEz"
+          "url": "https://open.spotify.com/artist/6PzSfB1y18O3Bmnq5jhPS9"
         },
         {
           "name": "Optimist Music ZA",
@@ -188,7 +188,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 169647,
+      "duration_ms": 170582,
       "name": "Here You Come, There You Go",
       "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
     },
@@ -365,6 +365,22 @@
       "url": "https://open.spotify.com/track/2tL2WjiyLdH3aOLYweLaKC"
     },
     {
+      "added_at": "2026-10-30 11:56:07",
+      "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/67AaH8SyLzg8Gay1Cl8r96"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "African Baddie",
+      "url": "https://open.spotify.com/track/6j6BUfZgqVTq7edXZuq4mG"
+    },
+    {
       "added_at": "2026-10-29 22:00:24",
       "album": {
         "name": "Nu Zamrock",
@@ -463,6 +479,26 @@
       "duration_ms": 338000,
       "name": "Sobuye Sbonane",
       "url": "https://open.spotify.com/track/4EmvNiLeIZFKlmjm9TyE33"
+    },
+    {
+      "added_at": "2026-10-30 11:56:07",
+      "album": {
+        "name": "Outsiders III",
+        "url": "https://open.spotify.com/album/0pPVLtSZUaygaorpYB5pU9"
+      },
+      "artists": [
+        {
+          "name": "Kudbeu",
+          "url": "https://open.spotify.com/artist/2HbUBaeQKxeIjd0sOfHyFX"
+        },
+        {
+          "name": "Aizo Clutch",
+          "url": "https://open.spotify.com/artist/52prduwoZJCA7ql3zPG6Bl"
+        }
+      ],
+      "duration_ms": 365128,
+      "name": "I'm Easy",
+      "url": "https://open.spotify.com/track/2GdnaZLJLUlWDBzrbBoqMM"
     },
     {
       "added_at": "2026-10-29 22:00:24",
@@ -1211,7 +1247,7 @@
     {
       "added_at": "2026-10-29 22:00:24",
       "album": {
-        "name": "Selina ft J-Smash",
+        "name": "Selina",
         "url": "https://open.spotify.com/album/4S4GvNaHS9xaR1Nyf19qzP"
       },
       "artists": [
@@ -1225,7 +1261,7 @@
         }
       ],
       "duration_ms": 215276,
-      "name": "Selina ft J-Smash",
+      "name": "Selina",
       "url": "https://open.spotify.com/track/0usHTeqxcbSgD7EUTc6wHN"
     },
     {
@@ -1447,6 +1483,22 @@
       "duration_ms": 144090,
       "name": "BODY ROCK",
       "url": "https://open.spotify.com/track/0WmM6T3Z5ipbj7rdzGxzXy"
+    },
+    {
+      "added_at": "2026-10-30 11:56:07",
+      "album": {
+        "name": "Make Me Believe",
+        "url": "https://open.spotify.com/album/3HZr1ltoGVr0Pb7ebclPsi"
+      },
+      "artists": [
+        {
+          "name": "RICKY",
+          "url": "https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj"
+        }
+      ],
+      "duration_ms": 180527,
+      "name": "Make Me Believe",
+      "url": "https://open.spotify.com/track/2BLc8yO5Rf6233hFynzg3y"
     },
     {
       "added_at": "2026-10-29 22:00:24",

@@ -656,7 +656,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 256720,
       "name": "Down Bitch",
       "url": "https://open.spotify.com/track/5lsV4GoS0WSC8UP2ycQyXR"
@@ -2488,6 +2488,24 @@
       "duration_ms": 165710,
       "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
+    },
+    {
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221076,
+      "name": "Stalking You",
+      "url": "https://open.spotify.com/track/1DPz356PzDOvqvjCnQu7Lo"
     },
     {
       "album": {

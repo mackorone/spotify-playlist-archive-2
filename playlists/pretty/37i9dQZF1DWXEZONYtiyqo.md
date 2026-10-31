@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Andia
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,303 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,316 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vând O Inimă](https://open.spotify.com/track/3ktBEzPk6zlzGan1izKsA5) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Vând O Inimă](https://open.spotify.com/album/5ZkofTPf3xplJSiL4lpxbk) | 2:26 |
-| 2 | [Când timpul face paşi](https://open.spotify.com/track/5wYWTdSEsAf4pVTAIJdJPt) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE), [ADI Istrate](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Când timpul face paşi](https://open.spotify.com/album/5yjf1emO5kUpydCkhgvRFA) | 2:58 |
+| 2 | [Când timpul face paşi](https://open.spotify.com/track/5wYWTdSEsAf4pVTAIJdJPt) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE), [ADI Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Când timpul face paşi](https://open.spotify.com/album/5yjf1emO5kUpydCkhgvRFA) | 2:58 |
 | 3 | [Melancolie](https://open.spotify.com/track/5NqF1AvjmoJYblLfszEyKE) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Melancolie](https://open.spotify.com/album/5YNHon1mfRWW28E2JmFn20) | 2:29 |
 | 4 | [Arunc cu florile](https://open.spotify.com/track/1ILEUclvI62ca0mR5cbg2E) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Arunc cu florile](https://open.spotify.com/album/730v07BNw7fZLX6iUOo4er) | 2:35 |
 | 5 | [Ne certăm să ne împăcăm](https://open.spotify.com/track/3TI8tDdl9l3RgaMsqXHUlE) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ne certăm să ne împăcăm](https://open.spotify.com/album/4QoZF7wvuvlBpNz9fZzUSF) | 2:38 |

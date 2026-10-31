@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/1Po0QBhBPS3stIPt6GylQ0"
+      },
+      "artists": [
+        {
+          "name": "Pola",
+          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2v3Xu59V4lqBZvYvL5a8fb"
+    },
+    {
+      "album": {
         "name": "Baby Blue Movie",
         "url": "https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj"
       },
@@ -3344,7 +3366,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 164822,
       "name": "daj mi znak",
       "url": "https://open.spotify.com/track/7qOAHK3XcMHz9YlSopJ107"
@@ -6668,6 +6690,24 @@
       "duration_ms": 149662,
       "name": "herbata",
       "url": "https://open.spotify.com/track/2qha8vBQzGw4Fv89TE1r9L"
+    },
+    {
+      "album": {
+        "name": "Here You Come, There You Go",
+        "url": "https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170582,
+      "name": "Here You Come, There You Go",
+      "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
     },
     {
       "album": {
@@ -13435,7 +13475,7 @@
     },
     {
       "album": {
-        "name": "Pangea",
+        "name": "PANGEA",
         "url": "https://open.spotify.com/album/1SWOzCoLEEFuEOst8F6rdk"
       },
       "artists": [
@@ -13448,7 +13488,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158720,
-      "name": "Pangea",
+      "name": "PANGEA",
       "url": "https://open.spotify.com/track/2ZwEDO0WH8ELXpDiIsZORv"
     },
     {
@@ -20624,7 +20664,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 214000,
       "name": "Wolne popo\u0142udnia w Polsce",
       "url": "https://open.spotify.com/track/4Po0aFEMfZiWyZQXRXHByI"

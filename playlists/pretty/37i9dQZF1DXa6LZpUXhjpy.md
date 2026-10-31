@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6LZpUXhjpy.md) - [plain]
 
 > Vámonos lejos de la ciudad 🚘💛⛰️ <br/>Daniela Spalla x Los Ángeles Azules
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,720 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,735 likes - 48 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

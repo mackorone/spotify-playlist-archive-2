@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Flick
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,437 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 89 | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/track/7gtiDA3nmDP7ZascKWBGVr) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [MIX MIX \(KINGSIZE\)](https://open.spotify.com/album/1iOc0eNChmBUZ4Kyrr1Wk9) | 3:00 |
 | 90 | [Odo Ankasa](https://open.spotify.com/track/09wVyBurKxBhGxKF3CjxLm) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Ankasa](https://open.spotify.com/album/7eeOwprfBvmURs63cD8DGy) | 3:52 |
 
-Snapshot ID: `AAAAAJd1VNbqyT4TWwsrtaXjYWVtycbg`
+Snapshot ID: `AAAAALP2y4775ISBytpvc0sclg+Ahcq+`

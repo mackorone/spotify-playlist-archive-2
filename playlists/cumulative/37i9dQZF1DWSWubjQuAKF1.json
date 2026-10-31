@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-31",
       "duration_ms": 209999,
       "name": "boj\u0119 si\u0119 ba\u0107",
       "url": "https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi"
@@ -7354,6 +7354,28 @@
       "duration_ms": 150000,
       "name": "Kim jestem?",
       "url": "https://open.spotify.com/track/22YghQ8Kr3nXtmuIgb47ge"
+    },
+    {
+      "album": {
+        "name": "kim mam by\u0107?",
+        "url": "https://open.spotify.com/album/5lrhYfmlcjk0eGOaw6ItOt"
+      },
+      "artists": [
+        {
+          "name": "Maja Golec",
+          "url": "https://open.spotify.com/artist/5aoyFu4Ipc5PSsDfqgzS2X"
+        },
+        {
+          "name": "Backstage Brassband",
+          "url": "https://open.spotify.com/artist/5Yrovzk2rDUVXNBD6N71jR"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203888,
+      "name": "kim mam by\u0107?",
+      "url": "https://open.spotify.com/track/4bN4eZWTCASsnzf8vK27oc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,677 likes - 61 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,942 likes - 61 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 5 | [BAILAR O MORIR](https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y) | [BOM](https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAILAR O MORIR](https://open.spotify.com/album/4666SViPubDIsqw5300oiR) | 2:34 |
 | 6 | [Si Caminas Solo..](https://open.spotify.com/track/1bkxVXQz5n3fs8ksEbyRMI) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Caminas Solo..](https://open.spotify.com/album/6TYwNPMbibPwCT13NGWtD8) | 2:14 |
 | 7 | [Guayarte](https://open.spotify.com/track/6BHLoleSo5SysgBHAwc7LP) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Guayarte](https://open.spotify.com/album/1m4x6rqcxaiLUhvzYJUlSe) | 2:45 |
-| 8 | [PA K T D](https://open.spotify.com/track/21SjZxg26hGe3cDssrALSj) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Ag Daddy](https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1) | [PA K T D](https://open.spotify.com/album/2AeQy5PRIagYpQXMTgC2ug) | 3:12 |
+| 8 | [PKTD](https://open.spotify.com/track/21SjZxg26hGe3cDssrALSj) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Ag Daddy](https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1) | [PKTD](https://open.spotify.com/album/2AeQy5PRIagYpQXMTgC2ug) | 3:12 |
 | 9 | [Lo Mismo Que a Mí](https://open.spotify.com/track/0iECkn9x3dYwQzEY6WmOhk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Morelo](https://open.spotify.com/album/5V2xcWQXx5wFITRnzeFoyI) | 3:06 |
 | 10 | [BRINCAITO](https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [BRINCAITO](https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4) | 2:04 |
 | 11 | [M EXTRAÑA :\(](https://open.spotify.com/track/4OieMS6lgv2V5v6HjIu6tM) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ronald El Killa](https://open.spotify.com/artist/2jE5NeCBZpgohvRLtQ6v0O), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [M EXTRAÑA :\(](https://open.spotify.com/album/3tL6NA5DuonfcdxFplKUi5) | 3:52 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 38 | [Quiero Regresar](https://open.spotify.com/track/60D9VolO2BFd23AQhZCYb7) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Quiero Regresar](https://open.spotify.com/album/5g5PFwnXo9oWlxN67SyjSt) | 3:09 |
 | 39 | [A Son De Qué?](https://open.spotify.com/track/2IXafUc1KJJv9KWXMjCAyt) | [El Vega](https://open.spotify.com/artist/6HWumjoLO58NYInUHk9565), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [A Son De Qué?](https://open.spotify.com/album/6tZ8yLeIknb2gIYrX3SOCo) | 2:11 |
 | 40 | [Vampira](https://open.spotify.com/track/6w9mqbeS37d6Z0uKXsbHKT) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [Vampira](https://open.spotify.com/album/5NTud0xsThhQxvuNL8IP30) | 2:09 |
-| 41 | [Track 1](https://open.spotify.com/track/4gh2vcEHQMLzLAYRuc4eIY) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL) | [Luchador](https://open.spotify.com/album/4x79Wr6lGIOHiqOliL4bkF) | 0:00 |
+| 41 | [Luchador](https://open.spotify.com/track/4gh2vcEHQMLzLAYRuc4eIY) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [Luchador](https://open.spotify.com/album/4x79Wr6lGIOHiqOliL4bkF) | 3:57 |
 | 42 | [llorando de risa](https://open.spotify.com/track/4HCFMyheSM0NsWYT51WK2O) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [llorando de risa](https://open.spotify.com/album/3ILsMChw24VuxsZ3CFcVjO) | 3:07 |
 | 43 | [Baracunatana](https://open.spotify.com/track/1cmxHjOEzfQ2FnkxVWBoY6) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Puerto Candelaria](https://open.spotify.com/artist/27neIga89YKdkCk6Yzv0ni) | [Baracunatana](https://open.spotify.com/album/3GAdW2NCeMsyp44xQNORX7) | 3:56 |
 | 44 | [Voodoo](https://open.spotify.com/track/75OhFRdm605ZpAyi5PaWvu) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Voodoo](https://open.spotify.com/album/6zQHAX1n37Zn4BH2x5IE5i) | 3:42 |
