@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945270,
+  "num_followers": 945246,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9a6MtaG7D+74epoBjrhqFEXf+H",
+  "snapshot_id": "AAAAAFBWDNZmbJsTKcB53wGcZApBtvI+",
   "tracks": [
     {
       "added_at": "2026-10-23 01:38:05",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-10-23 01:38:05",
       "album": {
+        "name": "Mural Dos Sonhos",
+        "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
+      },
+      "artists": [
+        {
+          "name": "Matheus Vargas",
+          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 158122,
+      "name": "Mural Dos Sonhos",
+      "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
+    },
+    {
+      "added_at": "2026-10-23 01:38:05",
+      "album": {
         "name": "Bagun\u00e7a Minha Vida (Ao Vivo Em Goi\u00e2nia / 2019)",
         "url": "https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4"
       },
@@ -543,22 +563,18 @@
     {
       "added_at": "2026-10-23 01:38:05",
       "album": {
-        "name": "Mural Dos Sonhos",
-        "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
       "artists": [
         {
-          "name": "Matheus Vargas",
-          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 158122,
-      "name": "Mural Dos Sonhos",
-      "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
+      "duration_ms": 192410,
+      "name": "Exclusividade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
     },
     {
       "added_at": "2026-10-23 01:38:05",
@@ -575,22 +591,6 @@
       "duration_ms": 249846,
       "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
       "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 192410,
-      "name": "Exclusividade - Ao Vivo",
-      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
     },
     {
       "added_at": "2026-10-23 01:38:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-10-23 01:38:05",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "Escreve A\u00ed - Ao Vivo",
-      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
-    },
-    {
-      "added_at": "2026-10-23 01:38:05",
-      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 156371,
       "name": "Serenata - Ao Vivo",
       "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
+    },
+    {
+      "added_at": "2026-10-23 01:38:05",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "Escreve A\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
     },
     {
       "added_at": "2026-10-23 01:38:05",
@@ -775,18 +775,22 @@
     {
       "added_at": "2026-10-23 01:38:05",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 214087,
-      "name": "boa mem\u00f3ria - ao vivo",
-      "url": "https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n"
+      "duration_ms": 201440,
+      "name": "Deixa Eu Te Amar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
     },
     {
       "added_at": "2026-10-23 01:38:05",
@@ -807,22 +811,18 @@
     {
       "added_at": "2026-10-23 01:38:05",
       "album": {
-        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
       "artists": [
         {
-          "name": "Edson & Hudson",
-          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 201440,
-      "name": "Deixa Eu Te Amar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
+      "duration_ms": 214087,
+      "name": "boa mem\u00f3ria - ao vivo",
+      "url": "https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n"
     },
     {
       "added_at": "2026-10-23 01:38:05",

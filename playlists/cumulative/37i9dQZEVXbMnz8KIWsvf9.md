@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,429 songs - 3 day 12 hr 11 min
+1,431 songs - 3 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 | 2022-07-16 | 2023-01-10 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-03 | 2022-04-06 |
 | [Abyss](https://open.spotify.com/track/40BomFCBuJok3OjxM9oG7e) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Abyss](https://open.spotify.com/album/0vyG4FyBIHURVJjQT0RDvG) | 2:35 | 2023-12-05 | 2023-12-07 |
+| [ADDICTED](https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ADDICTED](https://open.spotify.com/album/0vUguBVUu74NEtzLdXh4X5) | 2:59 | 2026-10-31 |  |
 | [aenergy](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 2:27 | 2021-10-07 | 2021-10-08 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-23 | 2022-10-23 |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-11-18 | 2023-12-09 |
@@ -920,6 +921,7 @@
 | [Yun \(with Erykah Badu\)](https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:53 | 2022-12-03 | 2022-12-05 |
 | [ZEN](https://open.spotify.com/track/2chbuybiy6aDDBC985tJcP) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:21 | 2025-03-08 | 2025-03-10 |
 | [ZOOM ZOOM](https://open.spotify.com/track/098yqVQHwObj19A8Uv5Odu) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO) | 2:58 | 2026-06-06 | 2026-06-08 |
+| [กบ](https://open.spotify.com/track/6jvDWreVrhC3sgfAQiaxrN) | [หวิว](https://open.spotify.com/artist/3G2W1t72hvjKcTaKYa0w5C) | [หวิว](https://open.spotify.com/album/543rQrT70xqA679eCSu3mC) | 3:53 | 2026-10-31 |  |
 | [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 | 2025-10-28 | 2026-10-31 |
 | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/track/7EtCnq7brD1RU8ldqKWB0I) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/album/2507HhYDLaRcCcJMX7lh8C) | 4:00 | 2022-02-04 | 2022-04-29 |
 | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH) | 3:28 | 2022-10-05 | 2023-01-27 |
@@ -1034,7 +1036,7 @@
 | [ซมซาน](https://open.spotify.com/track/77VHyliZJz9BScxzMsplFs) | [Loso](https://open.spotify.com/artist/68ASbzKA9iG2gd7JRfPD71) | [เอ็นเตอร์เทนเม้นท์](https://open.spotify.com/album/60vLpPLaRxohZ1D8gJQRP1) | 5:12 | 2026-07-02 | 2026-08-11 |
 | [ซอยข่อยแน](https://open.spotify.com/track/5NatUJnc5MRLXZtPssbOnC) | [YONIA](https://open.spotify.com/artist/3dGY3ZGSS9AkDxJ1tiKlkh) | [ซอยข่อยแน](https://open.spotify.com/album/43F1BaUAb6QmBlb6RUv4KL) | 3:13 | 2026-01-18 | 2026-01-28 |
 | [ซับ](https://open.spotify.com/track/0Qk8RUwooCGKghG9yClG3O) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [ว่าน วันวาน](https://open.spotify.com/artist/0QScRPnsnAmEpN7w3p1Joo) | [ซับ](https://open.spotify.com/album/1c96H5AfNuK1rbtQ54PjR7) | 4:46 | 2021-03-27\* | 2021-09-12 |
-| [ซาโยนาระ](https://open.spotify.com/track/1MkgN3lRBf5mXbxY6CWU9s) | [Mild](https://open.spotify.com/artist/2fLbT474RKQfdWHLw8Bf0G) | [MI4D](https://open.spotify.com/album/6EdwUD0kwZz0rVuXz5ed40) | 4:53 | 2025-10-24 |  |
+| [ซาโยนาระ](https://open.spotify.com/track/1MkgN3lRBf5mXbxY6CWU9s) | [Mild](https://open.spotify.com/artist/2fLbT474RKQfdWHLw8Bf0G) | [MI4D](https://open.spotify.com/album/6EdwUD0kwZz0rVuXz5ed40) | 4:53 | 2025-10-24 | 2026-11-01 |
 | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI) | 3:33 | 2025-03-20 | 2025-04-07 |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2022-05-25 | 2024-01-09 |
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/5nvdbRKg9fOixXotcZIQuF) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:54 | 2024-02-09 | 2025-02-18 |
@@ -1049,7 +1051,7 @@
 | [ดั้งเดิม](https://open.spotify.com/track/3Lu2Kn9MAb7mIXaRDZBZWG) | [MASKETEER](https://open.spotify.com/artist/6rHUnRq5IiPNgP32J1BkpC), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [ดั้งเดิม](https://open.spotify.com/album/36v78SDVDg6X2Ro6RENBSI) | 3:33 | 2026-09-13 | 2026-09-15 |
 | [ดาวตก \(Wish\) \(feat\. Z9\)](https://open.spotify.com/track/5JricpGIn4Qb8B6y148OdX) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ดาวตก \(Wish\) \(feat\. Z9\)](https://open.spotify.com/album/5bhJBp0wChMuYsJjUPB3kI) | 4:01 | 2026-09-16 |  |
 | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq) | 4:01 | 2025-10-06 | 2026-09-17 |
-| [ดาวหางฮัลเลย์](https://open.spotify.com/track/0cHtr7i0P0TpEODZr2WZDE) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [PROUD](https://open.spotify.com/album/1h8V3w6OBa9rc2bXmEwKB2) | 3:44 | 2024-11-12 |  |
+| [ดาวหางฮัลเลย์](https://open.spotify.com/track/0cHtr7i0P0TpEODZr2WZDE) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [PROUD](https://open.spotify.com/album/1h8V3w6OBa9rc2bXmEwKB2) | 3:44 | 2024-11-12 | 2026-11-01 |
 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 | 2023-09-06 | 2024-11-13 |
 | [ดีอะ](https://open.spotify.com/track/51dQjsWks0m45F8ILYYVuY) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [ดีอะ](https://open.spotify.com/album/0MqgHeODgUF5nxOZGNvMOo) | 3:27 | 2021-05-25 | 2021-05-27 |
 | [ดีแต่ปาก](https://open.spotify.com/track/0Bh3vj0tPAyI1mUvijlEgy) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [Seven](https://open.spotify.com/album/4ertcYYSd1GcMHBGvgP4K5) | 4:16 | 2025-04-10 | 2025-05-27 |

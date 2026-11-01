@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Mesafeler  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,737 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,732 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Belki](https://open.spotify.com/track/0MawbnN0HQJyLmvIdkIXFk) | [Mesafeler](https://open.spotify.com/artist/75z8pyZCUDFOCeYgRo9SXL) | [Belki](https://open.spotify.com/album/5De2NDPMVu3WKyrDDQwseO) | 4:51 |
+| 1 | [Belki](https://open.spotify.com/track/0MawbnN0HQJyLmvIdkIXFk) | [Mesafeler](https://open.spotify.com/artist/2BVaYWQGE8ewWDtC5wsFFQ) | [Belki](https://open.spotify.com/album/5De2NDPMVu3WKyrDDQwseO) | 4:51 |
 | 2 | [Etik Değil](https://open.spotify.com/track/5ttDuUg4iMHwlBmIdnP580) | [Ilgın Sıla](https://open.spotify.com/artist/3ereAumOIcyaaBl1YmaNv2) | [Etik Değil](https://open.spotify.com/album/0brl0fT7vTO4yLqCKuDaQY) | 3:15 |
 | 3 | [Patterns](https://open.spotify.com/track/59MVhkUf9213onRTaYnF6o) | [Particles](https://open.spotify.com/artist/5XKRiTg2TKQMB82UgJyRIu) | [Patterns](https://open.spotify.com/album/2aDuSQkCqlSvU6qKaLmiii) | 3:29 |
 | 4 | [Eski](https://open.spotify.com/track/1WT89oaLVWaHeksodkHQHO) | [MA RA](https://open.spotify.com/artist/768QxHapruFsSAhTeWlrlw) | [Eski](https://open.spotify.com/album/2BDquMQouyVrBIp8mYVubk) | 3:43 |

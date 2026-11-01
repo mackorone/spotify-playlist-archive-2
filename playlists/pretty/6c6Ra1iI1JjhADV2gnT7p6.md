@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,675 likes - 1,901 songs - 4 day 9 hr 59 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,678 likes - 1,901 songs - 4 day 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,11 +99,11 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 89 | [Dark Passenger](https://open.spotify.com/track/6C9Ilhfl8ougOdOhf5YLf4) | [Synergy Trilogy](https://open.spotify.com/artist/37wxMvagTVrn8UZBMaF9i0) | [Synergy Trilogy](https://open.spotify.com/album/7H78tC7UP6EaFeaxg33Cqn) | 5:14 |
 | 90 | [Sculcoates](https://open.spotify.com/track/73pjYKMZ66f50yvWVJbSms) | [Strange Pink](https://open.spotify.com/artist/75V926egJMSe19qVvlydyc) | [Guest Room](https://open.spotify.com/album/2yUV1CjkwJbjItz5XZKE79) | 4:53 |
 | 91 | [SPIDERZ](https://open.spotify.com/track/2JFRLY7XRjNT4wQ89Wj59u) | [IamOutlandish](https://open.spotify.com/artist/2ChOM7NT5Umi3lONEK4moO) | [SPIDERZ](https://open.spotify.com/album/5sua3FlP5tJ6J5asB9MTM7) | 3:28 |
-| 92 | [L/C](https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [L/C](https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i) | 4:13 |
-| 93 | [knuckle](https://open.spotify.com/track/7bHEks7ylRs3SHWsjjQ89L) | [Joe Leytrick](https://open.spotify.com/artist/5LFHwd1hbAGrwn9lMbZBSw) | [knuckle](https://open.spotify.com/album/6fwM4KytVtndPqdJ5qcXUF) | 3:36 |
-| 94 | [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 |
-| 95 | [Aquarium](https://open.spotify.com/track/5GmgeEqXJHpxE5QwHHLqCl) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Man or Myth / Aquarium](https://open.spotify.com/album/3fefETJLswgcB4prPInzEW) | 2:38 |
-| 96 | [When I Was A Ghost](https://open.spotify.com/track/1li6nCUcz7TewSZkCYRngo) | [Sea Glass](https://open.spotify.com/artist/3PvMAUXRI1D4NjpDrjBNRw), [Lesser Sparrow](https://open.spotify.com/artist/73Yvv94KYTiAqx9NvilpbI), [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [When I Was A Ghost](https://open.spotify.com/album/3FSzfStqrbYxnaqHNgdwJO) | 2:04 |
+| 92 | [When I Was A Ghost](https://open.spotify.com/track/1li6nCUcz7TewSZkCYRngo) | [Sea Glass](https://open.spotify.com/artist/3PvMAUXRI1D4NjpDrjBNRw), [Lesser Sparrow](https://open.spotify.com/artist/73Yvv94KYTiAqx9NvilpbI), [Sky Adler](https://open.spotify.com/artist/7tBYbT4opzICINZB2JNCYX) | [When I Was A Ghost](https://open.spotify.com/album/3FSzfStqrbYxnaqHNgdwJO) | 2:04 |
+| 93 | [L/C](https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [L/C](https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i) | 4:13 |
+| 94 | [knuckle](https://open.spotify.com/track/7bHEks7ylRs3SHWsjjQ89L) | [Joe Leytrick](https://open.spotify.com/artist/5LFHwd1hbAGrwn9lMbZBSw) | [knuckle](https://open.spotify.com/album/6fwM4KytVtndPqdJ5qcXUF) | 3:36 |
+| 95 | [Gamut](https://open.spotify.com/track/5sk7J329w6TKBZ7onE0SaB) | [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [Gamut / Styrofoam](https://open.spotify.com/album/1A2Eu2ifS8qALrj6PiV5KF) | 4:04 |
+| 96 | [Aquarium](https://open.spotify.com/track/5GmgeEqXJHpxE5QwHHLqCl) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Man or Myth / Aquarium](https://open.spotify.com/album/3fefETJLswgcB4prPInzEW) | 2:38 |
 | 97 | [DUI](https://open.spotify.com/track/1hVBZ6ybNzS1chByNpKcGF) | [Boyhood](https://open.spotify.com/artist/1xDHtidGRtMHL5ZV2CwMeL) | [I'll Dream InStead](https://open.spotify.com/album/6BQnrtsQDrjEBbggaAEaxs) | 4:19 |
 | 98 | [Loveandpain](https://open.spotify.com/track/23tbcp9w9dgkP9rnzocmEY) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Loveandpain](https://open.spotify.com/album/2C8vhIGiAHRQbfya2jjs2U) | 3:51 |
 | 99 | [BUILD A BEAR](https://open.spotify.com/track/0Iq6K0oNPgy8FdYlx0w6Mx) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa) | [BUILD A BEAR](https://open.spotify.com/album/5kOkThWQPWMB0YPP1phezJ) | 2:52 |
@@ -1910,4 +1910,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1900 | [floating](https://open.spotify.com/track/5gBKpm5lSMvJe6vO8cuSME) | [DARLENE DARLING](https://open.spotify.com/artist/3yXnawiH1ccHv0PnEUIO4C) | [floating](https://open.spotify.com/album/2Dw9XxZcB4zxzkMs4uJl2B) | 3:06 |
 | 1901 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABl/c9ML+CNQmG8JGwvkqTcwS1Ranhh`
+Snapshot ID: `AABl/m9uEWO2TTricgp2hLYfIZ8J6fGS`

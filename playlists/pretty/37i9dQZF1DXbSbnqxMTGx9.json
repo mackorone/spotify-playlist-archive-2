@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3228387,
+  "num_followers": 3228436,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Intensified",
-      "url": "https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Essential Dub Masters",
         "url": "https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 218680,
       "name": "Fisher Man Dub",
       "url": "https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Intensified",
+      "url": "https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1288,13 +1288,13 @@
       },
       "artists": [
         {
-          "name": "Rudy Mills",
-          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
+          "name": "Lynn Taitt & The Jets",
+          "url": "https://open.spotify.com/artist/2Fmwp5N1JzqKMTFtCryUuf"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Long Story",
-      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
+      "duration_ms": 147800,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/0xnpRZaTwiMcJWL8Sv1U2R"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1304,13 +1304,13 @@
       },
       "artists": [
         {
-          "name": "Lynn Taitt & The Jets",
-          "url": "https://open.spotify.com/artist/2Fmwp5N1JzqKMTFtCryUuf"
+          "name": "Rudy Mills",
+          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
         }
       ],
-      "duration_ms": 147800,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/0xnpRZaTwiMcJWL8Sv1U2R"
+      "duration_ms": 191560,
+      "name": "Long Story",
+      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Super Reggae & Soul Hits",
-        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
+        "name": "The Definitive Collection: You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3"
       },
       "artists": [
         {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
+      "duration_ms": 155986,
+      "name": "Israelites",
+      "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1571,6 +1571,22 @@
       "duration_ms": 256600,
       "name": "Buffalo Soldier",
       "url": "https://open.spotify.com/track/59ByyDNkqRGxBom9nHssxf"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Super Reggae & Soul Hits",
+        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1623,22 +1639,6 @@
       "duration_ms": 207666,
       "name": "Chase The Devil",
       "url": "https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Burnin' (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
     }
   ],
   "unique_name": "Reggae Classics",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,459 likes - 175 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,787 likes - 175 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [He Likes Boys](https://open.spotify.com/track/5FvbcPcVuIp7kmQV7qTpTo) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Fantasize](https://open.spotify.com/album/4iimDF0uw3Y6oS1BDpKggD) | 3:34 |
 | 2 | [My Vice Is Misery](https://open.spotify.com/track/4JM95LjK8U9SAxkYnH6HXn) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room, sensitive to the sound](https://open.spotify.com/album/0M4FDYpeIBg0PUSOBuld8s) | 3:57 |
-| 3 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 3 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 4 | [domino](https://open.spotify.com/track/2UQ5LqWJhCcMnj6WAysvDX) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [bleach](https://open.spotify.com/album/4zFgz9NWqfKwiKxVSMcI4a) | 3:11 |
 | 5 | [Bang Bang](https://open.spotify.com/track/58odKZK2mHgBy5rw6AQL6u) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [People Pleaser](https://open.spotify.com/album/6vYVu3wSl9OedjOU8n8pVX) | 2:30 |
 | 6 | [IMITATE](https://open.spotify.com/track/42GoMVuTK8BXAMpJXDxg9d) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [IMITATE](https://open.spotify.com/album/4Q2vZIVKADXCKegHeyDCAC) | 3:09 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 12 | [Heart Shaped Bed](https://open.spotify.com/track/7gjOdGi8agj10BCbcKaiiw) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Plain Jane](https://open.spotify.com/album/3d219WSRvmx2bMOjktulEK) | 3:28 |
 | 13 | [birds and butterflies](https://open.spotify.com/track/457q8IJ3Xnf3NevjFn2FSo) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [late night swim](https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35) | 2:21 |
 | 14 | [You’re Under Arrest](https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [BREAK EVEN](https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM) | 3:01 |
-| 15 | [wasteland](https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk) | [Bana](https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM) | [wasteland](https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN) | 2:23 |
+| 15 | [wasteland](https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk) | [bana](https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM) | [wasteland](https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN) | 2:23 |
 | 16 | [Looks Can Kill](https://open.spotify.com/track/3ioCKwSde6unFBEDmhLk9K) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/29iylYBoI7taTmNyvfYygd) | 3:15 |
 | 17 | [It All Comes To End](https://open.spotify.com/track/5cFVITQoaMtt6pMZQav5JC) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [It All Comes To End](https://open.spotify.com/album/5j820r3qXPjho7Sehhlkr2) | 4:09 |
 | 18 | [Face Card \- The Kid LAROI Remix](https://open.spotify.com/track/5DD7mEinRs7bMr6YvbyRXb) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Face Card \(The Kid LAROI Remix\)](https://open.spotify.com/album/7yeUtECMpr2lzo00a2mscy) | 2:31 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 32 | [WHAT A LIFE](https://open.spotify.com/track/12l1na9M2J9OVljxm4ahPq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [WHAT A LIFE](https://open.spotify.com/album/3IQwTCKTQyxBxqbuUAh3jX) | 2:37 |
 | 33 | [GF](https://open.spotify.com/track/0dtFevDp9cX3tI3cttbHCQ) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [GF](https://open.spotify.com/album/2xERYqyH3lXMEQhDWzEUBu) | 3:16 |
 | 34 | [Eden](https://open.spotify.com/track/4AhOCTJYtVcCkftroo64VF) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [Eden](https://open.spotify.com/album/5pPx1xu0kLg6SLP6RvXona) | 3:11 |
-| 35 | [Kate S.O.S\. \(feat\. The Stylist\)](https://open.spotify.com/track/2AxYuhKTLc5DkcANhLzFup) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [The Stylist](https://open.spotify.com/artist/6jw8UODW1E26sYGj8gMrL7) | [Kate S.O.S\. \(feat\. The Stylist\)](https://open.spotify.com/album/0W63J6nDYw4xtulIDJ2cjE) | 2:38 |
+| 35 | [Kate S.O.S\. \(feat\. The Stylist\)](https://open.spotify.com/track/2AxYuhKTLc5DkcANhLzFup) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [The Stylist](https://open.spotify.com/artist/3k2MWyQzP9Vl2cxRPlyD4Q) | [Kate S.O.S\. \(feat\. The Stylist\)](https://open.spotify.com/album/0W63J6nDYw4xtulIDJ2cjE) | 2:38 |
 | 36 | [Keke Frankenstein](https://open.spotify.com/track/1PdmL1s1euX6Gj0GD6hXc6) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Keke Frankenstein](https://open.spotify.com/album/4FL0bUi6VywmFojLNdfjiG) | 3:45 |
 | 37 | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Hands On Me \(from the Netflix Series "Nobody Wants This" Season 3\)](https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT) | 3:13 |
 | 38 | [Film Noir](https://open.spotify.com/track/7DjfpeQoZzZv2DUe0kHaLT) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Film Noir](https://open.spotify.com/album/1Kffzv98M9zDC9TlIBZFPw) | 3:48 |

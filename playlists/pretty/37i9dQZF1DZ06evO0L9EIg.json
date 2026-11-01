@@ -1,12 +1,12 @@
 {
   "description": "This is Volker Bertelmann. The essential tracks, all in one playlist.",
-  "num_followers": 865,
+  "num_followers": 866,
   "original_name": "This Is Volker Bertelmann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAABI+s86ZpwDJEQ9ZxVDVsLy",
+  "snapshot_id": "auKMgAAAAAAhclasmcWbk5pZEclR1G4Z",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Day of the Jackal (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3vL64pvJNeuy8Zsz9YVxv8"
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 143788,
-      "name": "Pinwheel",
-      "url": "https://open.spotify.com/track/0eXnsjDlKOIBDXDNva3PrO"
+      "duration_ms": 90426,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2N4K2S8fIRE6dljPK43cCc"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
+        "name": "The Day of the Jackal (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3vL64pvJNeuy8Zsz9YVxv8"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 172619,
-      "name": "Becoming A Writer",
-      "url": "https://open.spotify.com/track/2GzRdYqCp9veAePsCo2URG"
+      "duration_ms": 143788,
+      "name": "Pinwheel",
+      "url": "https://open.spotify.com/track/0eXnsjDlKOIBDXDNva3PrO"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 61424,
-      "name": "Back To Work",
-      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
+      "duration_ms": 44444,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/7tP45Qi15FCSYsok4PDDkC"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 44444,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/7tP45Qi15FCSYsok4PDDkC"
+      "duration_ms": 155632,
+      "name": "Data",
+      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 155632,
-      "name": "Data",
-      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
+      "duration_ms": 116053,
+      "name": "Un soldat",
+      "url": "https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 61424,
+      "name": "Back To Work",
+      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conclave (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
@@ -420,15 +436,15 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 34879,
-      "name": "Evening Prayer",
-      "url": "https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L"
+      "duration_ms": 70064,
+      "name": "Walk of Doubt",
+      "url": "https://open.spotify.com/track/5IP352PPY5GDptNnR0qceo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "La Bataille de Gaulle - L'\u00c2ge de fer (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g"
+        "name": "Verity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
       },
       "artists": [
         {
@@ -436,15 +452,15 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 116053,
-      "name": "Un soldat",
-      "url": "https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh"
+      "duration_ms": 172619,
+      "name": "Becoming A Writer",
+      "url": "https://open.spotify.com/track/2GzRdYqCp9veAePsCo2URG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Clayface (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
+        "name": "23,000 Leben (Soundtrack des Netflix Films)",
+        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 90426,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2N4K2S8fIRE6dljPK43cCc"
+      "duration_ms": 169021,
+      "name": "One Big Step",
+      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
     },
     {
       "added_at": null,
@@ -484,25 +500,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 70064,
-      "name": "Walk of Doubt",
-      "url": "https://open.spotify.com/track/5IP352PPY5GDptNnR0qceo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "23,000 Leben (Soundtrack des Netflix Films)",
-        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 169021,
-      "name": "One Big Step",
-      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
+      "duration_ms": 59256,
+      "name": "The Abyss Calls Out",
+      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
     },
     {
       "added_at": null,
@@ -519,6 +519,26 @@
       "duration_ms": 102222,
       "name": "Sunset Monet (From \"Adrift\" Soundtrack)",
       "url": "https://open.spotify.com/track/0K9XD6kV0t9JTbk5w5TdUX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corpus Delicti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EftdEhfHYceDP4t1BBzcW"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        },
+        {
+          "name": "Lennart Saathoff",
+          "url": "https://open.spotify.com/artist/6pxxrrgkoqTvTt1K6r56VE"
+        }
+      ],
+      "duration_ms": 75487,
+      "name": "Eins nach dem anderen",
+      "url": "https://open.spotify.com/track/42vn4X5yjFh3aRW2jfGnUS"
     },
     {
       "added_at": null,
@@ -548,29 +568,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 59256,
-      "name": "The Abyss Calls Out",
-      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corpus Delicti (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6EftdEhfHYceDP4t1BBzcW"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        },
-        {
-          "name": "Lennart Saathoff",
-          "url": "https://open.spotify.com/artist/6pxxrrgkoqTvTt1K6r56VE"
-        }
-      ],
-      "duration_ms": 75487,
-      "name": "Eins nach dem anderen",
-      "url": "https://open.spotify.com/track/42vn4X5yjFh3aRW2jfGnUS"
+      "duration_ms": 106733,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2Zr4ykVXM7YlepA323coQ6"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Count of Monte Cristo (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0eBMBul8WZt8laI51AYG6B"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 75685,
+      "name": "Opening of The Count of Monte Cristo",
+      "url": "https://open.spotify.com/track/7bGRaWFITZg6bdecppZi5w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pressure (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 69649,
-      "name": "Entering The Meeting",
-      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
+      "duration_ms": 38999,
+      "name": "Why the Weather",
+      "url": "https://open.spotify.com/track/6i3ucuq6Wa2utadifWJMVT"
     },
     {
       "added_at": null,
@@ -616,15 +632,15 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 106733,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2Zr4ykVXM7YlepA323coQ6"
+      "duration_ms": 67518,
+      "name": "Route of Fear",
+      "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Count of Monte Cristo (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0eBMBul8WZt8laI51AYG6B"
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 75685,
-      "name": "Opening of The Count of Monte Cristo",
-      "url": "https://open.spotify.com/track/7bGRaWFITZg6bdecppZi5w"
+      "duration_ms": 227613,
+      "name": "End Credit (Clayface)",
+      "url": "https://open.spotify.com/track/205V8sIGaHNeA19ZUpxedb"
     },
     {
       "added_at": null,
@@ -664,25 +680,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 38999,
-      "name": "Why the Weather",
-      "url": "https://open.spotify.com/track/6i3ucuq6Wa2utadifWJMVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clayface (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Just a Message",
-      "url": "https://open.spotify.com/track/6Aqre0DFOeILYYMDt2lQzo"
+      "duration_ms": 69649,
+      "name": "Entering The Meeting",
+      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Just a Message",
+      "url": "https://open.spotify.com/track/6Aqre0DFOeILYYMDt2lQzo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A House Of Dynamite (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm"
       },
@@ -723,6 +739,26 @@
       "duration_ms": 166900,
       "name": "Inclination Is Flattening",
       "url": "https://open.spotify.com/track/0kLA70O8edOE6qDHIGIzcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corpus Delicti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EftdEhfHYceDP4t1BBzcW"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        },
+        {
+          "name": "Lennart Saathoff",
+          "url": "https://open.spotify.com/artist/6pxxrrgkoqTvTt1K6r56VE"
+        }
+      ],
+      "duration_ms": 75311,
+      "name": "Worum gehts",
+      "url": "https://open.spotify.com/track/2FL54sAT4JFIjNmhPu8JFf"
     },
     {
       "added_at": null,
@@ -752,25 +788,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 227613,
-      "name": "End Credit (Clayface)",
-      "url": "https://open.spotify.com/track/205V8sIGaHNeA19ZUpxedb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Verity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 77110,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4bOIqLNSQnQVfAaQ7kSrim"
+      "duration_ms": 167586,
+      "name": "Pretty No More",
+      "url": "https://open.spotify.com/track/3qOVDZdAQJqg86GaxExpsq"
     },
     {
       "added_at": null,
@@ -807,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clayface (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 248578,
-      "name": "Call Back",
-      "url": "https://open.spotify.com/track/6fojXIInVEeciOMMDxIbgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corpus Delicti (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6EftdEhfHYceDP4t1BBzcW"
       },
@@ -836,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6pxxrrgkoqTvTt1K6r56VE"
         }
       ],
-      "duration_ms": 75311,
-      "name": "Worum gehts",
-      "url": "https://open.spotify.com/track/2FL54sAT4JFIjNmhPu8JFf"
+      "duration_ms": 89282,
+      "name": "Die Methode Ist unfehlbar",
+      "url": "https://open.spotify.com/track/0OHEaGlwrx9bc1jx5oBN60"
     },
     {
       "added_at": null,
@@ -852,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 91328,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/6fWZccypNFkuqyHxDBDHsr"
+      "duration_ms": 77110,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4bOIqLNSQnQVfAaQ7kSrim"
     }
   ],
   "unique_name": "This Is Volker Bertelmann",

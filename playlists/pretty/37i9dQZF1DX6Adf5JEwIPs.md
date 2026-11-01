@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Efecto Elegante 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,555 likes - 78 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,548 likes - 78 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 34 | [Un Hilo](https://open.spotify.com/track/1EWMFhScmUk8zT5WaoHrG2) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Un Hilo](https://open.spotify.com/album/6kyaJTLQgS4tenlWvV6qfQ) | 3:09 |
 | 35 | [Break Pa' Llorar](https://open.spotify.com/track/2rEV7OZTH59z3iBKCxwtnj) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Break Pa' Llorar](https://open.spotify.com/album/75GZxzVxckcAHFT6t7RuJN) | 3:10 |
 | 36 | [La Casa Invita](https://open.spotify.com/track/1mDgBUKqsci5a28s1YTrwa) | [Grupo Exclusivo](https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k) | [La Casa Invita](https://open.spotify.com/album/5qMzWKqu3wtuSZYXmGgbOZ) | 3:26 |
-| 37 | [Agustín Jaime \- En Vivo](https://open.spotify.com/track/6s59qDMN2fhZw72jbi0gTK) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF), [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Puras Pa Tomar](https://open.spotify.com/album/7j52hatAybixdTFdVFcuuh) | 2:57 |
+| 37 | [Agustín Jaime \- En Vivo](https://open.spotify.com/track/6s59qDMN2fhZw72jbi0gTK) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Puras Pa Tomar](https://open.spotify.com/album/7j52hatAybixdTFdVFcuuh) | 2:57 |
 | 38 | [Me vieron Pasar](https://open.spotify.com/track/1miDjPue3OxJZIG9McM9ps) | [El Pesito](https://open.spotify.com/artist/17TsQWu7cRZrMfftAk7AqB), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Me vieron Pasar](https://open.spotify.com/album/4ObvgudTzLfWWAOyMhhTLQ) | 2:29 |
 | 39 | [Al Cesar, Lo Que Es Del Cesar](https://open.spotify.com/track/3cogq8spY9rbsVoq1AYKQT) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Al Cesar, Lo Que Es Del Cesar](https://open.spotify.com/album/4hWSBh66L6l4x1naW6i7Ca) | 3:18 |
 | 40 | [Amorcito Mio](https://open.spotify.com/track/0rg6QLxZdHMGCXmbnArBFL) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Amorcito Mio](https://open.spotify.com/album/3sc4LBVCg4ei4wJZWz5xsB) | 2:49 |

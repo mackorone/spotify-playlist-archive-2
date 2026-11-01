@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Hot Chip
 
-546 songs - 1 day 11 hr 8 min
+548 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-11-15 | 2025-04-21 |
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 | 2025-05-09 |
 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 | 2025-03-21 | 2025-05-09 |
-| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 |  |
+| [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 | 2025-06-20 | 2026-11-01 |
 | [All That School For Nothing](https://open.spotify.com/track/1Gn11B0GFzjUvFMe03rP0w) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [The Art of the Lie](https://open.spotify.com/album/7doTp70QkWb5synkUpOdHf) | 5:20 | 2024-06-14 | 2024-08-27 |
 | [All The People \(所有人\)](https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [All The People \(所有人\)](https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2) | 3:33 | 2026-02-20 | 2026-05-30 |
 | [Allbarone](https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/4TO7Aq1Rx4tHk9evwzxtUA) | 4:28 | 2025-05-08 | 2026-06-19 |
@@ -60,6 +60,7 @@
 | [Begging for Change](https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Begging for Change](https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw) | 4:20 | 2026-02-23 | 2026-07-31 |
 | [Bell](https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Bell](https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9) | 4:28 | 2025-03-21 | 2026-06-13 |
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-07-11 | 2024-11-08 |
+| [Benjamin](https://open.spotify.com/track/4v7NvcYqZrlfmWmH8ZYUsz) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Benjamin](https://open.spotify.com/album/5YoD2IL272Cl7rWY64sOjq) | 2:24 | 2026-10-22 |  |
 | [Best Guess](https://open.spotify.com/track/0Cro5lQhsNqfcvgH6QI3nU) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/3EpUHyj0ePoni6V4Y4tSSo) | 4:00 | 2025-03-21 | 2025-06-01 |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-31 | 2025-09-05 |
 | [Better](https://open.spotify.com/track/74nvvW4DI8UYB1EHRDONUl) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Better](https://open.spotify.com/album/3WrwVAVGPXWDewDCxkdnc0) | 3:09 | 2025-09-04 | 2025-10-03 |
@@ -275,6 +276,7 @@
 | [Kick Stones \(The Boys\)](https://open.spotify.com/track/6qIdkfxjme3OEkdgsA8ANp) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Kick Stones \(The Boys\)](https://open.spotify.com/album/4xAiEN0XBJLHCGizBeJBqx) | 3:56 | 2026-06-12 |  |
 | [Kill Me](https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 4:41 | 2026-08-13 |  |
 | [Kneel](https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Dancing Shoes](https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt) | 3:44 | 2025-07-03 | 2026-09-26 |
+| [L/C](https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [L/C](https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i) | 4:13 | 2026-10-22 |  |
 | [LA Runaway](https://open.spotify.com/track/3RHpo59t2CgyKlUGH2EXqX) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Night Life](https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA) | 5:06 | 2025-03-21 | 2026-01-15 |
 | [Lab Rats Ran](https://open.spotify.com/track/6ZCZgKCOSHPBpHw9qZEhn3) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Apples For Isaac](https://open.spotify.com/album/4IA1762kaOZbdgvbIVCQw6) | 3:15 | 2026-09-25 | 2026-10-30 |
 | [Lake Run Drive](https://open.spotify.com/track/3CdtsOH0jiVvJVDDPAZXam) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Lake Run Drive](https://open.spotify.com/album/0swneIkCfAAXIl164byvJy) | 3:46 | 2025-10-23 | 2026-01-24 |
@@ -292,7 +294,7 @@
 | [Long Lonely Road](https://open.spotify.com/track/2o4piahi00YKK9iBPSB6kF) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [A Hole To See The Sky Through](https://open.spotify.com/album/5OGQdQZc5hi7WUkzFPVbSB) | 4:20 | 2026-08-20 | 2026-10-19 |
 | [Long Throes](https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [All Hell](https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c) | 4:19 | 2024-07-18 | 2025-01-31 |
 | [Loose Talk](https://open.spotify.com/track/34y46kIPGCkh120SPNqtoi) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Soft Control](https://open.spotify.com/album/5fRHlDzwhKI3KaGQKWrNPC) | 3:25 | 2026-08-20 | 2026-10-10 |
-| [Lose All Your Friends](https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Lose All Your Friends](https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS) | 5:01 | 2026-08-28 |  |
+| [Lose All Your Friends](https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Lose All Your Friends](https://open.spotify.com/album/6CNGYWi0QtwDh80KcIvnWS) | 5:01 | 2026-08-28 | 2026-11-01 |
 | [Loser's Prize](https://open.spotify.com/track/4D0rf55hqEL8PjxHJuDCo2) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Loser's Prize](https://open.spotify.com/album/6fqTyj0rpCM3oUd7IafzZl) | 4:42 | 2026-10-01 |  |
 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 | 2024-06-14 | 2025-03-22 |
 | [Lost and Found](https://open.spotify.com/track/7BzfqlcZzFr2bjTbLfxx1a) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Lost and Found](https://open.spotify.com/album/7y2bMzJ7K5qgtnEIJeyat7) | 4:15 | 2025-05-08 | 2025-06-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 498954,
+  "num_followers": 498958,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAAAbrfawyktXBOTNIYLIwuDH",
+  "snapshot_id": "auKMgAAAAAAMDQMll1HTfb1qmHC8DnR4",
   "tracks": [
     {
       "added_at": null,
@@ -810,19 +810,11 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Tell The Vision",
-      "url": "https://open.spotify.com/track/4KAsDy2wUBQCx41kseXU1L"
+      "duration_ms": 120827,
+      "name": "More Time",
+      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
     },
     {
       "added_at": null,
@@ -874,11 +866,19 @@
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 120827,
-      "name": "More Time",
-      "url": "https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS"
+      "duration_ms": 215000,
+      "name": "Tell The Vision",
+      "url": "https://open.spotify.com/track/4KAsDy2wUBQCx41kseXU1L"
     },
     {
       "added_at": null,

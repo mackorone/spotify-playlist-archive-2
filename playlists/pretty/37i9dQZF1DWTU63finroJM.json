@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: KUKO",
-  "num_followers": 88601,
+  "num_followers": 88598,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-10-16 13:00:06",
       "album": {
-        "name": "Volviendo a Nacer",
-        "url": "https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1"
-      },
-      "artists": [
-        {
-          "name": "El Bobo de las 3000",
-          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
-        }
-      ],
-      "duration_ms": 248557,
-      "name": "Te Esperar\u00e9",
-      "url": "https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY"
-    },
-    {
-      "added_at": "2026-10-16 13:00:06",
-      "album": {
         "name": "Northstar",
         "url": "https://open.spotify.com/album/5YQQ4T2js5PQI6US1CXBLL"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 200000,
       "name": "Blind Bullet",
       "url": "https://open.spotify.com/track/3JAY9x7Hya0gFbd6elfBII"
+    },
+    {
+      "added_at": "2026-10-16 13:00:06",
+      "album": {
+        "name": "Volviendo a Nacer",
+        "url": "https://open.spotify.com/album/4Yq59p8hTg1AEitTPp2za1"
+      },
+      "artists": [
+        {
+          "name": "El Bobo de las 3000",
+          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
+        }
+      ],
+      "duration_ms": 248557,
+      "name": "Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/7cUOiUPXAYAL0S0O3lL9QY"
     },
     {
       "added_at": "2026-10-16 13:00:06",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-10-16 13:00:06",
       "album": {
-        "name": "Hi, hello",
-        "url": "https://open.spotify.com/album/2YVagahVXK1W7Jk4Cfjvje"
-      },
-      "artists": [
-        {
-          "name": "Chiara Savasta",
-          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "Hi, hello",
-      "url": "https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK"
-    },
-    {
-      "added_at": "2026-10-16 13:00:06",
-      "album": {
         "name": "HIJO DEL PA\u00cdS",
         "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 200436,
       "name": "El Aplauso",
       "url": "https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY"
+    },
+    {
+      "added_at": "2026-10-16 13:00:06",
+      "album": {
+        "name": "Hi, hello",
+        "url": "https://open.spotify.com/album/2YVagahVXK1W7Jk4Cfjvje"
+      },
+      "artists": [
+        {
+          "name": "Chiara Savasta",
+          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "Hi, hello",
+      "url": "https://open.spotify.com/track/5iliAc75L4vJ3gyUD1EwvK"
     },
     {
       "added_at": "2026-10-16 13:00:06",

@@ -1,6 +1,6 @@
 {
   "description": "Hits e novidades do pop experimental no mesmo palco! Foto: Bia Soull, Vita",
-  "num_followers": 354473,
+  "num_followers": 354419,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Imagin\u00e1rio",
-        "url": "https://open.spotify.com/album/10HYnS8SsyaCeW39D3I6Vs"
-      },
-      "artists": [
-        {
-          "name": "Mariasss",
-          "url": "https://open.spotify.com/artist/4JcML8YU8ihTAFIwHPuOXw"
-        }
-      ],
-      "duration_ms": 194769,
-      "name": "Imagin\u00e1rio",
-      "url": "https://open.spotify.com/track/4SEiconHW8TBlkQ4rvvnjo"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "EXORCISMO",
         "url": "https://open.spotify.com/album/0kVpm7KtcOjFAmdHu9LzT7"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 276518,
       "name": "EXORCISMO",
       "url": "https://open.spotify.com/track/1JJg0jkyy3zMXxiY8sNbEY"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "Imagin\u00e1rio",
+        "url": "https://open.spotify.com/album/10HYnS8SsyaCeW39D3I6Vs"
+      },
+      "artists": [
+        {
+          "name": "Mariasss",
+          "url": "https://open.spotify.com/artist/4JcML8YU8ihTAFIwHPuOXw"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "Imagin\u00e1rio",
+      "url": "https://open.spotify.com/track/4SEiconHW8TBlkQ4rvvnjo"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
         "name": "F\u00faria",
         "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "COVARDIA",
-        "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
-      },
-      "artists": [
-        {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        }
-      ],
-      "duration_ms": 161088,
-      "name": "COVARDIA",
-      "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
-    },
-    {
-      "added_at": "2026-10-16 14:02:19",
-      "album": {
         "name": "Mais Que Isso",
         "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 152232,
       "name": "Os Mo\u00e7os da R\u00e1dio",
       "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
+    },
+    {
+      "added_at": "2026-10-16 14:02:19",
+      "album": {
+        "name": "COVARDIA",
+        "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        }
+      ],
+      "duration_ms": 161088,
+      "name": "COVARDIA",
+      "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
     },
     {
       "added_at": "2026-10-16 14:02:19",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2026-10-16 14:02:19",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+        "name": "Te Amar Me D\u00e1 Asas",
+        "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         },
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
         }
       ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+      "duration_ms": 195124,
+      "name": "Te Amar Me D\u00e1 Asas",
+      "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
     },
     {
       "added_at": "2026-10-16 14:02:19",

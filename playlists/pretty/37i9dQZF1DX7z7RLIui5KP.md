@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Bensoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,705 likes - 64 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,711 likes - 64 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 3 | [Sele](https://open.spotify.com/track/0skDN5BlwyGLNvGeoiU77e) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Sele](https://open.spotify.com/album/0UsBJozBw2Ao77AEZjAloT) | 3:22 |
 | 4 | [BLOW](https://open.spotify.com/track/4pk9OFnhaYFPKJay9EqYCm) | [Sparker Domani Mkadinali](https://open.spotify.com/artist/0GxeHzp1DVah72qyawX4GE), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [BLOW](https://open.spotify.com/album/2wr2yUfPHB6cRG5OuQiRsj) | 3:41 |
 | 5 | [Kwa Neema](https://open.spotify.com/track/75z0PDyGgrN4VCkU2xiNvV) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Kwa Neema](https://open.spotify.com/album/24kPt3nkUYWA1gIH85omNb) | 4:24 |
-| 6 | [International](https://open.spotify.com/track/12yHc1NJuXHKoP64c8ctue) | [Genes1s](https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e) | [Detour](https://open.spotify.com/album/7K4HomSt1tScH0dQQ6D3Ff) | 2:29 |
+| 6 | [International](https://open.spotify.com/track/12yHc1NJuXHKoP64c8ctue) | [Genes1s](https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e) | [Detour](https://open.spotify.com/album/7K4HomSt1tScH0dQQ6D3Ff) | 2:47 |
 | 7 | [Nilipe Ama Nilipishe](https://open.spotify.com/track/0q3uRtwdeS1dEm5biasd5p) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Kijana Wa Ingo](https://open.spotify.com/album/3hVgiHMNJpxDAodBS9EkrT) | 3:41 |
 | 8 | [IDWBU](https://open.spotify.com/track/6w8XS5E1ez22Q4cEddrip9) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [IDWBU](https://open.spotify.com/album/3t8BWSUMPBEBFaszZkCw7E) | 1:52 |
 | 9 | [Welcome to Kanairo](https://open.spotify.com/track/5JZzQIx71SDZ4YtWXVCru5) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Welcome to Kanairo](https://open.spotify.com/album/0Nf9aTwU6dpqhzVs0Sa3yp) | 3:56 |

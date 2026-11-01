@@ -9636,7 +9636,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -11710,7 +11710,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -14563,6 +14563,32 @@
     },
     {
       "album": {
+        "name": "TONNA",
+        "url": "https://open.spotify.com/album/61X1nEFq87hiTHdG3b7yBI"
+      },
+      "artists": [
+        {
+          "name": "xantikvari\u0101ts",
+          "url": "https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX"
+        },
+        {
+          "name": "Ods",
+          "url": "https://open.spotify.com/artist/1tyZ7Tmc3dC2eGKsEa19Ev"
+        },
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "d\u016bjas",
+      "url": "https://open.spotify.com/track/3QhY7yxSUqKyz4edh6bX8X"
+    },
+    {
+      "album": {
         "name": "Tipa Lab\u0101k\u0101s Dziesmas",
         "url": "https://open.spotify.com/album/2fQInz5PTYya0w7TL34wro"
       },
@@ -15136,7 +15162,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -17416,7 +17442,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -24282,7 +24308,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -26596,7 +26622,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 181894,
       "name": "Koks no Peru",
       "url": "https://open.spotify.com/track/4mwZbBm18xZFnFZZ6FLrhQ"
@@ -28260,7 +28286,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 317293,
       "name": "Les",
       "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
@@ -29886,7 +29912,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -36426,7 +36452,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 265500,
       "name": "Nomaina R\u012bti",
       "url": "https://open.spotify.com/track/2rsAcD6CBAWL0aPFaDj48W"
@@ -43301,6 +43327,28 @@
     },
     {
       "album": {
+        "name": "TONNA",
+        "url": "https://open.spotify.com/album/61X1nEFq87hiTHdG3b7yBI"
+      },
+      "artists": [
+        {
+          "name": "xantikvari\u0101ts",
+          "url": "https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX"
+        },
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/6RqVzuPaClLObg598kQEn7"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176498,
+      "name": "risks",
+      "url": "https://open.spotify.com/track/4sRSeG3UDjs2SC6WkeMvC7"
+    },
+    {
+      "album": {
         "name": "SUPER DUPER",
         "url": "https://open.spotify.com/album/1F1awz03JKTZYC2dc9A6z8"
       },
@@ -44668,7 +44716,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -46358,10 +46406,28 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 142627,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0NAAyTJAWiEcf1BnOAps5d"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/2cnHP1RKCTDYKyrRByy69K"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142654,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
     },
     {
       "album": {
@@ -46720,7 +46786,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 142539,
       "name": "SINEPES & MEDUS",
       "url": "https://open.spotify.com/track/37HQPoxJwvQTCjUWxQbMLf"
@@ -47488,7 +47554,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 300893,
       "name": "Smells Like Teen Spirit - Remastered",
       "url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu"
@@ -48850,6 +48916,28 @@
       "duration_ms": 212866,
       "name": "Starp div\u0101m saul\u0113m",
       "url": "https://open.spotify.com/track/7huNyRFrpKb2y7UfnnDE92"
+    },
+    {
+      "album": {
+        "name": "TONNA",
+        "url": "https://open.spotify.com/album/61X1nEFq87hiTHdG3b7yBI"
+      },
+      "artists": [
+        {
+          "name": "xantikvari\u0101ts",
+          "url": "https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX"
+        },
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227060,
+      "name": "starp en\u0123e\u013ciem",
+      "url": "https://open.spotify.com/track/5rdZFcewWU9AVzxE54Tp2D"
     },
     {
       "album": {
@@ -51320,7 +51408,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -52308,7 +52396,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -54207,6 +54295,28 @@
     },
     {
       "album": {
+        "name": "TONNA",
+        "url": "https://open.spotify.com/album/61X1nEFq87hiTHdG3b7yBI"
+      },
+      "artists": [
+        {
+          "name": "xantikvari\u0101ts",
+          "url": "https://open.spotify.com/artist/5TzEw4wxHOewtBd2By4RIX"
+        },
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/3ZgKjRocEczVCcOiWKDkOZ"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165113,
+      "name": "tonna",
+      "url": "https://open.spotify.com/track/7t1OzFQtCb0tcfCP7rID1W"
+    },
+    {
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -55526,7 +55636,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 218915,
       "name": "Tuvums",
       "url": "https://open.spotify.com/track/7oi3p8naIo7uaAjXlza0Sf"
@@ -65022,7 +65132,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 168941,
       "name": "\u0428\u0430\u0434\u044d",
       "url": "https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl"

@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 17016,
+  "num_followers": 17021,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
+        "name": "When it snows(Feat.Heize)",
+        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+      },
+      "artists": [
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "When it snows(Feat.Heize)",
+      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
         "name": "Breaking Through",
         "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 252800,
       "name": "Breaking Through",
       "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
-      },
-      "artists": [
-        {
-          "name": "LEE MU JIN",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Day dream",
-        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Day dream",
-      "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Flower in the Desert",
         "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 259133,
       "name": "Flower in the Desert - Kor Version",
       "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "Day dream",
+        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Day dream",
+      "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
+        "name": "Only you",
+        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Only you",
+      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 149000,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/3HmJxOG052rMv8XrclNHsO"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
-        "name": "Only you",
-        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
-      },
-      "artists": [
-        {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Only you",
-      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Heavenly Ever After",
-        "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Heavenly Ever After",
-      "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "With you",
         "url": "https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 223493,
       "name": "With you",
       "url": "https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "Heavenly Ever After",
+        "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Heavenly Ever After",
+      "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "Fox Rain (The Moon during the Day)",
-        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "Fox Rain (The Moon during the Day)",
-      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "You may live in happiness (2022)",
         "url": "https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 274880,
       "name": "You may live in happiness (2022)",
       "url": "https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "Fox Rain (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Fox Rain (The Moon during the Day)",
+      "url": "https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz"
     },
     {
       "added_at": "2026-09-22 13:42:59",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-22 13:42:59",
       "album": {
-        "name": "WSG WANNABE 1st Album",
-        "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
-      },
-      "artists": [
-        {
-          "name": "WSG WANNABE(4FIRE)",
-          "url": "https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "I Missed You",
-      "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
-    },
-    {
-      "added_at": "2026-09-22 13:42:59",
-      "album": {
         "name": "Last Love",
         "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 255000,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
+    },
+    {
+      "added_at": "2026-09-22 13:42:59",
+      "album": {
+        "name": "WSG WANNABE 1st Album",
+        "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNABE(4FIRE)",
+          "url": "https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "I Missed You",
+      "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
     },
     {
       "added_at": "2026-09-22 13:42:59",

@@ -1,12 +1,12 @@
 {
   "description": "\ub0ae\uc740 \ud587\uc0b4\uacfc \uc120\uc120\ud55c \ubc14\ub78c, \uc870\uae08 \ub354 \uac77\uace0 \uc2f6\uc740 \uac00\uc744\uc758 \ub178\ub798\ub4e4 (Walk home a little longer with autumn in the air and a song in your ears) (Cover: BABO)",
-  "num_followers": 7748,
+  "num_followers": 7755,
   "original_name": "\uac00\uc744\uac00\uc744\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANiYdBf33w6V0BB1kww+8pQzuTdJ",
+  "snapshot_id": "AAAAAIQyitIrytUo9LuNb9eIIfijsVG8",
   "tracks": [
     {
       "added_at": "2026-10-23 05:34:34",
@@ -39,6 +39,22 @@
       "duration_ms": 214262,
       "name": "Gooood",
       "url": "https://open.spotify.com/track/4g8AXp1bLK1qFeAs0MiYlo"
+    },
+    {
+      "added_at": "2026-10-31 05:06:42",
+      "album": {
+        "name": "Days Gone",
+        "url": "https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Days Gone",
+      "url": "https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG"
     },
     {
       "added_at": "2026-10-23 05:39:59",
@@ -2475,22 +2491,6 @@
       "duration_ms": 233040,
       "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
       "url": "https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5"
-    },
-    {
-      "added_at": "2026-09-03 07:15:17",
-      "album": {
-        "name": "The Ballads",
-        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "\uac70\ub9ac\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
     }
   ],
   "unique_name": "\uac00\uc744\uac00\uc744\ud574",

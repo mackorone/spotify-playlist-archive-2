@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Busta Rhymes",
-  "num_followers": 1548974,
+  "num_followers": 1548833,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsIaJWW11YXULmEmeeWtAYEOtr9",
+  "snapshot_id": "AAAAAL3M4B69gvmqZ18a21RJnKlQJBEr",
   "tracks": [
     {
       "added_at": "2026-10-23 17:39:37",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-10-23 17:39:37",
       "album": {
-        "name": "Czarface Meets Frankie Pulitzer",
-        "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
-      },
-      "artists": [
-        {
-          "name": "CZARFACE",
-          "url": "https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr"
-        },
-        {
-          "name": "Frankie Pulitzer",
-          "url": "https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Brothers Grimm",
-      "url": "https://open.spotify.com/track/339057R1JWrRLqSu90jD31"
-    },
-    {
-      "added_at": "2026-10-23 17:39:37",
-      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 119272,
       "name": "WHATEVER WORKS",
       "url": "https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU"
+    },
+    {
+      "added_at": "2026-10-23 17:39:37",
+      "album": {
+        "name": "Czarface Meets Frankie Pulitzer",
+        "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
+      },
+      "artists": [
+        {
+          "name": "CZARFACE",
+          "url": "https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr"
+        },
+        {
+          "name": "Frankie Pulitzer",
+          "url": "https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Brothers Grimm",
+      "url": "https://open.spotify.com/track/339057R1JWrRLqSu90jD31"
     },
     {
       "added_at": "2026-10-23 17:39:37",
@@ -807,30 +807,6 @@
     {
       "added_at": "2026-10-23 17:39:37",
       "album": {
-        "name": "Czarface Meets Frankie Pulitzer",
-        "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
-      },
-      "artists": [
-        {
-          "name": "CZARFACE",
-          "url": "https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr"
-        },
-        {
-          "name": "Frankie Pulitzer",
-          "url": "https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "Raw Forever",
-      "url": "https://open.spotify.com/track/3tlDxxC7rsOUynaEiNlXRk"
-    },
-    {
-      "added_at": "2026-10-23 17:39:37",
-      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 201746,
       "name": "F.I.C.O.",
       "url": "https://open.spotify.com/track/6X5sXeRwqbqPsZ8FFFae0F"
+    },
+    {
+      "added_at": "2026-10-23 17:39:37",
+      "album": {
+        "name": "Czarface Meets Frankie Pulitzer",
+        "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
+      },
+      "artists": [
+        {
+          "name": "CZARFACE",
+          "url": "https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr"
+        },
+        {
+          "name": "Frankie Pulitzer",
+          "url": "https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "Raw Forever",
+      "url": "https://open.spotify.com/track/3tlDxxC7rsOUynaEiNlXRk"
     },
     {
       "added_at": "2026-10-23 17:39:37",

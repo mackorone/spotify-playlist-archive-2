@@ -4689,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "De Cero",
+        "url": "https://open.spotify.com/album/0hskREe3oBksLnJHnawkk6"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "De Cero",
+      "url": "https://open.spotify.com/track/3nr0sRIoRugpqeF1PUYt6k"
+    },
+    {
+      "album": {
         "name": "de mi pa ti",
         "url": "https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l"
       },
@@ -5702,7 +5720,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 221969,
       "name": "easy",
       "url": "https://open.spotify.com/track/7J2CMvoaigQxVVRE6a1bOF"
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 202281,
       "name": "El Caminante",
       "url": "https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a"
@@ -10566,7 +10584,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 226697,
       "name": "Lucero",
       "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
@@ -14919,6 +14937,32 @@
     },
     {
       "album": {
+        "name": "conamor,",
+        "url": "https://open.spotify.com/album/5prOgSVAwMnCFimN3GgdDP"
+      },
+      "artists": [
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        },
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        },
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244125,
+      "name": "poco+real",
+      "url": "https://open.spotify.com/track/3eZd4uj9faJKV1GgsxViT2"
+    },
+    {
+      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -15339,6 +15383,24 @@
     },
     {
       "album": {
+        "name": "late night swim",
+        "url": "https://open.spotify.com/album/0CAveqPzg7lnQbqXhF9t35"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194824,
+      "name": "que si que no",
+      "url": "https://open.spotify.com/track/7yZFeoo9wqiW5pTgemZpJ8"
+    },
+    {
+      "album": {
         "name": "Queen Of Colombia",
         "url": "https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK"
       },
@@ -15498,7 +15560,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 254218,
       "name": "quisiera",
       "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
@@ -16756,6 +16818,24 @@
       "duration_ms": 268253,
       "name": "Siempre Vuelve",
       "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
+    },
+    {
+      "album": {
+        "name": "feel trip.",
+        "url": "https://open.spotify.com/album/0ulcvQush73hnL6XY3odm7"
+      },
+      "artists": [
+        {
+          "name": "feel trip.",
+          "url": "https://open.spotify.com/artist/7ysdcHcrr06qQJ1BL0dKVU"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145449,
+      "name": "siete veces",
+      "url": "https://open.spotify.com/track/0hG1rclLdrv3OzVWimq6dO"
     },
     {
       "album": {

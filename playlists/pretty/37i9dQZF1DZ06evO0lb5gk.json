@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 157299,
+  "num_followers": 157323,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAADNesMRPNZ8mcBs74aagH4l",
+  "snapshot_id": "auKMgAAAAADaUEuY/AUxc/5Pw4rBM08G",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 321786,
-      "name": "Oroborus",
-      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
+      "duration_ms": 291626,
+      "name": "Vacuity",
+      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 291626,
-      "name": "Vacuity",
-      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
+      "duration_ms": 321786,
+      "name": "Oroborus",
+      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
     },
     {
       "added_at": null,
@@ -620,38 +620,6 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 259053,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/76dStkCUHrgLqAExBXZvEA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The link",
-        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 300960,
-      "name": "The link",
-      "url": "https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
       "duration_ms": 320833,
       "name": "Space Time",
       "url": "https://open.spotify.com/track/2vPtc8B4NQhGY3eXghFn6X"
@@ -671,6 +639,38 @@
       "duration_ms": 145173,
       "name": "Wisdom comes",
       "url": "https://open.spotify.com/track/7CqxbQZNgiXlkryKzWLh6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/76dStkCUHrgLqAExBXZvEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The link",
+        "url": "https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 300960,
+      "name": "The link",
+      "url": "https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,470 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,477 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 10 | [RIPE](https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr) | [Decent Christian Band](https://open.spotify.com/artist/0p2WBSd1HNxLOxXejGQ9iG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Childlike](https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa) | 2:17 |
 | 11 | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z) | 3:00 |
 | 12 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
-| 13 | [Vagabond](https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA) | [Alex Jude](https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6), [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Vagabond](https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E) | 3:55 |
-| 14 | [God Is Faithful](https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Katie Torwalt](https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6) | [God Is Faithful](https://open.spotify.com/album/4RXLV7wKchzluzCd0BELnU) | 3:51 |
+| 13 | [God Is Faithful](https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Katie Torwalt](https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6) | [God Is Faithful](https://open.spotify.com/album/4RXLV7wKchzluzCd0BELnU) | 3:51 |
+| 14 | [Vagabond](https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA) | [Alex Jude](https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6), [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Vagabond](https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E) | 3:55 |
 | 15 | [Roots](https://open.spotify.com/track/4PDQlJW9xltAaMQ2i93kNf) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Roots](https://open.spotify.com/album/0hxt1oPU61fYIwVCJYJt9G) | 3:12 |
 | 16 | [No One Knows](https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [No One Knows](https://open.spotify.com/album/67R1xZixrtROiZ1J6mBDlu) | 3:46 |
 | 17 | [stuck in these clouds](https://open.spotify.com/track/4GbQJWf4dMDgAvTAPft96X) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [stuck in these clouds](https://open.spotify.com/album/3837grpUl9bPxIzU9IRixe) | 3:33 |

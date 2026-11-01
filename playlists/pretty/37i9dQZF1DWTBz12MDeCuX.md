@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Hank
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,344 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,319 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 13 | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/track/1C8bu0Kb6hhmPDh4cOkEoE) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [When A Dream Comes True, A Fantasy Dies](https://open.spotify.com/album/1wnAVskIhErBic6NEUW9TV) | 3:26 |
 | 14 | [probiert dich auch zu hassen](https://open.spotify.com/track/6d5A1H0nhfuQYToYODJ10F) | [Zackavelli](https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk) | [probiert dich auch zu hassen](https://open.spotify.com/album/5bXdwEl0FVAwsCI30HdkOC) | 2:27 |
 | 15 | [Meer](https://open.spotify.com/track/3z8uaAcm9s6u9RlBo5pZha) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Meer](https://open.spotify.com/album/7pYClHMXTt7Gge4UG1CtFr) | 3:19 |
-| 16 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 16 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 17 | [Küss mich \- Ivo Martin x Techno Mix](https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [Küss mich \(Ivo Martin x Techno Mix\)](https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd) | 2:20 |
 | 18 | [Rappenhustlenseshennochmal](https://open.spotify.com/track/226gagMoqT9h9QdhwwdROS) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Ski Aggu Musik](https://open.spotify.com/album/34Ec9ndPZAQ1djUWyplYu1) | 2:04 |
 | 19 | [Parodie](https://open.spotify.com/track/08LwjYw7u8ZLJ8RIhRprKp) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Parodie](https://open.spotify.com/album/3urty4veH7Dgx0Kfz1aTZc) | 2:41 |

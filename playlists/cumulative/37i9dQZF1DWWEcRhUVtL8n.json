@@ -24029,6 +24029,24 @@
     },
     {
       "album": {
+        "name": "Leave Me There",
+        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256538,
+      "name": "Leave Me There",
+      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
+    },
+    {
+      "album": {
         "name": "leave this party",
         "url": "https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX"
       },
@@ -31563,7 +31581,7 @@
     },
     {
       "album": {
-        "name": "Pangea",
+        "name": "PANGEA",
         "url": "https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG"
       },
       "artists": [
@@ -31576,7 +31594,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145099,
-      "name": "Pangea",
+      "name": "PANGEA",
       "url": "https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7"
     },
     {
@@ -40456,7 +40474,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 179780,
       "name": "superstar",
       "url": "https://open.spotify.com/track/5Cgh3h1oWm0xdGhK76HHOi"
@@ -45955,7 +45973,7 @@
     },
     {
       "album": {
-        "name": "White Keys",
+        "name": "WHITE KEYS",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
       },
       "artists": [
@@ -45968,7 +45986,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144101,
-      "name": "White Keys",
+      "name": "WHITE KEYS",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {

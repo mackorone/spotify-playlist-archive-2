@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483440,
+  "num_followers": 483424,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr"
-      },
-      "artists": [
-        {
-          "name": "Peach Fur",
-          "url": "https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz"
-        }
-      ],
-      "duration_ms": 233999,
-      "name": "Preloved",
-      "url": "https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "All Out of Good Days",
         "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/1fUtTyrHCDELiSoUE2zw7h"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr"
+      },
+      "artists": [
+        {
+          "name": "Peach Fur",
+          "url": "https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz"
+        }
+      ],
+      "duration_ms": 233999,
+      "name": "Preloved",
+      "url": "https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Cut Worms",
-        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Ballad of the Texas King",
-      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Darling",
         "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 187500,
       "name": "Darling",
       "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Cut Worms",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Ballad of the Texas King",
+      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Officially",
-        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "Officially",
-      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Naked At Your Door",
         "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 151384,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 129866,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "LONG LIVE THE WILDERNESS",
-        "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 286209,
-      "name": "LONG LIVE THE WILDERNESS",
-      "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "No Chaser",
         "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 160618,
       "name": "Burning Tide",
       "url": "https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "LONG LIVE THE WILDERNESS",
+        "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 286209,
+      "name": "LONG LIVE THE WILDERNESS",
+      "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "Down In Heaven",
-        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
-      },
-      "artists": [
-        {
-          "name": "Twin Peaks",
-          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Walk To The One You Love",
-      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 223961,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
+        "name": "Down In Heaven",
+        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
+      },
+      "artists": [
+        {
+          "name": "Twin Peaks",
+          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Walk To The One You Love",
+      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
+        "name": "Fresher Than Daisies",
+        "url": "https://open.spotify.com/album/6Nj1VZ44Sn6jDA1mxyMhJM"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 154610,
+      "name": "Broke Man's Money",
+      "url": "https://open.spotify.com/track/30HC4BglLHE6dDPhIKI6KT"
+    },
+    {
+      "added_at": "2026-10-22 13:00:19",
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 198420,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
-    },
-    {
-      "added_at": "2026-10-22 13:00:19",
-      "album": {
-        "name": "Fresher Than Daisies",
-        "url": "https://open.spotify.com/album/6Nj1VZ44Sn6jDA1mxyMhJM"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 154610,
-      "name": "Broke Man's Money",
-      "url": "https://open.spotify.com/track/30HC4BglLHE6dDPhIKI6KT"
     },
     {
       "added_at": "2026-10-22 13:00:19",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-10-22 13:00:19",
       "album": {
-        "name": "MOVING ON",
-        "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
+        "name": "Just Give In / Never Going Home",
+        "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
       },
       "artists": [
         {
-          "name": "Velvet Trip",
-          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
         }
       ],
-      "duration_ms": 248000,
-      "name": "MOVING ON",
-      "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+      "duration_ms": 236666,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 197640,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq"
@@ -7219,6 +7219,24 @@
     },
     {
       "album": {
+        "name": "Husk \u00e5 puste",
+        "url": "https://open.spotify.com/album/5eFzBi6ckH0NKMoMjZi2fk"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166072,
+      "name": "Bry min bror",
+      "url": "https://open.spotify.com/track/0n3IJWTEydD8CpPlHK5YfY"
+    },
+    {
+      "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
       },
@@ -10028,6 +10046,24 @@
       "duration_ms": 151800,
       "name": "Damn Girl",
       "url": "https://open.spotify.com/track/2nUlmWTApV6PdzUUATOawa"
+    },
+    {
+      "album": {
+        "name": "Dr\u00f8mmen jeg vil selge, holder meg v\u00e5ken.",
+        "url": "https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh"
+      },
+      "artists": [
+        {
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "Damn, du ser bra ut!",
+      "url": "https://open.spotify.com/track/2xOEwCahoh7VBtbu0aXRQ9"
     },
     {
       "album": {
@@ -13202,6 +13238,24 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
+    },
+    {
+      "album": {
+        "name": "livredd for \u00e5 bli kjent",
+        "url": "https://open.spotify.com/album/2R0CyA0VAKvOLt3l5UdTKE"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "Edens hage",
+      "url": "https://open.spotify.com/track/3uxBZeKeR698RREPlBD7yr"
     },
     {
       "album": {
@@ -18374,9 +18428,9 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 239133,
-      "name": "Ghostbusters",
+      "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
@@ -29244,7 +29298,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 192003,
       "name": "KUNSTNER",
       "url": "https://open.spotify.com/track/3WGD60lrO061gaIUPaTCYm"
@@ -29788,7 +29842,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 148551,
       "name": "LATE NIGHT YAP",
       "url": "https://open.spotify.com/track/6klDpaLMWN0RNg30EI87pG"
@@ -33856,7 +33910,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 162543,
       "name": "MIDNATTSSOL",
       "url": "https://open.spotify.com/track/0JcqF2GF1kSPvmqR0oFDtN"
@@ -40672,7 +40726,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 229983,
       "name": "Puslespill",
       "url": "https://open.spotify.com/track/3jUw91rrOGSB0v3IZpBz0q"
@@ -46652,7 +46706,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -51432,8 +51486,8 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-03",
-      "duration_ms": 357800,
+      "date_removed": null,
+      "duration_ms": 358807,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
     },
@@ -56682,7 +56736,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 140450,
       "name": "YAHYA HASSAN",
       "url": "https://open.spotify.com/track/7tJ9nO9NMs7HETPP5ZDDBY"

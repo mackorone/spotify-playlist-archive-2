@@ -4,7 +4,7 @@
 
 > Metrika, Álvaro de Luna, Love of Lesbian, Belén Aguilera, Samuraï con Juanes  y más novedades de la semana.
 
-7,172 songs - 15 day 7 hr 23 min
+7,172 songs - 15 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2754,7 +2754,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-11 | 2025-04-18 |
 | [Hentai](https://open.spotify.com/track/6GBsF6d3C1TRFcZdhHXdHB) | [Bores D](https://open.spotify.com/artist/4W8h2ExvQpRm0A7fPst5Kw) | [Hentai](https://open.spotify.com/album/1LTqixh2Kejpd7K9R5pN8M) | 2:03 | 2025-07-10 | 2025-07-18 |
 | [Here For The Party](https://open.spotify.com/track/43zyKoCeEVqoajv7erMfhd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Here For The Party](https://open.spotify.com/album/6MGCAS368VJy11aVpPEfGx) | 3:29 | 2026-01-01 | 2026-01-15 |
-| [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 | 2026-10-29 |  |
+| [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 | 2026-10-29 |  |
 | [Heridas De Infancia](https://open.spotify.com/track/2TMq120IzMBkfmZedFtRp0) | [Polo Nandez](https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM) | [Ni Ruido](https://open.spotify.com/album/5hXEM5x13t8easGtqji4bj) | 3:25 | 2026-03-19 | 2026-03-27 |
 | [Hermoso Hogar](https://open.spotify.com/track/4j23sEtpA905EmREDe8wqF) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [LA CAÍDA DEL ÁNGEL](https://open.spotify.com/album/2iyNJSz62Udkx9jIT4DGlG) | 3:36 | 2025-11-20 | 2025-11-28 |
 | [Heroina](https://open.spotify.com/track/4YQPwIuHm3OAQrNbLF5Qrq) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Heroina](https://open.spotify.com/album/3EF4FDNvaA9bW5fp9YdGHQ) | 2:23 | 2025-05-08 | 2025-05-16 |

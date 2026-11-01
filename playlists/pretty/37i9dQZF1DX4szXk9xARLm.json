@@ -1,6 +1,6 @@
 {
   "description": "\u0623\u062d\u0644\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \ud83d\udcfa\u2728",
-  "num_followers": 58197,
+  "num_followers": 58217,
   "original_name": "\u0623\u063a\u0627\u0646\u064a \u0645\u0633\u0644\u0633\u0644\u0627\u062a",
   "owner": {
     "name": "Spotify",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/4WmLQxbEDu8hhCWsYUAQdg"
     },
     {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "Millionaire (Music from 100 Wesh TV Series)",
-        "url": "https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L"
-      },
-      "artists": [
-        {
-          "name": "El Madfaagya",
-          "url": "https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub"
-        }
-      ],
-      "duration_ms": 281532,
-      "name": "Millionaire - Music from 100 Wesh TV Series",
-      "url": "https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv"
-    },
-    {
       "added_at": "2026-07-10 14:41:36",
       "album": {
         "name": "Mansethosh Men Mosalsal El Aghar",
@@ -547,6 +531,22 @@
       "duration_ms": 240706,
       "name": "Mansethosh Men Mosalsal El Aghar",
       "url": "https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "Millionaire (Music from 100 Wesh TV Series)",
+        "url": "https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L"
+      },
+      "artists": [
+        {
+          "name": "El Madfaagya",
+          "url": "https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub"
+        }
+      ],
+      "duration_ms": 281532,
+      "name": "Millionaire - Music from 100 Wesh TV Series",
+      "url": "https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -629,26 +629,6 @@
       "url": "https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz"
     },
     {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "LW",
-        "url": "https://open.spotify.com/album/2hdAO3uXLqhPqeyeNybMvu"
-      },
-      "artists": [
-        {
-          "name": "Samar Tarik",
-          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
-        },
-        {
-          "name": "El Waili",
-          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "LW",
-      "url": "https://open.spotify.com/track/0lfrT9HNAKihongwIDvNKX"
-    },
-    {
       "added_at": "2026-07-10 14:41:36",
       "album": {
         "name": "\u0648\u0644\u0639\u0627\u0646\u0647",
@@ -683,6 +663,26 @@
       "duration_ms": 210315,
       "name": "\u0628\u0627\u0628\u0627 \u0627\u0644\u0645\u062c\u0627\u0644",
       "url": "https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "LW",
+        "url": "https://open.spotify.com/album/2hdAO3uXLqhPqeyeNybMvu"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "LW",
+      "url": "https://open.spotify.com/track/0lfrT9HNAKihongwIDvNKX"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -981,6 +981,22 @@
       "url": "https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA"
     },
     {
+      "added_at": "2026-07-10 14:41:36",
+      "album": {
+        "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0645\u0643\u062a\u0648\u0628 \u0639\u0644\u064a\u0627)",
+        "url": "https://open.spotify.com/album/6FcUdEkyqWuvrf2iWoOBYm"
+      },
+      "artists": [
+        {
+          "name": "Akram Hosny",
+          "url": "https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi"
+        }
+      ],
+      "duration_ms": 143854,
+      "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0645\u0643\u062a\u0648\u0628 \u0639\u0644\u064a\u0627",
+      "url": "https://open.spotify.com/track/5AbkuGohM4IBEaykJI7gjn"
+    },
+    {
       "added_at": "2026-03-06 17:51:55",
       "album": {
         "name": "\u0633\u0631 \u0633\u0639\u0627\u062f\u062a\u064a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u064a \u0643\u0644\u0627\u064a)",
@@ -1011,22 +1027,6 @@
       "duration_ms": 131134,
       "name": "Al Atawla Theme Song (From Al Atawla Series Season 2)",
       "url": "https://open.spotify.com/track/5IwnvJkaFtYMoX7r1JvWmV"
-    },
-    {
-      "added_at": "2026-07-10 14:41:36",
-      "album": {
-        "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0645\u0643\u062a\u0648\u0628 \u0639\u0644\u064a\u0627)",
-        "url": "https://open.spotify.com/album/6FcUdEkyqWuvrf2iWoOBYm"
-      },
-      "artists": [
-        {
-          "name": "Akram Hosny",
-          "url": "https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi"
-        }
-      ],
-      "duration_ms": 143854,
-      "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0645\u0643\u062a\u0648\u0628 \u0639\u0644\u064a\u0627",
-      "url": "https://open.spotify.com/track/5AbkuGohM4IBEaykJI7gjn"
     },
     {
       "added_at": "2026-07-10 14:41:36",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
-        "name": "Haseb Ya Tayeb (Music from Khyanet Ahd TV Series)",
-        "url": "https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo"
-      },
-      "artists": [
-        {
-          "name": "Moustafa Hagag",
-          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
-        }
-      ],
-      "duration_ms": 237062,
-      "name": "Haseb Ya Tayeb - Music from Khyanet Ahd TV Series",
-      "url": "https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
         "name": "\u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0645\u0633\u0644\u0633\u0644 \u062d\u0636\u0631\u0629 \u0627\u0644\u0645\u062a\u0647\u0645 \u0627\u0628\u0649",
         "url": "https://open.spotify.com/album/57XMDkPtykpcx6STtVMPlh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 234080,
       "name": "\u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0645\u0633\u0644\u0633\u0644 \u062d\u0636\u0631\u0629 \u0627\u0644\u0645\u062a\u0647\u0645 \u0627\u0628\u0649",
       "url": "https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "Haseb Ya Tayeb (Music from Khyanet Ahd TV Series)",
+        "url": "https://open.spotify.com/album/5UKvTirwj6tAdCYWfvOyvo"
+      },
+      "artists": [
+        {
+          "name": "Moustafa Hagag",
+          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
+        }
+      ],
+      "duration_ms": 237062,
+      "name": "Haseb Ya Tayeb - Music from Khyanet Ahd TV Series",
+      "url": "https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/0lRT9EvCTvW9pQFZqxbDum"
     },
     {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "\u062d\u0644\u0648\u064a\u0646 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649)",
-        "url": "https://open.spotify.com/album/309j0JUufa9eqAgaIagUab"
-      },
-      "artists": [
-        {
-          "name": "Houda",
-          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
-        }
-      ],
-      "duration_ms": 156973,
-      "name": "\u062d\u0644\u0648\u064a\u0646 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649",
-      "url": "https://open.spotify.com/track/7hKeE3R65MTyoY7YTQcI0F"
-    },
-    {
       "added_at": "2026-07-10 14:41:36",
       "album": {
         "name": "\u0628\u0627\u0628\u0627 \u062c\u0647",
@@ -1163,6 +1147,22 @@
       "duration_ms": 138000,
       "name": "\u0628\u0627\u0628\u0627 \u062c\u0647",
       "url": "https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "\u062d\u0644\u0648\u064a\u0646 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649)",
+        "url": "https://open.spotify.com/album/309j0JUufa9eqAgaIagUab"
+      },
+      "artists": [
+        {
+          "name": "Houda",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "\u062d\u0644\u0648\u064a\u0646 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u062d\u062f \u0623\u0642\u0635\u0649",
+      "url": "https://open.spotify.com/track/7hKeE3R65MTyoY7YTQcI0F"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-10 14:41:36",
       "album": {
-        "name": "\u062d\u0646\u064a\u062a \u0644\u0644\u0628\u064a\u062a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u0627\u062c\u0639\u064a\u0646 \u064a\u0627\u0647\u0648\u0649)",
-        "url": "https://open.spotify.com/album/0x5CSZOdayLdRDmNs8aYrr"
-      },
-      "artists": [
-        {
-          "name": "Medhat Saleh",
-          "url": "https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0"
-        }
-      ],
-      "duration_ms": 262956,
-      "name": "\u062d\u0646\u064a\u062a \u0644\u0644\u0628\u064a\u062a - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u0627\u062c\u0639\u064a\u0646 \u064a\u0627\u0647\u0648\u0649",
-      "url": "https://open.spotify.com/track/4EyB1zNZwqaUbRpzCVCPrC"
-    },
-    {
-      "added_at": "2026-07-10 14:41:36",
-      "album": {
         "name": "\u0633\u0645\u0639\u062a\u064f \u0635\u0648\u062a\u0627\u064b",
         "url": "https://open.spotify.com/album/75KcXRETuWY0npNmDsDBGk"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 211125,
       "name": "\u0633\u0645\u0639\u062a\u064f \u0635\u0648\u062a\u0627\u064b",
       "url": "https://open.spotify.com/track/0nvLr0kIz0xMocFlvJgB7X"
+    },
+    {
+      "added_at": "2026-07-10 14:41:36",
+      "album": {
+        "name": "\u062d\u0646\u064a\u062a \u0644\u0644\u0628\u064a\u062a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u0627\u062c\u0639\u064a\u0646 \u064a\u0627\u0647\u0648\u0649)",
+        "url": "https://open.spotify.com/album/0x5CSZOdayLdRDmNs8aYrr"
+      },
+      "artists": [
+        {
+          "name": "Medhat Saleh",
+          "url": "https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0"
+        }
+      ],
+      "duration_ms": 262956,
+      "name": "\u062d\u0646\u064a\u062a \u0644\u0644\u0628\u064a\u062a - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0631\u0627\u062c\u0639\u064a\u0646 \u064a\u0627\u0647\u0648\u0649",
+      "url": "https://open.spotify.com/track/4EyB1zNZwqaUbRpzCVCPrC"
     },
     {
       "added_at": "2026-03-06 17:51:55",

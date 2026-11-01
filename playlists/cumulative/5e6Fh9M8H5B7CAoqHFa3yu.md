@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,763 songs - 6 day 17 hr 0 min
+2,764 songs - 6 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1680,6 +1680,7 @@
 | [No Te Voy A Perder](https://open.spotify.com/track/3EfBHJNorj6Gbles4qhxIb) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:30 | 2026-08-22 |  |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-12-01 |  |
 | [No Way Back](https://open.spotify.com/track/2NpztJ7N8D9Zi62bnd5QHZ) | [Dust Theory](https://open.spotify.com/artist/13X9i9cm8aXabbcvEbvy8k) | [Red Light Haze](https://open.spotify.com/album/2IzVgk3DTumHdWYa5Rkl8X) | 6:59 | 2026-10-24 |  |
+| [NO WAY BACK](https://open.spotify.com/track/4bDgNmWE8VuWKCaRaDmFbd) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [NO WAY BACK](https://open.spotify.com/album/7t49yT9QqlOM7j2SeqJUKa) | 2:23 | 2026-10-31 |  |
 | [No WW3](https://open.spotify.com/track/25YGdL2WclZGjmq6YA027U) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 4:01 | 2024-03-23 |  |
 | [No\. 29](https://open.spotify.com/track/3plyGpDgzfrnZbpElpfioV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 1:38 | 2026-04-12 |  |
 | [Noise](https://open.spotify.com/track/1u3JgfLlgFqgOHT1tG9kGR) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [The Break Sessions](https://open.spotify.com/album/4RleoacO5Xqv4qzklW9cks) | 3:36 | 2026-02-07 |  |

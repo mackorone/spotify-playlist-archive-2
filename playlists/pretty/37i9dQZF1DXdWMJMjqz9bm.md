@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > a little rap, a little pop, a little country..\. sometimes\. brakence on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,846 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,851 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 7 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 8 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
 | 9 | [HONEYMOON NIGHT](https://open.spotify.com/track/5qlaVYDcab5jX9CXTZQW32) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [HONEYMOON NIGHT](https://open.spotify.com/album/3fUva1Oq4K38WJKDA6RbNl) | 3:18 |
-| 10 | [wasteland](https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk) | [Bana](https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM) | [wasteland](https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN) | 2:23 |
+| 10 | [wasteland](https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk) | [bana](https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM) | [wasteland](https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN) | 2:23 |
 | 11 | [Saka \(feat\. Deevs\)](https://open.spotify.com/track/4ABQ0QuzGvHFWyTNMyKUYF) | [Sorisa](https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8), [Deevs](https://open.spotify.com/artist/2vChbpN0pKavKltjuPSFNN) | [Saka \(feat\. Deevs\)](https://open.spotify.com/album/1QPw2PAUNA2QmuHhfhlmEe) | 1:39 |
 | 12 | [Quebec](https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI \(FOMO\)](https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI) | 2:10 |
 | 13 | [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 45 | [buzzin](https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [buzzin](https://open.spotify.com/album/1q5KduupT5hI0EKYA9rtyi) | 2:41 |
 | 46 | [Self Sabotage](https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Self Sabotage](https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1) | 2:22 |
 | 47 | [Far Out](https://open.spotify.com/track/6ZEJAloaP3VPJYIx5HTD1d) | [Dylan Cotrone](https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU) | [Far Out](https://open.spotify.com/album/0ws2Wt724PPfAeL0A5NdmC) | 2:28 |
-| 48 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
+| 48 | [WHITE KEYS](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WHITE KEYS](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 | 49 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 |
 | 50 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 

@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 252253,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2ky0xG7fajmQBSfxoyVlMF"
@@ -7052,6 +7052,24 @@
       "duration_ms": 378648,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/0ASDP6c7x7ObkzfJNXp0iy"
+    },
+    {
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/6BPJtqnlrcmfiI9gIgAmMJ"
+      },
+      "artists": [
+        {
+          "name": "Scott Riggan",
+          "url": "https://open.spotify.com/artist/4LKrGHKSO72cmoAxRi6Aat"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258322,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6NG9uvqW6EDjwSkNSAXDRR"
     },
     {
       "album": {

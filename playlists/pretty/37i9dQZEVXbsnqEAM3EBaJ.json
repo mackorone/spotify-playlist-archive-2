@@ -335,6 +335,22 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
+        "name": "Time Lab",
+        "url": "https://open.spotify.com/album/5A9rMiLzm47h4nZmcwoA0c"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "duration_ms": 191835,
+      "name": "Midnight Traffic",
+      "url": "https://open.spotify.com/track/2PJW5n8EB96LVq4VoR9Z2z"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
         "name": "\"The Fading Afternoon: Classical Works\"",
         "url": "https://open.spotify.com/album/5hAlQctv3oGxHpY0mKvK0I"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 90845,
       "name": "18 Pieces, Op. 72: XVII. Pass\u00e9 lointain - Excerpt",
       "url": "https://open.spotify.com/track/07PRfuvAr1TyQEhKGnl2qT"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Time Lab",
-        "url": "https://open.spotify.com/album/5A9rMiLzm47h4nZmcwoA0c"
-      },
-      "artists": [
-        {
-          "name": "Yello",
-          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
-        }
-      ],
-      "duration_ms": 191835,
-      "name": "Midnight Traffic",
-      "url": "https://open.spotify.com/track/2PJW5n8EB96LVq4VoR9Z2z"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -415,8 +415,8 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "A Selection: Kovacevich plays Mozart, Beethoven & Chopin",
-        "url": "https://open.spotify.com/album/39nQQxYqTWjpuA4769LdhT"
+        "name": "A Classical October: Bach, Chopin & More",
+        "url": "https://open.spotify.com/album/4IOiOqNHxNjXTK1t2lTktD"
       },
       "artists": [
         {
@@ -424,13 +424,13 @@
           "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Stephen Kovacevich",
-          "url": "https://open.spotify.com/artist/3Tsq7oTvga9K2osAf6vArw"
+          "name": "Alicia de Larrocha",
+          "url": "https://open.spotify.com/artist/08yT4NXiwN4HvaayEo72sm"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Impromptu No. 3 in G flat, Op. 51",
-      "url": "https://open.spotify.com/track/7pAo0l0nGJLGgN9uENd7r4"
+      "duration_ms": 288573,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/0DL8Iin76V7wiiL7joLBx1"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -487,30 +487,6 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Nocturnes of a Bygone Age",
-        "url": "https://open.spotify.com/album/4Jf58mXe4FiJwxRzJpvLJO"
-      },
-      "artists": [
-        {
-          "name": "COB",
-          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
-        },
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Nobleman\u2019s Evening Waltz",
-      "url": "https://open.spotify.com/track/6PVu6FFtdH0gLHhtOFl3po"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
         "name": "Dark Summer (Rise Outtakes)",
         "url": "https://open.spotify.com/album/7AP5XmEEjBNbdWRYsmJbTl"
       },
@@ -555,38 +531,6 @@
       "duration_ms": 228693,
       "name": "Cupid - Deluxe Edition Version",
       "url": "https://open.spotify.com/track/0E16zErisDfgtFLvzlQfTq"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Sad Wings of Destiny (Original 1976 Masters)",
-        "url": "https://open.spotify.com/album/3xsb7YOwzYShxVLewJ3DNl"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 472130,
-      "name": "Victim of Changes - Original 1976 Masters",
-      "url": "https://open.spotify.com/track/6nRpof5gPgogrU87jsJnhq"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Rubber Soul (Super Deluxe)",
-        "url": "https://open.spotify.com/album/3ICK3lBLOuStuhttDJOtnq"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 149960,
-      "name": "Girl (US Stereo Version)",
-      "url": "https://open.spotify.com/track/0IBvhGrYtS53utqfwB4KMk"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -643,22 +587,6 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "The Allfather Awakens",
-        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "Kvasir's Blood",
-      "url": "https://open.spotify.com/track/6Uc7oNrJ1ELOY2woKXxnHW"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
         "name": "A man from the future",
         "url": "https://open.spotify.com/album/1oooasjRIwxQRUUb0xNiN1"
       },
@@ -691,22 +619,6 @@
       "duration_ms": 179028,
       "name": "Reach For The Stars",
       "url": "https://open.spotify.com/track/4KhenOsbUf96WVeAZE2jFO"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Live at The Symphonic Synergy",
-        "url": "https://open.spotify.com/album/1sAcFFyhRzfNKqcAubiWi0"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "The Fifth Guardian - Live at The Symphonic Synergy",
-      "url": "https://open.spotify.com/track/4r150d89INPXsvLUmAPrkv"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -835,22 +747,6 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "der Dunkelheit / my Vertigo",
-        "url": "https://open.spotify.com/album/2CgHJujjiMsiT3hPxFS1Jf"
-      },
-      "artists": [
-        {
-          "name": "Diary Of Dreams",
-          "url": "https://open.spotify.com/artist/1tg5jMp8FFjVqjgoxuEbSR"
-        }
-      ],
-      "duration_ms": 241613,
-      "name": "my Vertigo",
-      "url": "https://open.spotify.com/track/1EZ4YWomZB5o2YHpbyI4Sd"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
         "name": "From Genesis To Revelation (2026 Mix)",
         "url": "https://open.spotify.com/album/6ubyJLjYSoqIMEzIwIkbPZ"
       },
@@ -867,6 +763,22 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
+        "name": "der Dunkelheit / my Vertigo",
+        "url": "https://open.spotify.com/album/2CgHJujjiMsiT3hPxFS1Jf"
+      },
+      "artists": [
+        {
+          "name": "Diary Of Dreams",
+          "url": "https://open.spotify.com/artist/1tg5jMp8FFjVqjgoxuEbSR"
+        }
+      ],
+      "duration_ms": 241613,
+      "name": "my Vertigo",
+      "url": "https://open.spotify.com/track/1EZ4YWomZB5o2YHpbyI4Sd"
+    },
+    {
+      "added_at": "2026-10-30 03:00:00",
+      "album": {
         "name": "Christmas By The Beach",
         "url": "https://open.spotify.com/album/54Bx9atIEJ3dV1ABowvpFR"
       },
@@ -879,38 +791,6 @@
       "duration_ms": 79246,
       "name": "Auld Lang Syne - 1991 Remix",
       "url": "https://open.spotify.com/track/1mWzbuMaeHtYbYO43awn6I"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Street Kids (Piano / Vocal Version)",
-        "url": "https://open.spotify.com/album/44j0a8Nn0DXsGTK4Z6Ctz2"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 358660,
-      "name": "Street Kids - Piano / Vocal Version",
-      "url": "https://open.spotify.com/track/7is9NaSF0VJwukLmGjLl9n"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/5E0xPi1MB9PbeHj66Ybtax"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 227927,
-      "name": "Bedroom Wall",
-      "url": "https://open.spotify.com/track/2BpQldMFo8tIiYvuT2VHtv"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -951,8 +831,8 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "Bernd Richard Deutsch: Urworte, II. Tyche: Das Zuf\u00e4llige",
-        "url": "https://open.spotify.com/album/2Wqln3J5rb6REXaLX2gE7m"
+        "name": "Bernd Richard Deutsch: Urworte, V. Elpis: Hoffnung",
+        "url": "https://open.spotify.com/album/0Rzc0ZS5rFOWL68ENGtkD9"
       },
       "artists": [
         {
@@ -972,49 +852,9 @@
           "url": "https://open.spotify.com/artist/7i7P0aNPsW6hJVtHQUk2fm"
         }
       ],
-      "duration_ms": 740413,
-      "name": "Urworte: II. Tyche: Das Zuf\u00e4llige",
-      "url": "https://open.spotify.com/track/6WZA80wWjbDVIN8pU9MvQW"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "U R (feat. Ziggy Marley)",
-        "url": "https://open.spotify.com/album/0o6BaoGVYSBHoYQmtk5JMV"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "The Madden Brothers",
-          "url": "https://open.spotify.com/artist/5geIMZUDvBE9CwP2iBnBuM"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "U R (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/2QdV9yVbuWVsDl523kTBzu"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "We Were Bleeding Anyway",
-        "url": "https://open.spotify.com/album/3Fv9UES0mXzes5hb2TF8jY"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 221056,
-      "name": "Everything Ends In Silence",
-      "url": "https://open.spotify.com/track/1IAjbjtQk23OyWKeg1Capm"
+      "duration_ms": 828746,
+      "name": "Urworte: V. Elpis: Hoffnung",
+      "url": "https://open.spotify.com/track/1INTRuFKNPEOr8ay2vpfY8"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -1071,62 +911,6 @@
       "duration_ms": 158177,
       "name": "kinsei",
       "url": "https://open.spotify.com/track/4G03OJA49EIFEFL9du2h0f"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/3OHlM4WS4goT6tJVOjuC8i"
-      },
-      "artists": [
-        {
-          "name": "Cult Of Luna",
-          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
-        }
-      ],
-      "duration_ms": 364949,
-      "name": "The Rift - Single Version",
-      "url": "https://open.spotify.com/track/0tQCTWN2Wp5hpuSfAhvaCs"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Rapero Cr\u00f3nico",
-        "url": "https://open.spotify.com/album/2sAzb4aauHvd7FinSWoZAQ"
-      },
-      "artists": [
-        {
-          "name": "Bascur",
-          "url": "https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Rapero Cr\u00f3nico",
-      "url": "https://open.spotify.com/track/2ohMuvKuhlflh6L4OdoUxZ"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Don't Leave Me This Way (with Sarah Jane Morris) [Horse Meat Disco Rework]",
-        "url": "https://open.spotify.com/album/4Lh7DnPzw4mPG6GlbHc8ix"
-      },
-      "artists": [
-        {
-          "name": "The Communards",
-          "url": "https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT"
-        },
-        {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
-        },
-        {
-          "name": "Sarah Jane Morris",
-          "url": "https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "Don't Leave Me This Way (with Sarah Jane Morris) - Horse Meat Disco Rework",
-      "url": "https://open.spotify.com/track/1on9S3jXcIBAqzFBJwRl3B"
     },
     {
       "added_at": "2026-10-30 03:00:00",
@@ -1263,38 +1047,6 @@
     {
       "added_at": "2026-10-30 03:00:00",
       "album": {
-        "name": "The Boys of Dungeon Lane (Special Edition)",
-        "url": "https://open.spotify.com/album/6MZekMcxDFuqd1yXXzliwu"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 177650,
-      "name": "Chelsea Boots - (Bonus Track)",
-      "url": "https://open.spotify.com/track/4bvgMMJ5J2lo0zANPc1SFS"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "Helios",
-        "url": "https://open.spotify.com/album/0LPDSQwADjPxfQvyTHRRWI"
-      },
-      "artists": [
-        {
-          "name": "Firtan",
-          "url": "https://open.spotify.com/artist/1fevQX8HS898wns7GKH3pR"
-        }
-      ],
-      "duration_ms": 488528,
-      "name": "Helios",
-      "url": "https://open.spotify.com/track/1HIma9Ia4Vp575W5BFn0I4"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
         "name": "Evil Mind",
         "url": "https://open.spotify.com/album/54RBqarkzHgN8cnSPZDVr4"
       },
@@ -1359,22 +1111,6 @@
       "duration_ms": 155360,
       "name": "What Christmas Means To Me (with Stevie Wonder)",
       "url": "https://open.spotify.com/track/7onIoGQBYoF5iOwKnCiMek"
-    },
-    {
-      "added_at": "2026-10-30 03:00:00",
-      "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/4onXZUS2f1g3BIMNiafrPm"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 286406,
-      "name": "This Dream Of You",
-      "url": "https://open.spotify.com/track/35pbQNMzooB4Qg6mRPt37b"
     },
     {
       "added_at": "2026-10-30 03:00:00",

@@ -4,10 +4,11 @@
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-129 songs - 7 hr 30 min
+130 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$in Kon\-trato](https://open.spotify.com/track/7IfSHxv6mfnfRI3r5WqidX) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [$in Kon\-trato](https://open.spotify.com/album/0I4edfIb3v2zhMWEpa6bAA) | 2:47 | 2026-11-01 |  |
 | [10 de Febrero](https://open.spotify.com/track/2a7MTiYPKvG1rIhnXvTBGo) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [10 de Febrero](https://open.spotify.com/album/5PQTUOATQ9x8NvkvsUMNlu) | 2:40 | 2026-02-20 | 2026-03-24 |
 | [7 A.M.](https://open.spotify.com/track/2dmOGfBzb1vRD4jM7uUc0t) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [7 A.M.](https://open.spotify.com/album/0djNKES5A8bGlA332XDGd3) | 3:37 | 2026-06-07 |  |
 | [Afterparty](https://open.spotify.com/track/3sOWHDPh8O8hen6UnTJqxZ) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Afterparty](https://open.spotify.com/album/5X8GpJlGdZy5FraG3wHWgk) | 3:15 | 2023-04-10 | 2023-06-27 |
@@ -51,7 +52,7 @@
 | [El Fiestón](https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Fiestón](https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx) | 3:22 | 2023-03-24 |  |
 | [El Problema Eras Tú](https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Problema Eras Tú](https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd) | 3:12 | 2026-05-31 | 2026-08-07 |
 | [Entre Mis Manos](https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/0wrNtmAbTwV3MzAoqIE5ih) | 3:40 | 2024-09-29 | 2025-06-18 |
-| [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 | 2025-06-20 |  |
+| [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 | 2025-06-20 | 2026-11-01 |
 | [Eres Mi Aire](https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86) | 3:45 | 2023-05-17 | 2024-04-28 |
 | [Eres Mi Aire](https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Bones](https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO) | 3:45 | 2023-03-24 | 2023-05-16 |
 | [FLOW DE KBRONA](https://open.spotify.com/track/50dxDw7ixs6OHRWWUycDSD) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lady Yeska](https://open.spotify.com/artist/5wbGMxTkF76IVFgDjchC0J) | [FLOW DE KBRONA](https://open.spotify.com/album/2455udYuceypufLWw5LnWn) | 4:06 | 2026-01-31 | 2026-03-23 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bl.a\. GOLF, Metropolen, Peder Elias og mange flere 🔎
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,796 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,792 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hvis han kjenner deg så godt](https://open.spotify.com/track/2ABRYmppRJ8RF9zzFm8ETo) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Drømmen jeg vil selge, holder meg våken.](https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh) | 2:42 |
 | 2 | [Edens hage](https://open.spotify.com/track/3uxBZeKeR698RREPlBD7yr) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [livredd for å bli kjent](https://open.spotify.com/album/2R0CyA0VAKvOLt3l5UdTKE) | 3:10 |
 | 3 | [GROW ON TREES](https://open.spotify.com/track/7CjAKrGHRAYf3EBQphBZDW) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [GROW ON TREES](https://open.spotify.com/album/1xDCnrAtBvfFGJAwCtp002) | 2:32 |
-| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 5 | [Bry min bror](https://open.spotify.com/track/0n3IJWTEydD8CpPlHK5YfY) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Husk å puste](https://open.spotify.com/album/5eFzBi6ckH0NKMoMjZi2fk) | 2:46 |
 | 6 | [Alive](https://open.spotify.com/track/6f0GtAI9cywIJyJ4BvCB7O) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Alive](https://open.spotify.com/album/2RioZi0zfk3ilJUzXwiwE5) | 3:27 |
 | 7 | [Addict.](https://open.spotify.com/track/3sJSF3dF6vYAv4r1qUEGmy) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Drømmen jeg vil selge, holder meg våken.](https://open.spotify.com/album/5MvqJa8Qu7aZWKn6OdkTUh) | 2:43 |

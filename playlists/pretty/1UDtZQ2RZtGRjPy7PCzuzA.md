@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,656 songs - 3 day 23 hr 38 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,655 songs - 3 day 23 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1609,7 +1609,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1599 | [4Me 4Me](https://open.spotify.com/track/07oVB2BTnBp1RBQ5gdbWLA) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [4Me 4Me](https://open.spotify.com/album/2mvBM4pcHRBTHbGJzolFdt) | 3:30 |
 | 1600 | [Wild Bitches](https://open.spotify.com/track/2Xn57fghAJ50iF3DahiXvp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 3:35 |
 | 1601 | [Relax with Me](https://open.spotify.com/track/2aB3eXzbt6a5ueOV2zfciT) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 2:47 |
-| 1602 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
+| 1602 | [WHITE KEYS](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WHITE KEYS](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 | 1603 | [Nangs](https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:47 |
 | 1604 | [Les](https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta) | 5:17 |
 | 1605 | [expectations](https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:41 |
@@ -1658,11 +1658,10 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1648 | [You Forced Me To](https://open.spotify.com/track/2GpT8VsAJ5kB33Jy9JuIjT) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:03 |
 | 1649 | [Better Than This](https://open.spotify.com/track/4xh5KbVvdmvZhEt9ASuLTN) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:34 |
 | 1650 | [Drunk, Running](https://open.spotify.com/track/4cUrQm7Gq0kb7ISy7VQbXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 4:05 |
-| 1651 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
-| 1652 | [All Falls Down](https://open.spotify.com/track/4qngJdqe1xReKVBiehG1qs) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 2:51 |
-| 1653 | [Like It Tends To Do](https://open.spotify.com/track/0SJ2lNFuRMb2WeaFKYt3dw) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:25 |
-| 1654 | [Staying](https://open.spotify.com/track/6Jp9tZ8NrwXcrhSIriiwAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 2:31 |
-| 1655 | [I Guess](https://open.spotify.com/track/4CJpN2itULOBs95ltiSjbd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:44 |
-| 1656 | [Broken Glass](https://open.spotify.com/track/5Pm5OI224uMuOpxb3dWGAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:40 |
+| 1651 | [All Falls Down](https://open.spotify.com/track/4qngJdqe1xReKVBiehG1qs) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 2:51 |
+| 1652 | [Like It Tends To Do](https://open.spotify.com/track/0SJ2lNFuRMb2WeaFKYt3dw) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:25 |
+| 1653 | [Staying](https://open.spotify.com/track/6Jp9tZ8NrwXcrhSIriiwAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 2:31 |
+| 1654 | [I Guess](https://open.spotify.com/track/4CJpN2itULOBs95ltiSjbd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:44 |
+| 1655 | [Broken Glass](https://open.spotify.com/track/5Pm5OI224uMuOpxb3dWGAX) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/6ByeLuKXnoZWqqaO4GxzVa) | 3:40 |
 
-Snapshot ID: `AAAOiu50DIBriMLSEjnDCmh5SixT1iuV`
+Snapshot ID: `AAAOi6Cwl9IptuMi4DdeOGmK+aNCx8Kp`

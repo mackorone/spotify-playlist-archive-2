@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 428,
+  "num_followers": 429,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAACcjE6XlOz/QEBmdNf8TfgB",
+  "snapshot_id": "auKMgAAAAADntJlw8TqzJz8/todoz+QO",
   "tracks": [
     {
       "added_at": null,
@@ -180,38 +180,6 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 105400,
-      "name": "Mutation de l'oeuvre",
-      "url": "https://open.spotify.com/track/1nedFmpJF1Cnqu1QsOqbzu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs of Milarepa",
-        "url": "https://open.spotify.com/album/0pGs09jkdBCp7wYUpTDeHO"
-      },
-      "artists": [
-        {
-          "name": "\u00c9liane Radigue",
-          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
-        }
-      ],
-      "duration_ms": 3741386,
-      "name": "Mila's Journey Inspired by a Dream",
-      "url": "https://open.spotify.com/track/4T7pXJ4oJI5z5VyKb4ZeRW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musique de notre temps (1976-1977)",
-        "url": "https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr"
-      },
-      "artists": [
-        {
-          "name": "\u00c9liane Radigue",
-          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
-        }
-      ],
       "duration_ms": 85626,
       "name": "Labyrinthe sonore",
       "url": "https://open.spotify.com/track/6dvMR0jYWpUezTSrHV7zoI"
@@ -244,6 +212,38 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
+      "duration_ms": 105400,
+      "name": "Mutation de l'oeuvre",
+      "url": "https://open.spotify.com/track/1nedFmpJF1Cnqu1QsOqbzu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs of Milarepa",
+        "url": "https://open.spotify.com/album/0pGs09jkdBCp7wYUpTDeHO"
+      },
+      "artists": [
+        {
+          "name": "\u00c9liane Radigue",
+          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
+        }
+      ],
+      "duration_ms": 3741386,
+      "name": "Mila's Journey Inspired by a Dream",
+      "url": "https://open.spotify.com/track/4T7pXJ4oJI5z5VyKb4ZeRW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musique de notre temps (1976-1977)",
+        "url": "https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr"
+      },
+      "artists": [
+        {
+          "name": "\u00c9liane Radigue",
+          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
+        }
+      ],
       "duration_ms": 58000,
       "name": "Perception par l'auditeur",
       "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 48993,
-      "name": "Musique pour l'image",
-      "url": "https://open.spotify.com/track/32Cql4hQZxiHAvyuLwk703"
+      "duration_ms": 119608,
+      "name": "Famille musicale",
+      "url": "https://open.spotify.com/track/7dDVVGqsYL3rgZvD9IRZ75"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

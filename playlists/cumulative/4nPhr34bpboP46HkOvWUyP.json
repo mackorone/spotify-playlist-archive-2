@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "ADDICTIONS",
+        "url": "https://open.spotify.com/album/18s3oteROHGvBtWcYOU7XM"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Sam.Avi",
+          "url": "https://open.spotify.com/artist/1PL965p0zMKhwMWIXt9iHh"
+        },
+        {
+          "name": "Enoch",
+          "url": "https://open.spotify.com/artist/1eApSp71ywW186fZquLihy"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186624,
+      "name": "ADDICTIONS",
+      "url": "https://open.spotify.com/track/39jiBpZrl0EuPAkVIURK3N"
+    },
+    {
+      "album": {
         "name": "against my shell",
         "url": "https://open.spotify.com/album/4v3lJ0GrI0VsPXhOizyIAm"
       },

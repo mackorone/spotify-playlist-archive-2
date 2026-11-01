@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ADOY\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,412 songs - 3 day 13 hr 34 min
+1,413 songs - 3 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Keep On](https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gongbu](https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM) | 3:50 | 2026-05-20 | 2026-10-17 |
 | [Keep you there](https://open.spotify.com/track/0OU5FvDjS9tavAUK63xwcz) | [Penda](https://open.spotify.com/artist/0HTTljEZfygRWNhK4r8pzC) | [In the box](https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb) | 2:27 | 2022-03-31 | 2022-04-20 |
 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-04 | 2025-10-30 |
+| [Kids Return](https://open.spotify.com/track/0BmbgguZiYGf7FmuFwGp4o) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [KOMOREBI](https://open.spotify.com/album/2fWlmQJhqLXdd3e9cOndKG) | 4:26 | 2026-10-31 |  |
 | [Kids Return](https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Kids Return](https://open.spotify.com/album/5APljpDUTlWR1k4r0wAidl) | 4:06 | 2025-10-20 | 2025-11-14 |
 | [King Carp](https://open.spotify.com/track/6Vy5hcBcUylOESHdetifDh) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Tales From A Wanderer](https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU) | 3:29 | 2024-11-29 | 2024-12-11 |
 | [King of the New World](https://open.spotify.com/track/5Jx7Z2gn3qsYmP0pbvLtCZ) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Brave New World](https://open.spotify.com/album/2L35hn411crur8GTV59aAl) | 3:01 | 2026-01-21 | 2026-02-26 |
@@ -883,7 +884,7 @@
 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Over and Over](https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw) | [MOTIP](https://open.spotify.com/artist/20qBalVGALu6sj3UseuAcr) | [Over and Over](https://open.spotify.com/album/3NkbXALAlXHCwTZhx35wVm) | 3:23 | 2021-12-21 | 2022-07-10 |
 | [Overgrown](https://open.spotify.com/track/3Zkq7z3UM2PXuJIxlaJ5Nl) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Overgrown](https://open.spotify.com/album/0CbyIh2MtmnL4tpiKiYm9f) | 3:43 | 2026-07-22 | 2026-08-14 |
-| [P](https://open.spotify.com/track/33AR52AJz3yONq2OTFjuWc) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.10](https://open.spotify.com/album/7EFR2crZ7e3kHwss7Pnngn) | 4:09 | 2026-06-20 |  |
+| [P](https://open.spotify.com/track/33AR52AJz3yONq2OTFjuWc) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.10](https://open.spotify.com/album/7EFR2crZ7e3kHwss7Pnngn) | 4:09 | 2026-06-20 | 2026-11-01 |
 | [Padding Today Over Yesterday](https://open.spotify.com/track/6LUgl6OWF68pXUOieX4k1Y) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Daydreaming](https://open.spotify.com/album/53CquI42D8OFUEyphbbnRK) | 3:33 | 2023-01-25 | 2023-02-15 |
 | [Page](https://open.spotify.com/track/6jAMGTTWOOEHBvhpi6ZsDd) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Page](https://open.spotify.com/album/1hv5kTzCuapWPHeeFm4DfY) | 3:17 | 2024-12-10 | 2025-03-05 |
 | [Paindrops](https://open.spotify.com/track/78HIu4EgPdesHf46oIBLuZ) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [Tiny Bits of Life Part.7](https://open.spotify.com/album/2eSf3kZZ0ii75biMW5WzQv) | 4:22 | 2022-03-31 | 2022-04-15 |

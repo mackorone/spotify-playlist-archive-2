@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 262466,
       "name": "Cry On Demand",
       "url": "https://open.spotify.com/track/4PxgclMjvH7lyrvQDJPjC0"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 203200,
       "name": "Halloweenhead",
       "url": "https://open.spotify.com/track/04N3X9vfSzIpkgnD15pCzz"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 338923,
       "name": "In My Time of Need",
       "url": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
@@ -4516,7 +4516,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 202933,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/0RxGa6ou9V1ANxQvSxYvf0"
@@ -4862,10 +4862,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 184671,
       "name": "To Be Young (Is to Be Sad, Is to Be High)",
       "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/1LNNDu3aW8rCo64UqbQIRJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184671,
+      "name": "To Be Young (Is to Be Sad, Is to Be High)",
+      "url": "https://open.spotify.com/track/7vQYgo3sh3Lp7Mka7GcjJy"
     },
     {
       "album": {

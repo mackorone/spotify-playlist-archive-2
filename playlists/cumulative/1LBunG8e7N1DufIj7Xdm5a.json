@@ -26823,6 +26823,24 @@
     },
     {
       "album": {
+        "name": "Entrada",
+        "url": "https://open.spotify.com/album/6kenJ76Y8TJAuPcgZ1750P"
+      },
+      "artists": [
+        {
+          "name": "Wavediffraction",
+          "url": "https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187004,
+      "name": "Entrada",
+      "url": "https://open.spotify.com/track/2v2i3wcQIcYARJ2J1bCobj"
+    },
+    {
+      "album": {
         "name": "ENTRE CRISTALES",
         "url": "https://open.spotify.com/album/6z4mLjPPHQHGLz9FJFfeiS"
       },
@@ -40692,6 +40710,24 @@
       "duration_ms": 278987,
       "name": "its only time - 2023 Remastered Version",
       "url": "https://open.spotify.com/track/6kXRQNQtRR7Uqjs0N7DJI5"
+    },
+    {
+      "album": {
+        "name": "Its Time",
+        "url": "https://open.spotify.com/album/5DBlgRnRTh1puaXpm8ruEJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Guidry",
+          "url": "https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117272,
+      "name": "Its Time",
+      "url": "https://open.spotify.com/track/4hOPMfgaWCAZTXLLED3r5N"
     },
     {
       "album": {
@@ -72702,6 +72738,24 @@
       "duration_ms": 181936,
       "name": "Spider Lily",
       "url": "https://open.spotify.com/track/2i4E0bXODdm6iiEw66AcVs"
+    },
+    {
+      "album": {
+        "name": "Spiderwebs",
+        "url": "https://open.spotify.com/album/38IlA6sMTMj5nWiYa5lvLn"
+      },
+      "artists": [
+        {
+          "name": "Kenny Black",
+          "url": "https://open.spotify.com/artist/2PDLiAgkSAluHvPdAlMlvT"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Spiderwebs",
+      "url": "https://open.spotify.com/track/7HufGtcH7DHxk7OJNk9VBL"
     },
     {
       "album": {

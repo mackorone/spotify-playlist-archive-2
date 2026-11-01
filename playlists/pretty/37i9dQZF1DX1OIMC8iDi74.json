@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83e\ude77 with ISOxo",
-  "num_followers": 871157,
+  "num_followers": 871090,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
         "name": "Make You Move",
         "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 144000,
       "name": "Make You Move",
       "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
-        "name": "EGO! (TAKE IT BACK)",
-        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 209464,
-      "name": "EGO! (TAKE IT BACK)",
-      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP"
+        "name": "EGO! (TAKE IT BACK)",
+        "url": "https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X"
       },
       "artists": [
         {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 168000,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK"
+      "duration_ms": 209464,
+      "name": "EGO! (TAKE IT BACK)",
+      "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "ADRENOCHROME",
-        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 173785,
-      "name": "HACKING THE GATE",
-      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
       },
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "Again? Fuck.",
-        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 172901,
-      "name": "Again? Fuck.",
-      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC"
       },
@@ -1227,6 +1195,38 @@
       "duration_ms": 190285,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "ADRENOCHROME",
+        "url": "https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "HACKING THE GATE",
+      "url": "https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "Again? Fuck.",
+        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 172901,
+      "name": "Again? Fuck.",
+      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "TTY",
-        "url": "https://open.spotify.com/album/5Gokr84dldnrggVaunCksN"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Cerdin",
-          "url": "https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB"
-        }
-      ],
-      "duration_ms": 226985,
-      "name": "TTY",
-      "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
         "name": "ONE TWO",
         "url": "https://open.spotify.com/album/4La0bAOYp2XzsmDpljN6zD"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 186857,
       "name": "ONE TWO",
       "url": "https://open.spotify.com/track/0nUKYrdH6hGeecuyKlVJRB"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "TTY",
+        "url": "https://open.spotify.com/album/5Gokr84dldnrggVaunCksN"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Cerdin",
+          "url": "https://open.spotify.com/artist/3TZCTC9wAoUZKs6JAXSkgB"
+        }
+      ],
+      "duration_ms": 226985,
+      "name": "TTY",
+      "url": "https://open.spotify.com/track/27ZSBt5KMQRKpvykjltAPH"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "YA BODY",
-        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "YA BODY",
-      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
         "name": "ALLNIGHTER",
         "url": "https://open.spotify.com/album/4tatQg9UhiVwFbWMy8QGEp"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "GOIN' ALL THE WAY",
-        "url": "https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou"
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
       },
       "artists": [
         {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
         }
       ],
-      "duration_ms": 216600,
-      "name": "GOIN' ALL THE WAY",
-      "url": "https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz"
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1459,6 +1443,22 @@
       "duration_ms": 176200,
       "name": "Steps On You (Peep My Style)",
       "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "GOIN' ALL THE WAY",
+        "url": "https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "GOIN' ALL THE WAY",
+      "url": "https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "X2C",
-        "url": "https://open.spotify.com/album/26vCQZzq5JbOU9pJ1Ujw6e"
-      },
-      "artists": [
-        {
-          "name": "Z3LLA",
-          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
-        }
-      ],
-      "duration_ms": 131142,
-      "name": "X2C",
-      "url": "https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/6Ix3pmPZdP1MhiLeI1b4YD"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 236689,
       "name": "Children",
       "url": "https://open.spotify.com/track/5sIW6LZPdo9q8i7MxuhJTe"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
+        "name": "X2C",
+        "url": "https://open.spotify.com/album/26vCQZzq5JbOU9pJ1Ujw6e"
+      },
+      "artists": [
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "duration_ms": 131142,
+      "name": "X2C",
+      "url": "https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1783,22 +1783,18 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm"
+        "name": "Dozer",
+        "url": "https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn"
       },
       "artists": [
         {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        },
-        {
-          "name": "Control Freak",
-          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
         }
       ],
-      "duration_ms": 144545,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK"
+      "duration_ms": 172137,
+      "name": "Dozer",
+      "url": "https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1819,18 +1815,22 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
-        "name": "Dozer",
-        "url": "https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn"
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm"
       },
       "artists": [
         {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        },
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
         }
       ],
-      "duration_ms": 172137,
-      "name": "Dozer",
-      "url": "https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn"
+      "duration_ms": 144545,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK"
     },
     {
       "added_at": "2026-10-30 04:01:17",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-10-30 04:01:17",
       "album": {
+        "name": "Hitz",
+        "url": "https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 168017,
+      "name": "Hitz",
+      "url": "https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K"
+    },
+    {
+      "added_at": "2026-10-30 04:01:17",
+      "album": {
         "name": "MAXED OUT",
         "url": "https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 182535,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
-    },
-    {
-      "added_at": "2026-10-30 04:01:17",
-      "album": {
-        "name": "Hitz",
-        "url": "https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8"
-      },
-      "artists": [
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 168017,
-      "name": "Hitz",
-      "url": "https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K"
     }
   ],
   "unique_name": "Trap Mojito",

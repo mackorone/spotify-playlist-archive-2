@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 181924,
+  "num_followers": 181953,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MngdOAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MnluuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "BREAK EVEN",
         "url": "https://open.spotify.com/album/4xYpXVSKqRTsL3ucRd8EMM"
@@ -45,55 +45,7 @@
       "url": "https://open.spotify.com/track/0pMoUGdpD8nupNP1mSdZUn"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "The Adult I Dreamed Of",
-        "url": "https://open.spotify.com/album/6vs89WCj0Cr5YAAqQhwlWs"
-      },
-      "artists": [
-        {
-          "name": "\uba38\ubb34\ub974",
-          "url": "https://open.spotify.com/artist/4C3iHuAHTUbOigoE9lmhdx"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "The Adult I Dreamed Of",
-      "url": "https://open.spotify.com/track/67bXdWqZFre6lPaBIaZHlO"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "SCENEDROME",
-        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "LOVE ATTACK",
-      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Looks Can Kill",
         "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
@@ -109,27 +61,55 @@
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "The Adult I Dreamed Of",
+        "url": "https://open.spotify.com/album/6vs89WCj0Cr5YAAqQhwlWs"
+      },
+      "artists": [
+        {
+          "name": "\uba38\ubb34\ub974",
+          "url": "https://open.spotify.com/artist/4C3iHuAHTUbOigoE9lmhdx"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "The Adult I Dreamed Of",
+      "url": "https://open.spotify.com/track/67bXdWqZFre6lPaBIaZHlO"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "What a Wonderful Life",
         "url": "https://open.spotify.com/album/67SjfNUpuN9TqanFth4ZRP"
@@ -149,23 +129,27 @@
       "url": "https://open.spotify.com/track/3Vqe75qMPQP62qE3zr9WLg"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "Forever Has Always Been",
-        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 237160,
-      "name": "Forever Has Always Been",
-      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "GREENGREEN_playextended",
         "url": "https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj"
@@ -181,7 +165,23 @@
       "url": "https://open.spotify.com/track/34YVCoqIm08nbsxFSPL0Uh"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "Forever Has Always Been",
+        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Forever Has Always Been",
+      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Dearest",
         "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "GOLDEN HOUR : Part.5",
         "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "If I have you only (My love X Nerd Connection)",
         "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
@@ -245,23 +245,23 @@
       "url": "https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "JAMONG SALGU CLUB",
-        "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 192000,
-      "name": "0+0",
-      "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
+      "duration_ms": 179000,
+      "name": "Star Trace",
+      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Pretty Girl - Special Single",
         "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
@@ -277,7 +277,23 @@
       "url": "https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "JAMONG SALGU CLUB",
+        "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "0+0",
+      "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
         "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
@@ -293,39 +309,7 @@
       "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 172978,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "seesaw (Feat. IU)",
         "url": "https://open.spotify.com/album/6KbCtAZeKS65sKR6ElxnRs"
@@ -345,7 +329,7 @@
       "url": "https://open.spotify.com/track/3lTdjfpGVeYLeHfrczXw1a"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -361,55 +345,23 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/7IwdRxcKXuVOCRJmtTGb7S"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
         }
       ],
-      "duration_ms": 248407,
-      "name": "Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
+      "duration_ms": 172978,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/1hXVB56zx5oM7KUJsFRTxy"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Star Trace",
-      "url": "https://open.spotify.com/track/1uH8RqO7kx4je1VS91Oe02"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "WhyKiiiKiii",
-        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 141285,
-      "name": "Pop Off Pop Off",
-      "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -425,7 +377,55 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 141285,
+      "name": "Pop Off Pop Off",
+      "url": "https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/0XBdrJcgVNBkZ8MpTAO6ML"
@@ -441,23 +441,7 @@
       "url": "https://open.spotify.com/track/776vLcNy6mHNmPisdejR0I"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "yours",
-        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
-      },
-      "artists": [
-        {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "yours",
-      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Strange Muse",
         "url": "https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy"
@@ -473,39 +457,7 @@
       "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "\u200eGood Night Good Dream",
-        "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
-      },
-      "artists": [
-        {
-          "name": "Nerd Connection",
-          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
-        }
-      ],
-      "duration_ms": 265983,
-      "name": "\u200eGood Night Good Dream",
-      "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
@@ -521,7 +473,7 @@
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Love Options",
         "url": "https://open.spotify.com/album/48aNxerOupoy4EbC0el0l8"
@@ -537,7 +489,71 @@
       "url": "https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/4EYRsQWjtGmiqS2jUAsLsa"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "\u200eGood Night Good Dream",
+        "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "duration_ms": 265983,
+      "name": "\u200eGood Night Good Dream",
+      "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "yours",
+        "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "yours",
+      "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
         "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
@@ -553,39 +569,23 @@
       "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "A Letter For You",
-        "url": "https://open.spotify.com/album/7DZOVeIyrwKSpkzzbjWzoJ"
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
       },
       "artists": [
         {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
         }
       ],
-      "duration_ms": 217293,
-      "name": "A Letter For You",
-      "url": "https://open.spotify.com/track/4vfO4uu5VObHhGSrdV6TC5"
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "IM HERO 10",
-        "url": "https://open.spotify.com/album/2TUvT4qiM53MI8ErBpiG3D"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "ToTo",
-      "url": "https://open.spotify.com/track/0sRcVXli6eqbPASpVXTWB2"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "HYPERDRIVE",
         "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
@@ -616,28 +616,44 @@
           "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Sweet Rain",
-      "url": "https://open.spotify.com/track/4EYRsQWjtGmiqS2jUAsLsa"
+      "duration_ms": 173000,
+      "name": "GGUN",
+      "url": "https://open.spotify.com/track/09qDfTzRZ0bM8joSzQ0uLF"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "Separation Anxiety",
-        "url": "https://open.spotify.com/album/4qQ0t1Feq5AjdT8tw1C73h"
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
       },
       "artists": [
         {
-          "name": "NELL",
-          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 312880,
-      "name": "The time of walking on remembrance",
-      "url": "https://open.spotify.com/track/0LSmb1eo894EJ7eIWPaAgQ"
+      "duration_ms": 156000,
+      "name": "The Answer Is Yes",
+      "url": "https://open.spotify.com/track/5l7D7feCXQZgCPolpVgmCN"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "IM HERO 10",
+        "url": "https://open.spotify.com/album/2TUvT4qiM53MI8ErBpiG3D"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "ToTo",
+      "url": "https://open.spotify.com/track/0sRcVXli6eqbPASpVXTWB2"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "TEEN TROUBLES",
         "url": "https://open.spotify.com/album/0lO1MX7qJaA3NejSbPoxU8"
@@ -653,7 +669,23 @@
       "url": "https://open.spotify.com/track/5BGxDtIEw8zxoP29Fid69a"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "A Letter For You",
+        "url": "https://open.spotify.com/album/7DZOVeIyrwKSpkzzbjWzoJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "A Letter For You",
+      "url": "https://open.spotify.com/track/4vfO4uu5VObHhGSrdV6TC5"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
@@ -669,23 +701,23 @@
       "url": "https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
+        "name": "HYPERDRIVE",
+        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
       },
       "artists": [
         {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 179586,
-      "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+      "duration_ms": 160000,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/1p2UyLZ2vf0jfwpAGishl1"
@@ -701,7 +733,23 @@
       "url": "https://open.spotify.com/track/0jZY6beWiqEvcPCGuLaEaW"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
+      "album": {
+        "name": "Separation Anxiety",
+        "url": "https://open.spotify.com/album/4qQ0t1Feq5AjdT8tw1C73h"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "duration_ms": 312880,
+      "name": "The time of walking on remembrance",
+      "url": "https://open.spotify.com/track/0LSmb1eo894EJ7eIWPaAgQ"
+    },
+    {
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
@@ -717,7 +765,7 @@
       "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Mise en sc\u00e8ne",
         "url": "https://open.spotify.com/album/2IcyuoBzNE2AaaRzbOORd4"
@@ -737,55 +785,7 @@
       "url": "https://open.spotify.com/track/0wIwrT28ZIAHdJsTgKhAt9"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "GGUN",
-      "url": "https://open.spotify.com/track/09qDfTzRZ0bM8joSzQ0uLF"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
-      "album": {
-        "name": "HYPERDRIVE",
-        "url": "https://open.spotify.com/album/20IvODSlsPVWXhlxnvgR1q"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "The Answer Is Yes",
-      "url": "https://open.spotify.com/track/5l7D7feCXQZgCPolpVgmCN"
-    },
-    {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
         "name": "Lemon Tang - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
@@ -801,40 +801,36 @@
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "I SPY - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7DwTwunZVxnPGmpUAxcxEN"
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/5RAg0Dd2xkkZ3LEZzPNxYT"
       },
       "artists": [
         {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 185000,
-      "name": "I SPY",
-      "url": "https://open.spotify.com/track/3kcGkOmFXtaFjVdz7ge1WL"
+      "duration_ms": 181790,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/5JaMKAodzzLdFM2ARRTXb9"
     },
     {
-      "added_at": "2026-10-30 14:06:24",
+      "added_at": "2026-10-31 14:09:55",
       "album": {
-        "name": "SUPERSTAR",
-        "url": "https://open.spotify.com/album/1DzXeVnrXrHT6hciDfbGLf"
+        "name": "DESERVE",
+        "url": "https://open.spotify.com/album/7Aj6krHADdqO0MQaYejME0"
       },
       "artists": [
         {
-          "name": "A2O SOUL",
-          "url": "https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb"
-        },
-        {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 248000,
-      "name": "SUPERSTAR",
-      "url": "https://open.spotify.com/track/1DWMei2F4L94avyzZh3Ms9"
+      "duration_ms": 189986,
+      "name": "DESERVE",
+      "url": "https://open.spotify.com/track/7It5Iy4mnJWMhESt7qfipt"
     }
   ],
   "unique_name": "Top 50 - South Korea",

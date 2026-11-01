@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2371,
+  "num_followers": 2373,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAACZhbvSMOZNk2ckD/uFLNbk",
+  "snapshot_id": "auKMgAAAAABf09yB4hp6SSPC2VKEj1rG",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sommernachtskonzert 2019 / Summer Night Concert 2019",
+        "url": "https://open.spotify.com/album/7k1nb2LBIDwS1WdNNQnzqA"
+      },
+      "artists": [
+        {
+          "name": "Samuel Barber",
+          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 539506,
+      "name": "Adagio for Strings, Op. 11",
+      "url": "https://open.spotify.com/track/1KdTxZoXr0xrwtAKlbuHoA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lalo: Symphonie espagnole, Op. 21: I. Allegro non troppo",
         "url": "https://open.spotify.com/album/5EQgHlE2nSD2GCNH7PDwIv"
       },
@@ -667,30 +691,6 @@
       "duration_ms": 504733,
       "name": "Symphonie espagnole, Op. 21: I. Allegro non troppo",
       "url": "https://open.spotify.com/track/1iCkBg993KuHJXRBStcF28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Conga del Fuego - Live",
-      "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
     },
     {
       "added_at": null,
@@ -743,26 +743,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sommernachtskonzert 2019 / Summer Night Concert 2019",
-        "url": "https://open.spotify.com/album/7k1nb2LBIDwS1WdNNQnzqA"
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
       },
       "artists": [
         {
-          "name": "Samuel Barber",
-          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         }
       ],
-      "duration_ms": 539506,
-      "name": "Adagio for Strings, Op. 11",
-      "url": "https://open.spotify.com/track/1KdTxZoXr0xrwtAKlbuHoA"
+      "duration_ms": 293173,
+      "name": "Conga del Fuego - Live",
+      "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
     },
     {
       "added_at": null,

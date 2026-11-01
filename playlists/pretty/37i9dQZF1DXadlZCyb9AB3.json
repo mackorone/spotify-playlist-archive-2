@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 215188,
+  "num_followers": 215210,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Spit It Out",
-        "url": "https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Spit It Out",
-      "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Smell the Magic",
         "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 193480,
       "name": "Shove - Remastered",
       "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Spit It Out",
+        "url": "https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 187396,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/44la56EZdE2fw9r963o5E2"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "These Monsters Are Real",
-        "url": "https://open.spotify.com/album/4G89Sw4wnfauYwhSAT0lke"
-      },
-      "artists": [
-        {
-          "name": "Heavens To Betsy",
-          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
-        }
-      ],
-      "duration_ms": 164248,
-      "name": "Me & Her",
-      "url": "https://open.spotify.com/track/6P4UiEsyyjHkgrdqfhXsa5"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Soda Pop * Rip Off",
         "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 123240,
       "name": "What Kind of Monster Are You?",
       "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "These Monsters Are Real",
+        "url": "https://open.spotify.com/album/4G89Sw4wnfauYwhSAT0lke"
+      },
+      "artists": [
+        {
+          "name": "Heavens To Betsy",
+          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
+        }
+      ],
+      "duration_ms": 164248,
+      "name": "Me & Her",
+      "url": "https://open.spotify.com/track/6P4UiEsyyjHkgrdqfhXsa5"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Demonstration Tapes",
-        "url": "https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU"
-      },
-      "artists": [
-        {
-          "name": "Dolly Mixture",
-          "url": "https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv"
-        }
-      ],
-      "duration_ms": 118853,
-      "name": "Step Close Now",
-      "url": "https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Racist, Sexist Boy (Live at LA Public Library)",
         "url": "https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 125695,
       "name": "Racist, Sexist Boy - Live at LA Public Library",
       "url": "https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Demonstration Tapes",
+        "url": "https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU"
+      },
+      "artists": [
+        {
+          "name": "Dolly Mixture",
+          "url": "https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv"
+        }
+      ],
+      "duration_ms": 118853,
+      "name": "Step Close Now",
+      "url": "https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Look Blue Go Purple Compilation",
-        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
-      },
-      "artists": [
-        {
-          "name": "Look Blue Go Purple",
-          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "I Don't Want You Anyway",
-      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Update Your Brain",
         "url": "https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 194000,
       "name": "Let Go of the Past",
       "url": "https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Look Blue Go Purple Compilation",
+        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
+      },
+      "artists": [
+        {
+          "name": "Look Blue Go Purple",
+          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "I Don't Want You Anyway",
+      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Say Yes To Love",
-        "url": "https://open.spotify.com/album/4uNJjBFW2Wdu8l9rp2AbNj"
-      },
-      "artists": [
-        {
-          "name": "Perfect Pussy",
-          "url": "https://open.spotify.com/artist/1xvC1JOx3XYXNk2WqfFLxC"
-        }
-      ],
-      "duration_ms": 136372,
-      "name": "Driver",
-      "url": "https://open.spotify.com/track/7gOYD1NhmTnB7nuIqDE1FT"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Say Yes To Love",
+        "url": "https://open.spotify.com/album/4uNJjBFW2Wdu8l9rp2AbNj"
+      },
+      "artists": [
+        {
+          "name": "Perfect Pussy",
+          "url": "https://open.spotify.com/artist/1xvC1JOx3XYXNk2WqfFLxC"
+        }
+      ],
+      "duration_ms": 136372,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/7gOYD1NhmTnB7nuIqDE1FT"
     },
     {
       "added_at": "2024-10-07 20:36:39",

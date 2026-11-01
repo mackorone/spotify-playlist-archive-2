@@ -6519,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "JOURNEY",
+        "url": "https://open.spotify.com/album/5FXBk0VWk4OduYHMMbBn8E"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248982,
+      "name": "Life Is Life",
+      "url": "https://open.spotify.com/track/4SwbuL0i9XorhDoS0uP5s0"
+    },
+    {
+      "album": {
         "name": "When the Stars Gossip OST Part.2",
         "url": "https://open.spotify.com/album/4hYqvSKf2tJDrDV0o5PQo8"
       },
@@ -11120,7 +11138,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 159625,
       "name": "T (Feat. George)",
       "url": "https://open.spotify.com/track/7qK03HQmLzHFXWXvBMSbMy"

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,416 songs - 3 day 15 hr 18 min
+1,418 songs - 3 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1292,6 +1292,7 @@
 | [Touch The Sky](https://open.spotify.com/track/2pRyjmTGkz5i8xemOtJ7pG) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 3:56 | 2022-06-13 |  |
 | [TOUCH THE SKY](https://open.spotify.com/track/3bfeZIvUQEmtpGs6VQKgUy) | [retroclinic](https://open.spotify.com/artist/3U5yxvcDQ3AhEM0YDBWsOU) | [Horizon Scraper](https://open.spotify.com/album/3CGRmoOQTDPWNWkt5Q7DCI) | 2:29 | 2025-12-02 | 2025-12-21 |
 | [Touching God \(Feat\. Yebba & Blood Orange\)](https://open.spotify.com/track/3Ws7pcKeEo6dW2xPUFgmQv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 4:41 | 2025-12-02 |  |
+| [traitoR](https://open.spotify.com/track/3EQ6LTNoHOGIWVJjAGkLyD) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 4:48 | 2026-10-31 |  |
 | [Tranquility Base Hotel & Casino](https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:31 | 2020-11-11 |  |
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2021-11-28 |  |
 | [Trees](https://open.spotify.com/track/1yf97yL1ll8FYXC27c9VTw) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 | 2022-05-19 |  |
@@ -1397,6 +1398,7 @@
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2021-05-05 |  |
 | [Wine & Spirits](https://open.spotify.com/track/02iwkyyf6rSZPAe0NQOcjL) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:15 | 2025-03-12 |  |
 | [Wings](https://open.spotify.com/track/16umSNZfofRpDqTvf8DIAo) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:10 | 2022-09-18 |  |
+| [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 | 2026-10-31 |  |
 | [Woke The F\*ck Up](https://open.spotify.com/track/5jKMjgG0J08rCezDvAX0sn) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:39 | 2021-12-27 |  |
 | [Wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:01 | 2022-06-14 |  |
 | [Wonderful Life](https://open.spotify.com/track/1x4KLJQkSp7Zukk4Xjx98q) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:19 | 2022-08-21 |  |

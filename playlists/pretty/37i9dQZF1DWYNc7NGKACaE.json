@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 82833,
+  "num_followers": 82827,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -315,30 +315,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Ananda (Speed)",
-        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 163835,
-      "name": "Portugal (Speed)",
-      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA (REMIX)",
         "url": "https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 169846,
       "name": "ELA SABE QUE \u00c9 O LITTLE HAIR FININHA - REMIX",
       "url": "https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Ananda (Speed)",
+        "url": "https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 163835,
+      "name": "Portugal (Speed)",
+      "url": "https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "SEGREDO VERS\u00c3O BH",
         "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "BOMBEI AQUELA MSC DO INVEJOSO",
         "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 149538,
       "name": "BOMBEI AQUELA MSC DO INVEJOSO",
       "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
-      },
-      "artists": [
-        {
-          "name": "TIKTOK HITS",
-          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
-        },
-        {
-          "name": "LC DAS CASINHAS",
-          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
-        }
-      ],
-      "duration_ms": 166115,
-      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -815,6 +795,26 @@
       "duration_ms": 144915,
       "name": "Sustenta a Botada - Speed",
       "url": "https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
+      },
+      "artists": [
+        {
+          "name": "TIKTOK HITS",
+          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
+        },
+        {
+          "name": "LC DAS CASINHAS",
+          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
+        }
+      ],
+      "duration_ms": 166115,
+      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
     },
     {
       "added_at": "2024-07-08 19:10:57",

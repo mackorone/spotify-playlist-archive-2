@@ -4,7 +4,7 @@
 
 > 낮은 햇살과 선선한 바람, 조금 더 걷고 싶은 가을의 노래들 \(Walk home a little longer with autumn in the air and a song in your ears\) \(Cover: BABO\)
 
-233 songs - 14 hr 13 min
+234 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Daydreaming](https://open.spotify.com/track/6s3aGES0MlWhPXTa8Faow4) | [Eddie and the Bricks](https://open.spotify.com/artist/2FSpLqT9FBl8OX4J3IWTto) | [inbetweeners](https://open.spotify.com/album/3zV03L85sDpwtoe33kRuHW) | 4:44 | 2026-10-23 |  |
 | [Daydreaming](https://open.spotify.com/track/1hOahzGzbUO28mcIfHWhOE) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:22 | 2024-03-08 | 2026-10-24 |
 | [Daydreaming](https://open.spotify.com/track/6xHK3zWW1AwpRQbsOuc4f0) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ryXl7IIN877fqTwfalFwT) | 3:22 | 2022-07-04 | 2024-04-19 |
+| [Days Gone](https://open.spotify.com/track/78s1puju5hhH3yYneGD1HG) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Days Gone](https://open.spotify.com/album/4CF9uJBsUIUvZSlMGDg3v7) | 3:42 | 2026-10-31 |  |
 | [Dear Fall](https://open.spotify.com/track/1zmaOkXV1s5G5r5Rqkvy2n) | [Cha ga eul](https://open.spotify.com/artist/5uDOFfun6IFetdabIi7n01) | [Dear Fall](https://open.spotify.com/album/0yylG3rQTi5BAlX26WK8F2) | 4:12 | 2023-11-02 |  |
 | [Dear my crazy soulmate](https://open.spotify.com/track/0cbgFMxCXMzs80R2vxwApT) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Unknown Planet](https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR) | 2:36 | 2026-10-23 |  |
 | [Do You Even Know](https://open.spotify.com/track/724T5v1fXgCalJ6nxOwuu6) | [Samson](https://open.spotify.com/artist/5NhVZeWFFcNsJFLhFyHlJN) | [Immaturity](https://open.spotify.com/album/0xP9Lq06psVsXDlidhJXJi) | 4:24 | 2024-09-02 |  |
@@ -225,7 +226,7 @@
 | [瞳をとじて](https://open.spotify.com/track/55Xi4qkrX8taBIPxyijEEy) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [LOVE](https://open.spotify.com/album/6OHhAjVAUsnN2C7Mjo7O6t) | 5:41 | 2026-10-23 |  |
 | [가을에게](https://open.spotify.com/track/4baq5UHvCkuSwdNKTMyfDw) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H), [려진](https://open.spotify.com/artist/7GaxsdqZnC5PNGyVaKi2wp) | [미생](https://open.spotify.com/album/0wR5rt7Wm5jSnFyCBexxbv) | 3:54 | 2025-10-15 |  |
 | [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/5pKx4gs2N1sEvpwHDUboQt) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 | 2022-07-04 | 2026-10-24 |
-| [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 |  |
+| [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 | 2026-11-01 |
 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 | 2026-10-24 |
 | [난 혼자가 편해](https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6) | [이단미](https://open.spotify.com/artist/2XfNRc16ttr0NXwtSy9Qq3), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/1Amy0LfByq9gxvd9DUrs96) | 3:16 | 2022-07-04 | 2024-04-19 |
 | [난 혼자가 편해 \(feat\. Ganaa\)](https://open.spotify.com/track/3M5xr0Ld6gME64RsA7dr9Q) | [이지형](https://open.spotify.com/artist/4OcrcbpJumhLyK9v0eCktY), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/6aXspsh060qRmDsrmYwleA) | 3:16 | 2024-03-08 |  |

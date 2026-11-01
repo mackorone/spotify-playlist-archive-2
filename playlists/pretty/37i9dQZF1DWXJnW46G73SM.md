@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > شجّع المنتَج المحلي\. الغلاف: عمر
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,381 likes - 97 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389 likes - 97 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 65 | [Bahlam Maak](https://open.spotify.com/track/0UvqtVrkp53gonR9BNVHjk) | [Hany Shenouda](https://open.spotify.com/artist/1rcSLs6nyFQ7y8ktBEtI2P), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Tina](https://open.spotify.com/artist/6wCmHyVh4uhAFgCV2WcW3A) | [Bahlam Maak](https://open.spotify.com/album/0RDbWMJj2FUf7W3taOIqDL) | 2:52 |
 | 66 | [غيابك طال](https://open.spotify.com/track/2GQIvnXFuJJ7sC5fBTulLk) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [غيابك طال](https://open.spotify.com/album/0fqejK4XsS0XMQKdEwaJTw) | 5:35 |
 | 67 | [KHLSANASLN](https://open.spotify.com/track/57Hlh1ajwrbOHQfoR8QQGq) | [Nada Nader](https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz), [Omar Gangster](https://open.spotify.com/artist/5T50n4CJ00M0hleMaUVCcQ) | [KHLSANASLN](https://open.spotify.com/album/5U7cSXzxK0DYVWY5P97WqV) | 2:27 |
-| 68 | [OFF](https://open.spotify.com/track/2xPewsBXjoZMqk63u6fvd3) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [OFF](https://open.spotify.com/album/3d7lUD7dCS3IvUWKnh5E3O) | 2:43 |
+| 68 | [OFF](https://open.spotify.com/track/2xPewsBXjoZMqk63u6fvd3) | [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [OFF](https://open.spotify.com/album/3d7lUD7dCS3IvUWKnh5E3O) | 2:43 |
 | 69 | [حطيني ف ستوري](https://open.spotify.com/track/0hG9KsyYwd8yNLNPQyPbna) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [حطيني ف ستوري](https://open.spotify.com/album/4UuFOIJTtS2wmRkBPZIWeg) | 3:05 |
 | 70 | [FRATELLO](https://open.spotify.com/track/6plmA7qCOgdxzUxisaVzuO) | [Mostafa Elnesr](https://open.spotify.com/artist/3qMttOQzAJd5k3kbFPurvA) | [FRATELLO](https://open.spotify.com/album/1VfijmI9OZxRKix0vTRjwG) | 2:43 |
 | 71 | [Eh El Akhbar](https://open.spotify.com/track/3HcTeoLnW3GQVUyP9BEQYM) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Nazra](https://open.spotify.com/album/5m6xyBsH4PL7aMCUWGUbR8) | 2:24 |

@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 128857,
+  "num_followers": 128881,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Timewave Zero",
-        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
-      },
-      "artists": [
-        {
-          "name": "Blood Incantation",
-          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "Ea: First Movement",
-      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "41 Longfield Street Late \u201880s",
         "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 474353,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Timewave Zero",
+        "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
+      },
+      "artists": [
+        {
+          "name": "Blood Incantation",
+          "url": "https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "Ea: First Movement",
+      "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Dusk/Dawn",
-        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
-      },
-      "artists": [
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Tear Trails",
-      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "VOID",
         "url": "https://open.spotify.com/album/4dlVpb8VyP924DQhcYkRag"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 165770,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6jYPt1h4G9y56f5DYADhva"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Dusk/Dawn",
+        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
+      },
+      "artists": [
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Tear Trails",
+      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "The Skyline EP",
-        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
-      },
-      "artists": [
-        {
-          "name": "Stubbleman",
-          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
-        }
-      ],
-      "duration_ms": 270962,
-      "name": "Skyline Drive",
-      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Dragoon",
         "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 183050,
       "name": "Dragoon",
       "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "The Skyline EP",
+        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
+      },
+      "artists": [
+        {
+          "name": "Stubbleman",
+          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
+        }
+      ],
+      "duration_ms": 270962,
+      "name": "Skyline Drive",
+      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1163,38 +1163,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Enfold",
-        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
-      },
-      "artists": [
-        {
-          "name": "Soars",
-          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Enfold",
-      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "The Last Mile",
         "url": "https://open.spotify.com/album/0GhDClgSYa2wGGhDb2bkSF"
       },
@@ -1211,6 +1179,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Enfold",
+        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
+      },
+      "artists": [
+        {
+          "name": "Soars",
+          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Enfold",
+      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Meteor Shower",
         "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 236000,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "A Dream to Call My Own (feat. Janell Rosa)",
         "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
-      },
-      "artists": [
-        {
-          "name": "Flumina",
-          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "No Clearings, No Wide Open Fields",
         "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 367717,
       "name": "No Clearings, No Wide Open Fields",
       "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
+      },
+      "artists": [
+        {
+          "name": "Flumina",
+          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
     },
     {
       "added_at": "2026-10-05 15:36:40",

@@ -2241,32 +2241,6 @@
     },
     {
       "album": {
-        "name": "Mzala (feat. Tango Supreme)",
-        "url": "https://open.spotify.com/album/4qcQsHhLCuP2kxiE9SjrpH"
-      },
-      "artists": [
-        {
-          "name": "Shakes & Les",
-          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
-        },
-        {
-          "name": "Zee Nxumalo",
-          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
-        },
-        {
-          "name": "Tango Supreme",
-          "url": "https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD"
-        }
-      ],
-      "date_added": "2026-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 471532,
-      "name": "Mzala (feat. Tango Supreme)",
-      "url": "https://open.spotify.com/track/5DED4GtVG1JoOjHsSlHnqR"
-    },
-    {
-      "album": {
         "name": "ADL",
         "url": "https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3"
       },
@@ -3178,6 +3152,24 @@
       "duration_ms": 214960,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
+    },
+    {
+      "album": {
+        "name": "Track 7",
+        "url": "https://open.spotify.com/album/4qcQsHhLCuP2kxiE9SjrpH"
+      },
+      "artists": [
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        }
+      ],
+      "date_added": "2026-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471532,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/5DED4GtVG1JoOjHsSlHnqR"
     },
     {
       "album": {

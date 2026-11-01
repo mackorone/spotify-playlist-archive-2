@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121426,
+      "name": "Under Water (From \"Creed II\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1bLvzQn4FfejNtceBOyyov"
+    },
+    {
+      "album": {
         "name": "Black Panther (Original Score)",
         "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
       },

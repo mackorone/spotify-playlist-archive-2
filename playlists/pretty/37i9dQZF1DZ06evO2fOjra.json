@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 582321,
+  "num_followers": 582417,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAAD4/9Xh9hSskmEk5+3ZmNSz",
+  "snapshot_id": "auKMgAAAAAA90BxwA6lBinJjxo628m1K",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 206870,
       "name": "Trash",
       "url": "https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/4PaPZk1Ozg0TfDTBnbXX38"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nothing",
-        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 225731,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq"
+      "duration_ms": 285280,
+      "name": "Dead Bodies Everywhere",
+      "url": "https://open.spotify.com/track/6vsyag9kEPckt19NClSf51"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+        "name": "The Nothing",
+        "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 285280,
-      "name": "Dead Bodies Everywhere",
-      "url": "https://open.spotify.com/track/6vsyag9kEPckt19NClSf51"
+      "duration_ms": 225731,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5KVISJL93AgXcQG0WRJ3Gq"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Faget",
-      "url": "https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk"
+      "duration_ms": 170373,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 170373,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
+      "duration_ms": 349506,
+      "name": "Faget",
+      "url": "https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk"
     },
     {
       "added_at": null,

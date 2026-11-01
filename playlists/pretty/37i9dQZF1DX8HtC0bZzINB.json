@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 110668,
+  "num_followers": 110672,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "DIPSOMANIA",
+        "url": "https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 225697,
+      "name": "NERDES\u0130N",
+      "url": "https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 158023,
       "name": "KONTAK (feat. Ezhel)",
       "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "DIPSOMANIA",
-        "url": "https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 225697,
-      "name": "NERDES\u0130N",
-      "url": "https://open.spotify.com/track/3JQCETql5pwrFFG5y2CrLC"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -595,18 +595,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "madem",
-        "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
+        "name": "Seviyo Sevmiyo",
+        "url": "https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi"
       },
       "artists": [
         {
-          "name": "Revart",
-          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
+          "name": "Umut Timur",
+          "url": "https://open.spotify.com/artist/650blPhpj24aloFTk941L3"
+        },
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
         }
       ],
-      "duration_ms": 142373,
-      "name": "madem",
-      "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
+      "duration_ms": 172229,
+      "name": "Seviyo Sevmiyo",
+      "url": "https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -627,22 +631,18 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Seviyo Sevmiyo",
-        "url": "https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi"
+        "name": "madem",
+        "url": "https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU"
       },
       "artists": [
         {
-          "name": "Umut Timur",
-          "url": "https://open.spotify.com/artist/650blPhpj24aloFTk941L3"
-        },
-        {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+          "name": "Revart",
+          "url": "https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9"
         }
       ],
-      "duration_ms": 172229,
-      "name": "Seviyo Sevmiyo",
-      "url": "https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2"
+      "duration_ms": 142373,
+      "name": "madem",
+      "url": "https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU"
     },
     {
       "added_at": "2024-07-08 08:41:13",

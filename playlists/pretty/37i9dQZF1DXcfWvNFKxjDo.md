@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,928 likes - 63 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,938 likes - 63 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 42 | [No Sleep](https://open.spotify.com/track/5PQv4eKGI33IQF81UXjtoC) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [No Sleep](https://open.spotify.com/album/0VwQWfaamAsLuJSFrhcVtJ) | 3:18 |
 | 43 | [Diabla](https://open.spotify.com/track/06y9R6QT3g4LqWlSopeTrc) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Amante](https://open.spotify.com/artist/7n35qLqM5KST1SYogipxl1), [240 KM/H](https://open.spotify.com/artist/6sP8BgPjledPTxx2YJkliQ) | [Diabla](https://open.spotify.com/album/0EzUozon77c3sxR57Hgdim) | 2:37 |
 | 44 | [Supersonic Pleasure](https://open.spotify.com/track/3Gcg88gJhOJy6xZfbcPRNd) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Supersonic Pleasure](https://open.spotify.com/album/2t7si7L4ECEw5AdqVUtZQY) | 3:48 |
-| 45 | [Change](https://open.spotify.com/track/7K97rt3p0QYgbujgQLi7eq) | [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH), [Tae\-Lo](https://open.spotify.com/artist/712WQg1LDt9xXhAZLxoSIq), [2ELL](https://open.spotify.com/artist/6SPS8h3tIiWRkKN3nPlbMi) | [Change](https://open.spotify.com/album/32ss2TnJeAvsW7ut93uOxB) | 4:30 |
+| 45 | [Change](https://open.spotify.com/track/7K97rt3p0QYgbujgQLi7eq) | [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH), [Tae\-Lo](https://open.spotify.com/artist/75KYaGWkvn3NoGEz9luiVE), [2ELL](https://open.spotify.com/artist/6SPS8h3tIiWRkKN3nPlbMi) | [Change](https://open.spotify.com/album/32ss2TnJeAvsW7ut93uOxB) | 4:30 |
 | 46 | [Mania \- Alice Merton Remix](https://open.spotify.com/track/4naUDV97XDe3gnHbKLlwPZ) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Mania \(Alice Merton Remix\)](https://open.spotify.com/album/1NSwRbUInUbBVzGIsOShe5) | 1:56 |
 | 47 | [SHOT NACH SHOT](https://open.spotify.com/track/0TfLSXTqC7wTQV7yHXe5zD) | [donchoppa](https://open.spotify.com/artist/1zrli2GExyy5HuVe2TYz2T), [Kø:lab](https://open.spotify.com/artist/14HsByUX40hG0DvFDVT8pa) | [SHOT NACH SHOT](https://open.spotify.com/album/4xq3yHPzkzj5rjkhVg7os1) | 2:15 |
 | 48 | [Dein Spiel Ist Aus](https://open.spotify.com/track/7iwZLO5ojTFUU2hnopjCFq) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Chrissyjeey](https://open.spotify.com/artist/4t1OwXCd8p5VD9DEqsbOjJ) | [Dein Spiel Ist Aus](https://open.spotify.com/album/6RnTrj0M0ioqLLBzrrsDGe) | 2:45 |

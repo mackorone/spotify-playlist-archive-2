@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 288128,
       "name": "Gunshy (Re-recorded)",
       "url": "https://open.spotify.com/track/2rbme7pc6goqI4wMcqIJEY"
@@ -572,6 +572,28 @@
       "duration_ms": 224027,
       "name": "Happier Alone",
       "url": "https://open.spotify.com/track/3cTPILvh238II28NyF5OEf"
+    },
+    {
+      "album": {
+        "name": "The Night Champion (Deluxe)",
+        "url": "https://open.spotify.com/album/5dQrQnTJ2gNU4S2qjBP46H"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219245,
+      "name": "Hard Way (feat. Stephen Wilson Jr.)",
+      "url": "https://open.spotify.com/track/1zd46IUbQyPP34GdLa8hzG"
     },
     {
       "album": {

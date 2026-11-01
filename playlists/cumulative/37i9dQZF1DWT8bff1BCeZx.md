@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,164 songs - 3 day 5 hr 27 min
+1,165 songs - 3 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [If I Be Lifted](https://open.spotify.com/track/7rPWiMCnXKmZp3D5s1UHNe) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship Praise Medley](https://open.spotify.com/album/7nGYOYJ9fqWdGAubqqc4vV) | 4:58 | 2024-11-01 | 2025-03-14 |
 | [ife](https://open.spotify.com/track/2dTsN61HPz0EjLpv70QOyq) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [God First](https://open.spotify.com/album/4bcYm108DwI3sdT3yW8g8F) | 2:30 | 2025-06-20 | 2025-08-22 |
 | [Ife](https://open.spotify.com/track/69DJVj5fpAtPY4h5j1Ys25) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX) | [Ife](https://open.spotify.com/album/6SC3dUTMoDfaLW5mjQVgiz) | 2:37 | 2025-02-28 | 2025-05-09 |
+| [Ife](https://open.spotify.com/track/0ewbIJFfBhsrg3gt7n68zP) | [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ) | [Ife](https://open.spotify.com/album/6P8VC1WqtppixYGRWOzQmT) | 2:33 | 2026-10-30 |  |
 | [Igbala \- Live](https://open.spotify.com/track/5HyqBGjTcy5KzJZVb8z2qL) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Igbala \(Live\)](https://open.spotify.com/album/41ESBstwRoGpda3w243UjH) | 4:20 | 2023-11-17 | 2023-11-24 |
 | [Igbo Praise Medley](https://open.spotify.com/track/07vZg0mD0zBwtAqI3U0M7n) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Igbo Praise Medley](https://open.spotify.com/album/0zmg5S4kCL9OzekYYjwhc0) | 4:49 | 2025-10-03 | 2025-10-17 |
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2023-04-06 | 2025-11-14 |
@@ -960,7 +961,7 @@
 | [Sweet Daddy](https://open.spotify.com/track/2PdoLVYn9z3ftewOJ9ztMh) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Sweet Daddy](https://open.spotify.com/album/0zGtpFvyA14opPOGUJCsAJ) | 2:27 | 2025-01-24 | 2025-03-14 |
 | [Sweet To Me](https://open.spotify.com/track/6ozgeplqAyC6kxNGHMWAnb) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Exploit Music](https://open.spotify.com/artist/3AZbgSiJKTULHcQAFZex4B) | [Sweet To Me](https://open.spotify.com/album/1ggCdgKIMCutzZ9mc9omhm) | 2:40 | 2025-02-14 | 2025-05-09 |
 | [Synergy](https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Synergy](https://open.spotify.com/album/4xc8SyumGUd12gji9kpWuo) | 2:44 | 2025-11-14 | 2026-01-15 |
-| [TAG](https://open.spotify.com/track/7CJ7yRltccpFLAZ4vVX8Bf) | [Denzel Rocks](https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [TAG](https://open.spotify.com/album/5FLy4a3d94anO5MygQj1f3) | 2:31 | 2026-09-18 |  |
+| [TAG](https://open.spotify.com/track/7CJ7yRltccpFLAZ4vVX8Bf) | [Denzel Rocks](https://open.spotify.com/artist/3StGBNbrTOtEermVLbW5B7), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [TAG](https://open.spotify.com/album/5FLy4a3d94anO5MygQj1f3) | 2:31 | 2026-09-18 | 2026-11-01 |
 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 | 2026-06-26 |
 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 | 2023-04-06 | 2025-02-28 |
 | [Taking Ground](https://open.spotify.com/track/4U1O2WXU6GMDDouM9j1f3V) | [Calvary MSC](https://open.spotify.com/artist/7BrnPIKwSstH6E0lIfrMyd), [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Taking Ground](https://open.spotify.com/album/6Gvj313CtLtiEOSzy3jwcM) | 3:01 | 2025-05-09 | 2025-05-30 |

@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Back To Black (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JW4P2Mt4E772Bov2eN0qH"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163746,
+      "name": "Cherry - Live At Paradiso, Amsterdam / 2007",
+      "url": "https://open.spotify.com/track/2kYc6CwmPIj50O8QNmTqcn"
+    },
+    {
+      "album": {
         "name": "Life Is Good",
         "url": "https://open.spotify.com/album/4tpG2K3nqcrFNGBikX3dc0"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 199760,
       "name": "Monkey Man - Live On Jools Holland Hootenanny / 2006",
       "url": "https://open.spotify.com/track/11RwX2XrkrduAwdmug89ja"

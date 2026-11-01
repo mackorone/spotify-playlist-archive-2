@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > dom fike returns with some familiar friends <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,093 likes - 153 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,077 likes - 153 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 69 | [Fell Asleep in the Sun](https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Fell Asleep in the Sun](https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd) | 3:51 |
 | 70 | [I'm Going Back to Lebanon](https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:45 |
 | 71 | [Comedy Show](https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Comedy Show](https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl) | 3:00 |
-| 72 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 72 | [SMALL TOWN](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [SMALL TOWN](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 73 | [Peach](https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:16 |
 | 74 | [Keep You](https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Keep You](https://open.spotify.com/album/2Ef6j9urevxzRVU6n7Cr0r) | 2:32 |
 | 75 | [Spilled](https://open.spotify.com/track/0MfBrS3KErpMzFmUVwJk7B) | [swell foop](https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r) | [Spilled](https://open.spotify.com/album/1j2EOM8xd4XQNYpCxvBuGY) | 2:50 |

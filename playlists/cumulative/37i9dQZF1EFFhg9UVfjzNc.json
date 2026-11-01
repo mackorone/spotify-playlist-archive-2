@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 422333,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/4D9IlElQlDZrIjvHnPDxbZ"
@@ -2510,6 +2510,24 @@
       "duration_ms": 241066,
       "name": "Nada Vai Nos Separar",
       "url": "https://open.spotify.com/track/71uglIBc8pbw207FPSDy6v"
+    },
+    {
+      "album": {
+        "name": "No Nome de Jesus",
+        "url": "https://open.spotify.com/album/0x8GX01GTlkeI77X68UBaf"
+      },
+      "artists": [
+        {
+          "name": "Carlos de Oliveira",
+          "url": "https://open.spotify.com/artist/7K4i3VsLx0OgJf2bsszm0G"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179854,
+      "name": "No Nome de Jesus",
+      "url": "https://open.spotify.com/track/0xJ1lTua65qy7vwtMiw1Pj"
     },
     {
       "album": {

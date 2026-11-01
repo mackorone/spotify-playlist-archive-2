@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,956 songs - 11 day 5 hr 20 min
+4,959 songs - 11 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1473,6 +1473,7 @@
 | [ENOUGH](https://open.spotify.com/track/0oIuU6cGOdJu5IHQWFiUPQ) | [Decybel](https://open.spotify.com/artist/3eM6ibGISvLDXrJDqlB9eb) | [ENOUGH](https://open.spotify.com/album/23EgnDr5j3rTfk8zqMOvkp) | 3:52 | 2026-07-26 |  |
 | [Enough is Never Enough](https://open.spotify.com/track/6H8z0N7iCbaYQUkb8yrI8r) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Enough is Never Enough](https://open.spotify.com/album/7LC6yVufogoGLT6lLNiFBL) | 2:47 | 2025-11-05 |  |
 | [Enter](https://open.spotify.com/track/0ViLc69ePmKeZaXCno3bMn) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ) | [Enter](https://open.spotify.com/album/1ng4U7FXkuVl1ys4vD3Wul) | 2:43 | 2025-06-04 |  |
+| [Entrada](https://open.spotify.com/track/2v2i3wcQIcYARJ2J1bCobj) | [Wavediffraction](https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd) | [Entrada](https://open.spotify.com/album/6kenJ76Y8TJAuPcgZ1750P) | 3:07 | 2026-10-31 |  |
 | [ENTRE CRISTALES](https://open.spotify.com/track/244xnRPePKZLHNcJC5mb67) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x) | [ENTRE CRISTALES](https://open.spotify.com/album/6z4mLjPPHQHGLz9FJFfeiS) | 2:30 | 2025-06-16 |  |
 | [Epic cinematic thriller composition \(music by AIVA\)](https://open.spotify.com/track/769ZfAqCH0E5Ehbe5k64Xs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Some creations by AIVA](https://open.spotify.com/album/0fvjVsyt7109ohDaiFyYtR) | 5:20 | 2025-05-27 |  |
 | [Epic One](https://open.spotify.com/track/3tP9CoJD7O0tPXBGwHUlaH) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Epic One](https://open.spotify.com/album/0zBEpohA04Axtzo08uhago) | 7:35 | 2026-06-05 |  |
@@ -2229,6 +2230,7 @@
 | [it's only time](https://open.spotify.com/track/5cElRmTggpOvFoPS3vFb8d) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 4:38 | 2025-09-15 |  |
 | [It's You](https://open.spotify.com/track/6PTEYjeE9e1jXbBHKZeYdH) | [Umang Mehta](https://open.spotify.com/artist/1zKJLTBdEXNsdHiIAH6Th2) | [It's You](https://open.spotify.com/album/3kbxJm5NAgNQAw3a6GVXpk) | 3:55 | 2026-02-24 |  |
 | [its only time \- 2023 Remastered Version](https://open.spotify.com/track/6kXRQNQtRR7Uqjs0N7DJI5) | [yogyety](https://open.spotify.com/artist/7FBPTQ69WVgYB0T9PbhO4z) | [found the lost sound \(2023 Remastered Version\)](https://open.spotify.com/album/3IMW0NXkqYoSy2UHOYy0Ta) | 4:38 | 2026-02-01 |  |
+| [Its Time](https://open.spotify.com/track/4hOPMfgaWCAZTXLLED3r5N) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [Its Time](https://open.spotify.com/album/5DBlgRnRTh1puaXpm8ruEJ) | 1:57 | 2026-10-31 |  |
 | [Izalco](https://open.spotify.com/track/3ck21HgTpcoKfh6ryogSHD) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Izalco](https://open.spotify.com/album/0iufKnWIpESH1qofkeZ5Zb) | 4:35 | 2026-08-04 |  |
 | [İki Kalp](https://open.spotify.com/track/0DUukZhlATPQ4AxA5NGDbm) | [Kavanoz](https://open.spotify.com/artist/1kQLL2HLwXJfeQtmmCsxJQ) | [İki Kalp](https://open.spotify.com/album/0sD6t5iydCDwojFKJIuYVY) | 4:21 | 2026-07-06 |  |
 | [İster Misin](https://open.spotify.com/track/5znnHQBD33vFf8D588ZMD5) | [Ozan Uyan](https://open.spotify.com/artist/1jN6S75KOloD9lfXwTGKaq) | [İster Misin](https://open.spotify.com/album/4ZGYTry0nsZI3YA2ondqvN) | 5:36 | 2026-08-10 |  |
@@ -3974,6 +3976,7 @@
 | [Spendo x i vizi](https://open.spotify.com/track/5uILl1tjLtWnaI3tl330Te) | [Franklean](https://open.spotify.com/artist/2MtWGMvoJZPkfCtHipSDhg), [Maradò](https://open.spotify.com/artist/17KV9lzX5mkFv70ts7vlFi) | [Spendo x i vizi](https://open.spotify.com/album/2u3VytqpniLVDustEz02v4) | 2:55 | 2025-06-05 |  |
 | [Sphinx](https://open.spotify.com/track/1LTs0l4VWslDurokRJV2aL) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Sphinx](https://open.spotify.com/album/3abIn07BJ2iEEsvKMuvIor) | 4:08 | 2025-07-31 |  |
 | [Spider Lily](https://open.spotify.com/track/2i4E0bXODdm6iiEw66AcVs) | [Don't Tell Iris](https://open.spotify.com/artist/0MqMcX6FlTLOR4YtqiAJui) | [Spider Lily](https://open.spotify.com/album/5sq9k6lbecxoMlyuDpzLKe) | 3:01 | 2026-02-02 |  |
+| [Spiderwebs](https://open.spotify.com/track/7HufGtcH7DHxk7OJNk9VBL) | [Kenny Black](https://open.spotify.com/artist/2PDLiAgkSAluHvPdAlMlvT) | [Spiderwebs](https://open.spotify.com/album/38IlA6sMTMj5nWiYa5lvLn) | 2:30 | 2026-10-31 |  |
 | [Spikes and Surges](https://open.spotify.com/track/4qO6n9JI3KdGE7LhIalQvn) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Spikes and Surges](https://open.spotify.com/album/6C7NQgx0lPU80jdVDhR7sh) | 4:21 | 2025-11-05 |  |
 | [Spineless](https://open.spotify.com/track/4Cy5jpUYzDtqJnG92ScMLB) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Spineless](https://open.spotify.com/album/7sF85MtuTpoUjZRlcdKK4A) | 3:50 | 2026-05-26 |  |
 | [Spirito](https://open.spotify.com/track/02TjmGXQJlFWIjMZHIirkM) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Progressioni](https://open.spotify.com/album/0dGmrzc0FxXhl5PuDPT4sf) | 3:51 | 2025-05-27 |  |

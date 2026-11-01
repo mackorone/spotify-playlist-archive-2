@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Kid Yugi, Lucio Corsi, Alfa, Gracie Abrams, Francesca Michielin e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,397 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,383 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sentire La Musica](https://open.spotify.com/track/70m2SuBHRCkxVpgqpXZPDk) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono Post Mortem](https://open.spotify.com/album/24tiscrrWYilMz3h3DCXYO) | 3:26 |
 | 2 | [Napoleone Buonanotte](https://open.spotify.com/track/2JbvlE5JTHu5ZE0evugA6I) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Napoleone Buonanotte](https://open.spotify.com/album/7yTyZ9574u0BgRhpeQt9rM) | 3:35 |
 | 3 | [Eri solo da incontrare](https://open.spotify.com/track/1G7rRciOGpVMJojr6ROuKv) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Eri solo da incontrare](https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg) | 2:58 |
-| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 5 | [Una spada nella roccia](https://open.spotify.com/track/3LXnxu7Eiu6ThZApudc52a) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Magia Bianca, Magia Nera](https://open.spotify.com/album/1A5BFtt4pcKnJy0qAHvUDE) | 3:45 |
 | 6 | [VAFFANCULO](https://open.spotify.com/track/23Tust6sDp7d7OBTqOTE7p) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [VAFFANCULO](https://open.spotify.com/album/0VdD10ddgdrGea9whypoBl) | 2:19 |
 | 7 | [PA' QUE LLORAR](https://open.spotify.com/track/2MWLMgTRRnV5cZm9VVYyTh) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [LA POSTAL](https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1) | 3:04 |

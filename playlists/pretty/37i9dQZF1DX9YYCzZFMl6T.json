@@ -1,12 +1,12 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8812,
+  "num_followers": 8822,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJycBGUP7cVwZbNlugD5X7id+4Fu",
+  "snapshot_id": "AAAAABl0YkUVwqBl03vAAR/BbeWk0GPw",
   "tracks": [
     {
       "added_at": "2026-10-23 04:01:33",
@@ -27,6 +27,22 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
+        "name": "A Very Special Christmas 2",
+        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Christmas All Over Again",
+      "url": "https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
         "name": "When It Snows In Texas",
         "url": "https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 166500,
       "name": "When It Snows In Texas",
       "url": "https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
-        "name": "A Very Special Christmas 2",
-        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Christmas All Over Again",
-      "url": "https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
-        "name": "Sings Simple Gifts",
-        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "Simple Gifts",
-      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
         "name": "Sing: Christmas Songs",
         "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 154440,
       "name": "I Heard The Bells On Christmas Day",
       "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
+        "name": "Sings Simple Gifts",
+        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "Simple Gifts",
+      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
-        "name": "we did a Christmas thing",
-        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 159784,
-      "name": "Christmas Is All Around",
-      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 245922,
       "name": "River",
       "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
+        "name": "we did a Christmas thing",
+        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 159784,
+      "name": "Christmas Is All Around",
+      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
+        "name": "For Christmas",
+        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "Blame It on the Mistletoe",
+      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 174841,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
-        "name": "For Christmas",
-        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
-      },
-      "artists": [
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "Blame It on the Mistletoe",
-      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+    },
+    {
+      "added_at": "2026-10-23 04:01:33",
+      "album": {
         "name": "The Sound of Christmas",
         "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-10-23 04:01:33",
       "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+        "name": "I'll Stay 'Til After Christmas",
+        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
         }
       ],
-      "duration_ms": 136566,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+      "duration_ms": 183933,
+      "name": "Christmas Is Coming Soon",
+      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     },
     {
       "added_at": "2026-10-23 04:01:33",
@@ -843,22 +859,6 @@
       "duration_ms": 233706,
       "name": "Send Me Out Like Autumn",
       "url": "https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J"
-    },
-    {
-      "added_at": "2026-10-23 04:01:33",
-      "album": {
-        "name": "I'll Stay 'Til After Christmas",
-        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Christmas Is Coming Soon",
-      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     }
   ],
   "unique_name": "Americana Christmas",

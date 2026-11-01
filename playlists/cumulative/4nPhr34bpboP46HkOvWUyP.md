@@ -4,10 +4,11 @@
 
 > ⭐ALL OF MY MUSIC: SOLO &amp; FEATURE WORK⭐
 
-69 songs - 3 hr 39 min
+70 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [ADDICTIONS](https://open.spotify.com/track/39jiBpZrl0EuPAkVIURK3N) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Sam.Avi](https://open.spotify.com/artist/1PL965p0zMKhwMWIXt9iHh), [Enoch](https://open.spotify.com/artist/1eApSp71ywW186fZquLihy) | [ADDICTIONS](https://open.spotify.com/album/18s3oteROHGvBtWcYOU7XM) | 3:06 | 2026-10-31 |  |
 | [against my shell](https://open.spotify.com/track/3NFCE6NPiC645n1yhHV3O7) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [against my shell](https://open.spotify.com/album/4v3lJ0GrI0VsPXhOizyIAm) | 2:34 | 2020-12-12 |  |
 | [BANG BANG \(MY BABY SHOT ME DOWN\)](https://open.spotify.com/track/0uz0qDHL80vqkEAOCs4Wum) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:28 | 2024-12-27 |  |
 | [BEAR YOUR FANGS](https://open.spotify.com/track/31bqp8q08EOV62NXr7bQSa) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [BEAR YOUR FANGS](https://open.spotify.com/album/0cKHSmukSYFb9O29FHcHDj) | 3:01 | 2024-08-08 |  |

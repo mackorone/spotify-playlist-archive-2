@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. Cover: Nagy Bogi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,544 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,543 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 6 | [Álom](https://open.spotify.com/track/0QdaRSJfQpVGd9ZiDraOEP) | [Liana](https://open.spotify.com/artist/26MyuyMwyf5BjZPaygBl0a) | [Ugyanúgy](https://open.spotify.com/album/6GpfZtlgsbWnU4C4puoEds) | 5:31 |
 | 7 | [Szerelemről szó sem volt](https://open.spotify.com/track/2yQfiAeyox5whrP36kLDGf) | [B\. Nagy Réka](https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1) | [Szerelemről szó sem volt](https://open.spotify.com/album/6vXRChx2zjp84lNiJQYByF) | 2:44 |
 | 8 | [fuss!](https://open.spotify.com/track/6eexTqPD6kEhaGnwpv12QZ) | [klou](https://open.spotify.com/artist/658THFg57KdcVZD90RmV21), [bankuti.d](https://open.spotify.com/artist/3Hkz07m0t4ZWx28V17uHHA) | [fuss!](https://open.spotify.com/album/7Bs9x2eJLPOIB4LJxcULlF) | 2:44 |
-| 9 | [Meredek](https://open.spotify.com/track/3I95UyZXJ3vEJBkyhv6JEu) | [Lenkke\_](https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr) | [Meredek](https://open.spotify.com/album/1MI1354mgUMkUVthQPX2of) | 3:11 |
+| 9 | [MEREDEK](https://open.spotify.com/track/3I95UyZXJ3vEJBkyhv6JEu) | [Lenkke\_](https://open.spotify.com/artist/4tX2dLblK9T1yJ9s6dYjZr) | [MEREDEK](https://open.spotify.com/album/1MI1354mgUMkUVthQPX2of) | 3:11 |
 | 10 | [Late Night Shift](https://open.spotify.com/track/0UnoJTlgAEfgcq1jm4nq1w) | [Czaffy](https://open.spotify.com/artist/3JEYel4jUUMiG1QgGUqt4h) | [Late Night Shift](https://open.spotify.com/album/4W3c4cpUpr9zBpY0yjUFkZ) | 3:12 |
 | 11 | [KICSI](https://open.spotify.com/track/4wgYyyaNCbUBiNqSHWdISd) | [Herceg Erika](https://open.spotify.com/artist/2wkHAzK5sbzwoDKW9rDtNU) | [KICSI](https://open.spotify.com/album/32FrFFXKlLh1MCyViFOHcC) | 3:24 |
 | 12 | [Main hoe](https://open.spotify.com/track/1MXazdZm0ezYXeMsish3JZ) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Main hoe](https://open.spotify.com/album/0efK3caC1OsdoNdSc4hHqc) | 2:47 |

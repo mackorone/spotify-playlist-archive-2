@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including AYLIVA, Monet192, Ikkimel, Sido, Bligg, Heimweh & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,148 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,154 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Für immer](https://open.spotify.com/track/3syJILv7CyZQ3ZSkm2xu5a) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Für immer](https://open.spotify.com/album/4k8BTY0xoGFomTmckK9hAL) | 3:04 |
 | 2 | [dear child](https://open.spotify.com/track/02TeK3Gb8g5abMIeDvSmVr) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [POV \(Personal \- Optimist \- ...\)](https://open.spotify.com/album/2HGSaouTojQVwhkHGIRIHn) | 2:46 |
 | 3 | [Riff Raff](https://open.spotify.com/track/5IBGnoBuExgsfVKww9IBkp) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Riff Raff](https://open.spotify.com/album/1mJkT0q4ALLISmcFs3lrQ1) | 2:25 |
-| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 5 | [Chayas & Cuzengs](https://open.spotify.com/track/60E2Hf6Sx8DMUOJAuW64ke) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Chayas & Cuzengs](https://open.spotify.com/album/7214cjupMlqPqOPzIY1tDX) | 2:19 |
 | 6 | [BACK TO LAGOS \(feat\. Gunna\)](https://open.spotify.com/track/1MFulYZ17VNHqJFfPK6HO1) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [CLARITY OF MIND \(EXTENDED\)](https://open.spotify.com/album/54pgmzJXyjWZmGOzRkU9ud) | 2:05 |
 | 7 | [THERAPY](https://open.spotify.com/track/4Y5ASSJwx1IXsCYDB2HE0T) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [THERAPY](https://open.spotify.com/album/0pTaAvNkKlkXJ5N4LcfXoZ) | 2:50 |

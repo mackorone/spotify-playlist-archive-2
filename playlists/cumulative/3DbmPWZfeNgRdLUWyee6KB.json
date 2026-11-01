@@ -8317,6 +8317,24 @@
     },
     {
       "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1"
+      },
+      "artists": [
+        {
+          "name": "Mia Hermann",
+          "url": "https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170404,
+      "name": "Fang mich auf",
+      "url": "https://open.spotify.com/track/2DtFCgX69morsn4q2rFggn"
+    },
+    {
+      "album": {
         "name": "Fan\u00e1tico del Rock And Roll",
         "url": "https://open.spotify.com/album/1MHoJyg99X7SO8Jihuiwr2"
       },

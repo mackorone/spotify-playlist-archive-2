@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: K4OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,119 likes - 108 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,108 likes - 108 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 94 | [La Rumbita](https://open.spotify.com/track/59dj8cinaG3Sg0ds1qn1tQ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [La Rumbita](https://open.spotify.com/album/03ZCLwCMJXGCFvaE8KEmnv) | 3:30 |
 | 95 | [Cómo Puede Ser?](https://open.spotify.com/track/45STZOAX95FC1sUTWSe0wP) | [Alan Lez](https://open.spotify.com/artist/2NNTPPCTbWZxnk2bS8gLD6) | [Cómo Puede Ser?](https://open.spotify.com/album/7bigWjdoxWqnKpbBTR8owB) | 2:20 |
 | 96 | [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:20 |
-| 97 | [Cansada de sanar](https://open.spotify.com/track/2CiSw3DA4Yk1E55vddWtma) | [Ernestina](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [Cansada de sanar](https://open.spotify.com/album/2MKioB9jM9WNvxPBMhJ9ZE) | 2:20 |
+| 97 | [CANSADA DE SANAR](https://open.spotify.com/track/2CiSw3DA4Yk1E55vddWtma) | [Ernestina](https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU) | [CANSADA DE SANAR](https://open.spotify.com/album/2MKioB9jM9WNvxPBMhJ9ZE) | 2:20 |
 | 98 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
 | 99 | [NO SOY COMO ELLAS!](https://open.spotify.com/track/00MyY4Pnrmr57O4eD9IJDs) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [NADIE DICE TE AMO](https://open.spotify.com/album/5kusk6cUuRUgUCtdLC0DMT) | 2:34 |
 | 100 | [Loco x mi](https://open.spotify.com/track/4LAzLKDW8xSiJc5ovROg0b) | [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9), [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr) | [Loco x mi](https://open.spotify.com/album/02UuPRIX2rQnJBusDmhIBC) | 2:02 |

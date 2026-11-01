@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Stadt aus Gold",
+        "url": "https://open.spotify.com/album/6XqupHB3SCyej5CT2ngDGb"
+      },
+      "artists": [
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158591,
+      "name": "Stadt aus Gold",
+      "url": "https://open.spotify.com/track/475jwu5RBpD1F0EcJXB07s"
+    },
+    {
+      "album": {
         "name": "DONT TRY THIS AT HOME",
         "url": "https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE"
       },

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Mylène Farmer x DJ Snake, Ronisia, TeddyBear et Gracie Abrams au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,628 likes - 84 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,614 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Combien pour la nuit](https://open.spotify.com/track/7gI8SNtmqxXMHwm04aWmRL) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Combien pour la nuit](https://open.spotify.com/album/5JHC4sDUVCc1PXe7hM9baV) | 3:34 |
 | 2 | [Replay](https://open.spotify.com/track/38bfxRHZXxdIgikV4xFYuP) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Sensation](https://open.spotify.com/album/7ssHO3Sljdx8vlZQGT4TRM) | 2:33 |
 | 3 | [Les Monstres](https://open.spotify.com/track/5uN0K0RK3aLnGdmppbeRoV) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Le Plus Beau](https://open.spotify.com/album/0UePPL79EhjZxsylVP6CJq) | 3:39 |
-| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 4 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 5 | [Koh\-Lanta](https://open.spotify.com/track/59vMTdfrk4H6Vua1y5YgRp) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J) | [Koh\-Lanta](https://open.spotify.com/album/3v8TLhsflfaLQWJfQHqTWY) | 2:39 |
 | 6 | [XXX](https://open.spotify.com/track/5mtzwk6cwqNgxCS6TCtOrv) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [XXX](https://open.spotify.com/album/4u1g17fxbFOwgKPtFkIKrx) | 2:10 |
 | 7 | [mononoke](https://open.spotify.com/track/53oxxT1yPpRlGiF6svD17o) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [mononoke](https://open.spotify.com/album/3vAbOmWlcBq56XtkiRcLAm) | 3:59 |

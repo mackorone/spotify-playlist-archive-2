@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAK3c/ymuoNqkJxy8JiwY6P1igV03TZ",
+  "snapshot_id": "AAAK4HCqy/eVq3GSBUF87j45nHHwxcGL",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -81795,6 +81795,54 @@
       "duration_ms": 284175,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/1jsk1IKcrcTh7yeV0JFgd1"
+    },
+    {
+      "added_at": "2026-10-31 22:44:57",
+      "album": {
+        "name": "Spiderwebs",
+        "url": "https://open.spotify.com/album/38IlA6sMTMj5nWiYa5lvLn"
+      },
+      "artists": [
+        {
+          "name": "Kenny Black",
+          "url": "https://open.spotify.com/artist/2PDLiAgkSAluHvPdAlMlvT"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Spiderwebs",
+      "url": "https://open.spotify.com/track/7HufGtcH7DHxk7OJNk9VBL"
+    },
+    {
+      "added_at": "2026-10-31 22:47:55",
+      "album": {
+        "name": "Its Time",
+        "url": "https://open.spotify.com/album/5DBlgRnRTh1puaXpm8ruEJ"
+      },
+      "artists": [
+        {
+          "name": "Travis Guidry",
+          "url": "https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp"
+        }
+      ],
+      "duration_ms": 117272,
+      "name": "Its Time",
+      "url": "https://open.spotify.com/track/4hOPMfgaWCAZTXLLED3r5N"
+    },
+    {
+      "added_at": "2026-10-31 22:51:48",
+      "album": {
+        "name": "Entrada",
+        "url": "https://open.spotify.com/album/6kenJ76Y8TJAuPcgZ1750P"
+      },
+      "artists": [
+        {
+          "name": "Wavediffraction",
+          "url": "https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd"
+        }
+      ],
+      "duration_ms": 187004,
+      "name": "Entrada",
+      "url": "https://open.spotify.com/track/2v2i3wcQIcYARJ2J1bCobj"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -4,7 +4,7 @@
 
 > The vibes
 
-40 songs - 2 hr 19 min
+41 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Surfin' Spooks](https://open.spotify.com/track/2R8t1qlB2wMiWwho1u3eYq) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 1:33 | 2024-10-17 |  |
 | [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 | 2024-10-14 |  |
 | [The Addams Family](https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music](https://open.spotify.com/album/5RoMbNYEFVEJyE1OX7VYsW) | 1:24 | 2024-10-14 |  |
+| [The Little Old Lady From Transylvania](https://open.spotify.com/track/5q74kBOtMeiJtQMC9XJIXz) | [The Ghouls](https://open.spotify.com/artist/41i7pX8b7UkyUBAMFKfJnT) | [Halloween With The Ghouls](https://open.spotify.com/album/5KqdSve1B4gDozDfTWWNwq) | 2:03 | 2026-11-01 |  |
 | [Tragedy](https://open.spotify.com/track/4fHjKoMUTv7PZ9HywAJMFP) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 3:56 | 2023-03-25 |  |
 | [Unicorn Tolerance](https://open.spotify.com/track/276BJyNe0CW6GPMjPtwcIa) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Goths \(Deluxe Version\)](https://open.spotify.com/album/1yJuS1MzCnoqG8IKZA6uuf) | 5:24 | 2025-10-01 |  |
 | [Unleash Your Spirit](https://open.spotify.com/track/21t9VLX5JNXLgVd2XNRFdq) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 2:17 | 2025-09-11 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY38HTJIe83j.md) - [plain]
 
 > A lovely mix of videos from your favorite indie artists\. Cover: Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 63 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214 likes - 63 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Small Town](https://open.spotify.com/track/2JeHeYLij5us2NILMwuq7F) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/6mrbA3NgqD7EFE72Msjjyp) | 3:06 |
+| 1 | [SMALL TOWN](https://open.spotify.com/track/2JeHeYLij5us2NILMwuq7F) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [SMALL TOWN](https://open.spotify.com/album/6mrbA3NgqD7EFE72Msjjyp) | 3:06 |
 | 2 | [Lost Boys](https://open.spotify.com/track/5jCIvo0SMGbBMYbPAzzijJ) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/27icmvQUsd2y0DHUEp9P0x) | 4:23 |
 | 3 | [of everyone in the world…](https://open.spotify.com/track/0YfpN0fhuguT8cnU7Yq4hV) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [of everyone in the world…](https://open.spotify.com/album/7fq7Yq9P2RVcJ1ivEuSHXE) | 2:59 |
 | 4 | [If I Had The Hand Of God](https://open.spotify.com/track/6wVCmbSXLzUKhEMlz43UDh) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [If I Had The Hand Of God](https://open.spotify.com/album/4Whoq1kdoih5V7VzeMYKQQ) | 2:51 |

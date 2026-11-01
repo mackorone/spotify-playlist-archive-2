@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10799,
+  "num_followers": 10798,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAADyc/helk9xQtYXKgy9F97z",
+  "snapshot_id": "auKMgAAAAADE4+sTe0MVK0OkhMHQvrxO",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give (B-Sides)",
-        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+        "name": "Outgrown Things",
+        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 237558,
-      "name": "No Silhouette",
-      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
+      "duration_ms": 241034,
+      "name": "Nineteen",
+      "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outgrown Things",
-        "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 241034,
-      "name": "Nineteen",
-      "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
+      "duration_ms": 237558,
+      "name": "No Silhouette",
+      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
     },
     {
       "added_at": null,

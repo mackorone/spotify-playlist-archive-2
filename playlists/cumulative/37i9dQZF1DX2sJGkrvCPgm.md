@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-529 songs - 1 day 8 hr 59 min
+530 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [From Heaven To Earth \(Joy To The World\)](https://open.spotify.com/track/0PrGjIdocNthK35qFKShB4) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God With Us](https://open.spotify.com/album/5mOQwwrpwCqlkFIMpuPVcX) | 3:48 | 2021-12-24 |  |
 | [Ghosts of Christmas Past](https://open.spotify.com/track/4DBb6RQjZdb7rGwwu4LRCS) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Decade the Halls, Vol\. 1.5](https://open.spotify.com/album/7wObxxyW3c0PF3AJU7iK3f) | 5:00 | 2026-10-30 |  |
 | [Gloria](https://open.spotify.com/track/3NQsYWCNwMTqseecKE7qqb) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Gloria](https://open.spotify.com/album/2QVOChxqLgh49XbPChUJdG) | 4:52 | 2026-10-30 |  |
-| [Gloria](https://open.spotify.com/track/2ky0xG7fajmQBSfxoyVlMF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/4Y7m2tcSdLbnw0KKolFZg3) | 4:12 | 2021-12-24 |  |
+| [Gloria](https://open.spotify.com/track/2ky0xG7fajmQBSfxoyVlMF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/4Y7m2tcSdLbnw0KKolFZg3) | 4:12 | 2021-12-24 | 2026-11-01 |
 | [Gloria](https://open.spotify.com/track/4hEybo6zpRz7Tffjfln4xA) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Christmas Sessions](https://open.spotify.com/album/5ekIltuFIN3m09eOBSWpF3) | 4:13 | 2021-12-24 | 2024-04-19 |
 | [Gloria \- Live](https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Emmanuel: Christmas Songs Of Worship \(Deluxe\)](https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al) | 3:37 | 2022-12-11 |  |
 | [Glory \(Let There Be Peace\)](https://open.spotify.com/track/6lJHZvzfzUEwnaaAySLD77) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:35 | 2021-12-24 | 2022-07-22 |
@@ -377,6 +377,7 @@
 | [O Holy Night](https://open.spotify.com/track/0Z2tPnz4xjlqSzS2v4Ehlb) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [O Holy Night](https://open.spotify.com/album/18A6dWxk3ZavJbYdlO8Fgd) | 3:53 | 2021-12-24 | 2022-07-27 |
 | [O Holy Night](https://open.spotify.com/track/6nf8KmoyumSOyNOIBsKCgV) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Christmas](https://open.spotify.com/album/22wy6SWWn8Z060twQibq0L) | 7:07 | 2021-12-24 | 2024-11-18 |
 | [O Holy Night](https://open.spotify.com/track/0ASDP6c7x7ObkzfJNXp0iy) | [Sarah Sparks](https://open.spotify.com/artist/1rNB96O30Md5JMUNgWwg99) | [Christmas Hymns](https://open.spotify.com/album/4z7DJjnZETFX7j9eNSM4DE) | 6:18 | 2025-11-28 |  |
+| [O Holy Night](https://open.spotify.com/track/6NG9uvqW6EDjwSkNSAXDRR) | [Scott Riggan](https://open.spotify.com/artist/4LKrGHKSO72cmoAxRi6Aat) | [O Holy Night](https://open.spotify.com/album/6BPJtqnlrcmfiI9gIgAmMJ) | 4:18 | 2026-10-30 |  |
 | [O Holy Night](https://open.spotify.com/track/2LqmbPc1ti3yGppE5Xy3Cq) | [Stephanie J\. Block](https://open.spotify.com/artist/4B6QaGBWXq8Y7tH7AMM3bN) | [O Holy Night](https://open.spotify.com/album/6prZ5iDuvCGMB465eNpout) | 5:58 | 2021-12-24 | 2024-12-01 |
 | [O Holy Night](https://open.spotify.com/track/6l5FMT9Q48hgJI6QynqZvn) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Rejoice! \(A Celtic Christmas\)](https://open.spotify.com/album/2fpYcIaEHetaRYy7SLU2fR) | 4:02 | 2025-11-16 | 2026-10-30 |
 | [O Holy Night](https://open.spotify.com/track/77t2jkqojne0vc9YDnJ3NP) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/42fwK8CU4k8YMq2d0rVxOO) | 4:52 | 2022-12-11 | 2023-06-07 |

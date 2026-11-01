@@ -100,7 +100,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 174000,
       "name": "+ DELOMISMO",
       "url": "https://open.spotify.com/track/2nfPnlcI5VDcZko1cO4Jof"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 166068,
       "name": "BABIECA!",
       "url": "https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3"
@@ -4772,6 +4772,32 @@
       "duration_ms": 187098,
       "name": "Body",
       "url": "https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75"
+    },
+    {
+      "album": {
+        "name": "Body (Remix)",
+        "url": "https://open.spotify.com/album/2WoUoufyL4ncq4ilxawdnS"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Body - Remix",
+      "url": "https://open.spotify.com/track/0jELnO3Z7O05HMMCUF9GBK"
     },
     {
       "album": {
@@ -8996,7 +9022,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 190901,
       "name": "Dama y Vagabundo",
       "url": "https://open.spotify.com/track/7FluWUa59Z3kXYdbguz8Wr"
@@ -33974,7 +34000,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 191580,
       "name": "SPICY",
       "url": "https://open.spotify.com/track/1lmGCKyRnoiRuuJQrNdsfB"
@@ -36182,10 +36208,28 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 177142,
       "name": "TRAMPA",
       "url": "https://open.spotify.com/track/52Vhx5T4MUIsIkar8D9Ovi"
+    },
+    {
+      "album": {
+        "name": "GANAR O MORIR",
+        "url": "https://open.spotify.com/album/6tSnMAY1NfVX5TbzfF6Ni1"
+      },
+      "artists": [
+        {
+          "name": "YOLAMASCARA",
+          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "TRAMPA",
+      "url": "https://open.spotify.com/track/5pld9A0fXxQHeZu2ecSuV5"
     },
     {
       "album": {
@@ -37756,7 +37800,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 174426,
       "name": "VAMOS PALL\u00c1",
       "url": "https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK"

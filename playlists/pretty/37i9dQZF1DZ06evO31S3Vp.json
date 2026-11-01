@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 209944,
+  "num_followers": 209967,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAABesiLfD7Zlw478wCBRZg1W",
+  "snapshot_id": "auKMgAAAAAA1Q9kwkUx9k1I56cG4J5Af",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 171679,
-      "name": "L\u00e1bia",
-      "url": "https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I"
+      "duration_ms": 227302,
+      "name": "R\u00e1dio",
+      "url": "https://open.spotify.com/track/4N2h6679PQaHUygVBcrZDO"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 227302,
-      "name": "R\u00e1dio",
-      "url": "https://open.spotify.com/track/4N2h6679PQaHUygVBcrZDO"
+      "duration_ms": 171679,
+      "name": "L\u00e1bia",
+      "url": "https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 236921,
-      "name": "VSF",
-      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+      "duration_ms": 255159,
+      "name": "A \u00daltima Noite",
+      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 255159,
-      "name": "A \u00daltima Noite",
-      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
+      "duration_ms": 236921,
+      "name": "VSF",
+      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
     },
     {
       "added_at": null,
@@ -524,29 +524,25 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 196658,
-      "name": "Me Beija Com Raiva",
-      "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
+      "duration_ms": 178186,
+      "name": "Imaturo",
+      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Coisas da Gera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k"
+        "name": "Louquinho",
+        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
       },
       "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 180213,
-      "name": "Andar Sozinho (feat. J\u00e3o)",
-      "url": "https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT"
+      "duration_ms": 176556,
+      "name": "Louquinho",
+      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
     },
     {
       "added_at": null,
@@ -592,25 +588,29 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 178186,
-      "name": "Imaturo",
-      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
+      "duration_ms": 196658,
+      "name": "Me Beija Com Raiva",
+      "url": "https://open.spotify.com/track/7kRhodBTcAQXGoZdTEw8fZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Louquinho",
-        "url": "https://open.spotify.com/album/3ibAprngolKW66RngB6cBs"
+        "name": "Coisas da Gera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k"
       },
       "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
         {
           "name": "J\u00e3o",
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 176556,
-      "name": "Louquinho",
-      "url": "https://open.spotify.com/track/3lEfEePgxGH2WwsB5fHC1K"
+      "duration_ms": 180213,
+      "name": "Andar Sozinho (feat. J\u00e3o)",
+      "url": "https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT"
     },
     {
       "added_at": null,

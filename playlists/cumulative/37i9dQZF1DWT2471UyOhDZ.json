@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 202626,
       "name": "All over me",
       "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
@@ -970,6 +970,24 @@
       "duration_ms": 247000,
       "name": "Bells and Whistles",
       "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
+    },
+    {
+      "album": {
+        "name": "Benjamin",
+        "url": "https://open.spotify.com/album/5YoD2IL272Cl7rWY64sOjq"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144936,
+      "name": "Benjamin",
+      "url": "https://open.spotify.com/track/4v7NvcYqZrlfmWmH8ZYUsz"
     },
     {
       "album": {
@@ -4939,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "L/C",
+        "url": "https://open.spotify.com/album/10mj7mGyCTMrbRgj0IE82i"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253484,
+      "name": "L/C",
+      "url": "https://open.spotify.com/track/5qtalyIqYJ8m2PxoNFywMy"
+    },
+    {
+      "album": {
         "name": "Night Life",
         "url": "https://open.spotify.com/album/3L09yca8KWKT7vNzVHKyQA"
       },
@@ -5260,7 +5296,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 301893,
       "name": "Lose All Your Friends",
       "url": "https://open.spotify.com/track/0kvAaEfGZnzBQaUmqUJ2ct"

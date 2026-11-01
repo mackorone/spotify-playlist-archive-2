@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Anendlessocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,966 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,990 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 9 | [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/track/4tK6DZ79o9u2jz6UcsmymR) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Those Who Belong \(Spontaneous Worship\)](https://open.spotify.com/album/7kuEekKDBcoPYKoBI1ChtW) | 17:03 |
 | 10 | [BOUNDLESS LOVE](https://open.spotify.com/track/037nCZ4isleHMcRyeAIv6C) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [LAMB](https://open.spotify.com/album/1bZ52j2YLxloVYBdVJJgGn) | 2:48 |
 | 11 | [Broken Me](https://open.spotify.com/track/52SrruoZ781WqSlA1Gc3n6) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Broken Me](https://open.spotify.com/album/6YNUVX1iuhuWQSijndoXV7) | 3:18 |
-| 12 | [Gods' Got Me](https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Gods' Got Me](https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa) | 3:06 |
+| 12 | [God's Got Me](https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [God's Got Me](https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa) | 3:06 |
 | 13 | [Dream Again \(Lofi\)](https://open.spotify.com/track/6EvjNME2PH1MTpEnraDJUA) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB), [The Lofi Christian](https://open.spotify.com/artist/7nPBddK18ZCiNbilAnpOoP) | [Sounds of Suubi \(Hope\)](https://open.spotify.com/album/1927etqFVjjebOMha4PLRy) | 2:48 |
 | 14 | [Mmeli Wami \- Live](https://open.spotify.com/track/7Aja0ZEVjg3L5kscHNkmTI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [Mmeli Wami \(Live\)](https://open.spotify.com/album/1oLmCNK6KyiqtV4wIwwdE0) | 6:12 |
 | 15 | [Dear Lord](https://open.spotify.com/track/1GypIZsEmGFqTbmUzkoEf4) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Dear Lord](https://open.spotify.com/album/4szZZ2krox5Qs3XC0lca1r) | 8:52 |

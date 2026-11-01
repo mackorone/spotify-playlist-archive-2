@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,941 likes - 186 songs - 11 hr 46 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,941 likes - 187 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,5 +194,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 184 | [Summer Song](https://open.spotify.com/track/335hkAMBvAGPN0twltJ7TP) | [Violinista](https://open.spotify.com/artist/1q84ZVdHAOekvmWbMpP37h) | [Summer Song](https://open.spotify.com/album/6i1BkQpvNiDExqSfCKWo8H) | 4:32 |
 | 185 | [Punk Rock Changed My Life](https://open.spotify.com/track/61bqm8GBhy0uVX4486D6Z8) | [SMFC](https://open.spotify.com/artist/37AQAlwmPfdt7xlzv0Wbsm) | [Unadulterated](https://open.spotify.com/album/7FDUbUbgQCAro9FM5zCn13) | 2:49 |
 | 186 | [Fist full of lies](https://open.spotify.com/track/3KL4wNDzQV6Rk7TpyPIk2z) | [Moral Demise](https://open.spotify.com/artist/2aJD3abHtV67hSLPptMQgM) | [Stomp](https://open.spotify.com/album/5I8CHzZpprQpuqxp1BpbCt) | 2:10 |
+| 187 | [Does She Love Me](https://open.spotify.com/track/0KscrUf74Y7ZYkXaryE1cu) | [Chaz Mason](https://open.spotify.com/artist/6IGb012Y9A2RHpb4m3v0dt) | [Does She Love Me](https://open.spotify.com/album/61WqmM4kmN6nHBhhlv8JP0) | 4:58 |
 
-Snapshot ID: `AAAM5xObGyoUHKhCR/x/9ybRqTrGgoCC`
+Snapshot ID: `AAAM6Mi5QX1IiFj6cKHKUTwKgIa8uj0L`

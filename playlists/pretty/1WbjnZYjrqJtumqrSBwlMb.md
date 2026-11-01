@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,347 songs - 3 day 11 hr 10 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 15 likes - 1,349 songs - 3 day 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1355,5 +1355,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1345 | [what happened to you](https://open.spotify.com/track/4JELLsTxh12ZPXVIppnznH) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 3:29 |
 | 1346 | [another word you say](https://open.spotify.com/track/5RJAYstQYFodU6domvYZb1) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 4:07 |
 | 1347 | [ice the bruise](https://open.spotify.com/track/4NoF85jfketuY00NXa5Mro) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [hunting what we already killed](https://open.spotify.com/album/2TXvLJ7iH63RwKGUFjypjM) | 2:55 |
+| 1348 | [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 |
+| 1349 | [traitoR](https://open.spotify.com/track/3EQ6LTNoHOGIWVJjAGkLyD) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 4:48 |
 
-Snapshot ID: `AAAKNWRwyO4x38Hx1pHDHGI3X3pTUVmq`
+Snapshot ID: `AAAKN96D4sTDfP/VN8ioIb7SIOMuirfo`

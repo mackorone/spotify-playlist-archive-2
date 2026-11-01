@@ -1,6 +1,6 @@
 {
   "description": "Lo m\u00e1s nuevo de la M\u00fasica Mexicana. Cover: Efecto Elegante \ud83d\udcf8",
-  "num_followers": 730555,
+  "num_followers": 730548,
   "original_name": "All New M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -652,12 +652,12 @@
       },
       "artists": [
         {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        },
-        {
           "name": "Traviezoz de la Zierra",
           "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
         }
       ],
       "duration_ms": 177272,

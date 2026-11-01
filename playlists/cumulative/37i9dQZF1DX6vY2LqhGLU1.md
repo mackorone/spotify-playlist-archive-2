@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-282 songs - 20 hr 15 min
+283 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Angels We Have Heard On High](https://open.spotify.com/track/4ETJMclUUGGn8YDV4N4XSb) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Angels We Have Heard On High](https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP) | 3:17 | 2022-11-26 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/1G7DbHCfOvmqTw51vrZEaZ) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Before The Manger](https://open.spotify.com/album/0igsJgvl3bpRWIB8p6FMGC) | 4:11 | 2024-10-27 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl) | [Angels We Have Heard On High](https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2) | 3:49 | 2022-11-26 | 2026-10-31 |
+| [Angels We Have Heard On High / All Hail King Jesus](https://open.spotify.com/track/4NhXoq1gIgFrrvZttiSpS4) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n), [Elevate Life Music](https://open.spotify.com/artist/7zmUou9bQc2X6YFKtkFUox), [Whitney Craft Jones](https://open.spotify.com/artist/4RoVFsaA0okp0wmL8IXvZ5) | [Angels We Have Heard On High / All Hail King Jesus](https://open.spotify.com/album/00ykNRQBJm37v9Kzsf5U14) | 4:19 | 2026-10-30 |  |
 | [Angels We Have Heard On High / Glorious](https://open.spotify.com/track/2E06L2ThigpDMmzzt6AuoQ) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Angels We Have Heard On High / Glorious](https://open.spotify.com/album/4ZWsgM6j41sMElnfT3Fs0O) | 4:13 | 2024-11-29 |  |
 | [Ave Maria](https://open.spotify.com/track/2tJ8Z1uvvrvxUC43OsVC8y) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Hymns: Advent](https://open.spotify.com/album/3roIp9N3qtpl6s82lBtC2d) | 2:16 | 2025-11-28 |  |
 | [Away In a Manger](https://open.spotify.com/track/6kqfTZO1rOY1M4Ilcc2noQ) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Comfort and Joy](https://open.spotify.com/album/6ln6oSxJB8fCXtTu4eezD9) | 3:20 | 2022-11-26 |  |
@@ -230,7 +231,7 @@
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2022-11-26 |  |
 | [Our King Has Come](https://open.spotify.com/track/55qWotxqUod4d6T4SjatSk) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Hope Of Christmas](https://open.spotify.com/album/1Zq89ub3yfNs4bMCMNy4gm) | 3:37 | 2025-10-26 |  |
 | [Our King Has Come \(Live\)](https://open.spotify.com/track/2fNd8uZp9GvyxJKHa6bOo0) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [For The Honor](https://open.spotify.com/album/7AF8bOSZOINrMfLOhZVydc) | 3:40 | 2022-11-26 |  |
-| [Peace Upon The Earth](https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:10 | 2022-11-26 |  |
+| [Peace Upon The Earth](https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/7jsfWfgCE3uUZGMm9TUZTM) | 4:10 | 2022-11-26 | 2026-11-01 |
 | [Prince of Peace](https://open.spotify.com/track/3EsFWsRElXU0ic8NgL4qJG) | [Celtic Worship](https://open.spotify.com/artist/0h2AQKpVBEEXQQ03KGf7ep), [Zerua Music](https://open.spotify.com/artist/0s7V4D5Pze7tmFl991No8G) | [Come Behold \(Deluxe Edition\)](https://open.spotify.com/album/7JcxtFaa7QGYiLAMFEEfIb) | 4:47 | 2026-10-30 |  |
 | [Prince of Peace](https://open.spotify.com/track/62XXY4qeQMOhpakL3dtM5s) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Abby Vaughn](https://open.spotify.com/artist/4km5sv7zwBA6fsuOnPsEJn) | [Advent: Here Now](https://open.spotify.com/album/6GC8erhaX8WtwXaROtsuan) | 4:19 | 2023-12-02 |  |
 | [Reggae Christmas Medley](https://open.spotify.com/track/1GhKTFDR6hZdMYFLzEYodT) | [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4) | [Reggae Christmas Medley](https://open.spotify.com/album/6Dkc0mzW9ZjT8E3DYghCwU) | 5:00 | 2022-11-26 |  |

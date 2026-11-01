@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Halloween With The Ghouls",
+        "url": "https://open.spotify.com/album/5KqdSve1B4gDozDfTWWNwq"
+      },
+      "artists": [
+        {
+          "name": "The Ghouls",
+          "url": "https://open.spotify.com/artist/41i7pX8b7UkyUBAMFKfJnT"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123909,
+      "name": "The Little Old Lady From Transylvania",
+      "url": "https://open.spotify.com/track/5q74kBOtMeiJtQMC9XJIXz"
+    },
+    {
+      "album": {
         "name": "Bee Dee Gee's Hee Bee Bee Gees",
         "url": "https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ"
       },

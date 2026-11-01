@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-775 songs - 1 day 13 hr 41 min
+776 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,7 +629,8 @@
 | [Sofrendo em Miami](https://open.spotify.com/track/5s6LDY4mrrIKHsceAXcw56) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/6A29zY0UL9ltCJNpx25tFP) | 2:52 | 2026-08-06 |  |
 | [Sofrendo em Miami](https://open.spotify.com/track/7iijOlRf0Sl5a4hNXYE0un) | [Zezo](https://open.spotify.com/artist/5R18GNmvBWGTfBAG0Xy8WT) | [De Bar em Bar](https://open.spotify.com/album/7HfyH5xOczzNsv0oInGzyE) | 2:52 | 2023-12-30 | 2024-03-26 |
 | [Sofrendo No Mercado](https://open.spotify.com/track/5f3Um6a4Euj9j5dXrRM2bp) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Outros 500](https://open.spotify.com/album/1ZIB0ralycQip2gjNJ1iTC) | 2:44 | 2023-12-30 |  |
-| [Sol](https://open.spotify.com/track/5cOwGFDhhTVZuJzIVb4cr4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO) | [The System](https://open.spotify.com/album/14CHWOXmNoxDjxwLCh76mo) | 3:55 | 2023-12-30 |  |
+| [Sol](https://open.spotify.com/track/0qtp1zByZQbEHZllyRZry4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO) | [The System](https://open.spotify.com/album/6uiHzFSsN84wpSJFkIHn18) | 3:55 | 2026-10-31 |  |
+| [Sol](https://open.spotify.com/track/5cOwGFDhhTVZuJzIVb4cr4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO) | [The System](https://open.spotify.com/album/14CHWOXmNoxDjxwLCh76mo) | 3:55 | 2023-12-30 | 2026-11-01 |
 | [Solinho](https://open.spotify.com/track/6GsBSfGuS1wWIJNRflDUXW) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [O Melhor Lugar do Mundo](https://open.spotify.com/album/5QfrJJedOgE6lE3zTO9eW7) | 2:37 | 2023-12-30 |  |
 | [Solteiro por Opção \- Ao Vivo](https://open.spotify.com/track/45jtxyT9bHFgm5OF5m2ZPz) | [Bruno & Rafa](https://open.spotify.com/artist/4ZL1DrfqfKCFj6x7WCxaBo) | [Na Raça, Completo \(Ao Vivo\)](https://open.spotify.com/album/5cDZ988LffrKYTddxGtUUI) | 3:00 | 2023-12-30 | 2025-11-14 |
 | [Solteiro por Opção \- Ao Vivo](https://open.spotify.com/track/68HbmQPWHKOa8lgSRpKa0y) | [Bruno & Rafa](https://open.spotify.com/artist/4ZL1DrfqfKCFj6x7WCxaBo) | [Na Raça, Completo \(Ao Vivo\)](https://open.spotify.com/album/1NcCK0Q8fzgLdIV1WjtW4i) | 3:00 | 2025-11-13 |  |

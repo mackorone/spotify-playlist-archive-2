@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 205065,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag"
@@ -13068,6 +13068,28 @@
       "duration_ms": 172725,
       "name": "Too Little, Too Late",
       "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
+    },
+    {
+      "album": {
+        "name": "Too Many Mamas",
+        "url": "https://open.spotify.com/album/61humYv625xsE25fSRSUhh"
+      },
+      "artists": [
+        {
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233754,
+      "name": "Too Many Mamas",
+      "url": "https://open.spotify.com/track/0x9dWzqBdPBgQf6IAsnMxN"
     },
     {
       "album": {

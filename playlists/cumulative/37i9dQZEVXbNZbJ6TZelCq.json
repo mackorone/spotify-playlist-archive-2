@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 138274,
       "name": "Are basul big",
       "url": "https://open.spotify.com/track/5288pWStsdWkmd6nHwQbue"
@@ -13796,7 +13796,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 218186,
       "name": "Doar Pentru Tine Amore",
       "url": "https://open.spotify.com/track/6La13QvdEXNkgvGdqaLnPX"
@@ -14840,7 +14840,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-04",
+      "date_removed": null,
       "duration_ms": 167203,
       "name": "E Adev\u0103rat",
       "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
@@ -23472,7 +23472,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 244600,
       "name": "Inima fara noroc",
       "url": "https://open.spotify.com/track/5DwFy1Hh4B6Net4HTuznM6"
@@ -30602,7 +30602,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 203920,
       "name": "MonCher",
       "url": "https://open.spotify.com/track/1S7tbZ8cDzZ0Pu2OOACEjX"
@@ -35400,7 +35400,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 137045,
       "name": "Parai",
       "url": "https://open.spotify.com/track/0DIzZP6fBEyud8dJV10M75"
@@ -39030,7 +39030,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 122608,
       "name": "Regele pe reggaeton",
       "url": "https://open.spotify.com/track/6iPBnOlhX2VSN8uVG3UEbo"
@@ -42120,10 +42120,28 @@
       ],
       "date_added": "2026-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 142627,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0NAAyTJAWiEcf1BnOAps5d"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/2cnHP1RKCTDYKyrRByy69K"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142654,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
     },
     {
       "album": {
@@ -45892,7 +45910,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 161632,
       "name": "Taj Mahal",
       "url": "https://open.spotify.com/track/5JVGD7bFXKxWbSt1KItPz0"
@@ -47722,7 +47740,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 193654,
       "name": "Ti-Am Sarutat Buzele",
       "url": "https://open.spotify.com/track/6WrdwQxdyRvWG1RpMnWMv3"

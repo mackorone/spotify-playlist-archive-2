@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6jilmZztlDC0XuSEwcxOCR"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/5rwkmcw5tPCSQMb3c8TIXh"
+    },
+    {
+      "album": {
         "name": "ALO ALO",
         "url": "https://open.spotify.com/album/1ngrdz8UblHoJBXhbbEjW2"
       },
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
@@ -4200,7 +4218,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 230769,
       "name": "Barabelli",
       "url": "https://open.spotify.com/track/7GgPzdY30svYA5j6mJkTrs"
@@ -9737,6 +9755,28 @@
     },
     {
       "album": {
+        "name": "D\u00f6nd\u00fcm (Emir Luca Remix)",
+        "url": "https://open.spotify.com/album/0g9TuxhxQjpFc89DxanLuq"
+      },
+      "artists": [
+        {
+          "name": "Bora Duran",
+          "url": "https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI"
+        },
+        {
+          "name": "Emir Luca",
+          "url": "https://open.spotify.com/artist/3iuCbMqCgONxQ54BU1jqae"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "D\u00f6nd\u00fcm - Emir Luca Remix",
+      "url": "https://open.spotify.com/track/082ln0dUiZhrsTLeuVRcxa"
+    },
+    {
+      "album": {
         "name": "D\u00f6nm\u00fcyor Giden",
         "url": "https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq"
       },
@@ -10236,7 +10276,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 124303,
       "name": "El clasico",
       "url": "https://open.spotify.com/track/5LAEpESzf1svMqWmpcu66c"
@@ -14482,7 +14522,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 149626,
       "name": "Her Nerdeysen",
       "url": "https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU"
@@ -15758,7 +15798,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 264829,
       "name": "I\u015f\u0131kl\u0131 Yol",
       "url": "https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ"
@@ -21722,7 +21762,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 185216,
       "name": "nap\u0131yosun mesela ?",
       "url": "https://open.spotify.com/track/5QxnPSQq5E2N07b4n5zxGK"
@@ -23780,7 +23820,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 153012,
       "name": "PES",
       "url": "https://open.spotify.com/track/5cu5POjyl3VqfvyjObDW8v"
@@ -26186,7 +26226,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 264000,
       "name": "Senden Adam Olmaz",
       "url": "https://open.spotify.com/track/4X9NLFpBdwWWruSSMjkzia"

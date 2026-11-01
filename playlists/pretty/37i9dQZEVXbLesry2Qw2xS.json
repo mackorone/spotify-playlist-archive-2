@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Estonia.",
-  "num_followers": 20934,
+  "num_followers": 20937,
   "original_name": "Top 50 - Estonia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MngdOAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MnluuAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "TEINE VAATUS",
-        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
-      },
-      "artists": [
-        {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "n \u00e4 e m e . v e e l",
-      "url": "https://open.spotify.com/track/6Xix7ZYy5L0gZ3fbiuhr9s"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "MOOSEKANDID",
         "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
@@ -45,7 +29,23 @@
       "url": "https://open.spotify.com/track/1S4EWxfez8GEf9u9TVYNMB"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "TEINE VAATUS",
+        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "n \u00e4 e m e . v e e l",
+      "url": "https://open.spotify.com/track/6Xix7ZYy5L0gZ3fbiuhr9s"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "TEINE VAATUS",
         "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
@@ -61,23 +61,7 @@
       "url": "https://open.spotify.com/track/0OacuGWQf2mjW1gS3Bv9o6"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "TEINE VAATUS",
-        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
-      },
-      "artists": [
-        {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 190688,
-      "name": "t \u00e4 n a s e s s e . u s k u",
-      "url": "https://open.spotify.com/track/044fQEJ0kQOp6DZWYfwhVa"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "TEINE VAATUS",
         "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/6zv52nzFcVGnURgCdVJTuO"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "TEINE VAATUS",
+        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 190688,
+      "name": "t \u00e4 n a s e s s e . u s k u",
+      "url": "https://open.spotify.com/track/044fQEJ0kQOp6DZWYfwhVa"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "TEINE VAATUS",
         "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/1Q2jehvieGvXzTDjZ3bzT6"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "TEINE VAATUS",
-        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
-      },
-      "artists": [
-        {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "k e l m i k a s",
-      "url": "https://open.spotify.com/track/2VZA7s7U6bGNk2aGI3AjL2"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "TEINE VAATUS",
         "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
@@ -141,55 +125,7 @@
       "url": "https://open.spotify.com/track/3FF5tRui8BPNnyQEW3SiTT"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "TEINE VAATUS",
-        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
-      },
-      "artists": [
-        {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "k \u00f5 i k . m i s . e i . t a p a",
-      "url": "https://open.spotify.com/track/3KoBO2gDAfGxks57FDC8ig"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "TEINE VAATUS",
-        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
-      },
-      "artists": [
-        {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 162209,
-      "name": "l a u l u . s e e s t . v \u00e4 l j a . e i . s a a",
-      "url": "https://open.spotify.com/track/0JqP3VKEcEidaw4P01XYxh"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "TEINE VAATUS",
-        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
-      },
-      "artists": [
-        {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "l \u00f5 p u n i",
-      "url": "https://open.spotify.com/track/7wNlxNoWGIgjrNAYdyJBDV"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -205,7 +141,71 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "TEINE VAATUS",
+        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 162209,
+      "name": "l a u l u . s e e s t . v \u00e4 l j a . e i . s a a",
+      "url": "https://open.spotify.com/track/0JqP3VKEcEidaw4P01XYxh"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "TEINE VAATUS",
+        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "k e l m i k a s",
+      "url": "https://open.spotify.com/track/2VZA7s7U6bGNk2aGI3AjL2"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "TEINE VAATUS",
+        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "k \u00f5 i k . m i s . e i . t a p a",
+      "url": "https://open.spotify.com/track/3KoBO2gDAfGxks57FDC8ig"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "TEINE VAATUS",
+        "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "l \u00f5 p u n i",
+      "url": "https://open.spotify.com/track/7wNlxNoWGIgjrNAYdyJBDV"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "TEINE VAATUS",
         "url": "https://open.spotify.com/album/1UrsejzBNaJGmoM03cxnAZ"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4iAe3q26vkTtu6JX9xtZOD"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "esmasp\u00e4ev",
         "url": "https://open.spotify.com/album/5jIPRS5QBNZX6GPz0yMQVD"
@@ -237,23 +237,7 @@
       "url": "https://open.spotify.com/track/3ZX3J83WPmbmoq70Al0Eqo"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "PROBLEEMID PARADIISIS",
-        "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
-      },
-      "artists": [
-        {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "Igavene",
-      "url": "https://open.spotify.com/track/0JAplnL7Ef2TlqR4N43ro3"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "rongikupee",
         "url": "https://open.spotify.com/album/1VkhlVaEgzTJFMIXn8VnSH"
@@ -269,7 +253,7 @@
       "url": "https://open.spotify.com/track/64jb8SxezH0agNBuu8V36V"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "IS IT ESTONIA?!",
         "url": "https://open.spotify.com/album/4VW0bbCIyLiLVOCDp3giJX"
@@ -289,7 +273,23 @@
       "url": "https://open.spotify.com/track/4UHSjO56yPy1KLO39fZ0as"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "PROBLEEMID PARADIISIS",
+        "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "Igavene",
+      "url": "https://open.spotify.com/track/0JAplnL7Ef2TlqR4N43ro3"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "kesselaid",
         "url": "https://open.spotify.com/album/5Xj5MBgXRVBrIy9ruIym5D"
@@ -309,63 +309,7 @@
       "url": "https://open.spotify.com/track/1uMPjLjqazWiaPrk5oohaG"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "SUPERSUURE HOOLEGA. DELUXE.",
-        "url": "https://open.spotify.com/album/4ILtZd24F0FWUtKtikUKoe"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        },
-        {
-          "name": "Vaiko Eplik",
-          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "LAUSU T\u00d5TT",
-      "url": "https://open.spotify.com/track/60nhpVqBiKhD6YB6wVe0hT"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "mr. at\u0161koo",
-        "url": "https://open.spotify.com/album/7ey9Q9wA7CdYoVOwrcKOuy"
-      },
-      "artists": [
-        {
-          "name": "villemdrillem",
-          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
-        },
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 179619,
-      "name": "mr. at\u0161koo",
-      "url": "https://open.spotify.com/track/2dZLX4zN7hvCnzZAZbebJq"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "Seksikas",
         "url": "https://open.spotify.com/album/7vH8rQIEs1mJCqZ6ooa1gg"
@@ -389,7 +333,83 @@
       "url": "https://open.spotify.com/track/0ULAnWCSYdabqwe6lKHbxm"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "Keset Teed",
+        "url": "https://open.spotify.com/album/1MYUApNa26hhIEWBHT9X79"
+      },
+      "artists": [
+        {
+          "name": "Qotid",
+          "url": "https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa"
+        },
+        {
+          "name": "Mirjam Olesk",
+          "url": "https://open.spotify.com/artist/6H8XgOLM0LbORXGetytaws"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Keset Teed",
+      "url": "https://open.spotify.com/track/27rYvkhtla38u0tWEhIe5R"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "SUPERSUURE HOOLEGA. DELUXE.",
+        "url": "https://open.spotify.com/album/4ILtZd24F0FWUtKtikUKoe"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        },
+        {
+          "name": "Vaiko Eplik",
+          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "LAUSU T\u00d5TT",
+      "url": "https://open.spotify.com/track/60nhpVqBiKhD6YB6wVe0hT"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "mr. at\u0161koo",
+        "url": "https://open.spotify.com/album/7ey9Q9wA7CdYoVOwrcKOuy"
+      },
+      "artists": [
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        },
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 179619,
+      "name": "mr. at\u0161koo",
+      "url": "https://open.spotify.com/track/2dZLX4zN7hvCnzZAZbebJq"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "kanuu",
         "url": "https://open.spotify.com/album/1ZBHJDmgKBcpjpv2zK6tbm"
@@ -421,27 +441,7 @@
       "url": "https://open.spotify.com/track/1DYnCz8lfVmSCiDZLl0AsH"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "Emotikon",
-        "url": "https://open.spotify.com/album/7qChEi3KJiiYuYZq79Wq01"
-      },
-      "artists": [
-        {
-          "name": "Arg Part",
-          "url": "https://open.spotify.com/artist/7ptB41iMNEx7qqZE80aTLw"
-        },
-        {
-          "name": "s\u00e4m",
-          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
-        }
-      ],
-      "duration_ms": 191018,
-      "name": "Emotikon",
-      "url": "https://open.spotify.com/track/3Y9TzAZ201AfunnPJlFWit"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "\u041a\u0440\u0430\u0441\u0438\u0432\u043e\u0435 \u0417\u043b\u043e",
         "url": "https://open.spotify.com/album/4LisYd48F2iJ9zTThNfjWj"
@@ -461,59 +461,7 @@
       "url": "https://open.spotify.com/track/6MtUSSf9h4s2lKkkkXdu5J"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "SUPERSUURE HOOLEGA. DELUXE.",
-        "url": "https://open.spotify.com/album/4ILtZd24F0FWUtKtikUKoe"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        },
-        {
-          "name": "Vaiko Eplik",
-          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "TIPUS ULUB TUUL",
-      "url": "https://open.spotify.com/track/1uVBbFLDRLGv0LV9sxiw4J"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 199460,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "Vaadi Hele (chug chug)",
-        "url": "https://open.spotify.com/album/7vLmFkzB0dklCpegSfSl68"
-      },
-      "artists": [
-        {
-          "name": "Kermo Murel",
-          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Vaadi hele (chug chug)",
-      "url": "https://open.spotify.com/track/0neOGgUXx8onOu46hlXKNc"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "K\u00e4tu",
         "url": "https://open.spotify.com/album/2f3YIKhG2qmey5F1d89suj"
@@ -537,43 +485,59 @@
       "url": "https://open.spotify.com/track/5rfdCGDxFyDoGiJVzGW16z"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
-        "name": "teineteiseta",
-        "url": "https://open.spotify.com/album/63LP0zFyZLuqsn4wB4FiUC"
+        "name": "SUPERSUURE HOOLEGA. DELUXE.",
+        "url": "https://open.spotify.com/album/4ILtZd24F0FWUtKtikUKoe"
       },
       "artists": [
         {
-          "name": "Karl-Erik Taukar",
-          "url": "https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X"
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
         },
         {
-          "name": "An-Marlen",
-          "url": "https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx"
+          "name": "Vaiko Eplik",
+          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
         }
       ],
-      "duration_ms": 160137,
-      "name": "teineteiseta",
-      "url": "https://open.spotify.com/track/0kosK9Z5RhcLrua0KM9zmM"
+      "duration_ms": 168461,
+      "name": "TIPUS ULUB TUUL",
+      "url": "https://open.spotify.com/track/1uVBbFLDRLGv0LV9sxiw4J"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
-        "name": "PROBLEEMID PARADIISIS",
-        "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
+        "name": "Vaadi Hele (chug chug)",
+        "url": "https://open.spotify.com/album/7vLmFkzB0dklCpegSfSl68"
       },
       "artists": [
         {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
         }
       ],
-      "duration_ms": 236307,
-      "name": "Luukered",
-      "url": "https://open.spotify.com/track/5egnjZzhZLuNXluoMmEC6t"
+      "duration_ms": 169714,
+      "name": "Vaadi hele (chug chug)",
+      "url": "https://open.spotify.com/track/0neOGgUXx8onOu46hlXKNc"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "MOOSEKANDID",
+        "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
+      },
+      "artists": [
+        {
+          "name": "PRODIGYBOYS",
+          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
+        }
+      ],
+      "duration_ms": 133069,
+      "name": "TIIGER",
+      "url": "https://open.spotify.com/track/4cX7Y21yMBeGK8hDsdTKZt"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -593,55 +557,47 @@
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
-        "name": "L\u00e4mmi",
-        "url": "https://open.spotify.com/album/1a1M6hOoFGIbWY5P3DrD7y"
+        "name": "teineteiseta",
+        "url": "https://open.spotify.com/album/63LP0zFyZLuqsn4wB4FiUC"
       },
       "artists": [
         {
-          "name": "K\u00fcber\u00fcnnak & Karmo",
-          "url": "https://open.spotify.com/artist/55I7E3FxDsnuRqr0sQSrMf"
+          "name": "Karl-Erik Taukar",
+          "url": "https://open.spotify.com/artist/0IBo1QzwnBeD4N8WS5aD5X"
+        },
+        {
+          "name": "An-Marlen",
+          "url": "https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx"
         }
       ],
-      "duration_ms": 194682,
-      "name": "L\u00e4mmi",
-      "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
+      "duration_ms": 160137,
+      "name": "teineteiseta",
+      "url": "https://open.spotify.com/track/0kosK9Z5RhcLrua0KM9zmM"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
-        "name": "PROBLEEMID PARADIISIS",
-        "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
+        "name": "Emotikon",
+        "url": "https://open.spotify.com/album/7qChEi3KJiiYuYZq79Wq01"
       },
       "artists": [
         {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Kolmest soovist viimane",
-      "url": "https://open.spotify.com/track/1L5mFtFhrOae6PCBoEOQUz"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "PROBLEEMID PARADIISIS",
-        "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
-      },
-      "artists": [
+          "name": "Arg Part",
+          "url": "https://open.spotify.com/artist/7ptB41iMNEx7qqZE80aTLw"
+        },
         {
-          "name": "SADU",
-          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+          "name": "s\u00e4m",
+          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
         }
       ],
-      "duration_ms": 194117,
-      "name": "Eks sa ise otsusta",
-      "url": "https://open.spotify.com/track/6H185nWC1FcihgEbRKsphB"
+      "duration_ms": 191018,
+      "name": "Emotikon",
+      "url": "https://open.spotify.com/track/3Y9TzAZ201AfunnPJlFWit"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "maolensinu",
         "url": "https://open.spotify.com/album/7A5XyJ19WZcntGvA97phyE"
@@ -657,91 +613,23 @@
       "url": "https://open.spotify.com/track/12YCLxofqkR6KZJpAqWxR5"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
-        "name": "MOOSEKANDID",
-        "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
+        "name": "PROBLEEMID PARADIISIS",
+        "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
       },
       "artists": [
         {
-          "name": "PRODIGYBOYS",
-          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
         }
       ],
-      "duration_ms": 182686,
-      "name": "BEIBE",
-      "url": "https://open.spotify.com/track/6NjdgyfD4uSjdTkaVzsczU"
+      "duration_ms": 236307,
+      "name": "Luukered",
+      "url": "https://open.spotify.com/track/5egnjZzhZLuNXluoMmEC6t"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "MOOSEKANDID",
-        "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
-      },
-      "artists": [
-        {
-          "name": "PRODIGYBOYS",
-          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
-        }
-      ],
-      "duration_ms": 133069,
-      "name": "TIIGER",
-      "url": "https://open.spotify.com/track/4cX7Y21yMBeGK8hDsdTKZt"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "Inkubaator",
-        "url": "https://open.spotify.com/album/1rF0EfqQe08a2bIv4daGQy"
-      },
-      "artists": [
-        {
-          "name": "Arg Part",
-          "url": "https://open.spotify.com/artist/7ptB41iMNEx7qqZE80aTLw"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Nagu Filmis",
-      "url": "https://open.spotify.com/track/3TrU01Yjs8ViuIkPh8eSpu"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "MOOSEKANDID",
-        "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
-      },
-      "artists": [
-        {
-          "name": "PRODIGYBOYS",
-          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
-        },
-        {
-          "name": "Kermo Murel",
-          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
-        }
-      ],
-      "duration_ms": 161633,
-      "name": "PRILLID PEAS",
-      "url": "https://open.spotify.com/track/4O1gSIDP13zB3PZhcjkZ7w"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "vastu puud",
         "url": "https://open.spotify.com/album/7vBfF4FzQ9KzEt0YjZ1e7n"
@@ -765,95 +653,23 @@
       "url": "https://open.spotify.com/track/3gx2AJdz4o5kqb2HUdyf61"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "L\u00e4mmi",
+        "url": "https://open.spotify.com/album/1a1M6hOoFGIbWY5P3DrD7y"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "K\u00fcber\u00fcnnak & Karmo",
+          "url": "https://open.spotify.com/artist/55I7E3FxDsnuRqr0sQSrMf"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 194682,
+      "name": "L\u00e4mmi",
+      "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "XX - 20 AASTAT METEORIITIDE SAJUS",
-        "url": "https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF"
-      },
-      "artists": [
-        {
-          "name": "Smilers",
-          "url": "https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Ainult unustamiseks",
-      "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "Shotta's.",
-        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
-      },
-      "artists": [
-        {
-          "name": "Season 25",
-          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
-        }
-      ],
-      "duration_ms": 142613,
-      "name": "Shotta's.",
-      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo"
-      },
-      "artists": [
-        {
-          "name": "Buckshot",
-          "url": "https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq"
-        },
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 144521,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
-      "album": {
-        "name": "MOOSEKANDID",
-        "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
-      },
-      "artists": [
-        {
-          "name": "PRODIGYBOYS",
-          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
-        },
-        {
-          "name": "kanapoeg",
-          "url": "https://open.spotify.com/artist/4DcfUd6vtd91yzX7F5FA83"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "TEGIN PAHANDUST",
-      "url": "https://open.spotify.com/track/0OrC7xWVSZa9i1QTCJpbGX"
-    },
-    {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "MOOSEKANDID",
         "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
@@ -869,7 +685,7 @@
       "url": "https://open.spotify.com/track/01Kz0R5u6fzDhD1iIxXw36"
     },
     {
-      "added_at": "2026-10-30 14:06:27",
+      "added_at": "2026-10-31 14:09:45",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -887,6 +703,198 @@
       "duration_ms": 206622,
       "name": "viinaingel",
       "url": "https://open.spotify.com/track/3llyYmTWZDBGCZH76jF4ck"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "Inkubaator",
+        "url": "https://open.spotify.com/album/1rF0EfqQe08a2bIv4daGQy"
+      },
+      "artists": [
+        {
+          "name": "Arg Part",
+          "url": "https://open.spotify.com/artist/7ptB41iMNEx7qqZE80aTLw"
+        }
+      ],
+      "duration_ms": 311200,
+      "name": "Nagu Filmis",
+      "url": "https://open.spotify.com/track/3TrU01Yjs8ViuIkPh8eSpu"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "XX - 20 AASTAT METEORIITIDE SAJUS",
+        "url": "https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF"
+      },
+      "artists": [
+        {
+          "name": "Smilers",
+          "url": "https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Ainult unustamiseks",
+      "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "PROBLEEMID PARADIISIS",
+        "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
+      },
+      "artists": [
+        {
+          "name": "SADU",
+          "url": "https://open.spotify.com/artist/15lwjkERMR7PNuyja5wX5K"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Kolmest soovist viimane",
+      "url": "https://open.spotify.com/track/1L5mFtFhrOae6PCBoEOQUz"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "MOOSEKANDID",
+        "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
+      },
+      "artists": [
+        {
+          "name": "PRODIGYBOYS",
+          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
+        }
+      ],
+      "duration_ms": 182686,
+      "name": "BEIBE",
+      "url": "https://open.spotify.com/track/6NjdgyfD4uSjdTkaVzsczU"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "\u00f5lleavaja",
+        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
+      },
+      "artists": [
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/5JhljRLzNxMRHho5AoQzAM"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "XX - 20 AASTAT METEORIITIDE SAJUS",
+        "url": "https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF"
+      },
+      "artists": [
+        {
+          "name": "Smilers",
+          "url": "https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/5c7Mswm6Ueq0nKlgH3rTwQ"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/2cnHP1RKCTDYKyrRByy69K"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "duration_ms": 142654,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "MOOSEKANDID",
+        "url": "https://open.spotify.com/album/5AmT4VLHzi8IG7T63hBioC"
+      },
+      "artists": [
+        {
+          "name": "PRODIGYBOYS",
+          "url": "https://open.spotify.com/artist/31iPwhyJeGRard5sLii6qf"
+        },
+        {
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
+        }
+      ],
+      "duration_ms": 161633,
+      "name": "PRILLID PEAS",
+      "url": "https://open.spotify.com/track/4O1gSIDP13zB3PZhcjkZ7w"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "armastatud",
+        "url": "https://open.spotify.com/album/3dmjMZY7aFiWs6gPKf2efB"
+      },
+      "artists": [
+        {
+          "name": "EiK 2509",
+          "url": "https://open.spotify.com/artist/3U0NdaCegcpzmmrIFradRB"
+        },
+        {
+          "name": "boipepperoni",
+          "url": "https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY"
+        }
+      ],
+      "duration_ms": 227299,
+      "name": "armastatud",
+      "url": "https://open.spotify.com/track/31Xy2EPTJmg2UPz1CudinL"
+    },
+    {
+      "added_at": "2026-10-31 14:09:45",
+      "album": {
+        "name": "emotsionaalne elektronmuusika",
+        "url": "https://open.spotify.com/album/3JiE4r47p4i2kBmU8TQCXY"
+      },
+      "artists": [
+        {
+          "name": "An-Marlen",
+          "url": "https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx"
+        },
+        {
+          "name": "boipepperoni",
+          "url": "https://open.spotify.com/artist/0MjPNmazpZOmBH1nOMaeQY"
+        },
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "100 roosi",
+      "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
     }
   ],
   "unique_name": "Top 50 - Estonia",

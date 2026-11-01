@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5aLMfjiruumRxGGkZpYdTQ">Ben \(of Waterboutus\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 6 hr 42 min
+162 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Soft](https://open.spotify.com/track/73pOCqJVVHoyMLH3orprph) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:08 | 2026-06-09 |  |
 | [Some2Prove / Tea Time](https://open.spotify.com/track/3Njm5IIFsj6wMh4kRkabgc) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Say Less \(Bonus\)](https://open.spotify.com/album/6C9yE5GnQrsrHjXexRn1Cc) | 3:37 | 2026-06-09 | 2026-06-17 |
 | [Song 2](https://open.spotify.com/track/6xEa5BXEjrJrJoztiYNnCs) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 2:20 | 2026-10-03 |  |
+| [Stadt aus Gold](https://open.spotify.com/track/475jwu5RBpD1F0EcJXB07s) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Stadt aus Gold](https://open.spotify.com/album/6XqupHB3SCyej5CT2ngDGb) | 2:38 | 2026-10-31 |  |
 | [STERBEN UM ZU LEBEN](https://open.spotify.com/track/0kR0gl8L3TxGWWRagBKYog) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [DONT TRY THIS AT HOME](https://open.spotify.com/album/34Px3Z7ut9gBJhCsDsasJE) | 1:45 | 2026-06-09 |  |
 | [Sterne nehmen](https://open.spotify.com/track/7krJEPoDd5WlEHSE6LqQWe) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Bossbaby Tape](https://open.spotify.com/album/5GWhPUtYOpjZo28JNQaFzq) | 3:23 | 2026-06-09 |  |
 | [stich in mein herz](https://open.spotify.com/track/3XDP4nGBcE0sXjDukzAlz1) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY) | [stich in mein herz](https://open.spotify.com/album/0JCCjiK9p9mm9DaOBzQa5q) | 2:07 | 2026-06-09 |  |

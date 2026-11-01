@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: Radio Free Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,611 likes - 175 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,594 likes - 175 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

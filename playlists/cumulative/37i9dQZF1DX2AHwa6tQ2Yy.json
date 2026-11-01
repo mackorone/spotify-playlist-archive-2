@@ -4083,6 +4083,28 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/1ZeDNZewEmvewYHodpbW1e"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Sarsha Simone",
+          "url": "https://open.spotify.com/artist/2vkHrZOutYeSMnvW6K6IZw"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168482,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/6DZoMlHPA6CvrabWgCD3nm"
+    },
+    {
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh"
       },
@@ -7454,7 +7476,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 194227,
       "name": "Turnaround",
       "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"

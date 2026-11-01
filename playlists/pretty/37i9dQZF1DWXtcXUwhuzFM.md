@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Sara Bee, louna0nline, Blind Channel..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,050 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,051 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 3 | [oikees](https://open.spotify.com/track/5PafEFpYfVg7SUNc8T8Bdq) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy), [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [starseed](https://open.spotify.com/album/0VUd4XVqLzcLlp6rez60Eb) | 3:25 |
 | 4 | [TOP TIER](https://open.spotify.com/track/6sEMr6wCHGQcXdEuy2O8yQ) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [\#YOLO \(DELUXE\)](https://open.spotify.com/album/5qGkMcngv1e35X1leRj0Ht) | 3:07 |
 | 5 | [Ilmasta tehtyjä \(Vain elämää kausi 17\)](https://open.spotify.com/track/1YG5HRgMoDmZK0kn4DfwWi) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Ilmasta tehtyjä \(Vain elämää kausi 17\)](https://open.spotify.com/album/2nj0gHVdvrBXKveBOlGkFj) | 2:38 |
-| 6 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 6 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 7 | [Dark Summer](https://open.spotify.com/track/73kiSnCRwEKlFqT5Ir1Lt8) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Dark Summer \(Rise Outtakes\)](https://open.spotify.com/album/7AP5XmEEjBNbdWRYsmJbTl) | 3:11 |
 | 8 | [Ihminen \(Vain elämää kausi 17\)](https://open.spotify.com/track/68y4a4W1V6GyrmHBE6a08h) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Ihminen \(Vain elämää kausi 17\)](https://open.spotify.com/album/3ro9SQ9APRP92P4ItiLHds) | 2:38 |
 | 9 | [MAN CAVE](https://open.spotify.com/track/5M2kdkyOtpZHPkJ82psTVp) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [MAN CAVE](https://open.spotify.com/album/2NsUpZwEYfP9ewN2t6My5F) | 4:10 |

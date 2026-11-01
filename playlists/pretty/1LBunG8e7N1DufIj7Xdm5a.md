@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,013 songs - 11 day 8 hr 21 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 5,016 songs - 11 day 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5021,5 +5021,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 5011 | [Boots By The Door](https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Boots By The Door](https://open.spotify.com/album/5DlaXWnCS75sNV0YQSQPmg) | 2:26 |
 | 5012 | [Come On Home](https://open.spotify.com/track/5FzC2qoqgm0o621K6jQ6Kp) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Come On Home](https://open.spotify.com/album/2Wh6xDm9kiExycfUEJpiSX) | 3:41 |
 | 5013 | [Only Human](https://open.spotify.com/track/1jsk1IKcrcTh7yeV0JFgd1) | [Decybel](https://open.spotify.com/artist/3eM6ibGISvLDXrJDqlB9eb) | [Only Human](https://open.spotify.com/album/4so6QfPlbj4lbNIrMVo5yX) | 4:44 |
+| 5014 | [Spiderwebs](https://open.spotify.com/track/7HufGtcH7DHxk7OJNk9VBL) | [Kenny Black](https://open.spotify.com/artist/2PDLiAgkSAluHvPdAlMlvT) | [Spiderwebs](https://open.spotify.com/album/38IlA6sMTMj5nWiYa5lvLn) | 2:30 |
+| 5015 | [Its Time](https://open.spotify.com/track/4hOPMfgaWCAZTXLLED3r5N) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [Its Time](https://open.spotify.com/album/5DBlgRnRTh1puaXpm8ruEJ) | 1:57 |
+| 5016 | [Entrada](https://open.spotify.com/track/2v2i3wcQIcYARJ2J1bCobj) | [Wavediffraction](https://open.spotify.com/artist/76q0NXdh3xAMgtSVhmpHpd) | [Entrada](https://open.spotify.com/album/6kenJ76Y8TJAuPcgZ1750P) | 3:07 |
 
-Snapshot ID: `AAAK3c/ymuoNqkJxy8JiwY6P1igV03TZ`
+Snapshot ID: `AAAK4HCqy/eVq3GSBUF87j45nHHwxcGL`

@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Zion.T)",
-  "num_followers": 64549,
+  "num_followers": 64551,
   "original_name": "K-R&B Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADD5yLEADK5NNW1vruzUzZnVv+nA",
+  "snapshot_id": "AAAAACNu05FsqFAAgh/o+xWwL/CtHPIa",
   "tracks": [
     {
       "added_at": "2026-10-15 12:43:55",
@@ -59,6 +59,22 @@
       "duration_ms": 194393,
       "name": "jenga",
       "url": "https://open.spotify.com/track/7hlQ7F3hNZqKHc5luDj03z"
+    },
+    {
+      "added_at": "2026-10-31 04:59:48",
+      "album": {
+        "name": "JOURNEY",
+        "url": "https://open.spotify.com/album/5FXBk0VWk4OduYHMMbBn8E"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 248982,
+      "name": "Life Is Life",
+      "url": "https://open.spotify.com/track/4SwbuL0i9XorhDoS0uP5s0"
     },
     {
       "added_at": "2026-10-15 12:43:55",
@@ -523,26 +539,6 @@
       "duration_ms": 208105,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/7zOyWqFGjoSjswmWWDukhA"
-    },
-    {
-      "added_at": "2026-10-09 04:39:10",
-      "album": {
-        "name": "T (Feat. George)",
-        "url": "https://open.spotify.com/album/06R10OehS6NkRZlho922fe"
-      },
-      "artists": [
-        {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 159625,
-      "name": "T (Feat. George)",
-      "url": "https://open.spotify.com/track/7qK03HQmLzHFXWXvBMSbMy"
     },
     {
       "added_at": "2026-10-09 04:39:10",

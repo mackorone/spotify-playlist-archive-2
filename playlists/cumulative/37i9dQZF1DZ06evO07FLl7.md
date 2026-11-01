@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-174 songs - 10 hr 42 min
+175 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Vida de Atriz](https://open.spotify.com/track/732QVXOOu5EZjyWstNa6VS) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v) | 2:48 | 2025-11-15 | 2026-04-19 |
 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 | 2023-09-18 |  |
 | [Xiu!](https://open.spotify.com/track/0NYRFJNrpRDuSIPN3rIXF6) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Xiu!](https://open.spotify.com/album/4o97mTInUQ1tkh8QlbryaB) | 3:17 | 2023-09-18 | 2023-11-11 |
-| [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 | 2023-09-18 |  |
+| [Yin & Yang](https://open.spotify.com/track/7rDEDwwR5vaGebQu6cuLQf) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang](https://open.spotify.com/album/3I8JKSdYyuwOGLd24SVOvc) | 3:22 | 2026-11-01 |  |
+| [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 | 2023-09-18 | 2026-11-01 |
 
 \*This playlist was first scraped on 2023-09-19. Prior content cannot be recovered.

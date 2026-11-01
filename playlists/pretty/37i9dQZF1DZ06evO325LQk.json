@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38527,
+  "num_followers": 38526,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAABBQPRZp0Z41U+3/zV2JWhc",
+  "snapshot_id": "auKMgAAAAADmVNaEh5WS3iOAy6ob2wIb",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blaze That Ass",
-        "url": "https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL"
+        "name": "Hi This Is Flume (Mixtape)",
+        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
       "artists": [
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
         }
       ],
-      "duration_ms": 175714,
-      "name": "Blaze That Ass",
-      "url": "https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z"
+      "duration_ms": 287331,
+      "name": "Is It Cold In The Water? - Flume & Eprom Remix",
+      "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
     },
     {
       "added_at": null,
@@ -303,42 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi This Is Flume (Mixtape)",
-        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
+        "name": "Blaze That Ass",
+        "url": "https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
         },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Eprom",
-          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
-        }
-      ],
-      "duration_ms": 287331,
-      "name": "Is It Cold In The Water? - Flume & Eprom Remix",
-      "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MSMSMSM",
-        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
-      },
-      "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
+      "duration_ms": 175714,
+      "name": "Blaze That Ass",
+      "url": "https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
       "duration_ms": 167458,
       "name": "La Ch\u00edqui",
       "url": "https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MSMSMSM",
+        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
     },
     {
       "added_at": null,
@@ -800,7 +800,7 @@
       "added_at": null,
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
+        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 327093,
-      "name": "Push Emission (Whore Moans)",
-      "url": "https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx"
+      "duration_ms": 265788,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
     }
   ],
   "unique_name": "This Is SOPHIE",

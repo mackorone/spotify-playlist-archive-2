@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-15",
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
-  "name": "Lista de LOS40 (Oficial) - Karol G, Judeline y rusowsky el N\u00ba1",
+  "name": "Lista de LOS40 (Oficial) - Olivia Dean",
   "tracks": [
     {
       "album": {
@@ -5018,7 +5018,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 158149,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/0i4sWDxoPeQBiSySgL5cnd"
@@ -7798,6 +7798,24 @@
       "duration_ms": 172891,
       "name": "Un Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
+    },
+    {
+      "album": {
+        "name": "no fue real",
+        "url": "https://open.spotify.com/album/1FwjLwFWI7cQsG9zk91pXx"
+      },
+      "artists": [
+        {
+          "name": "Chiara Oliver",
+          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196657,
+      "name": "una m\u00e1s",
+      "url": "https://open.spotify.com/track/1BofOBdi3HLPpUfiQyJFuk"
     },
     {
       "album": {

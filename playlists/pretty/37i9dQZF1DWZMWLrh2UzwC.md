@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Insomniacks, XONE, JISOO, Dominic Fike, Gracie Abrams, Hael Husaini, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,343 likes - 114 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,333 likes - 114 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ADDICTED](https://open.spotify.com/track/0SqDNsDiJyvrbXGsIvt0hN) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ADDICTED](https://open.spotify.com/album/0vUguBVUu74NEtzLdXh4X5) | 2:59 |
 | 2 | [CASTING CALL](https://open.spotify.com/track/3El0PldZjIxF1olHHzhUxW) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 1:56 |
-| 3 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 3 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 4 | [Salahkah Ku Bahagia](https://open.spotify.com/track/0zhrmJX1Yf4wMumK9YVlXh) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP), [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo) | [KAMI INSOMNIACKS](https://open.spotify.com/album/6PHlKw6G1gY3SSuq4rfpxY) | 5:15 |
 | 5 | [Selesa](https://open.spotify.com/track/1P3Eyb3d119wA5AH4BhQrj) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Selesa](https://open.spotify.com/album/232Qa7xuykRTLUblmklKmd) | 3:22 |
 | 6 | [Patah Dua](https://open.spotify.com/track/3LsNU9ORUe4n8nK4AezbEt) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Patah Dua](https://open.spotify.com/album/56S66AvVQ8B1DjX5qcFbP6) | 2:42 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 109 | [Dare Me](https://open.spotify.com/track/25z8lSImljTzcHOJDfZaTp) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Dare Me](https://open.spotify.com/album/1A9wIkzz0hVCcZeYxjbgVn) | 4:03 |
 | 110 | [Better The Devil](https://open.spotify.com/track/3W4zImas4jXwf3M0CVVB6V) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Better The Devil](https://open.spotify.com/album/4cEpmCAk0YC4TTXnx9ZQNu) | 3:13 |
 | 111 | [IMITATE](https://open.spotify.com/track/42GoMVuTK8BXAMpJXDxg9d) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [IMITATE](https://open.spotify.com/album/4Q2vZIVKADXCKegHeyDCAC) | 3:09 |
-| 112 | [Just Got Back](https://open.spotify.com/track/0NOIH6xAQ7at7GLXGcX8ri) | [LUKA](https://open.spotify.com/artist/0mWphO3aY3NhULMXoX1s0d) | [Just Got Back](https://open.spotify.com/album/3TG4LP90ir5KQePuIGQWab) | 2:37 |
+| 112 | [Just Got Back](https://open.spotify.com/track/0NOIH6xAQ7at7GLXGcX8ri) | [LUKA](https://open.spotify.com/artist/5Cs6O4YAOFpBpIMQu1MFne) | [Just Got Back](https://open.spotify.com/album/3TG4LP90ir5KQePuIGQWab) | 2:37 |
 | 113 | [Curtains](https://open.spotify.com/track/3kILm8G5dGyE4pUAYUF0le) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Alvilde](https://open.spotify.com/album/03IebqmFblCZNbiHxUOm3F) | 3:00 |
 | 114 | [mrs brightside](https://open.spotify.com/track/0AkoqnejiMuGx0MzNNq53B) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [mrs brightside](https://open.spotify.com/album/2FQM0yX3Q15A4lspfYuvnT) | 2:49 |
 

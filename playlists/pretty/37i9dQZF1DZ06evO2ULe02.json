@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 2144,
+  "num_followers": 2146,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAACNIivH3lqU/IAptKVaiLsZ",
+  "snapshot_id": "auKMgAAAAADDWX5vbcWyLvqQ8fQVwWfh",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 250253,
-      "name": "contact high",
-      "url": "https://open.spotify.com/track/140LUknhC8JRQ2zRzYicwN"
+      "duration_ms": 180893,
+      "name": "reading into it",
+      "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
     },
     {
       "added_at": null,
@@ -180,25 +180,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 180893,
-      "name": "reading into it",
-      "url": "https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 136828,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
+      "duration_ms": 250253,
+      "name": "contact high",
+      "url": "https://open.spotify.com/track/140LUknhC8JRQ2zRzYicwN"
     },
     {
       "added_at": null,
@@ -215,6 +199,22 @@
       "duration_ms": 189954,
       "name": "Twenty Something",
       "url": "https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Alright If You're Ok",
+        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 171938,
+      "name": "I Can't Be Your Friend",
+      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "autonomy+",
         "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 189538,
       "name": "Hands On (feat. Aidan Bissett)",
       "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Alright If You're Ok",
-        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 171938,
-      "name": "I Can't Be Your Friend",
-      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
     },
     {
       "added_at": null,

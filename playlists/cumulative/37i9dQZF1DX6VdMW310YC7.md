@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,942 songs - 5 day 11 hr 42 min
+1,943 songs - 5 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,7 @@
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-24 | 2024-03-23 |
 | [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-04-05 | 2024-12-14 |
 | [Hotel Moonlight](https://open.spotify.com/track/4et2maqfvMaZiori5YatgZ) | [Trashlagoon](https://open.spotify.com/artist/2Ceq5nkABzryK0OkaQYtzg), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Hotel Moonlight](https://open.spotify.com/album/3xySt2iiPTbv98AIo1Ug4p) | 4:41 | 2020-03-22 | 2022-04-21 |
-| [Hours](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Hours](https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN) | 4:08 | 2024-12-06 |  |
+| [Hours](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Hours](https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN) | 4:08 | 2024-12-06 | 2026-11-01 |
 | [House Of The Rising Sun](https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [House Of The Rising Sun](https://open.spotify.com/album/4bplLIBUWTi43ZySUAPL0I) | 2:18 | 2022-01-28 | 2023-07-08 |
 | [How Does It Feel](https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [How Does It Feel](https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U) | 4:57 | 2024-04-19 | 2024-08-31 |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2020-11-20 | 2022-12-29 |
@@ -1580,6 +1580,7 @@
 | [Starlight](https://open.spotify.com/track/7lYGmGag8kjKIhYt6Y65a8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/1f27ATRGBUjd7HxAYWRAs2) | 3:43 | 2020-05-18 | 2020-07-18 |
 | [Stars \(feat\. Haley\)](https://open.spotify.com/track/3CBSazHvVcqFDP9EnOmk5N) | [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Summer Feels \- EP](https://open.spotify.com/album/3uhfuZ398DO04cdnp8ic86) | 3:52 | 2020-05-18 | 2020-07-18 |
 | [Start A Fire](https://open.spotify.com/track/28cYQJKDB6tiGSDzHAVAPE) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Start A Fire](https://open.spotify.com/album/3UTBLc4db5ykQ5m6Pp5VJq) | 3:51 | 2025-10-03 | 2025-10-18 |
+| [Start Again](https://open.spotify.com/track/4pGVqPQ16iUfwE1kooCdLB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Start Again](https://open.spotify.com/album/43X6TZVig2360nHCauKFBc) | 5:16 | 2026-10-30 |  |
 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 | 2025-04-04 | 2025-12-20 |
 | [Stay](https://open.spotify.com/track/7w86jiNM1neRMCbkhvjYyo) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8), [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Strangers Dream](https://open.spotify.com/album/4SeZQJZpVSQpWNCyKO5pru) | 5:22 | 2021-03-14 | 2022-07-28 |
 | [Stay](https://open.spotify.com/track/716VJhE66ugznJ3u08gofV) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Sophie and the Bom Boms](https://open.spotify.com/artist/3CzcBE7wIy9pCYEyraRZ5A) | [Sleepless EP](https://open.spotify.com/album/38NuIhP25TzDy8kqki5XzM) | 3:23 | 2020-05-18 | 2020-07-03 |

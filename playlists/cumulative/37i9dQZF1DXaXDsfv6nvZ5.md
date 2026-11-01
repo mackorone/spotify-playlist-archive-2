@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: John Legend
 
-1,013 songs - 2 day 12 hr 13 min
+1,014 songs - 2 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-10-14 |
 | [Far Away](https://open.spotify.com/track/15TSeUwFv4YAbtxleSPU7J) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Far Away](https://open.spotify.com/album/0ITMYKdS5PdE1cZ1QNdvLy) | 2:48 | 2024-07-05 | 2024-08-28 |
 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 | 2024-08-09 | 2025-05-24 |
+| [Favourite Girl](https://open.spotify.com/track/4dzexuh5iUbzVDCfTGvpcz) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Favourite Girl](https://open.spotify.com/album/6lkFxfusm38ggcoTcbZIdZ) | 3:12 | 2026-09-25 |  |
 | [Fear \(Hey Friend\)](https://open.spotify.com/track/3zmvft4eR9t60iTGnCtRcg) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Fear \(Hey Friend\)](https://open.spotify.com/album/7az5Kk2n36CTxGvI4RP0Lg) | 3:18 | 2026-01-23 | 2026-05-09 |
 | [Fear When You Fly](https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Fear When You Fly](https://open.spotify.com/album/1Dve6i5g4D9Xw2GJCb9xOZ) | 3:40 | 2024-11-01 |  |
 | [Feel](https://open.spotify.com/track/6WxxFT9MzFntsebivQkxXB) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Alchemy](https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a) | 3:50 | 2026-07-24 | 2026-08-22 |
@@ -792,7 +793,7 @@
 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 | 2023-07-28 | 2024-07-20 |
 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 | 2023-06-09 | 2024-03-15 |
 | [Smoke](https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Smoke](https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf) | 3:03 | 2024-10-18 | 2025-03-18 |
-| [SO BEAUTIFUL](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [SO BEAUTIFUL](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 |  |
+| [SO BEAUTIFUL](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [SO BEAUTIFUL](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 | 2026-11-01 |
 | [So Distracted](https://open.spotify.com/track/0ngHbClCf9nU3XhflzdLuo) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Duets](https://open.spotify.com/album/34lwRHpFW4m8x0bxfSoiBO) | 4:10 | 2024-08-23 | 2024-08-31 |
 | [So Fine](https://open.spotify.com/track/2aFiUHeO8qy6LoWpjUUCQV) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [MyGuyMars](https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6) | [2BHONEST](https://open.spotify.com/album/14a2wFgqpnKtMmQUtHMcpZ) | 3:45 | 2025-08-22 | 2026-01-24 |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 | 2023-10-01 |

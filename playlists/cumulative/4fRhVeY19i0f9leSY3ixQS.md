@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,631 songs - 6 day 2 hr 38 min
+2,632 songs - 6 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [BABY](https://open.spotify.com/track/0FXolQSTuBnZI98CC1N01P) | [Arranque 22](https://open.spotify.com/artist/2dqWiumN7x0FmbWDTzGpiZ) | [BABY](https://open.spotify.com/album/65KCy7vFtkLH38PuhPBwiV) | 1:36 | 2026-03-12 | 2026-03-31 |
 | [Back For You](https://open.spotify.com/track/24vB9KU0Js72mkIUehOLLy) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Back For You](https://open.spotify.com/album/6BegE1id4r7qCygofzNGTb) | 4:06 | 2026-03-10 | 2026-03-31 |
 | [Back In Early 00's](https://open.spotify.com/track/7E999lKzlhXOxmXnzI3ZgG) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Back In Early 00's](https://open.spotify.com/album/205K7PtnliKtZ57qtHHRiU) | 3:13 | 2025-12-08 | 2026-01-06 |
-| [Back Into My Arms](https://open.spotify.com/track/4pHo57BvIRjmhpbs4TSEIs) | [Xeno Primates](https://open.spotify.com/artist/0mJelbA3iWrJJi49LoM2YZ) | [Back Into My Arms](https://open.spotify.com/album/7i4CIpNEr3A978Bni6r8I5) | 3:22 | 2026-10-01 |  |
+| [Back Into My Arms](https://open.spotify.com/track/4pHo57BvIRjmhpbs4TSEIs) | [Xeno Primates](https://open.spotify.com/artist/0mJelbA3iWrJJi49LoM2YZ) | [Back Into My Arms](https://open.spotify.com/album/7i4CIpNEr3A978Bni6r8I5) | 3:22 | 2026-10-01 | 2026-11-01 |
 | [Back On Your Feet](https://open.spotify.com/track/3gPAdQvu9PExAWr5hbXPxK) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Losers](https://open.spotify.com/album/60YzuZSiP70vLK5O88RNkZ) | 3:03 | 2026-09-16 | 2026-10-17 |
 | [Back To Basics](https://open.spotify.com/track/3ce1urmIWIREtH1Y4dBTEB) | [Dubinski](https://open.spotify.com/artist/28QbbtfH9j2mOoswDXnDKk) | [Back To Basics](https://open.spotify.com/album/5amTufixRQr2xido4RUaRg) | 3:58 | 2026-07-09 | 2026-08-10 |
 | [Back to First Place](https://open.spotify.com/track/0whtoWSCHflwjvwjPgGMFi) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Back to First Place](https://open.spotify.com/album/3L3cHkldRssEqumJFVx3Rn) | 2:52 | 2026-06-27 | 2026-07-18 |
@@ -186,7 +186,7 @@
 | [Baseball](https://open.spotify.com/track/1vdPO4IBGF2KE6n48tYPop) | [AudioDollar](https://open.spotify.com/artist/1WoWYiudhyvqM9ojW77BcU) | [Serious](https://open.spotify.com/album/2zj5JEBSDeaW3NWmFfxAFf) | 3:18 | 2025-11-15 | 2025-12-10 |
 | [Basic](https://open.spotify.com/track/7Hkf08j1vDBHYijn3wGDiq) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 3:20 | 2025-08-03 |  |
 | [Bastards Reign](https://open.spotify.com/track/610FhcvhxP4AtrUShyKyPn) | [We Made God](https://open.spotify.com/artist/1WjKBxFohkwZBgXHiVlVg7) | [Select/Restart](https://open.spotify.com/album/7I464LAWOJzToXlIMt0JbA) | 2:54 | 2025-12-11 | 2026-01-06 |
-| [Bat an Eye](https://open.spotify.com/track/5TCkprkGKb2Q7pYn2O4h7h) | [Clone the Wolf](https://open.spotify.com/artist/3BwdNhwGbhUpfSZVIRFnzd) | [Bat an Eye](https://open.spotify.com/album/5XkQTxPZTLW4w30lc46eyP) | 3:09 | 2026-10-01 |  |
+| [Bat an Eye](https://open.spotify.com/track/5TCkprkGKb2Q7pYn2O4h7h) | [Clone the Wolf](https://open.spotify.com/artist/3BwdNhwGbhUpfSZVIRFnzd) | [Bat an Eye](https://open.spotify.com/album/5XkQTxPZTLW4w30lc46eyP) | 3:09 | 2026-10-01 | 2026-11-01 |
 | [Bataclan](https://open.spotify.com/track/5VOROxYkFKI2xucoJGC5DJ) | [Dancalia](https://open.spotify.com/artist/5TWeW4Lehv7sMrtBBVDNsD) | [Bataclan](https://open.spotify.com/album/4GTVEPNTFCzPti59ofn2S0) | 3:31 | 2025-12-21 | 2026-01-15 |
 | [Batting Practice](https://open.spotify.com/track/1t504uSC7of6InLVFb2HJO) | [Aviation Lane](https://open.spotify.com/artist/4TxwOjLbKes4kiVvgIusUb) | [Batting Practice](https://open.spotify.com/album/7wzaUis8pTyH89mIRixNKb) | 2:39 | 2026-06-26 | 2026-07-28 |
 | [Battleground](https://open.spotify.com/track/1py6E8WMoKcoYhUD1wcqWn) | [Porcelain Doll](https://open.spotify.com/artist/4n8eye3Db1AEn7numzMbiV) | [Beauty and Control, Pt.2](https://open.spotify.com/album/71IiVP4gxP49X1jPcgv5oU) | 2:29 | 2026-08-21 | 2026-09-21 |
@@ -200,6 +200,7 @@
 | [Bedtime Stories](https://open.spotify.com/track/5cSDsuQai72NebrmAEp7jU) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Tales of Middle Age](https://open.spotify.com/album/3Ys3n6OkQJl7U0FqnVsLmE) | 5:09 | 2026-09-25 |  |
 | [Beer Inside](https://open.spotify.com/track/4d3t1JrapBN6NvZCYXnmGW) | [Calima Fox](https://open.spotify.com/artist/4QWak6ur6HXYTHgfgdSDbn) | [Motor Sands](https://open.spotify.com/album/2bocN5xWCkwFF7zOIxgRoO) | 3:17 | 2026-06-10 | 2026-07-12 |
 | [Before It's Too Late](https://open.spotify.com/track/6IdxAzlM1h5wkM6JRztFUh) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM), [JET](https://open.spotify.com/artist/6mIbZws8iW0fnafaUnlNJz) | [Before It's Too Late](https://open.spotify.com/album/5IMxv9leayaxEaPw3swLWr) | 2:57 | 2026-04-03 | 2026-04-24 |
+| [Before the Black](https://open.spotify.com/track/7lpUInFkKu3BRsVMzGdlgr) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Burn the Old Maps](https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth) | 3:23 | 2026-10-31 |  |
 | [Before The Dawn Of Blades](https://open.spotify.com/track/3T0nMHkufK7ahjA8QLqorJ) | [Arpegiah](https://open.spotify.com/artist/0ZihJ2XzTIi1kNypZT7Sfd) | [Before The Dawn Of Blades](https://open.spotify.com/album/5nk2DZWSPqL3I5Av7YVNPu) | 5:05 | 2026-04-15 | 2026-05-08 |
 | [Beggin](https://open.spotify.com/track/0EIjTYShuIzEYnnNS6czmA) | [Tyler Stone](https://open.spotify.com/artist/55QiKm9RTRMdRuZarwQD1S) | [Beggin](https://open.spotify.com/album/2ILOHe2qW8mGPLmV5mAuXx) | 3:29 | 2026-08-19 | 2026-09-19 |
 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 | 2026-08-04 | 2026-08-26 |
@@ -2154,7 +2155,7 @@
 | [SYNCHRONISE](https://open.spotify.com/track/4WahUNo8MbgaRb2J9XlB1d) | [AITKEN](https://open.spotify.com/artist/1MLTzskLFbXeHDoL98LZZz) | [SYNCHRONISE](https://open.spotify.com/album/1mdNBVINpDl4aqraHZTAnV) | 3:45 | 2026-04-18 | 2026-05-08 |
 | [SYSTEM GLITCH](https://open.spotify.com/track/0eEHmNWaCtW4Ez0E0KdbSx) | [Alex Sandra](https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [SYSTEM GLITCH](https://open.spotify.com/album/7cyCBitHRwgVU1SzNTVWVS) | 2:54 | 2026-05-11 | 2026-05-30 |
 | [T\-shirt](https://open.spotify.com/track/1ObOI5SS3jk5m0kmhFVlD4) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:59 | 2025-08-03 | 2026-09-09 |
-| [T.O.M.](https://open.spotify.com/track/4H9UazyBy4tzV823JYgBbC) | [Halfway To Neptune](https://open.spotify.com/artist/4mBlUkbS7gxRnnho7DNYHy) | [T.O.M.](https://open.spotify.com/album/3TDgNy9GACvsoHaOdEYgxn) | 2:40 | 2026-10-01 |  |
+| [T.O.M.](https://open.spotify.com/track/4H9UazyBy4tzV823JYgBbC) | [Halfway To Neptune](https://open.spotify.com/artist/4mBlUkbS7gxRnnho7DNYHy) | [T.O.M.](https://open.spotify.com/album/3TDgNy9GACvsoHaOdEYgxn) | 2:40 | 2026-10-01 | 2026-11-01 |
 | [Take A Bow](https://open.spotify.com/track/5V10D0PxNgH98EpqRMXxxw) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Universe 25](https://open.spotify.com/album/74qK46Kw9RtqHtul77uvHy) | 3:20 | 2026-10-01 |  |
 | [Take A Chance](https://open.spotify.com/track/4xrJe5mSSpzPEDyjaEALI9) | [Ruminator](https://open.spotify.com/artist/7rCv2ogPDCtilVgdVLWtZQ) | [Take A Chance](https://open.spotify.com/album/0jbeFSZQp03h7FrIc5yEyu) | 4:34 | 2025-12-27 | 2026-01-22 |
 | [Take It](https://open.spotify.com/track/5jegQWKmBwdGwqJSIUDMkG) | [Mark Anthony Bartolo](https://open.spotify.com/artist/7rXIDYfKkJbsGH9ZQimGAK) | [Take It](https://open.spotify.com/album/7CJqqdp3IjQ1zPeoDqf85K) | 3:16 | 2026-10-11 |  |

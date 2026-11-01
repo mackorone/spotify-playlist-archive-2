@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 21707,
+  "num_followers": 21716,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Never Gunna Be the Same",
-        "url": "https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3"
-      },
-      "artists": [
-        {
-          "name": "Tomi Agape",
-          "url": "https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "London",
-      "url": "https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Where Dem Dey",
         "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 202648,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4cobcXNVYowm5a8gdfCsiz"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Never Gunna Be the Same",
+        "url": "https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3"
+      },
+      "artists": [
+        {
+          "name": "Tomi Agape",
+          "url": "https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "London",
+      "url": "https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/25ReKrxbR8qbwhzO3LiU9A"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191179,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2dWEzqyLmdbUTTzf8TXn9Z"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/3renF2gJdJPDKIWwPPZQu6"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Lifesize Teddy",
-        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
-      },
-      "artists": [
-        {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "sundays",
         "url": "https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 174000,
       "name": "sundays",
       "url": "https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Lifesize Teddy",
+        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -1063,8 +1063,8 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Call on Me",
-        "url": "https://open.spotify.com/album/4QIHSb34WjV0yDj2f4eLPb"
+        "name": "Coconut Lips",
+        "url": "https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q"
       },
       "artists": [
         {
@@ -1074,15 +1074,11 @@
         {
           "name": "Tomi Thomas",
           "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
-        },
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
         }
       ],
-      "duration_ms": 180705,
-      "name": "Call on Me",
-      "url": "https://open.spotify.com/track/4G46ARDqN8E5FmXbLPRUgM"
+      "duration_ms": 215066,
+      "name": "Coconut Lips",
+      "url": "https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV"
     },
     {
       "added_at": "2025-06-20 07:45:33",

@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 836898,
+  "num_followers": 837202,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "The Double Album",
+        "url": "https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a"
+      },
+      "artists": [
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        }
+      ],
+      "duration_ms": 313120,
+      "name": "Lizard",
+      "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Not Over Yet '99 (feat. Grace)",
         "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 214266,
       "name": "Not Over Yet '99 - Radio Edit",
       "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "The Double Album",
-        "url": "https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a"
-      },
-      "artists": [
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        }
-      ],
-      "duration_ms": 313120,
-      "name": "Lizard",
-      "url": "https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt"
     },
     {
       "added_at": "2024-07-23 09:55:55",

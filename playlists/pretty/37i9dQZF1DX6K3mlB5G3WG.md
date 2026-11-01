@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Lucio Corsi in versione Napoleone in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,316 likes - 107 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,321 likes - 107 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Napoleone Buonanotte](https://open.spotify.com/track/2JbvlE5JTHu5ZE0evugA6I) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Napoleone Buonanotte](https://open.spotify.com/album/7yTyZ9574u0BgRhpeQt9rM) | 3:35 |
 | 2 | [Eri solo da incontrare](https://open.spotify.com/track/1G7rRciOGpVMJojr6ROuKv) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Eri solo da incontrare](https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg) | 2:58 |
-| 3 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 3 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 4 | [PA' QUE LLORAR](https://open.spotify.com/track/2MWLMgTRRnV5cZm9VVYyTh) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [LA POSTAL](https://open.spotify.com/album/3mfhO7yPczONj4ymNVWoG1) | 3:04 |
 | 5 | [la verità](https://open.spotify.com/track/12aQbTyM4034Ej1N4MI5oq) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [la verità](https://open.spotify.com/album/1PK6S1hTvkcxA4qynbWML5) | 3:05 |
 | 6 | [Una spada nella roccia](https://open.spotify.com/track/3LXnxu7Eiu6ThZApudc52a) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Magia Bianca, Magia Nera](https://open.spotify.com/album/1A5BFtt4pcKnJy0qAHvUDE) | 3:45 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 37 | [Butterflies](https://open.spotify.com/track/5Rt6sNo8sARFYCUQSgflPm) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Trust EP](https://open.spotify.com/album/2xKS6ZzrQvWQ9aE1ykZwZa) | 3:33 |
 | 38 | [Overthinker](https://open.spotify.com/track/2b8BZIE6VefboEkZMrNhRX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Overthinker](https://open.spotify.com/album/2vKqcQXs8Rvrcvb2vEgn8Q) | 3:40 |
 | 39 | [Much Love](https://open.spotify.com/track/4NQt1ZiyEhZtVV2MWXi7BL) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Surface, Echo & Sound](https://open.spotify.com/album/1kFTis4C1qmlRNK9jph1qC) | 4:18 |
-| 40 | [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
+| 40 | [PANGEA](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [PANGEA](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
 | 41 | [Tarantino](https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 2:51 |
 | 42 | [do the math](https://open.spotify.com/track/4brpx6ZUKRDaEJZvbbBMl8) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [do the math](https://open.spotify.com/album/47h8egYsKcWi6oRDc0cZIR) | 3:06 |
 | 43 | [Amateur \(feat\. Salmo\)](https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Amateur](https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t) | 4:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 14 | [Potential](https://open.spotify.com/track/7N3MtUnlmXlrNe9Zs85Qjy) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 1:34 |
 | 15 | [TRISOM3 \(feat\. SadBoi\)](https://open.spotify.com/track/4DEPnZFoD6Rvn10eCclYUl) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [OUT THE BOX](https://open.spotify.com/album/7Lj5h2O1VukJS4rOl5amSD) | 2:33 |
 | 16 | [THERAPIST](https://open.spotify.com/track/6NNHjz7NGblXyvh3aQH5Ow) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [THERAPIST](https://open.spotify.com/album/6tVAcTDtnax17x6U6rpcQp) | 2:30 |
-| 17 | [Bitches Over Boys](https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Bitches Over Boys](https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN) | 2:27 |
+| 17 | [Gameboi](https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gameboi](https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S) | 2:33 |
 | 18 | [Baddies](https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:53 |
-| 19 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 |
-| 20 | [Gameboi](https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gameboi](https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S) | 2:33 |
+| 19 | [Bitches Over Boys](https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Bitches Over Boys](https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN) | 2:27 |
+| 20 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 |
 | 21 | [fashion week](https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [fashion week](https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl) | 1:54 |
 | 22 | [Slide](https://open.spotify.com/track/7EbUV6hKg8hFpOQKFMzmJu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:09 |
 | 23 | [All My Girls](https://open.spotify.com/track/6kNmSSRM2fRII7zjFGjzyB) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 2:11 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 42 | [U Dun Kno](https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [U Dun Kno](https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR) | 2:26 |
 | 43 | [Easy Go! \- SadBoi Remix](https://open.spotify.com/track/3ZCXPRcZHn9vzc3Gr5374j) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Easy Go! \(SadBoi Remix\)](https://open.spotify.com/album/52Yo3AMJWez7caHauDDhT9) | 2:30 |
 | 44 | [Gyal Clown](https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gyal Clown](https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h) | 2:16 |
-| 45 | [GRACIAS \- Remix](https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [GRACIAS \(Remix\)](https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS) | 2:26 |
-| 46 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 |
-| 47 | [DAMAGE](https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy) | [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [METAL TAIL](https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1) | 2:58 |
-| 48 | [nana](https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:29 |
-| 49 | [whose fault](https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [whose fault](https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz) | 2:06 |
-| 50 | [Ms\. Do You Wrong](https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Ms\. Do You Wrong](https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW) | 1:53 |
+| 45 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 |
+| 46 | [DAMAGE](https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy) | [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [METAL TAIL](https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1) | 2:58 |
+| 47 | [GRACIAS \- Remix](https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [GRACIAS \(Remix\)](https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS) | 2:26 |
+| 48 | [whose fault](https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [whose fault](https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz) | 2:06 |
+| 49 | [nana](https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:29 |
+| 50 | [his sweater](https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [his sweater](https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV) | 2:41 |
 
-Snapshot ID: `auE7AAAAAAC/VtHUMhh6XoHYVi2HmBmU`
+Snapshot ID: `auKMgAAAAAAoso60oTO5md6b6hnxxDPN`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,122 likes - 95 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,142 likes - 95 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ajnabi](https://open.spotify.com/track/2I5LEohrRnYQhL60fnEQyu) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Ajnabi](https://open.spotify.com/album/726HPmLHK2DtpFZd5BcIgl) | 3:27 |
 | 2 | [Qasam \| Coke Studio Nu.WAV](https://open.spotify.com/track/3NzuLGv6JWOQ8qo8DnLSOd) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Qasam \| Coke Studio Nu.WAV](https://open.spotify.com/album/4q5WpIQxf8CdHmihsCJGmM) | 3:07 |
-| 3 | [Sitara](https://open.spotify.com/track/3RX4wUoLQJg0VFfOp4DIg3) | [Hassan Sheikh](https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc), [Romaisa Tariq](https://open.spotify.com/artist/75LJhOE3XJUwPa3SGJyjBm), [Ali Soomro](https://open.spotify.com/artist/21LaTM46e4X78iWHS1kvDR) | [Sitara](https://open.spotify.com/album/1qGWutcdWTG3aNjN1D480C) | 2:20 |
+| 3 | [Sitara](https://open.spotify.com/track/3RX4wUoLQJg0VFfOp4DIg3) | [Hassan Sheikh](https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc), [Romaisa Tariq](https://open.spotify.com/artist/75LJhOE3XJUwPa3SGJyjBm), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Sitara](https://open.spotify.com/album/1qGWutcdWTG3aNjN1D480C) | 2:20 |
 | 4 | [Ajnabi Nahi](https://open.spotify.com/track/6FSDqN44NhKW3ABBlOwU50) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Jibran Raheel](https://open.spotify.com/artist/5Ziai02jpq91fjNgV6mF9k), [Daud Raheel](https://open.spotify.com/artist/6NPzI9FlO53oaQmk6Yn2SG) | [Ajnabi Nahi](https://open.spotify.com/album/5WmVXRWfy9KCgfpRVVkBRh) | 2:40 |
 | 5 | [Chaandni Raat](https://open.spotify.com/track/4kO3yETDdTGTZh9hAsNIjd) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Chaandni Raat](https://open.spotify.com/album/0kR8lxCaaMxC4CSjqrKIzA) | 2:14 |
 | 6 | [Chota sa ghar](https://open.spotify.com/track/0WPZa925zcS7JQPkB63s30) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Kya tum khush ho?](https://open.spotify.com/album/2nA1nsn6xXdBoNCNheaNqA) | 4:05 |

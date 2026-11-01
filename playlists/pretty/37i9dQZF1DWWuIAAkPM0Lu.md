@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik fra bl.a\. Burhan G, Berg og Malte Ebert 🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,705 likes - 103 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,715 likes - 103 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 6 | [Det Sån'](https://open.spotify.com/track/7LoCFaIZixq1AQTShLJsI5) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw) | [Hundrede](https://open.spotify.com/album/6zlxYBA7slhD5LCB0YrZOv) | 2:00 |
 | 7 | [mine venner hader dig :\)](https://open.spotify.com/track/0Ho5wqdJQbhRhk96fhPUtl) | [Klara Vibeke](https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby) | [mine venner hader dig :\)](https://open.spotify.com/album/1fWUD5TPiYvMJnKE6vyrUe) | 2:22 |
 | 8 | [Vill Ha Dig \(Feat\. Hanna Ferm\)](https://open.spotify.com/track/1vJTlLaXQ4eUmzSbodIgh7) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Oochie](https://open.spotify.com/artist/7Itlzo9sA5kksYPzEY8fhO) | [Vill Ha Dig \(Feat\. Hanna Ferm\)](https://open.spotify.com/album/7tyhU3typ1tZg0dJjB9SdX) | 2:40 |
-| 9 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:49 |
+| 9 | [Here You Come, There You Go](https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Here You Come, There You Go](https://open.spotify.com/album/2Qj0IRHX4YllH22PNlmaBQ) | 2:50 |
 | 10 | [Problemer](https://open.spotify.com/track/77KcgHrOwfOpkuZeFQYbOd) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Problemer](https://open.spotify.com/album/4iquQrgSxvUhW3wFBlVGgW) | 1:57 |
 | 11 | [CASTING CALL](https://open.spotify.com/track/3El0PldZjIxF1olHHzhUxW) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [HOW TO QUIT SMOKING](https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg) | 1:56 |
 | 12 | [Lie For Me](https://open.spotify.com/track/1aDRD7RiHVftm63n0OLYl2) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Lie For Me](https://open.spotify.com/album/4QDH6fRQ6Wvdk4eSGo4NFB) | 2:30 |

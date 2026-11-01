@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -13772,7 +13772,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 217845,
       "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
@@ -16358,6 +16358,24 @@
       "duration_ms": 191958,
       "name": "Grapejuice",
       "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7as a Deus",
+        "url": "https://open.spotify.com/album/5AKUkiFMNtrtHoN4tmuVpb"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204195,
+      "name": "Gra\u00e7as a Deus",
+      "url": "https://open.spotify.com/track/4jbGAIetgUMoUjKTt5QUFR"
     },
     {
       "album": {
@@ -24352,10 +24370,6 @@
           "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
         },
         {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
           "name": "$CAM",
           "url": "https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei"
         },
@@ -24364,21 +24378,25 @@
           "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
         },
         {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
           "name": "Ian Durso",
           "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
         },
         {
-          "name": "DJ GB do Dick",
-          "url": "https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1"
-        },
-        {
           "name": "Dj Cabelinho de Caxias",
           "url": "https://open.spotify.com/artist/0ztADIB4LxyvhWRiFVsEzm"
+        },
+        {
+          "name": "DJ GB do Dick",
+          "url": "https://open.spotify.com/artist/6dWrS7Dgecyvff4LHvKXy1"
         }
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 103759,
       "name": "Mentira ou Verdade",
       "url": "https://open.spotify.com/track/71LFe32b7ne58NiL1jvwmp"
@@ -37792,7 +37810,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -39574,7 +39592,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

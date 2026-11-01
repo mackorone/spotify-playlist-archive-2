@@ -4,7 +4,7 @@
 
 > mostly furry
 
-593 songs - 1 day 5 hr 10 min
+598 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-11-18 |  |
 | [Bratz Doll](https://open.spotify.com/track/5KdAn7IKrAUNtnd6fhxXaK) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:04 | 2026-07-17 |  |
 | [Bring It To The Light](https://open.spotify.com/track/77BxV5aP7gQesMciiKi56S) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 1:53 | 2025-04-21 |  |
+| [Brush Yourself Off](https://open.spotify.com/track/39BtRSu4VeGp5wqAOV1iak) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:09 | 2026-10-31 |  |
 | [Bubblegum Sky \(yeahyeahyeahyeahyeahyeahyehyehyeah\)](https://open.spotify.com/track/7wXeSZUIC8t9WgP0mlCIlS) | [Pink Limb](https://open.spotify.com/artist/7FlsPowKyCKhdtHajtWTud) | [I Think I Would Look Pretty Dead](https://open.spotify.com/album/7AXFYybIHMXCiwyDBj8Ysm) | 3:20 | 2026-07-17 |  |
 | [Bullet In My Head](https://open.spotify.com/track/5DNApaEoUucYyhTgSsyf2v) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Bullet In My Head](https://open.spotify.com/album/3znxS6jPv8BoZQjdf5cwsh) | 2:25 | 2024-07-12 |  |
 | [Buttered Toast](https://open.spotify.com/track/1VBjbarikzjid4jhL4AdWe) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Buttered Toast](https://open.spotify.com/album/2nRtDQWwM4POnHzrsPAXDS) | 3:57 | 2025-01-11 |  |
@@ -251,10 +252,12 @@
 | [If I Were to Die](https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [If I Were to Die](https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3) | 3:45 | 2026-09-08 | 2026-10-12 |
 | [In The Light](https://open.spotify.com/track/1jFB7QVvVvncHpmRtOLIBb) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [In The Light](https://open.spotify.com/album/4SjQ4AdG3TpiGDdVjeXrfl) | 2:57 | 2025-02-14 |  |
 | [In Your Rain](https://open.spotify.com/track/1BWZJDDjnV0trlwD2wx19j) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [In Your Rain](https://open.spotify.com/album/4ZokxoM8A4uMm5E9i3yIBM) | 3:28 | 2025-04-24 |  |
+| [Incoherent \(Bee Sae Bai\)](https://open.spotify.com/track/23KUt4qlkKO3CbHGDV4vEO) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:20 | 2026-10-31 |  |
 | [INFAMOUS](https://open.spotify.com/track/1HgS8I7Nv49l11BJpf9j25) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [INFAMOUS](https://open.spotify.com/album/503ZXvyBTF4zuNLlR4aVon) | 2:36 | 2025-04-25 |  |
 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2024-02-07 |  |
 | [Inside of Every Demon Is a Rainbow \(From "Hazbin Hotel"\)](https://open.spotify.com/track/08WXtVwEf7rxDDguYQrPmc) | [Elsie Lovelock](https://open.spotify.com/artist/2FwUfnGsFBk5lOEMdtl7bN) | [Inside of Every Demon Is a Rainbow \(From "Hazbin Hotel"\)](https://open.spotify.com/album/2FgZCcIha9lPeNW3iQT18u) | 1:38 | 2024-05-14 |  |
 | [Instinct](https://open.spotify.com/track/7luszGFPSI7zq5ItmhTk21) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:16 | 2023-11-18 |  |
+| [Introduction: Breaking News \(feat\. Julia Meisgeier\)](https://open.spotify.com/track/0Hwa0eGrUcTIR5OY7FPkbL) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM), [Julia Meisgeier](https://open.spotify.com/artist/0KBlvG86NvNl8AiY1EBYkf) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 0:59 | 2026-10-31 |  |
 | [Introduction: I Am](https://open.spotify.com/track/1MzX7qHr2YLWOlPaC6Pw92) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 2:15 | 2026-10-20 |  |
 | [Is This A Sign](https://open.spotify.com/track/61rrHQHznP3zJMs8FUe0l2) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 1:41 | 2025-04-22 |  |
 | [IS THIS IT](https://open.spotify.com/track/1pWW3mI6kZLuec2A7FbIZ1) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAN BITES DOG](https://open.spotify.com/album/4GRPvwkbXfKXNGfrIJAGCE) | 3:57 | 2026-08-24 |  |
@@ -263,6 +266,7 @@
 | [It's How We Do](https://open.spotify.com/track/56HjiiAEMI3Htwbn5qLvFl) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:17 | 2024-07-19 |  |
 | [It's Normal](https://open.spotify.com/track/51Fh6eKnXxxfavzeI4Ejrg) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [It's Normal](https://open.spotify.com/album/1A5DWtVa5xOPkLe3X1YHOy) | 4:22 | 2024-05-23 |  |
 | [IT'S TIME](https://open.spotify.com/track/4hJAHfT4Q92Bj93RlYtCou) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 2:07 | 2026-08-24 |  |
+| [Jack of Hearts](https://open.spotify.com/track/4TGYsqn0ca4DedYQPxrQ5t) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:23 | 2026-10-31 |  |
 | [JayJay](https://open.spotify.com/track/3RBZeFw260x4gmlYYk45bm) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 4:29 | 2025-04-24 |  |
 | [Join Us for a Bite \- Remastered](https://open.spotify.com/track/1ZihB5lgvfs5k3jON9wb3s) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk), [Andrea Storm Kaden](https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU) | [Join Us for a Bite \(Remastered\)](https://open.spotify.com/album/4FAgrK2IJd0ArmoQFwKFBM) | 4:09 | 2026-10-18 |  |
 | [JuiceBox](https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [JuiceBox](https://open.spotify.com/album/7aVYiNPz1HtCitbhFBg5V2) | 2:53 | 2025-04-26 |  |
@@ -340,6 +344,7 @@
 | [Mr\. Sunfish](https://open.spotify.com/track/0YjFF1QQ3L3dNMkXHjEXFy) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Mr\. Sunfish](https://open.spotify.com/album/0QZL9MulT1oAym3qFkzlWo) | 4:48 | 2024-07-09 |  |
 | [Murder Drones](https://open.spotify.com/track/6TxZhb5ehztxGI3YCTdqIv) | [AJ Dispirito](https://open.spotify.com/artist/3GCo22R8vSTHqSP5mYM1E7) | [Murder Drones Mini Album \(Original Pilot Soundtrack\)](https://open.spotify.com/album/79tJ9OWsoal2pj7nj3Xk3O) | 1:50 | 2024-06-17 |  |
 | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/track/17iGTeBSC6VtWESUk1YqYh) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [takihasdied](https://open.spotify.com/artist/78f6bSDCZQUs8wvPREBGLE) | [MURDER EVERY 1 U KNOW!](https://open.spotify.com/album/53J2OTEVQhPTRaA8qyNaLt) | 2:05 | 2026-08-24 |  |
+| [My Friends](https://open.spotify.com/track/1F6VxHY1kEkF00zZovDSj3) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:21 | 2026-10-31 |  |
 | [My Future](https://open.spotify.com/track/2XdlvoezoK7qp94SLmIkmW) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [My Future](https://open.spotify.com/album/79mIn0EK43ln8TJ3OSbOkv) | 2:13 | 2023-12-10 |  |
 | [MY HEAD HURTS](https://open.spotify.com/track/5ub6X70itNMaShHvYauQXU) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAN BITES DOG](https://open.spotify.com/album/4GRPvwkbXfKXNGfrIJAGCE) | 2:46 | 2026-08-24 |  |
 | [My Little Monster](https://open.spotify.com/track/0JTJ1RyD5dK4LVaSCGkW1f) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Fading Away](https://open.spotify.com/album/4lKIb0JsCUBrpmAkLRPK16) | 2:04 | 2025-04-21 |  |

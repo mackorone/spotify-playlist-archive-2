@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Hockitay
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,436 likes - 89 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,439 likes - 89 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 51 | [hasty!](https://open.spotify.com/track/0yuPdnuIWmLFqme2kdYGsO) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [hasty!](https://open.spotify.com/album/738OhgTOyuNqjZXwc1wzWv) | 2:28 |
 | 52 | [confessions of a wannabe](https://open.spotify.com/track/5CYG2vpoN0O7EiOmTPIQip) | [deborah's revenge](https://open.spotify.com/artist/0JiRe9gHkNTp7TkiZyUsRF), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Sid Mason](https://open.spotify.com/artist/4ZX2ftbOclOL6CVI78CHzP) | [Two Coasts](https://open.spotify.com/album/7lIfN5nnT3MDC8kM14Qq87) | 2:37 |
 | 53 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |
-| 54 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 54 | [SMALL TOWN](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [SMALL TOWN](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 55 | [easy rider](https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [easy rider](https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH) | 3:54 |
 | 56 | [Wouldn't Say](https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Wouldn't Say](https://open.spotify.com/album/5syUY2ehWGz7LCHMnYF2wL) | 4:35 |
 | 57 | [SORRWHY?](https://open.spotify.com/track/357FgxuC1rd1hD6xaMFdVV) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [SORRWHY?](https://open.spotify.com/album/0WRhgtmNYA7zUpilegufdC) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,507 likes - 176 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,573 likes - 176 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 74 | [Unconquered \(feat\. KNEECAP\)](https://open.spotify.com/track/2U0Ib01dRj6WI6IRC3oUW8) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Everyone Gets Everything They Want](https://open.spotify.com/album/6IKkPh0dAyMdbZfC6yg0Jr) | 2:45 |
 | 75 | [Shapeshift \- The Midnight Remix](https://open.spotify.com/track/7efaaYTlFg9wUi1d1f5uGZ) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj), [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Shapeshift \(The Midnight Remix\)](https://open.spotify.com/album/7z3ngl7XCYSHM0tFiuWnH0) | 4:09 |
 | 76 | [Private Lives](https://open.spotify.com/track/1FuKAmuSC09b2xBlyVA1Ks) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Private Lives](https://open.spotify.com/album/4c2z5M8fhqX4PpS85aEltq) | 3:05 |
-| 77 | [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
+| 77 | [PANGEA](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [PANGEA](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
 | 78 | [Tulsa, OK](https://open.spotify.com/track/4lyK8sT0dLpxSBv14wtVet) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Tulsa, OK](https://open.spotify.com/album/6X5KWLkivJQ7F89na1AoQC) | 3:01 |
 | 79 | [my girl could too](https://open.spotify.com/track/6B8QswCNK3x1kSIVh4W7ml) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv), [hey hey](https://open.spotify.com/artist/5wweLa0rCB2s0kSpkUHDIe) | [Indie Movie Soundtrack](https://open.spotify.com/album/7I6MN9nGSErwluedzQpouw) | 3:09 |
 | 80 | [Jesse Latour](https://open.spotify.com/track/2ModLTmchpQUwJFA3jrcIU) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Jesse Latour / Hang Me Up To Dry \(Phantogram Version\)](https://open.spotify.com/album/3eC1TS3xPyrhAvpPcEXSyu) | 2:46 |

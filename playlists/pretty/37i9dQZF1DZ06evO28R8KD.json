@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAACkZ8fm6jVC09mqPb61IeXp",
+  "snapshot_id": "auPeAAAAAAAl01hsJDZpppNLTyDrZJet",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 386000,
-      "name": "Osaka",
-      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
+      "duration_ms": 446000,
+      "name": "Nagoya",
+      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 195080,
-      "name": "Dock",
-      "url": "https://open.spotify.com/track/3EQdsc6j5U3jV2iQ0CITNW"
+      "duration_ms": 541893,
+      "name": "Water Memory 2",
+      "url": "https://open.spotify.com/track/7rlJ6MBVAhgZEPrw58Nuda"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 541893,
-      "name": "Water Memory 2",
-      "url": "https://open.spotify.com/track/7rlJ6MBVAhgZEPrw58Nuda"
+      "duration_ms": 195080,
+      "name": "Dock",
+      "url": "https://open.spotify.com/track/3EQdsc6j5U3jV2iQ0CITNW"
     },
     {
       "added_at": null,
@@ -340,41 +340,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 446000,
-      "name": "Nagoya",
-      "url": "https://open.spotify.com/track/5VfCcjwti5OSQrq37CE9xT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Piano 2 (Mount Vision)",
-      "url": "https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cyano",
-        "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 135679,
-      "name": "Transfiguring",
-      "url": "https://open.spotify.com/track/6D4cs6khQHUuGsisLYJIFT"
+      "duration_ms": 386000,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/6AE8juZVAZWNBGPNgSPAHB"
     },
     {
       "added_at": null,
@@ -391,6 +359,38 @@
       "duration_ms": 226693,
       "name": "Flew",
       "url": "https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cyano",
+        "url": "https://open.spotify.com/album/3Pj62N3JtqsSgYs6ejCHYu"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "Inscription of Wind",
+      "url": "https://open.spotify.com/track/4xfuclNRS0Ppz942FgI9jE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Piano 2 (Mount Vision)",
+      "url": "https://open.spotify.com/track/3EVe6aUZJOeLDNSVYv60pS"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 443440,
-      "name": "Piano 1",
-      "url": "https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friend Forest",
         "url": "https://open.spotify.com/album/1rwhU2oYPJ5lR7dewhMkHj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 252656,
       "name": "Friend Forest",
       "url": "https://open.spotify.com/track/7yTiL61OsCjCkHDA6MrDO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 443440,
+      "name": "Piano 1",
+      "url": "https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 369773,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667"
+      "duration_ms": 384226,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 384226,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n"
+      "duration_ms": 369773,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667"
     },
     {
       "added_at": null,

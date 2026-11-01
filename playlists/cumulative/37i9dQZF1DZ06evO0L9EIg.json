@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 248578,
       "name": "Call Back",
       "url": "https://open.spotify.com/track/6fojXIInVEeciOMMDxIbgh"
@@ -262,6 +262,28 @@
       "duration_ms": 210106,
       "name": "Destination Unknown (From \"Adrift\" Soundtrack)",
       "url": "https://open.spotify.com/track/6TPw1o9LBXU2Afbg6u4QPQ"
+    },
+    {
+      "album": {
+        "name": "Corpus Delicti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EftdEhfHYceDP4t1BBzcW"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        },
+        {
+          "name": "Lennart Saathoff",
+          "url": "https://open.spotify.com/artist/6pxxrrgkoqTvTt1K6r56VE"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89282,
+      "name": "Die Methode Ist unfehlbar",
+      "url": "https://open.spotify.com/track/0OHEaGlwrx9bc1jx5oBN60"
     },
     {
       "album": {
@@ -410,7 +432,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 34879,
       "name": "Evening Prayer",
       "url": "https://open.spotify.com/track/7HbYa6r3Mrgz38fa4Ng25L"
@@ -570,7 +592,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 91328,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/6fWZccypNFkuqyHxDBDHsr"
@@ -980,6 +1002,24 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Pretty No More",
+      "url": "https://open.spotify.com/track/3qOVDZdAQJqg86GaxExpsq"
+    },
+    {
+      "album": {
+        "name": "Clayface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bz8ZlzTN77QCgjjDopO3M"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1036,7 +1076,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 67518,
       "name": "Route of Fear",
       "url": "https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC"

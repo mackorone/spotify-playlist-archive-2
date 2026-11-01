@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 348569,
+  "num_followers": 348602,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAABelP2myY1Rc8TuJXRJ+g3M",
+  "snapshot_id": "auKMgAAAAADcKLohwtTG9dM0u38b1ZNb",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Hold My Hand (with Akon)",
-      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Declaration",
         "url": "https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 200720,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Hold My Hand (with Akon)",
+      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beauty of Becoming",
-        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 219872,
-      "name": "Love Riddim - Remix",
-      "url": "https://open.spotify.com/track/2OYE8xM8919n4ArdfCLhpr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Blue Carpet Treatment",
         "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 178853,
       "name": "I Wanna Love You - Album Version (Edited)",
       "url": "https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Beauty of Becoming",
+        "url": "https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 219872,
+      "name": "Love Riddim - Remix",
+      "url": "https://open.spotify.com/track/2OYE8xM8919n4ArdfCLhpr"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PITCOIN",
-        "url": "https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 141496,
-      "name": "123 Back It Up",
-      "url": "https://open.spotify.com/track/1mcRAYnt5xHbR454cbfPB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 228404,
       "name": "Came To Do (feat. Akon)",
       "url": "https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PITCOIN",
+        "url": "https://open.spotify.com/album/4Lkkfpt8ZkDmw4viHHi0IM"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 141496,
+      "name": "123 Back It Up",
+      "url": "https://open.spotify.com/track/1mcRAYnt5xHbR454cbfPB1"
     }
   ],
   "unique_name": "This Is Akon",

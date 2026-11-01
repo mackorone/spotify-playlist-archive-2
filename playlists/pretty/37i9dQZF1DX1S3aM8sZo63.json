@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Plan de Escape en portada \ud83d\udcf8",
-  "num_followers": 1070268,
+  "num_followers": 1070215,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Coronar Hasta Que Amanezca (En Vivo)",
-        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 192978,
-      "name": "Por Qui\u00e9n Me Dejas - En vivo",
-      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
         "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
         "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 185642,
       "name": "Suspiros - En Vivo",
       "url": "https://open.spotify.com/track/6E5VcTGyXcUmAPCq41sLIb"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
+        "name": "Coronar Hasta Que Amanezca (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 192978,
+      "name": "Por Qui\u00e9n Me Dejas - En vivo",
+      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/3RGJOJiJk4hoKPIvtN2gzT"
-      },
-      "artists": [
-        {
-          "name": "El Chalinillo",
-          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/5osv7hD0OevtSiZBJroQCY"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
         "name": "La Que Me Bateaba",
         "url": "https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 124143,
       "name": "La Que Me Bateaba",
       "url": "https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/3RGJOJiJk4hoKPIvtN2gzT"
+      },
+      "artists": [
+        {
+          "name": "El Chalinillo",
+          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/5osv7hD0OevtSiZBJroQCY"
     },
     {
       "added_at": "2026-09-18 06:00:21",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2026-09-18 06:00:21",
       "album": {
+        "name": "Rom\u00e1ntico Incurable",
+        "url": "https://open.spotify.com/album/7KhdmbkTi55OpeFPSLNQCH"
+      },
+      "artists": [
+        {
+          "name": "COSME TADEO",
+          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Rom\u00e1ntico Incurable",
+      "url": "https://open.spotify.com/track/2Fau1qHNJKLCKHQdxxWZkI"
+    },
+    {
+      "added_at": "2026-09-18 06:00:21",
+      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 185338,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
-    },
-    {
-      "added_at": "2026-09-18 06:00:21",
-      "album": {
-        "name": "Rom\u00e1ntico Incurable",
-        "url": "https://open.spotify.com/album/7KhdmbkTi55OpeFPSLNQCH"
-      },
-      "artists": [
-        {
-          "name": "COSME TADEO",
-          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Rom\u00e1ntico Incurable",
-      "url": "https://open.spotify.com/track/2Fau1qHNJKLCKHQdxxWZkI"
     },
     {
       "added_at": "2026-09-18 06:00:21",

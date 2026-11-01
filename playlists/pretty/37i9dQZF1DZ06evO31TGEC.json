@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56370,
+  "num_followers": 56376,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAADbf7DrPZsXCV6hN6yd1oXo",
+  "snapshot_id": "auKMgAAAAAB0NetcLeYAWXCH5l3RwRee",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Terrenal",
-      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
+      "duration_ms": 203000,
+      "name": "Cuando Era Ni\u00f1o",
+      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Cuando Era Ni\u00f1o",
-      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
+      "duration_ms": 193773,
+      "name": "Terrenal",
+      "url": "https://open.spotify.com/track/64o66yfYs63e64sNqMKNJO"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Se Mueran de Envidia",
         "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ten\u00eda Due\u00f1o",
         "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
       },
@@ -491,6 +491,26 @@
       "duration_ms": 183941,
       "name": "Ten\u00eda Due\u00f1o",
       "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Aniversario Duetos",
+        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        },
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "En La Misma Cama - Dueto Con El Chapo",
+      "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
     },
     {
       "added_at": null,
@@ -523,26 +543,6 @@
       "duration_ms": 190080,
       "name": "Hola Mi Amor (Mariachi)",
       "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Aniversario Duetos",
-        "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        },
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "En La Misma Cama - Dueto Con El Chapo",
-      "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALVAJE (Version Banda)",
-        "url": "https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 178553,
-      "name": "SALVAJE - Version Banda",
-      "url": "https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 206133,
       "name": "Bendito Amor",
       "url": "https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SALVAJE (Version Banda)",
+        "url": "https://open.spotify.com/album/3AopnzNECmuubbTV1cNMEa"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 178553,
+      "name": "SALVAJE - Version Banda",
+      "url": "https://open.spotify.com/track/0xbu0O1zk8PQtwGcn8uaUn"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

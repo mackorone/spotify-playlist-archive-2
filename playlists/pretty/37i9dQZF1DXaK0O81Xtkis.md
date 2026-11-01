@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring OK MICKEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,110 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,107 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 6 | [What Would I Do?](https://open.spotify.com/track/09p59Cy2C4faahmKQGpnMU) | [Tyler Miller](https://open.spotify.com/artist/7tD6cGrcNPMfUl71KlFdBI) | [What Would I Do?](https://open.spotify.com/album/5pQDZXu1UoG0052v3mOabg) | 2:46 |
 | 7 | [Leave Me There](https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Leave Me There](https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk) | 4:16 |
 | 8 | [Shapeshifter](https://open.spotify.com/track/3aCt1z9Hpj7ptFvo3BYbJW) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Shapeshifter](https://open.spotify.com/album/14KQYuAV0YPdOOabnNSto9) | 3:22 |
-| 9 | [wasteland](https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk) | [Bana](https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM) | [wasteland](https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN) | 2:23 |
+| 9 | [wasteland](https://open.spotify.com/track/4kWXBcvzDEvg99iTGOFOrk) | [bana](https://open.spotify.com/artist/38XOjKn9WRG5LcMoiO3QIM) | [wasteland](https://open.spotify.com/album/7LCfpAnTMm6733uFfmNFFN) | 2:23 |
 | 10 | [Sad Song](https://open.spotify.com/track/5MrsWtJVzVfMQ5hWCt4BzZ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [My Midwest Best](https://open.spotify.com/album/7dk59UXUbGolU6WYsNz1N9) | 3:28 |
 | 11 | [Lucy, When You Wake Up](https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Lucy, When You Wake Up](https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0) | 3:34 |
 | 12 | [December](https://open.spotify.com/track/0fRUI9Za9WmVqnN8U2fAZ2) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [December](https://open.spotify.com/album/60cGJFX6vy6JxUODLUMJbS) | 2:22 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 37 | [Fickle](https://open.spotify.com/track/0UryFuTgfEwvpM6A7jIOG7) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Fickle](https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX) | 3:15 |
 | 38 | [Miss You Till the Morning](https://open.spotify.com/track/21J2ss4musuN0Q9coFPTKg) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Miss You Till the Morning](https://open.spotify.com/album/2G0WKg14pdkf6NQ3yAYS9s) | 2:55 |
 | 39 | [will you be coming around?](https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [will you be coming around?](https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq) | 2:49 |
-| 40 | [Wallflower](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Wallflower](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
+| 40 | [WALLFLOWER](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [WALLFLOWER](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
 | 41 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
 | 42 | [Listen When Sad](https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Listen When Sad](https://open.spotify.com/album/7DnLLXl3u6tEP5OacdKZO9) | 3:48 |
 | 43 | [Trust Issues](https://open.spotify.com/track/3x1skiBubyZ3qVZkmfKm0S) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Trust Issues](https://open.spotify.com/album/5wCMKrwR9fDu0zlrxyxy3v) | 2:50 |

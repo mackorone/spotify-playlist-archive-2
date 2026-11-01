@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 118 | [Heartwarm](https://open.spotify.com/track/17khatDZC5CqbRQrE2sgvs) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:41 |
 | 119 | [Thristy](https://open.spotify.com/track/3gBZV6SlBiEb5dHxcOeVts) | [Mandy Rain](https://open.spotify.com/artist/1QFYN51HK6w6yR54jfwbyn) | [RIOT \- EP](https://open.spotify.com/album/3nwnxwp9WnabtvBVpKzPlm) | 3:31 |
 | 120 | [Acquaintances](https://open.spotify.com/track/7oYIMx853070FPBt9eS2mz) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:53 |
-| 121 | [Stand Out](https://open.spotify.com/track/5F9u03cJgRLFLk9RjjJF0f) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Stand Out](https://open.spotify.com/album/2v2s10r7gbys7aMB0uTd6I) | 3:05 |
-| 122 | [She'll Come Around](https://open.spotify.com/track/1ZZNJ1fPGB6NjfIkaiGU8a) | [Iglu & Hartly](https://open.spotify.com/artist/3E0zaebSkY5aN4PhDcvt9C) | [She'll Come Around](https://open.spotify.com/album/5HLQhUumymoBTiea2EXoVS) | 2:21 |
+| 121 | [She'll Come Around](https://open.spotify.com/track/1ZZNJ1fPGB6NjfIkaiGU8a) | [Iglu & Hartly](https://open.spotify.com/artist/3E0zaebSkY5aN4PhDcvt9C) | [She'll Come Around](https://open.spotify.com/album/5HLQhUumymoBTiea2EXoVS) | 2:21 |
+| 122 | [Stand Out](https://open.spotify.com/track/5F9u03cJgRLFLk9RjjJF0f) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Stand Out](https://open.spotify.com/album/2v2s10r7gbys7aMB0uTd6I) | 3:05 |
 | 123 | [Finest Hour](https://open.spotify.com/track/5i6cpztx0qKfT956tyjOYL) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:43 |
 | 124 | [Deck the Halls](https://open.spotify.com/track/3ksgyvAz3nIgIzGWg4eEDx) | [More The Merrier](https://open.spotify.com/artist/1aQlo2EC95yOrrHTAuiRx3) | [Sorted Noise Records: A Holiday Album, Vol\. 4](https://open.spotify.com/album/1p0ocdphsDirTaXdXmlKdR) | 3:49 |
 | 125 | [Just Keep Believing](https://open.spotify.com/track/01FzOXaX2WKhUfYsMV1enw) | [Majesty](https://open.spotify.com/artist/7wFryXeiMbqt0vDuoUwetX) | [Just Keep Believing](https://open.spotify.com/album/1BpJ6xwEsb0sfJHCdrUYGx) | 3:38 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 134 | [Loves Come Down \- Radio](https://open.spotify.com/track/6yZvE8ntSVDXwNiHSEibKV) | [Ivan Gomez](https://open.spotify.com/artist/5EN8BXlwC3RBqaZSBT6BTD), [Nacho Chapado](https://open.spotify.com/artist/75Npu8c9MYb94u6LqZn5mv), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Audacious Summer Vol\. 1](https://open.spotify.com/album/2W3rr39x1lYWO0D3ImahYB) | 3:39 |
 | 135 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `AcgXQgAAAAAsU4c+PBWL7aLlZ0pqzAXU`
+Snapshot ID: `Acgc4gAAAAChDBWYORnOWRB+Wm/236hb`

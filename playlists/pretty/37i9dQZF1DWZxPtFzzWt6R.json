@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115990,
+  "num_followers": 116001,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -667,18 +667,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
+        "name": "Fora do Normal (Majestade) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
       },
       "artists": [
         {
           "name": "Marcos e Matteus",
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        },
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 270677,
-      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
+      "duration_ms": 225365,
+      "name": "Fora do Normal (Majestade) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
     },
     {
       "added_at": "2026-09-08 19:57:09",
@@ -755,22 +759,18 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
-        "name": "Fora do Normal (Majestade) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
+        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
       },
       "artists": [
         {
           "name": "Marcos e Matteus",
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        },
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         }
       ],
-      "duration_ms": 225365,
-      "name": "Fora do Normal (Majestade) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
+      "duration_ms": 270677,
+      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
     },
     {
       "added_at": "2026-09-08 19:57:09",

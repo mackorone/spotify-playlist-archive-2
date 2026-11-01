@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 393453,
+  "num_followers": 393516,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "auE7AAAAAAA/jOukvJ+4r6RkA53JspV7",
+  "snapshot_id": "auKMgAAAAAD0W4sh5oG3g0hZxON07el8",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "I Wait, I Wait, I Wait",
-      "url": "https://open.spotify.com/track/4F5ka6lx7RlUWGjzTIby5D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street by Street",
         "url": "https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 224098,
       "name": "Street by Street",
       "url": "https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "I Wait, I Wait, I Wait",
+      "url": "https://open.spotify.com/track/4F5ka6lx7RlUWGjzTIby5D"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "I'll Forget About You (In Time)",
-      "url": "https://open.spotify.com/track/0RRpMyf3DjSxBvwMYQVXt7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 171253,
       "name": "What Love Will Do to You",
       "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "I'll Forget About You (In Time)",
+      "url": "https://open.spotify.com/track/0RRpMyf3DjSxBvwMYQVXt7"
     },
     {
       "added_at": null,

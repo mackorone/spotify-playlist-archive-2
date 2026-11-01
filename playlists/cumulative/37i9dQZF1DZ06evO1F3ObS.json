@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 322131,
       "name": "HUMAN",
       "url": "https://open.spotify.com/track/19uKle8nv3zNh5bToLT4ij"
@@ -1266,6 +1266,28 @@
       "duration_ms": 280183,
       "name": "Weaker",
       "url": "https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3"
+    },
+    {
+      "album": {
+        "name": "Wonderer",
+        "url": "https://open.spotify.com/album/1epCToRIcaej0S2RbwU8sR"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e9\u30c0\u30fc",
+          "url": "https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255075,
+      "name": "Wonderer",
+      "url": "https://open.spotify.com/track/1Ohak4cmxlOjnvgEr7GHLz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2164,
+  "num_followers": 2166,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "No Profit",
+        "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
+      },
+      "artists": [
+        {
+          "name": "MAHA",
+          "url": "https://open.spotify.com/artist/5gPTyE1PeMWs2oVCtwY4G4"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "No Profit",
+      "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 163960,
       "name": "Healing",
       "url": "https://open.spotify.com/track/4GVbsI3QSEfA3zFukkGJu8"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "No Profit",
-        "url": "https://open.spotify.com/album/4ctjWefHbDBYal1EqWEZ8R"
-      },
-      "artists": [
-        {
-          "name": "MAHA",
-          "url": "https://open.spotify.com/artist/5gPTyE1PeMWs2oVCtwY4G4"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "No Profit",
-      "url": "https://open.spotify.com/track/2mCBVMTa6e7VcQzdvvJegO"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
-      },
-      "artists": [
-        {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Into pieces",
         "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 203190,
       "name": "Into pieces",
       "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Cowboy",
-        "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
-      },
-      "artists": [
-        {
-          "name": "De Zweefclub",
-          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
-        }
-      ],
-      "duration_ms": 150173,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Comfort on its Knees",
         "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 288952,
       "name": "Brother Please",
       "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
+      },
+      "artists": [
+        {
+          "name": "De Zweefclub",
+          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
+        }
+      ],
+      "duration_ms": 150173,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Emotionally Unavailable",
-        "url": "https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4"
-      },
-      "artists": [
-        {
-          "name": "L\u00d6NA",
-          "url": "https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9"
-        }
-      ],
-      "duration_ms": 140275,
-      "name": "Emotionally Unavailable",
-      "url": "https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Ben Het Even Kwijt",
         "url": "https://open.spotify.com/album/2GSMZjNQviDmXUFB1z7Eh8"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 165899,
       "name": "Ben Het Even Kwijt",
       "url": "https://open.spotify.com/track/2Rj2dPQqQXCYW5GSBDe7zt"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Hoofd In De Wolken",
+        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
+      },
+      "artists": [
+        {
+          "name": "Mees",
+          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
+        }
+      ],
+      "duration_ms": 135374,
+      "name": "Hoofd In De Wolken",
+      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Hoofd In De Wolken",
-        "url": "https://open.spotify.com/album/3KXk59vPwSpuXEXd1kXMu0"
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4"
       },
       "artists": [
         {
-          "name": "Mees",
-          "url": "https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI"
+          "name": "L\u00d6NA",
+          "url": "https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9"
         }
       ],
-      "duration_ms": 135374,
-      "name": "Hoofd In De Wolken",
-      "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
+      "duration_ms": 140275,
+      "name": "Emotionally Unavailable",
+      "url": "https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -883,18 +883,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
-        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+        "name": "Kleine Liefde",
+        "url": "https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t"
       },
       "artists": [
         {
-          "name": "Igor",
-          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+          "name": "Marit Nyg\u00e5rd",
+          "url": "https://open.spotify.com/artist/4FKvA5jaSSTDdt0AW0Jeqx"
+        },
+        {
+          "name": "De Medemensen",
+          "url": "https://open.spotify.com/artist/0QXL4XMo9nOXrtQGxGwfXx"
         }
       ],
-      "duration_ms": 234633,
-      "name": "Kan Ik Zoveel?",
-      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
+      "duration_ms": 131338,
+      "name": "Kleine Liefde",
+      "url": "https://open.spotify.com/track/3run92YHEJHsOa8EIttJru"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -915,22 +919,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Kleine Liefde",
-        "url": "https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t"
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
       },
       "artists": [
         {
-          "name": "Marit Nyg\u00e5rd",
-          "url": "https://open.spotify.com/artist/4FKvA5jaSSTDdt0AW0Jeqx"
-        },
-        {
-          "name": "De Medemensen",
-          "url": "https://open.spotify.com/artist/0QXL4XMo9nOXrtQGxGwfXx"
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
         }
       ],
-      "duration_ms": 131338,
-      "name": "Kleine Liefde",
-      "url": "https://open.spotify.com/track/3run92YHEJHsOa8EIttJru"
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Odesa Twilight Session (live)",
-        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
-      },
-      "artists": [
-        {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
-        }
-      ],
-      "duration_ms": 190083,
-      "name": "In My Arms - live",
-      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "leave the party . \u0741\u208a \u22b9 .",
         "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 201434,
       "name": "leave the party . \u0741\u208a \u22b9 .",
       "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Odesa Twilight Session (live)",
+        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
+      },
+      "artists": [
+        {
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+        }
+      ],
+      "duration_ms": 190083,
+      "name": "In My Arms - live",
+      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
+      },
+      "artists": [
+        {
+          "name": "The Awkward",
+          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Warm Light",
         "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Fashion Week",
-        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
-      },
-      "artists": [
-        {
-          "name": "The Awkward",
-          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "Fashion Week",
-      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Consistent",
         "url": "https://open.spotify.com/album/3rky6jOE8ShaBsHz1ss3yh"
       },
@@ -1191,6 +1191,38 @@
       "duration_ms": 175483,
       "name": "Consistent",
       "url": "https://open.spotify.com/track/78osRJwEcLUAuauxZb9MBT"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "dislocated .",
+        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
+      },
+      "artists": [
+        {
+          "name": "MOR\u00c8L",
+          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
+        }
+      ],
+      "duration_ms": 255120,
+      "name": "ozempic tears",
+      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1227,18 +1259,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+        "name": "paths of sand",
+        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
       },
       "artists": [
         {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+          "name": "xico",
+          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
+      "duration_ms": 303526,
+      "name": "chaos oasis",
+      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1255,38 +1287,6 @@
       "duration_ms": 161226,
       "name": "Vallen",
       "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "dislocated .",
-        "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
-      },
-      "artists": [
-        {
-          "name": "MOR\u00c8L",
-          "url": "https://open.spotify.com/artist/1zDUKnc1MRGN96zvLsHyqq"
-        }
-      ],
-      "duration_ms": 255120,
-      "name": "ozempic tears",
-      "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "paths of sand",
-        "url": "https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ"
-      },
-      "artists": [
-        {
-          "name": "xico",
-          "url": "https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE"
-        }
-      ],
-      "duration_ms": 303526,
-      "name": "chaos oasis",
-      "url": "https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "WEET NIET WAT JE ZIET IN MIJ",
-        "url": "https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ"
-      },
-      "artists": [
-        {
-          "name": "kruzer",
-          "url": "https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "ME HART IS OP",
-      "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "SKIN",
         "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
+        "name": "WEET NIET WAT JE ZIET IN MIJ",
+        "url": "https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ"
       },
       "artists": [
         {
-          "name": "Vonder",
-          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
+          "name": "kruzer",
+          "url": "https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY"
         }
       ],
-      "duration_ms": 310015,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
+      "duration_ms": 169846,
+      "name": "ME HART IS OP",
+      "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1387,6 +1371,22 @@
       "duration_ms": 135884,
       "name": "Love Thief",
       "url": "https://open.spotify.com/track/76qQ0F6b54MnL4FszPMeXk"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
+      },
+      "artists": [
+        {
+          "name": "Vonder",
+          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
+        }
+      ],
+      "duration_ms": 310015,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
     },
     {
       "added_at": "2026-10-20 11:45:56",

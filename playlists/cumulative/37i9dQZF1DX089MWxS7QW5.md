@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Zion.T\)
 
-682 songs - 1 day 12 hr 27 min
+683 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [LEMON \(Feat\. SOLE, MINO\)](https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [LEMON](https://open.spotify.com/album/6zfZDAVgp6WPIKkg1b0tdF) | 3:20 | 2023-03-30 | 2023-09-19 |
 | [Lemonade \(feat\. Woo\)](https://open.spotify.com/track/2FbJYBCv0fyEHNDdrVoMiL) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Lemonade \(feat\. Woo\)](https://open.spotify.com/album/4sSmFOHTd175JCHtrnOVdW) | 3:18 | 2024-04-04 | 2024-08-04 |
 | [Let me know \(Feat\. YEOHO\)](https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Trello](https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6) | 2:59 | 2023-08-16 | 2023-11-29 |
+| [Life Is Life](https://open.spotify.com/track/4SwbuL0i9XorhDoS0uP5s0) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [JOURNEY](https://open.spotify.com/album/5FXBk0VWk4OduYHMMbBn8E) | 4:08 | 2026-10-31 |  |
 | [Life is Tricky](https://open.spotify.com/track/6tO6hzQ3sjkwGsF8MWD0hi) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [When the Stars Gossip OST Part.2](https://open.spotify.com/album/4hYqvSKf2tJDrDV0o5PQo8) | 3:07 | 2025-01-24 | 2025-05-13 |
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2023-10-16 | 2024-02-23 |
 | [Light Shower](https://open.spotify.com/track/1AOLchfVKydXghmKWP0I1C) | [Muhwa](https://open.spotify.com/artist/09Mu0GD1XDpi7VZ2Tn6dvA), [noin](https://open.spotify.com/artist/6pWCQK8N23ZmydVBLSZsGH) | [Light Shower](https://open.spotify.com/album/6gdlrX9eFU9c3Ufb05TU7s) | 3:29 | 2024-10-27 | 2025-03-13 |
@@ -570,7 +571,7 @@
 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-30 | 2024-08-22 |
 | [Swear](https://open.spotify.com/track/50X1UUiTcDjq0tTybkBSot) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:20 | 2022-05-28 | 2022-07-05 |
 | [Swoosh \(feat\. DUT2\)](https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [NEWRNBERA](https://open.spotify.com/album/7CcYqPAWRlyOA5oXBOi8Zi) | 3:05 | 2023-08-17 | 2023-11-29 |
-| [T \(Feat\. George\)](https://open.spotify.com/track/7qK03HQmLzHFXWXvBMSbMy) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [T \(Feat\. George\)](https://open.spotify.com/album/06R10OehS6NkRZlho922fe) | 2:39 | 2026-06-24 |  |
+| [T \(Feat\. George\)](https://open.spotify.com/track/7qK03HQmLzHFXWXvBMSbMy) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [T \(Feat\. George\)](https://open.spotify.com/album/06R10OehS6NkRZlho922fe) | 2:39 | 2026-06-24 | 2026-11-01 |
 | [T.I.E \(Take It Easy\) \(feat\. Jay Park\)](https://open.spotify.com/track/7hQ1SBhTR46RljOL9aL2M2) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [T.I.E](https://open.spotify.com/album/2aGX7WL0WK63rCiNMZYHpN) | 2:55 | 2024-08-21 | 2024-11-30 |
 | [T.T.T \(Tell The Truth\) \(Feat\. Moon Sujin, NONE\)](https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM) | [T.T.T \(Tell The Truth\)](https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL) | 3:15 | 2023-03-27 | 2023-09-19 |
 | [Take care](https://open.spotify.com/track/6TWHnpRwa1oFvGVb4HkyHd) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Take care](https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2) | 3:00 | 2022-05-28 | 2022-07-06 |

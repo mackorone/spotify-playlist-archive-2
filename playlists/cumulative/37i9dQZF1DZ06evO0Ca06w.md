@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-198 songs - 10 hr 24 min
+199 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Kulala \- Remastered](https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:38 | 2022-10-11 | 2026-09-26 |
 | [Kwazulu \(In the Land of the Zulus\)](https://open.spotify.com/track/5PpuB6i7ZCUAfKUeAdjvWK) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [An Evening With Belafonte/Makeba](https://open.spotify.com/album/27SMV8TOEzD5NvCI6dK7Xc) | 2:33 | 2021-12-28 |  |
 | [Kwedini](https://open.spotify.com/track/3Px4fOJFnivI49Ams9hl1c) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The World of Miriam Makeba](https://open.spotify.com/album/5i8fUCReOD0nJUDUdij6um) | 2:16 | 2023-06-30 | 2023-07-02 |
-| [L'enfant et la gazelle](https://open.spotify.com/track/0Ww2bQofBruPo5w89HliKS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/7LDdXy3R3DUq6egQTODx6m) | 3:45 | 2026-10-05 |  |
+| [L'enfant et la gazelle](https://open.spotify.com/track/0Ww2bQofBruPo5w89HliKS) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/7LDdXy3R3DUq6egQTODx6m) | 3:45 | 2026-10-05 | 2026-11-01 |
 | [L'enfant et la gazelle](https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba et Bongi](https://open.spotify.com/album/5YajkUlkBaW8J3nas4Mggf) | 3:45 | 2022-10-06 | 2024-05-28 |
 | [L'enfant et la gazelle](https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Guinea Years](https://open.spotify.com/album/2bL3sBngYPOBSOwZH1A90H) | 3:45 | 2021-12-28 | 2022-10-06 |
 | [La Bushe \(Congo Bushe\)](https://open.spotify.com/track/6Bp4BqQiR7bC7rU5JCVD3a) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magnificent Miriam Makeba](https://open.spotify.com/album/2dJUPRTXIRHCv7BwnIStqJ) | 2:22 | 2022-04-09 | 2022-07-01 |
@@ -144,6 +144,7 @@
 | [Orlando](https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Mama Africa](https://open.spotify.com/album/7f02rdjxXMl4p6CVCCebmi) | 2:45 | 2022-06-05 | 2024-11-18 |
 | [Orlando](https://open.spotify.com/track/5NGvRQeTi8zSws4R90E1tL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Click Song](https://open.spotify.com/album/6PPLax0vsbSi76NKm8SCeB) | 2:46 | 2026-06-09 |  |
 | [Orlando](https://open.spotify.com/track/4isUhPHQte4HEuqOe9tNbl) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:44 | 2021-12-31 | 2022-06-04 |
+| [our father's house](https://open.spotify.com/track/0wXfRADReovX6YLx3sew8H) | [Mr\. Poetivist](https://open.spotify.com/artist/0qfszkV9QrugISOude3cH4), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [untitled country](https://open.spotify.com/album/34ccg5duQkh78vhB9ritJa) | 3:33 | 2026-11-01 |  |
 | [Owakho](https://open.spotify.com/track/7amH9rFV6MuE47dU0ujir4) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:40 | 2023-04-28 | 2023-07-26 |
 | [Oxgam](https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:04 | 2021-12-28 |  |
 | [Pata Pata \- Live Jazz in Nice](https://open.spotify.com/track/3gyzGPlYebGPj5pBDiJKnX) | [Francia Jazzline Orchestra](https://open.spotify.com/artist/274yfzdE09hEQqIrhZ9adO), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Cocktail Martini vol\. 2](https://open.spotify.com/album/66TxD1gKSbd1zcsaD2YB8g) | 3:46 | 2024-11-12 | 2025-02-03 |

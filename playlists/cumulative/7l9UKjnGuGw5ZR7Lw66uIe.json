@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "P\u00fcsk\u00fcll\u00fc Bela",
+        "url": "https://open.spotify.com/album/7JwuqOzh3IHAkd1bhfxPw8"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189034,
+      "name": "P\u00fcsk\u00fcll\u00fc Bela",
+      "url": "https://open.spotify.com/track/3O7hp7dYxhaKlfkNHsZp4u"
+    },
+    {
+      "album": {
         "name": "ALL WAVES PASS",
         "url": "https://open.spotify.com/album/57PNNEArDk6lSAnGyye4dh"
       },

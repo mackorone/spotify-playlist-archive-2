@@ -162798,6 +162798,10 @@
         {
           "name": "Stef",
           "url": "https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
         }
       ],
       "date_added": "2026-10-30",
@@ -179973,7 +179977,7 @@
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169647,
+      "duration_ms": 170582,
       "name": "Here You Come, There You Go",
       "url": "https://open.spotify.com/track/2zUjgk6YpHn78MCzkj4R5B"
     },
@@ -406847,32 +406851,6 @@
     },
     {
       "album": {
-        "name": "TIC TAC",
-        "url": "https://open.spotify.com/album/6H9kbKus1n9LP9hAx3K8Kw"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "LKAHH",
-          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
-        },
-        {
-          "name": "WAVE",
-          "url": "https://open.spotify.com/artist/7vjgPq9yW276vylr9WcIxG"
-        }
-      ],
-      "date_added": "2026-10-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132989,
-      "name": "TIC TAC",
-      "url": "https://open.spotify.com/track/3isI1xSBkR935MJSMPaF6c"
-    },
-    {
-      "album": {
         "name": "Tic Tac",
         "url": "https://open.spotify.com/album/3tHuraa8I3z6v0ggVFeuDw"
       },
@@ -406904,6 +406882,32 @@
       "duration_ms": 306866,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/5bBufICVb5pVC5zp9GqEHl"
+    },
+    {
+      "album": {
+        "name": "TIC TAC",
+        "url": "https://open.spotify.com/album/6H9kbKus1n9LP9hAx3K8Kw"
+      },
+      "artists": [
+        {
+          "name": "LKAHH",
+          "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "WAVE",
+          "url": "https://open.spotify.com/artist/7vjgPq9yW276vylr9WcIxG"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132989,
+      "name": "TIC TAC",
+      "url": "https://open.spotify.com/track/3isI1xSBkR935MJSMPaF6c"
     },
     {
       "album": {

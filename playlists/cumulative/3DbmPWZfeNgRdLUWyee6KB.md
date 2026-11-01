@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,653 songs - 4 day 0 hr 31 min
+1,654 songs - 4 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Falling Overboard](https://open.spotify.com/track/6AfWBqiJuRf4dlphj8lshD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Falling Overboard](https://open.spotify.com/album/7jELmunE3P5jU0JmzF0EcG) | 2:33 | 2025-09-23 | 2025-12-21 |
 | [False Prophet](https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG) | [Holy Island](https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m) | [False Prophet](https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x) | 4:10 | 2026-05-01 | 2026-06-05 |
 | [Fama Drama](https://open.spotify.com/track/1z9ix3duj6QUsB8Q9g7QaJ) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Fama Drama](https://open.spotify.com/album/6QiMD6Cfr3QmcpLezXr5YD) | 3:10 | 2026-04-10 | 2026-05-14 |
+| [Fang mich auf](https://open.spotify.com/track/2DtFCgX69morsn4q2rFggn) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 2:50 | 2026-10-31 |  |
 | [Fanático del Rock And Roll](https://open.spotify.com/track/7gxjjbv9dR7rE9I8FPuVPs) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll](https://open.spotify.com/album/1MHoJyg99X7SO8Jihuiwr2) | 3:01 | 2026-06-09 | 2026-07-19 |
 | [Farewell](https://open.spotify.com/track/5GdjvwCtofhDovXaAHFl2y) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Farewell](https://open.spotify.com/album/2e7IZdBUvJnb325fR5S1V2) | 4:23 | 2025-12-09 | 2026-01-05 |
 | [Favara \(Remastered\)](https://open.spotify.com/track/1SZwGBCsnyA346nh8i31Ws) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Carlo Cossu](https://open.spotify.com/artist/6L8CiWpUGlQwWVS63LMiQE) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:25 | 2023-04-20 | 2025-11-29 |

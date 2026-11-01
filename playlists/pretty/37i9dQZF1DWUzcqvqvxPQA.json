@@ -1,6 +1,6 @@
 {
   "description": "To everything there is a season so let these faith-filled songs be the soundtrack to your Fall!",
-  "num_followers": 34470,
+  "num_followers": 34477,
   "original_name": "Fall Spirit",
   "owner": {
     "name": "Spotify",
@@ -221,26 +221,6 @@
       "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
     },
     {
-      "added_at": "2026-09-18 04:00:32",
-      "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
-      },
-      "artists": [
-        {
-          "name": "Alex Jude",
-          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
-        },
-        {
-          "name": "Drake White",
-          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
-        }
-      ],
-      "duration_ms": 235446,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
-    },
-    {
       "added_at": "2025-11-16 03:48:58",
       "album": {
         "name": "God Is Faithful",
@@ -259,6 +239,26 @@
       "duration_ms": 231083,
       "name": "God Is Faithful",
       "url": "https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH"
+    },
+    {
+      "added_at": "2026-09-18 04:00:32",
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
+      },
+      "artists": [
+        {
+          "name": "Alex Jude",
+          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+        },
+        {
+          "name": "Drake White",
+          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+        }
+      ],
+      "duration_ms": 235446,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
     },
     {
       "added_at": "2026-09-18 04:00:32",

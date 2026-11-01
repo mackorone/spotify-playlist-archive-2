@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Kelissa",
-  "num_followers": 1092364,
+  "num_followers": 1092285,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -555,42 +555,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Love That Don't Change",
-        "url": "https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe"
-      },
-      "artists": [
-        {
-          "name": "Jesse Royal",
-          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
-        },
-        {
-          "name": "Zion I Kings",
-          "url": "https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj"
-        }
-      ],
-      "duration_ms": 196801,
-      "name": "Love That Don't Change",
-      "url": "https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
-        "name": "Cool Down",
-        "url": "https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 242230,
-      "name": "Cool Down",
-      "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Diamonds and Gold",
         "url": "https://open.spotify.com/album/15muGQPID5opsEsRptvSDz"
       },
@@ -611,6 +575,42 @@
       "duration_ms": 227495,
       "name": "Diamonds and Gold",
       "url": "https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Cool Down",
+        "url": "https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 242230,
+      "name": "Cool Down",
+      "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Love That Don't Change",
+        "url": "https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe"
+      },
+      "artists": [
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Zion I Kings",
+          "url": "https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj"
+        }
+      ],
+      "duration_ms": 196801,
+      "name": "Love That Don't Change",
+      "url": "https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 198362,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 173251,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 198362,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Rotation",
-        "url": "https://open.spotify.com/album/5P4uTvKPmT9QeETRf0Aj72"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 167097,
-      "name": "Rotation",
-      "url": "https://open.spotify.com/track/3trwITwxHvA1czm7s2OYc3"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Too Late to Lie",
         "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/5P4uTvKPmT9QeETRf0Aj72"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 167097,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/3trwITwxHvA1czm7s2OYc3"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 225168,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -951,6 +935,22 @@
       "duration_ms": 209856,
       "name": "Rose Petal",
       "url": "https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Pilates",
-        "url": "https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs"
-      },
-      "artists": [
-        {
-          "name": "Cashh",
-          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "Pilates",
-      "url": "https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Perfectly With You",
         "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 212307,
       "name": "Perfectly With You",
       "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Pilates",
+        "url": "https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs"
+      },
+      "artists": [
+        {
+          "name": "Cashh",
+          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "Pilates",
+      "url": "https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
-      },
-      "artists": [
-        {
-          "name": "Iotosh",
-          "url": "https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log"
-        }
-      ],
-      "duration_ms": 202701,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
-    },
-    {
-      "added_at": "2026-07-29 10:12:11",
-      "album": {
         "name": "Set up Shop, Vol. 4",
         "url": "https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 176000,
       "name": "40 Days & 40 Nights (Pt. 2)",
       "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
+    },
+    {
+      "added_at": "2026-07-29 10:12:11",
+      "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE"
+      },
+      "artists": [
+        {
+          "name": "Iotosh",
+          "url": "https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log"
+        }
+      ],
+      "duration_ms": 202701,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
     }
   ],
   "unique_name": "Irie",

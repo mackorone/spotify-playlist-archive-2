@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 600898,
+  "num_followers": 601022,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Para Que Volver (Remix)",
         "url": "https://open.spotify.com/album/14Zy4BPJID3Ft96E7K8Pt6"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 188281,
       "name": "Para Que Volver - Remix",
       "url": "https://open.spotify.com/track/3ZLRy52cQ3qYw34XsZgUTA"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "De Culo",
-        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 275356,
-      "name": "El reloj cu cu",
-      "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 176144,
       "name": "BM | DJ TAO Turreo Sessions #17",
       "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "De Culo",
+        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 275356,
+      "name": "El reloj cu cu",
+      "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Ritmo Sustancia",
-        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Estoy de Nuevo",
-      "url": "https://open.spotify.com/track/3GcdJ5OfdILjl9qBuOMapT"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 239493,
       "name": "La Canci\u00f3n Del Yuta",
       "url": "https://open.spotify.com/track/3WL1JRWYnfjqpfz8gHqcgL"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Ritmo Sustancia",
+        "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Estoy de Nuevo",
+      "url": "https://open.spotify.com/track/3GcdJ5OfdILjl9qBuOMapT"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
-        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Fog\u00f3n",
-      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
+        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Fog\u00f3n",
+      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Y Pinto... El Arrebato Guacho",
         "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 191866,
       "name": "Te Robas Mis Suspiros",
       "url": "https://open.spotify.com/track/5BQnViSKPHwCeHnMqVFDZH"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
     },
     {
       "added_at": "2026-06-23 12:55:07",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-06-23 12:55:07",
       "album": {
-        "name": "La danza del tabl\u00f3n",
-        "url": "https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv"
-      },
-      "artists": [
-        {
-          "name": "Guach\u00edn",
-          "url": "https://open.spotify.com/artist/79yjQ1ZSsudCW4bfGRcoGM"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "La danza del tabl\u00f3n",
-      "url": "https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL"
-    },
-    {
-      "added_at": "2026-06-23 12:55:07",
-      "album": {
         "name": "Entre el Cielo y el Infierno",
         "url": "https://open.spotify.com/album/250mLLNWXNkT4LrFR2Sfb6"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 188758,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/1qf4VMmKaRIEcCoMpOEGQE"
+    },
+    {
+      "added_at": "2026-06-23 12:55:07",
+      "album": {
+        "name": "La danza del tabl\u00f3n",
+        "url": "https://open.spotify.com/album/2UQr6PiUDNXOwcqL51Nimv"
+      },
+      "artists": [
+        {
+          "name": "Guach\u00edn",
+          "url": "https://open.spotify.com/artist/79yjQ1ZSsudCW4bfGRcoGM"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "La danza del tabl\u00f3n",
+      "url": "https://open.spotify.com/track/0fJ4Ovj14Cy6buunOqWcGL"
     },
     {
       "added_at": "2026-06-23 12:55:07",

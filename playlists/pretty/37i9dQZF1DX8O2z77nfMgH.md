@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,942 likes - 61 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,877 likes - 61 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 4 | [Obsesión](https://open.spotify.com/track/3oM6LqE3l50ytT5W9Vt3Xr) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Obsesión](https://open.spotify.com/album/0HimDRgSepWqLvbpqU2kTv) | 2:30 |
 | 5 | [BAILAR O MORIR](https://open.spotify.com/track/1B5WEv8pZo1KpMOyruKK6Y) | [BOM](https://open.spotify.com/artist/5px62tDd6w9qqJ90EJigAa), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [BAILAR O MORIR](https://open.spotify.com/album/4666SViPubDIsqw5300oiR) | 2:34 |
 | 6 | [Si Caminas Solo..](https://open.spotify.com/track/1bkxVXQz5n3fs8ksEbyRMI) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Caminas Solo..](https://open.spotify.com/album/6TYwNPMbibPwCT13NGWtD8) | 2:14 |
-| 7 | [Guayarte](https://open.spotify.com/track/6BHLoleSo5SysgBHAwc7LP) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Guayarte](https://open.spotify.com/album/1m4x6rqcxaiLUhvzYJUlSe) | 2:45 |
+| 7 | [Guayarte](https://open.spotify.com/track/6BHLoleSo5SysgBHAwc7LP) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Guayarte](https://open.spotify.com/album/1m4x6rqcxaiLUhvzYJUlSe) | 2:45 |
 | 8 | [PKTD](https://open.spotify.com/track/21SjZxg26hGe3cDssrALSj) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Ag Daddy](https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1) | [PKTD](https://open.spotify.com/album/2AeQy5PRIagYpQXMTgC2ug) | 3:12 |
 | 9 | [Lo Mismo Que a Mí](https://open.spotify.com/track/0iECkn9x3dYwQzEY6WmOhk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [La Morelo](https://open.spotify.com/album/5V2xcWQXx5wFITRnzeFoyI) | 3:06 |
 | 10 | [BRINCAITO](https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [BRINCAITO](https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4) | 2:04 |

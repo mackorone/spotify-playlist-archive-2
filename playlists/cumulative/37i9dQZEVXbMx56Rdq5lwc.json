@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "69 Danguje",
+        "url": "https://open.spotify.com/album/0T7CYbDkGxBO43qC4mkr8T"
+      },
+      "artists": [
+        {
+          "name": "69 Danguje",
+          "url": "https://open.spotify.com/artist/7GWKbGPixqCtZrYiacoPbk"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264973,
+      "name": "9 Danguj",
+      "url": "https://open.spotify.com/track/33dMo4BSIgWQdr1CGzS0so"
+    },
+    {
+      "album": {
         "name": "9 Padang\u0117s",
         "url": "https://open.spotify.com/album/0kRjurbPCj0oi0jjfgVsu7"
       },
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 197640,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq"
@@ -23610,7 +23628,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 256693,
       "name": "Laikas Keistis",
       "url": "https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8"
@@ -39980,7 +39998,7 @@
       ],
       "date_added": "2026-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 142613,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
@@ -40002,6 +40020,24 @@
       "duration_ms": 142627,
       "name": "Shotta's.",
       "url": "https://open.spotify.com/track/0NAAyTJAWiEcf1BnOAps5d"
+    },
+    {
+      "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/2cnHP1RKCTDYKyrRByy69K"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142654,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/33axDfLPMYX5nsFQcAnpZe"
     },
     {
       "album": {
@@ -41580,7 +41616,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -42694,7 +42730,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-31",
+      "date_removed": null,
       "duration_ms": 129600,
       "name": "Suged\u0119s Telefonas",
       "url": "https://open.spotify.com/track/5zhkKaVAIZabyfDavt0odR"
@@ -52398,7 +52434,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 225750,
       "name": "\u041c\u0430\u043b\u043e \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/0nlAuSXPTsT3ws2zeNzI7K"

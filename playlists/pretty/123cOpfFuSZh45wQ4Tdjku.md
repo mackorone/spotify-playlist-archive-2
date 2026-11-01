@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,310 likes - 580 songs - 1 day 4 hr 40 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,310 likes - 585 songs - 1 day 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -588,5 +588,10 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 578 | [President of the United States of Dance](https://open.spotify.com/track/0Y9vWBv6jrhIz9RD7zjLYj) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:24 |
 | 579 | [Our Time Will Come](https://open.spotify.com/track/6JTsSYXzHuuaqx85RwGRxF) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:46 |
 | 580 | [AlterHuman](https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z) | [Autumn J.](https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW) | [AlterHuman](https://open.spotify.com/album/3d0H87jQp62ycZXhCzHlau) | 2:33 |
+| 581 | [Introduction: Breaking News \(feat\. Julia Meisgeier\)](https://open.spotify.com/track/0Hwa0eGrUcTIR5OY7FPkbL) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM), [Julia Meisgeier](https://open.spotify.com/artist/0KBlvG86NvNl8AiY1EBYkf) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 0:59 |
+| 582 | [Brush Yourself Off](https://open.spotify.com/track/39BtRSu4VeGp5wqAOV1iak) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:09 |
+| 583 | [Incoherent \(Bee Sae Bai\)](https://open.spotify.com/track/23KUt4qlkKO3CbHGDV4vEO) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:20 |
+| 584 | [My Friends](https://open.spotify.com/track/1F6VxHY1kEkF00zZovDSj3) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:21 |
+| 585 | [Jack of Hearts](https://open.spotify.com/track/4TGYsqn0ca4DedYQPxrQ5t) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:23 |
 
-Snapshot ID: `AAACID4OsXqHk0W6OL5FptAfTbVwEKiF`
+Snapshot ID: `AAACIYCZBjmBtyq260sqUphP4X1zGGS9`

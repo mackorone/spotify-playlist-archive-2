@@ -4837,7 +4837,7 @@
     },
     {
       "album": {
-        "name": "Gods' Got Me",
+        "name": "God's Got Me",
         "url": "https://open.spotify.com/album/6f4RmakpmsK4Lsi5UeVSQa"
       },
       "artists": [
@@ -4854,7 +4854,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186428,
-      "name": "Gods' Got Me",
+      "name": "God's Got Me",
       "url": "https://open.spotify.com/track/2vUyR4TFdNJ70Ghhkzw5jY"
     },
     {
@@ -5832,6 +5832,28 @@
       "duration_ms": 219469,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR"
+    },
+    {
+      "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/1x31MHy6JN73zg7jmtOjdc"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Hope In You (with Davido)",
+      "url": "https://open.spotify.com/track/1jVbr4dzmLdS5jWzxz0BqL"
     },
     {
       "album": {
@@ -16658,7 +16680,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"

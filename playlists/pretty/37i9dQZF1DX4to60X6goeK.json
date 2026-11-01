@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77144,
+  "num_followers": 77148,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAEOx5Zq9fuaL5oI7Oa3M5MRYG0/H",
   "tracks": [
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Feel The Vibration",
-        "url": "https://open.spotify.com/album/4L2BjQY9sslyCYkcF8CsS0"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 201847,
-      "name": "Feel The Vibration",
-      "url": "https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY"
-    },
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 213180,
       "name": "Beat On My Drum",
       "url": "https://open.spotify.com/track/5rQTAm1XAm7UKdejGZAkZF"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
+        "name": "Feel The Vibration",
+        "url": "https://open.spotify.com/album/4L2BjQY9sslyCYkcF8CsS0"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 201847,
+      "name": "Feel The Vibration",
+      "url": "https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -223,6 +223,26 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "DRACULA",
+        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "B-Line",
+          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "DRACULA",
+      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/0coZoi5RIGHl1myhhZLZi6"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 202758,
       "name": "Options",
       "url": "https://open.spotify.com/track/4owdWOLUOV9GuYxaTRIcdu"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "DRACULA",
-        "url": "https://open.spotify.com/album/20tKyz3EinIuElV9a6Esyp"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "B-Line",
-          "url": "https://open.spotify.com/artist/5w8CwLahrRAQxsLfFparQs"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "DRACULA",
-      "url": "https://open.spotify.com/track/1PrSh0ygHrdaE3kBEiuetx"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -879,18 +879,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Holy Moly (VIP)",
-        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
       },
       "artists": [
         {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
         }
       ],
-      "duration_ms": 253793,
-      "name": "Holy Moly - VIP",
-      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
+      "duration_ms": 222069,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -919,22 +923,18 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
+        "name": "Holy Moly (VIP)",
+        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
         }
       ],
-      "duration_ms": 222069,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
+      "duration_ms": 253793,
+      "name": "Holy Moly - VIP",
+      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
     },
     {
       "added_at": "2026-10-22 23:00:31",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+      },
+      "artists": [
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:31",
+      "album": {
         "name": "Outta Order",
         "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
@@ -1059,34 +1075,18 @@
     {
       "added_at": "2026-10-22 23:00:31",
       "album": {
-        "name": "Go Hard / Wednesday",
-        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
       },
       "artists": [
         {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
         }
       ],
-      "duration_ms": 267586,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
-    },
-    {
-      "added_at": "2026-10-22 23:00:31",
-      "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+      "duration_ms": 224827,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
     }
   ],
   "unique_name": "Jump Up!",

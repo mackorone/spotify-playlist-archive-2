@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Rockie Rode
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,877 likes - 229 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,822 likes - 229 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 39 | [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 |
 | 40 | [Heaven Can Wait](https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Heaven Can Wait](https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A) | 3:55 |
 | 41 | [Savior](https://open.spotify.com/track/5A6FYlGCZUl8G8twvSdUZP) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Savior](https://open.spotify.com/album/4sWbxFwZ7NQny0AnkmzkBW) | 2:41 |
-| 42 | [Pangea](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Pangea](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
+| 42 | [PANGEA](https://open.spotify.com/track/0BA0Gdyz3UK8PJC7c44lK7) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [PANGEA](https://open.spotify.com/album/7F0wEfyBPyUlHyCnXHQwiG) | 2:25 |
 | 43 | [Aldehydes and Ketones](https://open.spotify.com/track/6n9heLkoKbQu2uOQFDRPaj) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [Aldehydes and Ketones](https://open.spotify.com/album/5Tpa6kBE6UJSDo6r6mX4sH) | 4:02 |
 | 44 | [George Clanton](https://open.spotify.com/track/6HlKT4QTzvqpoSdrLCoU9L) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462) | [Unfindable Ring](https://open.spotify.com/album/414Sz4gwOqBF3jvyMMQzKu) | 4:31 |
 | 45 | [INNER CHILD](https://open.spotify.com/track/0cINKG9O5F3Tx1hKPcYZlr) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [4x4](https://open.spotify.com/album/5D8FVVVotEixYMIxoSl3cH) | 3:21 |
@@ -224,7 +224,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 214 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
 | 215 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
 | 216 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 |
-| 217 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 217 | [SMALL TOWN](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [SMALL TOWN](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 218 | [Snowburn](https://open.spotify.com/track/5AGe4sWEAZdZRxgTZRlaND) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Fell Asleep in the Sun](https://open.spotify.com/album/1a1i0MjXWGlgZoHUjUxL7D) | 3:38 |
 | 219 | [April Suzanne \- Cover Version](https://open.spotify.com/track/6u19Z263teVaAY2LFRGZQJ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [April Suzanne](https://open.spotify.com/album/02k9RZkhDfdskVGJ1NvJHt) | 3:45 |
 | 220 | [Are You Willing](https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Are You Willing](https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG) | 3:50 |

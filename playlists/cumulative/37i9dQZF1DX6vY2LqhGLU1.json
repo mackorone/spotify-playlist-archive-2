@@ -337,6 +337,32 @@
     },
     {
       "album": {
+        "name": "Angels We Have Heard On High / All Hail King Jesus",
+        "url": "https://open.spotify.com/album/00ykNRQBJm37v9Kzsf5U14"
+      },
+      "artists": [
+        {
+          "name": "Chase & Co.",
+          "url": "https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n"
+        },
+        {
+          "name": "Elevate Life Music",
+          "url": "https://open.spotify.com/artist/7zmUou9bQc2X6YFKtkFUox"
+        },
+        {
+          "name": "Whitney Craft Jones",
+          "url": "https://open.spotify.com/artist/4RoVFsaA0okp0wmL8IXvZ5"
+        }
+      ],
+      "date_added": "2026-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259054,
+      "name": "Angels We Have Heard On High / All Hail King Jesus",
+      "url": "https://open.spotify.com/track/4NhXoq1gIgFrrvZttiSpS4"
+    },
+    {
+      "album": {
         "name": "Angels We Have Heard On High / Glorious",
         "url": "https://open.spotify.com/album/4ZWsgM6j41sMElnfT3Fs0O"
       },
@@ -4436,7 +4462,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 250786,
       "name": "Peace Upon The Earth",
       "url": "https://open.spotify.com/track/2GpinY0MViDy4uWae6IJV7"

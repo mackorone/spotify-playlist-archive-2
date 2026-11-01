@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 239620,
+  "num_followers": 239697,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -682,11 +682,15 @@
         {
           "name": "thiarajxtt",
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        },
+        {
+          "name": "Hrmnn",
+          "url": "https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H"
         }
       ],
-      "duration_ms": 33245,
-      "name": "Infinite Return",
-      "url": "https://open.spotify.com/track/24sVtO6KaTmPVH3n99THBB"
+      "duration_ms": 172242,
+      "name": "Midnight Desires",
+      "url": "https://open.spotify.com/track/35imBoVE05swGqEdb17COU"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -702,15 +706,11 @@
         {
           "name": "thiarajxtt",
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        },
-        {
-          "name": "Hrmnn",
-          "url": "https://open.spotify.com/artist/2UXjykc7Mcq80EaEZVsr9H"
         }
       ],
-      "duration_ms": 172242,
-      "name": "Midnight Desires",
-      "url": "https://open.spotify.com/track/35imBoVE05swGqEdb17COU"
+      "duration_ms": 33245,
+      "name": "Infinite Return",
+      "url": "https://open.spotify.com/track/24sVtO6KaTmPVH3n99THBB"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -867,6 +867,34 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        },
+        {
+          "name": "604Blizzy",
+          "url": "https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gunda",
+      "url": "https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -935,34 +963,6 @@
       "duration_ms": 170882,
       "name": "Gulabi Pagg",
       "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        },
-        {
-          "name": "604Blizzy",
-          "url": "https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Gunda",
-      "url": "https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV"
     },
     {
       "added_at": "2026-09-11 10:46:59",

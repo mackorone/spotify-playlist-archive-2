@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: Jamie T",
-  "num_followers": 132414,
+  "num_followers": 132419,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL/gSeRA57GoyFrmwiDEBw05uYJ0",
+  "snapshot_id": "AAAAAOgoS6DMG/vatdR3fuIq/yikLLu2",
   "tracks": [
     {
       "added_at": "2026-10-23 12:49:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp"
-      },
-      "artists": [
-        {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
-        }
-      ],
-      "duration_ms": 194753,
-      "name": "Twist and Turn",
-      "url": "https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "The Rope",
         "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 190574,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/6ljdAA4873Yi5Yoj2eX2Cp"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 194753,
+      "name": "Twist and Turn",
+      "url": "https://open.spotify.com/track/5UOMZft6sAffVx7wAizAhn"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Moving Target",
-        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 195811,
-      "name": "Moving Target",
-      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Gary",
         "url": "https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 150005,
       "name": "Gary",
       "url": "https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Moving Target",
+        "url": "https://open.spotify.com/album/4CBGWqdfWqIKs8WvfjWn8z"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 195811,
+      "name": "Moving Target",
+      "url": "https://open.spotify.com/track/4AE2XU5eDmnXzQGhO3IZDt"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 204543,
       "name": "Diamond In The Dark",
       "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Pistol",
-        "url": "https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 205365,
-      "name": "Pistol",
-      "url": "https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Something To Be Said",
         "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/50WXvQbKZkvUa93FRj5FCo"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 205365,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/0tp0xw8Pd0IeJa2jz7qCWT"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
         "name": "Hurracane",
         "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
       },
@@ -1035,6 +1035,26 @@
       "duration_ms": 185572,
       "name": "Hurracane",
       "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        },
+        {
+          "name": "Fears",
+          "url": "https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT"
+        }
+      ],
+      "duration_ms": 231394,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        },
-        {
-          "name": "Fears",
-          "url": "https://open.spotify.com/artist/5W0ueLIhRR6IvnyPbnXQlT"
-        }
-      ],
-      "duration_ms": 231394,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7LuhGbsF44TtiUkGYuZNnx"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4CWgaMvmdKHqeEp62MlKqL"
       },
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Keira Knightley",
-        "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
       },
       "artists": [
         {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
         }
       ],
-      "duration_ms": 205554,
-      "name": "Keira Knightley",
-      "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
+      "duration_ms": 189534,
+      "name": "COOL",
+      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Fuck Me (I Didn\u2019t Know How To Say)",
-        "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
+        "name": "Dirty White Lies",
+        "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
       },
       "artists": [
         {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
         }
       ],
-      "duration_ms": 186786,
-      "name": "Fuck Me (I Didn\u2019t Know How To Say)",
-      "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
+      "duration_ms": 179093,
+      "name": "Dirty White",
+      "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Dirty White Lies",
-        "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
+        "name": "Fuck Me (I Didn\u2019t Know How To Say)",
+        "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
       },
       "artists": [
         {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
         }
       ],
-      "duration_ms": 179093,
-      "name": "Dirty White",
-      "url": "https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4"
+      "duration_ms": 186786,
+      "name": "Fuck Me (I Didn\u2019t Know How To Say)",
+      "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "COOL",
-        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
+        "name": "Keira Knightley",
+        "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
       },
       "artists": [
         {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
         }
       ],
-      "duration_ms": 189534,
-      "name": "COOL",
-      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
+      "duration_ms": 205554,
+      "name": "Keira Knightley",
+      "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "IGNORE THIS",
-        "url": "https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3"
+        "name": "Personality Test",
+        "url": "https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S"
       },
       "artists": [
         {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
         }
       ],
-      "duration_ms": 189850,
-      "name": "IGNORE THIS",
-      "url": "https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS"
+      "duration_ms": 140609,
+      "name": "Personality Test",
+      "url": "https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Personality Test",
-        "url": "https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S"
+        "name": "IGNORE THIS",
+        "url": "https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3"
       },
       "artists": [
         {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
         }
       ],
-      "duration_ms": 140609,
-      "name": "Personality Test",
-      "url": "https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL"
+      "duration_ms": 189850,
+      "name": "IGNORE THIS",
+      "url": "https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "In Motion",
-        "url": "https://open.spotify.com/album/0A9yLCxgbRcInKCj6p1gW1"
+        "name": "Mr & Mrs Human Race",
+        "url": "https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H"
       },
       "artists": [
         {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
         }
       ],
-      "duration_ms": 195453,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/2D7XbB8lwQDil7ot7UG5f0"
+      "duration_ms": 175853,
+      "name": "Mr & Mrs Human Race",
+      "url": "https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1363,34 +1363,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Mr & Mrs Human Race",
-        "url": "https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H"
+        "name": "In Motion",
+        "url": "https://open.spotify.com/album/0A9yLCxgbRcInKCj6p1gW1"
       },
       "artists": [
         {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
         }
       ],
-      "duration_ms": 175853,
-      "name": "Mr & Mrs Human Race",
-      "url": "https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 173987,
-      "name": "Canyons",
-      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
+      "duration_ms": 195453,
+      "name": "In Motion",
+      "url": "https://open.spotify.com/track/2D7XbB8lwQDil7ot7UG5f0"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1407,6 +1391,22 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
     },
     {
       "added_at": "2026-10-23 12:49:56",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
+        "name": "Tell It Me Straight",
+        "url": "https://open.spotify.com/album/3QnHN82D5eZz77Lt2QWMSm"
+      },
+      "artists": [
+        {
+          "name": "XL Poncho",
+          "url": "https://open.spotify.com/artist/2Jsgu3UPSWXzicWCwwZLWy"
+        }
+      ],
+      "duration_ms": 196777,
+      "name": "Tell It Me Straight",
+      "url": "https://open.spotify.com/track/2PkNbKqot8WMuqDwEssK6p"
+    },
+    {
+      "added_at": "2026-10-23 12:49:56",
+      "album": {
         "name": "sucker punch !",
         "url": "https://open.spotify.com/album/2u2RAhN8yXLb5P4Glbskgo"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Tell It Me Straight",
-        "url": "https://open.spotify.com/album/3QnHN82D5eZz77Lt2QWMSm"
-      },
-      "artists": [
-        {
-          "name": "XL Poncho",
-          "url": "https://open.spotify.com/artist/2Jsgu3UPSWXzicWCwwZLWy"
-        }
-      ],
-      "duration_ms": 196777,
-      "name": "Tell It Me Straight",
-      "url": "https://open.spotify.com/track/2PkNbKqot8WMuqDwEssK6p"
-    },
-    {
-      "added_at": "2026-10-23 12:49:56",
-      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-10-23 12:49:56",
       "album": {
-        "name": "Get Away from the Feeling",
-        "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
+        "name": "Waste Your Time On Me",
+        "url": "https://open.spotify.com/album/6U1VjOb3CAF9ROW20CvVf2"
       },
       "artists": [
         {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+          "name": "Raynor",
+          "url": "https://open.spotify.com/artist/6tPWER6b155VUhE7eIJdtb"
         }
       ],
-      "duration_ms": 230994,
-      "name": "You Change with the Seasons",
-      "url": "https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m"
+      "duration_ms": 130100,
+      "name": "Waste Your Time On Me",
+      "url": "https://open.spotify.com/track/6fxa77Av1RxYmGPlC7uYEM"
     }
   ],
   "unique_name": "Proper Belters",

@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407101,
+  "num_followers": 407110,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -959,46 +959,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Chicago - Music From The Miramax Motion Picture",
-        "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
-      },
-      "artists": [
-        {
-          "name": "Catherine Zeta-Jones",
-          "url": "https://open.spotify.com/artist/5i4JbHYkeCa702YXS68RGf"
-        },
-        {
-          "name": "Susan Misner",
-          "url": "https://open.spotify.com/artist/1q9u3sUWuAsj9R3PI61iBS"
-        },
-        {
-          "name": "Deidre Goodwin",
-          "url": "https://open.spotify.com/artist/1dAzpaZEkxAVZ77MS8hxQU"
-        },
-        {
-          "name": "Denise Faye",
-          "url": "https://open.spotify.com/artist/2m6jj1qsLtzuPPgUJuks5F"
-        },
-        {
-          "name": "Ekaterina Chtchelkanova",
-          "url": "https://open.spotify.com/artist/4PGEfPLGHCgy5DuIX1viEY"
-        },
-        {
-          "name": "Mya Harrison",
-          "url": "https://open.spotify.com/artist/3Q2mm9SU0vv12HNBPJRoV1"
-        },
-        {
-          "name": "Taye Diggs",
-          "url": "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
-        }
-      ],
-      "duration_ms": 442733,
-      "name": "Cell Block Tango",
-      "url": "https://open.spotify.com/track/28Tmk14BdrfaV2YzxpB35c"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "RENT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
       },
@@ -1039,6 +999,46 @@
       "duration_ms": 182746,
       "name": "Seasons of Love",
       "url": "https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Chicago - Music From The Miramax Motion Picture",
+        "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
+      },
+      "artists": [
+        {
+          "name": "Catherine Zeta-Jones",
+          "url": "https://open.spotify.com/artist/5i4JbHYkeCa702YXS68RGf"
+        },
+        {
+          "name": "Susan Misner",
+          "url": "https://open.spotify.com/artist/1q9u3sUWuAsj9R3PI61iBS"
+        },
+        {
+          "name": "Deidre Goodwin",
+          "url": "https://open.spotify.com/artist/1dAzpaZEkxAVZ77MS8hxQU"
+        },
+        {
+          "name": "Denise Faye",
+          "url": "https://open.spotify.com/artist/2m6jj1qsLtzuPPgUJuks5F"
+        },
+        {
+          "name": "Ekaterina Chtchelkanova",
+          "url": "https://open.spotify.com/artist/4PGEfPLGHCgy5DuIX1viEY"
+        },
+        {
+          "name": "Mya Harrison",
+          "url": "https://open.spotify.com/artist/3Q2mm9SU0vv12HNBPJRoV1"
+        },
+        {
+          "name": "Taye Diggs",
+          "url": "https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT"
+        }
+      ],
+      "duration_ms": 442733,
+      "name": "Cell Block Tango",
+      "url": "https://open.spotify.com/track/28Tmk14BdrfaV2YzxpB35c"
     },
     {
       "added_at": "2026-07-29 10:41:14",

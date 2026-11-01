@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-23",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "AGAINST ALL",
       "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
@@ -13673,6 +13673,32 @@
     },
     {
       "album": {
+        "name": "Dagestan",
+        "url": "https://open.spotify.com/album/3iC9H4iI6ptVbQrjNFfUnQ"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "triablo",
+          "url": "https://open.spotify.com/artist/7lbowexgD4KYoAZbttTGnr"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Dagestan",
+      "url": "https://open.spotify.com/track/52gG1ahhflE2zjxc5R8yCa"
+    },
+    {
+      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -15822,7 +15848,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 281443,
       "name": "Diskola Feggaria",
       "url": "https://open.spotify.com/track/3yKWUJSbDaJrgJWSu0ebAs"
@@ -18092,7 +18118,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 166875,
       "name": "Ela Poios?",
       "url": "https://open.spotify.com/track/6TgFF0enkF3Fp8h5CzXLE9"
@@ -24910,6 +24936,28 @@
       "duration_ms": 112040,
       "name": "Goulia Goulia",
       "url": "https://open.spotify.com/track/3TLb9cVNMFPMIZ7QvzPVQJ"
+    },
+    {
+      "album": {
+        "name": "GOUSTAREI",
+        "url": "https://open.spotify.com/album/0DK32gaYIFI0EUazkxq4Aj"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Babu 101",
+          "url": "https://open.spotify.com/artist/3Dlf6mlkkiYpKAvN1JxL6H"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "GOUSTAREI",
+      "url": "https://open.spotify.com/track/4lImgorP9eA6MqjZzDJVQ4"
     },
     {
       "album": {
@@ -45230,7 +45278,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 165239,
       "name": "Pagkosmia Mera Tou Psefti",
       "url": "https://open.spotify.com/track/5txHKTGMomjvH82EGzvLjA"
@@ -51534,6 +51582,24 @@
     {
       "album": {
         "name": "ROLEX",
+        "url": "https://open.spotify.com/album/7ACE5dGsCszH6ZMMTcqPE3"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "ROLEX",
+      "url": "https://open.spotify.com/track/5cmKbslP4SeZR84cMCKkyO"
+    },
+    {
+      "album": {
+        "name": "ROLEX",
         "url": "https://open.spotify.com/album/56TymD3tLnJoXvVgoz1Q13"
       },
       "artists": [
@@ -53326,7 +53392,7 @@
       ],
       "date_added": "2026-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 147600,
       "name": "SFAGEIO",
       "url": "https://open.spotify.com/track/5PCV5u3s4m9LYaLlij7FaV"
@@ -66042,7 +66108,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 172161,
       "name": "YAMAS",
       "url": "https://open.spotify.com/track/7gDcMIJpUEgVU9uLcQttTE"
@@ -66992,7 +67058,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 102400,
       "name": "\u03a4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c4\u03b7\u03c2 \u03b3\u03b5\u03b9\u03c4\u03bf\u03bd\u03b9\u03ac\u03c2 \u03c3\u03bf\u03c5",
       "url": "https://open.spotify.com/track/7t3b5jB61tGwj14IbSDVNs"

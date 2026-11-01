@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Pura música levanta muertos en compañía de Uzielito Mix
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,673 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,860 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 18 | [Nena Linda Remix](https://open.spotify.com/track/5WRxE0yHVAwm38OExe3iPZ) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Nena Linda Remix](https://open.spotify.com/album/3ImuHyxciZZOXQoXbmrnWN) | 4:04 |
 | 19 | [Diferente](https://open.spotify.com/track/3iJVNwN9JGNfpRWIgPWfqo) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [Welcome To My Crib](https://open.spotify.com/album/2LmjkhcMGxEdu0HwwJ9FhH) | 3:34 |
 | 20 | [BRINCAITO](https://open.spotify.com/track/7aRQXMcNhRpyx7oxlkLL8C) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [BRINCAITO](https://open.spotify.com/album/0WwODZwr9nuFvSDBGNeMD4) | 2:04 |
-| 21 | [Guayarte](https://open.spotify.com/track/6BHLoleSo5SysgBHAwc7LP) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Guayarte](https://open.spotify.com/album/1m4x6rqcxaiLUhvzYJUlSe) | 2:45 |
+| 21 | [Guayarte](https://open.spotify.com/track/6BHLoleSo5SysgBHAwc7LP) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Guayarte](https://open.spotify.com/album/1m4x6rqcxaiLUhvzYJUlSe) | 2:45 |
 | 22 | [¿Por Qué Terminamos?](https://open.spotify.com/track/6EGJOnJKbrcgwTdlBG4AUx) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [¿Por Qué Terminamos?](https://open.spotify.com/album/2jCrFqDrv5Cjk9ZUVTlYEF) | 3:07 |
 | 23 | [Payaso](https://open.spotify.com/track/5sDdCweW9KV0nWVF6hrdEB) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [PUGA](https://open.spotify.com/artist/22L0av42xeMpSzcpkg1qcq) | [Payaso](https://open.spotify.com/album/6HwCN4QtSeaFKrZKt1bbjQ) | 2:55 |
 | 24 | [El Malo De La Historia](https://open.spotify.com/track/1gyDbeFBr0UfSi9zJtbkwC) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [El Malo De La Historia](https://open.spotify.com/album/6Cl5HqxXhyo4CuOGRRVYGd) | 3:49 |

@@ -292,7 +292,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 255097,
       "name": "Ambition",
       "url": "https://open.spotify.com/track/1EW7alrJ6XRQrg7OlcilNT"
@@ -807,6 +807,36 @@
     },
     {
       "album": {
+        "name": "Outlaw Rydahz",
+        "url": "https://open.spotify.com/album/7nbPC8RrahFgDFFfGoUGej"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Kastro",
+          "url": "https://open.spotify.com/artist/6kbCmJmRthByySAmiqXI0c"
+        },
+        {
+          "name": "Money B",
+          "url": "https://open.spotify.com/artist/6VH75hkpvvNBk8qKVPUUwl"
+        },
+        {
+          "name": "Macadoshis",
+          "url": "https://open.spotify.com/artist/2kkqvvIFR7AE2U9qtjYgTj"
+        }
+      ],
+      "date_added": "2026-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264786,
+      "name": "Can't Kill My Pride",
+      "url": "https://open.spotify.com/track/3RHzJaQ9O2qDbUTS98cR0r"
+    },
+    {
+      "album": {
         "name": "Rounds From The K, Vol. 2",
         "url": "https://open.spotify.com/album/3Y4DCWWPo1qDhFCuU45mr2"
       },
@@ -1198,7 +1228,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 211307,
       "name": "Does Anybody Feel Me",
       "url": "https://open.spotify.com/track/4K9WdMLQ8sIGKhn0yG5fiP"
@@ -1424,7 +1454,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 198400,
       "name": "Eternal Fight",
       "url": "https://open.spotify.com/track/0M3unRyLZS5N7wa6Fapk6J"
@@ -1530,7 +1560,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 234919,
       "name": "Faith, Pt. 2 (feat. Kari Epps)",
       "url": "https://open.spotify.com/track/3Hyej4Y1jHNX6cFlRrpubA"
@@ -2060,7 +2090,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 152973,
       "name": "God Said It",
       "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
@@ -2214,7 +2244,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 237531,
       "name": "H.O.P.E 3 INTRO (feat. Young Noble)",
       "url": "https://open.spotify.com/track/1LP0BhBVdSD2b5Ztqhfmul"
@@ -2822,7 +2852,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-30",
+      "date_removed": null,
       "duration_ms": 237385,
       "name": "Jah Bless",
       "url": "https://open.spotify.com/track/4ogdl0cjsPKvRCnGY7TaG8"
@@ -4352,7 +4382,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 110026,
       "name": "Powerful",
       "url": "https://open.spotify.com/track/68Wzp5xb7394eYMoTahDbC"
@@ -4396,7 +4426,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 236042,
       "name": "Pretty Gurl (feat. Aktual, Reyfonder)",
       "url": "https://open.spotify.com/track/2wCERhYfCrRdZw60792PhH"
@@ -5516,7 +5546,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-11-01",
       "duration_ms": 198400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/3E1EgF2oFqpTJT6T2ybRGt"
@@ -5870,7 +5900,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 162563,
       "name": "Thug Poetry",
       "url": "https://open.spotify.com/track/2i7OqFzzpDjpVXcGZtdRDA"
